@@ -1,0 +1,7 @@
+
+gapru - gap
+x1 is directly/vertically above/upwards-from x2 in gravity/frame of reference x3.
+
+See also {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna}.
+
+Examples:

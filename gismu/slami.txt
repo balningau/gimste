@@ -1,0 +1,7 @@
+
+slami - 
+x1 is a quantity of/contains/is made of acid of composition x2; (adjective:) x1 is acidic.
+
+$x_2$: composition including $x_2$, which need not be complete specification.  See also {slari}, {nimre}.
+
+Examples:

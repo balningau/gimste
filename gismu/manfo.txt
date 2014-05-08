@@ -1,0 +1,7 @@
+
+manfo - 
+x1 (object/event) is uniform/homogeneous in property x2 (ka).
+
+See also {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.
+
+Examples:

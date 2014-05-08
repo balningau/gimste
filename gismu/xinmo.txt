@@ -1,0 +1,7 @@
+
+xinmo - xim
+x1 is a quantity of ink of color/pigment x2 used by writing device x3.
+
+See also {penbi}.
+
+Examples:

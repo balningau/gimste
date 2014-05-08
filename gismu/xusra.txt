@@ -1,0 +1,7 @@
+
+xusra - xus, xu'a
+x1 (agent) asserts/claims/declares x2 (du'u) is true [can be used for epistemology of authority].
+
+Also: $x_1$ states/says that/affirms/purports to know that $x_2$.  (cf. {natfe} which is propositional and non-agentive, {nupre})
+
+Examples:

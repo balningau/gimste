@@ -1,0 +1,7 @@
+
+plise - 
+x1 is an apple [fruit] of species/strain x2.
+
+See also {grute}.
+
+Examples:

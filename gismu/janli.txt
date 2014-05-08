@@ -1,0 +1,7 @@
+
+janli - jal
+x1 collides with/crashes/bumps/runs into x2.
+
+(also collide = {simjanli} for a collision between two moving objects); See also {darxi}.
+
+Examples:

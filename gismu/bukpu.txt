@@ -1,0 +1,7 @@
+
+bukpu - buk, bu'u
+x1 is an amount of cloth/fabric of type/material x2.
+
+See also {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+
+Examples:

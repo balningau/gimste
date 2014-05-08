@@ -1,0 +1,7 @@
+
+gapci - gac
+x1 is gaseous/fumes/a gas/vapor of material/composition including x2, under conditions x3.
+
+$x_3$ includes temperature and pressure.  See also {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro}, {flecu}.
+
+Examples:

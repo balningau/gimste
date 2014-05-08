@@ -1,0 +1,7 @@
+
+dugri - dug
+x1 is the logarithm of x2 with base x3.
+
+See also {tenfa}.
+
+Examples:

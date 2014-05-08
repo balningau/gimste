@@ -1,0 +1,7 @@
+
+manti - 
+x1 is an ant of species/breed x2.
+
+See also {cinki}, {jalra}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+spali - 
+x1 (agent) polishes object/surface x2 with polish x3, applied using tool x4.
+
+See also {mosra}, {sraku}, {xutla}.
+
+Examples:

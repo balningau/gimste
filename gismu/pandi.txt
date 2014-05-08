@@ -1,0 +1,7 @@
+
+pandi - pad
+x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4.
+
+See also {lerfu}, {basna}, {denpa}.
+
+Examples:

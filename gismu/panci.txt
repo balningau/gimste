@@ -1,0 +1,7 @@
+
+panci - pan
+x1 is an odor/fragrance/scent/smell emitted by x2 and detected by observer/sensor x3.
+
+An undetected emitter is odorless to the observer.  See also {nazbi}, {sumne}, {cpina}, {vrusi}.
+
+Examples:

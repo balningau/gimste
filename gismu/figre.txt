@@ -1,0 +1,7 @@
+
+figre - fig
+x1 is a fig [fruit/tree] of species/strain x2.
+
+See also {grute}.
+
+Examples:

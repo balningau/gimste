@@ -1,0 +1,7 @@
+
+klupe - lup, lu'e
+x1 is a screw [fastener] for purpose x2, threads [pitch, material] x3, frame [size, material] x4.
+
+Also bolt.  See also {korcu}, {sarlu}, {tutci}.
+
+Examples:

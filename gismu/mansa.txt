@@ -1,0 +1,7 @@
+
+mansa - 
+x1 satisfies evaluator x2 in property (ka)/state x3.
+
+See also {pajni}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+karda - 
+x1 is a card [small nearly-2-dimensional shape/form] of material x2, shape x3.
+
+($x_3$ shape default rectangular); See also {matci}, {tapla}, {plita}.
+
+Examples:

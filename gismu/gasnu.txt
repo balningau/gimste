@@ -1,0 +1,7 @@
+
+gasnu - gau
+x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2.
+
+(cf. cmavo list gau, gunka, zukte, rinka, fasnu for non-agentive events, jibri, kakne, pilno)
+
+Examples:

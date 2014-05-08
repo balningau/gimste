@@ -1,0 +1,7 @@
+
+linsi - lin
+x1 is a length of chain/links of material x2 with link properties x3.
+
+See also {skori}.
+
+Examples:

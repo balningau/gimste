@@ -1,0 +1,7 @@
+
+zivle - ziv, vle
+x1 (agent) invests resources x2 in investment x3 expecting return/profit x4 (object(s)/event).
+
+[also ties up/Risks/gambles.  $x_1$ is an investor; $x_2$ are invested assets of $x_1$; bond (= {jertervle})]; See also {prali}, {canja}, {jbera}, {dejni}, {ponse}.
+
+Examples:

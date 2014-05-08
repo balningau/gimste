@@ -1,0 +1,7 @@
+
+dzena - dze
+x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1's generation precedes x2's parents.
+
+See also {patfu}, {rirni}, {tamne}.
+
+Examples:

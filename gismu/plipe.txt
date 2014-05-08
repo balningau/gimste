@@ -1,0 +1,7 @@
+
+plipe - pip, pi'e
+x1 (agent/object) leaps/jumps/springs/bounds to x2 from x3 reaching height x4 propelled by x5.
+
+Place structure parallels klama; hence $x_4$ may be a route-like expression.  See also {bajra}, {stapa}, {cpare}, {lafti}.
+
+Examples:

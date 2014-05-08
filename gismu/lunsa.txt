@@ -1,0 +1,7 @@
+
+lunsa - lus
+x1 condenses/liquefies on/into x2 at temperature x3, pressure x4; x1 is dew/condensate on x2.
+
+See also {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
+
+Examples:

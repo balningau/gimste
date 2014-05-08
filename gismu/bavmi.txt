@@ -1,0 +1,7 @@
+
+bavmi - 
+x1 is a quantity of barley [grain] of species/strain x2.
+
+See also {gurni}.
+
+Examples:

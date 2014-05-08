@@ -1,0 +1,7 @@
+
+kancu - kac
+x1 (agent) counts the number in set x2 to be x3 [number/count] counting [off] by units x4.
+
+($x_2$ is complete set); See also {kanji}, {satci}, {merli}.
+
+Examples:

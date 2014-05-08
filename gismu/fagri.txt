@@ -1,0 +1,7 @@
+
+fagri - fag
+x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default air/oxygen).
+
+See also {jelca}, {sacki}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+banfi - 
+x1 is an amphibian of species/breed x2.
+
+See also {danlu}, {respa}.
+
+Examples:

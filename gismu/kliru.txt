@@ -1,0 +1,7 @@
+
+kliru - 
+x1 is a quantity of/contains/is made of halogen of type x2 [chlorine, fluorine, iodine, etc.].
+
+Also bromine; default chlorine. See also {xukmi}.
+
+Examples:

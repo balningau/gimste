@@ -1,0 +1,7 @@
+
+cecla - cel, ce'a
+x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion].
+
+Also: $x_1$ is a gun/launcher/cannon; $x_1$ hurls/throws/casts (more general than renro in that propulsion need not be internal to $x_1$).  See also {renro}, {danti}, {jakne}, {jbama}, {spoja}.
+
+Examples:

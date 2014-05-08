@@ -1,0 +1,7 @@
+
+jvinu - vin, ji'u
+x1 is the view/scene/panorama/sight/prospect of x2 (object/location) from point-of-view x3.
+
+Also $x_1$ is on display to $x_2$/$x_3$.  See also {catlu}, {kanla}, {viska}, {canko}, {jarco}.
+
+Examples:

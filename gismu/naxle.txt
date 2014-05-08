@@ -1,0 +1,7 @@
+
+naxle - nax, xle
+x1 is a canal/channel to x2 from x3 with route x4.
+
+$x_2$/$x_3$ may be unordered.  See also {pluta}, {rirxe}, {klaji}, {dargu}.
+
+Examples:

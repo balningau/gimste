@@ -1,0 +1,7 @@
+
+julne - ju'e
+x1 is a net/filter allowing passage of x2, prohibiting passage of x3, netting properties x4.
+
+Also sieve.  See also {komcu}, {ciste}, {jgena}.
+
+Examples:

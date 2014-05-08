@@ -1,0 +1,7 @@
+
+sinso - 
+x1 is the trigonometric sine of angle/arcsine x2.
+
+See also {tanjo}.
+
+Examples:

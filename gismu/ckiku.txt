@@ -1,0 +1,7 @@
+
+ckiku - kik
+x1 is a key fitting/releasing/opening/unlocking lock x2, and having relevant properties x3.
+
+Also $x_2$ fastener, mechanism; code key (= {termifckiku}, {kiktermifra}); $x_3$ is dependent on the type of key, but are those form properties of the key that enable it to serve the function of opening the lock - in the case of a metal key to a padlock, for example, this would be the shaft and teeth.  See also {stela}.
+
+Examples:

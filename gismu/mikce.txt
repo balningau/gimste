@@ -1,0 +1,7 @@
+
+mikce - mic
+x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4.
+
+Also medic; (adjective:) $x_1$, $x_4$ is medical; $x_2$ is a patient of $x_1$ (= selmikce for reordered places) ; $x_2$ is treated by $x_1$ person/$x_4$ treatment/method; successfully cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce, ka'orbi'o to not imply an external agent/process, though the $x_1$ and $x_4$ of mikce may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro}, {spita}.
+
+Examples:

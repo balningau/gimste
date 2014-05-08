@@ -1,0 +1,7 @@
+
+perli - per
+x1 is a pear [fruit] of species/strain x2.
+
+See also {grute}.
+
+Examples:

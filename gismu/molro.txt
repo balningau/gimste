@@ -1,0 +1,7 @@
+
+molro - mo'o
+x1 is x2 mole(s) [metric unit] in substance (default is 1) by standard x3.
+
+See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+
+Examples:

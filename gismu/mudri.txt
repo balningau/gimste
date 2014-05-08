@@ -1,0 +1,7 @@
+
+mudri - mud
+x1 is a quantity of/is made of/contains wood/lumber from tree(s) of type/species x2.
+
+See also {tricu}, {stani}.
+
+Examples:

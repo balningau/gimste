@@ -1,0 +1,7 @@
+
+lerci - lec
+x1 (event) is late by standard x2.
+
+See also {clira}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+dirce - di'e
+x1 radiates/emits x2 under conditions x3.
+
+See also {gusni}.
+
+Examples:

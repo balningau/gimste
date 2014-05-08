@@ -1,0 +1,7 @@
+
+cinfo - 
+x1 is a lion/[lioness] of species/breed x2.
+
+See also {mlatu}.
+
+Examples:

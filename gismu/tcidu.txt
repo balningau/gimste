@@ -1,0 +1,7 @@
+
+tcidu - tid
+x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader.
+
+See also {ciska}, {cukta}, {karni}.
+
+Examples:

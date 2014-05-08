@@ -1,0 +1,7 @@
+
+jinci - 
+x1 is a pair of shears/scissors for cutting x2.
+
+See also {katna}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+kicne - kic, ki'e
+x1 cushions x2 with material x3; x1 is a cushion/pillow/pad [for x2] of padding material x3.
+
+See also {ckana}, {matci}.
+
+Examples:

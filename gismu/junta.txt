@@ -1,0 +1,7 @@
+
+junta - 
+x1 is the weight of object x2 in [gravitational or other force] field x3.
+
+See also {grake}, {linto}, {tilju}, {bunda}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+litki - lik
+x1 is liquid/fluid, of composition/material including x2, under conditions x3.
+
+Conditions include temperature and pressure.  See also {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}.
+
+Examples:

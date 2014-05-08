@@ -1,0 +1,7 @@
+
+janta - jat
+x1 is an account/bill/invoice for goods/services x2, billed to x3 by x4.
+
+See also {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+cinza - 
+x1 is a/are tong(s)/chopsticks/pincers/tweezers/pliers [tool/body-part] for x2 to pinch x3.
+
+See also {tutci}.
+
+Examples:

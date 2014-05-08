@@ -1,0 +1,7 @@
+
+grute - rut
+x1 is a fruit [body-part] of species x2.
+
+See also {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise}, {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari}, {nimre}.
+
+Examples:

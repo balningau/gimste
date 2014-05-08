@@ -1,0 +1,7 @@
+
+vindu - vid
+x1 is poisonous/venomous/toxic/a toxin to x2.
+
+See also {since}.
+
+Examples:

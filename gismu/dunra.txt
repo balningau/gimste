@@ -1,0 +1,7 @@
+
+dunra - dur
+x1 is winter/wintertime [cold season] of year x2 at location x3.
+
+See also {citsi}, {crisa}, {critu}, {vensa}.
+
+Examples:

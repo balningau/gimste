@@ -1,0 +1,7 @@
+
+purci - pur, pru
+x1 is in the past of/earlier than/before x2 in time sequence; x1 is former; x2 is latter.
+
+Time ordering only (use lidne otherwise); aorist in that $x_1$ may overlap in time with $x_2$ as long as it starts before, $x_1$ starts before $x_2$ but is continuing during $x_2$ (= {cfaprucabna}); non-aorist before, i.e. $x_1$ is over/ended before $x_2$ starts (= {fampru}), $x_1$ is completed before $x_2$ starts (= {mulpru}).  See also {lidne}, {balvi}, {cabna}, {farna}.
+
+Examples:

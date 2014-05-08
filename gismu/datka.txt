@@ -1,0 +1,7 @@
+
+datka - 
+x1 is a duck/[drake] of species/breed x2.
+
+See also {cipni}.
+
+Examples:

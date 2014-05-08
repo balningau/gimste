@@ -1,0 +1,7 @@
+
+smacu - 
+x1 is a mouse of species/breed x2.
+
+See also {ratcu}.
+
+Examples:

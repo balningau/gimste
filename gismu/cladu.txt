@@ -1,0 +1,7 @@
+
+cladu - lau
+x1 is loud/noisy at observation point x2 by standard x3.
+
+See also {savru}.
+
+Examples:

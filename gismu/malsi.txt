@@ -1,0 +1,7 @@
+
+malsi - mas
+x1 is a temple/church/sanctuary/synagogue/shrine of religion x2 at location/serving area x3.
+
+$x_2$ may be event of form (... worships/pays/respect to ...), hence (metaphorically extending to) monument (= {mojmalsi}, {si'armalsi}).  See also {cevni}, {krici}, {lijda}, {ritli}.
+
+Examples:

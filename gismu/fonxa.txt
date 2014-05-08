@@ -1,0 +1,7 @@
+
+fonxa - fon
+x1 is a telephone transceiver/modem attached to system/network x2.
+
+See also {tcana}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+tigni - tig
+x1 performs x2 [performance] for/before audience x3.
+
+See also {jarco}.
+
+Examples:

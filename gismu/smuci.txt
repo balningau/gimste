@@ -1,0 +1,7 @@
+
+smuci - muc
+x1 is a spoon/scoop (tool) for use x2, made of material x3.
+
+See also {dakfu}, {forca}, {tutci}.
+
+Examples:

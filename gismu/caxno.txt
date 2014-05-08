@@ -1,0 +1,7 @@
+
+caxno - cax
+x1 is shallow in extent in direction/property x2 away from reference point x3 by standard x4.
+
+See also {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+tordu - tor, to'u
+x1 is short in dimension/direction x2 (default longest dimension) by measurement standard x3.
+
+See also {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
+
+Examples:

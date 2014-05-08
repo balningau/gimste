@@ -1,0 +1,7 @@
+
+pezli - pez
+x1 is a leaf of plant x2; x1 is foliage of x2.
+
+See also {tricu}, {papri}, {spati}.
+
+Examples:

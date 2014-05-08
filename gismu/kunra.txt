@@ -1,0 +1,7 @@
+
+kunra - kun
+x1 is/contains/is made from a mineral/ore of type/metal x2 mined from location/lode/mine x3.
+
+See also {jinme}, {bisli}, {rokci}, {jemna}.
+
+Examples:

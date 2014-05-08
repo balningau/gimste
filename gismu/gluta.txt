@@ -1,0 +1,7 @@
+
+gluta - glu
+x1 is a mitten/glove [hand and lower arm garment] of material x2.
+
+Mitten (= {degycauglu}).  See also {taxfu}.
+
+Examples:

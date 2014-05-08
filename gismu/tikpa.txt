@@ -1,0 +1,7 @@
+
+tikpa - tip
+x1 kicks [hits with x1's foot/feet x4] x2 in/at locus x3, using x1's foot/feet x4.
+
+See also {tunta}, {darxi}.
+
+Examples:

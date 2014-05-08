@@ -1,0 +1,7 @@
+
+matne - 
+x1 is a quantity of/contains butter/oleo/margarine/shortening from source x2.
+
+(adjective:) $x_1$ is buttery; an edible fat, solid but spreadable at normal temperatures; dairy butter (= {ladmatne}).  See also {grasu}, {kruji}.
+
+Examples:

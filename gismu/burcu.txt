@@ -1,0 +1,7 @@
+
+burcu - bru
+x1 is a brush for purpose x2 (event) with bristles x3.
+
+See also {komcu}, {pinsi}.
+
+Examples:

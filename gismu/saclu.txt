@@ -1,0 +1,7 @@
+
+saclu - 
+x1 (me'o) is the [decimal/binary] equivalent of fractional x2 (me'o) in base x3 (quantity).
+
+Conversion from fractions to decimal-point based notation. See also {namcu}, {frinu}.
+
+Examples:

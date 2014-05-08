@@ -1,0 +1,7 @@
+
+spisa - spi
+x1 [object/substance] is a piece/portion/lump/chunk/particle of x2 [substance].
+
+See also {pagbu}.
+
+Examples:

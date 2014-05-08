@@ -1,0 +1,7 @@
+
+tarci - tar
+x1 is a star/sun with stellar properties x2.
+
+See also {solri}, {tsani}.
+
+Examples:

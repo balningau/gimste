@@ -1,0 +1,7 @@
+
+mavji - mav
+x1 is a quantity of oats [grain] of species/strain x2.
+
+See also {gurni}.
+
+Examples:

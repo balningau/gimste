@@ -1,0 +1,7 @@
+
+plini - 
+x1 is a planet revolving around x2 with planetary characteristics x3, orbital parameters x4.
+
+See also {lunra}, {mluni}, {terdi}, {solri}, {munje}.
+
+Examples:

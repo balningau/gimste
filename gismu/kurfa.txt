@@ -1,0 +1,7 @@
+
+kurfa - kur
+x1 is a right-angled shape/form defined by set of vertices x2, dimensions x3 (default 2).
+
+Also rectangle, square, rectilinear; square (= {kubykurfa}, {pitkubykurfa}), cube (= {kurkubli}), rectangle (= {clakurfa}), rhombus/diamond (= {sa'orkurfa}, {sa'orpitkubli}).  See also {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}.
+
+Examples:

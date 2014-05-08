@@ -1,0 +1,7 @@
+
+cadzu - dzu
+x1 walks/strides/paces on surface x2 using limbs x3.
+
+See also {stapa}, {bajra}, {klama}, {litru}.
+
+Examples:

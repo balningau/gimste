@@ -1,0 +1,7 @@
+
+xalka - xal
+x1 is a quantity of/contains/is made of alcohol of type x2 from source/process x3.
+
+See also {birje}, {jikru}, {vanju}.
+
+Examples:

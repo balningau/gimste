@@ -1,0 +1,7 @@
+
+mosra - mos
+x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x3.
+
+Also $x_2$ scrubs/wipes/brushes (against) $x_3$ (= {seltermosra}); non-agentive rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}.
+
+Examples:

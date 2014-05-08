@@ -1,0 +1,7 @@
+
+derxi - dre
+x1 is a heap/pile/stack/mound/hill of materials x2 at location x3.
+
+See also {cmana}.
+
+Examples:

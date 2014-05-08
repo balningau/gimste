@@ -1,0 +1,7 @@
+
+jutsi - jut
+x1 is a species of genus x2, family x3, etc.; [open-ended tree-structure categorization].
+
+Also subspecies, order, phylum; (places do not correspond to specific levels in the hierarchy; rather, $x_1$ is at a "lower" or "bushier" part of the tree than $x_2$, $x_2$ is "lower" than $x_3$, etc.; skipping a place thus means that there is one or more known-and-unspecified levels of hierarchy between the two); not limited to Linnean animal/plant taxonomy.  See also {klesi}, {lanzu}.
+
+Examples:

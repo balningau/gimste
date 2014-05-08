@@ -1,0 +1,7 @@
+
+stasu - 
+x1 is a quantity of soup/stew/olla/olio [food] of ingredients including x2.
+
+$x_2$ is in $x_1$, an ingredient/part/component of $x_1$.  See also {sanmi}, {mixre}, {salta}, {sanso}.
+
+Examples:

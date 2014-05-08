@@ -1,0 +1,7 @@
+
+mluni - lun
+x1 is a satellite/moon orbiting x2 with characteristics x3, orbital parameters x4.
+
+See also {plini}, {solri}, {lunra}.
+
+Examples:

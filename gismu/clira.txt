@@ -1,0 +1,7 @@
+
+clira - lir
+x1 (event) is early by standard x2.
+
+See also {lerci}.
+
+Examples:

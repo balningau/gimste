@@ -1,0 +1,7 @@
+
+muzga - muz
+x1 is a museum for preserving [and possibly exhibiting] x2 at location x3.
+
+See also {citri}.
+
+Examples:

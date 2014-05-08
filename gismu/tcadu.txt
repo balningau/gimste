@@ -1,0 +1,7 @@
+
+tcadu - tca
+x1 is a town/city of metropolitan area x2, in political unit x3, serving hinterland/region x4.
+
+Also (adjective:) $x_1$ is urban.  See also {jarbu}, {nurma}, {cecmu}.
+
+Examples:

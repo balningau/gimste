@@ -1,0 +1,7 @@
+
+jinto - 
+x1 is a well/spring of fluid x2 at location x3.
+
+See also {krasi}, {djacu}, {fenra}.
+
+Examples:

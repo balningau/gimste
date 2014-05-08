@@ -1,0 +1,7 @@
+
+gerna - gen, ge'a
+x1 is the grammar/rules/defining form of language x2 for structure/text x3.
+
+See also {bangu}, {stura}, {cmavo}, {jufra}.
+
+Examples:

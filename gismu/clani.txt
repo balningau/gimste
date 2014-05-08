@@ -1,0 +1,7 @@
+
+clani - cla
+x1 is long in dimension/direction x2 (default longest dimension) by measurement standard x3.
+
+See also {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci}, {minli}, {rotsu}.
+
+Examples:

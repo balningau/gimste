@@ -1,0 +1,7 @@
+
+mekso - mek, me'o
+x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2.
+
+See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
+
+Examples:

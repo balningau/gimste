@@ -1,0 +1,7 @@
+
+nivji - niv
+x1 (agent) knits x2 [cloth/object] from yarn/thread x3.
+
+See also {cilta}, {fenso}, {jivbu}, {pijne}.
+
+Examples:

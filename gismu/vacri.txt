@@ -1,0 +1,7 @@
+
+vacri - var
+x1 is a quantity of air/normally-gaseous atmosphere of planet x2, of composition including x3.
+
+See also {gapci}, {kijno}, {trano}, {tumla}, {vasxu}, {xamsi}.
+
+Examples:

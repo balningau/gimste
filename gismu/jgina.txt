@@ -1,0 +1,7 @@
+
+jgina - gin
+x1 is a gene of creature [or locus on creature] x2 determining trait/process x3.
+
+Also chromosome = ({gincilta}, {ginpoi}).  See also {cerda}.
+
+Examples:

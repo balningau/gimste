@@ -1,0 +1,7 @@
+
+santa - 
+x1 is an umbrella/parasol shielding x2 from x3, made of material x4, supported by x5.
+
+See also {carvi}, {solri}.
+
+Examples:

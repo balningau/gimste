@@ -1,0 +1,7 @@
+
+cutne - cut
+x1 is a/the chest/thorax/upper trunk/[rib cage/breast] [body-part] of x2.
+
+See also {cnebo}, {betfu}, {xadni}, {tanxe}.
+
+Examples:

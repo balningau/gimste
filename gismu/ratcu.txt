@@ -1,0 +1,7 @@
+
+ratcu - 
+x1 is a rat of species/breed x2.
+
+See also {smacu}.
+
+Examples:

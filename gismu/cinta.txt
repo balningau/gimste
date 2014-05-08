@@ -1,0 +1,7 @@
+
+cinta - 
+x1 [material] is a paint of pigment/active substance x2, in a base of x3.
+
+See also {pixra}, {skari}.
+
+Examples:

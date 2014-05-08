@@ -1,0 +1,7 @@
+
+pastu - pas
+x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment] of material x2.
+
+Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+notci - not, noi
+x1 is a message/notice/memorandum about subject x2 from author x3 to intended audience x4.
+
+Emphasis on brevity, single or identifiable subject (contrast with xatra: the emphasis in notci is on the single or cohesively focused subject, while the audience is less defined - indeed only an 'intended' audience.  xatra need not have a single or focussed subject - its corresponding place is for 'content'); reminder/memo/note (= {mojnoi}).  See also {xatra}, {nuzba}, {mrilu}, {morji}.
+
+Examples:

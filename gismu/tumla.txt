@@ -1,0 +1,7 @@
+
+tumla - tum, tu'a
+x1 is a parcel/expanse of land at location x2; x1 is terrain.
+
+(cf. {vacri}, {xamsi}; {tutra}, which need not be land, {gugde}, {xamsi})
+
+Examples:

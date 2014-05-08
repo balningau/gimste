@@ -1,0 +1,7 @@
+
+cfine - 
+x1 is a wedge [shape/form/tool] of material x2.
+
+See also {tutci}.
+
+Examples:

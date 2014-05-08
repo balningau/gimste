@@ -1,0 +1,7 @@
+
+cradi - 
+x1 broadcasts/transmits [using radio waves] x2 via station/frequency x3 to [radio] receiver x4.
+
+Also $x_1$ is a broadcaster.  See also {tivni}, {benji}, {tcana}.
+
+Examples:

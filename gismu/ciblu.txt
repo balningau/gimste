@@ -1,0 +1,7 @@
+
+ciblu - blu
+x1 is blood/vital fluid of organism x2.
+
+See also {risna}, {flecu}.
+
+Examples:

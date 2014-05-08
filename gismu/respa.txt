@@ -1,0 +1,7 @@
+
+respa - res
+x1 is a reptile of species/breed x2.
+
+See also {danlu}, {banfi}, {since}.
+
+Examples:

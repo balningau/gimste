@@ -1,0 +1,7 @@
+
+zmiku - zmi
+x1 is automatic in function x2 under conditions x3.
+
+See also {macnu}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+skapi - kap
+x1 is a pelt/skin/hide/leather from x2.
+
+See also {pilka}, {calku}, {kerfa}.
+
+Examples:

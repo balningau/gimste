@@ -1,0 +1,7 @@
+
+brode - bo'e
+2nd assignable variable predicate (context determines place structure).
+
+No notes available.
+
+Examples:

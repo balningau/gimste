@@ -1,0 +1,7 @@
+
+pikta - 
+x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state) under conditions x4.
+
+See also {jaspu}.
+
+Examples:

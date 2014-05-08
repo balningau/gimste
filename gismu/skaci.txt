@@ -1,0 +1,7 @@
+
+skaci - 
+x1 is a skirt/kilt/dress of material x2; x1 is skirted [garment open at the bottom; not legged].
+
+A skirted garment may be full length ({pastu}), but must hang below the waist from support above or at the waist.  See also {taxfu}, {palku}.
+
+Examples:

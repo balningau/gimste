@@ -1,0 +1,7 @@
+
+radno - ra'o
+x1 is x2 radian(s) [metric unit] in angular measure (default is 1) by standard x3.
+
+Measured in degrees ({julra'o}); right ascension astronomical measurement. (= {cacryra'o}).  See also {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+
+Examples:

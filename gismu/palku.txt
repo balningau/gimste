@@ -1,0 +1,7 @@
+
+palku - pak
+x1 are pants/trousers/slacks/leggings [legged garment] of material x2.
+
+See also {taxfu}, {pastu}, {skaci}.
+
+Examples:

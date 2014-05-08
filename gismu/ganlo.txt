@@ -1,0 +1,7 @@
+
+ganlo - ga'o
+x1 (portal/passage/entrance-way) is closed/shut/not open, preventing passage/access to x2 by x3.
+
+As a doorway, but also perhaps a semi-permeable membrane.  See also {kalri}, {pagre}, {canko}, {vorme}, {zunti}.
+
+Examples:

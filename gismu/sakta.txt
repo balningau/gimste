@@ -1,0 +1,7 @@
+
+sakta - sat
+x1 is made of/contains/is a quantity of sugar [sweet edible] from source x2 of composition x3.
+
+Also sucrose, fructose, glucose, galactose, lactose, etc.; saccharine/aspartame/sugar substitute ({basysakta} or {satybasti}, {ticysakta}); $x_3$: composition including $x_3$, which need not be complete specification.  See also {silna}, {titla}.
+
+Examples:

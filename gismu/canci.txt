@@ -1,0 +1,7 @@
+
+canci - 
+x1 vanishes/disappears from location x2; x1 ceases to be observed at x2 using senses/sensor x3.
+
+Also leaves, goes away (one sense).  See also {cliva}, {ganse}, {zgana}, {lebna}, {vimcu}.
+
+Examples:

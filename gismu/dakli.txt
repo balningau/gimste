@@ -1,0 +1,7 @@
+
+dakli - 
+x1 is a sack/bag with contents x2, and of material x3.
+
+See also {daski} for pouch, {bakfu}.
+
+Examples:

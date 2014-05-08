@@ -1,0 +1,7 @@
+
+jbena - jbe
+x1 is born to x2 at time x3 [birthday] and place x4 [birthplace]; x1 is native to (fo) x4.
+
+$x_2$ bears/gives birth to $x_1$; also $x_3$: natal day.  See also {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}.
+
+Examples:

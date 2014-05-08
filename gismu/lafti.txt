@@ -1,0 +1,7 @@
+
+lafti - laf
+x1 (force) lifts/applies raising/supporting force to x2 at locus x3 in gravity well x4.
+
+($x_1$ may be an abstract); verb lift/raise/elevate (= {lafmuvgau}). See also {farlu}, {plipe}.
+
+Examples:

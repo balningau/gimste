@@ -1,0 +1,7 @@
+
+bridi - bri
+x1 (text) is a predicate relationship with relation x2 among arguments (sequence/set) x3.
+
+Also: $x_3$ are related by relation $x_2$ (= {terbri} for reordered places).  ($x_3$ is a set completely specified); See also {sumti}, {fancu}.
+
+Examples:

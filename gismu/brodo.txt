@@ -1,0 +1,7 @@
+
+brodo - 
+4th assignable variable predicate (context determines place structure).
+
+No notes available.
+
+Examples:

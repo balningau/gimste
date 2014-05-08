@@ -1,0 +1,7 @@
+
+frati - fra
+x1 reacts/responds/answers with action x2 to stimulus x3 under conditions x4; x1 is responsive.
+
+$x_3$ stimulates $x_1$ into reaction $x_2$, $x_3$ stimulates reaction $x_2$ (= {terfra} for place reordering); attempt to stimulate, prod (= {terfratoi}, {tunterfratoi}).  See also {preti}, {danfu}, {spuda}, {cpedu}, {tarti}.
+
+Examples:

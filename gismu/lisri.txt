@@ -1,0 +1,7 @@
+
+lisri - lis
+x1 is a story/tale/yarn/narrative about plot/subject/moral x2 by storyteller x3 to audience x4.
+
+Also legend; a narrative need not be fictional; $x_2$ may be merely a convention rather than a subject; also $x_3$ tells/recounts story/tale $x_1$ about $x_2$ to $x_4$ (= {selterlisri} for place reordering); note that the storyteller need not be the author.  See also {ranmi}, {cfika}, {skicu}, {prosa}, {pemci}.
+
+Examples:

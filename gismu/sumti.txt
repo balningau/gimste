@@ -1,0 +1,7 @@
+
+sumti - sum, su'i
+x1 is a/the argument of predicate/function x2 filling place x3 (kind/number).
+
+($x_1$ and $x_2$ are text); See also {bridi}, {darlu}, {gismu}.
+
+Examples:

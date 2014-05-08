@@ -1,0 +1,7 @@
+
+jinga - jig, ji'a
+x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers] in competition x4.
+
+Also: $x_1$ is a victor; $x_2$ reward; $x_3$ competitors here are opponents and in many situations, defeated/losers, vs. the set of those competing for a goal; $x_2$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyji'a}, {posyselji'a} for unambiguous semantics).   See also {cirko}, {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi}, {kargu}, {kelci}.
+
+Examples:

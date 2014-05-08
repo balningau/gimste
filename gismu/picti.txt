@@ -1,0 +1,7 @@
+
+picti - pic
+x1 is a trillionth [$10^{-12}$] of x2 in dimension/aspect x3 (default is units).
+
+Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+
+Examples:

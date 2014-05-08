@@ -1,0 +1,7 @@
+
+xruti - xru
+x1 (agent) returns x2 to origin/earlier state x3 from x4; x1 moves/gives x2 back to x3 from x4.
+
+$x_2$ goes back/reverts/Retreats. to $x_3$ (= {se'ixru} for agent self-returning to a previous location/situation: renumber places in the lujvo); ($x_3$ may be a location or a person or an event/situation; the latter may also be expressed with {krefu} or {rapli} and a causative like {rinka}/{rikygau}).  See also {benji}, {krefu}, {rapli}, {rinka}.
+
+Examples:

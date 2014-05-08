@@ -1,0 +1,7 @@
+
+kruca - kuc
+x1 intersects/crosses/traverses x2 at locus x3.
+
+See also {cripu}, {ragve}.
+
+Examples:

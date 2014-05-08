@@ -1,0 +1,7 @@
+
+karni - 
+x1 is a journal/periodical/magazine/[newspaper] with content x2 published by x3 for audience x4.
+
+$x_2$ may be a subject, but not all journals have a single subject; all have some sort of principle defining what is included, so this need not be a list.  See also {papri}, {pelji}, {tcidu}.
+
+Examples:

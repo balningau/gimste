@@ -1,0 +1,7 @@
+
+nobli - nol, no'i
+x1 is noble/aristocratic/elite/high-born/titled in/under culture/society/standard x2.
+
+Also upper-class; high/low, upper/lower are poor Lojban metaphors; note $x_2$ standard applies when the title/nobility is not recognized culture/society wide; this would include self-assumed titles.  See also {banli}.
+
+Examples:

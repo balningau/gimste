@@ -1,0 +1,7 @@
+
+lanme - lan
+x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3.
+
+See also {kanba}, {sunla}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+labno - 
+x1 is a wolf/lupine of species/breed x2.
+
+See also {gerku}.
+
+Examples:

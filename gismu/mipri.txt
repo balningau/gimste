@@ -1,0 +1,7 @@
+
+mipri - mip
+x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret; x1 hides/conceals x2.
+
+Intransitive hidden/secret, without an agent (= {selcri} or {nalterju'o}); secret (= {selmipri}).  See also {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.
+
+Examples:

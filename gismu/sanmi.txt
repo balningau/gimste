@@ -1,0 +1,7 @@
+
+sanmi - sai
+x1 (mass) is a meal composed of dishes including x2.
+
+$x_2$ is a course/dish of meal $x_1$ (= {selsai} for reordered places).  See also {barja}, {stasu}, {gusta}, {sanso}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+mrilu - mri
+x1 mails/posts [transfer via intermediary service] x2 to recipient address x3 from mailbox/post office/sender address x4 by carrier/network/system x5.
+
+Also $x_4$ post office, mailbox.  (cf. {benji} In which the medium need not be a 3rd party service/system, and $x_2$ need not consist of discrete units.  {notci}, {xatra}, {tcana})
+
+Examples:

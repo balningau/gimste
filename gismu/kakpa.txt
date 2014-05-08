@@ -1,0 +1,7 @@
+
+kakpa - 
+x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4.
+
+Also $x_1$ cuts into $x_3$ (with material removal).  See also {katna}, {plixa}, {sraku}, {canpa}, {sraku}.
+
+Examples:

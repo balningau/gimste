@@ -1,0 +1,7 @@
+
+xanto - 
+x1 is an elephant of species/breed x2.
+
+See also {mabru}, {barda}.
+
+Examples:

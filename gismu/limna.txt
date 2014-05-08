@@ -1,0 +1,7 @@
+
+limna - lim
+x1 (agent) swims in fluid x2.
+
+See also {djacu}, {fulta}, {klama}, {litru}.
+
+Examples:

@@ -1,0 +1,7 @@
+
+tcati - 
+x1 is made of/contains/is a quantity of tea brewed from leaves x2.
+
+See also {ckafi}.
+
+Examples:

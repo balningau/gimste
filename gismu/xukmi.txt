@@ -1,0 +1,7 @@
+
+xukmi - xum, xu'i
+x1 is an instance of substance/chemical/drug x2 (individual or mass) with purity x3.
+
+See also {curve}, {cidro}, {marna}, {nimre}.
+
+Examples:

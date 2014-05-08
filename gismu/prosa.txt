@@ -1,0 +1,7 @@
+
+prosa - ros, ro'a
+x1 is prose about plot/theme/subject x2 by author x3 for intended audience x4.
+
+Non-poetic written text, without intentional rhyme or meter; $x_2$ may be a convention rather than a subject.  See also {cfika}, {lisri}, {cukta}, {pemci}, {finti}.
+
+Examples:
