@@ -1,7 +1,9 @@
 
-pinfu - pif
-x1 is a prisoner/captive of x2, restrained/held/confined by means/force x3.
+Word: pinfu
+Rafsi: pif
+Definition: x1 is a prisoner/captive of x2, restrained/held/confined by means/force x3.
 
+Notes:
 See also {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}.
 
 Examples:

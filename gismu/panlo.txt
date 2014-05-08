@@ -1,7 +1,9 @@
 
-panlo - pa'o
-x1 is a slice [thin flat portion] of x2 (mass).
+Word: panlo
+Rafsi: pa'o
+Definition: x1 is a slice [thin flat portion] of x2 (mass).
 
+Notes:
 See also {spisa}, {pagbu}, {nanba}.
 
 Examples:

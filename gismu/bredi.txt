@@ -1,7 +1,9 @@
 
-bredi - red, bre
-x1 is ready/prepared for x2 (event).
+Word: bredi
+Rafsi: red, bre
+Definition: x1 is ready/prepared for x2 (event).
 
+Notes:
 See also {spaji}, {jukpa}.
 
 Examples:

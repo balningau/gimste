@@ -1,7 +1,9 @@
 
-balvi - bav
-x1 is in the future of/later than/after x2 in time sequence; x1 is latter; x2 is former.
+Word: balvi
+Rafsi: bav
+Definition: x1 is in the future of/later than/after x2 in time sequence; x1 is latter; x2 is former.
 
+Notes:
 Also sequel, succeed, successor, follow, come(s) after; time ordering only (use {lidne} otherwise); aorist in that $x_1$ may overlap in time with $x_2$ as long as it extends afterwards; non-aorist future (= {cfabalvi}); (default $x_2$ is the space time reference, whereupon:) $x_1$ will occur.  See also {lidne}, {cabna}, {purci}, {farna}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-pendo - ped, pe'o
-x1 is/acts as a friend of/to x2 (experiencer); x2 befriends x1.
+Word: pendo
+Rafsi: ped, pe'o
+Definition: x1 is/acts as a friend of/to x2 (experiencer); x2 befriends x1.
 
+Notes:
 See also {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
 
 Examples:

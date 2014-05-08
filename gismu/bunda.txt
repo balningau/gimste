@@ -1,7 +1,9 @@
 
-bunda - bud
-x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits [e.g. ounces] x4.
+Word: bunda
+Rafsi: bud
+Definition: x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits [e.g. ounces] x4.
 
+Notes:
 (additional subunit places may be added as $x_5$, $x_6$, ...); See also {grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
 
 Examples:

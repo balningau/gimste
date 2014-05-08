@@ -1,7 +1,9 @@
 
-prenu - pre
-x1 is a person/people (noun) [not necessarily human]; x1 displays personality/a persona.
+Word: prenu
+Rafsi: pre
+Definition: x1 is a person/people (noun) [not necessarily human]; x1 displays personality/a persona.
 
+Notes:
 See also {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
 
 Examples:

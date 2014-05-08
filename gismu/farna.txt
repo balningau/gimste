@@ -1,7 +1,9 @@
 
-farna - far, fa'a
-x1 is the direction of x2 (object/event) from origin/in frame of reference x3.
+Word: farna
+Rafsi: far, fa'a
+Definition: x1 is the direction of x2 (object/event) from origin/in frame of reference x3.
 
+Notes:
 $x_2$ is towards $x_1$ from $x_3$ (= {selfa'a} for reordered places).  See also {zunle}, {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu}, {stuna}, {stici}, {purci}, {balvi}, {lidne}.
 
 Examples:

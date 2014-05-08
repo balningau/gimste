@@ -1,7 +1,9 @@
 
-genja - gej
-x1 is a root [body-part] of plant/species x2; [metaphor: immobile, supporting, nourishing].
+Word: genja
+Rafsi: gej
+Definition: x1 is a root [body-part] of plant/species x2; [metaphor: immobile, supporting, nourishing].
 
+Notes:
 See also {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}.
 
 Examples:

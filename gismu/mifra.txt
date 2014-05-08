@@ -1,7 +1,9 @@
 
-mifra - mif
-x1 is encoded/cipher text of plain-text x2 by code/coding system x3; x1 is in code; x3 is a code.
+Word: mifra
+Rafsi: mif
+Definition: x1 is encoded/cipher text of plain-text x2 by code/coding system x3; x1 is in code; x3 is a code.
 
+Notes:
 Code (= {termifra}).  See also {mipri}, {lerfu}, {sinxa}.
 
 Examples:

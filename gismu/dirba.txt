@@ -1,7 +1,9 @@
 
-dirba - dib
-x1 is dear/precious/darling to x2; x1 is emotionally valued by x2.
+Word: dirba
+Rafsi: dib
+Definition: x1 is dear/precious/darling to x2; x1 is emotionally valued by x2.
 
+Notes:
 $x_1$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posydirba} for unambiguous semantics).  See also {tcika}, {kargu}, {vamji}, {vajni}, {pleji}, {jadni}, {jemna}.
 
 Examples:

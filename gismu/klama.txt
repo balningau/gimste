@@ -1,7 +1,9 @@
 
-klama - kla
-x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5.
+Word: klama
+Rafsi: kla
+Definition: x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5.
 
+Notes:
 Also travels, journeys, moves, leaves to ... from ...; $x_1$ is a traveller; ($x_4$ as a set includes points at least sufficient to constrain the route relevantly).  See also {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo list {ka'a}, {pluta}, {bevri}, {farlu}, {limna}, {vitke}.
 
 Examples:

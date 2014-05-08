@@ -1,7 +1,9 @@
 
-tanbo - ta'o
-x1 is a board/plank [3-dimensional long flat rectangle] of material x2.
+Word: tanbo
+Rafsi: ta'o
+Definition: x1 is a board/plank [3-dimensional long flat rectangle] of material x2.
 
+Notes:
 See also {bliku}, {kubli}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-nicte - cte
-x1 is a nighttime of day x2 at location x3; (adjective:) x1 is at night/nocturnal.
+Word: nicte
+Rafsi: cte
+Definition: x1 is a nighttime of day x2 at location x3; (adjective:) x1 is at night/nocturnal.
 
+Notes:
 Tonight (= {cabycte}); tomorrow night (= {bavlamcte}, even when tonight is still in the future); last night (= {prulamcte}).  See also {donri}, {djedi}, {tcika}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-fengu - feg, fe'u
-x1 is angry/mad at x2 for x3 (action/state/property).
+Word: fengu
+Rafsi: feg, fe'u
+Definition: x1 is angry/mad at x2 for x3 (action/state/property).
 
+Notes:
 See also {fanza}, {dunku}.
 
 Examples:

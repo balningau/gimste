@@ -1,7 +1,9 @@
 
-jikru - 
-x1 is made of/contains/is a quantity of liquor/spirits distilled from x2.
+Word: jikru
+Rafsi: 
+Definition: x1 is made of/contains/is a quantity of liquor/spirits distilled from x2.
 
+Notes:
 See also {barja}, {vanju}, {birje}, {xalka}.
 
 Examples:

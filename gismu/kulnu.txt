@@ -1,7 +1,9 @@
 
-kulnu - klu
-x1 [mass of ideas, customs, skills, arts] is culture of nation/ethos x2 (mass); x1 is ethnic.
+Word: kulnu
+Rafsi: klu
+Definition: x1 [mass of ideas, customs, skills, arts] is culture of nation/ethos x2 (mass); x1 is ethnic.
 
+Notes:
 (note that $x_2$ is NOT individual; culture is what is shared among people and is not an individual trait).  See also cmavo list {ka'u}, cmavo list {ku'u}, {natmi}, {cecmu}.
 
 Examples:

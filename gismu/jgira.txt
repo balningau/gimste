@@ -1,7 +1,9 @@
 
-jgira - jgi
-x1 (person) feels/has pride in/about x2 (abstraction).
+Word: jgira
+Rafsi: jgi
+Definition: x1 (person) feels/has pride in/about x2 (abstraction).
 
+Notes:
 An emotional combination of satisfaction and respect/esteem towards property(ies) or action(s) of person/entity that has a specific tie to emoter; self-pride (= {se'ijgi}, {tolcumla}); use $x_2$ tu'a for pride in non-specific actions/properties of someone.  See also {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}.
 
 Examples:

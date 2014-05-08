@@ -1,7 +1,9 @@
 
-botpi - bot, bo'i
-x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4.
+Word: botpi
+Rafsi: bot, bo'i
+Definition: x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4.
 
+Notes:
 See also {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-balji - 
-x1 is a bulb [body-part] of plant/species x2; [metaphor: rounded, bulgy].
+Word: balji
+Rafsi: 
+Definition: x1 is a bulb [body-part] of plant/species x2; [metaphor: rounded, bulgy].
 
+Notes:
 See also {punli}, {batke}.
 
 Examples:

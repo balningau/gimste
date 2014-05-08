@@ -1,7 +1,9 @@
 
-cpacu - cpa
-x1 gets/procures/acquires/obtains/accepts x2 from source x3 [previous possessor not implied].
+Word: cpacu
+Rafsi: cpa
+Definition: x1 gets/procures/acquires/obtains/accepts x2 from source x3 [previous possessor not implied].
 
+Notes:
 Also fetch; accept a gift (= {seldu'acpa}).  See also {punji}, {lebna}, {vimcu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-banfi - 
-x1 is an amphibian of species/breed x2.
+Word: banfi
+Rafsi: 
+Definition: x1 is an amphibian of species/breed x2.
 
+Notes:
 See also {danlu}, {respa}.
 
 Examples:

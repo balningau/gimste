@@ -1,7 +1,9 @@
 
-korbi - kor, koi
-x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on x3.
+Word: korbi
+Rafsi: kor, koi
+Definition: x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on x3.
 
+Notes:
 See also cmavo list {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
 
 Examples:

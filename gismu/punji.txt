@@ -1,7 +1,9 @@
 
-punji - puj, pu'i
-x1 (agent) puts/places/sets x2 on/at surface/locus x3.
+Word: punji
+Rafsi: puj, pu'i
+Definition: x1 (agent) puts/places/sets x2 on/at surface/locus x3.
 
+Notes:
 See also {cpacu}, {lebna}, {cpana}, {batke}, {setca}.
 
 Examples:

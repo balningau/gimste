@@ -1,7 +1,9 @@
 
-runta - 
-x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions x4.
+Word: runta
+Rafsi: 
+Definition: x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions x4.
 
+Notes:
 Suspension (= {pucyteryrunta}, {pu'exre}).  See also {litki}, {mixre}, {sligu}, {sudga}.
 
 Examples:

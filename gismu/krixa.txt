@@ -1,7 +1,9 @@
 
-krixa - kix, ki'a
-x1 cries out/yells/howls sound x2; x1 is a crier.
+Word: krixa
+Rafsi: kix, ki'a
+Definition: x1 cries out/yells/howls sound x2; x1 is a crier.
 
+Notes:
 See also {klaku}, {bacru}.
 
 Examples:

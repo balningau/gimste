@@ -1,7 +1,9 @@
 
-fliba - fli
-x1 fails at doing x2 (state/event); x1 is a failure at its role in x2.
+Word: fliba
+Rafsi: fli
+Definition: x1 fails at doing x2 (state/event); x1 is a failure at its role in x2.
 
+Notes:
 Baffled (= {pesfli}, {jmifli}, {dafspufli}, {menfli}, among other senses); also $x_2$ ceases/does not complete/fails to continue due to failure on the part of $x_1$.  See also {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.
 
 Examples:

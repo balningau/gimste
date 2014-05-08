@@ -1,7 +1,9 @@
 
-vecnu - ven, ve'u
-x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense x4.
+Word: vecnu
+Rafsi: ven, ve'u
+Definition: x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense x4.
 
+Notes:
 $x_1$ is a salesperson/salesman/vendor; $x_3$ buys $x_2$ from $x_1$ (= {terve'u} for reordered terms); $x_4$ is the price of $x_2$ to $x_3$ (= {velve'u} for reordered terms); for sale (= {fitselve'u}, {selvenfriti}); $x_2$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyve'u}, {posyselve'u} for unambiguous semantics).  (cf. {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali}, {zarci}, {vamji}, {jdima}; see note at {jdima} on cost/price/value distinction, {fepni}, {friti}, {jerna}, {rupnu})
 
 Examples:

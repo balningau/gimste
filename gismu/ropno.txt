@@ -1,7 +1,9 @@
 
-ropno - ron, ro'o
-x1 reflects European culture/nationality/geography/Indo-European languages in aspect x2.
+Word: ropno
+Rafsi: ron, ro'o
+Definition: x1 reflects European culture/nationality/geography/Indo-European languages in aspect x2.
 
+Notes:
 See also {brito}.
 
 Examples:

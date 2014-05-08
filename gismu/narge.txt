@@ -1,7 +1,9 @@
 
-narge - nag
-x1 is a nut [body-part: hard-shelled fruit] from plant/species x2 with shell x3 and kernel x4.
+Word: narge
+Rafsi: nag
+Definition: x1 is a nut [body-part: hard-shelled fruit] from plant/species x2 with shell x3 and kernel x4.
 
+Notes:
 Also $x_4$ nucleus, center (= {velnarge} for place reordering).  See also {grute}, {stagi}, {jbari}, {midju}.
 
 Examples:

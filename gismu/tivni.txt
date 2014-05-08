@@ -1,7 +1,9 @@
 
-tivni - tiv
-x1 broadcasts/televises programming x2 via medium/channel x3 to television receiver x4.
+Word: tivni
+Rafsi: tiv
+Definition: x1 broadcasts/televises programming x2 via medium/channel x3 to television receiver x4.
 
+Notes:
 Also $x_1$ is a broadcaster; $x_2$ programming (mass), program/show (ind.).  See also {cradi}, {skina}, {vidni}, {benji}, {tcana}.
 
 Examples:

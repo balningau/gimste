@@ -1,7 +1,9 @@
 
-gutra - 
-x1 is a/the womb/uterus [body-part] of x2; [metaphor: nourishing, protective, giving birth].
+Word: gutra
+Rafsi: 
+Definition: x1 is a/the womb/uterus [body-part] of x2; [metaphor: nourishing, protective, giving birth].
 
+Notes:
 See also {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}.
 
 Examples:

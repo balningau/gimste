@@ -1,7 +1,9 @@
 
-stici - sic
-x1 is to the west/western side of x2 according to frame of reference x3.
+Word: stici
+Rafsi: sic
+Definition: x1 is to the west/western side of x2 according to frame of reference x3.
 
+Notes:
 See also {stuna}, {berti}, {snanu}, {farna}.
 
 Examples:

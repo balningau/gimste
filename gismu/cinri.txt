@@ -1,7 +1,9 @@
 
-cinri - ci'i
-x1 (abstraction) interests/is interesting to x2; x2 is interested in x1.
+Word: cinri
+Rafsi: ci'i
+Definition: x1 (abstraction) interests/is interesting to x2; x2 is interested in x1.
 
+Notes:
 Use $x_1$ tu'a for non-specific interest in an object; interested in (= {selci'i}).  See also {zdile}, {kucli}, {manci}, {kurji}.
 
 Examples:

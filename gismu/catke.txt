@@ -1,7 +1,9 @@
 
-catke - ca'e
-x1 [agent] shoves/pushes x2 at locus x3.
+Word: catke
+Rafsi: ca'e
+Definition: x1 [agent] shoves/pushes x2 at locus x3.
 
+Notes:
 Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force, lacpu)
 
 Examples:

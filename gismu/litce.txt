@@ -1,7 +1,9 @@
 
-litce - lic
-x1 is x2 liter(s) [metric unit] in volume (default is 1) by standard x3.
+Word: litce
+Rafsi: lic
+Definition: x1 is x2 liter(s) [metric unit] in volume (default is 1) by standard x3.
 
+Notes:
 See also {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
 
 Examples:

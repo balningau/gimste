@@ -1,7 +1,9 @@
 
-lanka - 
-x1 is a basket with contents x2, woven from material x3.
+Word: lanka
+Rafsi: 
+Definition: x1 is a basket with contents x2, woven from material x3.
 
+Notes:
 See also {vasru}, {baktu}.
 
 Examples:

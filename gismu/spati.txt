@@ -1,7 +1,9 @@
 
-spati - spa
-x1 is a plant/herb/greenery of species/strain/cultivar x2.
+Word: spati
+Rafsi: spa
+Definition: x1 is a plant/herb/greenery of species/strain/cultivar x2.
 
+Notes:
 Also (adjective:) $x_1$ is vegetable/vegetal/vegetative.  See also {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju}, {tujli}, {xruba}, {xrula}, {pezli}, {srasu}.
 
 Examples:

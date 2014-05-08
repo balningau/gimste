@@ -1,7 +1,9 @@
 
-tanru - tau
-x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4 in usage/instance x5.
+Word: tanru
+Rafsi: tau
+Definition: x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4 in usage/instance x5.
 
+Notes:
 ($x_2$ and $x_3$ are both text or both si'o concept) See also {gismu}, {smuni}.
 
 Examples:

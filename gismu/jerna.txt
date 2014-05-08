@@ -1,7 +1,9 @@
 
-jerna - 
-x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity).
+Word: jerna
+Rafsi: 
+Definition: x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity).
 
+Notes:
 Also $x_2$ earnings, reward (= {zanseljerna} or {nemjerna}), punishment/comeuppance (= {sfaseljerna}, {malseljerna}); $x_3$ behavior; job (= {terjerna}); $x_2$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyjerna}, {posyseljerna} for unambiguous semantics).  See also {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}.
 
 Examples:

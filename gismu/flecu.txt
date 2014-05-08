@@ -1,7 +1,9 @@
 
-flecu - fle
-x1 is a current/flow/river of/in x2 flowing in direction to/towards x3 from direction/source x4.
+Word: flecu
+Rafsi: fle
+Definition: x1 is a current/flow/river of/in x2 flowing in direction to/towards x3 from direction/source x4.
 
+Notes:
 [$x_1$ is a stream of $x_2$; $x_2$ is a fluid Gas or liquid. (= {selfle} for reordered places); $x_1$ flushes toward $x_3$; flush (= {caifle}, {sukfle})]; See also {rirxe}, {senta} where no directionality is implied, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}.
 
 Examples:

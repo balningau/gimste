@@ -1,7 +1,9 @@
 
-jarki - jak
-x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3.
+Word: jarki
+Rafsi: jak
+Definition: x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3.
 
+Notes:
 See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-liste - ste
-x1 (physical object) is a list/catalog/register of sequence/set x2 in order x3 in medium x4.
+Word: liste
+Rafsi: ste
+Definition: x1 (physical object) is a list/catalog/register of sequence/set x2 in order x3 in medium x4.
 
+Notes:
 Also roll, log.  ($x_2$ is completely specified); (cf. {porsi}, {girzu}, {cmima} for mental objects wherein order is of varying importance; some manifested order is intrinsic to a physical list, but the specific order may be incidental and not intentional/purposeful)
 
 Examples:

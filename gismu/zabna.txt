@@ -1,7 +1,9 @@
 
-zabna - zan, za'a
-x1 is a favorable connotation/sense/way-of-looking-at x2 used by x3.
+Word: zabna
+Rafsi: zan, za'a
+Definition: x1 is a favorable connotation/sense/way-of-looking-at x2 used by x3.
 
+Notes:
 See also {funca}, {mabla}, {xamgu}, {vrude}.
 
 Examples:

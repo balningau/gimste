@@ -1,7 +1,9 @@
 
-krinu - rin, ki'u
-x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state).
+Word: krinu
+Rafsi: rin, ki'u
+Definition: x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state).
 
+Notes:
 See also {ciksi}, {rinka}, {nibli}, {mukti}, se {jalge}, te {zukte}, cmavo list {ki'u}, {bapli}.
 
 Examples:

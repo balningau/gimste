@@ -1,7 +1,9 @@
 
-jukni - juk
-x1 is a spider/arachnid/crustacean/crab/lobster/non-insect arthropod of species/breed x2.
+Word: jukni
+Rafsi: juk
+Definition: x1 is a spider/arachnid/crustacean/crab/lobster/non-insect arthropod of species/breed x2.
 
+Notes:
 See also {cinki}, {danlu}.
 
 Examples:

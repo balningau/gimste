@@ -1,7 +1,9 @@
 
-bevri - bev, bei
-x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter].
+Word: bevri
+Rafsi: bev, bei
+Definition: x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter].
 
+Notes:
 Alienation from $x_2$ to $x_3$ is implied.  See also {marce}, {muvdu}, {benji}, {klama}.
 
 Examples:

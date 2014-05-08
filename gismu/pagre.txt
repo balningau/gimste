@@ -1,7 +1,9 @@
 
-pagre - gre
-x1 passes through/penetrates barrier/medium/portal x2 to destination side x3 from origin side x4.
+Word: pagre
+Rafsi: gre
+Definition: x1 passes through/penetrates barrier/medium/portal x2 to destination side x3 from origin side x4.
 
+Notes:
 Passing through in both directions (= rolfargre, pagre ... .i so'ivo'ivo'u (and vice versa)).  See also {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta}, {canko}, {ragve}.
 
 Examples:

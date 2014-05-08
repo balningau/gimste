@@ -1,7 +1,9 @@
 
-trati - 
-x1 is taut/tense/strained tight in direction x2.
+Word: trati
+Rafsi: 
+Definition: x1 is taut/tense/strained tight in direction x2.
 
+Notes:
 See also {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-detri - det
-x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by calendar x4.
+Word: detri
+Rafsi: det
+Definition: x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by calendar x4.
 
+Notes:
 (time units in $x_1$ are specified as numbers separated by pi'e or are unit values massified with joi); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}.
 
 Examples:

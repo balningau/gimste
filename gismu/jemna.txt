@@ -1,7 +1,9 @@
 
-jemna - jme
-x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source x3.
+Word: jemna
+Rafsi: jme
+Definition: x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source x3.
 
+Notes:
 Also jewel (= {jmeja'i}); gemstone (= $x_2$, $x_3$, or {jmero'i}, {jmekunra}); pearl (= {selcakyjme} - a gem found inside a shell, {tercakyjme} - a gem made of shell material, {boijme} - any ball-shaped gem), mother-of-pearl (= {cakyjme}).  See also {kunra}, {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji}.
 
 Examples:

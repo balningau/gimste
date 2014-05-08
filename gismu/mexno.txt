@@ -1,7 +1,9 @@
 
-mexno - mex
-x1 reflects Mexican culture/nationality in aspect x2.
+Word: mexno
+Rafsi: mex
+Definition: x1 reflects Mexican culture/nationality in aspect x2.
 
+Notes:
 See also {xispo}, {bemro}, {spano}.
 
 Examples:

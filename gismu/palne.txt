@@ -1,7 +1,9 @@
 
-palne - 
-x1 is a tray/platter/flat container [pan/sheet/griddle] of contents x2, and made of material x3.
+Word: palne
+Rafsi: 
+Definition: x1 is a tray/platter/flat container [pan/sheet/griddle] of contents x2, and made of material x3.
 
+Notes:
 Also pallet, when used for carrying rather than support on the ground; a tray is flat-bottomed and shallow or without a rim, and is generally portable.  See also {tansi}, {patxu}, {palta}, {ckana}.
 
 Examples:

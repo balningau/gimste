@@ -1,7 +1,9 @@
 
-raktu - ra'u
-x1 (object/person/event/situation) troubles/disturbs x2 (person) causing problem(s) x3.
+Word: raktu
+Rafsi: ra'u
+Definition: x1 (object/person/event/situation) troubles/disturbs x2 (person) causing problem(s) x3.
 
+Notes:
 Also afflicts, is disruptive to, troublesome; $x_1$/$x_3$ are a care to $x_2$, $x_2$ is troubled by/cares about $x_1$/$x_3$ (= {selra'u} for reordered places).  See also {dicra}, {fanza}, {zunti}, {kurji}, {xanka}, {nabmi}.
 
 Examples:

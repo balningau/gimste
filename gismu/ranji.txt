@@ -1,7 +1,9 @@
 
-ranji - ra'i
-x1 (event/state) continues/persists over interval x2; x1 (property - ka) is continuous over x2.
+Word: ranji
+Rafsi: ra'i
+Definition: x1 (event/state) continues/persists over interval x2; x1 (property - ka) is continuous over x2.
 
+Notes:
 See also {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla}, {fliba}, {preja}, {tcena}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-mansa - 
-x1 satisfies evaluator x2 in property (ka)/state x3.
+Word: mansa
+Rafsi: 
+Definition: x1 satisfies evaluator x2 in property (ka)/state x3.
 
+Notes:
 See also {pajni}.
 
 Examples:

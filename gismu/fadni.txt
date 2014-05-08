@@ -1,7 +1,9 @@
 
-fadni - fad
-x1 [member] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).
+Word: fadni
+Rafsi: fad
+Definition: x1 [member] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).
 
+Notes:
 Also: $x_2$ is a normal/common/ordinary/typical property among set $x_3$ (= selterfadni for reordered places); also regular, (mabla forms:) banal, trite, vulgar; ($x_3$ is complete set).  See also {cafne}, {rirci}, {kampu}, {lakne}, {tcaci}, {cnano}.
 
 Examples:

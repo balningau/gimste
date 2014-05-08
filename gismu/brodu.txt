@@ -1,7 +1,9 @@
 
-brodu - 
-5th assignable variable predicate (context determines place structure).
+Word: brodu
+Rafsi: 
+Definition: 5th assignable variable predicate (context determines place structure).
 
+Notes:
 No notes available.
 
 Examples:

@@ -1,7 +1,9 @@
 
-cinfo - 
-x1 is a lion/[lioness] of species/breed x2.
+Word: cinfo
+Rafsi: 
+Definition: x1 is a lion/[lioness] of species/breed x2.
 
+Notes:
 See also {mlatu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-nelci - nel, nei
-x1 is fond of/likes/has a taste for x2 (object/state).
+Word: nelci
+Rafsi: nel, nei
+Definition: x1 is fond of/likes/has a taste for x2 (object/state).
 
+Notes:
 See also {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni}, {cuxna}, {pendo}.
 
 Examples:

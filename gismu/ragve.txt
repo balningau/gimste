@@ -1,7 +1,9 @@
 
-ragve - rav
-x1 is located across/on the other side of gap/boundary x2 from x3; x1 is opposite (fi) x3.
+Word: ragve
+Rafsi: rav
+Definition: x1 is located across/on the other side of gap/boundary x2 from x3; x1 is opposite (fi) x3.
 
+Notes:
 Also: $x_1$ is over there (across/beyond zo'e); directly across/beyond a boundary/gap, generally at the shortest plausible distance on the other side of the boundary.  See also {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}.
 
 Examples:

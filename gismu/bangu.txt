@@ -1,7 +1,9 @@
 
-bangu - ban, bau
-x1 is a/the language/dialect used by x2 to express/communicate x3 (si'o/du'u, not quote).
+Word: bangu
+Rafsi: ban, bau
+Definition: x1 is a/the language/dialect used by x2 to express/communicate x3 (si'o/du'u, not quote).
 
+Notes:
 Also tongue.  See also {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra}, {natmi}, {slaka}.
 
 Examples:

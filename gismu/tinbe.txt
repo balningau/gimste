@@ -1,7 +1,9 @@
 
-tinbe - tib
-x1 obeys/follows the command/rule x2 made by x3; (adjective:) x1 is obedient.
+Word: tinbe
+Rafsi: tib
+Definition: x1 obeys/follows the command/rule x2 made by x3; (adjective:) x1 is obedient.
 
+Notes:
 See also {minde}, {lacri}, {javni}, {flalu}, {zekri}.
 
 Examples:

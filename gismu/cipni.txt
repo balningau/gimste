@@ -1,7 +1,9 @@
 
-cipni - cpi
-x1 is a bird/avian/fowl of species x2.
+Word: cipni
+Rafsi: cpi
+Definition: x1 is a bird/avian/fowl of species x2.
 
+Notes:
 See also {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
 
 Examples:

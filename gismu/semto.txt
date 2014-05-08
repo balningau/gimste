@@ -1,7 +1,9 @@
 
-semto - sme
-x1 reflects Semitic [metaphor: Middle-Eastern] language/culture/nationality in aspect x2.
+Word: semto
+Rafsi: sme
+Definition: x1 reflects Semitic [metaphor: Middle-Eastern] language/culture/nationality in aspect x2.
 
+Notes:
 Semitic includes Arabic, Hebrew, Aramaic, and Ethiopian, among others.  See also {xrabo}.
 
 Examples:

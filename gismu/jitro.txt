@@ -1,7 +1,9 @@
 
-jitro - tro
-x1 has control over/harnesses/manages/directs/conducts x2 in x3 (activity/event/performance).
+Word: jitro
+Rafsi: tro
+Definition: x1 has control over/harnesses/manages/directs/conducts x2 in x3 (activity/event/performance).
 
+Notes:
 $x_2$ are aspects/individuals controlled within activity/event $x_3$; manage (= {selzuktro}, {selzukfu'e}, {gu'etro}, {gunfu'e}, {xaktro}, {xakfu'e}) (as distinct from manager/boss = {gunterbe'e}, {gunja'a}, {gunmi'e}, {gunca'i}).  (cf. cmavo list {ji'o}, {bapli}, te {bende}, {gidva} - which does not necessarily control or command, {jatna}, {macnu}, {minde}, {ponse}, {ralju}, {rinka}, {sazri}, {turni}, {vlipa}, {xance}, {xlura})
 
 Examples:

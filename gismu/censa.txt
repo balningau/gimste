@@ -1,7 +1,9 @@
 
-censa - ces
-x1 is holy/sacred to person/people/culture/religion/cult/group x2.
+Word: censa
+Rafsi: ces
+Definition: x1 is holy/sacred to person/people/culture/religion/cult/group x2.
 
+Notes:
 See also {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma}.
 
 Examples:

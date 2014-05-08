@@ -1,7 +1,9 @@
 
-smacu - 
-x1 is a mouse of species/breed x2.
+Word: smacu
+Rafsi: 
+Definition: x1 is a mouse of species/breed x2.
 
+Notes:
 See also {ratcu}.
 
 Examples:

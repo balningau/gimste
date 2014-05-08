@@ -1,7 +1,9 @@
 
-labno - 
-x1 is a wolf/lupine of species/breed x2.
+Word: labno
+Rafsi: 
+Definition: x1 is a wolf/lupine of species/breed x2.
 
+Notes:
 See also {gerku}.
 
 Examples:

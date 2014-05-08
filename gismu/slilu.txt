@@ -1,7 +1,9 @@
 
-slilu - sli
-x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete specification).
+Word: slilu
+Rafsi: sli
+Definition: x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete specification).
 
+Notes:
 Also (expressible either with desku or slilu): side to side, to and fro, back and forth, reciprocal (motion), rotates, revolves.  See also {dikni}, {rilti}, {morna}, {desku}, {janbe}, {boxna}.
 
 Examples:

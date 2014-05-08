@@ -1,7 +1,9 @@
 
-cnebo - neb, ne'o
-x1 is a/the neck [body-part] of x2; [metaphor: a relatively narrow point].
+Word: cnebo
+Rafsi: neb, ne'o
+Definition: x1 is a/the neck [body-part] of x2; [metaphor: a relatively narrow point].
 
+Notes:
 See also {galxe}, {cutne}.
 
 Examples:

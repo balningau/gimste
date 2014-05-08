@@ -1,7 +1,9 @@
 
-linsi - lin
-x1 is a length of chain/links of material x2 with link properties x3.
+Word: linsi
+Rafsi: lin
+Definition: x1 is a length of chain/links of material x2 with link properties x3.
 
+Notes:
 See also {skori}.
 
 Examples:

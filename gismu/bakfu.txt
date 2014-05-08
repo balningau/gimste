@@ -1,7 +1,9 @@
 
-bakfu - baf
-x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3.
+Word: bakfu
+Rafsi: baf
+Definition: x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3.
 
+Notes:
 See also {daski}, {dakli}, {tanxe}.
 
 Examples:

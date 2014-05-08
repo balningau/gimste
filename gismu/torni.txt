@@ -1,7 +1,9 @@
 
-torni - ton, to'i
-x1 twists under load/force/torsion x2.
+Word: torni
+Rafsi: ton, to'i
+Definition: x1 twists under load/force/torsion x2.
 
+Notes:
 See also {tinsa}, {trati}.
 
 Examples:

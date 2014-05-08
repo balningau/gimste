@@ -1,7 +1,9 @@
 
-staku - tak
-x1 is a quantity of/contains/is made of ceramic made by x2, of composition x3, in form/shape x4.
+Word: staku
+Rafsi: tak
+Definition: x1 is a quantity of/contains/is made of ceramic made by x2, of composition x3, in form/shape x4.
 
+Notes:
 Made of baked clay or other non-metallic solid; $x_3$: composition including $x_3$, which need not be complete specification.  See also {kliti}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-jmina - min
-x1 adds/combines x2 to/with x3, with result x4; x1 augments x2 by amount x3.
+Word: jmina
+Rafsi: min
+Definition: x1 adds/combines x2 to/with x3, with result x4; x1 augments x2 by amount x3.
 
+Notes:
 See also {zmadu}, {banro}, {sumji}, {zenba}, {setca}.
 
 Examples:

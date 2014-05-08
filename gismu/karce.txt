@@ -1,7 +1,9 @@
 
-karce - 
-x1 is a car/automobile/truck/van [a wheeled motor vehicle] for carrying x2, propelled by x3
+Word: karce
+Rafsi: 
+Definition: x1 is a car/automobile/truck/van [a wheeled motor vehicle] for carrying x2, propelled by x3
 
+Notes:
 See also {carce}, {xislu}, {marce}, {sabnu}.
 
 Examples:

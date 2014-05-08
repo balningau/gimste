@@ -1,7 +1,9 @@
 
-tcaci - cac
-x1 is a custom/habit/[ritual/rut] of x2 under conditions x3.
+Word: tcaci
+Rafsi: cac
+Definition: x1 is a custom/habit/[ritual/rut] of x2 under conditions x3.
 
+Notes:
 Also: $x_1$ is customary/usual/the practice.  See also {fadni}, {kampu}, {lakne}, {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli}, {javni}, {zekri}.
 
 Examples:

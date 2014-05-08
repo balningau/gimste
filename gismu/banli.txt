@@ -1,7 +1,9 @@
 
-banli - bal, ba'i
-x1 is great/grand in property x2 (ka) by standard x3.
+Word: banli
+Rafsi: bal, ba'i
+Definition: x1 is great/grand in property x2 (ka) by standard x3.
 
+Notes:
 Indicates a subjective greatness, as compared to the objective standard implied for {barda}; (synonyms, possibly requiring tanru:) extraordinary, illustrious, magnificent, impressive, awesome, grandiose, august, inspiring, special, majestic, distinguished, eminent, splendor, stately, imposing (all generally {zabna}); terrible ({mabla}).  See also {barda}, {nobli}, {se} {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se} {manci}.
 
 Examples:

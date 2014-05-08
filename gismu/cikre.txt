@@ -1,7 +1,9 @@
 
-cikre - 
-x1 repairs/mends/fixes x2 for use x3.
+Word: cikre
+Rafsi: 
+Definition: x1 repairs/mends/fixes x2 for use x3.
 
+Notes:
 A repair may be incomplete, fixing only one of the possible uses of $x_2$, hence $x_3$.  See also {cfila}, {spofu}.
 
 Examples:

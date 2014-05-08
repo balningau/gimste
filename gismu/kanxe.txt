@@ -1,7 +1,9 @@
 
-kanxe - kax
-x1 is a conjunction, stating that x2 (du'u) and x3 (du'u) are both true.
+Word: kanxe
+Rafsi: kax
+Definition: x1 is a conjunction, stating that x2 (du'u) and x3 (du'u) are both true.
 
+Notes:
 See also {vlina}.
 
 Examples:

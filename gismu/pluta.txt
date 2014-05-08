@@ -1,7 +1,9 @@
 
-pluta - lut, lu'a
-$x_1$ is a route/path/way/course/track to $x_2$ from $x_3$ via/defined by points including $x_4$ (set).
+Word: pluta
+Rafsi: lut, lu'a
+Definition: $x_1$ is a route/path/way/course/track to $x_2$ from $x_3$ via/defined by points including $x_4$ (set).
 
+Notes:
 A route merely connects origin/destination, but need not be improved in any way; ($x_4$ is a set of points at least sufficient to constrain the route relevantly).  (cf. {litru}, {naxle}, {tcana}, {dargu}, {klaji}, ve {klama}; {tadji}, {zukte} for means to a goal, {klama}, {pagre})
 
 Examples:

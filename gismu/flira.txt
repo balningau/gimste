@@ -1,7 +1,9 @@
 
-flira - fir
-x1 is a/the face [head/body-part] of x2; (adjective:) x1 is facial.
+Word: flira
+Rafsi: fir
+Definition: x1 is a/the face [head/body-part] of x2; (adjective:) x1 is facial.
 
+Notes:
 See also {sefta}, {stedu}, {crane}, {mebri}.
 
 Examples:

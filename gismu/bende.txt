@@ -1,7 +1,9 @@
 
-bende - bed, be'e
-x1 is a crew/team/gang/squad/band of persons x2 directed/led by x3 organized for purpose x4.
+Word: bende
+Rafsi: bed, be'e
+Definition: x1 is a crew/team/gang/squad/band of persons x2 directed/led by x3 organized for purpose x4.
 
+Notes:
 ($x_1$ is a mass; $x_2$ is a set completely specified); Also orchestra (= {zgibe'e}, {balzgibe'e}), outfit; $x_3$ conductor; business, not necessarily incorporated (= {cajbe'e}, {venbe'e}).  See also {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.
 
 Examples:

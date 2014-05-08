@@ -1,7 +1,9 @@
 
-vipsi - vip
-x1 is a deputy/vice/subordinate in aspect [or organization principle] x2 (ka) to principal x3.
+Word: vipsi
+Rafsi: vip
+Definition: x1 is a deputy/vice/subordinate in aspect [or organization principle] x2 (ka) to principal x3.
 
+Notes:
 Also assistant, adjutant.  See also {krati}, {sidju}.
 
 Examples:

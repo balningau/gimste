@@ -1,7 +1,9 @@
 
-nirna - nir
-x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control network connection].
+Word: nirna
+Rafsi: nir
+Definition: x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control network connection].
 
+Notes:
 Also (adjective:) $x_1$ is neural.  See also ve {benji}.
 
 Examples:

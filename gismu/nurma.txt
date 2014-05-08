@@ -1,7 +1,9 @@
 
-nurma - num
-x1 is a rural/rustic/pastoral area of x2; x1 is in the country.
+Word: nurma
+Rafsi: num
+Definition: x1 is a rural/rustic/pastoral area of x2; x1 is in the country.
 
+Notes:
 See also {jarbu}, {rarna}, {tcadu}, {cange}.
 
 Examples:

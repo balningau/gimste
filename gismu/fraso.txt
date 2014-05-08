@@ -1,7 +1,9 @@
 
-fraso - fas
-x1 reflects French/Gallic culture/nationality/language in aspect x2.
+Word: fraso
+Rafsi: fas
+Definition: x1 reflects French/Gallic culture/nationality/language in aspect x2.
 
+Notes:
 See also {ropno}.
 
 Examples:

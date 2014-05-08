@@ -1,7 +1,9 @@
 
-ratni - rat
-x1 is an atom of element/atomic number x2 of isotope number/atomic weight x3.
+Word: ratni
+Rafsi: rat
+Definition: x1 is an atom of element/atomic number x2 of isotope number/atomic weight x3.
 
+Notes:
 (cf. {kantu} for a basic unit of a property or activity; {selci} for a basic physical subunit, generally of a mass)
 
 Examples:

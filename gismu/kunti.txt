@@ -1,7 +1,9 @@
 
-kunti - kut
-x1 [container] is empty/vacant of x2 [material]; x1 is hollow.
+Word: kunti
+Rafsi: kut
+Definition: x1 [container] is empty/vacant of x2 [material]; x1 is hollow.
 
+Notes:
 Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}.
 
 Examples:

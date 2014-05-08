@@ -1,7 +1,9 @@
 
-carce - 
-x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled by x3.
+Word: carce
+Rafsi: 
+Definition: x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled by x3.
 
+Notes:
 See also {karce}, {xislu}, {marce}, {matra}.
 
 Examples:

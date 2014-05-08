@@ -1,7 +1,9 @@
 
-libjo - lib
-x1 reflects Libyan culture/nationality in aspect x2.
+Word: libjo
+Rafsi: lib
+Definition: x1 reflects Libyan culture/nationality in aspect x2.
 
+Notes:
 See also {friko}, {xrabo}, {muslo}.
 
 Examples:

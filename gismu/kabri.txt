@@ -1,7 +1,9 @@
 
-kabri - 
-x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing contents x2, and of material x3.
+Word: kabri
+Rafsi: 
+Definition: x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing contents x2, and of material x3.
 
+Notes:
 A kabri is normally eaten from by lifting it; a palta is not.  See also {palta}, {citka}, {blaci}, {tansi}.
 
 Examples:

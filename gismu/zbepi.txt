@@ -1,7 +1,9 @@
 
-zbepi - zbe
-x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties x3.
+Word: zbepi
+Rafsi: zbe
+Definition: x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties x3.
 
+Notes:
 Pallet (= {lafyzbe}).  See also {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli}.
 
 Examples:

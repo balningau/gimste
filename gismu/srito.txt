@@ -1,7 +1,9 @@
 
-srito - 
-x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in aspect x2.
+Word: srito
+Rafsi: 
+Definition: x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in aspect x2.
 
+Notes:
 See also {xindo}, {xurdo}.
 
 Examples:

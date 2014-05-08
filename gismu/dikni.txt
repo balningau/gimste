@@ -1,7 +1,9 @@
 
-dikni - dik
-x1 is regular/cyclical/periodic in property (ka)/activity x2 with period/interval x3.
+Word: dikni
+Rafsi: dik
+Definition: x1 is regular/cyclical/periodic in property (ka)/activity x2 with period/interval x3.
 
+Notes:
 Also uniform; resonant (= {dikslicai}).  See also {slilu}, {rilti}, {xutla}, {manfo}, {boxna}.
 
 Examples:

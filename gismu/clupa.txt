@@ -1,7 +1,9 @@
 
-clupa - cup
-x1 is a loop/circuit of x2 [material].
+Word: clupa
+Rafsi: cup
+Definition: x1 is a loop/circuit of x2 [material].
 
+Notes:
 Also noose (= {skoclupa}, {saljgeclupa}; there is no indication of shape, but merely that the ends join/meet); closed curve defined by set of points (= {cuptai}).  See also {djine}.
 
 Examples:

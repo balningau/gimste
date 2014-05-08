@@ -1,7 +1,9 @@
 
-taske - 
-x1 thirsts for x2; x1 needs/wants drink/fluid/lubrication x2.
+Word: taske
+Rafsi: 
+Definition: x1 thirsts for x2; x1 needs/wants drink/fluid/lubrication x2.
 
+Notes:
 See also {nitcu}, {djica}, {xagji}, {pinxe}.
 
 Examples:

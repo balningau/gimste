@@ -1,7 +1,9 @@
 
-cigla - cig
-x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion of x1.
+Word: cigla
+Rafsi: cig
+Definition: x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion of x1.
 
+Notes:
 Secretion (= {selcigla}).  See also {vikmi}, {xasne}.
 
 Examples:

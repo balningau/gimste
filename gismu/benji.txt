@@ -1,7 +1,9 @@
 
-benji - bej, be'i
-x1 transfers/sends/transmits x2 to receiver x3 from transmitter/origin x4 via means/medium x5.
+Word: benji
+Rafsi: bej, be'i
+Definition: x1 transfers/sends/transmits x2 to receiver x3 from transmitter/origin x4 via means/medium x5.
 
+Notes:
 Also possibly "sharing"; no (complete) alienation from origin is implied.  x5 carrier.  See also {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, cmavo list {be'i}, {bevri}, {mrilu}, {tcana}.
 
 Examples:

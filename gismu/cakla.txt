@@ -1,7 +1,9 @@
 
-cakla - 
-x1 is made of/contains/is a quantity of chocolate/cocoa.
+Word: cakla
+Rafsi: 
+Definition: x1 is made of/contains/is a quantity of chocolate/cocoa.
 
+Notes:
 See also {ckafi}.
 
 Examples:

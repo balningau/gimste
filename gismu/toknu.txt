@@ -1,7 +1,9 @@
 
-toknu - tok
-x1 is an oven [enclosure that heats its contents] for baking/heating/drying x2.
+Word: toknu
+Rafsi: tok
+Definition: x1 is an oven [enclosure that heats its contents] for baking/heating/drying x2.
 
+Notes:
 See also {nanba}.
 
 Examples:

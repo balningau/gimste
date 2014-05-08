@@ -1,7 +1,9 @@
 
-carna - car
-$x_1$ turns about vector $x_2$ towards direction $x_3$, turning angular distance / to face point $x_4$ 
+Word: carna
+Rafsi: car
+Definition: $x_1$ turns about vector $x_2$ towards direction $x_3$, turning angular distance / to face point $x_4$ 
 
+Notes:
 Also revolve (= {jincarna}).  See also {gunro}, {jendu}. New definition of {carna} originally proposed by Robin Lee Powell and backward-compatible with the old one. Official definition: $x_1$ turns/rotates/revolves around axis $x_2$ in direction $x_3$.
 
 Examples:

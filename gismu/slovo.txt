@@ -1,7 +1,9 @@
 
-slovo - lov, lo'o
-x1 reflects Slavic language/culture/ethos in aspect x2.
+Word: slovo
+Rafsi: lov, lo'o
+Definition: x1 reflects Slavic language/culture/ethos in aspect x2.
 
+Notes:
 See also {softo}, {rusko}, {vukro}.
 
 Examples:

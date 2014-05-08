@@ -1,7 +1,9 @@
 
-ransu - 
-x1 is a quantity of/contains/is made of bronze of composition including x2.
+Word: ransu
+Rafsi: 
+Definition: x1 is a quantity of/contains/is made of bronze of composition including x2.
 
+Notes:
 See also {jinme}, {tunka}, {lastu}.
 
 Examples:

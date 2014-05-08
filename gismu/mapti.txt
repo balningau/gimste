@@ -1,7 +1,9 @@
 
-mapti - mat
-x1 fits/matches/suits/is compatible/appropriate/corresponds to/with x2 in property/aspect x3.
+Word: mapti
+Rafsi: mat
+Definition: x1 fits/matches/suits/is compatible/appropriate/corresponds to/with x2 in property/aspect x3.
 
+Notes:
 See also {satci}, {tugni}, {sarxe}, {drani}, {tarmi}, {ckini}, {mintu}.
 
 Examples:

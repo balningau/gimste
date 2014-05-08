@@ -1,7 +1,9 @@
 
-sodva - sod
-x1 is made of/contains/is a quantity of a carbonated beverage/soda of flavor/brand x2.
+Word: sodva
+Rafsi: sod
+Definition: x1 is made of/contains/is a quantity of a carbonated beverage/soda of flavor/brand x2.
 
+Notes:
 Also: soft drink (though this sometimes includes tea and coffee as distinct from alcoholic beverages which are "hard drinks").  See also {jilka}, {jinme}.
 
 Examples:

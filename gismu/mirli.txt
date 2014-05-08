@@ -1,7 +1,9 @@
 
-mirli - 
-x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2.
+Word: mirli
+Rafsi: 
+Definition: x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2.
 
+Notes:
 See also {mabru}, {danlu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-bongu - bog, bo'u
-x1 is a/the bone/ivory [body-part], performing function x2 in body of x3; [metaphor: calcium].
+Word: bongu
+Rafsi: bog, bo'u
+Definition: x1 is a/the bone/ivory [body-part], performing function x2 in body of x3; [metaphor: calcium].
 
+Notes:
 $x_2$ is likely an abstract: may be structure/support for some body part, but others as well such as the eardrum bones; the former can be expressed as (tu'a le <body-part>); cartilage/gristle (= {ranbo'u}), skeleton (= {bogygreku}).  See also {greku}, {denci}, {jirna}, {sarji}.
 
 Examples:

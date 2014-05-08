@@ -1,7 +1,9 @@
 
-cumla - cul
-x1 is humble/modest about x2 (abstraction); x1 displays humility about x2.
+Word: cumla
+Rafsi: cul
+Definition: x1 is humble/modest about x2 (abstraction); x1 displays humility about x2.
 
+Notes:
 See also {cinmo}, {jgira}.
 
 Examples:

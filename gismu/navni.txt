@@ -1,7 +1,9 @@
 
-navni - 
-$x_1$ is a quantity of/contains/is made of noble gas of type $x_2$ [helium/neon/argon/krypton/xenon/radon].
+Word: navni
+Rafsi: 
+Definition: $x_1$ is a quantity of/contains/is made of noble gas of type $x_2$ [helium/neon/argon/krypton/xenon/radon].
 
+Notes:
 Default neon. See also {xukmi}, {gapci}; {tolfragapci}; {solnavni}, {ninynavni}, {laznynavni}, {mipnavni}, {fangynavni}, {dircynavni}.
 
 Examples:

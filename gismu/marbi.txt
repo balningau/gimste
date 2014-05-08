@@ -1,7 +1,9 @@
 
-marbi - mra
-x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2 from danger/threat x3.
+Word: marbi
+Rafsi: mra
+Definition: x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2 from danger/threat x3.
 
+Notes:
 See also {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.
 
 Examples:

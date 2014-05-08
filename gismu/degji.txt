@@ -1,7 +1,9 @@
 
-degji - deg
-x1 is a/the finger/digit/toe [body-part] on limb/body site x2 of body x3; [metaphor: peninsula].
+Word: degji
+Rafsi: deg
+Definition: x1 is a/the finger/digit/toe [body-part] on limb/body site x2 of body x3; [metaphor: peninsula].
 
+Notes:
 Finger (= {xandegji}), toe (= {jmadegji}).  See also {nazbi}, {tamji}, {tance}, {xance}.,
 
 Examples:

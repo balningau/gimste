@@ -1,7 +1,9 @@
 
-derxi - dre
-x1 is a heap/pile/stack/mound/hill of materials x2 at location x3.
+Word: derxi
+Rafsi: dre
+Definition: x1 is a heap/pile/stack/mound/hill of materials x2 at location x3.
 
+Notes:
 See also {cmana}.
 
 Examples:

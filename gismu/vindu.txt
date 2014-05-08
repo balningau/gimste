@@ -1,7 +1,9 @@
 
-vindu - vid
-x1 is poisonous/venomous/toxic/a toxin to x2.
+Word: vindu
+Rafsi: vid
+Definition: x1 is poisonous/venomous/toxic/a toxin to x2.
 
+Notes:
 See also {since}.
 
 Examples:

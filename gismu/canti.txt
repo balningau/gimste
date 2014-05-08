@@ -1,7 +1,9 @@
 
-canti - 
-x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system [body-part] of x2.
+Word: canti
+Rafsi: 
+Definition: x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system [body-part] of x2.
 
+Notes:
 Metaphor: process hub.  See also {betfu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-masno - sno
-x1 is slow/sluggish at doing/being/bringing about x2 (event/state).
+Word: masno
+Rafsi: sno
+Definition: x1 is slow/sluggish at doing/being/bringing about x2 (event/state).
 
+Notes:
 See also {sutra}.
 
 Examples:

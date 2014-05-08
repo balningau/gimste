@@ -1,7 +1,9 @@
 
-jinci - 
-x1 is a pair of shears/scissors for cutting x2.
+Word: jinci
+Rafsi: 
+Definition: x1 is a pair of shears/scissors for cutting x2.
 
+Notes:
 See also {katna}.
 
 Examples:

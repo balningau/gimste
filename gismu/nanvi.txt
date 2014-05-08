@@ -1,7 +1,9 @@
 
-nanvi - nav
-x1 is a billionth/thousand-millionth [$10^{-9}$] of x2 in dimension/aspect x3 (default is units).
+Word: nanvi
+Rafsi: nav
+Definition: x1 is a billionth/thousand-millionth [$10^{-9}$] of x2 in dimension/aspect x3 (default is units).
 
+Notes:
 See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
 
 Examples:

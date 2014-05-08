@@ -1,7 +1,9 @@
 
-djine - jin
-x1 is a ring/annulus/torus/circle [shape/form] of material x2, inside diam. x3, outside diam. x4.
+Word: djine
+Rafsi: jin
+Definition: x1 is a ring/annulus/torus/circle [shape/form] of material x2, inside diam. x3, outside diam. x4.
 
+Notes:
 Also ellipse, oval (= {jincla}); (usage has been for near-circles, such as tight spirals, even if not closed loops).  Also band, belt, encircle (= {jinsru}).  See also {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}.
 
 Examples:

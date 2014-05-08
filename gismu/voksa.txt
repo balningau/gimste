@@ -1,7 +1,9 @@
 
-voksa - vok, vo'a
-x1 is a voice/speech sound of individual x2.
+Word: voksa
+Rafsi: vok, vo'a
+Definition: x1 is a voice/speech sound of individual x2.
 
+Notes:
 See also {sance}, {tirna}, {bacru}.
 
 Examples:

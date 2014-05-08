@@ -1,7 +1,9 @@
 
-dasri - sri
-x1 is a ribbon/tape/strip/band/stripe of material x2.
+Word: dasri
+Rafsi: sri
+Definition: x1 is a ribbon/tape/strip/band/stripe of material x2.
 
+Notes:
 See also {djine}.
 
 Examples:

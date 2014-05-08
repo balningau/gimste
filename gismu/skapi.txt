@@ -1,7 +1,9 @@
 
-skapi - kap
-x1 is a pelt/skin/hide/leather from x2.
+Word: skapi
+Rafsi: kap
+Definition: x1 is a pelt/skin/hide/leather from x2.
 
+Notes:
 See also {pilka}, {calku}, {kerfa}.
 
 Examples:

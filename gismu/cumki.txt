@@ -1,7 +1,9 @@
 
-cumki - cum, cu'i
-x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe.
+Word: cumki
+Rafsi: cum, cu'i
+Definition: x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe.
 
+Notes:
 Also possibility.  See also {lakne}.
 
 Examples:

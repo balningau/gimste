@@ -1,7 +1,9 @@
 
-gusni - gus, gu'i
-$x_1$ [energy] is light/illumination illuminating $x_2$ from light source $x_3$.
+Word: gusni
+Rafsi: gus, gu'i
+Definition: $x_1$ [energy] is light/illumination illuminating $x_2$ from light source $x_3$.
 
+Notes:
 [$x_3$ illuminates/lights $x_2$ with light/illumination $x_1$; $x_2$ is lit/illuminated by illumination $x_1$ from source $x_3$ (= {selgu'i} for reordered places); light/lamp (= {tergu'i})](cf. {dirce}, {manku}, {solri}, {carmi}, {ctino}, {kantu})
 
 Examples:

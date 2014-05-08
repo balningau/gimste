@@ -1,7 +1,9 @@
 
-lalxu - la'u
-x1 is a lake/lagoon/pool at site/within land mass x2.
+Word: lalxu
+Rafsi: la'u
+Definition: x1 is a lake/lagoon/pool at site/within land mass x2.
 
+Notes:
 See also {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}.
 
 Examples:

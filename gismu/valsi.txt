@@ -1,7 +1,9 @@
 
-valsi - val, vla
-x1 is a word meaning/causing x2 in language x3; (adjective: x1 is lexical/verbal).
+Word: valsi
+Rafsi: val, vla
+Definition: x1 is a word meaning/causing x2 in language x3; (adjective: x1 is lexical/verbal).
 
+Notes:
 See also {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}.
 
 Examples:

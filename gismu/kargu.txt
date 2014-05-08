@@ -1,7 +1,9 @@
 
-kargu - 
-x1 (object/commodity/property/event) is costly/expensive/dear to x2 by standard x3.
+Word: kargu
+Rafsi: 
+Definition: x1 (object/commodity/property/event) is costly/expensive/dear to x2 by standard x3.
 
+Notes:
 $x_1$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {poskargu} for unambiguous semantics).  See also {vamji}, {dirba}, {vajni}, {jdima}, {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}.
 
 Examples:

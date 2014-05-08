@@ -1,7 +1,9 @@
 
-mixre - mix, xre
-x1 (mass) is a mixture/blend/colloid/commingling with ingredients including x2.
+Word: mixre
+Rafsi: mix, xre
+Definition: x1 (mass) is a mixture/blend/colloid/commingling with ingredients including x2.
 
+Notes:
 $x_2$ mingles/mixes/blends into $x_1$; $x_2$ is in $x_1$, an ingredient/part/component/element of $x_1$ (= {selxre} for reordered places).  See also {salta}, te {runta}, {stasu}, {jicla}, {sanso}.
 
 Examples:

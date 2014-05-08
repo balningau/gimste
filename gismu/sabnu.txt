@@ -1,7 +1,9 @@
 
-sabnu - 
-x1 is a cabin of vehicle x2.
+Word: sabnu
+Rafsi: 
+Definition: x1 is a cabin of vehicle x2.
 
+Notes:
 See also {bloti}, {marce}, {vinji}, {karce}.
 
 Examples:

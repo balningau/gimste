@@ -1,7 +1,9 @@
 
-cmalu - cma
-x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm x3.
+Word: cmalu
+Rafsi: cma
+Definition: x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm x3.
 
+Notes:
 See also {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
 
 Examples:

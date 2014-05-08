@@ -1,7 +1,9 @@
 
-fanri - 
-x1 is a factory/foundry/industrial plant/mill producing x2 from materials x3.
+Word: fanri
+Rafsi: 
+Definition: x1 is a factory/foundry/industrial plant/mill producing x2 from materials x3.
 
+Notes:
 See also {molki}, {gundi}.
 
 Examples:

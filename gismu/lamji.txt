@@ -1,7 +1,9 @@
 
-lamji - lam, la'i
-x1 is adjacent/beside/next to/in contact with x2 in property/sequence x3 in direction x4.
+Word: lamji
+Rafsi: lam, la'i
+Definition: x1 is adjacent/beside/next to/in contact with x2 in property/sequence x3 in direction x4.
 
+Notes:
 Also touching, contiguous, against.  See also {zvati}, {cpana}, {jibni}, {diklo}, {stuzi}, {bartu}, {jbini}.
 
 Examples:

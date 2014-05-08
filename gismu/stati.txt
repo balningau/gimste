@@ -1,7 +1,9 @@
 
-stati - 
-x1 has a talent/aptitude/innate skill for doing/being x2.
+Word: stati
+Rafsi: 
+Definition: x1 has a talent/aptitude/innate skill for doing/being x2.
 
+Notes:
 See also {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
 
 Examples:

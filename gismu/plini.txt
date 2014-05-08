@@ -1,7 +1,9 @@
 
-plini - 
-x1 is a planet revolving around x2 with planetary characteristics x3, orbital parameters x4.
+Word: plini
+Rafsi: 
+Definition: x1 is a planet revolving around x2 with planetary characteristics x3, orbital parameters x4.
 
+Notes:
 See also {lunra}, {mluni}, {terdi}, {solri}, {munje}.
 
 Examples:

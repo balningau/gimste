@@ -1,7 +1,9 @@
 
-jarbu - 
-x1 is a suburban area of city/metropolis x2.
+Word: jarbu
+Rafsi: 
+Definition: x1 is a suburban area of city/metropolis x2.
 
+Notes:
 See also {nurma}, se {tcadu}, ve {tcadu}.
 
 Examples:

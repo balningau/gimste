@@ -1,7 +1,9 @@
 
-sputu - put, pu'u
-x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4.
+Word: sputu
+Rafsi: put, pu'u
+Definition: x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4.
 
+Notes:
 Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}.
 
 Examples:

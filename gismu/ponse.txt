@@ -1,7 +1,9 @@
 
-ponse - pos, po'e
-x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor of x2 under x3.
+Word: ponse
+Rafsi: pos, po'e
+Definition: x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor of x2 under x3.
 
+Notes:
 ($x_3$ is generally more important to the concept than commonly accepted for the English equivalent, since the concept is broader when unconstrained, and the nature/interpretation of possession/ownership is very culturally dependent); See also {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle}.
 
 Examples:

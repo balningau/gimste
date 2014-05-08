@@ -1,7 +1,9 @@
 
-talsa - tal
-x1 (person) challenges x2 at/in property x3.
+Word: talsa
+Rafsi: tal
+Definition: x1 (person) challenges x2 at/in property x3.
 
+Notes:
 (cf. {jinga}, {damba}, {darlu}, {jivna}, {nandu} for a challenging event/situation)
 
 Examples:

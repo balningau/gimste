@@ -1,7 +1,9 @@
 
-sumne - 
-x1 (experiencer) smells/scents (transitive verb) x2; x2 smells/has odor/scent to observer x1.
+Word: sumne
+Rafsi: 
+Definition: x1 (experiencer) smells/scents (transitive verb) x2; x2 smells/has odor/scent to observer x1.
 
+Notes:
 See also {nazbi}, {panci}, {cpina}, {ganse}, {zgana}.
 
 Examples:

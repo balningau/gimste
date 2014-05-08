@@ -1,7 +1,9 @@
 
-cnici - nic
-x1 is orderly/neat/ordered in property/quantity x2 (ka/ni).
+Word: cnici
+Rafsi: nic
+Definition: x1 is orderly/neat/ordered in property/quantity x2 (ka/ni).
 
+Notes:
 See also {cunso}, {kalsa}.
 
 Examples:

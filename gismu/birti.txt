@@ -1,7 +1,9 @@
 
-birti - bit
-x1 is certain/sure/positive/convinced that x2 is true.
+Word: birti
+Rafsi: bit
+Definition: x1 is certain/sure/positive/convinced that x2 is true.
 
+Notes:
 See also {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-tanjo - 
-x1 is the trigonometric tangent of angle/arctangent x2.
+Word: tanjo
+Rafsi: 
+Definition: x1 is the trigonometric tangent of angle/arctangent x2.
 
+Notes:
 See also {sinso}.
 
 Examples:

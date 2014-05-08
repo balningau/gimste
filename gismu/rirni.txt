@@ -1,7 +1,9 @@
 
-rirni - rir
-x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege x2.
+Word: rirni
+Rafsi: rir
+Definition: x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege x2.
 
+Notes:
 See also {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}.
 
 Examples:

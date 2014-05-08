@@ -1,7 +1,9 @@
 
-mledi - led
-x1 is a mold/fungus/mushrooms/truffles of species/strain x2 parasitic/growing on x3.
+Word: mledi
+Rafsi: led
+Definition: x1 is a mold/fungus/mushrooms/truffles of species/strain x2 parasitic/growing on x3.
 
+Notes:
 See also {clika}.
 
 Examples:

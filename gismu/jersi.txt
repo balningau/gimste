@@ -1,7 +1,9 @@
 
-jersi - je'i
-x1 chases/pursues/(physically) follows after x2; volition is not implied for x1 or x2.
+Word: jersi
+Rafsi: je'i
+Definition: x1 chases/pursues/(physically) follows after x2; volition is not implied for x1 or x2.
 
+Notes:
 $x_1$ follows after $x_2$.  See also {kavbu}, {rivbi}, {kalte}, {lidne}.
 
 Examples:

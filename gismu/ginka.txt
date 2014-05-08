@@ -1,7 +1,9 @@
 
-ginka - gik
-x1 is a camp/encampment/temporary residence of x2 at location x3.
+Word: ginka
+Rafsi: gik
+Definition: x1 is a camp/encampment/temporary residence of x2 at location x3.
 
+Notes:
 See also {dinju}, {xabju}, {zdani}.
 
 Examples:

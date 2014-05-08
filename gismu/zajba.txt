@@ -1,7 +1,9 @@
 
-zajba - zaj
-x1 is a gymnast at/performs gymnastics feat x2.
+Word: zajba
+Rafsi: zaj
+Definition: x1 is a gymnast at/performs gymnastics feat x2.
 
+Notes:
 See also {sluji}, {dansu}.
 
 Examples:

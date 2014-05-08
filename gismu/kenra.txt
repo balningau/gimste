@@ -1,7 +1,9 @@
 
-kenra - ken
-x1 is a cancer [malignant disease] in x2.
+Word: kenra
+Rafsi: ken
+Definition: x1 is a cancer [malignant disease] in x2.
 
+Notes:
 See also {bilma}, {mikce}, {spita}.
 
 Examples:

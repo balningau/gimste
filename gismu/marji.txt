@@ -1,7 +1,9 @@
 
-marji - maj, mai
-x1 is material/stuff/matter of type/composition including x2 in shape/form x3.
+Word: marji
+Rafsi: maj, mai
+Definition: x1 is material/stuff/matter of type/composition including x2 in shape/form x3.
 
+Notes:
 Also (adjective:) $x_1$ is physical (one sense)/material.  See also {morna}, {mucti}, {nejni}, {tarmi}, {dacti}.
 
 Examples:

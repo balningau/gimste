@@ -1,7 +1,9 @@
 
-purmo - pum, pu'o
-x1 is a powder of material x2.
+Word: purmo
+Rafsi: pum, pu'o
+Definition: x1 is a powder of material x2.
 
+Notes:
 Flour (= {grupu'o}, {xripu'o}).  See also {pulce}, {zalvi}.
 
 Examples:

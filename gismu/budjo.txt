@@ -1,7 +1,9 @@
 
-budjo - buj, bu'o
-x1 pertains to the Buddhist culture/religion/ethos in aspect x2.
+Word: budjo
+Rafsi: buj, bu'o
+Definition: x1 pertains to the Buddhist culture/religion/ethos in aspect x2.
 
+Notes:
 See also {latna}, {lijda}.
 
 Examples:

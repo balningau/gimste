@@ -1,7 +1,9 @@
 
-cecmu - cem, ce'u
-x1 is a community/colony of organisms x2.
+Word: cecmu
+Rafsi: cem, ce'u
+Definition: x1 is a community/colony of organisms x2.
 
+Notes:
 See also {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
 
 Examples:

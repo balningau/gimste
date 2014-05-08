@@ -1,7 +1,9 @@
 
-ganzu - gaz
-x1 organizes x2 [relative chaos] into x3 [ordered/organized result] by system/principle(s) x4.
+Word: ganzu
+Rafsi: gaz
+Definition: x1 organizes x2 [relative chaos] into x3 [ordered/organized result] by system/principle(s) x4.
 
+Notes:
 $x_3$ is also a system; $x_4$ could be merely a function which inherently serves to dictate the organizational structure of $x_3$.  See also {ciste}, {morna}, {stura}, {bilni}, {cabra}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-galfi - gaf, ga'i
-x1 (event) modifies/alters/changes/transforms/converts x2 into x3.
+Word: galfi
+Rafsi: gaf, ga'i
+Definition: x1 (event) modifies/alters/changes/transforms/converts x2 into x3.
 
+Notes:
 Causal, resultative change; agentive modification (= {gafygau}, {gafyzu'e}).  (cf. {stika} for non-resultative, {binxo} for not-necessarily causal change, {cenba} for non-resultative change; {zasni})
 
 Examples:

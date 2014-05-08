@@ -1,7 +1,9 @@
 
-natmi - nat, nai
-x1 is a nation/ethnic group of peoples x2; [people sharing a history/culture].
+Word: natmi
+Rafsi: nat, nai
+Definition: x1 is a nation/ethnic group of peoples x2; [people sharing a history/culture].
 
+Notes:
 See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.
 
 Examples:

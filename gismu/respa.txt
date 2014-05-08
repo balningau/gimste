@@ -1,7 +1,9 @@
 
-respa - res
-x1 is a reptile of species/breed x2.
+Word: respa
+Rafsi: res
+Definition: x1 is a reptile of species/breed x2.
 
+Notes:
 See also {danlu}, {banfi}, {since}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-fetsi - fet, fe'i
-x1 is a female/doe of species x2 evidencing feminine trait(s) x3 (ka); x1 is feminine.
+Word: fetsi
+Rafsi: fet, fe'i
+Definition: x1 is a female/doe of species x2 evidencing feminine trait(s) x3 (ka); x1 is feminine.
 
+Notes:
 See also {nakni}.
 
 Examples:

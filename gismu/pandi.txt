@@ -1,7 +1,9 @@
 
-pandi - pad
-x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4.
+Word: pandi
+Rafsi: pad
+Definition: x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4.
 
+Notes:
 See also {lerfu}, {basna}, {denpa}.
 
 Examples:

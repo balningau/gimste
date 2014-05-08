@@ -1,7 +1,9 @@
 
-gusta - 
-x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3.
+Word: gusta
+Rafsi: 
+Definition: x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3.
 
+Notes:
 See also {barja}, {citka}, {kukte}, {sanmi}, {xotli}.
 
 Examples:

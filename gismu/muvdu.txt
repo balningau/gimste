@@ -1,7 +1,9 @@
 
-muvdu - muv, mu'u
-x1 (object) moves to destination/receiver x2 [away] from origin x3 over path/route x4.
+Word: muvdu
+Rafsi: muv, mu'u
+Definition: x1 (object) moves to destination/receiver x2 [away] from origin x3 over path/route x4.
 
+Notes:
 Also mobile (= {comymu'u}, for the non-specific opposite of immobile); after a muvdu, object is alienated from/no longer at origin (unless physically returned there, per litru or slilu); agentive move (= {muvgau}, {muvzu'e}), non-agentive transitive move (= {muvri'a}), self-propelled (= {sezmuvgau}), motion of a part of the object (= {pagmu'u}), having a moving part (= {muvypau}, {muvyselpau}); apparent motion (= {mlumu'u}).  (cf. {rinci}, {klama} (which differs in that the means of motion is explicit), {litru}, {cliva}, {fatri}; {dunda}, {benji} for agentive movement that does not necessarily imply alienation from origin, preja for similar movement with no agent implied, {bevri}, {vimcu})
 
 Examples:

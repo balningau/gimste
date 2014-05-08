@@ -1,7 +1,9 @@
 
-kliru - 
-x1 is a quantity of/contains/is made of halogen of type x2 [chlorine, fluorine, iodine, etc.].
+Word: kliru
+Rafsi: 
+Definition: x1 is a quantity of/contains/is made of halogen of type x2 [chlorine, fluorine, iodine, etc.].
 
+Notes:
 Also bromine; default chlorine. See also {xukmi}.
 
 Examples:

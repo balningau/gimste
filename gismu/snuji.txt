@@ -1,7 +1,9 @@
 
-snuji - nuj
-x1 is a sandwich/layering [not restricted to food] of x2 sandwiched between x3.
+Word: snuji
+Rafsi: nuj
+Definition: x1 is a sandwich/layering [not restricted to food] of x2 sandwiched between x3.
 
+Notes:
 See also {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
 
 Examples:

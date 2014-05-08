@@ -1,7 +1,9 @@
 
-jamna - jam
-x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2.
+Word: jamna
+Rafsi: jam
+Definition: x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2.
 
+Notes:
 See also {bradi}, {gunta}, {panpi}, {damba}, {darlu}.
 
 Examples:

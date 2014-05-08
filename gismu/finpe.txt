@@ -1,7 +1,9 @@
 
-finpe - fip, fi'e
-x1 is a fish of species x2 [metaphorical extension to sharks, non-fish aquatic vertebrates].
+Word: finpe
+Rafsi: fip, fi'e
+Definition: x1 is a fish of species x2 [metaphorical extension to sharks, non-fish aquatic vertebrates].
 
+Notes:
 See also {danlu}.
 
 Examples:

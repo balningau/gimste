@@ -1,7 +1,9 @@
 
-cnita - nit, ni'a
-x1 is directly/vertically beneath/below/under/underneath/down from x2 in frame of reference x3.
+Word: cnita
+Rafsi: nit, ni'a
+Definition: x1 is directly/vertically beneath/below/under/underneath/down from x2 in frame of reference x3.
 
+Notes:
 Also underside, nether.  See also {dizlo}, {gapru}, {galtu}, {farna}, {loldi}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-tinsa - 
-x1 is stiff/rigid/inflexible/resistant in direction x2 against force x3 under conditions x4.
+Word: tinsa
+Rafsi: 
+Definition: x1 is stiff/rigid/inflexible/resistant in direction x2 against force x3 under conditions x4.
 
+Notes:
 Also sometimes: firm, hard;  not limited to physical forces; e.g. mental rigidity.  See also {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}.
 
 Examples:

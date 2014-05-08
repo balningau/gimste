@@ -1,7 +1,9 @@
 
-ckule - kul, cu'e
-x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5.
+Word: ckule
+Rafsi: kul, cu'e
+Definition: x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5.
 
+Notes:
 Also college, university.  See also {cilre}, {ctuca}, {tadni}.
 
 Examples:

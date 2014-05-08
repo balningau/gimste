@@ -1,7 +1,9 @@
 
-cfika - fik, fi'a
-x1 is a work of fiction about plot/theme/subject x2/under convention x2 by author x3.
+Word: cfika
+Rafsi: fik, fi'a
+Definition: x1 is a work of fiction about plot/theme/subject x2/under convention x2 by author x3.
 
+Notes:
 Also story, lie, untrue.  See also {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}.
 
 Examples:

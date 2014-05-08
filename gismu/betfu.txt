@@ -1,7 +1,9 @@
 
-betfu - bef, be'u
-x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor: midsection].
+Word: betfu
+Rafsi: bef, be'u
+Definition: x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor: midsection].
 
+Notes:
 Also stomach (= {djaruntyrango}), digestive tract (= {befctirango}, {befctirangyci'e}).  See also {cutne}, {livga}, {canti}.
 
 Examples:

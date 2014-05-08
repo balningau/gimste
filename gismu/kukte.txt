@@ -1,7 +1,9 @@
 
-kukte - kuk
-x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory activity].
+Word: kukte
+Rafsi: kuk
+Definition: x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory activity].
 
+Notes:
 $x_1$ is a delicacy.  See also {gusta}, {ralci}, {vrusi}, {cpina}.
 
 Examples:

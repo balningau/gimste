@@ -1,7 +1,9 @@
 
-tcila - til
-x1 is a detail/feature/particular of x2.
+Word: tcila
+Rafsi: til
+Definition: x1 is a detail/feature/particular of x2.
 
+Notes:
 See also {diklo}, {steci}.
 
 Examples:

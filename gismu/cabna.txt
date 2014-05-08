@@ -1,7 +1,9 @@
 
-cabna - cab
-x1 is current at/in the present of/during/concurrent/simultaneous with x2 in time.
+Word: cabna
+Rafsi: cab
+Definition: x1 is current at/in the present of/during/concurrent/simultaneous with x2 in time.
 
+Notes:
 (default $x_2$ is the present resulting in:) $x_1$ is now; time relationship only, 'aorist' claiming simultaneity does not mean one event does not extend into the past or future of the other. See also {zvati}, {balvi}, {purci}, cmavo list {ca}, cmavo list {ca'a}.
 
 Examples:

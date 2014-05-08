@@ -1,7 +1,9 @@
 
-klaji - laj
-x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3.
+Word: klaji
+Rafsi: laj
+Definition: x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3.
 
+Notes:
 Also corridor; not typically a route between points, but offers access to sites along it.  See also {naxle}, {panka}, {pluta}, {dargu}.
 
 Examples:

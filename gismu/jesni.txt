@@ -1,7 +1,9 @@
 
-jesni - jes
-x1 is a needle [pointed shape/form, not tool] of material x2.
+Word: jesni
+Rafsi: jes
+Definition: x1 is a needle [pointed shape/form, not tool] of material x2.
 
+Notes:
 See also {konju}, {pijne}, {jipno}, {kinli}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-xagri - 
-x1 is a oboe/clarinet/saxophone [reed musical instrument] with reed x2.
+Word: xagri
+Rafsi: 
+Definition: x1 is a oboe/clarinet/saxophone [reed musical instrument] with reed x2.
 
+Notes:
 See also {zgike}.
 
 Examples:

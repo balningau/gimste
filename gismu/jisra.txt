@@ -1,7 +1,9 @@
 
-jisra - 
-x1 is made of/contains/is a quantity of juice/nectar from-source/of-type x2.
+Word: jisra
+Rafsi: 
+Definition: x1 is made of/contains/is a quantity of juice/nectar from-source/of-type x2.
 
+Notes:
 Water-based extract from a (generally) biological source. See also {pinxe}, {djacu}, {grute}, {stagi}.
 
 Examples:

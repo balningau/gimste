@@ -1,7 +1,9 @@
 
-viska - vis, vi'a
-x1 sees/views/perceives visually x2 under conditions x3.
+Word: viska
+Rafsi: vis, vi'a
+Definition: x1 sees/views/perceives visually x2 under conditions x3.
 
+Notes:
 Also (adjective:) $x_1$ is visual; $x_3$ can include ambient lighting, background, etc. which may affect what is perceived; note that English "see" often means "look" or a more generic "observe", or even "understand, know".  See also {catlu}, {jvinu}, {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana}, {ganse}.
 
 Examples:

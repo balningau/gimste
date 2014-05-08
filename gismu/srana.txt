@@ -1,7 +1,9 @@
 
-srana - ra'a
-x1 pertains to/is germane/relevant to/concerns/is related/associated with/is about x2.
+Word: srana
+Rafsi: ra'a
+Definition: x1 pertains to/is germane/relevant to/concerns/is related/associated with/is about x2.
 
+Notes:
 Also: $x_1$ is a question of/treats of $x_2$; can be symmetric, although $x_1$ is conventionally more specific or constrained in scope than $x_2$.  See also cmavo list {ra'a}, {ckini}, {ponse}, {steci}.
 
 Examples:

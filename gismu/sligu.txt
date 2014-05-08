@@ -1,7 +1,9 @@
 
-sligu - lig
-x1 is solid, of composition/material including x2, under conditions x3.
+Word: sligu
+Rafsi: lig
+Definition: x1 is solid, of composition/material including x2, under conditions x3.
 
+Notes:
 Conditions include temperature and pressure.  See also {runta}, {litki}, {gapci}, {jdari}, {dunja}, {pulce}, {jduli}.
 
 Examples:

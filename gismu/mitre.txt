@@ -1,7 +1,9 @@
 
-mitre - tre
-x1 is x2 meter(s) [metric unit] in length (default 1) measured in direction x3 by standard x4.
+Word: mitre
+Rafsi: tre
+Definition: x1 is x2 meter(s) [metric unit] in length (default 1) measured in direction x3 by standard x4.
 
+Notes:
 See also {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
 
 Examples:

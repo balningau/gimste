@@ -1,7 +1,9 @@
 
-matra - 
-x1 is a motor/engine, driving/propelling/providing power to x2.
+Word: matra
+Rafsi: 
+Definition: x1 is a motor/engine, driving/propelling/providing power to x2.
 
+Notes:
 See also {marce}, {minji}, {carce}.
 
 Examples:

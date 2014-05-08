@@ -1,7 +1,9 @@
 
-friko - fi'o
-x1 reflects African culture/nationality/geography in aspect x2.
+Word: friko
+Rafsi: fi'o
+Definition: x1 reflects African culture/nationality/geography in aspect x2.
 
+Notes:
 See also {ropno}, {xazdo}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-sipna - sip
-x1 is asleep (adjective); x1 sleeps/is sleeping.
+Word: sipna
+Rafsi: sip
+Definition: x1 is asleep (adjective); x1 sleeps/is sleeping.
 
+Notes:
 See also {senva}, {tatpi}, {cikna}, {sanji}.
 
 Examples:

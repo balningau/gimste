@@ -1,7 +1,9 @@
 
-slasi - las
-x1 is a quantity of/is made of/contains plastic/polymer of type/component unit(s) x2.
+Word: slasi
+Rafsi: las
+Definition: x1 is a quantity of/is made of/contains plastic/polymer of type/component unit(s) x2.
 
+Notes:
 See also {rutni}, {boxfo}, {bukpu}.
 
 Examples:

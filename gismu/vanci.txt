@@ -1,7 +1,9 @@
 
-vanci - vac
-x1 is an evening [from end-of-work until sleep typical for locale] of day x2 at location x3.
+Word: vanci
+Rafsi: vac
+Definition: x1 is an evening [from end-of-work until sleep typical for locale] of day x2 at location x3.
 
+Notes:
 This evening (= {cabvanci}); tomorrow evening (= {bavlamvanci}); yesterday evening (= {prulamvanci}).  See also {cerni}, {murse}, {tcika}.
 
 Examples:

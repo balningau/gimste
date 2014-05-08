@@ -1,7 +1,9 @@
 
-fepri - 
-x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory apparatus/bellows].
+Word: fepri
+Rafsi: 
+Definition: x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory apparatus/bellows].
 
+Notes:
 Also (adjective:) $x_1$ is pulmonary.  See also {pambe}, {vasxu}.
 
 Examples:

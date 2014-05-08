@@ -1,7 +1,9 @@
 
-gadri - gad
-x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4.
+Word: gadri
+Rafsi: gad
+Definition: x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4.
 
+Notes:
 $x_2$ is the noun phrase/sumti without the article/descriptor; description (($x_1$ with $x_2$) = gadysu'i); note: 'determiner' has become the accepted general linguistics term, displacing 'article'; however, 'determiner' includes all words that can introduce a noun phrase/sumti, whether a description or not, such as pronoun possessives like lemi, quantifiers (especially in indefinites) like ci and su'o, and demonstratives like ti, ta, and tu; the term 'descriptor' in Lojban, is limited to words that introduce descriptions (excluding indefinites), such as those of selma'o LA and LE, their common compounds such as lemi, and possibly lenu.  'article' typically refers only to a single word; Lojban assumes the broader meaning] See also {valsi}, {cmavo}.
 
 Examples:

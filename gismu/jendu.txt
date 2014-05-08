@@ -1,7 +1,9 @@
 
-jendu - jed
-x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3.
+Word: jendu
+Rafsi: jed
+Definition: x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3.
 
+Notes:
 See also se {carna}, {gunro}, {tutci}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-kubli - kub
-x1 is a cube/regular polyhedron/polygon of dimensions x2 (def. 3), surfaces/sides x3 (def. 6).
+Word: kubli
+Rafsi: kub
+Definition: x1 is a cube/regular polyhedron/polygon of dimensions x2 (def. 3), surfaces/sides x3 (def. 6).
 
+Notes:
 (cf. {kurfa} - needed for 'cube', {bliku} for a physical object; {tanbo}, {tapla}, {tarmi})
 
 Examples:

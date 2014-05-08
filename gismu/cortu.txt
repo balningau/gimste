@@ -1,7 +1,9 @@
 
-cortu - cor, cro
-x1 hurts/feels pain/hurt at locus x2.
+Word: cortu
+Rafsi: cor, cro
+Definition: x1 hurts/feels pain/hurt at locus x2.
 
+Notes:
 See also {cinmo}, {xrani}.
 
 Examples:

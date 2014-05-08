@@ -45,9 +45,11 @@ for valsi in gismu:
 
     with codecs.open(os.path.join(EXPORT_PATH, "{}.txt".format(word)), 'w', 'utf-8') as fobj:
         fobj.write(u"""
-{} - {}
-{}
+Word: {}
+Rafsi: {}
+Definition: {}
 
+Notes:
 {}
 
 Examples:

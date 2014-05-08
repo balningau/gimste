@@ -1,7 +1,9 @@
 
-sigja - sig
-x1 is a cigar/cigarette/cigarillo made from tobacco/smokable substance x2 by x3.
+Word: sigja
+Rafsi: sig
+Definition: x1 is a cigar/cigarette/cigarillo made from tobacco/smokable substance x2 by x3.
 
+Notes:
 See also {danmo}, {jelca}, {tanko}, {marna}.
 
 Examples:

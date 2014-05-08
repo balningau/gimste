@@ -1,7 +1,9 @@
 
-tcati - 
-x1 is made of/contains/is a quantity of tea brewed from leaves x2.
+Word: tcati
+Rafsi: 
+Definition: x1 is made of/contains/is a quantity of tea brewed from leaves x2.
 
+Notes:
 See also {ckafi}.
 
 Examples:

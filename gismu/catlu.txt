@@ -1,7 +1,9 @@
 
-catlu - cta
-x1 looks at/examines/views/inspects/regards/watches/gazes at x2.
+Word: catlu
+Rafsi: cta
+Definition: x1 looks at/examines/views/inspects/regards/watches/gazes at x2.
 
+Notes:
 Also look through (= {grecta}, {ravycta}, {bacycta}); note that English "look" often means a more generic "observe".  See also {jvinu}, {minra}, {simlu}, {viska}, {lanli}, {zgana}, {setca}, {viska}.
 
 Examples:

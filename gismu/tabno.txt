@@ -1,7 +1,9 @@
 
-tabno - tab
-x1 is a quantity of/contains/is made of carbon/graphite/[diamond]/charcoal; x1 is organic.
+Word: tabno
+Rafsi: tab
+Definition: x1 is a quantity of/contains/is made of carbon/graphite/[diamond]/charcoal; x1 is organic.
 
+Notes:
 See also {kolme}.
 
 Examples:

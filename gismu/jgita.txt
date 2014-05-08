@@ -1,7 +1,9 @@
 
-jgita - git
-x1 is guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow x2.
+Word: jgita
+Rafsi: git
+Definition: x1 is guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow x2.
 
+Notes:
 Also lute, viola, cello.  See also {zgike}.
 
 Examples:

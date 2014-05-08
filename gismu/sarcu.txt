@@ -1,7 +1,9 @@
 
-sarcu - sa'u
-x1 (abstract) is necessary/required for continuing state/process x2 under conditions x3.
+Word: sarcu
+Rafsi: sa'u
+Definition: x1 (abstract) is necessary/required for continuing state/process x2 under conditions x3.
 
+Notes:
 Also factually necessary, necessity, prerequisite, condition, precondition.  See also cmavo list {sau}, {nitcu}.
 
 Examples:

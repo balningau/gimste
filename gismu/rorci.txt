@@ -1,7 +1,9 @@
 
-rorci - ror
-x1 engenders/procreates/begets x2 with coparent x3.
+Word: rorci
+Rafsi: ror
+Definition: x1 engenders/procreates/begets x2 with coparent x3.
 
+Notes:
 See also {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi}, {bersa}, {ferti}, {jbena}, {sovda}.
 
 Examples:

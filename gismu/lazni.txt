@@ -1,7 +1,9 @@
 
-lazni - 
-x1 (person) is lazy/avoiding work/effort concerning action x2.
+Word: lazni
+Rafsi: 
+Definition: x1 (person) is lazy/avoiding work/effort concerning action x2.
 
+Notes:
 See also {nejni}, {vreta}, {gunka}.
 
 Examples:

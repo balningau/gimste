@@ -1,7 +1,9 @@
 
-fulta - ful, flu
-x1 (passive) floats on/in fluid (gas/liquid) x2; x1 is buoyant.
+Word: fulta
+Rafsi: ful, flu
+Definition: x1 (passive) floats on/in fluid (gas/liquid) x2; x1 is buoyant.
 
+Notes:
 See also {limna}, {bloti}, {sakli}.
 
 Examples:

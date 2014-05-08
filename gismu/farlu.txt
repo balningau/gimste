@@ -1,7 +1,9 @@
 
-farlu - fal, fa'u
-x1 falls/drops to x2 from x3 in gravity well/frame of reference x4.
+Word: farlu
+Rafsi: fal, fa'u
+Definition: x1 falls/drops to x2 from x3 in gravity well/frame of reference x4.
 
+Notes:
 Note: things can fall in spin, thrust, or tide as well as gravity; (agentive "drop" = one of two lujvo: {falcru} and {falri'a}). See also {lafti}, {cpare}, {klama}, {sfubu}.
 
 Examples:

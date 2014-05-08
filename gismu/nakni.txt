@@ -1,7 +1,9 @@
 
-nakni - nak
-x1 is a male/buck of species x2 evidencing masculine trait(s) x3 (ka); x1 is masculine.
+Word: nakni
+Rafsi: nak
+Definition: x1 is a male/buck of species x2 evidencing masculine trait(s) x3 (ka); x1 is masculine.
 
+Notes:
 See also {fetsi}, {bersa}.
 
 Examples:

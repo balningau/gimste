@@ -1,7 +1,9 @@
 
-xendo - xed, xe'o
-x1 (person) is kind to x2 in actions/behavior x3.
+Word: xendo
+Rafsi: xed, xe'o
+Definition: x1 (person) is kind to x2 in actions/behavior x3.
 
+Notes:
 See also {cinmo}, {kecti}, {pendo}, {kusru}.
 
 Examples:

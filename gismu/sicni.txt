@@ -1,7 +1,9 @@
 
-sicni - si'i
-x1 is a coin/token/is specie issued by x2 having value x3 of composition including x4.
+Word: sicni
+Rafsi: si'i
+Definition: x1 is a coin/token/is specie issued by x2 having value x3 of composition including x4.
 
+Notes:
 See also {fepni}, {jdini}, {rupnu}.
 
 Examples:

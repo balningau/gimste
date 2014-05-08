@@ -1,7 +1,9 @@
 
-tunba - tub
-x1 is a sibling of x2 by bond/tie/standard/parent(s) x3.
+Word: tunba
+Rafsi: tub
+Definition: x1 is a sibling of x2 by bond/tie/standard/parent(s) x3.
 
+Notes:
 See also {bruna}, {mensi}, {tamne}.
 
 Examples:

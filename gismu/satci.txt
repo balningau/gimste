@@ -1,7 +1,9 @@
 
-satci - 
-x1 [measurement/match] is exact/precise to precision x2 in property/quantity x3 (ka/ni).
+Word: satci
+Rafsi: 
+Definition: x1 [measurement/match] is exact/precise to precision x2 in property/quantity x3 (ka/ni).
 
+Notes:
 See also {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.
 
 Examples:

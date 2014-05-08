@@ -1,7 +1,9 @@
 
-facki - fak, fa'i
-x1 discovers/finds out x2 (du'u) about subject/object x3; x1 finds (fi) x3 (object).
+Word: facki
+Rafsi: fak, fa'i
+Definition: x1 discovers/finds out x2 (du'u) about subject/object x3; x1 finds (fi) x3 (object).
 
+Notes:
 See also {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-jinsa - jis
-x1 (object) is clean/pure of material/contaminant/dirt x2 by standard x3.
+Word: jinsa
+Rafsi: jis
+Definition: x1 (object) is clean/pure of material/contaminant/dirt x2 by standard x3.
 
+Notes:
 See also {lumci}, {jinru}, {curve}, {sepli}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-drata - dat
-x1 isn't the-same-thing-as/is different-from/other-than x2 by standard x3; x1 is something else.
+Word: drata
+Rafsi: dat
+Definition: x1 isn't the-same-thing-as/is different-from/other-than x2 by standard x3; x1 is something else.
 
+Notes:
 See also {mintu}, {frica}.
 
 Examples:

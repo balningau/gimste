@@ -1,7 +1,9 @@
 
-vamtu - vat
-x1 vomits/regurgitates x2; x1 throws x2 up; [violent] digestive expulsion.
+Word: vamtu
+Rafsi: vat
+Definition: x1 vomits/regurgitates x2; x1 throws x2 up; [violent] digestive expulsion.
 
+Notes:
 ($x_2$ is non-gaseous); See also {rigni}, {jetce}, {kafke}, {sputu}.
 
 Examples:

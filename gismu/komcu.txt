@@ -1,7 +1,9 @@
 
-komcu - kom
-x1 is a comb [many-needled shape] of material x2 with tines/needles x3.
+Word: komcu
+Rafsi: kom
+Definition: x1 is a comb [many-needled shape] of material x2 with tines/needles x3.
 
+Notes:
 See also {julne}, {forca}, {burcu}.
 
 Examples:

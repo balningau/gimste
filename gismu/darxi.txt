@@ -1,7 +1,9 @@
 
-darxi - dax, da'i
-x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4.
+Word: darxi
+Rafsi: dax, da'i
+Definition: x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4.
 
+Notes:
 See also {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}.
 
 Examples:

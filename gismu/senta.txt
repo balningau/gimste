@@ -1,7 +1,9 @@
 
-senta - set
-x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite x3.
+Word: senta
+Rafsi: set
+Definition: x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite x3.
 
+Notes:
 See also {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri}, {serti}.
 
 Examples:

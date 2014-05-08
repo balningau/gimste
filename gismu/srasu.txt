@@ -1,7 +1,9 @@
 
-srasu - sas
-x1 is a blade/expanse of grass of species x2.
+Word: srasu
+Rafsi: sas
+Definition: x1 is a blade/expanse of grass of species x2.
 
+Notes:
 Lawn/meadow (= {sasfoi}).  See also {spati}.
 
 Examples:

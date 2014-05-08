@@ -1,7 +1,9 @@
 
-serti - ser
-x1 are stairs/stairway/steps for climbing structure x2 with steps x3.
+Word: serti
+Rafsi: ser
+Definition: x1 are stairs/stairway/steps for climbing structure x2 with steps x3.
 
+Notes:
 See also {stapa}, {loldi}, {senta}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-tavla - tav, ta'a
-x1 talks/speaks to x2 about subject x3 in language x4.
+Word: tavla
+Rafsi: tav, ta'a
+Definition: x1 talks/speaks to x2 about subject x3 in language x4.
 
+Notes:
 Not limited to vocal speech, but this is implied by the $x_4$ without context of some other medium of conversation (use {cusku}, {casnu}, {skicu}, {ciksi} for weaker implication of vocal communication); converse/discuss/chat (= {simta'a}, {simsku}, {vricysimta'a} for a conversation not clearly delimited by subject).  See also {bacru}, {cusku} for actual expression, {casnu}, {darlu}, {skicu}, {ciksi}, {bangu}.
 
 Examples:

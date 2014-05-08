@@ -1,7 +1,9 @@
 
-plise - 
-x1 is an apple [fruit] of species/strain x2.
+Word: plise
+Rafsi: 
+Definition: x1 is an apple [fruit] of species/strain x2.
 
+Notes:
 See also {grute}.
 
 Examples:

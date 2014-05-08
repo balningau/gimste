@@ -1,7 +1,9 @@
 
-linji - lij, li'i
-x1 is a line/among lines [1-dimensional shape/form] defined by set of points x2.
+Word: linji
+Rafsi: lij, li'i
+Definition: x1 is a line/among lines [1-dimensional shape/form] defined by set of points x2.
 
+Notes:
 Ray/vector ({farli'i} or {porli'i}).  See also {kruvi}, {sirji}, {jganu}, {kantu}, {mokca}.
 
 Examples:

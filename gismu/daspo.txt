@@ -1,7 +1,9 @@
 
-daspo - spo
-x1 (event) destroys/ruins/wrecks/despoils x2; x1 is destructive.
+Word: daspo
+Rafsi: spo
+Definition: x1 (event) destroys/ruins/wrecks/despoils x2; x1 is destructive.
 
+Notes:
 See also {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-bengo - beg
-x1 reflects Bengali/Bangladesh culture/nationality/language in aspect x2.
+Word: bengo
+Rafsi: beg
+Definition: x1 reflects Bengali/Bangladesh culture/nationality/language in aspect x2.
 
+Notes:
 See also {xindo}.
 
 Examples:

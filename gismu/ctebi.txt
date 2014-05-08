@@ -1,7 +1,9 @@
 
-ctebi - teb
-x1 is a/the lip [body-part]/rim of orifice x2 of body x3; (adjective:) x1 is labial.
+Word: ctebi
+Rafsi: teb
+Definition: x1 is a/the lip [body-part]/rim of orifice x2 of body x3; (adjective:) x1 is labial.
 
+Notes:
 See also {moklu}, {korbi}, {cinba}.
 
 Examples:

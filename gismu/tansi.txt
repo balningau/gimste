@@ -1,7 +1,9 @@
 
-tansi - tas
-x1 is a pan/basin/tub/sink, a shallow container for contents x2, of material/properties x3.
+Word: tansi
+Rafsi: tas
+Definition: x1 is a pan/basin/tub/sink, a shallow container for contents x2, of material/properties x3.
 
+Notes:
 Also bowl.  See also {baktu}, {palne}, {palta}, {patxu}, {kabri} for a bowl that is normally lifted for use, {botpi}.
 
 Examples:

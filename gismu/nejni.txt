@@ -1,7 +1,9 @@
 
-nejni - nen
-x1 is energy of type x2 in form x3.
+Word: nejni
+Rafsi: nen
+Definition: x1 is energy of type x2 in form x3.
 
+Notes:
 Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-dotco - dot, do'o
-x1 reflects German/Germanic culture/nationality/language in aspect x2.
+Word: dotco
+Rafsi: dot, do'o
+Definition: x1 reflects German/Germanic culture/nationality/language in aspect x2.
 
+Notes:
 See also {ropno}.
 
 Examples:

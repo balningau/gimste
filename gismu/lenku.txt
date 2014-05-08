@@ -1,7 +1,9 @@
 
-lenku - lek
-x1 is cold/cool by standard x2.
+Word: lenku
+Rafsi: lek
+Definition: x1 is cold/cool by standard x2.
 
+Notes:
 See also {glare}, {bisli}.
 
 Examples:

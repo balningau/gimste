@@ -1,7 +1,9 @@
 
-pipno - pi'o
-x1 is a piano/harpsichord/synthesizer/organ; a keyboard musical instrument.
+Word: pipno
+Rafsi: pi'o
+Definition: x1 is a piano/harpsichord/synthesizer/organ; a keyboard musical instrument.
 
+Notes:
 See also {zgike}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-rectu - rec, re'u
-x1 is a quantity of/contains meat/flesh from source/animal x2.
+Word: rectu
+Rafsi: rec, re'u
+Definition: x1 is a quantity of/contains meat/flesh from source/animal x2.
 
+Notes:
 See also {sluji}.
 
 Examples:

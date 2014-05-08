@@ -1,7 +1,9 @@
 
-grusi - rus
-x1 is gray [color adjective].
+Word: grusi
+Rafsi: rus
+Definition: x1 is gray [color adjective].
 
+Notes:
 See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
 
 Examples:

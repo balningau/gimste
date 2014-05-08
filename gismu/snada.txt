@@ -1,7 +1,9 @@
 
-snada - sad
-x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3.
+Word: snada
+Rafsi: sad
+Definition: x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3.
 
+Notes:
 Also: $x_1$ reaches $x_2$; (adjective:) $x_1$ is successful; $x_2$ (event/state/achievement).  See also {fliba}, {troci}, {jgira}.
 
 Examples:

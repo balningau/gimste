@@ -1,7 +1,9 @@
 
-cfari - cfa
-x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb).
+Word: cfari
+Rafsi: cfa
+Definition: x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb).
 
+Notes:
 See also {sisti}, {krasi}, {fanmo}, {co'acfa}.
 
 Examples:

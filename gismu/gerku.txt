@@ -1,7 +1,9 @@
 
-gerku - ger, ge'u
-x1 is a dog/canine/[bitch] of species/breed x2.
+Word: gerku
+Rafsi: ger, ge'u
+Definition: x1 is a dog/canine/[bitch] of species/breed x2.
 
+Notes:
 See also {lorxu}, {labno}, {mlatu}.
 
 Examples:

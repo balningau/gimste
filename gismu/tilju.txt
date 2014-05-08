@@ -1,7 +1,9 @@
 
-tilju - tij
-x1 is heavy/weighty in mass/weight by standard x2.
+Word: tilju
+Rafsi: tij
+Definition: x1 is heavy/weighty in mass/weight by standard x2.
 
+Notes:
 (cf. {linto}; {carmi}, se {junri} for metaphor, {bunda}, {junta})
 
 Examples:

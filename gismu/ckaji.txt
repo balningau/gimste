@@ -1,7 +1,9 @@
 
-ckaji - kai
-x1 has/is characterized by property/feature/trait/aspect/dimension x2 (ka); x2 is manifest in x1.
+Word: ckaji
+Rafsi: kai
+Definition: x1 has/is characterized by property/feature/trait/aspect/dimension x2 (ka); x2 is manifest in x1.
 
+Notes:
 Manifested/property/quality/trait/feature/aspect (= {selkai}).  See also cmavo list {kai}, {tcaci}, {tcini}.
 
 Examples:

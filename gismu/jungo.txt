@@ -1,7 +1,9 @@
 
-jungo - jug
-x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2.
+Word: jungo
+Rafsi: jug
+Definition: x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2.
 
+Notes:
 See also {xazdo}.
 
 Examples:

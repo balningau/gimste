@@ -1,7 +1,9 @@
 
-fusra - fur
-x1 rots/decays/ferments with decay/fermentation agent x2; x1 is rotten/decayed/fermented.
+Word: fusra
+Rafsi: fur
+Definition: x1 rots/decays/ferments with decay/fermentation agent x2; x1 is rotten/decayed/fermented.
 
+Notes:
 See also {birje}, {vanju}, {vifne}.
 
 Examples:

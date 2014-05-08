@@ -1,7 +1,9 @@
 
-morna - mon, mo'a
-x1 is/reflects/represents a pattern of forms/events x2 arranged according to structure x3.
+Word: morna
+Rafsi: mon, mo'a
+Definition: x1 is/reflects/represents a pattern of forms/events x2 arranged according to structure x3.
 
+Notes:
 [$x_3$ is a model for $x_1$ (= {termontai}, or the more abstract = {termonsi'o}); image (= {gusmo'a}, {nenmo'a}, {dairmo'a}, {selylenmo'a}, {selmirmo'a}, {velmirmo'a}, but also all of these -tai instead of -mo'a for the ideal)]; See also {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}.
 
 Examples:

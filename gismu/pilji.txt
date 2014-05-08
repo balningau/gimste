@@ -1,7 +1,9 @@
 
-pilji - pi'i
-x1 is the product/total/result of factors/multiplicands (x2 and x3) x2 multiplied by x3.
+Word: pilji
+Rafsi: pi'i
+Definition: x1 is the product/total/result of factors/multiplicands (x2 and x3) x2 multiplied by x3.
 
+Notes:
 See also {mekso}, {sumji}, {rapli}, {jalge}.
 
 Examples:

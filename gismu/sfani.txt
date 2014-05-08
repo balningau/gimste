@@ -1,7 +1,9 @@
 
-sfani - 
-x1 is a fly [a small non-stinging flying insect] of species/breed x2.
+Word: sfani
+Rafsi: 
+Definition: x1 is a fly [a small non-stinging flying insect] of species/breed x2.
 
+Notes:
 See also {cinki}, {bifce}.
 
 Examples:

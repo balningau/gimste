@@ -1,7 +1,9 @@
 
-rinka - rik, ri'a
-x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3.
+Word: rinka
+Rafsi: rik, ri'a
+Definition: x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3.
 
+Notes:
 $x_1$ is a material condition for $x_2$; $x_1$ gives rise to $x_2$.  See also {gasnu}, {krinu}, {nibli}, te {zukte}, se {jalge}, {bapli}, {jitro}, cmavo list {ri'a}, {mukti}, {ciksi}, {xruti}.
 
 Examples:

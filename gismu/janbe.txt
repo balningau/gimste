@@ -1,7 +1,9 @@
 
-janbe - jab
-x1 is a bell/chime/[tuning fork] [tuned percussion instrument] producing sound/note x2.
+Word: janbe
+Rafsi: jab
+Definition: x1 is a bell/chime/[tuning fork] [tuned percussion instrument] producing sound/note x2.
 
+Notes:
 Also: $x_1$ rings/tolls (i.e. if it rings, then it is a bell); resonates (one sense, = {jabdesku}).  See also {zgike}, {tonga}, {desku}, {slilu}.
 
 Examples:

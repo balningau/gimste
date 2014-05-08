@@ -1,7 +1,9 @@
 
-spofu - pof, po'u
-x1 is broken/inoperable/broken down/non-utile/not usable for function x2.
+Word: spofu
+Rafsi: pof, po'u
+Definition: x1 is broken/inoperable/broken down/non-utile/not usable for function x2.
 
+Notes:
 Agentive break, cause to become inoperable (= {pofygau}, {pofyzu'e}); accidentally break, as a result of an event, non-agentive (= {pofyja'e}, {nutpo'uja'e}).  See also {daspo}, {katna}, {porpi}, {se} {xrani}, {cikre}.
 
 Examples:

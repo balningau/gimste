@@ -1,7 +1,9 @@
 
-donri - dor, do'i
-x1 is the daytime of day x2 at location x3; (adjective:) x1 is diurnal (vs. nocturnal).
+Word: donri
+Rafsi: dor, do'i
+Definition: x1 is the daytime of day x2 at location x3; (adjective:) x1 is diurnal (vs. nocturnal).
 
+Notes:
 See also {nicte}, {djedi}, {tcika}.
 
 Examples:

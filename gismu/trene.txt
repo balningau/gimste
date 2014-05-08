@@ -1,7 +1,9 @@
 
-trene - ren, re'e
-x1 is a train [vehicle] of cars/units x2 (mass) for rails/system/railroad x3, propelled by x4.
+Word: trene
+Rafsi: ren, re'e
+Definition: x1 is a train [vehicle] of cars/units x2 (mass) for rails/system/railroad x3, propelled by x4.
 
+Notes:
 A railed vehicle or train of vehicles; also subway ({tu'unre'e}), metro, trolley, tramway (= {lajre'e}), roller coaster; monorail (= {dadre'e}); cable car, sky car, ski lift (= {cildadre'e}).  See also {tcana}.
 
 Examples:

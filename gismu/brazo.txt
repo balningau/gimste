@@ -1,7 +1,9 @@
 
-brazo - raz
-x1 reflects Brazilian culture/nationality/language in aspect x2.
+Word: brazo
+Rafsi: raz
+Definition: x1 reflects Brazilian culture/nationality/language in aspect x2.
 
+Notes:
 See also {porto}, {ketco}.
 
 Examples:

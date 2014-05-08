@@ -1,7 +1,9 @@
 
-misno - mis, mi'o
-x1 (person/object/event) is famous/renowned/is a celebrity among community of persons x2 (mass).
+Word: misno
+Rafsi: mis, mi'o
+Definition: x1 (person/object/event) is famous/renowned/is a celebrity among community of persons x2 (mass).
 
+Notes:
 Also celebrated/well-known; (derogative meanings:) notorious/infamous (= {malmi'o}; these could also be expressed using the referenced words).  See also se {sinma}, {banli}.
 
 Examples:

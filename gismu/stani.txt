@@ -1,7 +1,9 @@
 
-stani - 
-x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor: main support].
+Word: stani
+Rafsi: 
+Definition: x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor: main support].
 
+Notes:
 See also {tuple}, {mudri}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-zasni - zas
-x1 is temporary/not permanent/expected to change in property x2 (ka) by standard/expectant x3.
+Word: zasni
+Rafsi: zas
+Definition: x1 is temporary/not permanent/expected to change in property x2 (ka) by standard/expectant x3.
 
+Notes:
 Also transient.  See also {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali}, {tcini}, {vitke}.
 
 Examples:

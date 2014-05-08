@@ -1,7 +1,9 @@
 
-clika - 
-x1 is a moss/lichen of species/strain x2 growing on x3; (adjective:) x1 is mossy.
+Word: clika
+Rafsi: 
+Definition: x1 is a moss/lichen of species/strain x2 growing on x3; (adjective:) x1 is mossy.
 
+Notes:
 See also {mledi}.
 
 Examples:

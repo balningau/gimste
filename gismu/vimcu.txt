@@ -1,7 +1,9 @@
 
-vimcu - vic, vi'u
-x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving result/remnant/remainder x4.
+Word: vimcu
+Rafsi: vic, vi'u
+Definition: x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving result/remnant/remainder x4.
 
+Notes:
 Also appropriates, confiscates; alienation is inherent.  See also {lebna}, {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}.
 
 Examples:

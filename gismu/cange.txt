@@ -1,7 +1,9 @@
 
-cange - cag
-x1 is a farm/ranch at x2, farmed by x3, raising/producing x4; (adjective:) x1 is agrarian.
+Word: cange
+Rafsi: cag
+Definition: x1 is a farm/ranch at x2, farmed by x3, raising/producing x4; (adjective:) x1 is agrarian.
 
+Notes:
 Also grange; farming is any organized agrarian activity, not limited to plant crops.  See also {purdi}, {nurma}, {ferti}, {foldi}, {xarju}.
 
 Examples:

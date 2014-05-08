@@ -1,7 +1,9 @@
 
-kucli - 
-x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract).
+Word: kucli
+Rafsi: 
+Definition: x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract).
 
+Notes:
 Inquisitive (= {retkucli}).  See also {manci}, {sisku}, se {cinri}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-civla - civ
-x1 is a louse/flea [blood-sucking arthropod] of species/breed x2, parasitic on x3.
+Word: civla
+Rafsi: civ
+Definition: x1 is a louse/flea [blood-sucking arthropod] of species/breed x2, parasitic on x3.
 
+Notes:
 See also {cinki}, {jalra}.
 
 Examples:

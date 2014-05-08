@@ -1,7 +1,9 @@
 
-lanzu - laz
-x1 (mass) is a family with members including x2 bonded/tied/joined according to standard x3.
+Word: lanzu
+Rafsi: laz
+Definition: x1 (mass) is a family with members including x2 bonded/tied/joined according to standard x3.
 
+Notes:
 Also clan, tribe; $x_2$ is in $x_1$, a member of $x_1$ ({selylanzu} for reordered places); relative (= {lazmi'u} - xy mintu y'y leka cmima da poi lanzu).  See also {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
 
 Examples:

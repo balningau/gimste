@@ -1,7 +1,9 @@
 
-binra - 
-x1 insures/indemnifies x2 (person) against peril x3 (event) providing benefit(s) x4 (event).
+Word: binra
+Rafsi: 
+Definition: x1 insures/indemnifies x2 (person) against peril x3 (event) providing benefit(s) x4 (event).
 
+Notes:
 Also $x_3$ loss; sell/purchase insurance (= {binryve'u}), premium (= {binrydi'a}, or {binryvelve'u}).  See also {bandu}, {cirko}, {betri}, {basti}, {bilma}.
 
 Examples:

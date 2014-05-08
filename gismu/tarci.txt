@@ -1,7 +1,9 @@
 
-tarci - tar
-x1 is a star/sun with stellar properties x2.
+Word: tarci
+Rafsi: tar
+Definition: x1 is a star/sun with stellar properties x2.
 
+Notes:
 See also {solri}, {tsani}.
 
 Examples:

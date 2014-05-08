@@ -1,7 +1,9 @@
 
-xadba - xab
-x1 is exactly/approximately half/semi-/demi-/hemi- of x2 by standard x3.
+Word: xadba
+Rafsi: xab
+Definition: x1 is exactly/approximately half/semi-/demi-/hemi- of x2 by standard x3.
 
+Notes:
 See also {mulno}, {pagbu}.
 
 Examples:

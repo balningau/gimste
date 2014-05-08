@@ -1,7 +1,9 @@
 
-grasu - ras
-x1 is a quantity of/is made of/contains grease/fat/oil from source x2.
+Word: grasu
+Rafsi: ras
+Definition: x1 is a quantity of/is made of/contains grease/fat/oil from source x2.
 
+Notes:
 See also {ctile}, {matne}, {plana}.
 
 Examples:

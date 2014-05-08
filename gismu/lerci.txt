@@ -1,7 +1,9 @@
 
-lerci - lec
-x1 (event) is late by standard x2.
+Word: lerci
+Rafsi: lec
+Definition: x1 (event) is late by standard x2.
 
+Notes:
 See also {clira}.
 
 Examples:

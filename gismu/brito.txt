@@ -1,7 +1,9 @@
 
-brito - rit
-x1 reflects British/United Kingdom culture/nationality in aspect x2.
+Word: brito
+Rafsi: rit
+Definition: x1 reflects British/United Kingdom culture/nationality in aspect x2.
 
+Notes:
 See also {glico}, {skoto}, {merko}, {ropno}.
 
 Examples:

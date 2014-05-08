@@ -1,7 +1,9 @@
 
-morko - mor
-x1 reflects Moroccan culture/nationality in aspect x2.
+Word: morko
+Rafsi: mor
+Definition: x1 reflects Moroccan culture/nationality in aspect x2.
 
+Notes:
 See also {friko}, {xrabo}, {muslo}.
 
 Examples:

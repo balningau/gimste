@@ -1,7 +1,9 @@
 
-xasli - 
-x1 is a donkey/jackass of species/breed x2.
+Word: xasli
+Rafsi: 
+Definition: x1 is a donkey/jackass of species/breed x2.
 
+Notes:
 See also {xirma}, {kumte}.
 
 Examples:

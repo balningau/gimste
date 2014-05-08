@@ -1,7 +1,9 @@
 
-fapro - fap, pro
-x1 opposes/balances/contends against opponent(s) x2 (person/force ind./mass) about x3 (abstract).
+Word: fapro
+Rafsi: fap, pro
+Definition: x1 opposes/balances/contends against opponent(s) x2 (person/force ind./mass) about x3 (abstract).
 
+Notes:
 Also resists.  See also {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe}, {rivbi}, {sarji}, {xarnu}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-prali - pal
-x1 is a profit/gain/benefit/advantage to x2 accruing/resulting from activity/process x3.
+Word: prali
+Rafsi: pal
+Definition: x1 is a profit/gain/benefit/advantage to x2 accruing/resulting from activity/process x3.
 
+Notes:
 Also (fe) $x_2$ profits from $x_3$ (= {selterprali} for reordered places); $x_1$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {selposprali} for unambiguous semantics).  See also {vecnu}, {cnemu}, {pleji}, {jinga}, {canja}, {sfasa}, {jerna}, {jdima}, {dunda}, {zivle}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-tujli - tuj
-x1 is a tulip (defined by flower shape) of species/strain x2.
+Word: tujli
+Rafsi: tuj
+Definition: x1 is a tulip (defined by flower shape) of species/strain x2.
 
+Notes:
 See also {spati}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-mekso - mek, me'o
-x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2.
+Word: mekso
+Rafsi: mek, me'o
+Definition: x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2.
 
+Notes:
 See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
 
 Examples:

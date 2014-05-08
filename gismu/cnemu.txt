@@ -1,7 +1,9 @@
 
-cnemu - nem, ne'u
-x1 (agent) rewards x2 [recipient] for atypical x3 (event/property) with reward/desserts x4.
+Word: cnemu
+Rafsi: nem, ne'u
+Definition: x1 (agent) rewards x2 [recipient] for atypical x3 (event/property) with reward/desserts x4.
 
+Notes:
 Differs from earned payment because of atypical nature; rewards need not be positive but are in some sense deserved from the point of view of the rewarder: positive reward (= {zanyne'u}), punishment, penalty, demerit (= {malne'u}, {sfane'u}); $x_4$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posne'u}, {posyvelne'u} for unambiguous semantics).  See also {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali}, {dapma}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-porto - pot
-x1 reflects Portuguese culture/nationality/language in aspect x2.
+Word: porto
+Rafsi: pot
+Definition: x1 reflects Portuguese culture/nationality/language in aspect x2.
 
+Notes:
 See also {brazo}.
 
 Examples:

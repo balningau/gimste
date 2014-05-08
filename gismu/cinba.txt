@@ -1,7 +1,9 @@
 
-cinba - 
-x1 (agent) kisses/busses x2 at locus x3.
+Word: cinba
+Rafsi: 
+Definition: x1 (agent) kisses/busses x2 at locus x3.
 
+Notes:
 See also {ctebi}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-draci - 
-x1 is a drama/play about x2 [plot/theme/subject] by dramatist x3 for audience x4 with actors x5.
+Word: draci
+Rafsi: 
+Definition: x1 is a drama/play about x2 [plot/theme/subject] by dramatist x3 for audience x4 with actors x5.
 
+Notes:
 $x_2$ may also be a convention. See also {finti}, {cukta}, {lisri}, {cfika}.
 
 Examples:

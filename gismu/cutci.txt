@@ -1,7 +1,9 @@
 
-cutci - cuc
-x1 is a shoe/boot/sandal for covering/protecting [feet/hooves] x2, and of material x3.
+Word: cutci
+Rafsi: cuc
+Definition: x1 is a shoe/boot/sandal for covering/protecting [feet/hooves] x2, and of material x3.
 
+Notes:
 Also boot (= {tupcutci}).  See also {smoka}, {taxfu}, {skiji}.
 
 Examples:

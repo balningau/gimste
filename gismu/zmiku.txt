@@ -1,7 +1,9 @@
 
-zmiku - zmi
-x1 is automatic in function x2 under conditions x3.
+Word: zmiku
+Rafsi: zmi
+Definition: x1 is automatic in function x2 under conditions x3.
 
+Notes:
 See also {macnu}.
 
 Examples:

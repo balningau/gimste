@@ -1,7 +1,9 @@
 
-zdani - zda
-x1 is a nest/house/lair/den/[home] of/for x2.
+Word: zdani
+Rafsi: zda
+Definition: x1 is a nest/house/lair/den/[home] of/for x2.
 
+Notes:
 Home (= {tercnizda}), house (constructed building) (= {zdadi'u}).  See also {dinju}, {ginka}, {kumfa}, se {xabju}.
 
 Examples:

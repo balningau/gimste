@@ -1,7 +1,9 @@
 
-minde - mid, mi'e
-x1 issues commands/orders to x2 for result x3 (event/state) to happen; x3 is commanded to occur.
+Word: minde
+Rafsi: mid, mi'e
+Definition: x1 issues commands/orders to x2 for result x3 (event/state) to happen; x3 is commanded to occur.
 
+Notes:
 [also: $x_1$ orders/sets/Triggers. $x_2$ to do/bring about $x_3$; $x_1$ is a commander; commanded (= {termi'e})]; See also {lacri}, te {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe}.
 
 Examples:

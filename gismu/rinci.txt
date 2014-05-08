@@ -1,7 +1,9 @@
 
-rinci - 
-x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer x3 by force x4.
+Word: rinci
+Rafsi: 
+Definition: x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer x3 by force x4.
 
+Notes:
 $x_4$ is usually gravity.  See also {pambe}, {tisna}, {setca}, {flecu}, {muvdu}, {ganxo}, {rirxe}.
 
 Examples:

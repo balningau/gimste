@@ -1,7 +1,9 @@
 
-stuna - sun
-x1 is to the east/eastern side of x2 according to frame of reference x3.
+Word: stuna
+Rafsi: sun
+Definition: x1 is to the east/eastern side of x2 according to frame of reference x3.
 
+Notes:
 See also {stici}, {berti}, {snanu}, {farna}.
 
 Examples:

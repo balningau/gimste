@@ -1,7 +1,9 @@
 
-xarju - xaj
-x1 is a pig/hog/swine/[boar] [pork/ham/bacon-producer] of species/breed x2.
+Word: xarju
+Rafsi: xaj
+Definition: x1 is a pig/hog/swine/[boar] [pork/ham/bacon-producer] of species/breed x2.
 
+Notes:
 Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}).  See also {mabru}, {cange}.
 
 Examples:

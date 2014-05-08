@@ -1,7 +1,9 @@
 
-zunle - zul
-x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference x3.
+Word: zunle
+Rafsi: zul
+Definition: x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference x3.
 
+Notes:
 Also $x_3$ is the standard of orientation for $x_2$.  See also cmavo list {zu'a}, {pritu}, {mlana}, {crane}, {trixe}, {farna}.
 
 Examples:

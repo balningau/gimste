@@ -1,7 +1,9 @@
 
-bolci - bol, boi
-x1 is a ball/sphere/orb/globe [shape/form] of material x2; x1 is a spherical object [made of x2].
+Word: bolci
+Rafsi: bol, boi
+Definition: x1 is a ball/sphere/orb/globe [shape/form] of material x2; x1 is a spherical object [made of x2].
 
+Notes:
 Also round.  See also {bliku}, {cukla}, {bidju}, {gunro}.
 
 Examples:

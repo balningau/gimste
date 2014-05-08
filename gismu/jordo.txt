@@ -1,7 +1,9 @@
 
-jordo - jor, jo'o
-x1 reflects Jordanian culture/nationality in aspect x2.
+Word: jordo
+Rafsi: jor, jo'o
+Definition: x1 reflects Jordanian culture/nationality in aspect x2.
 
+Notes:
 See also {filso}.
 
 Examples:

@@ -1,7 +1,9 @@
 
-xebni - xen, xei
-x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1.
+Word: xebni
+Rafsi: xen, xei
+Definition: x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1.
 
+Notes:
 $x_1$ is hateful (one sense); $x_2$ is hateful (different sense).  See also {djica}, {nitcu}, {rigni}, {prami}, {nelci}.
 
 Examples:

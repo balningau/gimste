@@ -1,7 +1,9 @@
 
-bumru - bum
-x1 is foggy/misty/covered by a fog/mist/vapor of liquid x2.
+Word: bumru
+Rafsi: bum
+Definition: x1 is foggy/misty/covered by a fog/mist/vapor of liquid x2.
 
+Notes:
 See also {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
 
 Examples:

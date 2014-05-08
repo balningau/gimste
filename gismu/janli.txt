@@ -1,7 +1,9 @@
 
-janli - jal
-x1 collides with/crashes/bumps/runs into x2.
+Word: janli
+Rafsi: jal
+Definition: x1 collides with/crashes/bumps/runs into x2.
 
+Notes:
 (also collide = {simjanli} for a collision between two moving objects); See also {darxi}.
 
 Examples:

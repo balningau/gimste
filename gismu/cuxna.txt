@@ -1,7 +1,9 @@
 
-cuxna - cux, cu'a
-x1 chooses/selects x2 [choice] from set/sequence of alternatives x3 (complete set).
+Word: cuxna
+Rafsi: cux, cu'a
+Definition: x1 chooses/selects x2 [choice] from set/sequence of alternatives x3 (complete set).
 
+Notes:
 Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}.
 
 Examples:

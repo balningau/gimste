@@ -1,7 +1,9 @@
 
-sudga - sud
-x1 is dry of liquid x2; (adjective:) x1 is arid.
+Word: sudga
+Rafsi: sud
+Definition: x1 is dry of liquid x2; (adjective:) x1 is arid.
 
+Notes:
 See also {cilmo}, {litki}, {runta}.
 
 Examples:

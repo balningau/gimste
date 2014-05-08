@@ -1,7 +1,9 @@
 
-damri - 
-x1 is a drum/cymbal/gong [percussion musical instrument] with beater/actuator x2.
+Word: damri
+Rafsi: 
+Definition: x1 is a drum/cymbal/gong [percussion musical instrument] with beater/actuator x2.
 
+Notes:
 See also {rilti}, {zgike}.
 
 Examples:

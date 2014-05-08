@@ -1,7 +1,9 @@
 
-sunga - sug
-x1 is a quantity of garlic [bulb] of species/strain x2.
+Word: sunga
+Rafsi: sug
+Definition: x1 is a quantity of garlic [bulb] of species/strain x2.
 
+Notes:
 See also {stagi}.
 
 Examples:

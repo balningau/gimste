@@ -1,7 +1,9 @@
 
-mlana - mla
-x1 is to the side of/lateral to x2 and facing x3 from point of view/in-frame-of-reference x4.
+Word: mlana
+Rafsi: mla
+Definition: x1 is to the side of/lateral to x2 and facing x3 from point of view/in-frame-of-reference x4.
 
+Notes:
 (cf. {crane}, {trixe}, {pritu}, {zunle} which differ in that the direction of facing is the front and not the lateral side.  The $x_4$ of mlana may be either the front, or back side of $x_2$, {korbi})
 
 Examples:

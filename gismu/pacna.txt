@@ -1,7 +1,9 @@
 
-pacna - pa'a
-x1 hopes/wishes for/desires x2 (event), expected likelihood x3 (0-1); x1 hopes that x2 happens.
+Word: pacna
+Rafsi: pa'a
+Definition: x1 hopes/wishes for/desires x2 (event), expected likelihood x3 (0-1); x1 hopes that x2 happens.
 
+Notes:
 Also: $x_1$ is hopeful of $x_2$; $x_2$ will hopefully occur, as hoped for by $x_1$; the value of $x_3$ is a subjective estimate of likeliness according to $x_1$, and is the basic determinant of whether pacna means 'hope' or 'wish' or 'expect': hoping for objects/states with negligible expectation is "wishing"; if the state is plausibly likely, it is "hoping"; when the probability is subjectively near 1, the attitude is described as "expecting"; the value will usually be expressed using inexact numbers ("{li} {piso'u}" to "{li} {piro}"); wish (= {sotpa'a}), hope (= {sorpa'a}), expect (= {sojypa'a}).  See also {djica}.
 
 Examples:

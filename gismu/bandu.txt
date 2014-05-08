@@ -1,7 +1,9 @@
 
-bandu - bad
-x1 (event) defends/protects x2 (object/state) from threat/peril/potential x3 (event).
+Word: bandu
+Rafsi: bad
+Definition: x1 (event) defends/protects x2 (object/state) from threat/peril/potential x3 (event).
 
+Notes:
 Also secures (verb); $x_1$ wards/resists $x_3$; protective cover/shield (= {badgai}).  See also {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra}, {lunbe}, {pulji}.
 
 Examples:

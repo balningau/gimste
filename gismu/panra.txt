@@ -1,7 +1,9 @@
 
-panra - 
-x1 parallels x2 differing only in property x3 (ka; jo'u/fa'u term) by standard/geometry x4.
+Word: panra
+Rafsi: 
+Definition: x1 parallels x2 differing only in property x3 (ka; jo'u/fa'u term) by standard/geometry x4.
 
+Notes:
 Also: $x_1$ is parallel to $x_2$, $x_3$ is the only difference between $x_1$ and $x_2$ (= {terpanra} for reordered places); $x_1$ and $x_2$ are alike/similar/congruent.   A parallel involves extreme close similarity/correspondence across the entirety of the things being compared, generally involving multiple properties, with focus placed on one or a small number of differences. See also {pa'a}, {mintu}, {simsa}, {girzu}, {vrici}.
 
 Examples:

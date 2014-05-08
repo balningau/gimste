@@ -1,7 +1,9 @@
 
-xanri - xar
-x1 [concept] exists in the imagination of/is imagined by/is imaginary to x2.
+Word: xanri
+Rafsi: xar
+Definition: x1 [concept] exists in the imagination of/is imagined by/is imaginary to x2.
 
+Notes:
 Also (adjective:) $x_1$ is mental (one sense), $x_1$ is unreal (one sense); in spite of the synonym, note that $x_1$ is imaginary does not imply that it doesn't exist in the real world; the definition is crafted so that one can talk about imaginary things without claiming that they thereby don't exist.  See also {fatci}, {senva}, {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.
 
 Examples:

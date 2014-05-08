@@ -1,7 +1,9 @@
 
-kanba - 
-x1 is a goat/angora/[billy-goat/kid] of species/breed x2.
+Word: kanba
+Rafsi: 
+Definition: x1 is a goat/angora/[billy-goat/kid] of species/breed x2.
 
+Notes:
 See also {lanme}, {sunla}.
 
 Examples:

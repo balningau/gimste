@@ -1,7 +1,9 @@
 
-janco - jan
-x1 is a/the shoulder/hip/joint [body-part] attaching limb/extremity x2 to body x3.
+Word: janco
+Rafsi: jan
+Definition: x1 is a/the shoulder/hip/joint [body-part] attaching limb/extremity x2 to body x3.
 
+Notes:
 See also {birka}.
 
 Examples:

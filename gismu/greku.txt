@@ -1,7 +1,9 @@
 
-greku - rek
-x1 is a frame/structure/skeleton/outline supporting/load-bearing/determining the form of x2.
+Word: greku
+Rafsi: rek
+Definition: x1 is a frame/structure/skeleton/outline supporting/load-bearing/determining the form of x2.
 
+Notes:
 See also {korbi}, {stura}, {tsina}, {bongu}.
 
 Examples:

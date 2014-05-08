@@ -1,7 +1,9 @@
 
-narju - naj
-x1 is orange [color adjective].
+Word: narju
+Rafsi: naj
+Definition: x1 is orange [color adjective].
 
+Notes:
 See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
 
 Examples:

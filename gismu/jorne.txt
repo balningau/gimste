@@ -1,7 +1,9 @@
 
-jorne - jon, jo'e
-x1 is joined to/connects to/is united with x2 at common locus x3; x1 and x2 are a union.
+Word: jorne
+Rafsi: jon, jo'e
+Definition: x1 is joined to/connects to/is united with x2 at common locus x3; x1 and x2 are a union.
 
+Notes:
 Also joined/fastened/attached by joint $x_3$/by means of $x_3$/with fastener $x_3$; fastener (= {jo'etci}, {jonvelyla'a}); train, sequence of joined objects (= {jonpoi}; {porjo'e} for a single object joined into a sequence).  See also {lasna}, {fenso}, {kansa}, {pencu}, {penmi}.
 
 Examples:

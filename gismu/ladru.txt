@@ -1,7 +1,9 @@
 
-ladru - lad
-x1 is made of/contains/is a quantity of milk from source x2; (adjective:) x1 is lactic/dairy.
+Word: ladru
+Rafsi: lad
+Definition: x1 is made of/contains/is a quantity of milk from source x2; (adjective:) x1 is lactic/dairy.
 
+Notes:
 See also {lanbi}, {mabru}, {tatru}, {cirla}, {kruji}.
 
 Examples:

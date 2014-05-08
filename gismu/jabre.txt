@@ -1,7 +1,9 @@
 
-jabre - 
-x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle x3.
+Word: jabre
+Rafsi: 
+Definition: x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle x3.
 
+Notes:
 See also {mosra}.
 
 Examples:

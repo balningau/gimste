@@ -1,7 +1,9 @@
 
-brode - bo'e
-2nd assignable variable predicate (context determines place structure).
+Word: brode
+Rafsi: bo'e
+Definition: 2nd assignable variable predicate (context determines place structure).
 
+Notes:
 No notes available.
 
 Examples:
