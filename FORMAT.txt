@@ -1,5 +1,4 @@
 <spelling>
-<type>
 <rafsi>
 <definition>
 <examples>
