@@ -43,7 +43,12 @@ for valsi in gismu:
         notes = u'No notes available.'
     print "{} ({}) : {}".format(word, rafsi, definition)
 
-    with codecs.open(os.path.join(EXPORT_PATH, "{}.txt".format(word)), 'w', 'utf-8') as fobj:
+    parent_path = os.path.join(EXPORT_PATH, word[0])
+
+    if not os.path.isdir(parent_path):
+        os.makedirs(parent_path)
+
+    with codecs.open(os.path.join(parent_path, "{}.txt".format(word)), 'w', 'utf-8') as fobj:
         fobj.write(u"""
 Word: {}
 Rafsi: {}
