@@ -83,3 +83,19 @@ Request` button. It will then become immediately available for review by
 others.
 
 ![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/submitting-proposal.png "Submitting Proposal")
+
+You can now review your proposal. Bookmark this page! This is the page where
+all discussion revolving around your proposal will appear. If you want to see
+the actual changes your proposal introduced you can click the `Commits` tab
+encircled in red below:
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/reviewing-proposal.png "Reviewing Proposal")
+
+Then click on the commit message encircled in red below:
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/review-commit.png "Reviewing Commit")
+
+You can then see the exact change you made to the file as shown below:
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/review-diff.png "Reviewing Diff")
+
