@@ -32,20 +32,15 @@ https://github.com/balningau/gimste
 
 You should see a listing of the files inside the gimste repo:
 
-![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/viewing-the
--repo
-.png "Viewing the repository")
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/viewing-the-repo.png "Viewing the repository")
 
 By clicking on the `gismu` folder, you will see a listing of all the gismu
 organized alphabetically. Let's assume we want to make a change to `traji` so
  we will open the `t` folder:
 
-![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/selecting-a
--gismu
-.png "Selecting a gismu")
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/selecting-a-gismu.png "Selecting a gismu")
 
-![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/in-the-t-folder
-.png "In the T folder")
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/in-the-t-folder.png "In the T folder")
 
 
 
