@@ -1,9 +1,8 @@
 
 Word: traji
 Rafsi: rai
-Definition: x1 is superlative in property x2 (ka), the x3 extreme (ka; default ka zmadu) among set/range x4.
+Definition: x1 is superlative in property x2 (ka), among set/range x3.
 
 Notes:
-Also: $x_1$ is $x_3$-est/utmost in $x_2$ among $x_4$; $x_1$ is the $x_3$ end of $x_4$; $x_1$ is extreme; $x_1$ is simply $x_3$.  (cf. cmavo list {rai}, {jimte}, {milxe}, {mutce}, note contrast with milxe and mutce rather than with mleca and zmadu, which are values for $x_3$, {banli}, {curve}, {fanmo}, {krasi}, {manfo}, {prane})
 
 Examples:
