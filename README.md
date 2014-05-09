@@ -12,6 +12,8 @@ The Process
 The process is yet to be clearly defined but should administrative needs become apparent we can work them out
 then. For now, we will simply begin the work. Below is some basic guidelines for participating.
 
+TODO: write guidelines
+
 
 Questions?
 ----------
