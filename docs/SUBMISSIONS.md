@@ -89,7 +89,7 @@ all discussion revolving around your proposal will appear. If you want to see
 the actual changes your proposal introduced you can click the `Commits` tab
 encircled in red below:
 
-![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/reviewing-proposal.png "Reviewing Proposal")
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/review-proposal.png "Reviewing Proposal")
 
 Then click on the commit message encircled in red below:
 
