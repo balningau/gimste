@@ -17,7 +17,7 @@ The general outline for submitting a change proposal is as follows:
   1. Click a gismu text file
   2. Click the edit button
   3. Apply your changes to the file
-  4. Click *Propose Change*
+  4. Click *Propose file change*
   5. Edit the *Pull Request* and defend your change
 
 
@@ -43,5 +43,43 @@ organized alphabetically. Let's assume we want to make a change to `traji` so
 ![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/in-the-t-folder.png "In the T folder")
 
 
+Editing the desired file:
+-------------------------
+
+After clicking `traji.txt` we should be presented with the contents of the
+file:
 
 
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/viewing-traji.png "Viewing Traji")
+
+If we click on the `Edit` button, encircled in red above we can now make
+changes to the file by utilizing the web-editor:
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/editing-traji.png "Editing Traji")
+
+Here we can see that we have made some changes to the original text. We have
+changed its place structure by removing x3 and have remove the notes:
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/changing-traji.png "Changing Traji")
+
+Now if we are satisfied with our changes we can actually submit those changes
+by clicking the `Propose file change` button at the bottom:
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/submitting-changes.png "Submitting Changes")
+
+This screen is now asking us to describe our proposed changed. It has a title
+and a description. For the title, we want to start it off with the word that
+we're changing so that it is easy to identify later. A short description of
+the change can follow.
+
+The the larger description field it is up to us to write up a meaningful
+defense for the proposed change. Any reasoning and rationale for the change
+should be provided. Any evidence from the corpus will greatly help your cause.
+Anything you want to say in order to convince others that your proposal
+should be accepted should go here.
+
+When we are satisfied with out proposal we finish by clicking the `Send Pull
+Request` button. It will then become immediately available for review by
+others.
+
+![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/submitting-proposal.png "Submitting Proposal")
