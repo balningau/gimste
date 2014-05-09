@@ -1,7 +1,7 @@
 
 Word: zabna
 Rafsi: zan, za'a
-Definition: x1 is a favorable connotation/sense/way-of-looking-at x2 used by x3.
+Definition: x1 is favorable/great/superb/fabulous/dandy/outstanding/swell/admirable/nice/commendable/delightful/desirable/enjoyable/laudable/likable/lovable/wonderful/praiseworthy/high-quality/cool in property x2 by standard x3; x1 rocks in aspect x2 according to x3.
 
 Notes:
 See also {funca}, {mabla}, {xamgu}, {vrude}.
