@@ -1,4 +1,3 @@
-
 Word: clira
 Rafsi: lir
 Definition: x1 (event) is early by standard x2.

@@ -1,4 +1,3 @@
-
 Word: rorci
 Rafsi: ror
 Definition: x1 engenders/procreates/begets x2 with coparent x3.

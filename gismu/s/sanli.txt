@@ -1,4 +1,3 @@
-
 Word: sanli
 Rafsi: sa'i
 Definition: x1 stands [is vertically oriented] on surface x2 supported by limbs/support/pedestal x3.

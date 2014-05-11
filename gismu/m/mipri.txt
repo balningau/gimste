@@ -1,4 +1,3 @@
-
 Word: mipri
 Rafsi: mip
 Definition: x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret; x1 hides/conceals x2.

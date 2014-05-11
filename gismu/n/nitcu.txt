@@ -1,4 +1,3 @@
-
 Word: nitcu
 Rafsi: tcu
 Definition: x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage of process x3.

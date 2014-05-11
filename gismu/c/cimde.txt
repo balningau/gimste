@@ -1,4 +1,3 @@
-
 Word: cimde
 Rafsi: 
 Definition: x1 (property - ka) is a dimension of space/object x2 according to rules/model x3.

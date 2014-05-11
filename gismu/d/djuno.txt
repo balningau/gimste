@@ -1,4 +1,3 @@
-
 Word: djuno
 Rafsi: jun, ju'o
 Definition: x1 knows fact(s) x2 (du'u) about subject x3 by epistemology x4.

@@ -1,4 +1,3 @@
-
 Word: spuda
 Rafsi: spu
 Definition: x1 answers/replies to/responds to person/object/event/situation/stimulus x2 with response x3.

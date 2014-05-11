@@ -1,4 +1,3 @@
-
 Word: jeftu
 Rafsi: jef
 Definition: x1 is x2 weeks in duration (default is 1 week) by standard x3.

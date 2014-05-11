@@ -1,4 +1,3 @@
-
 Word: ragve
 Rafsi: rav
 Definition: x1 is located across/on the other side of gap/boundary x2 from x3; x1 is opposite (fi) x3.

@@ -1,4 +1,3 @@
-
 Word: gusni
 Rafsi: gus, gu'i
 Definition: $x_1$ [energy] is light/illumination illuminating $x_2$ from light source $x_3$.

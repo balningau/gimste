@@ -1,4 +1,3 @@
-
 Word: tarti
 Rafsi: tra
 Definition: x1 behaves/conducts oneself as/in-manner x2 (event/property) under conditions x3.

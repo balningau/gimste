@@ -1,4 +1,3 @@
-
 Word: manfo
 Rafsi: 
 Definition: x1 (object/event) is uniform/homogeneous in property x2 (ka).

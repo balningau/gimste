@@ -1,4 +1,3 @@
-
 Word: temci
 Rafsi: tem, tei
 Definition: x1 is the time-duration/interval/period/[elapsed time] from time/event x2 to time/event x3.

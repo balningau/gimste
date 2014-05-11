@@ -1,4 +1,3 @@
-
 Word: pixra
 Rafsi: pir, xra
 Definition: x1 is a picture/illustration representing/showing x2, made by artist x3 in medium x4.

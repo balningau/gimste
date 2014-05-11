@@ -1,4 +1,3 @@
-
 Word: nivji
 Rafsi: niv
 Definition: x1 (agent) knits x2 [cloth/object] from yarn/thread x3.

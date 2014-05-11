@@ -1,4 +1,3 @@
-
 Word: torni
 Rafsi: ton, to'i
 Definition: x1 twists under load/force/torsion x2.

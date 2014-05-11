@@ -1,4 +1,3 @@
-
 Word: catlu
 Rafsi: cta
 Definition: x1 looks at/examines/views/inspects/regards/watches/gazes at x2.

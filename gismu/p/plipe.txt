@@ -1,4 +1,3 @@
-
 Word: plipe
 Rafsi: pip, pi'e
 Definition: x1 (agent/object) leaps/jumps/springs/bounds to x2 from x3 reaching height x4 propelled by x5.

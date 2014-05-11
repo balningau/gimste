@@ -1,4 +1,3 @@
-
 Word: konju
 Rafsi: kon, ko'u
 Definition: x1 is a cone [shape/form] of material x2 with vertex x3.

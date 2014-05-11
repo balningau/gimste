@@ -1,4 +1,3 @@
-
 Word: gradu
 Rafsi: rau
 Definition: x1 [magnitude] is a unit/degree of/on scale/reference standard x2 (si'o) measuring property x3.

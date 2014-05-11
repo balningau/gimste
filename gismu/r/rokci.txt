@@ -1,4 +1,3 @@
-
 Word: rokci
 Rafsi: rok, ro'i
 Definition: x1 is a quantity of/is made of/contains rock/stone of type/composition x2 from location x3.

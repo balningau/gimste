@@ -1,4 +1,3 @@
-
 Word: fatne
 Rafsi: fat, fa'e
 Definition: x1 [sequence] is in reverse order from x2 [sequence]; x1 (object) is inverted from x2 (object).

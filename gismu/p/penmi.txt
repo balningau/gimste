@@ -1,4 +1,3 @@
-
 Word: penmi
 Rafsi: pen, pe'i
 Definition: x1 meets/encounters x2 at/in location x3.

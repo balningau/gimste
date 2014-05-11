@@ -1,4 +1,3 @@
-
 Word: matne
 Rafsi: 
 Definition: x1 is a quantity of/contains butter/oleo/margarine/shortening from source x2.

@@ -1,4 +1,3 @@
-
 Word: simxu
 Rafsi: sim, si'u
 Definition: x1 (set) has members who mutually/reciprocally x2 (event [x1 should be reflexive in 1+ sumti]).

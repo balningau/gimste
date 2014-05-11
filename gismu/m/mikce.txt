@@ -1,4 +1,3 @@
-
 Word: mikce
 Rafsi: mic
 Definition: x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4.

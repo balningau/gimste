@@ -1,4 +1,3 @@
-
 Word: stidi
 Rafsi: sid, ti'i
 Definition: x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event) inspires x2 in/among x3.

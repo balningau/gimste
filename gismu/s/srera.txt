@@ -1,4 +1,3 @@
-
 Word: srera
 Rafsi: sre
 Definition: x1 errs in doing/being/making mistake x2 (event), an error under conditions x3 by standard x4.

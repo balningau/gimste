@@ -1,4 +1,3 @@
-
 Word: kalri
 Rafsi: kar
 Definition: x1 (portal/passage/entrance-way) is open/ajar/not shut permitting passage/access to x2 by x3.

@@ -1,4 +1,3 @@
-
 Word: lisri
 Rafsi: lis
 Definition: x1 is a story/tale/yarn/narrative about plot/subject/moral x2 by storyteller x3 to audience x4.

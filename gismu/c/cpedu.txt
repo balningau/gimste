@@ -1,4 +1,3 @@
-
 Word: cpedu
 Rafsi: cpe
 Definition: x1 requests/asks/petitions/solicits for x2 of/from x3 in manner/form x4.

@@ -1,4 +1,3 @@
-
 Word: cecla
 Rafsi: cel, ce'a
 Definition: x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion].

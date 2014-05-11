@@ -1,4 +1,3 @@
-
 Word: rilti
 Rafsi: ril
 Definition: x1 (sequence/non-text quote) is a rhythm/beat of music/expressive form x2.

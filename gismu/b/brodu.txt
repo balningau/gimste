@@ -1,4 +1,3 @@
-
 Word: brodu
 Rafsi: 
 Definition: 5th assignable variable predicate (context determines place structure).

@@ -1,4 +1,3 @@
-
 Word: badna
 Rafsi: 
 Definition: x1 is a banana/plantain [fruit/plant] of species/breed x2.

@@ -1,4 +1,3 @@
-
 Word: daski
 Rafsi: 
 Definition: x1 is a pocket/pouch of/in garment/item x2.

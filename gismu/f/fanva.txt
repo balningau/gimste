@@ -1,4 +1,3 @@
-
 Word: fanva
 Rafsi: 
 Definition: x1 translates text/utterance x2 to language x3 from language x4 with translation result x5.

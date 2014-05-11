@@ -1,4 +1,3 @@
-
 Word: xlura
 Rafsi: xlu
 Definition: x1 (agent) influences/lures/tempts x2 into action/state x3 by influence/threat/lure x4.

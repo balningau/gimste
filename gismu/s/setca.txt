@@ -1,4 +1,3 @@
-
 Word: setca
 Rafsi: se'a
 Definition: x1 (agent) inserts/interposes/puts/deposits x2 into interior x3/into among/between members of x3.

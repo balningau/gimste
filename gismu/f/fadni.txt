@@ -1,4 +1,3 @@
-
 Word: fadni
 Rafsi: fad
 Definition: x1 [member] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).

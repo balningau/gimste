@@ -1,4 +1,3 @@
-
 Word: cmavo
 Rafsi: ma'o
 Definition: x1 is a structure word of grammatical class x2, with meaning/function x3 in usage (language) x4.

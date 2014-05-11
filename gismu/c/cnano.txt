@@ -1,4 +1,3 @@
-
 Word: cnano
 Rafsi: na'o
 Definition: x1 [value] is a norm/average in property/amount x2 (ka/ni) among x3(s) (set) by standard x4.

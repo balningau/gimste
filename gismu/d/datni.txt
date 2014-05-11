@@ -1,4 +1,3 @@
-
 Word: datni
 Rafsi: 
 Definition: x1 (du'u) [fact/measurement] is data/information/statistic(s) about x2 gathered by method x3.

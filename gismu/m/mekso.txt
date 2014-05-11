@@ -1,4 +1,3 @@
-
 Word: mekso
 Rafsi: mek, me'o
 Definition: x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2.

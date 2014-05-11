@@ -1,4 +1,3 @@
-
 Word: junla
 Rafsi: jul
 Definition: x1 is clock/watch/timer measuring time units x2 to precision x3 with timing mechanism/method x4.

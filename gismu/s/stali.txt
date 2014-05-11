@@ -1,4 +1,3 @@
-
 Word: stali
 Rafsi: sta
 Definition: x1 remains/stays at/abides/lasts with x2.

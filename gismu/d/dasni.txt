@@ -1,4 +1,3 @@
-
 Word: dasni
 Rafsi: das
 Definition: x1 wears/is robed/garbed in x2 as a garment of type x3.

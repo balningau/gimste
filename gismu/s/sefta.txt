@@ -1,4 +1,3 @@
-
 Word: sefta
 Rafsi: sfe
 Definition: x1 is surface/face [bounded shape/form] of [higher-dimension] object x2, on side x3, edges x4.

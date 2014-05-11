@@ -1,4 +1,3 @@
-
 Word: cirko
 Rafsi: cri
 Definition: x1 loses person/thing x2 at/near x3; x1 loses property/feature x2 in conditions/situation x3.

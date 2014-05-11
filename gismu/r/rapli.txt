@@ -1,4 +1,3 @@
-
 Word: rapli
 Rafsi: rap
 Definition: x1 [action] repeats/is repeated for a total of x2 (quantity) occurrences.

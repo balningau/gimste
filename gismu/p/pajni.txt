@@ -1,4 +1,3 @@
-
 Word: pajni
 Rafsi: pai
 Definition: x1 judges/referees/arbitrates/is a judge determining/deciding matter x2 (abstract).

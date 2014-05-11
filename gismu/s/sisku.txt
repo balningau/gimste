@@ -1,4 +1,3 @@
-
 Word: sisku
 Rafsi: sis
 Definition: x1 seeks/searches/looks for property x2 among set x3 (complete specification of set).

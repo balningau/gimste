@@ -1,4 +1,3 @@
-
 Word: broda
 Rafsi: rod
 Definition: 1st assignable variable predicate (context determines place structure).

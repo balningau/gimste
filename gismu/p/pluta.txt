@@ -1,4 +1,3 @@
-
 Word: pluta
 Rafsi: lut, lu'a
 Definition: $x_1$ is a route/path/way/course/track to $x_2$ from $x_3$ via/defined by points including $x_4$ (set).

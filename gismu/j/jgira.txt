@@ -1,4 +1,3 @@
-
 Word: jgira
 Rafsi: jgi
 Definition: x1 (person) feels/has pride in/about x2 (abstraction).

@@ -1,4 +1,3 @@
-
 Word: jbera
 Rafsi: jer
 Definition: x1 (agent) borrows/temporarily takes/assumes x2 (object) from source x3 for interval x4.

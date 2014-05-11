@@ -1,4 +1,3 @@
-
 Word: kicne
 Rafsi: kic, ki'e
 Definition: x1 cushions x2 with material x3; x1 is a cushion/pillow/pad [for x2] of padding material x3.

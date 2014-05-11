@@ -1,4 +1,3 @@
-
 Word: frati
 Rafsi: fra
 Definition: x1 reacts/responds/answers with action x2 to stimulus x3 under conditions x4; x1 is responsive.

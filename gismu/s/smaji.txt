@@ -1,4 +1,3 @@
-
 Word: smaji
 Rafsi: sma
 Definition: x1 (source) is quiet/silent/[still] at observation point x2 by standard x3.

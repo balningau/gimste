@@ -1,4 +1,3 @@
-
 Word: polje
 Rafsi: plo
 Definition: x1 (force) folds/creases x2 at locus/loci/forming crease(s)/bend(s) x3.

@@ -1,4 +1,3 @@
-
 Word: bajra
 Rafsi: baj
 Definition: x1 runs on surface x2 using limbs x3 with gait x4.

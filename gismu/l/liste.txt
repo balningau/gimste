@@ -1,4 +1,3 @@
-
 Word: liste
 Rafsi: ste
 Definition: x1 (physical object) is a list/catalog/register of sequence/set x2 in order x3 in medium x4.

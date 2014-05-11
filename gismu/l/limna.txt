@@ -1,4 +1,3 @@
-
 Word: limna
 Rafsi: lim
 Definition: x1 (agent) swims in fluid x2.

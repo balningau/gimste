@@ -1,4 +1,3 @@
-
 Word: fliba
 Rafsi: fli
 Definition: x1 fails at doing x2 (state/event); x1 is a failure at its role in x2.

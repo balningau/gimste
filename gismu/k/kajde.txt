@@ -1,4 +1,3 @@
-
 Word: kajde
 Rafsi: jde
 Definition: x1 (event/experience) warns/cautions x2 (person) of/about danger x3 (event/state/property).

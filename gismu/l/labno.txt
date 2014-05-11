@@ -1,4 +1,3 @@
-
 Word: labno
 Rafsi: 
 Definition: x1 is a wolf/lupine of species/breed x2.

@@ -1,4 +1,3 @@
-
 Word: cafne
 Rafsi: caf
 Definition: x1 (event) often/frequently/commonly/customarily occurs/recurs by standard x2.

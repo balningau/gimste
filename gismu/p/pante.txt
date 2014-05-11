@@ -1,4 +1,3 @@
-
 Word: pante
 Rafsi: pat
 Definition: x1 protests/objects to/complains about x2 (event/state) to audience x3 with action x4.

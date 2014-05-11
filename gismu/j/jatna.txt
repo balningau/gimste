@@ -1,4 +1,3 @@
-
 Word: jatna
 Rafsi: ja'a
 Definition: x1 is captain/commander/leader/in-charge/boss of vehicle/domain x2.

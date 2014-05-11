@@ -1,4 +1,3 @@
-
 Word: gismu
 Rafsi: gim, gi'u
 Definition: x1 is a (Lojban) root word expressing relation x2 among argument roles x3, with affix(es) x4.
