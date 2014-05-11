@@ -1,4 +1,3 @@
-
 Word: catke
 Rafsi: ca'e
 Definition: x1 [agent] shoves/pushes x2 at locus x3.

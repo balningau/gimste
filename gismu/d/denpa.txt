@@ -1,4 +1,3 @@
-
 Word: denpa
 Rafsi: dep, de'a
 Definition: x1 awaits/waits/pauses for/until x2 at state x3 before starting/continuing x4 (activity/process).

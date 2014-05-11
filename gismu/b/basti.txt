@@ -1,4 +1,3 @@
-
 Word: basti
 Rafsi: bas
 Definition: x1 replaces/substitutes for/instead of x2 in circumstance x3; x1 is a replacement/substitute.

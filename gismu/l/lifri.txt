@@ -1,4 +1,3 @@
-
 Word: lifri
 Rafsi: lif, fri
 Definition: x1 [person/passive/state] undergoes/experiences x2 (event/experience); x2 happens to x1.

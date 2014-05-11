@@ -1,4 +1,3 @@
-
 Word: sivni
 Rafsi: siv
 Definition: x1 is private/personal/privy/[secret/confidential/confined] to x2; x1 is not-public/hidden.

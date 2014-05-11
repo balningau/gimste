@@ -1,4 +1,3 @@
-
 Word: brode
 Rafsi: bo'e
 Definition: 2nd assignable variable predicate (context determines place structure).

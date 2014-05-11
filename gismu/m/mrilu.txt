@@ -1,4 +1,3 @@
-
 Word: mrilu
 Rafsi: mri
 Definition: x1 mails/posts [transfer via intermediary service] x2 to recipient address x3 from mailbox/post office/sender address x4 by carrier/network/system x5.

@@ -1,4 +1,3 @@
-
 Word: friti
 Rafsi: fit
 Definition: x1 offers/proffers x2 [offering] to x3 with conditions x4.

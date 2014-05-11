@@ -1,4 +1,3 @@
-
 Word: titla
 Rafsi: tit
 Definition: x1 is sweet/sugary/saccharine to observer x2.

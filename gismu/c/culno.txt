@@ -1,4 +1,3 @@
-
 Word: culno
 Rafsi: clu
 Definition: x1 is full/completely filled with x2.

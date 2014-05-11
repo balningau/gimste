@@ -1,4 +1,3 @@
-
 Word: xanri
 Rafsi: xar
 Definition: x1 [concept] exists in the imagination of/is imagined by/is imaginary to x2.

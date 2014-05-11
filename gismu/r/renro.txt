@@ -1,4 +1,3 @@
-
 Word: renro
 Rafsi: rer, re'o
 Definition: x1 throws/launches/casts/hurls x2 to/at/in direction x3 (propulsion derives internally to x1).

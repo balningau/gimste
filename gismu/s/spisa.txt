@@ -1,4 +1,3 @@
-
 Word: spisa
 Rafsi: spi
 Definition: x1 [object/substance] is a piece/portion/lump/chunk/particle of x2 [substance].

@@ -1,4 +1,3 @@
-
 Word: palku
 Rafsi: pak
 Definition: x1 are pants/trousers/slacks/leggings [legged garment] of material x2.

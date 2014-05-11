@@ -1,4 +1,3 @@
-
 Word: xendo
 Rafsi: xed, xe'o
 Definition: x1 (person) is kind to x2 in actions/behavior x3.

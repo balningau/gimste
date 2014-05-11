@@ -1,4 +1,3 @@
-
 Word: merli
 Rafsi: mre
 Definition: x1 (agent) measures/evaluates x2 [quantity] as x3 units on scale x4 (si'o), with accuracy x5.

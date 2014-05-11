@@ -1,4 +1,3 @@
-
 Word: djica
 Rafsi: dji
 Definition: x1 desires/wants/wishes x2 (event/state) for purpose x3.

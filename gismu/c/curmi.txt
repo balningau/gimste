@@ -1,4 +1,3 @@
-
 Word: curmi
 Rafsi: cru
 Definition: x1 (agent) lets/permits/allows x2 (event) under conditions x3; x1 grants privilege x2.

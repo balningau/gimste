@@ -1,4 +1,3 @@
-
 Word: pacna
 Rafsi: pa'a
 Definition: x1 hopes/wishes for/desires x2 (event), expected likelihood x3 (0-1); x1 hopes that x2 happens.

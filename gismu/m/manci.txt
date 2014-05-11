@@ -1,4 +1,3 @@
-
 Word: manci
 Rafsi: mac
 Definition: x1 feels wonder/awe/marvels about x2.

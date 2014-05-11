@@ -1,4 +1,3 @@
-
 Word: lacpu
 Rafsi: lap, cpu
 Definition: x1 pulls/tugs/draws/drags x2 by handle/at locus x3.

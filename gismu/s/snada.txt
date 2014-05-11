@@ -1,4 +1,3 @@
-
 Word: snada
 Rafsi: sad
 Definition: x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3.

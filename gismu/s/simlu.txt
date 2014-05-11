@@ -1,4 +1,3 @@
-
 Word: simlu
 Rafsi: mlu
 Definition: x1 seems/appears to have property(ies) x2 to observer x3 under conditions x4.

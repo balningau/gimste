@@ -1,4 +1,3 @@
-
 Word: cinmo
 Rafsi: cni
 Definition: x1 feels emotion x2 (ka) about x3.

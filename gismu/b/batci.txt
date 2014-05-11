@@ -1,4 +1,3 @@
-
 Word: batci
 Rafsi: bat
 Definition: x1 bites/pinches x2 on/at specific locus x3 with x4.

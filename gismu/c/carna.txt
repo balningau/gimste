@@ -1,4 +1,3 @@
-
 Word: carna
 Rafsi: car
 Definition: $x_1$ turns about vector $x_2$ towards direction $x_3$, turning angular distance / to face point $x_4$ 

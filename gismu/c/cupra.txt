@@ -1,4 +1,3 @@
-
 Word: cupra
 Rafsi: pra
 Definition: x1 produces x2 [product] by process x3.

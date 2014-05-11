@@ -1,4 +1,3 @@
-
 Word: talsa
 Rafsi: tal
 Definition: x1 (person) challenges x2 at/in property x3.

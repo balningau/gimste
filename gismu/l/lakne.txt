@@ -1,4 +1,3 @@
-
 Word: lakne
 Rafsi: la'e
 Definition: x1 (event/state/property) is probable/likely under conditions x2.

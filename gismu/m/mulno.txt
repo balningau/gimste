@@ -1,4 +1,3 @@
-
 Word: mulno
 Rafsi: mul, mu'o
 Definition: x1 (event) is complete/done/finished; x1 (object) has become whole in property x2 by standard x3.

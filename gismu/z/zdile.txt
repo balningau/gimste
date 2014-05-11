@@ -1,4 +1,3 @@
-
 Word: zdile
 Rafsi: zdi
 Definition: x1 (abstract) is amusing/entertaining to x2 in property/aspect x3; x3 is what amuses x2 about x1.

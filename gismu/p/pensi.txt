@@ -1,4 +1,3 @@
-
 Word: pensi
 Rafsi: pes, pei
 Definition: x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x2.

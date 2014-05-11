@@ -1,4 +1,3 @@
-
 Word: gunta
 Rafsi: gut
 Definition: x1 (person/mass) attacks/invades/commits aggression upon victim x2 with goal/objective x3.

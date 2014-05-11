@@ -1,4 +1,3 @@
-
 Word: cinje
 Rafsi: cij
 Definition: x1 is a wrinkle/crease/fold [shape/form] in x2.

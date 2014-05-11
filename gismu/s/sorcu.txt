@@ -1,4 +1,3 @@
-
 Word: sorcu
 Rafsi: soc, sro
 Definition: x1 is a store/deposit/supply/reserve of materials/energy x2 in containment x3.

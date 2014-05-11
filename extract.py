@@ -49,8 +49,7 @@ for valsi in gismu:
         os.makedirs(parent_path)
 
     with codecs.open(os.path.join(parent_path, "{}.txt".format(word)), 'w', 'utf-8') as fobj:
-        fobj.write(u"""
-Word: {}
+        fobj.write(u"""Word: {}
 Rafsi: {}
 Definition: {}
 

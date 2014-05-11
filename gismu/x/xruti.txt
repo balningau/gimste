@@ -1,4 +1,3 @@
-
 Word: xruti
 Rafsi: xru
 Definition: x1 (agent) returns x2 to origin/earlier state x3 from x4; x1 moves/gives x2 back to x3 from x4.

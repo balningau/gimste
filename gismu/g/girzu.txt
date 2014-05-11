@@ -1,4 +1,3 @@
-
 Word: girzu
 Rafsi: gir, gri
 Definition: x1 is group/cluster/team showing common property (ka) x2 due to set x3 linked by relations x4.

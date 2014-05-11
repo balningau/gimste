@@ -1,4 +1,3 @@
-
 Word: kunti
 Rafsi: kut
 Definition: x1 [container] is empty/vacant of x2 [material]; x1 is hollow.

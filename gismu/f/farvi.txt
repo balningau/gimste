@@ -1,4 +1,3 @@
-
 Word: farvi
 Rafsi: fav
 Definition: x1 develops/evolves towards/into x2 from x3 through stages x4.

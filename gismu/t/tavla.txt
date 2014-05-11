@@ -1,4 +1,3 @@
-
 Word: tavla
 Rafsi: tav, ta'a
 Definition: x1 talks/speaks to x2 about subject x3 in language x4.

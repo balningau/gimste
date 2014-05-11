@@ -1,4 +1,3 @@
-
 Word: tenfa
 Rafsi: tef
 Definition: x1 is the exponential result of base x2 to power/exponent x3.

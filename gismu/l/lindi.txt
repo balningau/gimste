@@ -1,4 +1,3 @@
-
 Word: lindi
 Rafsi: lid
 Definition: x1 is lightning/electrical arc/thunderbolt striking at/extending to x2 from x3.

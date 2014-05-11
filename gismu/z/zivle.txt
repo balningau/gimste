@@ -1,4 +1,3 @@
-
 Word: zivle
 Rafsi: ziv, vle
 Definition: x1 (agent) invests resources x2 in investment x3 expecting return/profit x4 (object(s)/event).

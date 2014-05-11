@@ -1,4 +1,3 @@
-
 Word: lujvo
 Rafsi: luv, jvo
 Definition: x1 (text) is a compound predicate word with meaning x2 and arguments x3 built from metaphor x4.

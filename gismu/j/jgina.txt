@@ -1,4 +1,3 @@
-
 Word: jgina
 Rafsi: gin
 Definition: x1 is a gene of creature [or locus on creature] x2 determining trait/process x3.

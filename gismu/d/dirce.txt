@@ -1,4 +1,3 @@
-
 Word: dirce
 Rafsi: di'e
 Definition: x1 radiates/emits x2 under conditions x3.

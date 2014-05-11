@@ -1,4 +1,3 @@
-
 Word: kufra
 Rafsi: kuf
 Definition: x1 feels comfort/is comfortable with conditions/environmental property(ies) x2.

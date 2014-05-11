@@ -1,4 +1,3 @@
-
 Word: canci
 Rafsi: 
 Definition: x1 vanishes/disappears from location x2; x1 ceases to be observed at x2 using senses/sensor x3.

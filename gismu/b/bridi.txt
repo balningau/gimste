@@ -1,4 +1,3 @@
-
 Word: bridi
 Rafsi: bri
 Definition: x1 (text) is a predicate relationship with relation x2 among arguments (sequence/set) x3.
