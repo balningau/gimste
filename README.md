@@ -9,8 +9,10 @@ may be made to improve other parts of the jbovlaste.
 The Process
 -----------
 
+The gimste revision will be a process by which the community collaboratively reviews all gismu in attempt to make some classes of them more regular, and some problematic gismu fixed up or more closely resemble actual usage.
+
 The process is yet to be clearly defined but should administrative needs become apparent we can work them out
-then. For now, we will simply begin the work. Below is some basic guidelines for participating.
+then. For now, we will simply begin the work. [This document](https://github.com/balningau/gimste/blob/master/docs/SUBMISSIONS.md) has an overview of the proposed workflow using this repository. No command line git usage required!
 
 
 Questions?
