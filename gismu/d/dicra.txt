@@ -1,9 +1,0 @@
-
-Word: dicra
-Rafsi: dir
-Definition: x1 (event) interrupts/stops/halts/[disrupts] x2 (object/event/process) due to quality x3.
-
-Notes:
-Also disturbs (one sense).  See also {zunti}, {fanza}, {raktu}, {denpa}.
-
-Examples:

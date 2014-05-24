@@ -1,9 +1,0 @@
-
-Word: temci
-Rafsi: tem, tei
-Definition: x1 is the time-duration/interval/period/[elapsed time] from time/event x2 to time/event x3.
-
-Notes:
-Also age/elapsed time (= {niltei}).  See also {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}.
-
-Examples:

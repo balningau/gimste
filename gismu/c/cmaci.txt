@@ -1,9 +1,0 @@
-
-Word: cmaci
-Rafsi: 
-Definition: x1 is a mathematics of type/describing x2.
-
-Notes:
-See also {mekso}.
-
-Examples:

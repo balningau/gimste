@@ -1,9 +1,0 @@
-
-Word: cadzu
-Rafsi: dzu
-Definition: x1 walks/strides/paces on surface x2 using limbs x3.
-
-Notes:
-See also {stapa}, {bajra}, {klama}, {litru}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: skuro
-Rafsi: ku'o
-Definition: x1 is a groove/trench/furrow [shape/form] in object/surface x2.
-
-Notes:
-See also {plixa}.
-
-Examples:

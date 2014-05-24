@@ -1,9 +1,0 @@
-
-Word: vamji
-Rafsi: vam, va'i
-Definition: x1 (ni) is the equivalent value/worth of x2 [item(s) of value] to x3 for use/appreciation x4.
-
-Notes:
-Also: $x_2$ is worth $x_1$ to $x_3$; (for $x_2$ person:) $x_2$ merits (one sense), (adjective:) $x_2$ is worthy (= selva'i for reordered places); merit reward (= {nemselva'i}); receive merited reward (= {vamselne'u}); $x_2$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyva'i}, {posyselva'i} for unambiguous semantics).  (cf. {jdima}, {jerna}, {vecnu}, {dirba}, {janta}, {kargu}, {pleji}; see note at jdima on cost/price/value distinction, {vajni})
-
-Examples:

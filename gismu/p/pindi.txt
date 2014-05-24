@@ -1,9 +1,0 @@
-
-Word: pindi
-Rafsi: pid
-Definition: x1 is poor/indigent/impoverished/lacking in goods/possessions/property x2.
-
-Notes:
-$x_2$ is scanty/meager/lacking for $x_1$.  See also {ricfu}, {claxu}, {nitcu}, {pikci}.
-
-Examples:

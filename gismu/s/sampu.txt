@@ -1,9 +1,0 @@
-
-Word: sampu
-Rafsi: sap
-Definition: x1 is simple/unmixed/uncomplicated in property x2 (ka).
-
-Notes:
-See also {pluja}, {curve}, {frili}, {manfo}.
-
-Examples:

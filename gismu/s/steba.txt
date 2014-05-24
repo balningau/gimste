@@ -1,9 +1,0 @@
-
-Word: steba
-Rafsi: seb
-Definition: x1 feels frustration about x2 (abstraction).
-
-Notes:
-See also {cinmo}.
-
-Examples:

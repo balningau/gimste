@@ -1,9 +1,0 @@
-
-Word: spaji
-Rafsi: paj
-Definition: x1 (event/action abstract) surprises/startles/is unexpected [and generally sudden] to x2.
-
-Notes:
-Also expectation (= {nalspaji}), alarm (= {tepspaji}).  See also {manci}, {jenca}, {bredi}, {suksa}.
-
-Examples:

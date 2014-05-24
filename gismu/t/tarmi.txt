@@ -1,9 +1,0 @@
-
-Word: tarmi
-Rafsi: tam, tai
-Definition: x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract).
-
-Notes:
-Also pattern; $x_1$ is the mathematical or theoretical ideal form, while $x_2$ is an object/event manifesting that form; e.g. circular/circle-shaped (= {cukseltai}) vs. circle (={cuktai}, while {cukla} alone is ambiguous); model (= {ci'ersaptai}, {saptai}, {ci'ersmitai}, {smitai}).  See alse {nejni}, te {marji} for physical shape, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}.
-
-Examples:

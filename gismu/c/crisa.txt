@@ -1,9 +1,0 @@
-
-Word: crisa
-Rafsi: cis
-Definition: x1 is summer/summertime [hot season] of year x2 at location x3.
-
-Notes:
-See also {citsi}, {critu}, {dunra}, {vensa}.
-
-Examples:

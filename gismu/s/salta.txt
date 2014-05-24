@@ -1,9 +1,0 @@
-
-Word: salta
-Rafsi: 
-Definition: x1 (mass) is a quantity of salad [food] with ingredients/components including x2.
-
-Notes:
-$x_2$ is in $x_1$, an ingredient/part/component of $x_1$.  See also {mixre}, {stasu}.
-
-Examples:

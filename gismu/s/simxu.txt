@@ -1,9 +1,0 @@
-
-Word: simxu
-Rafsi: sim, si'u
-Definition: x1 (set) has members who mutually/reciprocally x2 (event [x1 should be reflexive in 1+ sumti]).
-
-Notes:
-Members of $x_1$ do to each other/one another $x_2$, and in return do $x_2$; $x_1$ (plural set) do the same thing $x_2$ to each other.  See also {kampu}, {mintu}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: curnu
-Rafsi: cur
-Definition: x1 is a worm/invertebrate animal of species/breed x2.
-
-Notes:
-Also mollusk, snail (= {cakcurnu}), shellfish (= {xaskemcakcurnu}, {xaskemcakydja}); the generalization to invertebrate is because many multicellular invertebrates are indeed wormlike.  See also {since}, {silka}.
-
-Examples:

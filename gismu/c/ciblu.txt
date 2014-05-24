@@ -1,9 +1,0 @@
-
-Word: ciblu
-Rafsi: blu
-Definition: x1 is blood/vital fluid of organism x2.
-
-Notes:
-See also {risna}, {flecu}.
-
-Examples:

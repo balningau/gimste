@@ -1,9 +1,0 @@
-
-Word: cabra
-Rafsi: ca'a
-Definition: x1 is apparatus/mechanism/device/equipment for function x2 controlled/[triggered] by x3 (agent).
-
-Notes:
-Form determined by/from function; does not imply automated/automatic action - requires an external agent/trigger (a minji may be a zmiku cabra if it requires an external agent to trigger or control the functions that it performs automatically).  (cf. {tutci}, {minji}, {finti}; {girzu}, {ganzu} for organizational apparatus, {pilno})
-
-Examples:

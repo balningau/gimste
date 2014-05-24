@@ -1,9 +1,0 @@
-
-Word: silka
-Rafsi: sik
-Definition: x1 is a quantity of/contains/is made of silk produced by x2.
-
-Notes:
-See also {curnu}, {bukpu}, {cilta}.
-
-Examples:

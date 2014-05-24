@@ -1,9 +1,0 @@
-
-Word: bliku
-Rafsi: bli
-Definition: x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides x3.
-
-Notes:
-$x_3$ sides/surfaces should include number, size, and shape; also polyhedron (= {pitybli} having flat/planar sides/surfaces).  regular polyhedron (= {kubybli}, {blikubli}), brick (= {kitybli}); See also {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}.
-
-Examples:

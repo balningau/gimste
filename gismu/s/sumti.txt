@@ -1,9 +1,0 @@
-
-Word: sumti
-Rafsi: sum, su'i
-Definition: x1 is a/the argument of predicate/function x2 filling place x3 (kind/number).
-
-Notes:
-($x_1$ and $x_2$ are text); See also {bridi}, {darlu}, {gismu}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: sralo
-Rafsi: 
-Definition: x1 reflects Australian culture/nationality/geography/dialect in aspect x2.
-
-Notes:
-See also {glico}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: jinto
-Rafsi: 
-Definition: x1 is a well/spring of fluid x2 at location x3.
-
-Notes:
-See also {krasi}, {djacu}, {fenra}.
-
-Examples:

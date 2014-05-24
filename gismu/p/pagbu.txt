@@ -1,9 +1,0 @@
-
-Word: pagbu
-Rafsi: pag, pau
-Definition: x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass]; x2 is partly x1.
-
-Notes:
-Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}.
-
-Examples:

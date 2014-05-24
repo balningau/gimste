@@ -1,9 +1,0 @@
-
-Word: lafti
-Rafsi: laf
-Definition: x1 (force) lifts/applies raising/supporting force to x2 at locus x3 in gravity well x4.
-
-Notes:
-($x_1$ may be an abstract); verb lift/raise/elevate (= {lafmuvgau}). See also {farlu}, {plipe}.
-
-Examples:

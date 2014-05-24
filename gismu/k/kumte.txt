@@ -1,9 +1,0 @@
-
-Word: kumte
-Rafsi: 
-Definition: x1 is a camel/llama/alpaca/vicuna/dromedary of species/breed x2.
-
-Notes:
-Llama (= {tcokumte}), Bactrian camel (= {zdokumte}); Arabian camel/dromedary (= {rabykumte}).  See also {sunla}, {kanla}, {xirma}, {xasli}.
-
-Examples:

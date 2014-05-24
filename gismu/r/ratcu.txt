@@ -1,9 +1,0 @@
-
-Word: ratcu
-Rafsi: 
-Definition: x1 is a rat of species/breed x2.
-
-Notes:
-See also {smacu}.
-
-Examples:

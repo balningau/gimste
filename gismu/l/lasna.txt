@@ -1,9 +1,0 @@
-
-Word: lasna
-Rafsi: la'a
-Definition: x1 (agent) fastens/connects/attaches/binds/lashes x2 to x3 with fastener x4.
-
-Notes:
-No implication that result is considered a single object; although $x_2$ and $x_3$ may be reversible, $x_3$ may be used for the substrate, the fixed/larger object to which $x_2$ becomes attached. See also {jorne}, {fenso}, {jgena}, {batke}, {dinko}, {kansa}.
-
-Examples:

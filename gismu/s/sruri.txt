@@ -1,9 +1,0 @@
-
-Word: sruri
-Rafsi: rur, sru
-Definition: x1 encircles/encloses/is surrounding x2 in direction(s)/dimension(s)/plane x3.
-
-Notes:
-({jinsru} =) $x_1$ is a ring/belt/band/girdle around/circling/ringing $x_2$ near total containment in some dimension(s).  See also {karli}, {senta}, {snuji}, {vanbi}, se {nenri}, se {jbini}, {bartu}, {djine}.
-
-Examples:

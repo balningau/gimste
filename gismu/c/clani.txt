@@ -1,9 +1,0 @@
-
-Word: clani
-Rafsi: cla
-Definition: x1 is long in dimension/direction x2 (default longest dimension) by measurement standard x3.
-
-Notes:
-See also {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci}, {minli}, {rotsu}.
-
-Examples:

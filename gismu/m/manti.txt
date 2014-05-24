@@ -1,9 +1,0 @@
-
-Word: manti
-Rafsi: 
-Definition: x1 is an ant of species/breed x2.
-
-Notes:
-See also {cinki}, {jalra}.
-
-Examples:

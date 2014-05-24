@@ -1,9 +1,0 @@
-
-Word: krili
-Rafsi: 
-Definition: x1 is a quantity of/contains/is made of crystal of composition x2 in form/arrangement x3.
-
-Notes:
-$x_2$: composition including $x_2$, which need not be complete specification.  See also {jemna}, {bisli}.
-
-Examples:

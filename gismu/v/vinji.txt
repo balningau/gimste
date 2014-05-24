@@ -1,9 +1,0 @@
-
-Word: vinji
-Rafsi: vij
-Definition: x1 is an airplane/aircraft [flying vehicle] for carrying passengers/cargo x2, propelled by x3.
-
-Notes:
-See also {vofli}, {sabnu}.
-
-Examples:

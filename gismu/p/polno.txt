@@ -1,9 +1,0 @@
-
-Word: polno
-Rafsi: pol
-Definition: x1 reflects Polynesian/Oceanian (geographic region) culture/nationality/languages in aspect x2.
-
-Notes:
-See also {sralo}, {daplu}, {xamsi}.
-
-Examples:

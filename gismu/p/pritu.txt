@@ -1,9 +1,0 @@
-
-Word: pritu
-Rafsi: 
-Definition: x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference x3.
-
-Notes:
-Also: $x_3$ is the standard of orientation for $x_2$.  See also cmavo list {ri'u}, {mlana}, {crane}, {trixe}, {farna}, {zunle}.
-
-Examples:

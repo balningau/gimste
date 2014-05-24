@@ -1,9 +1,0 @@
-
-Word: zmadu
-Rafsi: zma, mau
-Definition: x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess x4.
-
-Notes:
-Also positive (= {nonmau}).  See also cmavo list {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}.
-
-Examples:

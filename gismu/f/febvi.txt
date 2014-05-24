@@ -1,9 +1,0 @@
-
-Word: febvi
-Rafsi: feb
-Definition: x1 boils/evaporates at temperature x2 and pressure x3.
-
-Notes:
-Roil (= {febjicla}).  See also {dunja}, {lunsa}, {runme}.
-
-Examples:

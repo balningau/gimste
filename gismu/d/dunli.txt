@@ -1,9 +1,0 @@
-
-Word: dunli
-Rafsi: dun, du'i
-Definition: x1 is equal/congruent to/as much as x2 in property/dimension/quantity x3.
-
-Notes:
-Same in quantity/quality (not necessarily in identity); 'analogy' may be expressed as the equivalence of two properties of similarity (ka $x_1$ simsa $x_2$) and (ka $x_3$ simsa $x_4$).  See also cmavo list {du'i}, {satci}, {frica}, {simsa}, {mintu}.
-
-Examples:

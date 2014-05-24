@@ -1,9 +1,0 @@
-
-Word: masti
-Rafsi: ma'i
-Definition: x1 is x2 months in duration (default is 1 month) by month standard x3.
-
-Notes:
-This month (= {cabma'i}); next month (= {bavla'ima'i}); last month (= {prula'ima'i}).  See also {detri}, {djedi}, {jeftu}, {nanca}.
-
-Examples:

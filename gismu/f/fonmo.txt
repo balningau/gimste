@@ -1,9 +1,0 @@
-
-Word: fonmo
-Rafsi: fom, fo'o
-Definition: x1 is a quantity of foam/froth/suds of material x2, with bubbles/vacuoles of material x3.
-
-Notes:
-See also {zbabu}.
-
-Examples:

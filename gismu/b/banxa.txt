@@ -1,9 +1,0 @@
-
-Word: banxa
-Rafsi: bax
-Definition: x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event).
-
-Notes:
-See also {sorcu}, {zarci}, {canja}, {kagni}.
-
-Examples:

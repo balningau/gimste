@@ -1,9 +1,0 @@
-
-Word: banzu
-Rafsi: baz
-Definition: x1 (object) suffices/is enough/sufficient for purpose x2 under conditions x3.
-
-Notes:
-See also {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
-
-Examples:

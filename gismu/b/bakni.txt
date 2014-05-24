@@ -1,9 +1,0 @@
-
-Word: bakni
-Rafsi: bak
-Definition: x1 is a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x2.
-
-Notes:
-See also {danlu}.
-
-Examples:

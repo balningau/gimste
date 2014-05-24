@@ -1,9 +1,0 @@
-
-Word: cpedu
-Rafsi: cpe
-Definition: x1 requests/asks/petitions/solicits for x2 of/from x3 in manner/form x4.
-
-Notes:
-Also demand (= {mi'ecpe}); $x_4$ is a means of expression See also ve {cusku}.: a request may be indicated in speech, in writing, or by an action (e.g. petitions are often in writing, while begging/panhandling may be indicated by an action or even demeanor).  (cf. {pikci}, te {preti}, te {frati}, se {spuda}, {danfu})
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: tarti
-Rafsi: tra
-Definition: x1 behaves/conducts oneself as/in-manner x2 (event/property) under conditions x3.
-
-Notes:
-Also (adjective:) $x_1$ is behavioral.  See also {cnano}, {frati}, {tcaci}, {cilce}, {jikca}, {marde}.
-
-Examples:

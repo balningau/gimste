@@ -1,9 +1,0 @@
-
-Word: zbasu
-Rafsi: zba
-Definition: x1 makes/assembles/builds/manufactures/creates x2 out of materials/parts/components x3.
-
-Notes:
-Should not be used to express causation.  Cf. {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
-
-Examples:

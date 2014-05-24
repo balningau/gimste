@@ -1,9 +1,0 @@
-
-Word: cirko
-Rafsi: cri
-Definition: x1 loses person/thing x2 at/near x3; x1 loses property/feature x2 in conditions/situation x3.
-
-Notes:
-$x_2$ may be a specific object, a commodity (mass), an event (rare for cirko), or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {po'ecri}, {posyselcri} for unambiguous semantics).  See also {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma}, {binra}, {mipri}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: muzga
-Rafsi: muz
-Definition: x1 is a museum for preserving [and possibly exhibiting] x2 at location x3.
-
-Notes:
-See also {citri}.
-
-Examples:

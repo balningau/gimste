@@ -1,9 +1,0 @@
-
-Word: vrusi
-Rafsi: vus, vu'i
-Definition: x1 (ka) is a taste/flavor of/emitted by x2; x2 tastes of/like x1.
-
-Notes:
-Also: $x_2$ tastes of seasoning $x_1$, $x_1$ is a seasoned flavor of $x_2$ (= {tsapyvu'i}); vrusi may overlap the senses of taste and smell, since the latter is a significant component of taste.  See also {kukte}, {tsapi}, {cpina}, {panci}.
-
-Examples:

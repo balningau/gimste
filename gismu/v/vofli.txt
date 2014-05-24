@@ -1,9 +1,0 @@
-
-Word: vofli
-Rafsi: vol, voi
-Definition: x1 flies [in air/atmosphere] using lifting/propulsion means x2.
-
-Notes:
-See also {cipni}, {klama}, {vinji}.
-
-Examples:

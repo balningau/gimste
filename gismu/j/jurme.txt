@@ -1,9 +1,0 @@
-
-Word: jurme
-Rafsi: jum
-Definition: x1 is a bacterium/germ/microbe/protozoan/amoeba [1-celled life] of species/defining property x2.
-
-Notes:
-See also {vidru}.
-
-Examples:

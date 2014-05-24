@@ -1,9 +1,0 @@
-
-Word: tcima
-Rafsi: tim, ti'a
-Definition: x1 is weather at place/region x2; (adjective:) x1 is meteorological.
-
-Notes:
-Climate (= {citsyti'a}, {timymo'a}).  See also {brife}, {bumru}, {carvi}, {dilnu}, {bratu}.
-
-Examples:

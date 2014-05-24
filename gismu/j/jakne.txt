@@ -1,9 +1,0 @@
-
-Word: jakne
-Rafsi: 
-Definition: x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload x3.
-
-Notes:
-See also {cecla}, {danti}, {spoja}.
-
-Examples:

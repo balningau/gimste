@@ -1,9 +1,0 @@
-
-Word: xinmo
-Rafsi: xim
-Definition: x1 is a quantity of ink of color/pigment x2 used by writing device x3.
-
-Notes:
-See also {penbi}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: vreta
-Rafsi: vre
-Definition: x1 lies/rests/reclines/reposes on x2; x1 is reclining/recumbent/lying on x2.
-
-Notes:
-See also {cpana}, {surla}, {zutse}, {ckana}, {lazni}.
-
-Examples:

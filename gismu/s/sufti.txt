@@ -1,9 +1,0 @@
-
-Word: sufti
-Rafsi: sfu
-Definition: x1 is a/the hoof [body-part] of x2.
-
-Notes:
-See also {xirma}.
-
-Examples:

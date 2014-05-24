@@ -1,9 +1,0 @@
-
-Word: canlu
-Rafsi: cal, ca'u
-Definition: x1 is space/volume/region/room [at-least-3-dimensional area] occupied by x2.
-
-Notes:
-Also occupy (= selca'u). See also {kensa}, {bliku}, {kumfa}, {kevna}, {kunti}, {tubnu}, {dekpu}.
-
-Examples:

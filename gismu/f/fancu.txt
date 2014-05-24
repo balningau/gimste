@@ -1,9 +1,0 @@
-
-Word: fancu
-Rafsi: 
-Definition: x1 is a function/single-valued mapping from domain x2 to range x3 defined by expression/rule x4.
-
-Notes:
-See also {mekso}, {bridi}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: sfofa
-Rafsi: sfo
-Definition: x1 is a sofa/couch (noun).
-
-Notes:
-See also {nilce}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: ritli
-Rafsi: ri'i
-Definition: x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in community x3, with form/rules x4.
-
-Notes:
-[also: $x_1$ is formal, Legal.  $x_1$ is 'going through the motions']; $x_4$ constraints/customs; See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}.
-
-Examples:

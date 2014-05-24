@@ -1,9 +1,0 @@
-
-Word: jinme
-Rafsi: jim
-Definition: x1 is a quantity of/contains/is made of made of metal of composition including x2.
-
-Notes:
-(adjective:) $x_1$ is metallic.  See also {cnisa}, {gasta}, {lastu}, {margu}, {nikle}, {ransu}, {romge}, {sodna}, {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva}.
-
-Examples:

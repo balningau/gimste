@@ -1,9 +1,0 @@
-
-Word: jufra
-Rafsi: juf, ju'a
-Definition: x1 (text) is a sentence/statement about x2 [topic/subject/predicate/focus] in language x3.
-
-Notes:
-Phrase (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  See also {valsi}, {bangu}, {gerna}, {cusku}, {smuni}.
-
-Examples:

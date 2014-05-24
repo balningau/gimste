@@ -1,9 +1,0 @@
-
-Word: sinso
-Rafsi: 
-Definition: x1 is the trigonometric sine of angle/arcsine x2.
-
-Notes:
-See also {tanjo}.
-
-Examples:

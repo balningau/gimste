@@ -1,9 +1,0 @@
-
-Word: macnu
-Rafsi: cnu
-Definition: x1 (event/action/process) is manual [not automatic] in function x2 under conditions x3.
-
-Notes:
-See also {zmiku}, {jitro}.
-
-Examples:

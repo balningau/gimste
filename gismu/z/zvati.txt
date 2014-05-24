@@ -1,9 +1,0 @@
-
-Word: zvati
-Rafsi: zva
-Definition: x1 (object/event) is at/attending/present at x2 (event/location).
-
-Notes:
-Atemporal; location equivalent of {cabna}.  Refers to a nonce location for an object/activity that is mobile.  (cf. especially {stuzi} for an inherent/inalienable location, {jbini}, {nenri}, se {vasru}, {cpana}, {diklo}, {jibni}, {cabna}, {lamji}, {tcini}, {xabju}, {jmive}, {jundi}, {vitke})
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: murse
-Rafsi: 
-Definition: x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day x2 at location x3.
-
-Notes:
-Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See also {cerni}, {kandi}, {vanci}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: drani
-Rafsi: dra
-Definition: x1 is correct/proper/right/perfect in property/aspect x2 (ka) in situation x3 by standard x4.
-
-Notes:
-See also {srera}, {mapti}.
-
-Examples:

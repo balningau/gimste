@@ -1,9 +1,0 @@
-
-Word: pemci
-Rafsi: pem
-Definition: x1 is a poem/verse about plot/theme/subject/pattern x2 by author x3 for intended audience x4.
-
-Notes:
-$x_2$ may be a convention rather than a subject.  See also {prosa}, {rimni}, {rilti}, {finti}, {lisri}, {sanga}.
-
-Examples:

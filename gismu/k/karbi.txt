@@ -1,9 +1,0 @@
-
-Word: karbi
-Rafsi: kab
-Definition: x1 [observer] compares x2 with x3 in property x4 (ka), determining comparison x5 (state).
-
-Notes:
-See also {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: tcena
-Rafsi: ten
-Definition: x1 stretches/extends to range x2 [interval/extent] in dimension x3 from relaxed range x4.
-
-Notes:
-See also {kuspe}, {pruni}, {preja}, {ranji}, {trati}.
-
-Examples:

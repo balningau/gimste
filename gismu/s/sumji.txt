@@ -1,9 +1,0 @@
-
-Word: sumji
-Rafsi: suj
-Definition: x1 is a mathematical sum/result/total of x2 plus/increased by x3.
-
-Notes:
-See also {jmina}, {jalge}, {mulno}, {pilji}.
-
-Examples:

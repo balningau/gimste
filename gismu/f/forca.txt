@@ -1,9 +1,0 @@
-
-Word: forca
-Rafsi: fro
-Definition: x1 is a fork/fork-type tool/utensil for purpose x2 with tines/prongs x3 on base/support x4.
-
-Notes:
-See also {dakfu}, {smuci}, {komcu}, {tutci}.
-
-Examples:

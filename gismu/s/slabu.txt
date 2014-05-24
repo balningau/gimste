@@ -1,9 +1,0 @@
-
-Word: slabu
-Rafsi: sau
-Definition: x1 is old/familiar/well-known to observer x2 in feature x3 (ka) by standard x4.
-
-Notes:
-This can cover both meanings of old.  Old in years, i.e. age, can be conveyed through $x_2$ = the world, life, existence (= loi nu {zasti}); in usage this has been a common default for ellipsis.  However slabu is not the opposite of 'young' (= {nalci'o}, {tolci'o}), but the opposite of 'new' (= {tolni'o}); also ancient (= {tcesau}), age (= {nilsau}); $x_2$ is used to $x_1$ (= selsau for reordered places); historic/historical (= {cirsau}, {cirselcedra}; also {vaipru}).  (cf. {clani}, {citno}, {cnino}, se {djuno}; not the opposite of {citno}, {djuno})
-
-Examples:

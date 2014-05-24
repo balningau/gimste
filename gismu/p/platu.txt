@@ -1,9 +1,0 @@
-
-Word: platu
-Rafsi: pla
-Definition: x1 (agent) plans/designs/plots plan/arrangement/plot/[schematic] x2 for state/process x3.
-
-Notes:
-Also invents/organizes; $x_2$ design, scheme; the structure or layout of an object would be represented as a state in $x_3$.  See also {cartu}.
-
-Examples:

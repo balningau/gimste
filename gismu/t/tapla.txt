@@ -1,9 +1,0 @@
-
-Word: tapla
-Rafsi: 
-Definition: x1 is a tile/cake [shape/form] of material x2, shape x3, thickness x4.
-
-Notes:
-A tile is a 3-dimensional object, relatively uniform and significant in the 3rd dimension, but thin enough that its shape in the the other two dimensions is a significant feature; 'city block' is conceptually a tile; polygon (= {taplytai} or {kardytai} - shaped like an approximately-2-dimensional block, {lijyclupa} - a loop composed of lines).  (cf. {bliku}, {kubli}, {matci}; {karda}, for which the 3rd dimension is insignificant, {bliku}, {kurfa}, {matci}, {plita}, {tarmi})
-
-Examples:

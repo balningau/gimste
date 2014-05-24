@@ -1,9 +1,0 @@
-
-Word: pulni
-Rafsi: 
-Definition: x1 is a pulley [tool] for performing action/function x2 rotating on axle x3.
-
-Notes:
-See also {tutci}, {xislu}, {vraga}.
-
-Examples:

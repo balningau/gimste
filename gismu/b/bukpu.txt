@@ -1,9 +1,0 @@
-
-Word: bukpu
-Rafsi: buk, bu'u
-Definition: x1 is an amount of cloth/fabric of type/material x2.
-
-Notes:
-See also {mapni}, {matli}, {sunla}, {slasi}, {silka}.
-
-Examples:

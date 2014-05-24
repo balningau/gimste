@@ -1,9 +1,0 @@
-
-Word: nibli
-Rafsi: nib, ni'i
-Definition: x1 logically necessitates/entails/implies action/event/state x2 under rules/logic system x3.
-
-Notes:
-See also {natfe}, {rinka}, {mukti}, {krinu}, cmavo list {ni'i}, {jalge}, {logji}.
-
-Examples:

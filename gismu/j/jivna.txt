@@ -1,9 +1,0 @@
-
-Word: jivna
-Rafsi: jvi
-Definition: x1 competes/vies with opponent x2 in contest/competition x3 (event) for gain x4; x1 rivals x2.
-
-Notes:
-Also $x_2$ opponent(s), competitor(s), rival(s); $x_3$ competition, race; $x_4$ prize, reward, recognition (gain may be internal or external).  See also {cnemu}, {jinga}, {talsa}, {bradi}, {fapro}, {kelci}.
-
-Examples:

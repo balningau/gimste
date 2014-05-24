@@ -1,9 +1,0 @@
-
-Word: xanto
-Rafsi: 
-Definition: x1 is an elephant of species/breed x2.
-
-Notes:
-See also {mabru}, {barda}.
-
-Examples:

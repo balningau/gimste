@@ -1,9 +1,0 @@
-
-Word: fuzme
-Rafsi: fuz, fu'e
-Definition: x1 is responsible/accountable for x2 (action/resulting state) to judge/authority x3.
-
-Notes:
-See also {bilga}.
-
-Examples:

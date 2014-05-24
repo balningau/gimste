@@ -1,9 +1,0 @@
-
-Word: porsi
-Rafsi: por, poi
-Definition: x1 [ordered set] is sequenced/ordered/listed by comparison/rules x2 on unordered set x3.
-
-Notes:
-Also (adjective:) $x_1$ is serial.  (sets are completely specified); See also cmavo list {po'i}, {lidne}, {liste}, {cmima}.
-
-Examples:

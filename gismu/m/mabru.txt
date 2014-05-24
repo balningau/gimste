@@ -1,9 +1,0 @@
-
-Word: mabru
-Rafsi: mab
-Definition: x1 is a mammal/'animal'/beast of species x2.
-
-Notes:
-See also {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
-
-Examples:

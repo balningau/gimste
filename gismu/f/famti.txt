@@ -1,9 +1,0 @@
-
-Word: famti
-Rafsi: 
-Definition: x1 is an aunt/uncle of x2 by bond/tie x3; x1 is an associated member of x2's parent's generation.
-
-Notes:
-See also {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
-
-Examples:

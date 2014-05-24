@@ -1,9 +1,0 @@
-
-Word: tagji
-Rafsi: tag
-Definition: x1 is snug/tight on x2 in dimension/direction x3 at locus x4.
-
-Notes:
-See also {trati}, {jarki}, {kluza}, {rinju}.
-
-Examples:

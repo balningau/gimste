@@ -1,9 +1,0 @@
-
-Word: cinza
-Rafsi: 
-Definition: x1 is a/are tong(s)/chopsticks/pincers/tweezers/pliers [tool/body-part] for x2 to pinch x3.
-
-Notes:
-See also {tutci}.
-
-Examples:

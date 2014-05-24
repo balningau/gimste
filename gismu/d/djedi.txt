@@ -1,9 +1,0 @@
-
-Word: djedi
-Rafsi: dje, dei
-Definition: x1 is x2 full days in duration (default is 1 day) by standard x3; (adjective:) x1 is diurnal.
-
-Notes:
-Today (= {cabdei}); tomorrow (= {bavlamdei}); yesterday (= {prulamdei}).  See also {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: rokci
-Rafsi: rok, ro'i
-Definition: x1 is a quantity of/is made of/contains rock/stone of type/composition x2 from location x3.
-
-Notes:
-$x_2$: composition including $x_2$, which need not be complete specification. See also {kunra}, {jemna}, {canre}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: xlura
-Rafsi: xlu
-Definition: x1 (agent) influences/lures/tempts x2 into action/state x3 by influence/threat/lure x4.
-
-Notes:
-Also impresses; $x_4$ is alluring (= {trivelxlu} for place reordering); $x_3$ may be an achieved action/state, or an attempt to perform an action/enter a state).  ($x_3$ and $x_4$ are normally events or states); See also {djica}, {mukti}, {trina}, {jitro}, {sazri}, {tcica}, {xance}, {stidi}, {kajde}, {maksi}.
-
-Examples:

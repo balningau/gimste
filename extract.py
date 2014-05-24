@@ -1,6 +1,8 @@
-import os, codecs
+import os, codecs, re
 
+import rtyaml as yaml
 from lxml import etree
+from collections import OrderedDict
 
 IMPORT_FILE = 'xml-export.html'
 EXPORT_PATH = 'gismu'
@@ -19,8 +21,9 @@ except Exception as e:
 
 
 gismu = tree.xpath("//valsi[@type='gismu']")
+expgismu = tree.xpath("//valsi[@type='experimental gismu']")
 
-print "{} gismu found".format(len(gismu))
+print "{} gismu found ({} official, {} experimental)".format(len(gismu) + len(expgismu), len(gismu), len(expgismu))
 
 for valsi in gismu:
     word = valsi.get('word')
@@ -30,11 +33,7 @@ for valsi in gismu:
         definition = _definition[0].text
     else:
         definition = u'No definition available.'
-    definition = definition.replace(u"$x_{1}$", u"x1")
-    definition = definition.replace(u"$x_{2}$", u"x2")
-    definition = definition.replace(u"$x_{3}$", u"x3")
-    definition = definition.replace(u"$x_{4}$", u"x4")
-    definition = definition.replace(u"$x_{5}$", u"x5")
+    definition = re.sub(r'\$x_\{?(\d+)\}?\$', r'x\1', definition)
 
     _notes = valsi.xpath('notes')
     if _notes:
@@ -48,14 +47,12 @@ for valsi in gismu:
     if not os.path.isdir(parent_path):
         os.makedirs(parent_path)
 
-    with codecs.open(os.path.join(parent_path, "{}.txt".format(word)), 'w', 'utf-8') as fobj:
-        fobj.write(u"""
-Word: {}
-Rafsi: {}
-Definition: {}
+    with codecs.open(os.path.join(parent_path, "{}.yaml".format(word)), 'w', 'utf-8') as fobj:
+        d = OrderedDict()
+        d['Word'] = word
+        d['Rafsi'] = ', '.join(rafsi)
+        d['Definition'] = definition
+        d['Notes'] = notes
+        d['Examples'] = 'None'
+        yaml.dump(d, fobj)
 
-Notes:
-{}
-
-Examples:
-""".format(word, u", ".join(rafsi), definition, notes))

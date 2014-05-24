@@ -1,9 +1,0 @@
-
-Word: terto
-Rafsi: tet
-Definition: x1 is a trillion [$10^{12}$] of x2 in dimension/aspect x3 (default is units).
-
-Notes:
-Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-
-Examples:

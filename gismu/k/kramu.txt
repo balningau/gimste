@@ -1,9 +1,0 @@
-
-Word: kramu
-Rafsi: 
-Definition: x1 is x2 local area unit(s) [non-metric] (default 1) by standard x3, x4 subunits.
-
-Notes:
-(additional subunit places may be added as $x_5$, $x_6$, ...); See also {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: mraji
-Rafsi: 
-Definition: x1 is a quantity of rye [grain] of species/strain x2.
-
-Notes:
-See also {gurni}.
-
-Examples:

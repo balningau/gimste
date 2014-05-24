@@ -1,0 +1,9 @@
+Word: tcika
+Rafsi: ''
+Definition: x1 [hours, minutes, seconds] is the time/hour of state/event x2 on day
+  x3 at location x4.
+Notes: Also o'clock, time-of-day.  (time units in $x_1$ are specified as numbers separated
+  by pi'e or are unit values massified with joi); See also cmavo list {ti'u}, {cacra},
+  {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu}, {temci},
+  {vanci}, {dirba}, {mokca}.
+Examples: None

@@ -1,9 +1,0 @@
-
-Word: dekpu
-Rafsi: 
-Definition: x1 is x2 (default 1) local volume unit(s) [non-metric; e.g. bushel], standard x3, x4 subunits.
-
-Notes:
-Gallon (= {likydekpu}), quart (= {likseldekpu}), barrel (wet = likybradekpu, dry = sudbradekpu), bushel (= {sudydekpu}), peck (= {sudyseldekpu}), cupful (= {kabrydekpu}), tablespoon (= {mucydekpu}); teaspoon (= {mucyxeldekpu}); (all of these lujvo may need gic- to distinguish the English measurement system in contrasting with some local system; the English system is otherwise presumed to be the default non-metric system).  (additional subunit places may be added as $x_5$, $x_6$, ...); See also {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
-
-Examples:

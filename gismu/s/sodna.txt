@@ -1,9 +1,0 @@
-
-Word: sodna
-Rafsi: 
-Definition: x1 is a quantity of/contains/is made of alkali metal of type x2 [default sodium].
-
-Notes:
-Also potassium, lithium, cesium.  Soda. See also {jilka}, {jinme}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: cpana
-Rafsi: 
-Definition: x1 is upon/atop/resting on/lying on [the upper surface of] x2 in frame of reference/gravity x3.
-
-Notes:
-($x_1$ may be object or event); See also se {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, {punji} for lay upon, {sarji}, {zbepi}.
-
-Examples:

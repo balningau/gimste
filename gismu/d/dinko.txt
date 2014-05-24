@@ -1,9 +1,0 @@
-
-Word: dinko
-Rafsi: di'o
-Definition: x1 is a nail/tack [pointed driven/frictional fastener] of type/size x2 (ka), made of material x3.
-
-Notes:
-($x_2$ also can be ni abstraction); See also {pijne}, {lasna}.
-
-Examples:

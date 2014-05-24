@@ -1,9 +1,0 @@
-
-Word: smoka
-Rafsi: smo
-Definition: x1 is a sock/stocking [flexible foot and lower leg garment] of material x2.
-
-Notes:
-See also {cutci}, {taxfu}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: batke
-Rafsi: 
-Definition: x1 is a button/knob/[handle] on/for item x2, with purpose x3, made of material x4.
-
-Notes:
-See also {jadni}, {balji}, {punji}, {jgari}, {lasna}.
-
-Examples:

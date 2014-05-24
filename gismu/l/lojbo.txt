@@ -1,9 +1,0 @@
-
-Word: lojbo
-Rafsi: lob, jbo
-Definition: x1 reflects [Loglandic]/Lojbanic language/culture/nationality/community in aspect x2.
-
-Notes:
-Pre-Lojban forms of Loglan (= {dzejbo}). See also {bangu}, {logji}.
-
-Examples:

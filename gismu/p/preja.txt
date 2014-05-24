@@ -1,9 +1,0 @@
-
-Word: preja
-Rafsi: pej, pe'a
-Definition: x1 spreads/expands over/into x2 from initial state x3.
-
-Notes:
-See also {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
-
-Examples:

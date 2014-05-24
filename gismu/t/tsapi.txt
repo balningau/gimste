@@ -1,9 +1,0 @@
-
-Word: tsapi
-Rafsi: 
-Definition: x1 is a seasoning/condiment/spice causing flavor/effect x2 (event/property).
-
-Notes:
-Also: $x_1$ flavors $x_2$ (tu'a).  See also {vrusi}.
-
-Examples:

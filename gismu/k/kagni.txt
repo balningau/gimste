@@ -1,9 +1,0 @@
-
-Word: kagni
-Rafsi: kag
-Definition: x1 is a company/corporation/firm/partnership chartered by authority x2 for purpose x3.
-
-Notes:
-Also enterprise/organization (if chartered).  See also {kansa}, {kamni}, {banxa}, {bende}.
-
-Examples:

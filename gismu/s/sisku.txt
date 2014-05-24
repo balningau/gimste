@@ -1,9 +1,0 @@
-
-Word: sisku
-Rafsi: sis
-Definition: x1 seeks/searches/looks for property x2 among set x3 (complete specification of set).
-
-Notes:
-If searching for an object or an event, use tu'a in $x_2$.  See also {cirko}, {kalte}, {kavbu}, {kucli}, {rivbi}, {manci}, {facki}.
-
-Examples:

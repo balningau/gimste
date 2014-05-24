@@ -1,9 +1,0 @@
-
-Word: tikpa
-Rafsi: tip
-Definition: x1 kicks [hits with x1's foot/feet x4] x2 in/at locus x3, using x1's foot/feet x4.
-
-Notes:
-See also {tunta}, {darxi}.
-
-Examples:

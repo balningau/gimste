@@ -1,9 +1,0 @@
-
-Word: tamne
-Rafsi: 
-Definition: x1 is cousin to x2 by bond/tie x3; [non-immediate family member, default same generation].
-
-Notes:
-Probably preferred for metaphorical siblings (over bruna). See also {dzena}, {famti}, {mensi}, {bruna}, {tunba}.
-
-Examples:

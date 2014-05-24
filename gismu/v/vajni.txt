@@ -1,9 +1,0 @@
-
-Word: vajni
-Rafsi: vaj, vai
-Definition: x1 (object/event) is important/significant to x2 (person/event) in aspect/for reason x3 (nu/ka).
-
-Notes:
-Also: $x_1$ matters to $x_2$ in aspect/respect $x_3$.  See also {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni}.
-
-Examples:

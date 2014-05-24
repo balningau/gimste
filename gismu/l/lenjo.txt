@@ -1,9 +1,0 @@
-
-Word: lenjo
-Rafsi: len, le'o
-Definition: x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci x3 by means/material x4.
-
-Notes:
-(adjective:) $x_1$ is optical; focussing may be optical or otherwise, hence $x_2$ which may be light, sound, X-ray, etc., default is light/optical lens; ka is refraction. See also {kacma}, {minra}.
-
-Examples:

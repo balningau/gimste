@@ -1,9 +1,0 @@
-
-Word: fonxa
-Rafsi: fon
-Definition: x1 is a telephone transceiver/modem attached to system/network x2.
-
-Notes:
-See also {tcana}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: jalge
-Rafsi: jag, ja'e
-Definition: x1 (action/event/state) is a result/outcome/conclusion of antecedent x2 (event/state/process).
-
-Notes:
-Also: $x_2$ gives rise to $x_1$ (= selja'e for reordered places); total (general meaning, but also = mekyja'e, pi'irja'e, sujyja'e).  See also se {mukti}, te {zukte}, se {rinka}, se {krinu}, se {nibli}, {mulno}, {sumji}, {pilji}, {mekso}, cmavo list {ja'e}, {ciksi}.
-
-Examples:

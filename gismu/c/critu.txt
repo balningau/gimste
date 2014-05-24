@@ -1,9 +1,0 @@
-
-Word: critu
-Rafsi: 
-Definition: x1 is autumn/fall [harvest/cooling season] of year x2 at location x3.
-
-Notes:
-See also {citsi}, {crisa}, {dunra}, {vensa}, {crepu}.
-
-Examples:

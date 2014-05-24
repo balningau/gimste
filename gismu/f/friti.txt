@@ -1,9 +1,0 @@
-
-Word: friti
-Rafsi: fit
-Definition: x1 offers/proffers x2 [offering] to x3 with conditions x4.
-
-Notes:
-($x_4$ may be nu canja, nu pleji, etc.; an unconditional offering has the 'condition' of acceptance); $x_2$ may be a specific object, a commodity (mass), an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posfriti}, {posyselfriti} for unambiguous semantics).  See also {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke}.
-
-Examples:

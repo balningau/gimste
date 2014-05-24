@@ -1,9 +1,0 @@
-
-Word: xindo
-Rafsi: xin
-Definition: x1 reflects Hindi language/culture/religion in aspect x2.
-
-Notes:
-Defaults to not include Urdu; Indian (Bharat) nationality may be implied (when constrained by {xingu'e}).  See also {srito}, {xurdo}, {bengo}.
-
-Examples:

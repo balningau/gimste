@@ -1,9 +1,0 @@
-
-Word: litru
-Rafsi: li'u
-Definition: x1 travels/journeys/goes/moves via route x2 using means/vehicle x3; x1 is a traveller.
-
-Notes:
-($x_2$ as a set includes points at least sufficient to constrain the route relevantly); See also {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta}, {limna}, {muvdu}.
-
-Examples:

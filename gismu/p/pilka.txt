@@ -1,9 +1,0 @@
-
-Word: pilka
-Rafsi: pil, pi'a
-Definition: x1 is a crust/rind/peel/skin/hide/outer cover of x2.
-
-Notes:
-(cf. {grute}, {calku}, {skapi} (pilka as a general term includes skapi), {gacri})
-
-Examples:

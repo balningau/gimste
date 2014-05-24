@@ -1,9 +1,0 @@
-
-Word: dertu
-Rafsi: der, de'u
-Definition: x1 is a quantity of/contains/is made of dirt/soil/earth/ground from source x2 of composition x3.
-
-Notes:
-Also: $x_1$ is earthen; $x_3$: composition including $x_3$, which need not be exhaustive of composition.  See also {kliti}, {terdi}, {loldi}.
-
-Examples:

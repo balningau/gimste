@@ -1,9 +1,0 @@
-
-Word: ganti
-Rafsi: 
-Definition: x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil [body-part] of x2, gender x3.
-
-Notes:
-Egg/sperm/pollen/gamete producing/bearing organ.  See also {plibu}, {sovda}, {pinji}, {gutra}, {mabla}.
-
-Examples:

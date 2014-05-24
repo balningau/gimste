@@ -1,9 +1,0 @@
-
-Word: speni
-Rafsi: spe
-Definition: x1 is married to x2; x1 is a spouse of x2 under law/custom/tradition/system/convention x3.
-
-Notes:
-See also {prami}, {gletu}.
-
-Examples:

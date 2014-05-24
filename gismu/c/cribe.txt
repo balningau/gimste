@@ -1,9 +1,0 @@
-
-Word: cribe
-Rafsi: rib
-Definition: x1 is a bear/ursoid of species/breed x2.
-
-Notes:
-See also {danlu}, {mabru}.
-
-Examples:

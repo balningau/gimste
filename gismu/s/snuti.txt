@@ -1,9 +1,0 @@
-
-Word: snuti
-Rafsi: nut
-Definition: x1 (event/state) is an accident/unintentional on the part of x2; x1 is an accident.
-
-Notes:
-See also {zukte}, {cunso}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: mentu
-Rafsi: met, me'u
-Definition: x1 is x2 minutes in duration (default is 1 minute) by standard x3.
-
-Notes:
-See also {junla}, {cacra}, {snidu}, {tcika}.
-
-Examples:

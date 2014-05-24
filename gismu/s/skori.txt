@@ -1,9 +1,0 @@
-
-Word: skori
-Rafsi: sko
-Definition: x1 is cord/cable/rope/line/twine/cordage/woven strands of material x2.
-
-Notes:
-See also {cilta}, {jgena}, {marna}, {bikla}, {linsi}.
-
-Examples:

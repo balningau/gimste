@@ -1,9 +1,0 @@
-
-Word: mleca
-Rafsi: mec, me'a
-Definition: x1 is less than x2 in property/quantity x3 (ka/ni) by amount x4.
-
-Notes:
-Also negative (= {nonme'a}).  See also cmavo list {me'a}, cmavo list {su'o}, {jdika}, {zmadu}, {traji}.
-
-Examples:

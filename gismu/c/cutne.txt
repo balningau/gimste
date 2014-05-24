@@ -1,9 +1,0 @@
-
-Word: cutne
-Rafsi: cut
-Definition: x1 is a/the chest/thorax/upper trunk/[rib cage/breast] [body-part] of x2.
-
-Notes:
-See also {cnebo}, {betfu}, {xadni}, {tanxe}.
-
-Examples:

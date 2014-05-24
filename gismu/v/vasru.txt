@@ -1,9 +1,0 @@
-
-Word: vasru
-Rafsi: vas, vau
-Definition: x1 contains/holds/encloses/includes contents x2 within; x1 is a vessel containing x2.
-
-Notes:
-[also accommodates, container; containment need not be total; $x_2$ is Contained. in $x_1$ (= selvau for reordered places)]; See also {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}.
-
-Examples:

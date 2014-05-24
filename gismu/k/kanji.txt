@@ -1,9 +1,0 @@
-
-Word: kanji
-Rafsi: kaj
-Definition: x1 calculates/reckons/computes x2 [value (ni)/state] from data x3 by process x4.
-
-Notes:
-See also {kancu}, {jdice}, {skami}.
-
-Examples:

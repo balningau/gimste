@@ -1,9 +1,0 @@
-
-Word: daplu
-Rafsi: plu
-Definition: x1 is an island/atoll/key of [material/properties] x2 in surroundings/body x3; x1 is insular.
-
-Notes:
-See also {lalxu}, {rirxe}, {xamsi}, {dirgo}.
-
-Examples:

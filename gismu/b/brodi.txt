@@ -1,9 +1,0 @@
-
-Word: brodi
-Rafsi: 
-Definition: 3rd assignable variable predicate (context determines place structure).
-
-Notes:
-No notes available.
-
-Examples:

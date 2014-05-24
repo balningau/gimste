@@ -1,9 +1,0 @@
-
-Word: dacru
-Rafsi: dac
-Definition: x1 is a drawer/file in structure x2, a [sliding compartment] container for contents x3.
-
-Notes:
-See also {nilce}, {tanxe}.
-
-Examples:

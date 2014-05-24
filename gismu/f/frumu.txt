@@ -1,9 +1,0 @@
-
-Word: frumu
-Rafsi: fru
-Definition: x1 frowns/grimaces (facial expression).
-
-Notes:
-$x_1$ frowns/grimaces at/in reaction to $x_2$ (= {frufra}).  See also {cmila}, {cisma}.
-
-Examples:

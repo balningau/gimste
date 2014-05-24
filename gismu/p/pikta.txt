@@ -1,9 +1,0 @@
-
-Word: pikta
-Rafsi: 
-Definition: x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state) under conditions x4.
-
-Notes:
-See also {jaspu}.
-
-Examples:

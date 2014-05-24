@@ -1,9 +1,0 @@
-
-Word: parbi
-Rafsi: pab
-Definition: x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3 (quantity), [x2:x3].
-
-Notes:
-Also $x_1$ fraction/proportion/quotient; $x_2$ dividend/numerator; $x_3$ divisor/denominator.  See also {frinu}, {dilcu}, {mekso}.
-
-Examples:

@@ -1,9 +1,0 @@
-
-Word: troci
-Rafsi: toc, toi
-Definition: x1 tries/attempts/makes an effort to do/attain x2 (event/state/property) by actions/method x3.
-
-Notes:
-Also experiments at.  See also {fliba}, {snada}, {cipra}.
-
-Examples:
