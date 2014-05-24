@@ -8,5 +8,5 @@ You can use the Edit link to the upper right.
 
 Name | Github username
 -----|----------------
-Alex Burka | durka42, gerkubergu
+Alex Burka | [durka](http://github.com/durka), [gerkubergu](http://github.com/gerkubergu)
 Dustin Lacewell | [dustinlacewell](http://github.com/dustinlacewell)
