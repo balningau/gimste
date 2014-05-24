@@ -82,6 +82,9 @@ When we are satisfied with out proposal we finish by clicking the `Send Pull
 Request` button. It will then become immediately available for review by
 others.
 
+Don't worry about adding the appropriate tags and milestone -- one of the repo
+owners will take care of that when the PR comes in.
+
 ![alt text](https://raw.githubusercontent.com/balningau/gimste/master/docs/images/submitting-proposal.png "Submitting Proposal")
 
 You can now review your proposal. Bookmark this page! This is the page where
