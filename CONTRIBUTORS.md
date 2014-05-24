@@ -9,4 +9,4 @@ You can use the Edit link to the upper right.
 Name | Github username
 -----|----------------
 Alex Burka | durka42, gerkubergu
-Dustin Lacewell | dustinlacewell
+Dustin Lacewell | [dustinlacewell](http://github.com/dustinlacewell)
