@@ -8,3 +8,4 @@ pull request with a link to show evidence of your participation
 Name | Github username
 -----|----------------
 Alex Burka | durka42, gerkubergu
+Dustin Lacewell | dustinlacewell
