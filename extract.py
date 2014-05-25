@@ -8,7 +8,7 @@ from pprint import pprint
 JVS = 'http://jbovlaste.lojban.org/export/'
 XML_URL = 'xml.html'
 JVS_COOKIE = open('jvs_cookie.secret', 'r').read().strip()
-XML_FILE = '%s-xml-export.html'
+XML_FILE = 'xml/%s-xml-export.html'
 EXPORT_PATH = 'gismu'
 FAVORED_LANGUAGES = ['en', 'jbo', 'de', 'es', 'fr', 'ru']
 
