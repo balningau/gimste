@@ -18,5 +18,4 @@ then. For now, we will simply begin the work. [This document](https://github.com
 Questions?
 ----------
 
-Any questions should be directed to the community on Freenode IRC. You can connect by visting http://webchat.freenode.net
-and `/join`ing the `#lojban` channel.
+Any questions for this project should be directed to the community on Freenode IRC. You can connect by visting http://webchat.freenode.net and `/join`ing the `#balningau` channel. You can also `/join` the `#lojban` channel for general lojban discussion.
