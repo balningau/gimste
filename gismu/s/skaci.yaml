@@ -1,7 +1,69 @@
-Word: skaci
-Rafsi: ''
-Definition: x1 is a skirt/kilt/dress of material x2; x1 is skirted [garment open at
-  the bottom; not legged].
-Notes: A skirted garment may be full length ({pastu}), but must hang below the waist
-  from support above or at the waist.  See also {taxfu}, {palku}.
-Examples: None
+word: skaci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a skirt/kilt/dress of material x2; x1 is skirted [garment
+      open at the bottom; not legged].
+    notes:
+    - A skirted garment may be full length ({pastu}), but must hang below the waist
+      from support above or at the waist.  See also {taxfu}, {palku}.
+    glosses:
+    - skirt
+  de:
+    place structure: x1 ist ein Rock/Kilt/Kleid aus Material x2; [Kleidung, die nach
+      unten offen ist; ohne Beine]
+    notes:
+    - No notes.
+    glosses:
+    - Rock
+  es:
+    place structure: x1 es una falda/pollera/sayo/vestido (prenda de vestir) de material
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - falda
+  ru:
+    place structure: x1 — юбка/платье из материала x2 (одежда без штанин, открытая
+      снизу)
+    notes:
+    - М.б. и во всю длину ({pastu}), но должно свисать ниже пояса, держась на поясе
+      или выше пояса, напр. сарафан {taxfu} (одежда), {palku} (штаны)
+    glosses:
+    - x1=юбка
+  en-simple:
+    place structure: x1 is a skirt of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a skirt
+    - x2=a material of a skirt
+  eo:
+    place structure: x1 estas jupo/kilto el materialo x2 [vesto malferma je la malsupro;
+      ne krurpartigita]
+    notes:
+    - Jupa vesto povas esti tutlonga (pastu), sed devas pendi sub la zono kun subteno
+      de super aŭ ĉe la zono.  Vidu ankaŭ {taxfu}, {palku}.
+    glosses:
+    - jupo
+  hu:
+    place structure: x1 egy szoknya/[egyéb alul nyitott ruhadarab] x2 anyagból
+    notes:
+    - '(Lásd még: {taxfu}, {palku}, {pastu})'
+    glosses:
+    - szoknya
+  ja:
+    place structure: x1 は x2 （素材）のスカート／キルト
+    notes:
+    - ・大意： スカート ・読み方： スカシ  ・語呂合わせ： スカートすかして見る ・関連語： {taxfu}, {palku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是裙，由材料x2制成
+    notes:
+    - 参见 {taxfu}, {palku}, {pastu}
+    glosses:
+    - No glosses.

@@ -1,6 +1,73 @@
-Word: rirni
-Rafsi: rir
-Definition: x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege
-  x2.
-Notes: See also {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}.
-Examples: None
+word: rirni
+rafsi:
+- rir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward
+      child/protege x2.
+    notes:
+    - See also {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}.
+    glosses:
+    - parent
+  jbo:
+    place structure: x1 kurji x2 ze'a lo nu x2 banro lo makcu lo cifnu
+    notes:
+    - No notes.
+    glosses:
+    - rirni
+  de:
+    place structure: x1 ist ein Elternteil/sind die Eltern von x2; x1 zieht x2 auf;
+      x1 handelnd elternhaft gegenüber Kind/Schützling x2
+    notes:
+    - No notes.
+    glosses:
+    - Eltern(teil)
+  es:
+    place structure: x1 cría/es un padre/mentor de menor/protegido x2
+    notes:
+    - Ver también {rorci},  {mamta},  {patfu},  {sidju},  {dzena},  {famti}.
+    glosses:
+    - criar
+  ru:
+    place structure: x1 — родитель/опекун x2; x1 воспитывает/растит ребенка/опекаемого
+      x2
+    notes:
+    - '{rorci} (порождать), {mamta} (мать), {patfu} (отец), {sidju} (помогать), {dzena}
+      (предок), {famti} (тетя), {verba} (ребенок), {bersa} (сын)'
+    glosses:
+    - x1=родитель
+  en-simple:
+    place structure: x1 is a parent of x2
+    notes:
+    - No notes.
+    glosses:
+    - a parent
+    - x2=something with a parent
+  eo:
+    place structure: x1 estas gepatro de/edukas/nutras x2-on; x1 mentoras/agas gepatre
+      al infano/protektato x2
+    notes:
+    - Vidu ankaŭ {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}.
+    glosses:
+    - gepatro
+  hu:
+    place structure: x1 egy/a szüleje x2-nek / felneveli x2-t
+    notes:
+    - '(Lásd még: {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa})'
+    glosses:
+    - szülő
+  ja:
+    place structure: x1 は x2 の育ての親／保護者／保育者／養育者；  x1 は x2 を育てる
+    notes:
+    - ・大意： 養育 ・読み方： リルニ  ・語呂合わせ： 保護者足りるに ・関連語： {rorci}, {mamta}, {patfu}, {sidju},
+      {dzena}, {famti}, {verba}, {bersa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1养育/抚养x2
+    notes:
+    - 参见 {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}.
+    glosses:
+    - No glosses.

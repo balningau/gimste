@@ -1,5 +1,85 @@
-Word: blanu
-Rafsi: bla
-Definition: x1 is blue [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
-Examples: None
+word: blanu
+rafsi:
+- bla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is blue [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - blue
+  jbo:
+    place structure: x1 skari lo'e klina tsani .a lo'e gusni poi jbini lo'e crino
+      ku joi lo'e zirpu le ka boxna clani
+    notes:
+    - '{skari}'
+    glosses:
+    - blanu
+  de:
+    place structure: x1 ist blau [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - blau
+  es:
+    place structure: x1 es azul (color)
+    notes:
+    - No notes.
+    glosses:
+    - azul
+  ru:
+    place structure: x1 — синий/голубой/лазурный (о цвете); x1 синеет
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {zirpu} (сиреневый),
+      {kandi} (тусклый), {carmi} (интенсивный), {cicna} (бирюзовый)'
+    glosses:
+    - синеть
+    - x1=синий
+  en-simple:
+    place structure: x1 is blue
+    notes:
+    - No notes.
+    glosses:
+    - something blue
+  eo:
+    place structure: x1 estas blua [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - blua
+  hu:
+    place structure: x1 kék színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna})'
+    glosses:
+    - kék
+  ja:
+    place structure: x1 は青色
+    notes:
+    - ・大意： 青色 ・読み方： ブルァヌ ・語呂合わせ：  blue, lan(藍)  ・関連語： {skari}, {blabi}, {xekri}, {zirpu},
+      {kandi}, {carmi}, {cicna}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er blå [fargeadjektiv]
+    notes:
+    - Se óg {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är (färgad) blå.
+    notes:
+    - Se även {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - blå
+    - blått
+    - x1=blåfärgad
+  zh:
+    place structure: x1是蓝色的
+    notes:
+    - 参见：{skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}。
+    glosses:
+    - 蓝色
+    - x1=蓝色的东西

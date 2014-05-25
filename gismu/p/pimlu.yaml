@@ -1,5 +1,67 @@
-Word: pimlu
-Rafsi: pim, pi'u
-Definition: x1 is a/the feather/plume(s)/plumage [body-part] of animal/species x2.
-Notes: See also {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.
-Examples: None
+word: pimlu
+rafsi:
+- pim
+- pi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the feather/plume(s)/plumage [body-part] of animal/species
+      x2.
+    notes:
+    - See also {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.
+    glosses:
+    - feather
+  de:
+    place structure: x1 ist eine/die Feder/das Federkleid/Gefieder [Körperteil] von
+      Tier/Art x2.
+    notes:
+    - Siehe auch {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.
+    glosses:
+    - Feder
+  es:
+    place structure: x1 es una pluma (parte del cuerpo) de animal/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - pluma
+  ru:
+    place structure: x1 — перо/оперение (часть тела) животного/вида x2
+    notes:
+    - '{cipni} (птица), {nalci} (крыло), {rebla} (хвост), {kerfa} (волосы), {penbi}
+      (ручка [пишущая])'
+    glosses:
+    - перо
+    - x2=оперенное существо
+  en-simple:
+    place structure: x1 is a feather of x2
+    notes:
+    - No notes.
+    glosses:
+    - a feather
+    - x2=something with a feather
+  eo:
+    place structure: x1 estas plumo/plumaro [korpoparto] de besto/speco x2
+    notes:
+    - Vidu ankaŭ {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.
+    glosses:
+    - plumo
+  hu:
+    place structure: x1 egy tolla x2 állatnak/fajnak
+    notes:
+    - '(Lásd még: {cipni}, {nalci}, {rebla}, {kerfa}, {penbi})'
+    glosses:
+    - toll (testrész)
+  ja:
+    place structure: x1 は x2 （生体）の羽／羽毛
+    notes:
+    - ・大意： 羽 ・読み方： ピムルゥ  ・語呂合わせ： plume, iumau（羽毛） ・関連語： {cipni}, {nalci}, {rebla},
+      {kerfa}, {penbi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是生物/动物x2的羽毛
+    notes:
+    - 参见 {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.
+    glosses:
+    - No glosses.

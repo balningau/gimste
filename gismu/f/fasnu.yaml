@@ -1,6 +1,77 @@
-Word: fasnu
-Rafsi: fau
-Definition: x1 (event) is an event that happens/occurs/takes place; x1 is an incident/happening/occurrence.
-Notes: (cf. cmavo list fau, krefu, lifri, fatci, rapli; gasnu, zukte, if specifically
-  agentive, banli)
-Examples: None
+word: fasnu
+rafsi:
+- fau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) is an event that happens/occurs/takes place; x1 is
+      an incident/happening/occurrence.
+    notes:
+    - (cf. cmavo list fau, krefu, lifri, fatci, rapli; gasnu, zukte, if specifically
+      agentive, banli)
+    glosses:
+    - event
+  de:
+    place structure: x1 (Ereignis) ist ein Ereignis, welches eintritt/stattfindet/geschieht;
+      x1 ist ein Vorfall/eine Begebenheit
+    notes:
+    - No notes.
+    glosses:
+    - Ereignis
+  es:
+    place structure: x1 (evento) ocurre/sucede/pasa
+    notes:
+    - No notes.
+    glosses:
+    - ocurrir
+  ru:
+    place structure: x1 (событие) происходит/имеет место/случается; x1 — событие/инцидент/происшествие/случай
+    notes:
+    - '{fau}, {krefu} (повторение), {lifri} (испытывать [о жизненном опыте]), {fatci}
+      (факт), {rapli} (повторяться); {gasnu} (делать), {zukte} (действовать) — при
+      наличии деятеля, {banli} (великий)'
+    glosses:
+    - случаться
+    - x1=случающийся
+  en-simple:
+    place structure: x1 occurs or happens
+    notes:
+    - No notes.
+    glosses:
+    - an occurrence
+  eo:
+    place structure: x1 (okazo) okazas/estiĝas; x1 estas incidento/okazaĵo
+    notes:
+    - (kp. cmavo fau, krefu, lifri, fatci, rapli; gasnu, zukte, se specife agenta,
+      banli)
+    glosses:
+    - okazi
+  hu:
+    place structure: x1 egy esemény, amely megtörténik/bekövetkezik
+    notes:
+    - '(Lásd még: {krefu}, {lifri}, {fatci}, {rapli}, {gasnu}, {zukte}, {banli})'
+    glosses:
+    - történik
+  ja:
+    place structure: x1 は事／出来事／事件／事象／現象；  x1 は起こる／生じる／発生する
+    notes:
+    - ・大意： 事 ・読み方： ファスヌ  ・語呂合わせ： fan(発), happen ・関連語： {fau}, {krefu}, {lifri}, {fatci},
+      {rapli}; {gasnu}, {zukte}, {banli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse) är en händelse som tilldrar sig/händer/sker/inträffar;
+      x1 är en incident/tilldragelse/begivenhet/evenemang.
+    notes:
+    - jfr cmavo list {fau}, {krefu}, {lifri}, {fatci}, {rapli}; {gasnu}, {zukte},
+      ifall specifikt agentivt, {banli}.
+    glosses:
+    - händelse
+    - tilldragelse
+  zh:
+    place structure: 事件x1发生；x1是一个事件
+    notes:
+    - 参见 {fau}, {krefu}, {lifri}, {fatci}, {rapli}, {gasnu}, {zukte}, {banli}
+    glosses:
+    - No glosses.

@@ -1,5 +1,63 @@
-Word: smani
-Rafsi: ''
-Definition: x1 is a monkey/ape/simian/baboon/chimpanzee of species/breed x2.
-Notes: See also {mabru}, {danlu}.
-Examples: None
+word: smani
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a monkey/ape/simian/baboon/chimpanzee of species/breed
+      x2.
+    notes:
+    - See also {mabru}, {danlu}.
+    glosses:
+    - monkey
+  de:
+    place structure: x1 ist ein Affe/Menschenaffe/Pavian/Schimpanse von Art/Gattung
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Affe
+  es:
+    place structure: x1 es un mono/simio/chimpancé de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - mono
+  ru:
+    place structure: x1 — обезьяна/примат вида/разновидности x2
+    notes:
+    - '{mabru} (зверь), {danlu} (животное)'
+    glosses:
+    - x1=обезьяна
+  en-simple:
+    place structure: x1 is a monkey or ape of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a monkey
+    - x2=a species of monkey
+  eo:
+    place structure: x1 estas simio/paviano/ĉimpanzo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {mabru}, {danlu}.
+    glosses:
+    - simio
+  hu:
+    place structure: x1 egy majom [Simiiformes alrendág] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {mabru}, {danlu})'
+    glosses:
+    - majom
+  ja:
+    place structure: x1 は x2 （種類）の霊長目動物／サル（チンパンジー／オランウータン／ゴリラ／ヒヒ／ヒト／ボノボ等）
+    notes:
+    - ・大意： 猿 ・読み方： スマニ  ・語呂合わせ： カリスマに猿 ・関連語： {mabru}, {danlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是猿/猴/星星，属于种族/种类x2
+    notes:
+    - 参见 {mabru}, {danlu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,62 @@
-Word: linto
-Rafsi: li'o
-Definition: x1 is light in mass/weight by standard x2.
-Notes: (cf. junta, tilju; se xalbo, kandi for metaphor)
-Examples: None
+word: linto
+rafsi:
+- li'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is light in mass/weight by standard x2.
+    notes:
+    - (cf. junta, tilju; se xalbo, kandi for metaphor)
+    glosses:
+    - lightweight
+  de:
+    place structure: x1 ist leicht an Masse/Gewicht gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - leicht
+  es:
+    place structure: x1 es liviano/leve/ligero según estándar x2
+    notes:
+    - Ver también {tilju}.
+    glosses:
+    - liviano
+  ru:
+    place structure: x1 — легкий (масса/вес) относительно стандарта x2
+    notes:
+    - '«Легкий» в смысле «нетрудный» — {frili} {junta} (вес), {tilju} (тяжелый [массивный]);
+      для метафор: {se} {xalbo} (легкомысленный), {kandi} (тусклый)'
+    glosses:
+    - лёгкий (по весу)
+  en-simple:
+    place structure: x1 is lightweight
+    notes:
+    - No notes.
+    glosses:
+    - x1=something lightweight
+    - x2=a lightness standard
+  eo:
+    place structure: x1 estas malpeza laŭ normo x2
+    notes:
+    - (kp. junta, tilju; se xalbo, kandi por metaforo)
+    glosses:
+    - malpeza
+  hu:
+    place structure: x1 könnyű súlyú/kis tömegű x2 mérce szerint
+    notes:
+    - '(Lásd még: {junta}, {tilju}, {xalbo}, {kandi})'
+    glosses:
+    - könnyű
+  ja:
+    place structure: x1 は x2 （基準）において軽い／軽量
+    notes:
+    - ・大意： 軽い ・読み方： ルィント  ・語呂合わせ： 軽いかりんとう ・関連語： {junta}, {tilju}; {se} {xalbo}, {kandi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在质量/重量上，x1是轻的，基于标准x2
+    notes:
+    - 参见 {junta}, {tilju}; se {xalbo}, {kandi} 用于比喻
+    glosses:
+    - No glosses.

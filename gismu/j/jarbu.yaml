@@ -1,5 +1,62 @@
-Word: jarbu
-Rafsi: ''
-Definition: x1 is a suburban area of city/metropolis x2.
-Notes: See also {nurma}, se {tcadu}, ve {tcadu}.
-Examples: None
+word: jarbu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a suburban area of city/metropolis x2.
+    notes:
+    - See also {nurma}, se {tcadu}, ve {tcadu}.
+    glosses:
+    - suburb
+  de:
+    place structure: x1 ist ein Vorort/Stadtrand von Stadt/Metropole x2
+    notes:
+    - No notes.
+    glosses:
+    - Vorort
+  es:
+    place structure: x1 es un barrio/área suburbana de ciudad/metrópolis x2
+    notes:
+    - No notes.
+    glosses:
+    - barrio
+  ru:
+    place structure: x1 — пригородная зона города/мегаполиса/урбанистического района
+      x2
+    notes:
+    - '{nurma} (деревня), {se} {tcadu} (город), {ve} {tcadu} (город)'
+    glosses:
+    - x1=пригород
+  en-simple:
+    place structure: x1 is a suburban area of x2
+    notes:
+    - No notes.
+    glosses:
+    - a suburban area
+    - x2=something with a suburban area
+  eo:
+    place structure: x1 estas antaŭurbo de urbo/metropolo x2
+    notes:
+    - Vidu ankaŭ {nurma}, se {tcadu}, ve {tcadu}.
+    glosses:
+    - antaŭurbo
+  hu:
+    place structure: x1 az elővárosa/peremvárosa x2 városnak
+    notes:
+    - '(Lásd még: {nurma}, {tcadu})'
+    glosses:
+    - előváros
+  ja:
+    place structure: x1 は x2 （都市）の郊外／都市近郊
+    notes:
+    - ・大意： 郊外 ・読み方： ジャルブ ・関連語： {nurma}, {se} {tcadu}, {ve} {tcadu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是城市/中心城市的城郊x2
+    notes:
+    - 参见 {nurma}, se {tcadu}, ve {tcadu}.
+    glosses:
+    - No glosses.

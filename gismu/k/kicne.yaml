@@ -1,6 +1,69 @@
-Word: kicne
-Rafsi: kic, ki'e
-Definition: x1 cushions x2 with material x3; x1 is a cushion/pillow/pad [for x2] of
-  padding material x3.
-Notes: See also {ckana}, {matci}.
-Examples: None
+word: kicne
+rafsi:
+- kic
+- ki'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 cushions x2 with material x3; x1 is a cushion/pillow/pad [for
+      x2] of padding material x3.
+    notes:
+    - See also {ckana}, {matci}.
+    glosses:
+    - cushion
+  de:
+    place structure: x1 polstert x2 mit Material x3; x1 ist ein Kissen/Polster [für
+      x2] aus Füllmaterial x3
+    notes:
+    - No notes.
+    glosses:
+    - Polster
+  es:
+    place structure: x1 es un almohadón/almohada/cojín que protege/aguanta x2, de
+      material x3
+    notes:
+    - No notes.
+    glosses:
+    - almohadón
+  ru:
+    place structure: x1 — подушка/подстилка/подкладка под x2 из материала/набитая
+      материалом x3
+    notes:
+    - '{ckana} (кровать), {matci} (матрац)'
+    glosses:
+    - x1=подушка
+  en-simple:
+    place structure: x1 cushions x2 with material x3
+    notes:
+    - No notes.
+    glosses:
+    - a cushioner
+    - x2=something cushioned
+    - x3=a material of a cushion
+  eo:
+    place structure: x1 kusenas x2-on per materialo x3; x1 estas kuseno/pillow [por
+      x2] de rembura materialo x3
+    notes:
+    - Vidu ankaŭ {ckana}, {matci}.
+    glosses:
+    - kuseno
+  hu:
+    place structure: x1 egy párna/párnázás/tömítés x2 számára/felfogására, x3 anyaggal
+      töltve/tömve
+    notes:
+    - '(Lásd még: {ckana}, {matci})'
+    glosses:
+    - párna
+  ja:
+    place structure: x1 は x2 のための、 x3 （素材）のクッション／座布団；  x1 は x2 を x3 で緩衝する
+    notes:
+    - ・大意： クッション ・読み方： キシネ  ・関連語： {ckana}, {matci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1垫上x2，使用材料x3；x1是垫子/枕头/衬垫，用以支撑x2，具有填充材料x3
+    notes:
+    - 参见 {ckana}, {matci}.
+    glosses:
+    - No glosses.

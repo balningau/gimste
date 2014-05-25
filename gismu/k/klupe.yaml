@@ -1,6 +1,70 @@
-Word: klupe
-Rafsi: lup, lu'e
-Definition: x1 is a screw [fastener] for purpose x2, threads [pitch, material] x3,
-  frame [size, material] x4.
-Notes: Also bolt.  See also {korcu}, {sarlu}, {tutci}.
-Examples: None
+word: klupe
+rafsi:
+- lup
+- lu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a screw [fastener] for purpose x2, threads [pitch, material]
+      x3, frame [size, material] x4.
+    notes:
+    - Also bolt.  See also {korcu}, {sarlu}, {tutci}.
+    glosses:
+    - screw
+  de:
+    place structure: x1 ist eine Schraube [Befestiger] für Zweck x2, Gewinde [Steigung/Material]
+      x3, eingeschraubt in Umgebung [Dicke, Material] x4
+    notes:
+    - No notes.
+    glosses:
+    - Schraube
+  es:
+    place structure: x1 es un tornillo con propósito x2, filete/rosca x3, armazón
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - tornillo
+  ru:
+    place structure: x1 — винт/болт/гайка (крепежное приспособление, снабженное винтовой
+      нарезкой), с назначением x2, параметрами резьбы (шаг, материал) x3, корпусом/оправой
+      (размер, материал) x4
+    notes:
+    - '{korcu} (изогнутый), {sarlu} (спираль), {tutci} (инструмент)'
+    glosses:
+    - x1=гайка
+  en-simple:
+    place structure: x1 is a screw for purpose x2 with threads x3 and frame x4
+    notes:
+    - No notes.
+    glosses:
+    - a screw
+    - x2=a purpose of a screw
+    - x3=a screw thread
+    - x4=a frame of a screw
+  eo:
+    place structure: x1 estas ŝraŭbo/fiksilo por celo x2, reloj [grado, materialo]
+      x3, korpo [grando, materialo] x4
+    notes:
+    - 'Ankaŭ: bolto.  Vidu ankaŭ {korcu}, {sarlu}, {tutci}.'
+    glosses:
+    - ŝraŭbo
+  hu:
+    place structure: x1 egy csavar [kötőelem] x2 célra, x3 menettel, x4 testtel
+    notes:
+    - '(Lásd még: {korcu}, {sarlu}, {tutci})'
+    glosses:
+    - csavar
+  ja:
+    place structure: x1 は x2 （目的）のためのねじ／ボルト
+    notes:
+    - 回転を要する留め具全般 ・大意： ねじ ・読み方： クルゥペ  ・語呂合わせ： ねじくるくるぺっ ・関連語： {korcu}, {sarlu}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是螺纹/螺丝钉，为了目的/用途x2，具有纹x3（螺距/材质），结构x4（尺寸/材质）
+    notes:
+    - 也指：螺栓/螺钉；参见 {korcu}, {sarlu}, {tutci}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,72 @@
-Word: menli
-Rafsi: men
-Definition: x1 is a mind/intellect/psyche/mentality/[consciousness] of body x2.
-Notes: (adjective:) $x_1$ is mental/psychological/a mental phenomenon; multiple personalities
-  (= so'i {menli}).  See also {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri},
-  {sevzi}, {xadni}.
-Examples: None
+word: menli
+rafsi:
+- men
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mind/intellect/psyche/mentality/[consciousness] of body
+      x2.
+    notes:
+    - (adjective:) x1 is mental/psychological/a mental phenomenon; multiple personalities
+      (= so'i {menli}).  See also {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri},
+      {sevzi}, {xadni}.
+    glosses:
+    - mind
+  de:
+    place structure: x1 ist der Geist/Verstand/Intellekt/Animus/die Psyche/Geisteshaltung/[das
+      Bewusstsein] von Körper x2
+    notes:
+    - No notes.
+    glosses:
+    - Verstand
+  es:
+    place structure: x1 es una mente/intelecto/psiquis/mentalidad/consciencia/entendimiento
+      de x2
+    notes:
+    - Ver también {pensi},  {sanji}.
+    glosses:
+    - mente
+  ru:
+    place structure: x1 — разум/сознание/психика/ум/интеллект тела x2
+    notes:
+    - 'Прилагательное: x1 — мысленный/ментальный/психический/психологический; наречие:
+      мысленно, «в уме», «про себя»; раздвоение личности: {so''i} [menli]) {besna}
+      (мозг), {morji} (помнить), {mucti} (нематериальный), {pensi} (думать), {sanji}
+      (осознавать), {xanri} (воображаемый), {sevzi} (сам), {xadni} (тело)'
+    glosses:
+    - x1=разум
+  en-simple:
+    place structure: x1 is a mind of body x2
+    notes:
+    - No notes.
+    glosses:
+    - a mind
+    - x2=something with a mind
+  eo:
+    place structure: x1 estas menso/intelekto/psiko/[konscio] de korpo x2
+    notes:
+    - (adjektivo:) x1 estas mensa/psikologia fenomeno; pluraj personecoj (= so'i {menli}).  Vidu
+      ankaŭ {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri}, {sevzi}, {xadni}.
+    glosses:
+    - menso
+  hu:
+    place structure: x1 az elméje/esze/pszichéje/öntudata x2-nek
+    notes:
+    - '(Lásd még: {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri}, {sevzi}, {xadni})'
+    glosses:
+    - elme
+  ja:
+    place structure: x1 は x2 （本体）の精神／心／悟性；  x1 は心的
+    notes:
+    - ・大意： 精神 ・読み方： メンルィ ・語呂合わせ： 精神面類を見ない ・関連語： {besna}, {morji}, {mucti}, {pensi},
+      {sanji}, {xanri}, {sevzi}, {xadni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是身体x2的理智/精神/智力/意识/心智/灵魂
+    notes:
+    - x1是关于心理的/心智的； 多重人格的= so'i {menli}；参见 {besna}, {morji}, {mucti}, {pensi}, {sanji},
+      {xanri}, {sevzi}, {xadni}.
+    glosses:
+    - No glosses.

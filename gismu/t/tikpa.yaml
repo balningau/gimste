@@ -1,6 +1,74 @@
-Word: tikpa
-Rafsi: tip
-Definition: x1 kicks [hits with x1's foot/feet x4] x2 in/at locus x3, using x1's foot/feet
-  x4.
-Notes: See also {tunta}, {darxi}.
-Examples: None
+word: tikpa
+rafsi:
+- tip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 kicks [hits with x1's foot/feet x4] x2 in/at locus x3, using
+      x1's foot/feet x4.
+    notes:
+    - See also {tunta}, {darxi}.
+    glosses:
+    - kick
+  jbo:
+    place structure: x1 darxi x2 fo x3 fi x4 noi jamfu x1
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 tritt [stößt mit x1s Fuß/Füßen x4] x2 an Stelle x3 unter Verwendung
+      von x1s Fuß/Füßen x4
+    notes:
+    - No notes.
+    glosses:
+    - treten
+  es:
+    place structure: x1 patea/da patadas a x2 en x3 con pie/pata/miembro x4
+    notes:
+    - Ver también {darxi}.
+    glosses:
+    - patear
+  ru:
+    place structure: x1 пинает/лягает (ударяет ногой/ногами) x2 (что) в участок x3,
+      используя ногу/ноги x4
+    notes:
+    - '{tunta} (колоть), {darxi} (ударять)'
+    glosses:
+    - пинать
+    - x1=пинающий
+    - x2=то, что пинают
+  en-simple:
+    place structure: x1 kicks x2 at location x3 using foot x4
+    notes:
+    - No notes.
+    glosses:
+    - a kicker
+    - x2=something kicked
+    - x3=a location of a kick
+    - x4=a foot used to kick
+  eo:
+    place structure: x1 piedfrapas x2-on je loko x3, per piedo x4
+    notes:
+    - Vidu ankaŭ {tunta}, {darxi}.
+    glosses:
+    - piedfrapi
+  hu:
+    place structure: x1 megrúgja x2-t x3 helyen, x4 lábbal
+    notes:
+    - '(Lásd még: {tunta}, {darxi})'
+    glosses:
+    - rúg
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）を x4 で蹴る
+    notes:
+    - x4は普通x1の脚。 ・大意： 蹴る ・読み方： ティクパ  ・関連語： {tunta}, {darxi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1踢x2上的位置x3，用来踢的脚/腿是x4
+    notes:
+    - 参见 {tunta}, {darxi}.
+    glosses:
+    - No glosses.

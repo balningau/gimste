@@ -1,6 +1,65 @@
-Word: vreta
-Rafsi: vre
-Definition: x1 lies/rests/reclines/reposes on x2; x1 is reclining/recumbent/lying
-  on x2.
-Notes: See also {cpana}, {surla}, {zutse}, {ckana}, {lazni}.
-Examples: None
+word: vreta
+rafsi:
+- vre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 lies/rests/reclines/reposes on x2; x1 is reclining/recumbent/lying
+      on x2.
+    notes:
+    - See also {cpana}, {surla}, {zutse}, {ckana}, {lazni}.
+    glosses:
+    - reclining
+  de:
+    place structure: x1 liegt/ruht (aus)/rastet auf x2
+    notes:
+    - No notes.
+    glosses:
+    - liegen
+  es:
+    place structure: x1 yace/se reclina/se acuesta/se recuesta sobre x2
+    notes:
+    - Ver también {zutse},  {cpana},  {ckana}.
+    glosses:
+    - yacer
+  ru:
+    place structure: x1 лежит на x2
+    notes:
+    - 'Также: облокачивается, прислоняется, откидывается {cpana} (на), {surla} (отдыхать),
+      {zutse} (сидеть), {ckana} (кровать), {lazni} (лениться)'
+    glosses:
+    - лежать
+    - x1=лежащий
+    - x2=на чём лежат
+  en-simple:
+    place structure: x1 rests or reclines on x2
+    notes:
+    - No notes.
+    glosses:
+    - a rester
+    - x2=something rested on
+  eo:
+    place structure: x1 kuŝas/sin apogas/ripozas sur x2
+    notes:
+    - Vidu ankaŭ {cpana}, {surla}, {zutse}, {ckana}, {lazni}.
+    glosses:
+    - kuŝi
+  hu:
+    place structure: x1 fekszik/nyugszik/támaszkodik x2 felületen
+    notes:
+    - '(Lásd még: {cpana}, {surla}, {zutse}, {ckana}, {lazni})'
+    glosses:
+    - fekszik
+  ja:
+    place structure: x1 は x2 に寄り掛かる／もたれる／横たわる
+    notes:
+    - ・大意： 寄り掛かる ・読み方： ヴレタ  ・関連語： {cpana}, {surla}, {zutse}, {ckana}, {lazni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1躺/卧在x2上
+    notes:
+    - 参见 {cpana}, {surla}, {zutse}, {ckana}, {lazni}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,68 @@
-Word: lastu
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of brass [copper/zinc alloy] of composition
-  including x2.
-Notes: (adjective:) $x_1$ is brazen).  See also {jinme}, {ransu}, {tunka}.
-Examples: None
+word: lastu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of brass [copper/zinc alloy]
+      of composition including x2.
+    notes:
+    - (adjective:) x1 is brazen).  See also {jinme}, {ransu}, {tunka}.
+    glosses:
+    - brass
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Messing [Kupfer-Zink-Legierung]
+      von Zusammensetzung unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Messing
+  es:
+    place structure: x1 es una cantidad de latón (aleación cobre-zinc) de composición
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - latón
+  ru:
+    place structure: x1 — латунь (сплав меди и цинка), в состав которой входит x2;
+      x1 содержит латунь
+    notes:
+    - '{jinme} (металл), {ransu} (бронза), {tunka} (медь)'
+    glosses:
+    - x1=латунь
+    - x2=состав латуни
+  en-simple:
+    place structure: x1 is a quantity of brass of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of brass
+    - x2=a composition of brass
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el latuno [kunmiksaĵo el
+      kupro kaj zinko] de konsisto x2
+    notes:
+    - Vidu ankaŭ {jinme}, {ransu}, {tunka}.
+    glosses:
+    - latuno
+  hu:
+    place structure: x1 bizonyos mennyiségű sárgaréz (-et tartalmaz/-ből készült)
+      [réz-cink ötvözet] x2 összetétellel
+    notes:
+    - '(Lásd még: {jinme}, {ransu}, {tunka})'
+    glosses:
+    - sárgaréz
+  ja:
+    place structure: x1 は x2 （成分）の真鍮（銅／亜鉛合金）
+    notes:
+    - ・大意： 真鍮 ・読み方： ルァストゥ  ・関連語： {jinme}, {ransu}, {tunka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是黄铜（铜锌合金），具有物质构成x2
+    notes:
+    - x1是黄铜制的；参见 {jinme}, {ransu}, {tunka}.
+    glosses:
+    - No glosses.

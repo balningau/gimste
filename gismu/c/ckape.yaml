@@ -1,6 +1,84 @@
-Word: ckape
-Rafsi: cap
-Definition: x1 is perilous/dangerous/potentially harmful to x2 under conditions x3.
-Notes: $x_1$ is a danger/peril to $x_2$.  See also te {bandu}, te {kajde}, te {marbi},
-  se {snura}, se {xalni}.
-Examples: None
+word: ckape
+rafsi:
+- cap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is perilous/dangerous/potentially harmful to x2 under conditions
+      x3.
+    notes:
+    - x1 is a danger/peril to x2.  See also te {bandu}, te {kajde}, te {marbi}, se
+      {snura}, se {xalni}.
+    glosses:
+    - peril
+    - x1=danger
+  de:
+    place structure: x1 ist (potenziell) gefährlich/schädlich für x2 unter Umständen
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - gefährlich
+  es:
+    place structure: x1 (evento) es peligroso para x2 bajo condiciones x3
+    notes:
+    - No notes.
+    glosses:
+    - peligroso
+  ru:
+    place structure: x1 опасен/вреден/пагубен для x2 в условиях x3
+    notes:
+    - x2 грозит опасность со стороны x1; x2 — в опасности {te} {bandu} (защищать),
+      {te} {kajde} (предостережение), {te} {marbi} (убежище), {se} {snura} (защищенный
+      [в безопасности]), {se} {xalni} (паниковать)
+    glosses:
+    - x1=опасный
+  en-simple:
+    place structure: x1 is dangerous for x2
+    notes:
+    - No notes.
+    glosses:
+    - dangerous
+    - x1=something dangerous
+    - x2=something in danger
+    - x3=a dangerous condition
+  eo:
+    place structure: x1 estas danĝera por x2 sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ te {bandu}, te {kajde}, te {marbi}, se {snura}, se {xalni}.
+    glosses:
+    - danĝera
+  hu:
+    place structure: x1 veszélyes/veszedelmes x2 számára, x3 körülmények között
+    notes:
+    - '(Lásd még: {bandu}, {kajde}, {marbi}, {snura}, {xalni})'
+    glosses:
+    - veszélyes
+  ja:
+    place structure: x1 は x2 にとって x3 （条件）において危険；  x1 はおっかない
+    notes:
+    - ・大意： 危険 ・読み方： シカペ  ・関連語： {te} {bandu}, {te} {kajde}, {te} {marbi}, {se} {snura},
+      {se} {xalni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är farlig/riskfylld/potentiellt skadlig för x2 under omständigheter
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - farlig
+    - farofylld (potentiellt farlig)
+    - riskabel (potentiellt farlig)
+    - riskfylld (potentiellt farlig)
+    - vådlig (potentiellt farlig)
+    - x1=fara (potentiellt farlig)
+    - x2=farodrabbad (utsatt för faror)
+    - x3=farliga omständigheter (villkor för att ngt ska vara farligt)
+  zh:
+    place structure: x1是危险的/有害的，对x2来说，在条件/情形x3下
+    notes:
+    - x1是对x2有害的事物；参见 te {bandu}, te {kajde}, te {marbi}, se {snura}, se {xalni}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,78 @@
-Word: jicla
-Rafsi: ''
-Definition: 'x1 (object, or event: force) stirs/mixes/[roils/agitates] fluid (gas/liquid)
-  x2.'
-Notes: Convection (= {nenflejicla}); agentive stirring (= {jiclygau}, {jiclyzu'e}).  See
-  also {fanza}, {tunta}, {mixre}.
-Examples: None
+word: jicla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 (object, or event: force) stirs/mixes/[roils/agitates] fluid
+      (gas/liquid) x2.'
+    notes:
+    - Convection (= {nenflejicla}); agentive stirring (= {jiclygau}, {jiclyzu'e}).  See
+      also {fanza}, {tunta}, {mixre}.
+    glosses:
+    - stir
+  de:
+    place structure: 'x1 (Objekt, oder Ereignis: Kraft) verrührt/bewegt/durchmischt
+      Flüssigkeit (gasförmig/flüssig) x2'
+    notes:
+    - No notes.
+    glosses:
+    - rühren
+  es:
+    place structure: x1 revuelve/agita fluido x2 con herramienta/utensilio x3
+    notes:
+    - No notes.
+    glosses:
+    - revolver
+  ru:
+    place structure: 'x1 (сила: объект/событие) перемешивает/размешивает жидкость/газ
+      x2; x2 перемешивается под действием x1'
+    notes:
+    - 'Конвекция: {nenflejicla}; деятельное размешивание/взбалтывание: {jiclygau},
+      {jiclyzu''e} {fanza} (раздражать [беспокоить]), {tunta} (колоть), {mixre} (смесь)'
+    glosses:
+    - перемешивать
+    - x1=перемешивающий
+    - x2=перемешиваемый
+  en-simple:
+    place structure: x1 stirs fluid x2
+    notes:
+    - No notes.
+    glosses:
+    - a stirrer
+    - x2=something stirred
+  eo:
+    place structure: 'x1 (objekto, aŭ okazo: forto) kirlas/agitas/miksas fluaĵon (gaso/likvaĵo)
+      x2'
+    notes:
+    - Konvekto (= {nenflejicla}); agenta kirlo (= {jiclygau}, {jiclyzu'e}).  Vidu
+      ankaŭ {fanza}, {tunta}, {mixre}.
+    glosses:
+    - kirli
+  hu:
+    place structure: x1 (meg)keveri x2 folyadékot/gázkeveréket
+    notes:
+    - '(Lásd még: {fanza}, {tunta}, {mixre})'
+    glosses:
+    - kever
+  ja:
+    place structure: x1 （物／事／力）は x2 （液体／気体）をかき混ぜる
+    notes:
+    - ・大意： かき混ぜる ・読み方： ジシルァ  ・関連語： {fanza}, {tunta}, {mixre}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: 'x1 (objekt, eller skeende: kraft) rör om/blandar (samman)/mixar/[grumla/agitera]
+      fluid (gas/vätska) x2.'
+    notes:
+    - Konvektion (= {nenflejicla}); agentiv omrörning (= {jiclygau}, {jiclyzu'e}).
+    glosses:
+    - blanda samman (objekt/skeende (ej agent))
+    - röra om (objekt/skeende (ej agent))
+  zh:
+    place structure: x1（物体/事件/力）搅拌/混合流体x2（液体/固体）
+    notes:
+    - 对流= {nenflejicla}；（施事的）搅拌= {jiclygau}/{jiclyzu'e}；参见 {fanza}, {tunta}, {mixre}.
+    glosses:
+    - No glosses.

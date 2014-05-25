@@ -1,8 +1,74 @@
-Word: kampu
-Rafsi: kau
-Definition: x1 (property - ka) is common/general/universal among members of set x2
-  (complete set).
-Notes: Only fully universal sense applies; $x_1$ must be found in all members of $x_2$.  For
-  the non-universal sense see {fadni} and {zilfadni}.  See also {cafne}, {rirci},
-  {fadni}, {cnano}, {tcaci}, {lakne}, {cmima}, {simxu}.
-Examples: None
+word: kampu
+rafsi:
+- kau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (property - ka) is common/general/universal among members
+      of set x2 (complete set).
+    notes:
+    - Only fully universal sense applies; x1 must be found in all members of x2.  For
+      the non-universal sense see {fadni} and {zilfadni}.  See also {cafne}, {rirci},
+      {fadni}, {cnano}, {tcaci}, {lakne}, {cmima}, {simxu}.
+    glosses:
+    - common (universal)
+    - general (universal)
+    - universal (among)
+  de:
+    place structure: x1 (Eigenschaft - ka) ist allgemein (gültig)/generell/universell
+      unter Elementen von Menge x2 (Gesamte Menge); x1 ist eine gemeinsame Eigenschaft
+      der Elemente der Menge x2
+    notes:
+    - No notes.
+    glosses:
+    - allgemein
+  es:
+    place structure: x1 es común/general/universal entre miembros de conjunto x2
+    notes:
+    - Ver también {fadni},  {cnano},  {tcaci},  {lakne}.
+    glosses:
+    - común
+  ru:
+    place structure: x1 ({ka}) — общее/универсальное свойство среди членов множества
+      x2 (полное описание)
+    notes:
+    - '{cafne} (часто), {rirci} (нетипичный), {fadni} (типичный), {cnano} (нормальный),
+      {tcaci} (обычай), {lakne} (вероятный), {cmima} (член), {simxu} (взаимный)'
+    glosses:
+    - общий (универсальный)
+  en-simple:
+    place structure: x1 is common among x2
+    notes:
+    - No notes.
+    glosses:
+    - something common or general
+    - x2=a group with something common
+  eo:
+    place structure: x1 (eco - ka) estas komuna/ĝenerala/universala inter membroj
+      de aro x2 (kompleta aro)
+    notes:
+    - Vidu ankaŭ {cafne}, {rirci}, {fadni}, {cnano}, {tcaci}, {lakne}, {cmima}, {simxu}.
+    glosses:
+    - komuna
+  hu:
+    place structure: x1 tulajdonság közös/általános/egyetemes az x2 halmaz tagjai
+      között
+    notes:
+    - '(Lásd még: {cafne}, {rirci}, {fadni}, {cnano}, {tcaci}, {lakne}, {cmima}, {simxu})'
+    glosses:
+    - általános
+  ja:
+    place structure: x1 （性質）は x2 （集合）の間で普遍／一般的；  x1 は普通
+    notes:
+    - 「日常的」としての「普通／fadni」の意味との違いに注意。 ・大意： 普遍 ・読み方： カムプ  ・関連語： {cafne}, {rirci}, {fadni},
+      {cnano}, {tcaci}, {lakne}, {cmima}, {simxu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（性质ka）是常见的/普通的/普遍的，在集合x2（完整集合）中
+    notes:
+    - 只应用于完全的普通意义，性质x1 必须出现在x2中的每一个成员上；非完全的普通意义见 {fadni} 和 {zilfadni}；参见 {cafne},
+      {rirci}, {fadni}, {cnano}, {tcaci}, {lakne}, {cmima}, {simxu}.
+    glosses:
+    - No glosses.

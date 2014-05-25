@@ -1,7 +1,69 @@
-Word: tance
-Rafsi: tac
-Definition: 'x1 is a/the tongue [body-part] of x2; (metaphor: similar to nazbi, tamji,
-  degji).'
-Notes: (adjective:) $x_1$ is lingual.  See also {moklu}, {bangu}, {nazbi}, {tamji},
-  {degji}.
-Examples: None
+word: tance
+rafsi:
+- tac
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the tongue [body-part] of x2; (metaphor: similar to
+      nazbi, tamji, degji).'
+    notes:
+    - (adjective:) x1 is lingual.  See also {moklu}, {bangu}, {nazbi}, {tamji}, {degji}.
+    glosses:
+    - tongue
+  de:
+    place structure: 'x1 ist die Zunge [Körperteil] von x2; (übertragener Sinn: ähnlich
+      wie nazbi, tamji, degji)'
+    notes:
+    - No notes.
+    glosses:
+    - Zunge
+  es:
+    place structure: x1 es una lengua (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - lengua
+  ru:
+    place structure: x1 — язык (часть тела) x2
+    notes:
+    - 'Метафора: подобно {nazbi}, {tamji}, {degji}; язык в смысле «речь» — {bangu}.
+      См. {moklu} (рот), {denci} (зуб), {ctebi} (губа), {xedja} (челюсть), {nazbi}
+      (нос), {tamji} (большой палец), {degji} (палец)'
+    glosses:
+    - язык (орган)
+    - x1=язык (орган)
+    - x2=обладатель языка (тело)
+  en-simple:
+    place structure: x1 is a tongue of x2
+    notes:
+    - No notes.
+    glosses:
+    - a tongue
+    - x2=something with a tongue
+  eo:
+    place structure: 'x1 estas (la) lango [korpoparto] de x2; (metafore: simila al
+      nazbi, tamji, degji)'
+    notes:
+    - Vidu ankaŭ {moklu}, {bangu}, {nazbi}, {tamji}, {degji}.
+    glosses:
+    - lango
+  hu:
+    place structure: x1 egy/a nyelve x2-nek
+    notes:
+    - '(Lásd még: {moklu}, {bangu}, {nazbi}, {tamji}, {degji})'
+    glosses:
+    - nyelv (testrész)
+  ja:
+    place structure: x1 は x2 （本体）の舌
+    notes:
+    - ・大意： 舌 ・読み方： タンシェ  ・語呂合わせ： タン、cita (舌) ・関連語： {moklu}, {bangu}, {nazbi}, {tamji},
+      {degji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的舌头（身体部位）
+    notes:
+    - x1是关于舌头的/舌状的；参见 {moklu}, {bangu}, {nazbi}, {tamji}, {degji}.
+    glosses:
+    - No glosses.

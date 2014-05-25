@@ -1,6 +1,107 @@
-Word: binxo
-Rafsi: bix, bi'o
-Definition: x1 becomes/changes/converts/transforms into x2 under conditions x3.
-Notes: Resultative, not-necessarily causal, change.  (cf. {cenba} for non-resultative,
-  {galfi} for causal, {stika} for non-resultative, non-causal change; {zasni})
-Examples: None
+word: binxo
+rafsi:
+- bix
+- bi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 becomes/changes/converts/transforms into x2 under conditions
+      x3.
+    notes:
+    - Resultative, not-necessarily causal, change.  (cf. {cenba} for non-resultative,
+      {galfi} for causal, {stika} for non-resultative, non-causal change; {zasni})
+    glosses:
+    - become
+  de:
+    place structure: x1 wird zu/verwandelt sich in x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - werden
+  es:
+    place structure: x1 se hace/vuelve/convierte/transforma en x2 bajo condiciones
+      x3
+    notes:
+    - Ver también {cenba},  {galfi},  {stika},  {zasni}.
+    glosses:
+    - hacerse
+  ru:
+    place structure: x1 преображается/трансформируется/превращается в x2 в условиях
+      x3; x1 становится/делается x2 (чем)
+    notes:
+    - 'Результативное изменение: наличие деятеля не подразумевается {cenba} (изменчивый
+      [в свойстве]) для нерезультативного изменения, {galfi} (изменять) для изменения
+      под внешним воздействием, {stika} (регулировать) для нерезультативного изменения
+      при наличии деятеля; {zasni} (временный)'
+    glosses:
+    - преображаться
+    - x1=преображающийся
+    - x3=условия преображения
+  en-simple:
+    place structure: x1 transforms into x2
+    notes:
+    - No notes.
+    glosses:
+    - transform
+    - x1=something that transforms
+    - x2=a transformation result
+    - x2=the transformation result
+    - x3=a condition for transformation
+  eo:
+    place structure: x1 iĝas/fariĝas/transformiĝas en x2-on sub kondiĉoj x3
+    notes:
+    - Rezulta, ne nepre kaŭza ŝanĝiĝo.  (kp. cenba por nerezulta, galfi por kaŭza,
+      stika por nerezulta, nekaŭza ŝanĝiĝo; zasni)
+    glosses:
+    - iĝi
+  hu:
+    place structure: x1 átváltozik/átalakul x2-vé, x3 körülmények között
+    notes:
+    - '(Lásd még: {cenba}, {galfi}, {stika}, {zasni})'
+    glosses:
+    - átváltozik
+  ja:
+    place structure: x1 は x2 に x3 （条件）の下で成る／変身する
+    notes:
+    - 「.ei binxo lo ka'e frili pilno be lo ka stace .e lo ka lazni／正直と横着とが自由自在に使へるやうにならなければならない」（山頭火『行乞記（二）』）
+      ・大意： 成る ・読み方： ビンクォ  ・語呂合わせ： ＜ビンがホット＞, become,  bian(変)  ・関連語： {cenba}, {galfi},
+      {stika}; {zasni}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 blir/forandres/konverterer/skifter til x2 under forutsetninger
+      x3
+    notes:
+    - Resultativ, ikke nødvendigvis kausal forandring. Se óg {cenba} for ikke-resultativ
+      forandring, {galfi} for kausal forandring, {stika} for ikke-resultativ og ikke-kausal
+      forandring, {zasni}, na {stodi}, {banro}, {farvi}, {lidne}, {pruce}, {jalge},
+      {zifre}, {nibli}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 blir (till)/förändras/förvandlas/omvandlas/transformeras till
+      x2 under villkor x3
+    notes:
+    - Resultativ, inte nödvändigtvis kausal, förändring. Se även {cenba} för icke-resultativ,
+      {galfi} for kausal, {stika} för icke-resultativ och icke-kausal förändring;
+      {zasni}, na {stodi}, {banro}, {farvi}, {lidne}, {pruce}, {jalge}, {zifre}, {nibli}.
+    glosses:
+    - bli (förändring)
+    - förvandlas
+    - förändras
+    - omvandlas (förändring)
+    - transformeras
+    - x1=förändringsbar form
+    - x2=transformation (förändringens resultat)
+    - x3=förändringsvillkor
+  zh:
+    place structure: x1 成为/变为/转换/变形为x2, 在条件x3的情况下.
+    notes:
+    - No notes.
+    glosses:
+    - 化
+    - 变
+    - x1=变形物
+    - x2=变化;变形结果
+    - x3=变形条件

@@ -1,5 +1,75 @@
-Word: xruba
-Rafsi: xub
-Definition: x1 is a quantity of buckwheat/rhubarb/sorrel grass of species/strain x2.
-Notes: See also {spati}.
-Examples: None
+word: xruba
+rafsi:
+- xub
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of buckwheat/rhubarb/sorrel grass of species/strain
+      x2.
+    notes:
+    - See also {spati}.
+    glosses:
+    - buckwheat
+  de:
+    place structure: x1 ist eine Menge an Buchweizen/Rhabarber/(Sauer-)ampfer von
+      Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Buchweizen
+  es:
+    place structure: x1 es una cantidad de alforfón/trigo sarraceno/ruibarbo/acedera
+      de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - alforfón
+  fr:
+    place structure: x1 est une polygonacée/oseille/parelle/rhubarbe / un sarrasin
+      de genre x2
+    notes:
+    - No notes.
+    glosses:
+    - polygonacée
+  ru:
+    place structure: x1 — гречиха/щавель/ревень вида/сорта x2
+    notes:
+    - 'Гречиха, ревень, щавель принадлежат семейству гречишных (Polygonaceae); значение
+      обычно уточняется контекстом или словосочетаниями, напр. гречневая крупа: [xruba]
+      {gurni}, ревень: {stanyxruba}, щавель: {pezyxruba} {spati} (растение)'
+    glosses:
+    - x1=гречиха
+    - x2=вид гречихи
+  en-simple:
+    place structure: x1 is a quantity of buckwheat of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of buckwheat
+    - x2=a species of buckwheat
+  eo:
+    place structure: x1 estas kvanto da fagopiro/rabarbo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {spati}.
+    glosses:
+    - fagopiro
+  hu:
+    place structure: x1 bizonyos mennyirégű sóska/rebarbara/hajdina [Polygonaceae
+      család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {spati})'
+    glosses:
+    - sóska
+  ja:
+    place structure: x1 は x2 （種類）のタデ科植物（ソバ／ルバーブ）
+    notes:
+    - ・大意： ソバ ・読み方： クゥルバ  ・語呂合わせ： ソバ ・関連語： {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蓼科植物，属于物种/种类x2
+    notes:
+    - 参见 {spati}.
+    glosses:
+    - No glosses.

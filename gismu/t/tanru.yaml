@@ -1,6 +1,75 @@
-Word: tanru
-Rafsi: tau
-Definition: x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4
-  in usage/instance x5.
-Notes: ($x_2$ and $x_3$ are both text or both si'o concept) See also {gismu}, {smuni}.
-Examples: None
+word: tanru
+rafsi:
+- tau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a binary metaphor formed with x2 modifying x3, giving meaning
+      x4 in usage/instance x5.
+    notes:
+    - (x2 and x3 are both text or both si'o concept) See also {gismu}, {smuni}.
+    glosses:
+    - phrase compound
+  de:
+    place structure: x1 ist eine Satzwortkette gebildet mit x2, das x3 verändert,
+      mit der Bedeutung x4 in Verwendung/Auftreten x5
+    notes:
+    - No notes.
+    glosses:
+    - Satzwortkette
+  es:
+    place structure: x1 es una metáfora formada con palabras/conceptos x2 y x3, con
+      significado x4 en idioma x5
+    notes:
+    - No notes.
+    glosses:
+    - metáfora
+  ru:
+    place structure: x1 — это составной глагол / фразовый глагол / tanru, образованное
+      из компонентов x2 (модификатора) и x3 (модифицируемого), имеющее значение/смысл
+      x4 в случае/примере x5
+    notes:
+    - Аргументы x2 и x3 либо оба цитируют текст, либо оба описывают идеи ({si'o}).
+      См. {gismu} - 'корневое слово', {smuni} - 'значение, смысл'
+    glosses:
+    - фраза-сложное слово
+    - x1=составной глагол
+  en-simple:
+    place structure: x1 is a binary metaphor formed with x2 modifying x3, meaning
+      x4 in usage x5
+    notes:
+    - No notes.
+    glosses:
+    - a metaphor
+    - x2=a modifier of a metaphor
+    - x3=a base of a metaphor
+    - x4=a meaning of a metaphor
+    - x5=a usage of a metaphor
+  eo:
+    place structure: x1 estas binara metaforo formita per x2 modifanta x3-on, kun
+      signifo x4 en uzo/instanco x5
+    notes:
+    - (x2 kaj x3 ambaŭ estas tekstoj aŭ ambaŭ konceptoj si'o) Vidu ankaŭ {gismu},
+      {smuni}.
+    glosses:
+    - modifita predikato
+  hu:
+    place structure: x1 egy kételemű alárendelő szerkezet, amelyben x2 kifejezés módosítja
+      x3-t, x4 jelentéssel, x5 használatban
+    notes:
+    - '(Lásd még: {gismu}, {smuni})'
+    glosses:
+    - szószerkezet
+  ja:
+    place structure: x1 は、 x2 が x3 を修飾し、 x4 を意味する、使用法／例文 x5 における複合語
+    notes:
+    - x2 と x3 は、「文字列」か「概念」。 ・大意： 複合語 ・読み方： タンル  ・関連語： {gismu}, {smuni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由x2修饰x3得到的词组（二元结构），具有含义x4，在用例/用法x5中
+    notes:
+    - x2与x3都是文本或si'o；参见 {gismu}, {smuni}.
+    glosses:
+    - No glosses.

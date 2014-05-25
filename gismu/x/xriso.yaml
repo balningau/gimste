@@ -1,5 +1,64 @@
-Word: xriso
-Rafsi: xis, xi'o
-Definition: x1 pertains to the Christian religion/culture/nationality in aspect x2.
-Notes: See also {jegvo}, {lijda}.
-Examples: None
+word: xriso
+rafsi:
+- xis
+- xi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pertains to the Christian religion/culture/nationality in
+      aspect x2.
+    notes:
+    - See also {jegvo}, {lijda}.
+    glosses:
+    - Christian
+  de:
+    place structure: x1 gehört zur christlichen Religion/Kultur/Nationalität in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - christlich
+  es:
+    place structure: x1 refleja cultura/religión cristiana en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - cristiano
+  ru:
+    place structure: x1 — христианский в аспекте x2
+    notes:
+    - '{jegvo} (иеговистский), {lijda} (религия)'
+    glosses:
+    - христианский
+  en-simple:
+    place structure: x1 is Christian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Christian
+    - x2=a Christian aspect
+  eo:
+    place structure: x1 apartenas al la kristanan religion/kulturon/naciecon laŭ aspekto
+      x2
+    notes:
+    - Vidu ankaŭ {jegvo}, {lijda}.
+    glosses:
+    - kristana
+  hu:
+    place structure: x1 keresztény vallást/kultúrát/nemzetiséget tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {jegvo}, {lijda})'
+    glosses:
+    - keresztény
+  ja:
+    place structure: x1はx2の点でキリスト教/キリスト教の文化/キリスト教国に属する
+    notes:
+    - '参照: {jegvo}, {lijda}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于基督教的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {jegvo}, {lijda}.
+    glosses:
+    - No glosses.

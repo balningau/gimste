@@ -1,5 +1,64 @@
-Word: lazni
-Rafsi: ''
-Definition: x1 (person) is lazy/avoiding work/effort concerning action x2.
-Notes: See also {nejni}, {vreta}, {gunka}.
-Examples: None
+word: lazni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) is lazy/avoiding work/effort concerning action x2.
+    notes:
+    - See also {nejni}, {vreta}, {gunka}.
+    glosses:
+    - lazy
+  de:
+    place structure: x1 (Person) ist faul/vermeidet Arbeit/Mühe bezüglich Tätigkeit
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - faul
+  es:
+    place structure: x1 es perezoso/evita trabajo/esfuerzo x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - perezoso
+  ru:
+    place structure: x1 ленится, избегает работы/усилия x2; x1 (кому) лень/неохота
+      делать x2
+    notes:
+    - '{nejni} (энергия), {vreta} (лежать [на чем-либо]), {gunka} (работать)'
+    glosses:
+    - лениться
+  en-simple:
+    place structure: x1 is lazy concerning action x2
+    notes:
+    - No notes.
+    glosses:
+    - something lazy
+    - x2=something lazily avoided
+  eo:
+    place structure: x1 (homo) estas pigra/maldiligenta/mallaborema/evitanta laboron/penon
+      pri ago x2
+    notes:
+    - Vidu ankaŭ {nejni}, {vreta}, {gunka}.
+    glosses:
+    - pigra
+  hu:
+    place structure: x1 (személy) lusta/rest/munkakerülő x2 cselekedetet illetően
+    notes:
+    - '(Lásd még: {nejni}, {vreta}, {gunka})'
+    glosses:
+    - lusta
+  ja:
+    place structure: x1 （者）は x2 （動作／仕事／努力／事）に関して怠惰／怠ける；  x1 は x2 を怠る
+    notes:
+    - ・大意： 怠惰 ・読み方： ルァズニ  ・語呂合わせ： lazyに ・関連語： {nejni}, {vreta}, {gunka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人）是懒惰的，关于活动x2
+    notes:
+    - 参见 {nejni}, {vreta}, {gunka}.
+    glosses:
+    - No glosses.

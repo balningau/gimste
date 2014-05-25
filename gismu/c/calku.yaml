@@ -1,5 +1,86 @@
-Word: calku
-Rafsi: cak
-Definition: x1 is a shell/husk [hard, protective covering] around x2 composed of x3.
-Notes: See also {pilka}, {skapi}, {gacri}, {bartu}.
-Examples: None
+word: calku
+rafsi:
+- cak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shell/husk [hard, protective covering] around x2 composed
+      of x3.
+    notes:
+    - See also {pilka}, {skapi}, {gacri}, {bartu}.
+    glosses:
+    - shell
+  jbo:
+    place structure: x1 jdari gacri x2 ma'e x3
+    notes:
+    - '{jdari}, {gacri}, {ma''e}, {pilka}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Schale/Hülle/Hülse [harte, schützende Abdeckung]
+      um x2 herum, bestehend aus x3
+    notes:
+    - No notes.
+    glosses:
+    - Schale
+  es:
+    place structure: x1 es una concha/casco/casquete/caparazón/cubierta protectora
+      alrededor de x2 compuesta de x3
+    notes:
+    - Ver también {pilka},  {skapi}.
+    glosses:
+    - concha
+  ru:
+    place structure: x1 — панцирь/скорлупа/броня/раковина/{оболочка} (твердое защитное
+      покрытие) x2 (чего), состоящий из x3
+    notes:
+    - '{pilka} (кожура), {skapi} (кожа), {gacri} (покрывать [в качестве крышки]),
+      {bartu} (вне)'
+    glosses:
+    - панцирь
+  en-simple:
+    place structure: x1 is a shell or husk around x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a shell
+    - x2=something with a shell
+    - x3=a material of a shell
+  eo:
+    place structure: x1 estas ŝelo [malmola, protekta kovrilo] ĉirkaŭ x2 farita el
+      x3
+    notes:
+    - Vidu ankaŭ {pilka}, {skapi}, {gacri}, {bartu}.
+    glosses:
+    - ŝelo
+  hu:
+    place structure: x1 egy páncél/tok/héj [kemény védőborítás] x2 körül, x3 anyag(ok)ból
+    notes:
+    - '(Lásd még: {pilka}, {skapi}, {gacri}, {bartu})'
+    glosses:
+    - páncél
+  ja:
+    place structure: x1 は x2 を覆う、 x3 （成分）の殻
+    notes:
+    - ・大意： 殻 ・読み方： シャルゥク  ・語呂合わせ： ＜シャーロック＞, シェル, shell,  ・関連語： {pilka} (上位概念), {skapi},
+      {gacri}, {bartu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett skal/snäcka/mantel/[ryggsköld]/[agn]/[hårt skyddande
+      hölje] omgärdar x2 sammansatt av x3.
+    notes:
+    - No notes.
+    glosses:
+    - mantel (hårt skyddande hölje)
+    - snäcka (hårt skyddande hölje)
+    - x1=skal (hårt skyddande hölje)
+    - x2=skalförsedd (hårt skyddande hölje)
+    - x3=skalmaterial (hårt skyddande hölje)
+  zh:
+    place structure: x1是壳（坚固的保护性外壳），围绕/包围x2，由x3组成
+    notes:
+    - 参见 {pilka}, {skapi}, {gacri}, {bartu}.
+    glosses:
+    - No glosses.

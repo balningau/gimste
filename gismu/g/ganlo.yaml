@@ -1,7 +1,89 @@
-Word: ganlo
-Rafsi: ga'o
-Definition: x1 (portal/passage/entrance-way) is closed/shut/not open, preventing passage/access
-  to x2 by x3.
-Notes: As a doorway, but also perhaps a semi-permeable membrane.  See also {kalri},
-  {pagre}, {canko}, {vorme}, {zunti}.
-Examples: None
+word: ganlo
+rafsi:
+- ga'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (portal/passage/entrance-way) is closed/shut/not open, preventing
+      passage/access to x2 by x3.
+    notes:
+    - As a doorway, but also perhaps a semi-permeable membrane.  See also {kalri},
+      {pagre}, {canko}, {vorme}, {zunti}.
+    glosses:
+    - closed
+  jbo:
+    place structure: lo nu zi'o pagre x1 boi (to noi vorme toi) x2 boi x3 cu se zunti
+      zi'o zi'o
+    notes:
+    - ko catlu fe ji'a zo {kalri} .e zo {pagre} .e zo {canko} .e zo {vorme} .e zo
+      {zunti}
+    glosses:
+    - ganlo
+  de:
+    place structure: x1 (Portal/Durchgang/Eingang) ist geschlossen/zu/nicht offen
+      und versperrt den Zugang zu x2 durch x3
+    notes:
+    - No notes.
+    glosses:
+    - geschlossen
+  es:
+    place structure: x1 está cerrado/clausurado
+    notes:
+    - Ver también {kalri}.
+    glosses:
+    - cerrado
+  ru:
+    place structure: x1 (проход/путь) закрыт/перекрыт, предотвращая доступ к x2 из
+      x3
+    notes:
+    - Ср. дверь, возможно также полупроницаемая мембрана {kalri} (открытый), {pagre}
+      (проникать [проходить сквозь]), {canko} (окно), {vorme} (дверь), {zunti} (мешать
+      [препятствовать])
+    glosses:
+    - x1=перекрытый
+    - x2=доступ
+  en-simple:
+    place structure: x1 is closed, preventing access to x2 by x3
+    notes:
+    - No notes.
+    glosses:
+    - something closed
+    - x2=something inaccessible due to closure
+    - x3=something that causes closure
+  eo:
+    place structure: x1 (pordo/pasejo/koridoro/trairejo/enirejo) estas fermita/malebligas
+      pason/aliron al x2 far x3
+    notes:
+    - Kiel enirejo, sed ankaŭ eble kiel duonpenetrebla membrano.  Vidu ankaŭ {kalri},
+      {pagre}, {canko}, {vorme}, {zunti}.
+    glosses:
+    - fermita
+  hu:
+    place structure: x1 ajtó/átjáró/kapu zárva/csukva van, meggátolva a be-/átjutásban
+      x2-t, x3 módon
+    notes:
+    - '(Lásd még: {kalri}, {pagre}, {canko}, {vorme}, {zunti})'
+    glosses:
+    - zárt
+  ja:
+    place structure: x1 は x2 （経路）にたいして閉まっている
+    notes:
+    - ・大意： 閉鎖 ・読み方： ガンルォ  ・関連語： {kalri}, {pagre}, {canko}, {vorme}, {zunti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är stängd/sluten/avspärrad/igenbommad/inte öppen, vilket förhindrar
+      passage/tillträde till x2 för x3.
+    notes:
+    - Som en ingång/port/dörröppning, men också t.ex. ett helvgenomträngligt membran.
+    glosses:
+    - avspärrad
+    - igenbommad
+    - stängd
+  zh:
+    place structure: 入口/通道/门x1是关闭的/不开放的/不可通行的，通道原本通向x2，关闭通道的装置/结构为x3
+    notes:
+    - 通道也可能指半透膜；参见 {kalri}, {pagre}, {canko}, {vorme}, {zunti}.
+    glosses:
+    - No glosses.

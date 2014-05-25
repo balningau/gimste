@@ -1,5 +1,55 @@
-Word: broda
-Rafsi: rod
-Definition: 1st assignable variable predicate (context determines place structure).
-Notes: See also cmavo list {bu'a}.
-Examples: None
+word: broda
+rafsi:
+- rod
+examples: No examples.
+definitions:
+  en:
+    place structure: 1st assignable variable predicate (context determines place structure).
+    notes:
+    - See also cmavo list {bu'a}.
+    glosses:
+    - predicate var 1
+  jbo:
+    place structure: pamoi brika'i .i ka'e se snigau sepi'o zo cei
+    notes:
+    - '{snigau} {brika''i}; {cei}'
+    glosses:
+    - broda
+  de:
+    place structure: x1 ist erstes zuweisbares variables Prädikat (der Kontext bestimmt
+      die Platzstruktur)
+    notes:
+    - No notes.
+    glosses:
+    - Prädikatvar 1
+  es:
+    place structure: 1er predicado variable asignable
+    notes:
+    - No notes.
+    glosses:
+    - predicado var 1
+  en-simple:
+    place structure: x1 is the predicate variable 1
+    notes:
+    - No notes.
+    glosses:
+    - predicate variable 1
+  eo:
+    place structure: 1a asignebla predikata varianto (kunteksto determinas la argumentostrukturon)
+    notes:
+    - Vidu ankaŭ cmavo {bu'a}.
+    glosses:
+    - predikata varianto 1
+  ja:
+    place structure: 代ブリディその1［x1を始めとするPS全体が文脈次第］
+    notes:
+    - '{cei}を使って{selbri}を代入できる。 ・大意： 第一 selbri 変数 ・読み方： ブロダ  ・関連語： {bu''a}, {bu''e},
+      {bu''i}'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是第一个可被分配的谓词变量（上下文决定位置结构）
+    notes:
+    - 参见 {bu'a}.
+    glosses:
+    - No glosses.

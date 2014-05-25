@@ -1,7 +1,75 @@
-Word: rinci
-Rafsi: ''
-Definition: x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer
-  x3 by force x4.
-Notes: $x_4$ is usually gravity.  See also {pambe}, {tisna}, {setca}, {flecu}, {muvdu},
-  {ganxo}, {rirxe}.
-Examples: None
+word: rinci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 liquid/fluid drains/strains/flushes from source x2 through
+      drain/strainer x3 by force x4.
+    notes:
+    - x4 is usually gravity.  See also {pambe}, {tisna}, {setca}, {flecu}, {muvdu},
+      {ganxo}, {rirxe}.
+    glosses:
+    - drain
+  de:
+    place structure: x1 (Flüssigkeit) fließt/läuft ab von Quelle x2 durch Abfluss/Sieb
+      x3 durch Kraft x4
+    notes:
+    - No notes.
+    glosses:
+    - abfließen
+  es:
+    place structure: x1 se escurre/desagota/drena desde x2 por escurridero x3 debido
+      a fuerza x4
+    notes:
+    - Ver también {setca},  {flecu},  {muvdu}.
+    glosses:
+    - escurrirse
+  ru:
+    place structure: x1 (жидкость) вытекает/утекает/стекает/устремляется из x2 через
+      x3 под действием силы x4
+    notes:
+    - x3 напр. водосток, фильтр и т.п.; x4 обычно гравитация {pambe} (насос), {tisna}
+      (наполняться), {setca} (вставлять), {flecu} (поток), {muvdu} (двигаться), {ganxo}
+      (задний проход), {rirxe} (река)
+    glosses:
+    - вытекать
+    - x1=вытекающий
+  en-simple:
+    place structure: x1 drains or flushes from x2 through drain x3 by force x4
+    notes:
+    - No notes.
+    glosses:
+    - a drainer
+    - x2=a source of drainage
+    - x3=a drain
+    - x4=a force of draining
+  eo:
+    place structure: x1 likvaĵo/fluido dreniĝas/kribriĝas el fonto x2 tra drenilo/kribrilo
+      x3 pro forto x4
+    notes:
+    - x4 ĝenerale estas gravito.  Vidu ankaŭ {pambe}, {tisna}, {setca}, {flecu}, {muvdu},
+      {ganxo}, {rirxe}.
+    glosses:
+    - dreniĝi
+  hu:
+    place structure: x1 folyadék elfolyik/lefolyik/elszivárog x2-ből, x3-n keresztül,
+      x4 erő hatására
+    notes:
+    - '(Lásd még: {pambe}, {tisna}, {setca}, {flecu}, {muvdu}, {ganxo}, {rirxe})'
+    glosses:
+    - elfolyik
+  ja:
+    place structure: x1 は x2 （起源）から x3 （排出口）を通って x4 （力）によって排出される
+    notes:
+    - x4は「重力」など。 ・大意： 排出 ・読み方： リンシ  ・語呂合わせ： 排出されて臨死 ・関連語： {pambe}, {tisna}, {setca},
+      {flecu}, {muvdu}, {ganxo}, {rirxe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 流体/液体x1流出自x2，经过管道/过滤器x3，在力x4的作用下
+    notes:
+    - x4通常指重力；参见 {pambe}, {tisna}, {setca}, {flecu}, {muvdu}, {ganxo}, {rirxe}.
+    glosses:
+    - No glosses.

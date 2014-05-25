@@ -1,5 +1,61 @@
-Word: tarci
-Rafsi: tar
-Definition: x1 is a star/sun with stellar properties x2.
-Notes: See also {solri}, {tsani}.
-Examples: None
+word: tarci
+rafsi:
+- tar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a star/sun with stellar properties x2.
+    notes:
+    - See also {solri}, {tsani}.
+    glosses:
+    - star
+  de:
+    place structure: x1 ist ein Stern/eine Sonne mit stellaren Eigenschaften x2
+    notes:
+    - No notes.
+    glosses:
+    - Stern
+  es:
+    place structure: x1 es una estrella con propiedades estelares x2
+    notes:
+    - Ver también {solri}.
+    glosses:
+    - estrella
+  ru:
+    place structure: x1 — звезда с характеристиками x2
+    notes:
+    - '{solri} (солнце), {tsani} (небо)'
+    glosses:
+    - звезда
+  en-simple:
+    place structure: x1 is a star with properties x2
+    notes:
+    - No notes.
+    glosses:
+    - a star
+    - x2=a property of a star
+  eo:
+    place structure: x1 estas stelo/suno kun stelaj ecoj x2
+    notes:
+    - Vidu ankaŭ {solri}, {tsani}.
+    glosses:
+    - stelo
+  hu:
+    place structure: x1 egy csillag x2 fizikai tulajdonságokkal
+    notes:
+    - '(Lásd még: {solri}, {tsani})'
+    glosses:
+    - csillag
+  ja:
+    place structure: x1 は x2 （特性）の星／恒星
+    notes:
+    - 「plini」と違い、自ら光り輝く星。「太陽」の類。 ・大意： 星 ・読み方： タルシ  ・語呂合わせ： hoci 星 ・関連語： {solri}, {tsani}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是恒星，具有属性x2
+    notes:
+    - 参见 {solri}, {tsani}.
+    glosses:
+    - No glosses.

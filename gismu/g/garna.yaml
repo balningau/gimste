@@ -1,6 +1,69 @@
-Word: garna
-Rafsi: gar
-Definition: x1 is a rail/railing/bar [tool] supporting/restraining x2, of material
-  x3.
-Notes: See also {kamju}, {grana}, {tutci}.
-Examples: None
+word: garna
+rafsi:
+- gar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rail/railing/bar [tool] supporting/restraining x2, of
+      material x3.
+    notes:
+    - See also {kamju}, {grana}, {tutci}.
+    glosses:
+    - bar (tool)
+    - rail (tool)
+    - railing (tool)
+  de:
+    place structure: x1 ist eine Schiene/Reling/Latte/ein Geländer/Balken und stützt/beschränkt
+      x2; aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Schiene
+  es:
+    place structure: x1 es una barra/riel/travesaño que sostiene x2, de material x3
+    notes:
+    - No notes.
+    glosses:
+    - barra
+  ru:
+    place structure: x1 — рельс/балка/перекладина/штанга/перила, поддерживающая/удерживающая
+      x2, из материала x3
+    notes:
+    - '{kamju} (колонна [столб]), {grana} (прут), {tutci} (инструмент)'
+    glosses:
+    - рельс
+  en-simple:
+    place structure: x1 is a rail or bar supporting or restraining x2 of material
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - a rail
+    - x2=something supported by a rail
+    - x3=a material of a rail
+  eo:
+    place structure: x1 estas stango/relo/barilo/trabo/masto [ilo] subtenanta/detenanta
+      x2-on, el materialo x3
+    notes:
+    - Vidu ankaŭ {kamju}, {grana}, {tutci}.
+    glosses:
+    - stango
+  hu:
+    place structure: x1 egy korlát/kerítés x2 megtámasztására/korlátozására, x3 anyagból
+    notes:
+    - '(Lásd még: {kamju}, {grana}, {tutci})'
+    glosses:
+    - korlát
+  ja:
+    place structure: x1 は x2 を支える／抑える、 x3 （素材）のレール／線路／横木／手すり／軌条／バー
+    notes:
+    - ・大意： レール ・読み方： ガルナ  ・語呂合わせ： gang(積), bar, barra ・関連語： {kamju}, {grana}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是用于支撑x2的扶手，由材料x3构成
+    notes:
+    - 参见 {kamju}, {grana}, {tutci}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,79 @@
-Word: cartu
-Rafsi: cat
-Definition: x1 is a chart/diagram/map of/about x2 showing formation/data-points x3.
-Notes: See also {platu}.
-Examples: None
+word: cartu
+rafsi:
+- cat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a chart/diagram/map of/about x2 showing formation/data-points
+      x3.
+    notes:
+    - See also {platu}.
+    glosses:
+    - chart
+  de:
+    place structure: x1 ist eine Karte/ein Diagramm von/über x2 mit Formation/Datenpunkten
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Diagramm
+  es:
+    place structure: x1 es un mapa/diagrama/carta/plano de x2, hecho por x3, que muestra
+      formación/datos x4
+    notes:
+    - No notes.
+    glosses:
+    - mapa
+  ru:
+    place structure: x1 — чертеж/схема/диаграмма/карта/план x2 (чего), показывающий/отображающий
+      данные x3
+    notes:
+    - '{platu} (планировать)'
+    glosses:
+    - карта
+  en-simple:
+    place structure: x1 is a chart or diagram of x2 showing information x3
+    notes:
+    - No notes.
+    glosses:
+    - a chart
+    - x2=a chart topic
+    - x3=data in a chart
+  eo:
+    place structure: x1 estas mapo/karto/diagramo de/pri x2 montrante aranĝon/informojn
+      x3
+    notes:
+    - Vidu ankaŭ {platu}.
+    glosses:
+    - mapo
+  hu:
+    place structure: x1 egy ábra/diagram/térkép x2-ről, x3 adatokkal/formában
+    notes:
+    - '(Lásd még: {platu})'
+    glosses:
+    - ábra
+  ja:
+    place structure: x1 は x2 に関する、 x3 （特性）の図表／見取り図／図式／地図／ダイヤグラム／グラフ／予定表
+    notes:
+    - ・大意： 図表 ・読み方： シャルトゥ  ・語呂合わせ： ＜シャープなツール＞, chart, tu(図) ・関連語： {platu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett diagram/tabell/karta/planritning/[sjökort] över x2
+      som visar formation/staplar/linjer/cirkelsegment/datapunkter x3.
+    notes:
+    - No notes.
+    glosses:
+    - karta
+    - planritning
+    - tabell
+    - x1=diagram
+    - x2=innehåll (karta/diagram/tabell/planritning)
+    - x3=element (karta/diagram/tabell/planritning)
+  zh:
+    place structure: x1是图表/表格，关于x2，呈现信息/数据x3
+    notes:
+    - 参见 {platu}.
+    glosses:
+    - No glosses.

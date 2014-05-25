@@ -1,7 +1,77 @@
-Word: panci
-Rafsi: pan
-Definition: x1 is an odor/fragrance/scent/smell emitted by x2 and detected by observer/sensor
-  x3.
-Notes: An undetected emitter is odorless to the observer.  See also {nazbi}, {sumne},
-  {cpina}, {vrusi}.
-Examples: None
+word: panci
+rafsi:
+- pan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an odor/fragrance/scent/smell emitted by x2 and detected
+      by observer/sensor x3.
+    notes:
+    - An undetected emitter is odorless to the observer.  See also {nazbi}, {sumne},
+      {cpina}, {vrusi}.
+    glosses:
+    - odor
+  jbo:
+    place structure: x1 se krasi x2 gi'e se sumne x3
+    notes:
+    - '{sumne}; {jvinu}; {sance}; {vrusi}; {tengu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist ein Duft/Geruch abgegeben von x2 und erfasst von Betrachter/Sensor
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Geruch
+  es:
+    place structure: x1 es un olor/fragancia/aroma emitido por x2 detectado por observador/sensor
+      x3
+    notes:
+    - Ver también {sutme}.
+    glosses:
+    - olor
+  ru:
+    place structure: x1 — запах/аромат, испускаемый x2 (чем) и ощущаемый наблюдателем/сенсором
+      x3
+    notes:
+    - Не обнаруживающий себя источник не имеет запаха для наблюдателя {nazbi} (нос),
+      {sumne} (обонять), {cpina} (резкий [острый/раздражающий])
+    glosses:
+    - x2=источник запаха
+    - x3=ощущающий запах
+  en-simple:
+    place structure: x1 is an smell or fragrance emitted by x2 detected by x3
+    notes:
+    - No notes.
+    glosses:
+    - a smell
+    - x2=something emitting a smell
+    - x3=something detecting a smell
+  eo:
+    place structure: x1 estas odoro/aromo eligita de x2 kaj rimarkita de observanto/sensilo
+      x3
+    notes:
+    - Nedetektita eliganto estas senodora por la observanto.  Vidu ankaŭ {nazbi},
+      {sumne}, {cpina}.
+    glosses:
+    - odoro
+  hu:
+    place structure: x1 egy szag/illat, amit x2 bocsát ki és x3 érzékel
+    notes:
+    - '(Lásd még: {nazbi}, {sumne}, {cpina})'
+    glosses:
+    - szag
+  ja:
+    place structure: x1 は x2 （起源）の、 x3 （嗅覚者）によって感知される匂い／薫り
+    notes:
+    - ・大意： 匂い ・読み方： パンシ ・関連語： {nazbi}, {sumne}, {cpina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由x2发出的气味，由探测器/感受者x3感知到
+    notes:
+    - 对观察者来说，未被察觉的气味发射源等价于是无味的；参见 {nazbi}, {sumne}, {cpina}, {vrusi}.
+    glosses:
+    - No glosses.

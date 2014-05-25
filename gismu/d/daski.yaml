@@ -1,5 +1,62 @@
-Word: daski
-Rafsi: ''
-Definition: x1 is a pocket/pouch of/in garment/item x2.
-Notes: See also {dakli}, {taxfu}, {bakfu}.
-Examples: None
+word: daski
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pocket/pouch of/in garment/item x2.
+    notes:
+    - See also {dakli}, {taxfu}, {bakfu}.
+    glosses:
+    - pocket
+  de:
+    place structure: x1 ist eine Tasche in Kleidungsstück/Gegenstand x2
+    notes:
+    - No notes.
+    glosses:
+    - Tasche
+  es:
+    place structure: x1 es un bolsillo de prenda/ítem x2
+    notes:
+    - No notes.
+    glosses:
+    - bolsillo
+  ru:
+    place structure: x1 — карман/мешочек на/в одежде/предмете x2
+    notes:
+    - '{dakli} (мешок), {taxfu} (одежда), {bakfu} (связка [пучок])'
+    glosses:
+    - карман
+  en-simple:
+    place structure: x1 is a pocket or pouch in x2
+    notes:
+    - No notes.
+    glosses:
+    - a pocket
+    - x2=something with a pocket
+  eo:
+    place structure: x1 estas poŝo de/en vesto/ero x2
+    notes:
+    - Vidu ankaŭ {dakli}, {taxfu}, {bakfu}.
+    glosses:
+    - poŝo
+  hu:
+    place structure: x1 egy zseb/erszény x2 ruhán/anyagban
+    notes:
+    - '(Lásd még: {dakli}, {taxfu}, {bakfu})'
+    glosses:
+    - zseb
+  ja:
+    place structure: x1 は x2 （物）のためのポケット／ポーチ／小物入れ
+    notes:
+    - 服に付いている場合、 x2 はその服も。 ・大意： ポケット ・読み方： ダスキ  ・語呂合わせ： ＜ダサい気になる＞ ・関連語： {dakli}, {taxfu},
+      {bakfu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是一袋物品/东西x2
+    notes:
+    - 参见 {dakli}, {taxfu}, {bakfu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,67 @@
-Word: kafke
-Rafsi: ''
-Definition: x1 coughs/farts/burps up/out x2 [predominantly gaseous] from orifice x3.
-Notes: See also {bilma}, {senci}, {sputu}, {vamtu}.
-Examples: None
+word: kafke
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 coughs/farts/burps up/out x2 [predominantly gaseous] from
+      orifice x3.
+    notes:
+    - See also {bilma}, {senci}, {sputu}, {vamtu}.
+    glosses:
+    - cough
+  de:
+    place structure: x1 hustet/pupst/rülpst x2 [vorwiegend gasförmig] aus Körperöffnung
+      x3 aus
+    notes:
+    - No notes.
+    glosses:
+    - husten
+  es:
+    place structure: x1 tose/eructa/emite aire/gas x2 por orificio x3
+    notes:
+    - Ver también {sputu},  {vamtu}.
+    glosses:
+    - toser
+  ru:
+    place structure: x1 кашляет/рыгает/пердит, испуская продукт x2 (преимущественно
+      газ) из отверстия x3
+    notes:
+    - '{bilma} (больной), {senci} (чихать), {sputu} (плевать), {vamtu} (блевать)'
+    glosses:
+    - кашлять
+    - x1=кашляющий
+  en-simple:
+    place structure: x1 coughs or burps gas x2 from orifice x3
+    notes:
+    - No notes.
+    glosses:
+    - a cougher
+    - x2=something coughed
+    - x3=a coughing orifice
+  eo:
+    place structure: x1 tusas/furzas/ruktas eligante gason x2 el orifico x3
+    notes:
+    - Vidu ankaŭ {bilma}, {senci}, {sputu}, {vamtu}.
+    glosses:
+    - tusi
+  hu:
+    place structure: x1 felköhögi/felböfögi/kiszellenti x2-t [túlnyomórészt gáznemű
+      anyag] x3 (test)üregből/(test)nyílásból
+    notes:
+    - '(Lásd még: {bilma}, {senci}, {sputu}, {vamtu})'
+    glosses:
+    - köhög
+  ja:
+    place structure: x1 は x2 （気体）を x3 （開口部）から放つ；  x1 は咳／げっぷ／おならをする
+    notes:
+    - ・大意： 咳 ・読み方： カフゥケ  ・語呂合わせ： カフッケフッ ・関連語： {bilma}, {senci}, {sputu}, {vamtu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1咳嗽/放屁/打嗝，放出x2（主要是气体），从孔口x3放出
+    notes:
+    - 参见 {bilma}, {senci}, {sputu}, {vamtu}.
+    glosses:
+    - No glosses.

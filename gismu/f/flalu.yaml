@@ -1,7 +1,88 @@
-Word: flalu
-Rafsi: fla
-Definition: x1 is a law specifying x2 (state/event) for community x3 under conditions
-  x4 by lawgiver(s) x5.
-Notes: $x_1$ is a legality; $x_2$ is legal/licit/legalized/a legality (= {selfla}
-  for reordered places).  See also {javni}, {ritli}, {zekri}, {pulji}, {tinbe}.
-Examples: None
+word: flalu
+rafsi:
+- fla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a law specifying x2 (state/event) for community x3 under
+      conditions x4 by lawgiver(s) x5.
+    notes:
+    - x1 is a legality; x2 is legal/licit/legalized/a legality (= {selfla} for reordered
+      places).  See also {javni}, {ritli}, {zekri}, {pulji}, {tinbe}.
+    glosses:
+    - law
+  de:
+    place structure: x1 ist ein Gesetz und schreibt x2 (Zustand/Ereignis) vor für
+      Gemeinschaft x3 unter Bedingungen x4 und ist erstellt von x5 (Gesetzgeber)
+    notes:
+    - No notes.
+    glosses:
+    - Gesetz
+  es:
+    place structure: x1 es una ley que determina x2 para comunidad x3 bajo condiciones
+      x4 por legislador x5
+    notes:
+    - No notes.
+    glosses:
+    - ley
+  ru:
+    place structure: x1 — закон, регламентирующий x2 (состояние/событие) в обществе
+      x3 при условиях x4, данный законодателем x5
+    notes:
+    - 'x1 — законодательный акт, законное основание; x2 легально, законно, соотвествует
+      закону: {selfla} с переставлеными местами {javni} (правило [предписание]), {ritli}
+      (ритуал), {zekri} (преступление), {pulji} (полицейский), {tinbe} (подчиняться)'
+    glosses:
+    - x1=закон
+    - x5=законодатель
+  en-simple:
+    place structure: x1 is a law specifying x2 for community x3 under conditions x4
+      by lawgiver x5
+    notes:
+    - No notes.
+    glosses:
+    - a law
+    - x2=something specified by law
+    - x3=a community with a law
+    - x4=a law conditions
+    - x5=a lawgiver
+  eo:
+    place structure: x1 estas leĝo preciziganta x2-on por komunumo x3 sub kondiĉoj
+      x4 fare de leĝdonanto(j) x5
+    notes:
+    - x2 estas laŭleĝa (= selfla por reordigitaj {lokoj}).  Vidu ankaŭ {javni}, {ritli},
+      {zekri}, {pulji}, {tinbe}.
+    glosses:
+    - leĝo
+  hu:
+    place structure: x1 egy törvény, amely meghatározza x2 állapotot/eseményt x3 közösségnek,
+      x4 körülmények között, x5 törvényhozó(k)tól
+    notes:
+    - '(Lásd még: {javni}, {ritli}, {zekri}, {pulji}, {tinbe})'
+    glosses:
+    - törvény
+  ja:
+    place structure: x1 は x2 （事）を x3 （共同体）のために x4 （条件）で x5 （者）が制定した法律／条例；  x2 は合法的
+    notes:
+    - x3は「国家」「州」「市」など。 ・大意： 法律 ・読み方： フゥルァルゥ ・関連語： {javni}, {ritli}, {zekri}, {pulji},
+      {tinbe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en lag som anger x2 (tillstånd, händelse) för samhälle
+      x3 under förutsättningar/villkor x4, stiftad av lagstiftare x5.
+    notes:
+    - Även x1 lag-; x2 är legal/laglig/legaliserad.
+    glosses:
+    - x1=lag (juridik)
+    - x2=laglig
+    - x3=rättssamhälle (samhälle med lagar)
+    - x4=lagvillkor (villkor i lag/omständigheter)
+    - x5=lagstiftare
+  zh:
+    place structure: x1是针对x2问题、为保障或限制x3的权益、在x4条件下、由x5制定的法律
+    notes:
+    - 参见：{javni}、{ritli}、{zekri}、{pulji}、{tinbe}
+    glosses:
+    - 法律

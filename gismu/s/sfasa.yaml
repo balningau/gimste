@@ -1,8 +1,80 @@
-Word: sfasa
-Rafsi: sfa
-Definition: x1 (agent) punishes x2 for infraction x3 (event/state/action) with punishment
-  x4 (event/state).
-Notes: Also chastise, castigate, chasten, discipline, correct (one sense); also $x_4$
-  penalty.  See also {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima},
-  {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}.
-Examples: None
+word: sfasa
+rafsi:
+- sfa
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) punishes x2 for infraction x3 (event/state/action)
+      with punishment x4 (event/state).
+    notes:
+    - Also chastise, castigate, chasten, discipline, correct (one sense); also x4
+      penalty.  See also {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima},
+      {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}.
+    glosses:
+    - punish
+  de:
+    place structure: x1 (Handelnder) bestraft x2 für Verletzung/Übertretung x3 (Ereignis/Zustand/Handlung)
+      mit Strafe x4 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - bestrafen
+  es:
+    place structure: x1 castiga a x2 por acción/estado x3 con castigo x4
+    notes:
+    - Ver también {cnemu}.
+    glosses:
+    - castigar
+  ru:
+    place structure: x1 наказывает/карает x2 (кого) за проступок x3 (событие/состояние/действие)
+      наказанием x4 (событие/состояние)
+    notes:
+    - x4 — кара/пеня/штраф/взыскание/пенальти {cnemu} (воздавать), {pleji} (платить),
+      {venfu} (мстить), {zekri} (преступление), {canja} (обменивать), {dunda} (давать),
+      {jdima} (цена), {jerna} (зарабатывать), {kargu} (дорогой [дорогостоящий]), {prali}
+      (прибыль), {dapma} (проклинать), {cirko} (терять), {jinga} (выигрывать [побеждать])
+    glosses:
+    - наказывать
+    - x1=наказывающий
+    - x2=караемый
+    - x3=проступок
+  en-simple:
+    place structure: x1 punishes x2 for x3 with punishment x4
+    notes:
+    - No notes.
+    glosses:
+    - a punisher
+    - x2=something punished
+    - x3=something punishable
+    - x4=a punishment
+  eo:
+    place structure: x1 (aganto) punas x2-on pro rompo/malrespekto x3 (okazo/stato/ago)
+      per puno x4 (okazo/stato)
+    notes:
+    - 'Ankaŭ: skurĝi, korekti (unu senco).  Vidu ankaŭ {cnemu}, {pleji}, {venfu},
+      {zekri}, {canja}, {dunda}, {jdima}, {jerna}, {kargu}, {prali}, {dapma}, {cirko},
+      {jinga}.'
+    glosses:
+    - puni
+  hu:
+    place structure: x1 megbünteti x2-t x3 vétségért x4 büntetéssel
+    notes:
+    - '(Lásd még: {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima}, {jerna},
+      {kargu}, {prali}, {dapma}, {cirko}, {jinga})'
+    glosses:
+    - megbüntet
+  ja:
+    place structure: x1 （者）は x2 （者）を x3 （違反／侵害）のために x4 （罰）でこらしめる／罰する／折檻／懲戒する
+    notes:
+    - ・大意： 罰 ・読み方： スファサ  ・関連語： {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda},
+      {jdima}, {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1惩罚x2，因为其违反/触犯了x3（事件/状态/行为），惩罚措施为x4（行为/状态）
+    notes:
+    - 也指：责罚/惩戒；x4罚金；参见 {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima},
+      {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}.
+    glosses:
+    - No glosses.

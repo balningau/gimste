@@ -82,6 +82,11 @@ When we are satisfied with out proposal we finish by clicking the `Send Pull
 Request` button. It will then become immediately available for review by
 others.
 
+Obviously, you can only edit the sections of the file corresponding to the
+languages you speak. This is not a problem. Other contributors can help with
+translations during the process, and we will track separately which gismu still
+need translation help at the end.
+
 Don't worry about adding the appropriate tags and milestone -- one of the repo
 owners will take care of that when the PR comes in.
 

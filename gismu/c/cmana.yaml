@@ -1,6 +1,72 @@
-Word: cmana
-Rafsi: ma'a
-Definition: x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands] projecting
-  from land mass x2.
-Notes: See also {punli}, {derxi}.
-Examples: None
+word: cmana
+rafsi:
+- ma'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands]
+      projecting from land mass x2.
+    notes:
+    - See also {punli}, {derxi}.
+    glosses:
+    - mountain
+  de:
+    place structure: x1 ist ein Berg/Hügel/eine Erhebung/[Steigung]/[Spitze]/[Gipfel]/[Hochland]
+      und ragt aus Landschaft/Umgebung x2 heraus
+    notes:
+    - No notes.
+    glosses:
+    - Berg
+  es:
+    place structure: x1 es una montaña/monte/colina/montículo/elevación/pico sobre
+      tierra/llano x2
+    notes:
+    - No notes.
+    glosses:
+    - montaña
+  ru:
+    place structure: x1 — гора/холм/пик/вершина, выступающая из массива суши x2
+    notes:
+    - '{punli} (выступ), {derxi} (куча)'
+    glosses:
+    - гора
+  en-simple:
+    place structure: x1 is a mountain projecting from x2
+    notes:
+    - No notes.
+    glosses:
+    - a mountain
+    - x2=a land mass with a mountain
+  eo:
+    place structure: x1 estas monto/[altejo]/[pinto] altiĝanta super grundo x2
+    notes:
+    - Vidu ankaŭ {punli}, {derxi}.
+    glosses:
+    - monto
+  hu:
+    place structure: x1 egy hegy/domb/bucka/csúcs/fennsík, amely x2-ből emelkedik
+      ki
+    notes:
+    - '(Lásd még: {punli}, {derxi})'
+    glosses:
+    - hegy
+  ja:
+    place structure: x1 は x2 から突き出ている山
+    notes:
+    - 「丘」「土手」も。 ・大意： 山 ・読み方： シマナ  ・語呂合わせ： 島なし山国 ・関連語： {punli} (腫れ), {derxi} (堆積；上位概念)
+    - ''
+    glosses:
+    - x1=山
+  sv:
+    place structure: x1 är ett berg/kulle/[höjd]/[topp]/[högland] som reser sig från
+      landmassa x2.
+    notes:
+    - Se även kulle (={cmama'a}).
+    glosses:
+    - berg
+  zh:
+    place structure: x1是山/丘，突起于地面x2（团）
+    notes:
+    - 参见 {punli}, {derxi}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,71 @@
-Word: misno
-Rafsi: mis, mi'o
-Definition: x1 (person/object/event) is famous/renowned/is a celebrity among community
-  of persons x2 (mass).
-Notes: Also celebrated/well-known; (derogative meanings:) notorious/infamous (= {malmi'o};
-  these could also be expressed using the referenced words).  See also se {sinma},
-  {banli}.
-Examples: None
+word: misno
+rafsi:
+- mis
+- mi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person/object/event) is famous/renowned/is a celebrity among
+      community of persons x2 (mass).
+    notes:
+    - Also celebrated/well-known; (derogative meanings:) notorious/infamous (= {malmi'o};
+      these could also be expressed using the referenced words).  See also se {sinma},
+      {banli}.
+    glosses:
+    - famous
+  de:
+    place structure: x1 (Person/Objekt/Ereignis) ist berühmt/bekannt/namhaft/prominent
+      unter Gemeinschaft von Personen x2 (Masse)
+    notes:
+    - No notes.
+    glosses:
+    - berühmt
+  es:
+    place structure: x1 es famoso/renombrado/célebre entre comunidad x2
+    notes:
+    - No notes.
+    glosses:
+    - famoso
+  ru:
+    place structure: x1 — знаменитый/прославленный/известный среди коллектива людей
+      x2 (масса)
+    notes:
+    - 'Также: уважемый, почитаемый; (негативные значения:) печально известный, имеющий
+      дурную репутацию, пользующийся дурной славой, пресловутый, отъявленный: {malmi''o}
+      {se} {sinma} (уважать), {banli} (великий)'
+    glosses:
+    - знаменитый
+  en-simple:
+    place structure: x1 is famous among x2
+    notes:
+    - No notes.
+    glosses:
+    - something famous
+    - x2=something to which something is famous
+  eo:
+    place structure: x1 (homo/objekto/okazo) estas fama/renoma/reputacia inter homoj/komunumo
+      x2 (kolektivaĵo)
+    notes:
+    - 'Ankaŭ: celebrata/bone konata; (malestimiga senco:) fifama (= {malmi''o}).  Vidu
+      ankaŭ se {sinma}, {banli}.'
+    glosses:
+    - fama
+  hu:
+    place structure: x1 személy/tárgy/esemény híres x2 társadalomban
+    notes:
+    - '(Lásd még: {sinma}, {banli})'
+    glosses:
+    - híres
+  ja:
+    place structure: x1 （人／物／事）は x2 （郡）の間で有名
+    notes:
+    - 「人気」「セレブ」も。 ・大意： 有名 ・読み方： ミスノ  ・語呂合わせ： ミスの有名な・・・ ・関連語： {se} {sinma}, {banli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人/物/事）是著名的/知名的/有声望的，对于人群x2（团）来说；x1是名人
+    notes:
+    - 也指：周所周知的； 声名狼藉的/臭名昭著的={malmi'o}；也可以用以表示被引用的词句；参见 se {sinma}, {banli}.
+    glosses:
+    - No glosses.

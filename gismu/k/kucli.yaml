@@ -1,5 +1,66 @@
-Word: kucli
-Rafsi: ''
-Definition: x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract).
-Notes: Inquisitive (= {retkucli}).  See also {manci}, {sisku}, se {cinri}.
-Examples: None
+word: kucli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is curious/wonders about/is interested in/[inquisitive about]
+      x2 (object/abstract).
+    notes:
+    - Inquisitive (= {retkucli}).  See also {manci}, {sisku}, se {cinri}.
+    glosses:
+    - curious
+  de:
+    place structure: x1 ist neugierig/wundert sich über/ist interessiert an x2 (Objekt/Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - neugierig
+  es:
+    place structure: x1 siente curiosidad/se pregunta acerca de x2
+    notes:
+    - No notes.
+    glosses:
+    - curioso
+  ru:
+    place structure: 'x1 испытывает любопытство насчет/хочет знать/интересуется x2
+      (чем: объект/абстракция)'
+    notes:
+    - 'Любознательный/пытливый/любопытный: {retkucli} {manci} (изумленный), {sisku}
+      (искать), {se} {cinri} (интересный)'
+    glosses:
+    - интересоваться
+    - x1=интересующийся
+    - x2=то, чем интересуются
+  en-simple:
+    place structure: x1 is curious about x2
+    notes:
+    - No notes.
+    glosses:
+    - something curious
+    - x2=a subject of curiosity
+  eo:
+    place structure: x1 estas scivolema/interesiĝas pri x2 (objekto/abstraktaĵo)
+    notes:
+    - Demandema (= {retkucli}).  Vidu ankaŭ {manci}, {sisku}, se {cinri}.
+    glosses:
+    - scivoli
+  hu:
+    place structure: x1 kíváncsi x2-re
+    notes:
+    - '(Lásd még: {manci}, {sisku}, {cinri})'
+    glosses:
+    - kíváncsi
+  ja:
+    place structure: x1 は x2 にたいして好奇心がある／興味を覚える；  x1 は詮索好き
+    notes:
+    - ・大意： 好奇心 ・読み方： クシルィ ・関連語： {manci}, {sisku}, {se} {cinri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2感到好奇/有兴趣
+    notes:
+    - 好问的= {retkucli}；参见 {manci}, {sisku}, se {cinri}.
+    glosses:
+    - No glosses.

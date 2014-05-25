@@ -1,9 +1,129 @@
-Word: bende
-Rafsi: bed, be'e
-Definition: x1 is a crew/team/gang/squad/band of persons x2 directed/led by x3 organized
-  for purpose x4.
-Notes: ($x_1$ is a mass; $x_2$ is a set completely specified); Also orchestra (= {zgibe'e},
-  {balzgibe'e}), outfit; $x_3$ conductor; business, not necessarily incorporated (=
-  {cajbe'e}, {venbe'e}).  See also {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni},
-  {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.
-Examples: None
+word: bende
+rafsi:
+- bed
+- be'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a crew/team/gang/squad/band of persons x2 directed/led
+      by x3 organized for purpose x4.
+    notes:
+    - (x1 is a mass; x2 is a set completely specified); Also orchestra (= {zgibe'e},
+      {balzgibe'e}), outfit; x3 conductor; business, not necessarily incorporated
+      (= {cajbe'e}, {venbe'e}).  See also {gunma}, {girzu}, {dansu}, {jatna}, {jitro},
+      {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.
+    glosses:
+    - association (organization)
+    - club (association of members)
+    - club (association)
+    - crew
+    - team (crew)
+  de:
+    place structure: x1 ist eine Mannschaft/ein Team/eine Gruppe/Gang/Bande von Personen
+      x2 (an)geführt/geleitet von x3 organisiert für Zweck x4
+    notes:
+    - No notes.
+    glosses:
+    - Mannschaft
+  es:
+    place structure: x1 es un equipo/escuadrón/banda/orquesta de personas x2 dirigidos/conducidos
+      por x3 organizados con propósito x4
+    notes:
+    - No notes.
+    glosses:
+    - banda
+  fr:
+    place structure: x1 est une gang/un groupe/une équipe/une bande composée de personnes
+      x2, guidé par x3 ayant pour but x4.
+    notes:
+    - 'x1 est une masse. x2 est un ensemble complètement spécifié. Aussi, "orchestre":
+      {zgibe''e}, {balzgibe''e}; "entreprise", pas nécessairement une corporation:
+      {cajbe''e}, {venbe''e}. Voir également {gunma}, {girzu}, {dansu}, {jatna}, {jitro},
+      {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.'
+    glosses:
+    - gang
+    - groupe
+    - équipe
+    - x3=leader
+  ru:
+    place structure: x1 — команда/группа/отряд/коллектив лиц x2, возглавляемая/ведомая
+      x3 (кем), организованная с целью x4
+    notes:
+    - 'x1 — масса; x2 — полностью описанное множество; Также: оркестр: {zgibe''e},
+      {balzgibe''e}, организация, учреждение; x3 — дирижер; фирма: {cajbe''e}, {venbe''e}
+      {gunma} (масса [единое целое]), {girzu} (группа), {dansu} (танцевать), {jatna}
+      (лидер), {jitro} (контролировать), {kagni} (фирма), {kamni} (комиссия [комитет]),
+      {minde} (командовать), {ralju} (главный), {cecmu} (сообщество [организмов]),
+      {gidva} (вести [направлять/быть лидером])'
+    glosses:
+    - коллектив
+    - x2=член коллектива
+    - x3=глава коллектива
+    - x4=цель создания коллектива
+  en-simple:
+    place structure: x1 is a team or crew of persons x2 led by x3 for purpose x4
+    notes:
+    - No notes.
+    glosses:
+    - a team
+    - x2=people of a team
+    - x3=a leader of a team
+    - x4=purpose of a team
+  eo:
+    place structure: x1 estas bando/teamo/orkestro/aro da homoj x2 kun ĉefo/direktoro/estro
+      x3 organizita por celo x4
+    notes:
+    - '(x1 estas kolektivaĵo; x2 estas aro komplete specifita); Ankaŭ: orkestro (=
+      {zgibe''e}, {balzgibe''e}); x3 direktisto; komerco, ne nepre korporaciigita
+      (=cajbe''e, venbe''e).  Vidu ankaŭ {gunma}, {girzu}, {dansu}, {jatna}, {jitro},
+      {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.'
+    glosses:
+    - bando
+  hu:
+    place structure: x1 egy csapat/társaság/banda x2 tagokkal (teljes lista), x3 vezetővel,
+      x4 célból alapítva
+    notes:
+    - '(Lásd még: {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde},
+      {ralju}, {cecmu}, {gidva})'
+    glosses:
+    - csapat
+  ja:
+    place structure: x1 は x2 （者達）・ x3 （引率者）からなる、 x4 （目的）のための仲間／チーム／乗組員／バンド／班
+    notes:
+    - ・大意： 仲間 ・読み方： ベンデ  ・語呂合わせ： ＜便でかい＞, band ・関連語： {gunma}, {girzu}, {dansu}, {jatna},
+      {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en gruppe/lag/gjeng bestående av personer x2 ledet av x3,
+      organisert for formål/hensikt x4
+    notes:
+    - (x1 er en masse; x2 er helt spesifisert); også orkester (= {zgibe'e}, {balzgibe'e}).
+      Se også {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde},
+      {ralju}, {cecmu}, {gidva}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (massa) är ett gäng/grupp/team/lag/trupp av personer (set)
+      x2 ledd av x3 organiserad i syfte x4.
+    notes:
+    - Även orkester (={balzgibe'e}, x3 dirigent); även affärsverksamhet (firma etc).
+      Se även {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde},
+      {ralju}, {cecmu}, {gidva}.
+    glosses:
+    - gäng (grupp)
+    - lag (grupp)
+    - team
+    - trupp
+    - x1=grupp (massa av personer)
+    - x2=gruppmedlemmar
+    - x3=gruppledare
+    - x4=gruppändamål
+  zh:
+    place structure: x1是一个团队/队伍/帮派/组织，由成员x2构成，被x3指挥/带领/领导，为了目的x4而存在/组建
+    notes:
+    - x2是一个完全确定的集合；乐队={zgibe'e}；x3可以指乐队指挥，不一定指乐队经理人（={cajbe'e})；参见{gunma}, {girzu},
+      {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}
+    glosses:
+    - No glosses.

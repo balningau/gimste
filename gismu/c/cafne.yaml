@@ -1,7 +1,84 @@
-Word: cafne
-Rafsi: caf
-Definition: x1 (event) often/frequently/commonly/customarily occurs/recurs by standard
-  x2.
-Notes: See also {rirci}, {fadni}, {kampu}, {rapli}, {krefu}, {lakne}, cmavo list {piso'iroi}
-  and similar compounds.
-Examples: None
+word: cafne
+rafsi:
+- caf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) often/frequently/commonly/customarily occurs/recurs
+      by standard x2.
+    notes:
+    - See also {rirci}, {fadni}, {kampu}, {rapli}, {krefu}, {lakne}, cmavo list {piso'iroi}
+      and similar compounds.
+    glosses:
+    - frequent (occurring often)
+    - often
+  de:
+    place structure: x1 (Ereignis) tritt oft/häufig/regelmäßig/üblicherweise (gemäß
+      Standard x2) auf
+    notes:
+    - No notes.
+    glosses:
+    - oft
+  es:
+    place structure: x1 (evento) ocurre frecuentemente/seguido/a menudo según estándar
+      x2
+    notes:
+    - Ver también {rirci},  {fadni},  {kampu},  {rapli},  {krefu}.
+    glosses:
+    - frecuente
+  ru:
+    place structure: x1 (событие) происходит/повторяется часто относительно стандарта
+      x2
+    notes:
+    - '{rirci} (нетипичный), {fadni} (типичный), {kampu} (общий [о свойстве]), {rapli}
+      (повторяться), {krefu} (повторение), {lakne} (вероятный); {piso''iroi} и аналогичные
+      составные cmavo'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 (nu) occurs frequently
+    notes:
+    - No notes.
+    glosses:
+    - frequent
+    - x1=something frequent
+    - x2=a standard for being frequent
+  eo:
+    place structure: x1 (okazo) ofte/kutime okazas/reokazas/ripetiĝas laŭ normo x2
+    notes:
+    - (kp. rirci, fadni, kampu, rapli, krefu, lakne, cmavon piso'iroi kaj similajn
+      kunmetaĵojn)
+    glosses:
+    - ofta
+  hu:
+    place structure: x1 esemény gyakran/sűrűn/általában meg szokott történni x2 mérce
+      szerint
+    notes:
+    - '(Lásd még: {rirci}, {fadni}, {kampu}, {rapli}, {krefu}, {lakne})'
+    glosses:
+    - gyakori
+  ja:
+    place structure: x1 （事）は x2 （基準）において頻繁／しょっちゅう／頻発する／よくある
+    notes:
+    - ・大意： 頻繁 ・読み方： シャフネ  ・語呂合わせ： ＜車夫寝る＞, can(常), often ・関連語： {rirci}, {fadni}, {kampu},
+      {rapli}, {krefu}, {lakne}, {piso'iroi}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse) förekommer/inträffar/händer/upprepas ofta/frekvent/vanligen/vanligtvis
+      enligt standard x2.
+    notes:
+    - No notes.
+    glosses:
+    - frekvent (inträffar ofta)
+    - ofta
+    - vanligen
+    - vanligtvis
+    - x1=ofta förekommande
+    - x2=ofta enligt standard x2
+  zh:
+    place structure: x1是经常/反复发生的，基于标准x2
+    notes:
+    - 参见 {rirci}, {fadni}, {kampu}, {rapli}, {krefu}, {lakne}, {piso'iroi}及其它近似的cmavo
+    glosses:
+    - No glosses.

@@ -1,6 +1,66 @@
-Word: mokca
-Rafsi: moc
-Definition: x1 is a point/instant/moment [0-dimensional shape/form] in/on/at time/place
-  x2.
-Notes: $x_1$ is dimensionless.  See also {jipno}, {jganu}, {linji}, {stuzi}, {tcika}.
-Examples: None
+word: mokca
+rafsi:
+- moc
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a point/instant/moment [0-dimensional shape/form] in/on/at
+      time/place x2.
+    notes:
+    - x1 is dimensionless.  See also {jipno}, {jganu}, {linji}, {stuzi}, {tcika}.
+    glosses:
+    - point (vertex)
+  de:
+    place structure: x1 ist ein Punkt/Moment [0-dimensionale Form] an/in Ort/Zeit
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Punkt
+  es:
+    place structure: x1 es un punto/instante/momento (0-dimensional) en tiempo/lugar
+      x2
+    notes:
+    - Ver también {jipno}.
+    glosses:
+    - punto
+  ru:
+    place structure: x1 — точка/мгновение/миг/момент (0-мерная форма) в x2 (время/место)
+    notes:
+    - x1 — нульмерный {jipno} (кончик), {jganu} (угол), {linji} (линия), {stuzi} (место
+      [постоянное]), {tcika} (время [события])
+    glosses:
+    - x1=точка
+  en-simple:
+    place structure: x1 is an instant at time or place x2
+    notes:
+    - No notes.
+    glosses:
+    - an instant
+    - x2=a place with an instant
+  eo:
+    place structure: x1 estas punkto/momento [0-dimensia formo] ĉe/je tempo/loko x2
+    notes:
+    - x1 estas sendimensia.  Vidu ankaŭ {jipno}, {jganu}, {linji}, {stuzi}, {tcika}.
+    glosses:
+    - punkto
+  hu:
+    place structure: x1 egy pont/pillanat a tér/idő/téridő x2 helyén
+    notes:
+    - '(Lásd még: {jipno}, {jganu}, {linji}, {stuzi}, {tcika})'
+    glosses:
+    - pont
+  ja:
+    place structure: x1 は x2 （時間／空間）における点；  x1 は0次元
+    notes:
+    - 「時点」など。 ・大意： 点 ・読み方： モクシャ  ・語呂合わせ： 点を黙写せよ ・関連語： {jipno}, {jganu}, {linji}, {stuzi},
+      {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是位于时间/空间区域x2上的一个点/时刻
+    notes:
+    - x1是无穷小量；参见 {jipno}, {jganu}, {linji}, {stuzi}, {tcika}.
+    glosses:
+    - No glosses.

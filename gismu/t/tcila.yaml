@@ -1,5 +1,61 @@
-Word: tcila
-Rafsi: til
-Definition: x1 is a detail/feature/particular of x2.
-Notes: See also {diklo}, {steci}.
-Examples: None
+word: tcila
+rafsi:
+- til
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a detail/feature/particular of x2.
+    notes:
+    - See also {diklo}, {steci}.
+    glosses:
+    - detail
+  de:
+    place structure: x1 ist ein Detail/eine Einzelheit/Besonderheit von x2
+    notes:
+    - No notes.
+    glosses:
+    - Detail
+  es:
+    place structure: x1 es un detalle/característica de x2
+    notes:
+    - Ver también {diklo}.
+    glosses:
+    - detalle
+  ru:
+    place structure: x1 — деталь/черта/особенность x2 (чего)
+    notes:
+    - '{diklo} (локальный), {steci} (специфика)'
+    glosses:
+    - x1=деталь
+  en-simple:
+    place structure: x1 is a detail or feature of x2
+    notes:
+    - No notes.
+    glosses:
+    - a detail
+    - x2=something detailed
+  eo:
+    place structure: x1 estas detalo/trajto/apartaĵo de x2
+    notes:
+    - Vidu ankaŭ {diklo}, {steci}.
+    glosses:
+    - detalo
+  hu:
+    place structure: x1 egy jellemzője/sajátossága/jellegzetessége x2-nek
+    notes:
+    - '(Lásd még: {diklo}, {steci})'
+    glosses:
+    - jellemző
+  ja:
+    place structure: x1 は x2 の特徴／特性／特質
+    notes:
+    - ・大意： 特徴 ・読み方： チルァ  ・関連語： {diklo}, {steci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的细节描述/特写/详情
+    notes:
+    - 参见 {diklo}, {steci}.
+    glosses:
+    - No glosses.

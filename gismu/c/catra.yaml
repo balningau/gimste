@@ -1,5 +1,75 @@
-Word: catra
-Rafsi: ''
-Definition: x1 (agent) kills/slaughters/murders x2 by action/method x3.
-Notes: See also {morsi}, {xarci}.
-Examples: None
+word: catra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) kills/slaughters/murders x2 by action/method x3.
+    notes:
+    - See also {morsi}, {xarci}.
+    glosses:
+    - kill
+    - murder (kill)
+  de:
+    place structure: x1 (Handelndes Subjekt) tötet/schlachtet/ermordet x2 durch Tat/Methode
+      x3
+    notes:
+    - Siehe auch {morsi}, {xarci}.
+    glosses:
+    - töten
+  es:
+    place structure: x1 mata/asesina a x2 por acción/método x3
+    notes:
+    - No notes.
+    glosses:
+    - matar
+  ru:
+    place structure: x1 убивает/умерщвляет x2 (кого) действием/способом x3
+    notes:
+    - '{morsi} (мертвый), {xarci} (оружие)'
+    glosses:
+    - убивать
+    - x1=убивающий
+  en-simple:
+    place structure: x1 kills x2 by action x3
+    notes:
+    - No notes.
+    glosses:
+    - a killer
+    - x2=something killed
+    - x3=a method of killing
+  eo:
+    place structure: x1 (aganto) mortigas/buĉas/murdas x2-on per ago/metodo x3
+    notes:
+    - Vidu ankaŭ {morsi}, {xarci}.
+    glosses:
+    - mortigi
+  hu:
+    place structure: x1 [mint cselekvő] megöli/meggyilkolja x2-t, x3 módszerrel
+    notes:
+    - '(Lásd még: {morsi}, {xarci})'
+    glosses:
+    - megöl
+  ja:
+    place structure: x1 は x2 を x3 （動作／方法）で殺す
+    notes:
+    - ・大意： 殺す ・読み方： シャトラ  ・語呂合わせ： 殺戮,   ca(殺) ・関連語： {morsi}, {xarci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 dödar/slaktar/mördar/dräper x2 genom handling/metod x3.
+    notes:
+    - No notes.
+    glosses:
+    - mörda
+    - slakta
+    - x1=döda
+    - x2=mordoffer
+    - x3=mordmetod
+  zh:
+    place structure: x1杀死x2，通过行动/方式x3
+    notes:
+    - 参见 {morsi}, {xarci}.
+    glosses:
+    - No glosses.

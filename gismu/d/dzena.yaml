@@ -1,6 +1,79 @@
-Word: dzena
-Rafsi: dze
-Definition: x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1's generation precedes
-  x2's parents.
-Notes: See also {patfu}, {rirni}, {tamne}.
-Examples: None
+word: dzena
+rafsi:
+- dze
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1's generation
+      precedes x2's parents.
+    notes:
+    - See also {patfu}, {rirni}, {tamne}.
+    glosses:
+    - elder
+  de:
+    place structure: x1 ist ein Ahne/Vorfahre von x2 durch Verbindung/Beziehung/Verwandtschaftsverhältnis/Grad
+      x3; die Generation von x1 kommt vor der von x2s Eltern
+    notes:
+    - No notes.
+    glosses:
+    - Ahne
+  es:
+    place structure: x1 es un ancestro/antepasado/ascendiente/mayor/bisabuelo/tatarabuelo
+      de x2 por lazo/relación/grado x3
+    notes:
+    - No notes.
+    glosses:
+    - ancestro
+  ru:
+    place structure: x1 — предок x2 (чей/кого) по виду/степени родства x3 (поколение
+      старше родительского)
+    notes:
+    - 'Также: потомок: se dzena) {patfu} (отец), {rirni} (родитель), {tamne} (двоюродный)'
+    glosses:
+    - предок
+    - x2=потомок
+    - x3=вид родства
+  en-simple:
+    place structure: x1 is an elder or ancestor of x2 by bond x3
+    notes:
+    - No notes.
+    glosses:
+    - an ancestor
+    - x2=something with an ancestor
+    - x3=an ancestry bond
+  eo:
+    place structure: x1 estas praulo de x2 laŭ ligilo/grado x3; la generacio de x1
+      antaŭas tiun de la gepatroj de x2
+    notes:
+    - Vidu ankaŭ {patfu}, {rirni}, {tamne}.
+    glosses:
+    - praulo
+  hu:
+    place structure: x1 egy őse/elődje x2-nek, x3 fokon/kötelék által
+    notes:
+    - 'x1 generációja megelőzi x2 szüleiét (Lásd még: {patfu}, {rirni}, {tamne})'
+    glosses:
+    - ős, előd
+  ja:
+    place structure: x1 （者）は x2 （者）・ x3 （関係）の先祖／先人；  x1 は先駆者
+    notes:
+    - 「先輩」も。 ・大意： 先祖 ・読み方： ヅェナ  ・関連語： {patfu}, {rirni}, {tamne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en far-/morförälder/åldrig person/stamfader/anfader/förfader
+      till x2 genom band/relation/grad x3.
+    notes:
+    - No notes.
+    glosses:
+    - anfader
+    - förfader
+    - äldre släkting (som föregår föräldrars generation)
+    - ålderman
+  zh:
+    place structure: x1是x2的长辈/先辈，依据纽带/关系x3
+    notes:
+    - 参见 {patfu}, {rirni}, {tamne}.
+    glosses:
+    - No glosses.

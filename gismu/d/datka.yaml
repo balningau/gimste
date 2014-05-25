@@ -1,5 +1,70 @@
-Word: datka
-Rafsi: ''
-Definition: x1 is a duck/[drake] of species/breed x2.
-Notes: See also {cipni}.
-Examples: None
+word: datka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a duck/[drake] of species/breed x2.
+    notes:
+    - See also {cipni}.
+    glosses:
+    - duck
+  de:
+    place structure: x1 ist eine Ente/[ein Erpel] der Art/Gattung x2.
+    notes:
+    - Siehe auch {cipni}.
+    glosses:
+    - Ente
+  es:
+    place structure: x1 es un pato/ánade de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - pato
+  ru:
+    place structure: x1 — утка/{селезень} вида/породы x2
+    notes:
+    - '{cipni} (птица)'
+    glosses:
+    - утка
+  en-simple:
+    place structure: x1 is a duck of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a duck
+    - x2=a species of duck
+  eo:
+    place structure: x1 estas anaso de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cipni}.
+    glosses:
+    - anaso
+  hu:
+    place structure: x1 egy kacsa/réce [Anatinae alcsalád] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cipni})'
+    glosses:
+    - kacsa
+  ja:
+    place structure: x1 は x2 （種類）のアヒル
+    notes:
+    - ・大意： アヒル ・読み方： ダトカ  ・語呂合わせ： ダチョウか ・関連語： {gunse} (上位概念) < {cipni} (上位概念)
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en and/anka [Anatinae] av art/sort x2.
+    notes:
+    - tillhör Anatinae, underfamilj i ordningen andfåglar med bl.a. gräsand, anka,
+      myskanka. Med anka avses oftast tama varianter av and (={tolcilce datka}). Se
+      även {cipni}.
+    glosses:
+    - x1=and (fågel)
+    - x2=andsort (fågel)
+  zh:
+    place structure: x1是鸭，属于品种/种类x2
+    notes:
+    - 参见 {cipni}.
+    glosses:
+    - No glosses.

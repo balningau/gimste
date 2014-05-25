@@ -1,6 +1,70 @@
-Word: sicni
-Rafsi: si'i
-Definition: x1 is a coin/token/is specie issued by x2 having value x3 of composition
-  including x4.
-Notes: See also {fepni}, {jdini}, {rupnu}.
-Examples: None
+word: sicni
+rafsi:
+- si'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a coin/token/is specie issued by x2 having value x3 of
+      composition including x4.
+    notes:
+    - See also {fepni}, {jdini}, {rupnu}.
+    glosses:
+    - coin
+  de:
+    place structure: x1 ist eine Münze/Wertmarke/Bon ausgestellt von x2 mit Wert x3
+      von Zusammensetzung unter anderem x4
+    notes:
+    - No notes.
+    glosses:
+    - Münze
+  es:
+    place structure: x1 es una moneda/ficha/cospel/token emitida por x2 con valor
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - moneda
+  ru:
+    place structure: x1 — монета/жетон, выпускаемая x2 (кем), имеющая номинал x3,
+      состава x4
+    notes:
+    - 'x4: не обязательно полное описание состава: содержащая x4 {fepni} (стоить [в
+      копейках/центах и пр.]), {jdini} (деньги), {rupnu} (денежная единица)'
+    glosses:
+    - монета
+  en-simple:
+    place structure: x1 is a coin issued by x2 with value x3 made of x4
+    notes:
+    - No notes.
+    glosses:
+    - a coin
+    - x2=an issuer of a coin
+    - x3=a value of a coin
+    - x4=a composition of a coin
+  eo:
+    place structure: x1 estas monero liverita de x2 kun valoro x3 de konsisto enhavanta
+      x4-on
+    notes:
+    - Vidu ankaŭ {fepni}, {jdini}, {rupnu}.
+    glosses:
+    - monero
+  hu:
+    place structure: x1 egy érme/zseton/tantusz x2 által kibocsátva, x3 értékkel,
+      x4 összetétellel
+    notes:
+    - '(Lásd még: {fepni}, {jdini}, {rupnu})'
+    glosses:
+    - érme
+  ja:
+    place structure: x1 は x2 （発行源）・ x3 （価値）・ x4 （素材）の硬貨／コイン
+    notes:
+    - ・大意： 硬貨 ・読み方： スィシニ  ・関連語： {fepni}, {jdini}, {rupnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是硬币，由x2发行，具有币值x3，由组分x4（如：金/银）构成
+    notes:
+    - 参见 {fepni}, {jdini}, {rupnu}.
+    glosses:
+    - No glosses.

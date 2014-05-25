@@ -1,5 +1,62 @@
-Word: nurma
-Rafsi: num
-Definition: x1 is a rural/rustic/pastoral area of x2; x1 is in the country.
-Notes: See also {jarbu}, {rarna}, {tcadu}, {cange}.
-Examples: None
+word: nurma
+rafsi:
+- num
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rural/rustic/pastoral area of x2; x1 is in the country.
+    notes:
+    - See also {jarbu}, {rarna}, {tcadu}, {cange}.
+    glosses:
+    - rural
+  de:
+    place structure: x1 ist eine ländliche/bäuerliche/rustikale Gegend von x2; x1
+      ist auf dem Land
+    notes:
+    - No notes.
+    glosses:
+    - ländlich
+  es:
+    place structure: x1 es una zona rural/rústica/pastoral de x2
+    notes:
+    - No notes.
+    glosses:
+    - rural
+  ru:
+    place structure: x1 — сельская/деревенская/{аграрная} местность x2 (чего)
+    notes:
+    - '{jarbu} (пригород), {rarna} (естественный), {tcadu} (город), {cange} (ферма)'
+    glosses:
+    - сельская местность
+  en-simple:
+    place structure: x1 is a rural area of x2
+    notes:
+    - No notes.
+    glosses:
+    - a rural area
+    - x2=something with a rural area
+  eo:
+    place structure: x1 estas kampara regiono de x2; x1 estas en la kamparo
+    notes:
+    - Vidu ankaŭ {jarbu}, {rarna}, {tcadu}, {cange}.
+    glosses:
+    - kampara
+  hu:
+    place structure: x1 a falusi/városon kívüli területe x2-nek
+    notes:
+    - '(Lásd még: {jarbu}, {rarna}, {tcadu}, {cange})'
+    glosses:
+    - vidék
+  ja:
+    place structure: x1 は x2 （地域）の田舎／農村；  x1 は田舎っぽい／牧歌的／“ダサい”
+    notes:
+    - ・大意： 田舎 ・読み方： ヌルマ  ・語呂合わせ： 田舎ぬるま湯 ・関連語： {jarbu}, {rarna}, {tcadu}, {cange}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是农村，位于/属于x2；x1是乡村的/农村的
+    notes:
+    - 参见 {jarbu}, {rarna}, {tcadu}, {cange}.
+    glosses:
+    - No glosses.

@@ -1,9 +1,105 @@
-Word: merli
-Rafsi: mre
-Definition: x1 (agent) measures/evaluates x2 [quantity] as x3 units on scale x4 (si'o),
-  with accuracy x5.
-Notes: See also {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda},
-  {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo},
-  {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti},
-  {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: merli
+rafsi:
+- mre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) measures/evaluates x2 [quantity] as x3 units on scale
+      x4 (si'o), with accuracy x5.
+    notes:
+    - See also {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda},
+      {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - measure
+  jbo:
+    place structure: x1 pajni lo du'u x2 klani x3 boi x4 fi'o se satci x5
+    notes:
+    - '{pajni}, {klani}, {satci}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Handelnder) misst/berechnet/schätzt x2 [Menge] als x3 Einheiten
+      auf Skala x4 (si'o) mit Genauigkeit x5
+    notes:
+    - No notes.
+    glosses:
+    - messen
+  es:
+    place structure: x1 mide/evalúa propiedad/cantidad x2 con resultado x3 unidades
+      en escala x4 con precisión x5
+    notes:
+    - Ver también {kancu}.
+    glosses:
+    - medir
+  ru:
+    place structure: x1 измеряет/оценивает x2 (величину) в x3 единиц по шкале x4 ({si'o}),
+      с точностью/погрешностью x5
+    notes:
+    - '{kancu} (пересчитывать), {rupnu} (денежная единица), {fepni} (стоить [в копейках/центах
+      и пр.]), {dekpu} (иметь объем [неметрический]), {gutci} (измеряться [в футах/дюймах
+      и пр.]), {minli} (миля), {merli} (измерять), {bunda} (весить [в неметрических
+      единицах]), {ckilu} (шкала), {gradu} (градус), {satci} (точный [об измерении]),
+      {centi} (санти), {cimde} (измерение [пространственное]), {decti} (десятый [доля
+      1/10]), {dekto} (дека), {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro}
+      (йотта), {kilto} (кило), {kramu} (акр), {litce} (литр), {manri} (эталон), {megdo}
+      (мега), {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti}
+      (пико), {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti}
+      (зепто), {zetro} (зетта)'
+    glosses:
+    - измерять
+    - x1=измеряющий
+    - x2=измеряемое
+    - x3=единицы измерения
+    - x4=шкала измерен
+    - x5=погрешност погрешность измерения
+  en-simple:
+    place structure: x1 measures x2 as x3 units on scale x4 with accuracy x5
+    notes:
+    - No notes.
+    glosses:
+    - a measureer
+    - x2=something measured
+    - x3=a measurement
+    - x4=a measurement scale
+    - x5=a measurement accuracy
+  eo:
+    place structure: x1 (aganto) mezuras/taksas x2-on [kvanto] kiel x3 unuoj en skalo
+      x4 (si'o), kun precizeco x5
+    notes:
+    - Vidu ankaŭ {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda},
+      {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti},
+      nanvi,{petso}, {picti}, terto,{xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - mezuri
+  hu:
+    place structure: x1 megméri x2 mennyiséget x3 egységnyinek, x4 skálán, x5 pontossággal
+    notes:
+    - '(Lásd még: {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda},
+      {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - mér
+  ja:
+    place structure: x1 （者）は x2 （対象）・ x3 （単位数量）を x4 （単位規格）・ x5 （精度）で計測する
+    notes:
+    - x5は誤差範囲など。 ・大意： 計測 ・読み方： メルルィ  ・語呂合わせ： 計測で決める利点 ・関連語： {kancu}, {rupnu}, {fepni},
+      {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {ckilu}, {gradu}, {satci}, {centi},
+      {cimde}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {kramu},
+      {litce}, {manri}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1测量/测算/求值x2（数量），计量单位是x3，取值范围是x4（si'o），精度为x5
+    notes:
+    - 参见 {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {ckilu},
+      {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti}, {nanvi},
+      {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

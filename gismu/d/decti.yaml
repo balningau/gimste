@@ -1,8 +1,93 @@
-Word: decti
-Rafsi: dec
-Definition: x1 is a tenth [1/10; $10^{-1}$] of x2 in dimension/aspect x3 (default
-  is units).
-Notes: (cf. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce,
-  merli, centi, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi,
-  petso, picti, terto, xatsi, xecto, xexso, zepti, zetro)
-Examples: None
+word: decti
+rafsi:
+- dec
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tenth [1/10; $10^{-1}$] of x2 in dimension/aspect x3
+      (default is units).
+    notes:
+    - (cf. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi,
+      petso, picti, terto, xatsi, xecto, xexso, zepti, zetro)
+    glosses:
+    - '.1'
+  de:
+    place structure: 'x1 ist ein Zehntel [1/10; $1×10^{-1}$] von x2 in Dimension/Aspekt
+      x3 (Default: Einheiten)'
+    notes:
+    - No notes.
+    glosses:
+    - 0,1
+  es:
+    place structure: x1 es una décima (1E-1) de x2 en dimensión/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - deci
+  ru:
+    place structure: x1 составляет десятую долю [1/10; $1*10^{-1}$] of x2 (чего) в
+      аспекте/измерении x3 (по умолчанию — единицы)
+    notes:
+    - '{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno}
+      (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин),
+      {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi}
+      (санти), {dekto} (дека), {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro}
+      (йотта), {kilto} (кило), {megdo} (мега), {mikri} (микро), {milti} (милли), {nanvi}
+      (нано), {petso} (пета), {picti} (пико), {terto} (тера), {xatsi} (атто), {xecto}
+      (гекто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - '0.1'
+  en-simple:
+    place structure: x1 is a tenth of x2 in dimension or aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - a tenth
+    - x2=something measured in tenths
+    - x3=an aspect of a tenth
+  eo:
+    place structure: x1 estas dekono [1/10; 1x10**-1] de x2 laŭ dimensio/aspekto x3
+      (defaŭlte unuoj)
+    notes:
+    - (kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi,petso,picti,
+      terto, xatsi, xecto, xexso, zepti, zetro)
+    glosses:
+    - .1 deci-
+  hu:
+    place structure: x1 a tizede x2-nek x3 méretében/szempontból
+    notes:
+    - '(Lásd még: {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - deci-
+  ja:
+    place structure: x1 は x2 の、 x3 （性質）におけるデシ／十分の一 ［1 x1 0**-1］
+    notes:
+    - ・大意： デシ ・読み方： デシティ ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro},
+      {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en tiondel [1/10; 1*10-1] av x2 i dimension/aspekt x3 (enheter
+      om inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - ',1'
+    - tiondel
+  zh:
+    place structure: x1是十分之一/十的负一次方个/份[$10^{-1}$]x2，在x3方面 （默认是计量单位）
+    notes:
+    - 参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu},
+      {litce}, {merli}, {centi}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}
+    glosses:
+    - No glosses.

@@ -1,6 +1,68 @@
-Word: xasne
-Rafsi: ''
-Definition: x1 is a/the sweat/perspiration from body x2, excreted by gland(s)/organs
-  x3.
-Notes: See also {pinca}, {vikmi}, {cigla}.
-Examples: None
+word: xasne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the sweat/perspiration from body x2, excreted by gland(s)/organs
+      x3.
+    notes:
+    - See also {pinca}, {vikmi}, {cigla}.
+    glosses:
+    - sweat
+  de:
+    place structure: x1 ist der Schweiß/die Ausdünstung/Transpiration von Körper x2,
+      ausgesondert durch Drüse(n)/Organ(e) x3
+    notes:
+    - No notes.
+    glosses:
+    - Schweiß
+  es:
+    place structure: x1 es transpiración de cuerpo x2, excretado por glándula/órgano
+      x3
+    notes:
+    - Ver también {vikmi},  {cigla}.
+    glosses:
+    - transpiración
+  ru:
+    place structure: x1 — пот/жидкий секрет, выделяемый из тела x2 железами/органами
+      x3
+    notes:
+    - '{pinca} (моча), {vikmi} (испражняться), {cigla} (железа)'
+    glosses:
+    - x1=пот
+    - x3=потовые железы
+  en-simple:
+    place structure: x1 is sweat from x2 excreted via x3
+    notes:
+    - No notes.
+    glosses:
+    - sweat
+    - x2=something sweating
+    - x3=a sweating gland
+  eo:
+    place structure: x1 estas ŝvito el korpo x2, ekskreciita de glando/organo x3
+    notes:
+    - Vidu ankaŭ {pinca}, {vikmi}, {cigla}.
+    glosses:
+    - ŝvito
+  hu:
+    place structure: x1 izzadság/verejték x2 testből, x3 mirigy(ek)/szerv(ek) által
+      kiválasztva
+    notes:
+    - '(Lásd még: {pinca}, {vikmi}, {cigla})'
+    glosses:
+    - izzadság
+  ja:
+    place structure: x1 は x2 （肉体）・ x3 （分泌器官）から出る汗
+    notes:
+    - ・大意： 汗 ・読み方： クァスネ  ・語呂合わせ： 汗っかすね ・関連語： {pinca}, {vikmi}, {cigla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是身体x2的汗液/汗水，由腺体/器官x3分泌
+    notes:
+    - 参见 {pinca}, {vikmi}, {cigla}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,62 @@
-Word: pinca
-Rafsi: ''
-Definition: x1 is a/the urine/piss/pee of x2.
-Notes: See also {vikmi}, {xasne}, {kalci}, {mabla}, {festi}.
-Examples: None
+word: pinca
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the urine/piss/pee of x2.
+    notes:
+    - See also {vikmi}, {xasne}, {kalci}, {mabla}, {festi}.
+    glosses:
+    - urine
+  de:
+    place structure: x1 ist der Urin/Harn von x2
+    notes:
+    - No notes.
+    glosses:
+    - Urin
+  es:
+    place structure: x1 es orina/pis de x2
+    notes:
+    - Ver también {vikmi},  {xasne},  {kalci}.
+    glosses:
+    - orina
+  ru:
+    place structure: x1 — моча x2 (организма)
+    notes:
+    - '{vikmi} (испражняться), {xasne} (пот), {kalci} (кал), {mabla} (негативный [о
+      значении/смысле слова]), {festi} (отходы)'
+    glosses:
+    - x1=моча
+  en-simple:
+    place structure: x1 is urine of x2
+    notes:
+    - No notes.
+    glosses:
+    - urine
+    - x2=something with urine
+  eo:
+    place structure: x1 estas urino/piso de x2
+    notes:
+    - Vidu ankaŭ {vikmi}, {xasne}, {kalci}, {mabla}, {festi}.
+    glosses:
+    - urino
+  hu:
+    place structure: x1 a vizelete x2-nek
+    notes:
+    - '(Lásd még: {vikmi}, {xasne}, {kalci}, {mabla}, {festi})'
+    glosses:
+    - vizelet
+  ja:
+    place structure: x1 は x2 （生体）の尿
+    notes:
+    - ・大意： 尿 ・読み方： ピンシャ  ・関連語： {vikmi}, {xasne}, {kalci}, {mabla}, {festi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的尿
+    notes:
+    - 参见 {vikmi}, {xasne}, {kalci}, {mabla}, {festi}.
+    glosses:
+    - No glosses.

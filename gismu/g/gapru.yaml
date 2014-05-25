@@ -1,6 +1,78 @@
-Word: gapru
-Rafsi: gap
-Definition: x1 is directly/vertically above/upwards-from x2 in gravity/frame of reference
-  x3.
-Notes: See also {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna}.
-Examples: None
+word: gapru
+rafsi:
+- gap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is directly/vertically above/upwards-from x2 in gravity/frame
+      of reference x3.
+    notes:
+    - See also {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist direkt/senkrecht über/oberhalb von x2 in Schwerkraft/Bezugssystem
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - über
+  es:
+    place structure: x1 está arriba/encima de x2 según marco de referencia/gravedad
+      x3
+    notes:
+    - Ver también {cnita},  {galtu},  {cpana}.
+    glosses:
+    - arriba
+  ru:
+    place structure: x1 находится прямо/вертикально над/сверху x2 в гравитационном
+      поле/системе  отсчета x3
+    notes:
+    - 'Также: верхний {tsani} (небо), {galtu} (высокий), {cnita} (под), {drudi} (крыша),
+      {gacri} (покрывать [в качестве крышки]), {dizlo} (низкий), {farna} (направление)'
+    glosses:
+    - надоедать
+    - x1=надоедающий
+  en-simple:
+    place structure: x1 is directly above x2 in reference frame x3
+    notes:
+    - No notes.
+    glosses:
+    - something above
+    - x2=something to which something is above
+    - x3=a reference frame of aboveness
+  eo:
+    place structure: x1 estas rekte/vertikale super/supre de x2 in gravito/referenckadro
+      x3
+    notes:
+    - Vidu ankaŭ {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna}.
+    glosses:
+    - super
+  hu:
+    place structure: x1 közvetlenül/függőlegesen fölötte/fölfelé van x2-nek/-től,
+      x3 vonatkoztatási rendszerben
+    notes:
+    - '(Lásd még: {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna})'
+    glosses:
+    - felső
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における上方／上側
+    notes:
+    - x3は重力など。 ・大意： 上 ・読み方： ガプル  ・関連語： {tsani}, {galtu}, {cnita}, {drudi}, {gacri},
+      {dizlo}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är rakt/vertikalt ovanför/uppåt från x2 i gravitets-/referensram
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - ovanför
+  zh:
+    place structure: x1在x2的正上方，在参考系/重力方向x3下
+    notes:
+    - 参见 {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna}.
+    glosses:
+    - No glosses.

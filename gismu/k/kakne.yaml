@@ -1,8 +1,76 @@
-Word: kakne
-Rafsi: ka'e
-Definition: x1 is able to do/be/capable of doing/being x2 (event/state) under conditions
-  x3 (event/state).
-Notes: 'Also: has talent; know how to; know how to use (= {plika''e}).  (cf. {stati},
-  {certu}, {gasnu} (in the time-free potential sense), {cmavo} list {ka''e}, cmavo
-  list {nu''o}, cmavo list {pu''i}, {djuno}, {zifre})'
-Examples: None
+word: kakne
+rafsi:
+- ka'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is able to do/be/capable of doing/being x2 (event/state) under
+      conditions x3 (event/state).
+    notes:
+    - 'Also: has talent; know how to; know how to use (= {plika''e}).  (cf. {stati},
+      {certu}, {gasnu} (in the time-free potential sense), {cmavo} list {ka''e}, cmavo
+      list {nu''o}, cmavo list {pu''i}, {djuno}, {zifre})'
+    glosses:
+    - able
+  de:
+    place structure: x1 ist fähig/im Stande x2 (Ereignis/Zustand) zu tun/sein, unter
+      Bedingungen x3 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - fähig
+  es:
+    place structure: x1 puede/es capaz de ser/hacer x2 (evento) bajo condiciones x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 может/в состоянии/способен сделать/быть/стать x2 (событие/состояние)
+      в условиях x3 (событие/состояние)
+    notes:
+    - 'Также: имеет талант/способности, умеет, знает как (ноу-хау); умеет пользоваться:
+      {plika''e} {stati} (талант), {certu} (эксперт), {gasnu} (делать) (во вневременном
+      потенциальном смысле), {ka''e}, {nu''o}, {pu''i}, {djuno} (знать), {zifre} (свободный)'
+    glosses:
+    - может
+    - x1=способный
+  en-simple:
+    place structure: x1 is capable of doing x2
+    notes:
+    - No notes.
+    glosses:
+    - be able to
+    - capable
+    - x1=something capable
+    - x2=something capable of being done
+    - x3=a condition for capability
+  eo:
+    place structure: x1 povas/kapablas fari/esti x2 (okazo/stato) sub kondiĉoj x3
+      (okazo/stato)
+    notes:
+    - 'Ankaŭ: havi talenton; scipovi; scii kiel uzi (= {plika''e}).  (kp. stati, certu,
+      gasnu (en sentempa potenciala senco), cmavo ka''e, cmavo nu''o, cmavo pu''i,
+      djuno, zifre)'
+    glosses:
+    - povi
+  hu:
+    place structure: x1 képes megtenni x2-t / x2 lenni, x3 feltételek mellett
+    notes:
+    - '(Lásd még: {stati}, {certu}, {gasnu}, {djuno}, {zifre})'
+    glosses:
+    - képes
+  ja:
+    place structure: x1 は x2 （事）が x3 （条件）においてできる；  x1 は有能
+    notes:
+    - ・大意： できる ・読み方： カクネ  ・語呂合わせ： できるから書くね ・関連語： {stati}, {certu}, {gasnu}, {ka'e},
+      {nu'o}, {pu'i}, {djuno}, {zifre}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1有能力做/成为/达到x2（事件/状态），在条件x3（事件/状态）下
+    notes:
+    - 有能力/知道怎样做= {plika'e}；参见 {stati}, {certu}, {gasnu}, {ka'e}, {nu'o}, {pu'i}, {djuno},
+      {zifre}
+    glosses:
+    - No glosses.

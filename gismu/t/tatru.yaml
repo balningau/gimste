@@ -1,6 +1,65 @@
-Word: tatru
-Rafsi: tat
-Definition: 'x1 is a/the breast/mammary/teat [body-part] of x2; [metaphor: projection
-  providing liquid].'
-Notes: Nipple (= {tatyji'o}).  See also {ladru}, {mabru}.
-Examples: None
+word: tatru
+rafsi:
+- tat
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the breast/mammary/teat [body-part] of x2; [metaphor:
+      projection providing liquid].'
+    notes:
+    - Nipple (= {tatyji'o}).  See also {ladru}, {mabru}.
+    glosses:
+    - breast
+  de:
+    place structure: 'x1 ist eine Zitze/Brustwarze/Busen [Körperteil] von x2; [Im
+      übertragenen Sinn: Vorsprung, der Flüssigkeit bereitstellt]'
+    notes:
+    - No notes.
+    glosses:
+    - Zitze
+  es:
+    place structure: x1 es un pecho/teta/busto/mamaria (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - pecho
+  ru:
+    place structure: x1 — грудь/сосцы/молочная железа/вымя (часть тела) x2
+    notes:
+    - 'Метафора: выступ, испускающий жидкость; «грудь» в другом смысле — {cutne};
+      сосок: {tatyji''o} {ladru} (молоко), {mabru} (зверь)'
+    glosses:
+    - грудь (сосок)
+  en-simple:
+    place structure: x1 is a breast of x2
+    notes:
+    - No notes.
+    glosses:
+    - a breast
+    - x2=something with a breast
+  eo:
+    place structure: 'x1 estas mamo [korpoparto] de x2; [metafore: elstaraĵo liveranta
+      likvaĵo]'
+    notes:
+    - Mampinto (= {tatyji'o}).  Vidu ankaŭ {ladru}, {mabru}.
+    glosses:
+    - mamo
+  hu:
+    place structure: x1 egy/az emlője/tőgye x2-nek
+    notes:
+    - '(Lásd még: {ladru}, {mabru})'
+    glosses:
+    - emlő
+  ja:
+    place structure: x1 は x2 （本体）の乳房／おっぱい
+    notes:
+    - ・大意： 乳房 ・読み方： タトル  ・語呂合わせ： 乳房あった、取る ・関連語： {ladru}, {mabru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的乳房/乳头（身体部位）
+    notes:
+    - 乳头={tatyji'o}；参见 {ladru}, {mabru}.
+    glosses:
+    - No glosses.

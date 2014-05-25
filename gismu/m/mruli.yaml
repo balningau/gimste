@@ -1,6 +1,71 @@
-Word: mruli
-Rafsi: mru
-Definition: x1 [tool] is a hammer for/hammers x2 [target] consisting of weight/head
-  x3 propelled by x4.
-Notes: See also {tutci}.
-Examples: None
+word: mruli
+rafsi:
+- mru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [tool] is a hammer for/hammers x2 [target] consisting of weight/head
+      x3 propelled by x4.
+    notes:
+    - See also {tutci}.
+    glosses:
+    - hammer
+  de:
+    place structure: x1 [Werkzeug] ist ein Hammer für/hämmert auf x2 [Ziel] und besteht
+      aus Kopf/Gewicht x3 angetrieben durch x4
+    notes:
+    - No notes.
+    glosses:
+    - Hammer
+  es:
+    place structure: x1 es un martillo para martillar x2 con peso/cabeza x3 propelido
+      por x4
+    notes:
+    - No notes.
+    glosses:
+    - martillo
+  ru:
+    place structure: x1 — молот/молоток/кувалда для ковки x2 (чего), с головкой/ударной
+      частью x3, приводимый в движение x4 (чем)
+    notes:
+    - '{tutci} (инструмент)'
+    glosses:
+    - x1=молоток
+    - x2=выковываемое
+    - x3=головка молотка
+  en-simple:
+    place structure: x1 is a hammer for x2 with head x3 propelled by x4
+    notes:
+    - No notes.
+    glosses:
+    - a hammer
+    - x2=something hammered
+    - x3=a head of a hammer
+    - x4=a propellant of a hammer
+  eo:
+    place structure: x1 [ilo] estas martelo por marteli x2-on [celo] konsistanta el
+      pezo/kapo x3 pelita de x4
+    notes:
+    - Vidu ankaŭ {tutci}.
+    glosses:
+    - martelo
+  hu:
+    place structure: x1 eszköz egy kalapács x2 kalapálására / kalapálja x2-t, x3 fejjel,
+      x4 meghajtással
+    notes:
+    - '(Lásd még: {tutci})'
+    glosses:
+    - kalapács
+  ja:
+    place structure: x1 は x2 （対象）を叩くための、 x3 （頭部）の槌／ハンマー
+    notes:
+    - ・大意： 槌 ・読み方： ムルルィ  ・関連語： {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（工具）是锤，锤向目标x2，具有锤头x3，由x4推动
+    notes:
+    - 参见 {tutci}.
+    glosses:
+    - No glosses.

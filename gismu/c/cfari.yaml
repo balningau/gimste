@@ -1,6 +1,78 @@
-Word: cfari
-Rafsi: cfa
-Definition: x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive
-  verb).
-Notes: See also {sisti}, {krasi}, {fanmo}, {co'acfa}.
-Examples: None
+word: cfari
+rafsi:
+- cfa
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [state/event/process] commences/initiates/starts/begins to
+      occur; (intransitive verb).
+    notes:
+    - See also {sisti}, {krasi}, {fanmo}, {co'acfa}.
+    glosses:
+    - happen (occur)
+    - initiate (non-agentive)
+  de:
+    place structure: x1 [Zustand/Ereignis/Prozess] fängt an/beginnt/wird eingeleitet;
+      (intransitives Verb)
+    notes:
+    - No notes.
+    glosses:
+    - anfangen
+  es:
+    place structure: x1 (evento) comienza/se inicia/empieza
+    notes:
+    - No notes.
+    glosses:
+    - comenzar
+  ru:
+    place structure: x1 (состояние/событие/процесс) начинается
+    notes:
+    - '{sisti} (останавливать), {krasi} (источник [начало]), {fanmo} (конец)'
+    glosses:
+    - начинаться
+    - x1=начинающийся
+  en-simple:
+    place structure: x1 commences, begins, or starts
+    notes:
+    - No notes.
+    glosses:
+    - something that begins
+  eo:
+    place structure: x1 [stato/okazo/procedo] komenciĝas/ekokazas; (netransitiva verbo)
+    notes:
+    - Vidu ankaŭ {sisti}, {krasi}, {fanmo}.
+    glosses:
+    - komenciĝi
+  hu:
+    place structure: x1 állapot/esemény/folyamat elkezdődik/megindul
+    notes:
+    - '(Lásd még: {sisti}, {krasi}, {fanmo})'
+    glosses:
+    - ekezdődik
+  ja:
+    place structure: x1 （事／状態）は始まる／開始する
+    notes:
+    - 他動の「始める」は「cfari gasnu」から「cfagau」。 ・大意： 始まる ・読み方： シファリ  ・関連語： {sisti}, {krasi},
+      {fanmo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 tar sin början/inleds/påbörjas/startar/börjar att inträffa;
+      [intransitivt verb].
+    notes:
+    - No notes.
+    glosses:
+    - börja
+    - början
+    - inleds
+    - påbörjas
+    - starta (intransitivt verb)
+    - ta sin början
+    - x1=inledning (början)
+  zh:
+    place structure: x1（状态/事件/进程）开始/启动
+    notes:
+    - 参见 {sisti}, {krasi}, {fanmo}, {co'acfa}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,87 @@
-Word: gradu
-Rafsi: rau
-Definition: x1 [magnitude] is a unit/degree of/on scale/reference standard x2 (si'o)
-  measuring property x3.
-Notes: Also grade, level, point; $x_3$ dimension.  See also {ckilu}, {kantu}, {kelvo},
-  {merli}, {ranti}, {selci}.
-Examples: None
+word: gradu
+rafsi:
+- rau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [magnitude] is a unit/degree of/on scale/reference standard
+      x2 (si'o) measuring property x3.
+    notes:
+    - Also grade, level, point; x3 dimension.  See also {ckilu}, {kantu}, {kelvo},
+      {merli}, {ranti}, {selci}.
+    glosses:
+    - degree (unit)
+    - unit
+  jbo:
+    place structure: x1 pa mei gi'e ckaji x3 noi se ckilu x2
+    notes:
+    - '{pa}, {mei}, {ckaji}, {ckilu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 [Größenordnung] ist eine Einheit/ein Grad auf Skala/gemäß
+      Referenzstandard x2 (si'o) und misst Eigenschaft x3
+    notes:
+    - No notes.
+    glosses:
+    - Einheit
+  es:
+    place structure: x1 es una unidad/grado (1E0) de x2 en dimensión/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - grado
+  ru:
+    place structure: x1 — это величина/значение/градус шкалы/системы отсчёта x2 ({si'o})
+      для измерения свойства x3
+    notes:
+    - 'Также: уровень/балл/очки; x3 — измерение (длина/ширина/высота). См. {ckilu}
+      (шкала), {kantu} (квант), {kelvo} (кельвин), {merli} (измерять), {ranti} (мягкий),
+      {selci} (неделимая частица)'
+    glosses:
+    - величина, значение (на шкале)
+    - x1=градус
+  en-simple:
+    place structure: x1 is a unit on scale x2 measuring property x3
+    notes:
+    - No notes.
+    glosses:
+    - a unit
+    - x2=a unit scale
+    - x3=a unit property
+  eo:
+    place structure: x1 [grando] estas grado/unuo en skalo/referenca normo x2 (si'o)
+      mezuranta econ x3
+    notes:
+    - Vidu ankaŭ {ckilu}, {kantu}, {kelvo}, {merli}, {ranti}, {selci}.
+    glosses:
+    - grado
+  hu:
+    place structure: x1 mennyiség az egység x2 skálán/mércén, x3 tulajdonság mérésére
+    notes:
+    - 'Továbbá: szint, fokozat (Lásd még: {ckilu}, {kantu}, {kelvo}, {merli}, {ranti},
+      {selci})'
+    glosses:
+    - egység
+  ja:
+    place structure: x1 （度）は x2 （尺度）の、 x3 （性質）を測る単位／グレード／レベル／ポイント
+    notes:
+    - ・大意： 単位 ・読み方： グラドゥ  ・語呂合わせ： grade ・関連語： {ckilu}, {kantu}, {kelvo}, {merli},
+      {ranti}, {selci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 [magnitude] är en enhet/grad av/på skala/referensstandard
+      x2 (si'o) för uppmätt egenskap x3.
+    notes:
+    - Även grad, nivå, poäng; x3 dimension.
+    glosses:
+    - enhet (på skala)
+    - grad (enhet)
+  zh:
+    place structure: x1是一个层级/量级/等级/层次，基于标准/参考x2（si'o），具有性质x3
+    notes:
+    - 也指：级别/极端；x3尺寸/规格；参见 {ckilu}, {kantu}, {kelvo}, {merli}, {ranti}, {selci}.
+    glosses:
+    - No glosses.

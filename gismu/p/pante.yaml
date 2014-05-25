@@ -1,6 +1,71 @@
-Word: pante
-Rafsi: pat
-Definition: x1 protests/objects to/complains about x2 (event/state) to audience x3
-  with action x4.
-Notes: ($x_4$ is an event or tu'a quotation) See also {xarnu}.
-Examples: None
+word: pante
+rafsi:
+- pat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 protests/objects to/complains about x2 (event/state) to audience
+      x3 with action x4.
+    notes:
+    - (x4 is an event or tu'a quotation) See also {xarnu}.
+    glosses:
+    - protest
+  de:
+    place structure: x1 protestiert/beanstandet/reklamiert/wendet ein gegen x2 (Ereignis/Zustand)
+      gegenüber Publikum x3 mit Handlung x4
+    notes:
+    - No notes.
+    glosses:
+    - protestieren
+  es:
+    place structure: x1 protesta/objeta/se queja de x2 ante x3 con acción x4
+    notes:
+    - No notes.
+    glosses:
+    - protestar
+  ru:
+    place structure: x1 протестует против/возражает на/жалуется на x2 (событие/состояние)
+      аудитории x3 действием x4
+    notes:
+    - x4 — событие или {tu'a} оборот. См. {xarnu}  - 'сопротивляться/противостоять'
+    glosses:
+    - возражать на
+    - жаловаться на
+    - x1=возражающий на
+    - x1=жалующийся на
+  en-simple:
+    place structure: x1 protests or complains about x2 to x3 with action x4
+    notes:
+    - No notes.
+    glosses:
+    - a protester
+    - x2=a subject of protest
+    - x3=a audience of protest
+    - x4=a action of protest
+  eo:
+    place structure: x1 protestas/kontraŭas/plendas pri x2 (okazo/stato) antaŭ publiko
+      x3 per ago x4
+    notes:
+    - (x4 estas okazo aŭ tu'a quotation) Vidu ankaŭ {xarnu}.
+    glosses:
+    - protesti
+  hu:
+    place structure: x1 tiltakozik/panaszkodik/tüntet x2 esemény/állapot ellen x3-nak,
+      x4 cselekedettel
+    notes:
+    - '(Lásd még: {xarnu})'
+    glosses:
+    - tiltakozik
+  ja:
+    place structure: x1 は x2 （事）について x3 （者）宛てに x4 （行動）で抗議する／異議を唱える／苦情を訴える
+    notes:
+    - ・大意： 抗議 ・読み方： パンテ  ・語呂合わせ： 苦情はパン手に持って ・関連語： {xarnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1抗议/反对/抱怨x2（事件/状态），向接受者x3表达，采取行动x4
+    notes:
+    - x4处应该是事件或tu'a；参见 {xarnu}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,69 @@
-Word: nandu
-Rafsi: nad
-Definition: x1 is difficult/hard/challenging for x2 under conditions x3; x1 challenges
-  (non-agentive) x2.
-Notes: See also {frili}, {nabmi}, {jdari}, {talsa}, {tinsa}.
-Examples: None
+word: nandu
+rafsi:
+- nad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is difficult/hard/challenging for x2 under conditions x3;
+      x1 challenges (non-agentive) x2.
+    notes:
+    - See also {frili}, {nabmi}, {jdari}, {talsa}, {tinsa}.
+    glosses:
+    - hard (difficult)
+  de:
+    place structure: x1 ist schwierig/kompliziert/herausfordernd für x2 unter Bedingungen
+      x3; x1 fordert (nicht-handelnd) x2
+    notes:
+    - No notes.
+    glosses:
+    - schwierig
+  es:
+    place structure: x1 (evento) es difícil/arduo para x2 bajo condiciones x3
+    notes:
+    - Ver también {frili},  {nabmi},  {jdari}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — трудный/сложный для x2 в условиях x3
+    notes:
+    - '{frili} (легкий [нетрудный для кого-либо]), {nabmi} (проблема), {jdari} (крепкий),
+      {talsa} (оспаривать), {tinsa} (жесткий)'
+    glosses:
+    - x1=трудный
+  en-simple:
+    place structure: x1 is difficult or challenging for x2
+    notes:
+    - No notes.
+    glosses:
+    - difficult
+    - x1=something difficult
+    - x2=something with a difficulty
+    - x3=a condition for a difficulty
+  eo:
+    place structure: x1 estas malfacila/defia por x2 sub kondiĉoj x3; x1 defias (ne-agentiva)
+      x2-on
+    notes:
+    - Vidu ankaŭ {frili}, {nabmi}, {jdari}, {talsa}, {tinsa}.
+    glosses:
+    - malfacila
+  hu:
+    place structure: x1 nehéz/megerőltető/kíhívást jelent x2 számára, x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {frili}, {nabmi}, {jdari}, {talsa}, {tinsa})'
+    glosses:
+    - nehéz (bonyolult)
+  ja:
+    place structure: x1 は x2 にとって、 x3 （条件）のもと難しい／難関
+    notes:
+    - ・大意： 難しい ・読み方： ナンドゥ  ・語呂合わせ： 難しい難度,  nan(難),difficult　 ・関連語： {frili}, {nabmi},
+      {jdari}, {talsa}, {tinsa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是困难的/艰难的/具有挑战性的，对x2来说，在条件x3下
+    notes:
+    - 参见 {frili}, {nabmi}, {jdari}, {talsa}, {tinsa}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,63 @@
-Word: steba
-Rafsi: seb
-Definition: x1 feels frustration about x2 (abstraction).
-Notes: See also {cinmo}.
-Examples: None
+word: steba
+rafsi:
+- seb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels frustration about x2 (abstraction).
+    notes:
+    - See also {cinmo}.
+    glosses:
+    - frustration
+  de:
+    place structure: x1 ist frustriert/enttäuscht über x2 (Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - Frustration
+  es:
+    place structure: x1 se frustra/siente frustración por x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - frustrarse
+  ru:
+    place structure: 'x1 раздосадован/разочарован/приведен в отчаяние x2 (чем: абстракция)'
+    notes:
+    - Срыв планов, крушение надежд {cinmo} (эмоциональный)
+    glosses:
+    - разочарованный
+    - x2=разочаровывающее
+  en-simple:
+    place structure: x1 feels frustration about x2
+    notes:
+    - No notes.
+    glosses:
+    - something frustrated
+    - x2=a frustration
+  eo:
+    place structure: x1 frustriĝas/sentas frustron pri x2 (abstraktaĵo); x2 frustras
+      x1-on
+    notes:
+    - Vidu ankaŭ {cinmo}.
+    glosses:
+    - frustriĝi
+  hu:
+    place structure: x1 csalódott/reményvesztett/frusztrált x2 miatt
+    notes:
+    - '(Lásd még: {cinmo})'
+    glosses:
+    - csalódott
+  ja:
+    place structure: x1 は x2 （事）について挫折／ストレスを感じる
+    notes:
+    - 望むとおりに事が運ばないときに感じる煩わしさ。 ・大意： 挫折 ・読み方： ステバ  ・語呂合わせ： 捨てバイクで挫折 ・関連語： {cinmo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2（谓词子句）感到挫折
+    notes:
+    - 参见 {cinmo}.
+    glosses:
+    - No glosses.

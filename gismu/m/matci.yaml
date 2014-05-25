@@ -1,5 +1,68 @@
-Word: matci
-Rafsi: ''
-Definition: x1 is a mat/pad/mattress/pallet [flat, soft, dense form] of material x2.
-Notes: Also mattress = ({kicymatci}).  See also {kicne}, {tapla}, {karda}, {ckana}.
-Examples: None
+word: matci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mat/pad/mattress/pallet [flat, soft, dense form] of material
+      x2.
+    notes:
+    - Also mattress = ({kicymatci}).  See also {kicne}, {tapla}, {karda}, {ckana}.
+    glosses:
+    - mat
+  de:
+    place structure: x1 ist eine Matte/Unterlage/Matratze [flache, weiche, dichte
+      Form] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Matte
+  es:
+    place structure: x1 es un colchón/colchoneta (forma chata, blanda, densa) de material
+      x2
+    notes:
+    - Ver también {kicne},  {tapla},  {karda}.
+    glosses:
+    - colchón
+  ru:
+    place structure: x1 — мат/матрац/подстилка/{коврик/циновка} (мягкий, плотный,
+      плоский предмет) из материала x2
+    notes:
+    - 'Также: матрац: {kicymatci} {kicne} (подушка), {tapla} (плитка), {karda} (карточка),
+      {ckana} (кровать)'
+    glosses:
+    - матрац
+  en-simple:
+    place structure: x1 is a mat or pad of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a mat
+    - x2=a material of a mat
+  eo:
+    place structure: x1 estas matraco/litkuseno/remburaĵo/vataĵo [plata, mola, densa
+      formo] el materialo x2
+    notes:
+    - 'Ankaŭ: matraco = (kicymatci).  Vidu ankaŭ {kicne}, {tapla}, {karda}, {ckana}.'
+    glosses:
+    - matraco
+  hu:
+    place structure: x1 egy (vastagabb) szőnyeg/párna/matrac [lapos, puha, tömött
+      anyag] x2 anyagból
+    notes:
+    - '(Lásd még: {kicne}, {tapla}, {karda}, {ckana})'
+    glosses:
+    - szőnyeg
+  ja:
+    place structure: x1 は x2 （素材）の敷物／マット／むしろ／ござ／たたみ
+    notes:
+    - 「下敷」も。 ・大意： 敷物 ・読み方： マチ ・語呂合わせ： mat,ci(席) ・関連語： {kicne}, {tapla}, {karda}, {ckana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是衬垫/垫子/床垫，由材料x2做成
+    notes:
+    - 褥子/垫子={kicymatci}；参见 {kicne}, {tapla}, {karda}, {ckana}.
+    glosses:
+    - No glosses.

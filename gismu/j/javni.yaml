@@ -1,9 +1,78 @@
-Word: javni
-Rafsi: jva
-Definition: x1 is a rule prescribing/mandating/requiring x2 (event/state) within system/community
-  x3.
-Notes: Regulation, prescription (also $x_2$), principle, requirement (also $x_2$),
-  prescribe, require (conditions are usually contained within $x_2$); $x_1$ is regulatory;
-  $x_2$, $x_3$ are regulated.  See also {flalu}, {ritli}, cmavo list {ja'i}, {marde},
-  {tcaci}, {tinbe}, {zekri}.
-Examples: None
+word: javni
+rafsi:
+- jva
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rule prescribing/mandating/requiring x2 (event/state)
+      within system/community x3.
+    notes:
+    - Regulation, prescription (also x2), principle, requirement (also x2), prescribe,
+      require (conditions are usually contained within x2); x1 is regulatory; x2,
+      x3 are regulated.  See also {flalu}, {ritli}, cmavo list {ja'i}, {marde}, {tcaci},
+      {tinbe}, {zekri}.
+    glosses:
+    - rule
+    - term (regulation)
+  de:
+    place structure: x1 ist eine Regel und schreibt vor/verordnet/verlangt x2 (Ereignis/Zustand)
+      innerhalb System/Gemeinschaft x3
+    notes:
+    - No notes.
+    glosses:
+    - Regel
+  es:
+    place structure: x1 es una regla que prescribe/manda/requiere x2 en sistema/comunidad
+      x3
+    notes:
+    - Ver también {flalu},  {ritli}.
+    glosses:
+    - regla
+  ru:
+    place structure: x1 — правило, предписывающее/требующее x2 (состояние/событие)
+      в системе/сообществе x3
+    notes:
+    - 'Также: установление, предписание, требование, принцип, регламент, устав, нормативы,
+      установка; x1 — регулятивный, регламентирующий; x3 — регламентированный {flalu}
+      (закон), {ritli} (ритуал), {ja''i}, {marde} (мораль), {tcaci} (обычай), {tinbe}
+      (подчиняться), {zekri} (преступление)'
+    glosses:
+    - x1=правило
+  en-simple:
+    place structure: x1 is a rule mandating x2 within system x3
+    notes:
+    - No notes.
+    glosses:
+    - a rule
+    - x2=something mandated by a rule
+    - x3=a system with a rule
+  eo:
+    place structure: x1 estas regulo preskribanta/difinanta/postulanta x2-on (okazo/stato)
+      en sistemo/kumunumo x3
+    notes:
+    - Regularo, preskribo (ankaŭ x2), principo, postulo (kondiĉoj kutime estas en
+      x2); x1 estas reguliga; x2, x3 estas reguligitaj.  Vidu ankaŭ {flalu}, {ritli},
+      cmavo {ja'i}, {marde}, {tcaci}, {tinbe}, {zekri}.
+    glosses:
+    - regulo
+  hu:
+    place structure: x1 egy szabály, ami előírja/megköveteli x2 állapotot/eseményt
+      x3 rendszerben/közösségben
+    notes:
+    - '(Lásd még: {flalu}, {ritli}, {marde}, {tcaci}, {tinbe}, {zekri})'
+    glosses:
+    - szabály
+  ja:
+    place structure: x1 は x2 （事）を x3 （体系）において規定する法則／規則／ルール
+    notes:
+    - ・大意： 規則 ・読み方： ジャヴニ  ・語呂合わせ： デジャヴに規則 ・関連語： {flalu}, {ritli}, {ja'i}, {marde},
+      {tcaci}, {tinbe}, {zekri}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是规则/规矩/规定，要求/强制/规定x2（事件/状态），在系统/社区/团体x3中
+    notes:
+    - 也指：规章/惯例/原则/要求等；x1是规定的/管理的； x2/x3是被规定的/被管理的；参见 {flalu}, {ritli}, {ja'i}, {marde},
+      {tcaci}, {tinbe}, {zekri}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,77 @@
-Word: navni
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of noble gas of type x2 [helium/neon/argon/krypton/xenon/radon].
-Notes: Default neon. See also {xukmi}, {gapci}; {tolfragapci}; {solnavni}, {ninynavni},
-  {laznynavni}, {mipnavni}, {fangynavni}, {dircynavni}.
-Examples: None
+word: navni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of noble gas of type x2
+      [helium/neon/argon/krypton/xenon/radon].
+    notes:
+    - Default neon. See also {xukmi}, {gapci}; {tolfragapci}; {solnavni}, {ninynavni},
+      {laznynavni}, {mipnavni}, {fangynavni}, {dircynavni}.
+    glosses:
+    - neon
+    - noble gas
+  jbo:
+    place structure: x1 se gunma lo pabimoi be lo klesi be lo dikni cartu be lo'i
+      ratni gi'e me x2 noi ratni li re .a pano .a pabi .a cixa .a muvo .a bixa
+    notes:
+    - lo ratni be li papabi ji'a cu se gunma lo pabimoi be lo klesi be lo dikni cartu
+      be lo'i {ratni} gi'e ku'i na navni to ko karbi zu'i zo {xukmi} .e zo {gapci}
+      .e zo {tolfragapci} .e zo {solnavni} .e zo {ninynavni} .e zo {laznynavni} .e
+      zo {mipnavni} .e zo {fangynavni} .e zo {dircynavni}. toi
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Edelgas von Typ x2 [Neon/Argon/Radon/Xenon]
+    notes:
+    - No notes.
+    glosses:
+    - Neon
+  es:
+    place structure: x1 es una cantidad de gas inerte (neón/argón/radón/xenón)
+    notes:
+    - No notes.
+    glosses:
+    - neón
+  ru:
+    place structure: x1 — инертный газ типа x2; x1 содержит инертный газ x2 (гелий/неон/аргон/ксенон/радон)
+    notes:
+    - По умолчанию неон {xukmi} (доза [химического вещества]), {gapci} (газ)
+    glosses:
+    - неон
+  en-simple:
+    place structure: x1 is a quantity of inert gas of type x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of inert gas
+    - x2=a type of inert gas
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el inerta gaso de tipo x2
+      [neono/argono/radono/ksenono]
+    notes:
+    - Defaŭlte neono. Vidu ankaŭ {xukmi}, {gapci}.
+    glosses:
+    - neono
+  hu:
+    place structure: x1 bizonyos mennyiségű nemesgáz (-t tartalmaz/-ból készült) az
+      x2 típusból [alapesetben neon]
+    notes:
+    - '(Lásd még: {xukmi}, {gapci})'
+    glosses:
+    - neon
+  ja:
+    place structure: x1 は x2 （元素）の貴ガス
+    notes:
+    - 天然にある貴ガスは、ヘリウム He、ネオン Ne、アルゴン Ar、クリプトン Kr、キセノン Xe、ラドン Rn。 ・大意： 貴ガス ・読み方： ナヴニ  ・関連語：
+      {xukmi}, {gapci}; {tolfragapci}; {solnavni}, {ninynavni}, {laznynavni}, {mipnavni},
+      {fangynavni}, {dircynavni}.
+    glosses:
+    - 貴ガス
+  zh:
+    place structure: x1是惰性气体，具体为x2（氦/氖/氩/氪/氙）
+    notes:
+    - 默认为氖；参见 {xukmi}, {gapci}.
+    glosses:
+    - No glosses.

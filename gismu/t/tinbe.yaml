@@ -1,5 +1,70 @@
-Word: tinbe
-Rafsi: tib
-Definition: x1 obeys/follows the command/rule x2 made by x3; (adjective:) x1 is obedient.
-Notes: See also {minde}, {lacri}, {javni}, {flalu}, {zekri}.
-Examples: None
+word: tinbe
+rafsi:
+- tib
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 obeys/follows the command/rule x2 made by x3; (adjective:)
+      x1 is obedient.
+    notes:
+    - See also {minde}, {lacri}, {javni}, {flalu}, {zekri}.
+    glosses:
+    - obey
+  de:
+    place structure: x1 gehorcht/folgt den Anweisungen/Regeln x2 von x3; (Adjektiv:)
+      x1 ist folgsam/gehorsam/unterwürfig
+    notes:
+    - No notes.
+    glosses:
+    - gehorchen
+  es:
+    place structure: x1 obedece/cumple orden/comando/regla x2 hecho por x3
+    notes:
+    - Ver también {minde}.
+    glosses:
+    - obedecer
+  ru:
+    place structure: x1 подчиняется/послушен/покорен приказу/правилу x2, исходящему
+      от x3
+    notes:
+    - 'Также: соблюдать {minde} (командовать), {lacri} (полагаться [на что-либо]),
+      {javni} (правило [предписание]), {flalu} (закон), {zekri} (преступление)'
+    glosses:
+    - подчиняться
+    - x1=покорный
+    - x2=кому подчиняются
+  en-simple:
+    place structure: x1 obeys rule x2 made by x3
+    notes:
+    - No notes.
+    glosses:
+    - something obeying
+    - x2=a rule obeyed
+    - x3=something that makes a rule obeyed
+  eo:
+    place structure: x1 obeas/sekvas ordonon/regulon x2 faritan de x3; (adjektivo:)
+      x1 estas obeema
+    notes:
+    - Vidu ankaŭ {minde}, {lacri}, {javni}, {flalu}, {zekri}.
+    glosses:
+    - obei
+  hu:
+    place structure: x1 engedelmeskedik x2 utasításnak/parancsnak/szabálynak/törvénynek
+      x3 által
+    notes:
+    - '(Lásd még: {minde}, {lacri}, {javni}, {flalu}, {zekri})'
+    glosses:
+    - engedelmes
+  ja:
+    place structure: x1 は x2 （命令／規則）に服従する／従う；  x1 は従順
+    notes:
+    - ・大意： 服従 ・読み方： ティンベ  ・関連語： {minde}, {lacri}, {javni}, {flalu}, {zekri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1服从/听从命令/规则x2，由x3发布/颁布；x1是顺从的
+    notes:
+    - 参见 {minde}, {lacri}, {javni}, {flalu}, {zekri}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,71 @@
-Word: vanci
-Rafsi: vac
-Definition: x1 is an evening [from end-of-work until sleep typical for locale] of
-  day x2 at location x3.
-Notes: This evening (= {cabvanci}); tomorrow evening (= {bavlamvanci}); yesterday
-  evening (= {prulamvanci}).  See also {cerni}, {murse}, {tcika}.
-Examples: None
+word: vanci
+rafsi:
+- vac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an evening [from end-of-work until sleep typical for locale]
+      of day x2 at location x3.
+    notes:
+    - This evening (= {cabvanci}); tomorrow evening (= {bavlamvanci}); yesterday evening
+      (= {prulamvanci}).  See also {cerni}, {murse}, {tcika}.
+    glosses:
+    - evening
+  de:
+    place structure: x1 ist ein Abend [von Feierabend bis zum Schlaf, regional typisch]
+      von Tag x2 an Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Abend
+  es:
+    place structure: x1 es una tarde/víspera de día x2 en localidad x3
+    notes:
+    - Ver también {cerni},  {murse}.
+    glosses:
+    - tarde
+  ru:
+    place structure: x1 — вечер (от окончания работы до типичного времени отхода ко
+      сну для данной местности) суток x2 в местности x3
+    notes:
+    - 'Сегодня вечером: {cabvanci}; завтра вечером: {bavlamvanci}; вчера вечером:
+      {prulamvanci} {cerni} (утро), {murse} (сумерки), {tcika} (время [события])'
+    glosses:
+    - вечер
+  en-simple:
+    place structure: x1 is an evening of day x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - an evening
+    - x2=a day with an evening
+    - x3=a location of an evening
+  eo:
+    place structure: x1 estas vespero [de fin-de-laboro ĝis dormo tipa por loko] de
+      tago x2 en loko x3
+    notes:
+    - ĉi tiu vespero (= {cabvanci}); morgaŭa vespero (= {bavlamvanci}); hieraŭa vespero
+      (= {prulamvanci}).  Vidu ankaŭ {cerni}, {murse}, {tcika}.
+    glosses:
+    - vespero
+  hu:
+    place structure: x1 az este [munka végeztétől alvásig terjedő időtartam] x2 napon,
+      x3 helyen
+    notes:
+    - '(Lásd még: {cerni}, {murse}, {tcika})'
+    glosses:
+    - este
+  ja:
+    place structure: x1 は x2 （日）・ x3 （所）の夕方／夕暮れ／晩
+    notes:
+    - 一般的な仕事の終わりから就寝までの時間帯。 ・大意： 夕方 ・読み方： ヴァンシ  ・語呂合わせ： ban 晩 ・関連語： {cerni}, {murse},
+      {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是傍晚/晚上（通常指结束工作直到睡眠那段时间），属于日期/天x2，位置x3
+    notes:
+    - 今晚= {cabvanci}；明晚= {bavlamvanci}；昨晚= {prulamvanci}；参见 {cerni}, {murse}, {tcika}.
+    glosses:
+    - No glosses.

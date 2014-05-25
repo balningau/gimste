@@ -1,7 +1,87 @@
-Word: fatri
-Rafsi: fai
-Definition: x1 is distributed/allotted/allocated/shared among x2 with shares/portions
-  x3; (x2/x3 fa'u).
-Notes: Also spread, shared out, apportioned; agentive distribution (= {fairgau}, {fairzu'e}).  See
-  also cmavo list {fa'u}, {fendi}, {preja}, {katna}, {tcana}.
-Examples: None
+word: fatri
+rafsi:
+- fai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is distributed/allotted/allocated/shared among x2 with shares/portions
+      x3; (x2/x3 fa'u).
+    notes:
+    - Also spread, shared out, apportioned; agentive distribution (= {fairgau}, {fairzu'e}).  See
+      also cmavo list {fa'u}, {fendi}, {preja}, {katna}, {tcana}.
+    glosses:
+    - distribute
+  de:
+    place structure: x1 wird verteilt/zugemessen/zugewiesen unter x2 mit Anteilen/Portionen/Teilen
+      x3; (x2/x3 fa'u)
+    notes:
+    - No notes.
+    glosses:
+    - verteilen
+  es:
+    place structure: x1 distribuye/comparte x2 entre x3 con porciones x4
+    notes:
+    - No notes.
+    glosses:
+    - distribuir
+  ru:
+    place structure: x1 распределяется/совместно используется между/среди x2 долями/порциями
+      x3 (x2/x3 {fa'u})
+    notes:
+    - 'Деятельное распределение: распределять/раздавать/наделять: {fairgau}, {fairzu''e}
+      {fa''u}, fendi1, {preja} (простираться [до чего-либо]), {katna} (разрезать),
+      {tcana} (станция)'
+    glosses:
+    - распределяться
+    - x1=распределяющийся
+  en-simple:
+    place structure: x1 is distributed among x2 with shares x3
+    notes:
+    - No notes.
+    glosses:
+    - a distributed
+    - x2=something receiving a distribution
+    - x3=a share of a distribution
+  eo:
+    place structure: x1 estas distribuita/disdonita/disdividita inter x2 kun partoj/porcioj
+      x3; (x2/x3 fa'u)
+    notes:
+    - 'Ankaŭ: ŝmiriĝi, porciiĝi, dispartigiĝi, asigniĝi; distribui (= {fairgau}, {fairzu''e}).  Vidu
+      ankaŭ cmavo {fa''u}, {fendi}, {preja}, {katna}, {tcana}.'
+    glosses:
+    - distribuiĝi
+  hu:
+    place structure: x1 meg/szét/ki/fel van osztva x2 között, x3 részekre
+    notes:
+    - '(Lásd még: {fendi}, {preja}, {katna}, {tcana})'
+    glosses:
+    - megosztott
+  ja:
+    place structure: x1 （物）は x2 （受け手）に x3 （分け前）で分配／配当される／割り当てられる
+    notes:
+    - 「配布」「配給」「配当」も。 ・大意： 分配 ・読み方： ファトリ  ・関連語： {fa'u}, {fendi}, {preja}, {katna},
+      {tcana}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 distribueras/anslås [ekonomi]/fördelas/allokeras/placeras/delas
+      bland x2 med delar/andelar/portioner x3.
+    notes:
+    - No notes.
+    glosses:
+    - allokeras (fördelas)
+    - anslås (fördelas)
+    - delas (fördelas)
+    - distribueras (fördelas)
+    - fördelas
+    - placeras (fördelas)
+    - x1=fördelad
+    - x2=delare (som delar på det som fördelas bland dem)
+    - x3=andel
+  zh:
+    place structure: x1是分散在x2之间的，以份数x3（x2/x3 fa'u）
+    notes:
+    - 也指：传播/扩展/分享/传播；施事的分散= {fairgau}/ {fairzu'e}；参见 {fa'u}, {fendi}, {preja}, {katna},
+      {tcana}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,78 @@
-Word: fenki
-Rafsi: fek
-Definition: x1 (action/event) is crazy/insane/mad/frantic/in a frenzy (one sense)
-  by standard x2.
-Notes: See also {bebna}, {racli}, {xajmi}.
-Examples: None
+word: fenki
+rafsi:
+- fek
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (action/event) is crazy/insane/mad/frantic/in a frenzy (one
+      sense) by standard x2.
+    notes:
+    - See also {bebna}, {racli}, {xajmi}.
+    glosses:
+    - crazy
+  de:
+    place structure: x1 (Aktion/Ereignis) ist verrückt/wahnsinnig/geisteskrank/rasend
+      gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - verrückt
+  es:
+    place structure: x1 (evento) es una locura/insano/irracional según estándar x2
+    notes:
+    - Ver también {racli}.
+    glosses:
+    - locura
+  ru:
+    place structure: x1 (действие/событие) сумасшедше/безумно/иррационально/ненормально
+      относительно стандарта x2
+    notes:
+    - '{bebna} (глупый), {racli} (рациональный), {xajmi} (смешной)'
+    glosses:
+    - x1=безумно
+  en-simple:
+    place structure: x1 (person, nu) is crazy
+    notes:
+    - No notes.
+    glosses:
+    - x1=something crazy
+    - x2=a standard for craziness
+  eo:
+    place structure: x1 (ago/okazo) estas freneza laŭ normo x2
+    notes:
+    - Vidu ankaŭ {bebna}, {racli}, {xajmi}.
+    glosses:
+    - freneza
+  hu:
+    place structure: x1 cselekedet/esemény őrültség/esztelenség/ésszerűtlenség x2
+      mérce szerint
+    notes:
+    - '(Lásd még: {bebna}, {racli}, {xajmi})'
+    glosses:
+    - őrültség
+  ja:
+    place structure: x1 （事／行為）は x2 の観点で狂気の沙汰
+    notes:
+    - x1を人とする際は「jai」もしくは「tu'a」を加える。 ・大意： 狂気 ・読み方： フェンキ  ・語呂合わせ： kyouki ・関連語： {bebna},
+      {racli}, {xajmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (gärning/händelse) är galet/tokigt/vansinnig/(sinnes)sjuk/(sinnes)rubbad/vanvettig
+      enligt standard x2.
+    notes:
+    - No notes.
+    glosses:
+    - galet
+    - rubbat (galet)
+    - sjukt (galet)
+    - tokigt
+    - vansinnigt
+    - vanvettigt
+  zh:
+    place structure: x1（行为/事件）是疯狂的/发狂的/无理智的/狂乱的，依据标准x2
+    notes:
+    - 参见 {bebna}, {racli}, {xajmi}.
+    glosses:
+    - No glosses.

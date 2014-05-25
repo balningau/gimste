@@ -1,8 +1,90 @@
-Word: jinvi
-Rafsi: jiv, ji'i
-Definition: x1 thinks/opines x2 [opinion] (du'u) is true about subject/issue x3 on
-  grounds x4.
-Notes: Words usable for epistemology typically have a du'u place. See also cmavo list
-  {pe'i}, {djuno}, {krici}, {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi}, {sidbo},
-  {birti}, {pinka}.
-Examples: None
+word: jinvi
+rafsi:
+- jiv
+- ji'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 thinks/opines x2 [opinion] (du'u) is true about subject/issue
+      x3 on grounds x4.
+    notes:
+    - Words usable for epistemology typically have a du'u place. See also cmavo list
+      {pe'i}, {djuno}, {krici}, {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi}, {sidbo},
+      {birti}, {pinka}.
+    glosses:
+    - opine
+    - x1=thinker (someone who opines)
+    - x2=opinion
+  de:
+    place structure: x1 meint/denkt/vertritt die Auffassung, dass x2 [Meinung] (du'u)
+      wahr ist, über Thema/Angelegenheit x3 mit der Begründung/auf Grund von x4
+    notes:
+    - No notes.
+    glosses:
+    - meinen
+  es:
+    place structure: x1 opina/piensa que x2 (du'u) es cierto acerca de x3 con base/evidencia
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - opinar
+  ru:
+    place structure: x1 считает/полагает/имеет мнение, что x2 ({du'u}) верно/истинно
+      в отношении предмета/вопроса x3 на основании x4
+    notes:
+    - Слова, описывающие эпистемологию, обычно имеют место типа {du'u} {pe'i}, {ciksi}
+      (объяснять), {jijnu} (постигать [интуитивно]), {nabmi} (проблема), {pensi} (думать),
+      {senpi} (сомневаться), {sidbo} (концепция), {birti} (убежденный [в истинности]),
+      {pinka} (комментарий)
+    glosses:
+    - полагать
+    - x1=полагающий
+    - x2=мнение
+  en-simple:
+    place structure: x1 opines or thinks that x2 is true about x3 because x4
+    notes:
+    - No notes.
+    glosses:
+    - something with an opinion
+    - x2=an opinion
+    - x3=a subject of an opinion
+    - x4=a reason for an opinion
+  eo:
+    place structure: x1 opinias/pensas x2-on [opinio] (du'u) vera pri temo/afero x3
+      sur bazo x4
+    notes:
+    - Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton. Vidu ankaŭ cmavo
+      {pe'i}, {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi}, {sidbo}, {birti}, {pinka}.
+    glosses:
+    - opinii
+  hu:
+    place structure: x1 úgy véli/gondolja, hogy x2 igaz x3-ról, x4 alapján
+    notes:
+    - '(Lásd még: {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi}, {sidbo}, {birti}, {pinka})'
+    glosses:
+    - vélekedik
+  ja:
+    place structure: x1 は x2 （命題）・ x3 （題目）を、 x4 （根拠）により真であると考える；  x1 は x2 だと思う
+    notes:
+    - ・大意： 考える ・読み方： ジンヴィ  ・関連語： {pe'i}, {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi},
+      {sidbo}, {birti}, {pinka}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 tänker/tycker/anser/menar att x2 [åsikt] (du'u) är sann om
+      ämne/fråga x3 på grunder x4.
+    notes:
+    - Ord som är användbart för epistemologi har typiskt en du'u plats.
+    glosses:
+    - anse (ha åsikt)
+    - tycka (ha åsikt)
+    - x1=ha åsikt
+    - x2=åsikt
+  zh:
+    place structure: x1认为x2（意见/想法du'u）是真实的，关于主题/情形，由于x4
+    notes:
+    - 关于认知论的词都含有du'u位；参见 {pe'i}, {djuno}, {krici}, {ciksi}, {jijnu}, {nabmi}, {pensi},
+      {senpi}, {sidbo}, {birti}, {pinka}.
+    glosses:
+    - No glosses.

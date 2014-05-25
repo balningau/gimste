@@ -1,7 +1,78 @@
-Word: cerni
-Rafsi: cer
-Definition: x1 is a morning [dawn until after typical start-of-work for locale] of
-  day x2 at location x3.
-Notes: This morning (= {cabdeicerni}); tomorrow morning (= {bavlamcerni}); yesterday
-  morning (= {prulamcerni}, {prulamdeicerni}) See also {vanci}, {murse}, {tcika}.
-Examples: None
+word: cerni
+rafsi:
+- cer
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a morning [dawn until after typical start-of-work for locale]
+      of day x2 at location x3.
+    notes:
+    - This morning (= {cabdeicerni}); tomorrow morning (= {bavlamcerni}); yesterday
+      morning (= {prulamcerni}, {prulamdeicerni}) See also {vanci}, {murse}, {tcika}.
+    glosses:
+    - morning
+  de:
+    place structure: x1 ist der Morgen [von Morgendämmerung bis kurz nach der üblichen
+      Arbeitsanfangszeit für den Ort] von Tag x2 in Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Morgen
+  es:
+    place structure: x1 es una mañana de día x2 en localidad x3
+    notes:
+    - Ver también {vanci},  {murse}.
+    glosses:
+    - mañana
+  ru:
+    place structure: x1 — утро суток x2 в местности x3
+    notes:
+    - 'Сегодня утром: {cabdeicerni}; завтра утром: {bavlamcerni}; вчера утром: {prulamcerni},
+      {prulamdeicerni} {vanci} (вечер), {murse} (сумерки), {tcika} (время [события])'
+    glosses:
+    - x1=утро
+  en-simple:
+    place structure: x1 is a morning of day x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a morning
+    - x2=a morning's day
+    - x3=a morning's location
+  eo:
+    place structure: x1 estas mateno [de sunleviĝo ĝis post loka kutima komenco de
+      laboro] de tago x2 en loko x3
+    notes:
+    - ĉi tiu mateno (= {cabdeicerni}); morgaŭa mateno (= {bavlamcerni}); hieraŭa mateno
+      (= {prulamcerni}, {prulamdeicerni}). Vidu ankaŭ {vanci}, {murse}, {tcika}.
+    glosses:
+    - mateno
+  hu:
+    place structure: x1 a reggel [hajnaltól munkakezdésig terjedő időtartam] x2 napon,
+      x3 helyen
+    notes:
+    - '(Lásd még: {vanci}, {murse}, {tcika})'
+    glosses:
+    - reggel
+  ja:
+    place structure: x1 は x2 （日）・ x3 （所）の朝
+    notes:
+    - 「lo blotcana cu te cerni .i nu jvinu lo lunra／港は朝月のある風景」（山頭火『行乞記（二）』） ・大意： 朝
+      ・読み方： シェルニ  ・関連語： {vanci}, {murse}, {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är morgon [från gryning till dess arbete vanligen börjar lokalt]
+      av dag x2 på plats x3.
+    notes:
+    - No notes.
+    glosses:
+    - morgon
+  zh:
+    place structure: x1是早上/上午，在某天x2，某地x3
+    notes:
+    - 今晨={cabdeicerni}；明早= {bavlamcerni}；昨天早上= {prulamcerni}/{prulamdeicerni}；参见 {vanci},
+      {murse}, {tcika}.
+    glosses:
+    - No glosses.

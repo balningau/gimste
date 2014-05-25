@@ -1,5 +1,71 @@
-Word: cribe
-Rafsi: rib
-Definition: x1 is a bear/ursoid of species/breed x2.
-Notes: See also {danlu}, {mabru}.
-Examples: None
+word: cribe
+rafsi:
+- rib
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bear/ursoid of species/breed x2.
+    notes:
+    - See also {danlu}, {mabru}.
+    glosses:
+    - bear
+  de:
+    place structure: x1 ist ein Bär von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Bär
+  es:
+    place structure: x1 es un oso de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - oso
+  ru:
+    place structure: x1 — медведь вида/разновидности x2
+    notes:
+    - '{danlu} (животное), {mabru} (зверь)'
+    glosses:
+    - медведь
+    - x2=вид медведя
+  en-simple:
+    place structure: x1 is a bear of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a bear
+    - x2=a species of bear
+  eo:
+    place structure: x1 estas urso de speco/raso x2
+    notes:
+    - Vidu ankaŭ {danlu}, {mabru}.
+    glosses:
+    - urso
+  hu:
+    place structure: x1 egy medve(féle) [Ursidae család] az x2 fajból
+    notes:
+    - '(Lásd még: {danlu}, {mabru})'
+    glosses:
+    - medve
+  ja:
+    place structure: x1 は x2 （種類）のクマ科動物（パンダ／ヒグマ／ホッキョクグマ等）
+    notes:
+    - ・大意： 熊 ・読み方： シリベ  ・関連語： {danlu}, {mabru}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en björn/[art i familjen Ursidae] av art/sort x2.
+    notes:
+    - Ursidae är bl.a. grizzlybjörn, isbjörn, jättepanda; dock inte koala och liknande.
+      Även nalle/teddy/leksaksbjörn (=kelci cribe).
+    glosses:
+    - nalle (björn)
+    - x1=björn
+    - x2=björnsort
+  zh:
+    place structure: x1是熊，属于品种/种类x2
+    notes:
+    - 参见 {danlu}, {mabru}.
+    glosses:
+    - No glosses.

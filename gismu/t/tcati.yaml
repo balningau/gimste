@@ -1,5 +1,64 @@
-Word: tcati
-Rafsi: ''
-Definition: x1 is made of/contains/is a quantity of tea brewed from leaves x2.
-Notes: See also {ckafi}.
-Examples: None
+word: tcati
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of tea brewed from leaves
+      x2.
+    notes:
+    - See also {ckafi}.
+    glosses:
+    - tea
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Tee, zubereitet/hergestellt
+      aus Blättern x2
+    notes:
+    - No notes.
+    glosses:
+    - Tee
+  es:
+    place structure: x1 es una cantidad de té/mate/infusión preparado de hojas x2
+    notes:
+    - No notes.
+    glosses:
+    - té
+  ru:
+    place structure: x1 — чай, настоянный на листьях x2
+    notes:
+    - '{ckafi} (кофе)'
+    glosses:
+    - чай
+  en-simple:
+    place structure: x1 is a quantity of tea brewed from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of tea
+    - x2=a leaf of tea
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el teo infuzita el folioj
+      x2
+    notes:
+    - Vidu ankaŭ {ckafi}.
+    glosses:
+    - teo
+  hu:
+    place structure: x1 bizonyos mennyiségű tea (-t tartalmaz/-ból készült) x2 növényből
+    notes:
+    - '(Lásd még: {ckafi})'
+    glosses:
+    - tea
+  ja:
+    place structure: x1 は x2 （葉／原料）の茶／紅茶／緑茶
+    notes:
+    - ・大意： 茶 ・読み方： チャティ  ・語呂合わせ： tca 茶、ティー ・関連語： {ckafi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是茶，浸泡/酿造自植物x2（叶片/花瓣等）
+    notes:
+    - 参见 {ckafi}.
+    glosses:
+    - No glosses.

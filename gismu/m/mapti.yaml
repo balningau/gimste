@@ -1,6 +1,80 @@
-Word: mapti
-Rafsi: mat
-Definition: x1 fits/matches/suits/is compatible/appropriate/corresponds to/with x2
-  in property/aspect x3.
-Notes: See also {satci}, {tugni}, {sarxe}, {drani}, {tarmi}, {ckini}, {mintu}.
-Examples: None
+word: mapti
+rafsi:
+- mat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 fits/matches/suits/is compatible/appropriate/corresponds to/with
+      x2 in property/aspect x3.
+    notes:
+    - See also {satci}, {tugni}, {sarxe}, {drani}, {tarmi}, {ckini}, {mintu}.
+    glosses:
+    - fit
+    - match (fit)
+    - proper (fit)
+  de:
+    place structure: x1 passt/ist geeignet/angemessen/kompatibel mit/für x2 in Eigenschaft/Aspekt
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - passen
+  es:
+    place structure: x1 encaja/corresponde/es apropiado/compatible/congruente con
+      x2 en propiedad/aspecto x3
+    notes:
+    - Ver también {sarxe}.
+    glosses:
+    - encajar
+  ru:
+    place structure: x1 подходит/соответствует/совместим с/уместен для x2 по свойству/аспекте
+      x3
+    notes:
+    - 'Также: впору, подобает, сочетается с {satci} (точный [об измерении]), {tugni}
+      (соглашаться), {sarxe} (гармонировать), {drani} (правильный), {tarmi} (идея
+      [концептуальная форма]), {ckini} (иметь отношение), {mintu} (идентичный)'
+    glosses:
+    - соответствовать
+    - x1=соответствующий
+    - x3=аспект совместимости
+  art-guaspi:
+    place structure: \x1 /gne \x2 ^x3
+    notes:
+    - No notes.
+    glosses:
+    - gne
+  en-simple:
+    place structure: x1 is compatible with or matches x2 by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something compatible
+    - x2=something with which something is compatible
+    - x3=a standard of compatibility
+  eo:
+    place structure: x1 taŭgas/konformas/akordas/respondas al x2 en eco/aspekto x3
+    notes:
+    - Vidu ankaŭ {satci}, {tugni}, {sarxe}, {drani}, {tarmi}, {ckini}, {mintu}.
+    glosses:
+    - taŭgi
+  hu:
+    place structure: x1 illik/passzol/megfelelő x2-hez x3 tulajdonságban
+    notes:
+    - '(Lásd még: {satci}, {tugni}, {sarxe}, {drani}, {tarmi}, {ckini}, {mintu})'
+    glosses:
+    - illik
+  ja:
+    place structure: x1 は x2 にたいして x3 （性質）の点で相応しい／和合性がある；  x1 は x2 に適する／合う
+    notes:
+    - 「似合う」や「交換性がある」も。 ・大意： 相応しい ・読み方： マプティ  ・関連語： {satci}, {tugni}, {sarxe}, {drani},
+      {tarmi}, {ckini}, {mintu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1适合/是合适的/相配于x2，在性质/表象x3方面。
+    notes:
+    - 查看{satci},{tugni},{sarxe},{drani},{tarmi},{ckini},{mintu}
+    glosses:
+    - 合适
+    - 配

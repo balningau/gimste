@@ -1,5 +1,64 @@
-Word: judri
-Rafsi: ''
-Definition: x1 is an address of/are coordinates of x2 in system x3.
-Notes: See also {tcita}, {cmene}, {ciste}, {stuzi}.
-Examples: None
+word: judri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an address of/are coordinates of x2 in system x3.
+    notes:
+    - See also {tcita}, {cmene}, {ciste}, {stuzi}.
+    glosses:
+    - address (broadest sense)
+  de:
+    place structure: x1 ist eine Adresse/sind die Koordinaten von x2 in System x3
+    notes:
+    - No notes.
+    glosses:
+    - Adresse
+  es:
+    place structure: x1 es una dirección de x2 en sistema x3
+    notes:
+    - No notes.
+    glosses:
+    - dirección
+  ru:
+    place structure: x1 — адрес/координаты x2 (чего) в системе x3
+    notes:
+    - '{tcita} (метка), {cmene} (имя), {ciste} (система), {stuzi} (место [постоянное])'
+    glosses:
+    - x1=адрес (координаты)
+    - x3=система координат
+  en-simple:
+    place structure: x1 is an address of x2 in system x3
+    notes:
+    - No notes.
+    glosses:
+    - an address
+    - x2=something with an address
+    - x3=a system defining an address
+  eo:
+    place structure: x1 estas adreso/koordenatoj de x2 en sistemo x3
+    notes:
+    - Vidu ankaŭ {tcita}, {cmene}, {ciste}, {stuzi}.
+    glosses:
+    - adreso
+  hu:
+    place structure: x1 egy/a címe/koordinátái x2-nek x3 rendszerben
+    notes:
+    - '(Lásd még: {tcita}, {cmene}, {ciste}, {stuzi})'
+    glosses:
+    - cím
+  ja:
+    place structure: x1 は x2 の、 x3 （体系）における住所／宛先
+    notes:
+    - 「Eメールアドレス」も。このとき、x3は「インターネット」など。 ・大意： 住所 ・読み方： ジュドリ  ・語呂合わせ： ju（住）, adrress
+      ・関連語： {tcita}, {cmene}, {ciste}, {stuzi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的坐标/地址，在系统x3中
+    notes:
+    - 参见 {tcita}, {cmene}, {ciste}, {stuzi}.
+    glosses:
+    - No glosses.

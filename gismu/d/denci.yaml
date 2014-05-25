@@ -1,6 +1,76 @@
-Word: denci
-Rafsi: den, de'i
-Definition: x1 is a/the tooth [body-part] of x2; (adjective:) x1 is dental.
-Notes: '(for metaphor: see {dakfu}, {pagre}, {jgalu}); See also {moklu}, {dakfu},
-  {pagre}, {jgalu}, {batci}, {bongu}.'
-Examples: None
+word: denci
+rafsi:
+- den
+- de'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the tooth [body-part] of x2; (adjective:) x1 is dental.
+    notes:
+    - '(for metaphor: see {dakfu}, {pagre}, {jgalu}); See also {moklu}, {dakfu}, {pagre},
+      {jgalu}, {batci}, {bongu}.'
+    glosses:
+    - tooth
+  de:
+    place structure: x1 ist ein/der Zahn [Körperteil] von x2
+    notes:
+    - No notes.
+    glosses:
+    - Zahn
+  es:
+    place structure: x1 es un diente/muela/colmillo (parte del cuerpo) de x2
+    notes:
+    - Ver también {dakfu},  {pagre},  {jgalu}.
+    glosses:
+    - diente
+  ru:
+    place structure: x1 — зуб (часть тела) x2
+    notes:
+    - 'Для метафор: {dakfu}, {pagre}, {jgalu} {moklu} (рот), {dakfu} (нож), {pagre}
+      (проникать [проходить сквозь]), {jgalu} (коготь), {batci} (кусать), {bongu}
+      (кость)'
+    glosses:
+    - зуб
+  en-simple:
+    place structure: x1 is a tooth of x2
+    notes:
+    - No notes.
+    glosses:
+    - a tooth
+    - x2=something with a tooth
+  eo:
+    place structure: x1 estas dento [korpoparto] de x2; (adjektivo:) x1 estas denta
+    notes:
+    - '(metafore: vidu je dakfu, pagre, jgalu); Vidu ankaŭ {moklu}, {dakfu}, {pagre},
+      {jgalu}, {batci}, {bongu}.'
+    glosses:
+    - dento
+  hu:
+    place structure: x1 egy/a foga [mint testrész] x2-nek
+    notes:
+    - '(Lásd még: {moklu}, {dakfu}, {pagre}, {jgalu}, {batci}, {bongu})'
+    glosses:
+    - fog (testrész)
+  ja:
+    place structure: x1 は x2 （本体）の歯
+    notes:
+    - ・大意： 歯 ・読み方： デンシ  ・語呂合わせ： デンタル歯（し） ・関連語： {moklu}, {dakfu}, {pagre}, {jgalu},
+      {batci}, {bongu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en tand [kroppsdel] av x2; x1 är dental.
+    notes:
+    - '(för metaforer använd istället: {dakfu}, {pagre}, {jgalu});'
+    glosses:
+    - dental
+    - x1=tand
+    - x2=tandförsedd
+  zh:
+    place structure: x1是x2的牙齿；x1是跟牙相关的
+    notes:
+    - 可比喻：{dakfu}, {pagre}, {jgalu}；参见 {moklu}, {dakfu}, {pagre}, {jgalu}, {batci},
+      {bongu}.
+    glosses:
+    - No glosses.

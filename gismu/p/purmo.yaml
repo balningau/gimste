@@ -1,5 +1,61 @@
-Word: purmo
-Rafsi: pum, pu'o
-Definition: x1 is a powder of material x2.
-Notes: Flour (= {grupu'o}, {xripu'o}).  See also {pulce}, {zalvi}.
-Examples: None
+word: purmo
+rafsi:
+- pum
+- pu'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a powder of material x2.
+    notes:
+    - Flour (= {grupu'o}, {xripu'o}).  See also {pulce}, {zalvi}.
+    glosses:
+    - powder
+  de:
+    place structure: x1 ist ein Pulver von Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Pulver
+  es:
+    place structure: x1 es polvo de material x2
+    notes:
+    - Ver también {pulce},  {zalvi}.
+    glosses:
+    - polvo
+  ru:
+    place structure: x1 — порошок из вещества x2
+    notes:
+    - 'Мука: {grupu''o}, {xripu''o} {pulce} (пыль), {zalvi} (размалывать)'
+    glosses:
+    - порошок
+  en-simple:
+    place structure: x1 is a quantity of powder of x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of powder
+    - x2=a material of a powder
+  eo:
+    place structure: x1 estas pulvoro el materialo x2
+    notes:
+    - Faruno (= {grupu'o}, {xripu'o}).  Vidu ankaŭ {pulce}, {zalvi}.
+    glosses:
+    - pulvoro
+  hu:
+    place structure: x1 bizonyos mennyiségű por x2 anyagból
+    notes:
+    - '(Lásd még: {pulce}, {zalvi})'
+    glosses:
+    - por
+  ja:
+    place structure: x1は材料x2でできた粉である
+    notes:
+    - '参照: {pulce}, {zalvi}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是材料x2的粉末
+    notes:
+    - 面粉/谷粉/麦粉= {grupu'o}, {xripu'o}；参见 {pulce}, {zalvi}.
+    glosses:
+    - No glosses.

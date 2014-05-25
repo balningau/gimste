@@ -1,7 +1,69 @@
-Word: krati
-Rafsi: ka'i
-Definition: x1 represents/is an agent/proxy/stands-in for [absent] x2 in matter(s)/function(s)
-  x3.
-Notes: 'Also: on behalf of.  See also cmavo list {ka''i}, {jansu}, {catni}, {vipsi},
-  {pulji}.'
-Examples: None
+word: krati
+rafsi:
+- ka'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 represents/is an agent/proxy/stands-in for [absent] x2 in
+      matter(s)/function(s) x3.
+    notes:
+    - 'Also: on behalf of.  See also cmavo list {ka''i}, {jansu}, {catni}, {vipsi},
+      {pulji}.'
+    glosses:
+    - represent
+    - x1=representative (agent)
+  de:
+    place structure: x1 repräsentiert/verkörpert/ist ein (Stell)vertreter für [abwesend]
+      x2 in Angelegenheit(en)/Funktion(en) x3
+    notes:
+    - No notes.
+    glosses:
+    - repräsentieren
+  es:
+    place structure: x1 representa/es un agente de x2 en asunto/función x3
+    notes:
+    - Ver también {jansu},  {catni},  {vipsi}.
+    glosses:
+    - representar
+  ru:
+    place structure: x1 — представитель/заместитель/агент/уполномоченный x2 в сфере/по
+      вопросу/с полномочиями x3
+    notes:
+    - 'Также: от лица/имени {ka''i}, {jansu} (дипломат), {catni} (чиновник), {vipsi}
+      (заместитель), {pulji} (полицейский)'
+    glosses:
+    - x1=агент (уполномоченный)
+  en-simple:
+    place structure: x1 represents x2 in function x3
+    notes:
+    - No notes.
+    glosses:
+    - something representing
+    - x2=something represented
+    - x3=a function of representation
+  eo:
+    place structure: x1 reprezentas/estas agento/peranto/anstataŭanto de [forestanta]
+      x2 en afero/funkcio x3
+    notes:
+    - 'Ankaŭ: x1 agas por x2.  Vidu ankaŭ cmavo {ka''i}, {jansu}, {catni}, {vipsi},
+      {pulji}.'
+    glosses:
+    - reprezenti
+  hu:
+    place structure: x1 képviseli x2 [nem jelenlévő] személy(eke)t x3 ügy(ek)ben/szerep(ek)ben
+    notes:
+    - '(Lásd még: {jansu}, {catni}, {vipsi}, {pulji})'
+    glosses:
+    - képviselő
+  ja:
+    place structure: x1 は x2 を x3 （事項／機能）について代表する；  x1 は x2 の代わりを務める
+    notes:
+    - ・大意： 代表 ・読み方： クラティ  ・関連語： {ka'i}, {jansu}, {catni}, {vipsi}, {pulji}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的代理/代表/代替，在功用/事件x3中
+    notes:
+    - 也指：以……的名义；参见：{ka'i}, {jansu}, {catni}, {vipsi}, {pulji}.
+    glosses:
+    - No glosses.

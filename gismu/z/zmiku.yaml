@@ -1,5 +1,66 @@
-Word: zmiku
-Rafsi: zmi
-Definition: x1 is automatic in function x2 under conditions x3.
-Notes: See also {macnu}.
-Examples: None
+word: zmiku
+rafsi:
+- zmi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is automatic in function x2 under conditions x3.
+    notes:
+    - See also {macnu}.
+    glosses:
+    - automatic
+  de:
+    place structure: x1 ist automatisch in Funktion x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - automatisch
+  es:
+    place structure: x1 es automático en función x2 bajo condiciones x3
+    notes:
+    - Ver también {macnu}.
+    glosses:
+    - automático
+  ru:
+    place structure: x1 (машина и т.п.) автоматически выполняет функцию x2 в/при условиях
+      x3; x1 — автомат для выполнения x2
+    notes:
+    - '{macnu} (ручной [не автоматический])'
+    glosses:
+    - x1=автоматический
+    - x2=автоматически выполняемая функция
+  en-simple:
+    place structure: x1 is automatic in function x2
+    notes:
+    - No notes.
+    glosses:
+    - automatic
+    - x1=something automatic
+    - x2=an automatic function
+    - x2=the automatic function
+    - x3=a condition of automation
+  eo:
+    place structure: x1 estas aŭtomata en funkcio x2 sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {macnu}.
+    glosses:
+    - aŭtomata
+  hu:
+    place structure: x1 automatikus/önműködő x2 funkciójában, x3 körülmények között
+    notes:
+    - '(Lásd még: {macnu})'
+    glosses:
+    - automatikus
+  ja:
+    place structure: x1 は x2 （機能）に関して x3 （条件）で自動
+    notes:
+    - ・大意： 自動 ・読み方： ズミク  ・語呂合わせ： ＜ずっとミックス＞自動で黒ずみくすむ ・関連語： {macnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是自动的，具有功能x2，在条件x3下
+    notes:
+    - 参见 {macnu}.
+    glosses:
+    - No glosses.

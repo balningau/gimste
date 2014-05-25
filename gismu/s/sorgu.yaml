@@ -1,5 +1,62 @@
-Word: sorgu
-Rafsi: sog
-Definition: x1 is a quantity of sorghum of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: sorgu
+rafsi:
+- sog
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of sorghum of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - sorghum
+  de:
+    place structure: x1 ist eine Menge an Sorghum von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Sorghum
+  es:
+    place structure: x1 es una cantidad de sorgo (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - sorgo
+  ru:
+    place structure: x1 — сорго вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - сорго
+  en-simple:
+    place structure: x1 is sorghum of species x2
+    notes:
+    - No notes.
+    glosses:
+    - sorghum
+    - x2=a species of sorghum
+  eo:
+    place structure: x1 estas kvanto da sorgo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - sorgo
+  hu:
+    place structure: x1 bizonyos mennyiségű cirok [Sorghum nemzetség] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - cirok
+  ja:
+    place structure: x1 は x2 （品種）のモロコシ粒
+    notes:
+    - 「zumri／トウモロコシ属」と異なる。砂糖やアルコールの原料。飼料。 ・大意： モロコシ ・読み方： ソルグ  ・関連語： {gurni}
+    - ''
+    glosses:
+    - 蜀黍 (穀粒)
+    - x1=モロコシ (穀粒)
+  zh:
+    place structure: x1是高粱/黍，属于品种/种类x2
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

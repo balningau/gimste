@@ -1,6 +1,69 @@
-Word: vidru
-Rafsi: vir
-Definition: x1 is a virus of species/breed/defining property x2 capable of infecting
-  [at] x3.
-Notes: See also {jurme}.
-Examples: None
+word: vidru
+rafsi:
+- vir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a virus of species/breed/defining property x2 capable of
+      infecting [at] x3.
+    notes:
+    - See also {jurme}.
+    glosses:
+    - virus
+  de:
+    place structure: x1 ist ein Virus von Art/mit bestimmender Eigenschaft x2 und
+      fähig, x3 zu infizieren
+    notes:
+    - No notes.
+    glosses:
+    - Virus
+  es:
+    place structure: x1 es un virus de especie/raza/propiedad x2 capaz de infectar
+      a x3
+    notes:
+    - No notes.
+    glosses:
+    - virus
+  ru:
+    place structure: x1 — вирус вида/разновидности/{определяемый свойством} x2, способный
+      заразить/инфицировать x3
+    notes:
+    - '{jurme} (микроб)'
+    glosses:
+    - вирус
+    - x2=вид вируса
+    - x3=заражаемый вирусом
+  en-simple:
+    place structure: x1 as a virus of species x2 capable of infecting x3
+    notes:
+    - No notes.
+    glosses:
+    - a virus
+    - x2=a species of virus
+    - x3=something susceptible to virus
+  eo:
+    place structure: x1 estas viruso de speco/raso/difina eco x2 kapabla infekti x3-on
+    notes:
+    - Vidu ankaŭ {jurme}.
+    glosses:
+    - viruso
+  hu:
+    place structure: x1 egy vírus az x2 fajból/fajtából/meghatározó tulajdonsággal,
+      x3 megfertőzésére
+    notes:
+    - '(Lásd még: {jurme})'
+    glosses:
+    - vírus
+  ja:
+    place structure: x1 は x2 （特性）の、 x3 （対象）に寄生しうる病原体／ウィルス　
+    notes:
+    - ・大意： 病原体 ・読み方： ヴィドル ・語呂合わせ： virus ウィルス ・関連語： {jurme} (上位概念), {parji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是病毒，属于种类/具有属性x2，能够感染x3
+    notes:
+    - 参见 {jurme}.
+    glosses:
+    - No glosses.

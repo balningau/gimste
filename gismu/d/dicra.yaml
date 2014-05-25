@@ -1,6 +1,79 @@
-Word: dicra
-Rafsi: dir
-Definition: x1 (event) interrupts/stops/halts/[disrupts] x2 (object/event/process)
-  due to quality x3.
-Notes: Also disturbs (one sense).  See also {zunti}, {fanza}, {raktu}, {denpa}.
-Examples: None
+word: dicra
+rafsi:
+- dir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) interrupts/stops/halts/[disrupts] x2 (object/event/process)
+      due to quality x3.
+    notes:
+    - Also disturbs (one sense).  See also {zunti}, {fanza}, {raktu}, {denpa}.
+    glosses:
+    - interrupt (to disrupt)
+  de:
+    place structure: x1 (Ereignis) unterbricht/stört/stoppt/beendet x2 (Objekt/Ereignis/Vorgang)
+      aufgrund von Qualität x3
+    notes:
+    - No notes.
+    glosses:
+    - unterbrechen
+  es:
+    place structure: x1 (evento) interrumpe/para/detiene x2 (evento) debido a cualidad
+      x3
+    notes:
+    - Ver también {zunti},  {fanza},  {raktu}.
+    glosses:
+    - interrumpir
+  ru:
+    place structure: x1 прерывает/перебивает/(при)останавливает/задерживает x2 (объект/событие/процесс)
+      в силу свойства x3
+    notes:
+    - 'Также: срывает, нарушает, мешает; существенна результативность, в отличие от
+      {zunti} {zunti} (мешать [препятствовать]), {fanza} (раздражать [беспокоить]),
+      {raktu} (беспокоить), {denpa} (ждать)'
+    glosses:
+    - прерывать
+    - x1=прерывающий
+    - x2=прерываемый процесс
+  en-simple:
+    place structure: x1 interrupts or disrupts x2 due to quality x3
+    notes:
+    - No notes.
+    glosses:
+    - an interrupter
+    - x2=something interrupted
+    - x3=a reason for interruption
+  eo:
+    place structure: x1 (okazo) interrompas/ĉesigas/haltigas/[disrompas] x2-on (objekto/okazo/procedo)
+      pro kvalito x3
+    notes:
+    - 'Ankaŭ: perturbi (unu senco).  Vidu ankaŭ {zunti}, {fanza}, {raktu}, {denpa}.'
+    glosses:
+    - interrompi
+  hu:
+    place structure: x1 esemény félbeszakítja/megszakítja x2 tárgyat/eseményt/folyamatot
+      x3 tulajdonság következtében
+    notes:
+    - '(Lásd még: {zunti}, {fanza}, {raktu}, {denpa})'
+    glosses:
+    - félbeszakít
+  ja:
+    place structure: x1 （事）は x2 （物／事）を x3 （妨害性質）によって阻止／中断／妨害する
+    notes:
+    - ・大意： 阻止 ・読み方： ディシラ ・関連語： {zunti}, {fanza}, {raktu}, {denpa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse) avbryter/stoppar/stannar x2 (objekt/händelse/process)
+      till följd av kvalitet x3.
+    notes:
+    - Även stör (i viss betydelse).
+    glosses:
+    - avbryta
+  zh:
+    place structure: x1（事件）中断/断开/停止x2（事件/进程），由于性质x3
+    notes:
+    - 也指：干扰/妨碍（某种意义上来说）；参见 {zunti}, {fanza}, {raktu}, {denpa}.
+    glosses:
+    - No glosses.

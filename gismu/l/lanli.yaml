@@ -1,5 +1,72 @@
-Word: lanli
-Rafsi: lal
-Definition: x1 analyzes/examines-in-detail x2 by method/technique/system x3 [process/activity].
-Notes: See also {catlu}, {zgana}, {jarco}, {pensi}, {pinka}.
-Examples: None
+word: lanli
+rafsi:
+- lal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 analyzes/examines-in-detail x2 by method/technique/system
+      x3 [process/activity].
+    notes:
+    - See also {catlu}, {zgana}, {jarco}, {pensi}, {pinka}.
+    glosses:
+    - analyze
+    - examine (analyze)
+  de:
+    place structure: x1 analysiert/untersucht x2 mit Methode/Technik/System x3 [Prozess/Aktivität]
+    notes:
+    - No notes.
+    glosses:
+    - analysieren
+  es:
+    place structure: x1 analiza/examina en detalle a x2 por método/técnica/sistema
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - analizar
+  ru:
+    place structure: x1 анализирует/детально исследует x2 методом/техникой/по системе
+      x3 (процесс/деятельность)
+    notes:
+    - '{catlu} (смотреть [на что-либо]), {zgana} (наблюдать), {jarco} (показывать
+      [демонстрировать]), {pensi} (думать), {pinka} (комментарий)'
+    glosses:
+    - анализировать
+    - x1=анализирующий
+    - x2=анализируемое
+    - x3=метод анализа
+  en-simple:
+    place structure: x1 analyzes x2 by method x3
+    notes:
+    - No notes.
+    glosses:
+    - an analyser
+    - x2=something analysed
+    - x3=an analysis method
+  eo:
+    place structure: x1 analizas/detale ekzamenas x2-on per metodo/tekniko/sistemo
+      x3 [procedo/ago]
+    notes:
+    - Vidu ankaŭ {catlu}, {zgana}, {jarco}, {pensi}, {pinka}.
+    glosses:
+    - analizi
+  hu:
+    place structure: x1 elemzi/analizálja/részletesen megvizsgálja x2-t x3 módszerrel/technikával/rendszerrel
+    notes:
+    - '(Lásd még: {catlu}, {zgana}, {jarco}, {pensi}, {pinka})'
+    glosses:
+    - elemez
+  ja:
+    place structure: x1 は x2 を x3 （方法）で分析／調査する
+    notes:
+    - ・大意： 分析 ・読み方： ルァンルィ  ・語呂合わせ： analyze, analizar ・関連語： {catlu}, {zgana}, {jarco},
+      {pensi}, {pinka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1分析/仔细检查x2，使用方法/技术/系统x3（进程/行为）
+    notes:
+    - 参见 {catlu}, {zgana}, {jarco}, {pensi}, {pinka}.
+    glosses:
+    - No glosses.

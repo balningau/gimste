@@ -1,5 +1,78 @@
-Word: bredi
-Rafsi: red, bre
-Definition: x1 is ready/prepared for x2 (event).
-Notes: See also {spaji}, {jukpa}.
-Examples: None
+word: bredi
+rafsi:
+- red
+- bre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is ready/prepared for x2 (event).
+    notes:
+    - See also {spaji}, {jukpa}.
+    glosses:
+    - ready (prepared)
+  de:
+    place structure: x1 ist vorbereitet/fertig für x2 (Ereignis)
+    notes:
+    - Siehe auch {spaji}, {jukpa}.
+    glosses:
+    - vorbereitet
+  es:
+    place structure: x1 está listo/preparado/dispuesto para x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - listo
+  ru:
+    place structure: x1 готов/подготовлен к x2 (событие)
+    notes:
+    - '{spaji} (неожиданность), {jukpa} (повар)'
+    glosses:
+    - x1=готовый
+  en-simple:
+    place structure: x1 is ready for x2
+    notes:
+    - No notes.
+    glosses:
+    - something ready
+    - x2=something ready for
+  eo:
+    place structure: x1 estas preta por x2 (okazo)
+    notes:
+    - Vidu ankaŭ {spaji}, {jukpa}.
+    glosses:
+    - preta
+  hu:
+    place structure: x1 felkészült x2 eseményre
+    notes:
+    - '(Lásd még: {spaji}, {jukpa})'
+    glosses:
+    - kész
+  ja:
+    place structure: x1 は x2 （事）に向けて準備できている／用意が整っている／覚悟している
+    notes:
+    - ・大意： 準備 ・読み方： ブレディ  ・語呂合わせ： レディ , bei(備), ready, ・関連語： {spaji}, {jukpa}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er klar/beredt for x2 (hendelse)
+    notes:
+    - Se óg {spaji}, {jukpa}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är redo/beredd/förberedd inför x2 (händelse).
+    notes:
+    - No notes.
+    glosses:
+    - beredd (redo)
+    - förberedd
+    - parat (redo)
+    - x1=redo
+    - x2=händelse som x1 är förberedd på
+  zh:
+    place structure: x1为x2（事物）做好了准备/准备充分
+    notes:
+    - 参见 {spaji}, {jukpa}.
+    glosses:
+    - No glosses.

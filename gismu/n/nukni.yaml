@@ -1,5 +1,62 @@
-Word: nukni
-Rafsi: nuk
-Definition: x1 is magenta/fuchsia/purplish-red [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}.
-Examples: None
+word: nukni
+rafsi:
+- nuk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is magenta/fuchsia/purplish-red [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}.
+    glosses:
+    - magenta
+  de:
+    place structure: x1 ist magenta/pink/purpurn [Farbadjektiv]
+    notes:
+    - No notes.
+    glosses:
+    - Magenta
+  es:
+    place structure: x1 es magenta/fucsia/rojo violáceo (color)
+    notes:
+    - No notes.
+    glosses:
+    - magenta
+  ru:
+    place structure: x1 — пурпурный (о цвете)
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {xunre} (красный), {zirpu} (сиреневый)'
+    glosses:
+    - пурпурный
+  en-simple:
+    place structure: x1 is magenta
+    notes:
+    - No notes.
+    glosses:
+    - something magenta
+  eo:
+    place structure: x1 estas fuksina/fuksia/ruĝpurpura [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}.
+    glosses:
+    - fuksia
+  hu:
+    place structure: x1 bíborlila/-vörös / fukszin / magenta színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu})'
+    glosses:
+    - bíbor
+  ja:
+    place structure: x1 は深紅色／マゼンタ
+    notes:
+    - ・大意： 深紅色 ・読み方： ヌクニ  ・語呂合わせ： ぬ、紅に染まる ・関連語： {skari}, {blabi}, {xekri}, {kandi},
+      {carmi}, {xunre}, {zirpu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是品红色的/紫红色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}.
+    glosses:
+    - No glosses.

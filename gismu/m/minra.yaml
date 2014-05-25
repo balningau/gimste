@@ -1,9 +1,83 @@
-Word: minra
-Rafsi: mir
-Definition: x1 reflects/mirrors/echoes x2 [object/radiation] to observer/point x3
-  as x4; x2 bounces on x1.
-Notes: 'Also: $x_1$ is a mirror/reflector.  $x_2$ may be light, lu''e of an imaged
-  object; $x_4$ may be image or echo or the same as $x_2$ if physical object; $x_3$
-  may be a path for a bounced object; ka is reflection.  See also {catlu}, {viska},
-  {lenjo}, {pensi}.'
-Examples: None
+word: minra
+rafsi:
+- mir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects/mirrors/echoes x2 [object/radiation] to observer/point
+      x3 as x4; x2 bounces on x1.
+    notes:
+    - 'Also: x1 is a mirror/reflector.  x2 may be light, lu''e of an imaged object;
+      x4 may be image or echo or the same as x2 if physical object; x3 may be a path
+      for a bounced object; ka is reflection.  See also {catlu}, {viska}, {lenjo},
+      {pensi}.'
+    glosses:
+    - reflect
+  de:
+    place structure: x1 spiegelt/reflektiert x2/wirft x2 zurück [Objekt/Strahlung]
+      zu Betrachter/Punkt x3 als x4; x2 prallt/dopst auf x1 (ab)
+    notes:
+    - No notes.
+    glosses:
+    - spiegeln
+  es:
+    place structure: x1 refleja/espeja x2 hacia observador x3 como x4; x2 rebota en
+      x1
+    notes:
+    - No notes.
+    glosses:
+    - reflejar
+  ru:
+    place structure: x1 отражает x2 (объект/излучение) наблюдателю/точке x3 в виде
+      x4; x2 отражается в/от x1; x4 есть отражение/эхо x2 в x1
+    notes:
+    - x1 — зеркало/отражатель/рефлектор; x2 м.б. свет, {lu'e} отображаемого объекта;
+      x4 м.б. изображение, эхо или, если x2 — физический объект, может совпадать с
+      x2; x3 м.б. путь к отражаемому объекту {catlu} (смотреть [на что-либо]), {viska}
+      (видеть), {lenjo} (линза), {pensi} (думать)
+    glosses:
+    - отражать
+    - x1=отражающий
+    - x2=отражающийся
+  en-simple:
+    place structure: x1 reflects or echoes x2 to observer x3 as x4
+    notes:
+    - No notes.
+    glosses:
+    - a reflecter
+    - x2=something reflected
+    - x3=an observer of a reflection
+    - x4=a form of reflection
+  eo:
+    place structure: x1 reflektas/spegulas/ehhas x2-on [objekto/radiado] al observanto/punkto
+      x3 kiel x4
+    notes:
+    - 'Ankaŭ: x1 estas spegulo/reflektoro/reflektilo.  x2 resaltas sur x1; x2 povas
+      esti lumo, lu''e de bildigita objekto; x4 povas esti bildo aŭ ehho aŭ x2 mem
+      se fizika objekto; x3 povas esti vojo por resaltanta objekto; ka estas reflekto.  Vidu
+      ankaŭ {catlu}, {viska}, {lenjo}, {pensi}.'
+    glosses:
+    - reflekti
+  hu:
+    place structure: x1 visszaveri/visszatükrözi/visszhangozza x2 tárgyat/sugárzást/hullámot
+      x3 megfigyelőhöz/pontba x4 képként
+    notes:
+    - '(Lásd még: {catlu}, {viska}, {lenjo}, {pensi})'
+    glosses:
+    - visszaver
+  ja:
+    place structure: x1 は x2 （物／放射）を x3 （観察者／基点）にたいして x4 として反映する；  x2 は x1 に反射する；  x1
+      は鏡
+    notes:
+    - x4は反射されているもの。 ・大意： 反映 ・読み方： ミンラ  ・語呂合わせ： ＜みんな来世に反映＞,miraa ミラー ・関連語： {catlu},
+      {viska}, {lenjo}, {pensi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1反射/回射/反弹x2（物体/辐射）至观测者/位置x3，反射物/波为x4
+    notes:
+    - 也指： x1是镜子/反射器；x2可能指光/lu'e可成像的对象；x4可能是x2的图像/回声，可能与x2相同；x3可能是反射对象的路径；加ka指反射（原理/机制）；参见
+      {catlu}, {viska}, {lenjo}, {pensi}.
+    glosses:
+    - No glosses.

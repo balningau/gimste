@@ -1,6 +1,75 @@
-Word: funca
-Rafsi: fun, fu'a
-Definition: x1 (event/property) is determined by the luck/fortune of x2; (note mabla/zabna
-  not implied).
-Notes: See also {cunso}, {mabla}, {zabna}.
-Examples: None
+word: funca
+rafsi:
+- fun
+- fu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/property) is determined by the luck/fortune of x2;
+      (note mabla/zabna not implied).
+    notes:
+    - See also {cunso}, {mabla}, {zabna}.
+    glosses:
+    - luck
+  de:
+    place structure: 'x1 (Ereignis/Eigenschaft) wird bestimmt durch das Schicksal/Glück/Pech/Los
+      von x2; (Hinweis: weder explizit positive noch negative Konnotation)'
+    notes:
+    - No notes.
+    glosses:
+    - Los
+  es:
+    place structure: x1 (evento) es la suerte/fortuna/destino de x2
+    notes:
+    - Ver también {dimna}.
+    glosses:
+    - suerte
+  ru:
+    place structure: x1 (событие/свойство) определяется удачей/везением/фортуной/счастьем
+      x2 (чьим); x1 — дело случая/везения; x2 - везучий/везунчик
+    notes:
+    - Оценка {mabla}/{zabna} не предполагается. См. также {cunso} (случайный), {mabla}
+      (негативный (о значении/смысле слова)), {zabna} (одобрительный)
+    glosses:
+    - x1=удача
+    - x2=везучий
+  en-simple:
+    place structure: x1 is determined by the fortune of x2
+    notes:
+    - No notes.
+    glosses:
+    - something determined by fortune
+    - x2=something with a fortune
+  eo:
+    place structure: 'x1 (okazo/eco) estas difinita de la ŝanco/fortuno de x2; (notu:
+      mabla/zabna ne implicita)'
+    notes:
+    - Vidu ankaŭ {cunso}, {mabla}, {zabna}.
+    glosses:
+    - ŝanco
+  hu:
+    place structure: x1 esemény/tulajdonság függ x2 szerencséjétől
+    notes:
+    - '(Lásd még: {cunso}, {mabla}, {zabna})'
+    glosses:
+    - szerencse
+  ja:
+    place structure: x1 （事／性質）は x2 の運；  x1 はまぐれ／めぐり合わせ
+    notes:
+    - ・大意： 運 ・読み方： フンシャ ・関連語： {cunso}, {mabla}, {zabna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse/egenskap) bestäms av turen/lyckan hos x2; (förutsätter
+      inte mabla/zapna).
+    notes:
+    - No notes.
+    glosses:
+    - tur
+  zh:
+    place structure: x1（事件/性质）被运气x2所决定（不暗示好运/厄运）
+    notes:
+    - 参见 {cunso}, {mabla}, {zabna}.
+    glosses:
+    - No glosses.

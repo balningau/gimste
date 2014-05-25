@@ -1,5 +1,63 @@
-Word: zumri
-Rafsi: zmu
-Definition: x1 is a quantity of maize/corn [grain] of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: zumri
+rafsi:
+- zmu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of maize/corn [grain] of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - maize
+  de:
+    place structure: x1 ist eine Menge an Mais [Korn] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Mais
+  es:
+    place structure: x1 es una cantidad de maíz (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - maíz
+  ru:
+    place structure: x1 — кукуруза/маис (зерно) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - кукуруза
+    - x2=вид кукурузы
+  en-simple:
+    place structure: x1 is is a quantity of corn or maize of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of maize
+    - x2=a species of maize
+  eo:
+    place structure: x1 estas kvanto da maizo [greno] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - maizo
+  hu:
+    place structure: x1 bizonyos mennyiségű kukoricamag [Zea mays] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - kukorica
+  ja:
+    place structure: x1 は x2 （品種）のトウモロコシ粒
+    notes:
+    - ・大意： トウモロコシ ・読み方： ズムリ  ・語呂合わせ： ＜ずんずんレフトに＞ ・関連語： {gurni}
+    - ''
+    glosses:
+    - 玉蜀黍 (穀粒)
+    - x1=トウモロコシ (穀粒)
+  zh:
+    place structure: x1是玉米，属于物种/种类x2
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

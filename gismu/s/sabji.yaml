@@ -1,5 +1,70 @@
-Word: sabji
-Rafsi: sab
-Definition: x1 [source] provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient].
-Notes: Agentive supply (= {sabgau}, {sabzu'e}).  See also {krasi}, {sorcu}.
-Examples: None
+word: sabji
+rafsi:
+- sab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [source] provides/supplies/furnishes x2 [supply/commodity]
+      to x3 [recipient].
+    notes:
+    - Agentive supply (= {sabgau}, {sabzu'e}).  See also {krasi}, {sorcu}.
+    glosses:
+    - provide
+  de:
+    place structure: x1 [Quelle] versorgt/beliefert x3 [Empfänger] mit x2 [Angebot/Produkt];
+      x1 bietet x2 an/stellt x2 bereit für x3
+    notes:
+    - No notes.
+    glosses:
+    - versorgen
+  es:
+    place structure: x1 provee/proporciona/surte de x2 a x3
+    notes:
+    - No notes.
+    glosses:
+    - proveer
+  ru:
+    place structure: 'x1 (источник) поставляет x2 (что: ресурсы/товары) x3 (кому:
+      получатель); x1 снабжает/обеспечивает x3 (что/кого) x2 (чем)'
+    notes:
+    - 'Деятельное снабжение: {sabgau}, {sabzu''e} {krasi} (источник [начало]), {sorcu}
+      (запас)'
+    glosses:
+    - снабжать
+    - x1=поставщик
+    - x2=поставляемое
+    - x3=получатель поставляемого
+  en-simple:
+    place structure: x1 provides x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a provider
+    - x2=something provided
+    - x3=a recipient of something provided
+  eo:
+    place structure: x1 [fonto] provizas/havigas/liveras x2-on [provizo/varo] al x3
+      [ricevanto]
+    notes:
+    - Agenta provizo (= {sabgau}, {sabzu'e}).  Vidu ankaŭ {krasi}, {sorcu}.
+    glosses:
+    - provizi
+  hu:
+    place structure: x1 [forrás] biztosítja x2 ellátmányt/javakat x3 számára
+    notes:
+    - '(Lásd még: {krasi}, {sorcu})'
+    glosses:
+    - ellát
+  ja:
+    place structure: x1 は x2 （物）を x3 （者）に供給／提供する
+    notes:
+    - ・大意： 供給 ・読み方： サブジ  ・語呂合わせ： 供給サブジェクト, supply, ji（給） ・関連語： {krasi}, {sorcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（来源）提供/供应/供给x2（货物/供应品）给接收者x3
+    notes:
+    - （施事的）提供={sabgau}/{sabzu'e}；参见 {krasi}, {sorcu}.
+    glosses:
+    - No glosses.

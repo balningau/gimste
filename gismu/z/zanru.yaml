@@ -1,5 +1,64 @@
-Word: zanru
-Rafsi: zar, zau
-Definition: x1 approves of/gives favor to plan/action x2 (object/event).
-Notes: See also cmavo list {zau}, {natfe}.
-Examples: None
+word: zanru
+rafsi:
+- zar
+- zau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 approves of/gives favor to plan/action x2 (object/event).
+    notes:
+    - See also cmavo list {zau}, {natfe}.
+    glosses:
+    - approve
+  de:
+    place structure: x1 billigt/befürwortet Plan/Aktion x2 (Objekt/Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - anerkennen
+  es:
+    place structure: x1 aprueba/favorece/celebra plan/acción x2
+    notes:
+    - Ver también {xenru}.
+    glosses:
+    - aprobar
+  ru:
+    place structure: x1 одобряет план/действие x2
+    notes:
+    - 'Также: поддерживает, благоволит {zau}, {natfe} (опровергать)'
+    glosses:
+    - одобрять (план)
+    - x1=одобряющий (план)
+    - x2=одобряемый план
+  en-simple:
+    place structure: x1 approves of x2
+    notes:
+    - No notes.
+    glosses:
+    - an approver
+    - x2=something approved of
+  eo:
+    place structure: x1 aprobas/favoras/apogas planon/agon x2 (objekto/okazo)
+    notes:
+    - Vidu ankaŭ cmavo {zau}, {natfe}.
+    glosses:
+    - aprobi
+  hu:
+    place structure: x1 beleegyezik x2 tervbe/cselekedetbe
+    notes:
+    - '(Lásd még: {natfe})'
+    glosses:
+    - beleegyezik
+  ja:
+    place structure: x1 は x2 （物／事）を容認／承認／是認する
+    notes:
+    - ・大意： 容認 ・読み方： ザンル  ・関連語： {zau}, {natfe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1赞成x2（物/事）
+    notes:
+    - 参见 {zau}, {natfe}.
+    glosses:
+    - No glosses.

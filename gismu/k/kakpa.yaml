@@ -1,7 +1,74 @@
-Word: kakpa
-Rafsi: ''
-Definition: x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s)
-  x4.
-Notes: Also $x_1$ cuts into $x_3$ (with material removal).  See also {katna}, {plixa},
-  {sraku}, {canpa}, {sraku}.
-Examples: None
+word: kakpa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) digs x2 [material] up/out of x3 [source/hole] with
+      limbs/tool(s) x4.
+    notes:
+    - Also x1 cuts into x3 (with material removal).  See also {katna}, {plixa}, {sraku},
+      {canpa}, {sraku}.
+    glosses:
+    - dig
+  de:
+    place structure: x1 (Handelnder) gräbt x2 [Material] aus Loch/Ursprung x3 mit
+      Gliedmaßen/Werkzeug x4
+    notes:
+    - No notes.
+    glosses:
+    - graben
+  es:
+    place structure: x1 cava/excava material x2 desde fuente/hoyo x3 con miembro/herramienta
+      x4
+    notes:
+    - Ver también {plixa},  {sraku}.
+    glosses:
+    - cavar
+  ru:
+    place structure: x1 выкапывает/выгребает x2 (материал) из x3 (источник/яма) частями
+      тела/инструментом x4
+    notes:
+    - 'Также: x1 врезается/вгрызается в x3 (с изъятием материала) {katna} (разрезать),
+      {plixa} (пахать), {sraku} (царапать), {canpa} (лопата), {sraku} (царапать)'
+    glosses:
+    - выкапывать
+    - x1=выкапывающий
+    - x3=выкапываемая яма
+    - x4=инструмент выкапывания
+  en-simple:
+    place structure: x1 digs x2 out of x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a digger
+    - x2=something dug
+    - x3=something dug from
+    - x4=a digging tool
+  eo:
+    place structure: x1 (aganto) fosas x2-on [materialo] el x3 [fonto/truo] per membroj/ilo
+      x4
+    notes:
+    - 'Ankaŭ: x1 tranĉas en x3 (kun forigo de materialo).  Vidu ankaŭ {katna}, {plixa},
+      {sraku}, {canpa}, {sraku}.'
+    glosses:
+    - fosi
+  hu:
+    place structure: x1 kiássa x2 anyagot x3 forrásból/gödörből x4 eszközzel
+    notes:
+    - '(Lásd még: {katna}, {plixa}, {sraku}, {canpa}, {sraku})'
+    glosses:
+    - ás
+  ja:
+    place structure: x1 は x2 を x3 から x4 （道具／方法）で掘り出す；  x1 は x3 を掘る
+    notes:
+    - ・大意： 掘る ・読み方： カクパ  ・関連語： {katna}, {plixa}, {sraku}, {canpa}, {sraku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1挖掘x2，从洞/来源x3中，使用肢体/工具x4
+    notes:
+    - 也指：x1挖入/掘进x3 （去除材料）；参见 {katna}, {plixa}, {sraku}, {canpa}, {sraku}.
+    glosses:
+    - No glosses.

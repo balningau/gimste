@@ -1,5 +1,66 @@
-Word: tatpi
-Rafsi: ta'i
-Definition: x1 is tired/fatigued by effort/situation x2 (event); x1 needs/wants rest.
-Notes: See also {cikna}, {sipna}, {surla}.
-Examples: None
+word: tatpi
+rafsi:
+- ta'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is tired/fatigued by effort/situation x2 (event); x1 needs/wants
+      rest.
+    notes:
+    - See also {cikna}, {sipna}, {surla}.
+    glosses:
+    - tired
+  de:
+    place structure: x1 ist müde/erschöpft wegen Anstrengung/Situation x2 (Ereignis);
+      x1 braucht/will Erholung.
+    notes:
+    - Siehe auch {cikna}, {sipna}, {surla}.
+    glosses:
+    - erschöpft
+    - müde
+  es:
+    place structure: x1 se cansa/fatiga/agota por esfuerzo x2 (evento)
+    notes:
+    - Ver también {surla}.
+    glosses:
+    - cansarse
+  ru:
+    place structure: x1 утомлен усилием/ситуацией x2 (событие); x1 устал/нуждается
+      в отдыхе
+    notes:
+    - '{cikna} (бодрствовать), {sipna} (спать), {surla} (отдыхать)'
+    glosses:
+    - утомлённый
+  en-simple:
+    place structure: x1 is tired because of x2
+    notes:
+    - No notes.
+    glosses:
+    - something tired
+    - x2=something tiring
+  eo:
+    place structure: x1 estas laca pro peno/situacio x2 (okazo); x1 bezonas/volas
+      ripozi
+    notes:
+    - Vidu ankaŭ {cikna}, {sipna}, {surla}.
+    glosses:
+    - laca
+  hu:
+    place structure: x1 fáradt x2 erőfeszítéstől/helyzettől
+    notes:
+    - '(Lásd még: {cikna}, {sipna}, {surla})'
+    glosses:
+    - fáradt
+  ja:
+    place structure: x1 は x2 （事）によって疲労／疲弊している／疲れている
+    notes:
+    - ・大意： 疲弊 ・読み方： タトピ  ・関連語： {cikna}, {sipna}, {surla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是累的/疲倦的/劳累的，因为劳动/情形x2（事件）；x1需要/想要休息
+    notes:
+    - 参见 {cikna}, {sipna}, {surla}.
+    glosses:
+    - No glosses.

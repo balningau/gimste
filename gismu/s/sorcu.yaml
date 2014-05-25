@@ -1,10 +1,82 @@
-Word: sorcu
-Rafsi: soc, sro
-Definition: x1 is a store/deposit/supply/reserve of materials/energy x2 in containment
-  x3.
-Notes: $x_3$ need not be a container, but could merely be a site/location restriction;
-  e.g. a heap.  The sumti indicates how the supply is identified and distinguished
-  from other occurrences of the stored $x_2$ that are not part of the store.  (cf.
-  {panka}; {vreji} for information storage; {sabji} for a store or reserve that is
-  not necessarily tied to a site, {banxa}, {panka})
-Examples: None
+word: sorcu
+rafsi:
+- soc
+- sro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a store/deposit/supply/reserve of materials/energy x2 in
+      containment x3.
+    notes:
+    - x3 need not be a container, but could merely be a site/location restriction;
+      e.g. a heap.  The sumti indicates how the supply is identified and distinguished
+      from other occurrences of the stored x2 that are not part of the store.  (cf.
+      {panka}; {vreji} for information storage; {sabji} for a store or reserve that
+      is not necessarily tied to a site, {banxa}, {panka})
+    glosses:
+    - hold (store)
+    - stock (supply)
+    - store
+  de:
+    place structure: x1 ist ein Lager/Speicher/Vorrat/Depot/eine Reserve von Materialien/Energie
+      x2 in Behälter x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es un depósito/acumulación/reserva/surtido de materiales x2
+      en contenedor x3
+    notes:
+    - No notes.
+    glosses:
+    - depósito
+  ru:
+    place structure: x1 — запас/резерв материалов/энергии x2, накопленных/хранимых
+      в x3
+    notes:
+    - x3 не обязательно контейнер, напр. куча; аргумент x3 идентифицирует данный запас
+      x2, позволяя отличить его от других запасов {panka} (парк); {vreji} (запись)
+      для хранения информации; {sabji} (поставлять [снабжать]) для запаса, который
+      не обязательно привязан к определенному месту, {banxa} (банк), {panka} (парк)
+    glosses:
+    - запас
+  en-simple:
+    place structure: x1 is a stockpile or deposit of x2 in containment x3
+    notes:
+    - No notes.
+    glosses:
+    - a stockpile
+    - x2=something stockpiled
+    - x3=a containment of a stockpile
+  eo:
+    place structure: x1 estas provizo/reservo de materialoj/energio x2 en tenejo x3
+    notes:
+    - x3 ne nepre estas ujo, sed povus esti nur limigo de pozicio/loko; ekz. amaso.
+      La sumti indikas kiel la provizo estas identigita kaj distingita de aliaj okazoj
+      de la konservita x2 kiuj ne apartenas al la provizo.  (kp. panka; vreji por
+      konservo de informado; sabji por provizo aŭ konservo ne nepre ligita al pozicio,
+      banxa, panka)
+    glosses:
+    - provizo
+  hu:
+    place structure: x1 egy raktár/készlet/tartalék/ellátmány x2 anyagból/javakból/energiából,
+      x3 tárolási móddal
+    notes:
+    - '(Lásd még: {panka}, {vreji}, {sabji}, {banxa})'
+    glosses:
+    - raktár
+  ja:
+    place structure: x1 は x2 （資源／エネルギー）の、 x3 （容器）による貯蔵／蓄積
+    notes:
+    - x3は物体に限らず電磁力などの壁や場所空間なども。 ・大意： 貯蔵 ・読み方： ソルシュ  ・関連語： {panka}; {vreji}; {sabji},
+      {banxa}, {panka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是（物质/能源）x2的储备/储藏/补给品/贮藏，在储藏室/仓库x3中
+    notes:
+    - x3不必要是容器，也可能是地点/位置等；参见 {panka}, {vreji}信息的存储; {sabji}, {banxa}
+    glosses:
+    - No glosses.

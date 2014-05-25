@@ -1,5 +1,70 @@
-Word: ctino
-Rafsi: ti'o
-Definition: x1 is a shadow/the shade of object x2, made by light/energy source x3.
-Notes: See also {manku}, {gusni}.
-Examples: None
+word: ctino
+rafsi:
+- ti'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shadow/the shade of object x2, made by light/energy source
+      x3.
+    notes:
+    - See also {manku}, {gusni}.
+    glosses:
+    - shadow
+  de:
+    place structure: x1 ist ein/der Schatten von Objekt x2, erzeugt durch Lichtquelle/Energiequelle
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Schatten
+  es:
+    place structure: x1 es una sombra de objeto x2 causada por fuente de luz x3
+    notes:
+    - No notes.
+    glosses:
+    - sombra
+  ru:
+    place structure: x1 — тень, отбрасываемая x2 (кем/чем) в лучах света/энергии x3
+    notes:
+    - '{manku} (темный), {gusni} (свет)'
+    glosses:
+    - тень
+  en-simple:
+    place structure: x1 as a shadow of x2 made by light source x3
+    notes:
+    - No notes.
+    glosses:
+    - a shadow
+    - x2=an object with a shadow
+    - x3=a light source making a shadow
+  eo:
+    place structure: x1 estas ombro de objekto x2, pro lumo/energia fonto x3
+    notes:
+    - Vidu ankaŭ {manku}, {gusni}.
+    glosses:
+    - ombro
+  hu:
+    place structure: x1 az árnyéka x2 tárgynak, x3 fény-/energiaforrás által
+    notes:
+    - '(Lásd még: {manku}, {gusni})'
+    glosses:
+    - ányék
+  ja:
+    place structure: x1 は x2 （物）・ x3 （光）の陰／影
+    notes:
+    - ・大意： 陰 ・読み方： シティノ  ・関連語： {manku}, {gusni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en skugga av föremål x2 skapad av ljus-/energikälla x3.
+    notes:
+    - No notes.
+    glosses:
+    - skugga
+  zh:
+    place structure: x1是物体x2的影子/阴影，由光线/光源x3制造
+    notes:
+    - 参见 {manku}, {gusni}.
+    glosses:
+    - No glosses.

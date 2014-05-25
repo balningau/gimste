@@ -1,8 +1,78 @@
-Word: trene
-Rafsi: ren, re'e
-Definition: x1 is a train [vehicle] of cars/units x2 (mass) for rails/system/railroad
-  x3, propelled by x4.
-Notes: A railed vehicle or train of vehicles; also subway ({tu'unre'e}), metro, trolley,
-  tramway (= {lajre'e}), roller coaster; monorail (= {dadre'e}); cable car, sky car,
-  ski lift (= {cildadre'e}).  See also {tcana}.
-Examples: None
+word: trene
+rafsi:
+- ren
+- re'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a train [vehicle] of cars/units x2 (mass) for rails/system/railroad
+      x3, propelled by x4.
+    notes:
+    - A railed vehicle or train of vehicles; also subway ({tu'unre'e}), metro, trolley,
+      tramway (= {lajre'e}), roller coaster; monorail (= {dadre'e}); cable car, sky
+      car, ski lift (= {cildadre'e}).  See also {tcana}.
+    glosses:
+    - train
+  de:
+    place structure: x1 ist ein Zug [Fahrzeug] mit Wagen/Wagons/Einheiten x2 (Masse)
+      für/auf Schienen/Gleisen/System x3, angetrieben durch x4
+    notes:
+    - No notes.
+    glosses:
+    - Zug
+  es:
+    place structure: x1 es un tren (vehículo) con vagones/unidades x2, en sistema/ferrocarril
+      x3, propelido por x4
+    notes:
+    - No notes.
+    glosses:
+    - tren
+  ru:
+    place structure: x1 — поезд (транспортное средство), состоящий из вагонов/единиц
+      x2 (масса) для системы путей x3, приводимый в движение x4 (чем)
+    notes:
+    - 'Передвигается по рельсам/направляющим; метро: {tu''unre''e}, троллейбус, трамвай:
+      {lajre''e}, американские горы; монорельс: {dadre''e}; фуникулер, канатная дорога:
+      {cildadre''e} {tcana} (станция)'
+    glosses:
+    - x1=поезд
+    - x2=вагон
+    - x3=железная дорога
+  en-simple:
+    place structure: x1 is a train of cars x2 for system x3 propelled by x4
+    notes:
+    - No notes.
+    glosses:
+    - a train
+    - x2=a car of a train
+    - x3=a system of a train
+    - x4=a propulsion of a train
+  eo:
+    place structure: x1 estas trajno [veturilo] kun vagonoj/unuoj x2 por reloj/sistemo/fervojo
+      x3, pelita de x4
+    notes:
+    - Rela veturilo aŭ trajno de veturiloj; ankaŭ metroo (tu'unre'e), rulportilo,
+      tramvojo (= {lajre'e}), roller coaster; monorelo (= {dadre'e}); kablo-vagono,
+      ĉiel-vagono, ski-levo (= {cildadre'e}). (kp.tcana)
+    glosses:
+    - trajno
+  hu:
+    place structure: x1 egy vonat/egyéb kötöttpályás szerelvény x2 vagonokkal/kocsikkal,
+      x3 pályán, x4 meghajtással
+    notes:
+    - '(Lásd még: {tcana})'
+    glosses:
+    - vonat
+  ja:
+    place structure: x1 は車両 x2 （群れ）・線路網／軌道 x3 ・原動力 x4 の列車／鉄道／電車／汽車／地下鉄
+    notes:
+    - 「モノレール」「リニアモーターカー」も。 ・大意： 列車 ・読み方： トレネ  ・語呂合わせ： 列車が撮れねぇ ・関連語： {tcana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是火车/有轨车，由车厢x2（团）组合而成，沿轨道/铁道x3运行，由x4驱动
+    notes:
+    - 火车/地铁={tu'unre'e}；地铁/有轨电车= {lajre'e}；过山车= {dadre'e}；缆车= {cildadre'e}；参见 {tcana}.
+    glosses:
+    - No glosses.

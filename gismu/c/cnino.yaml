@@ -1,6 +1,87 @@
-Word: cnino
-Rafsi: nin, ni'o
-Definition: x1 is new/unfamiliar/novel to observer x2 in feature x3 (ka) by standard
-  x4; x1 is a novelty.
-Notes: See also {nuzba}, {slabu}, {citno}, se {djuno}.
-Examples: None
+word: cnino
+rafsi:
+- nin
+- ni'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is new/unfamiliar/novel to observer x2 in feature x3 (ka)
+      by standard x4; x1 is a novelty.
+    notes:
+    - See also {nuzba}, {slabu}, {citno}, se {djuno}.
+    glosses:
+    - new
+  de:
+    place structure: x1 ist neu/ungewohnt für Betrachter x2 in Eigenschaft x3 (ka)
+      gemäß Standard x4; x1 ist eine Neuheit
+    notes:
+    - No notes.
+    glosses:
+    - neu
+  es:
+    place structure: x1 es nuevo/novedoso/inaudito para x2 en propiedad/aspecto x3
+      según estándar x4
+    notes:
+    - Ver también {slabu}.
+    glosses:
+    - nuevo
+  ru:
+    place structure: x1 нов/незнаком/непривычен наблюдателю x2 в аспекте x3 ({ka})
+      относительно стандарта x4; x1 — новшество/нововведение/новинка
+    notes:
+    - '{nuzba} (новость), {slabu} (старый [не новый]), {citno} (молодой), {se} {djuno}
+      (знать)'
+    glosses:
+    - новый
+  en-simple:
+    place structure: x1 is new to x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something new
+    - x2=an observer of newness
+    - x3=a feature of newness
+    - x4=a standard of newness
+  eo:
+    place structure: x1 estas nova/nekonata por observanto x2 en trajto x3 (ka) laŭ
+      normo x4; x1 estas novaĵo
+    notes:
+    - Vidu ankaŭ {nuzba}, {slabu}, {citno}, se {djuno}.
+    glosses:
+    - nova
+  hu:
+    place structure: x1 új/szokatlan/fiatal x2 megfigyelő számára x3 tulajdonságában,
+      x4 mérce szerint
+    notes:
+    - '(Lásd még: {nuzba}, {slabu}, {citno}, {djuno})'
+    glosses:
+    - új
+  ja:
+    place structure: x1 は x2 （者）にとって、 x3 （性質）・ x4 （標準）に関して新しい
+    notes:
+    - ・大意： 新しい ・読み方： シニノ  ・関連語： {nuzba}, {slabu}, {citno}, {se} {djuno}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest nowy/nieznany dla obserwatora x2 pod względem cechy x3
+      (ka), według standardu x4; x1 jest nowością.
+    notes:
+    - No notes.
+    glosses:
+    - nieznany
+    - nowy
+    - x1=nowość
+  sv:
+    place structure: x1 är ny/obekant/nymodig för observatör x2 vilket kännetecknas
+      av x3 (ka) enligt standard x4.
+    notes:
+    - No notes.
+    glosses:
+    - ny
+  zh:
+    place structure: x1是新的/不熟悉的，对观察者x2来说，在x3（ka）方面，依据标准x4
+    notes:
+    - 参见 {nuzba}, {slabu}, {citno}, se {djuno}.
+    glosses:
+    - No glosses.

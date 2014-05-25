@@ -1,5 +1,69 @@
-Word: randa
-Rafsi: rad
-Definition: x1 yields/gives way/surrenders to x2 (force/agent) under conditions x3.
-Notes: See also {jdari}, {renvi}, {ranti}, se {bapli}.
-Examples: None
+word: randa
+rafsi:
+- rad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 yields/gives way/surrenders to x2 (force/agent) under conditions
+      x3.
+    notes:
+    - See also {jdari}, {renvi}, {ranti}, se {bapli}.
+    glosses:
+    - yield
+  de:
+    place structure: x1 gibt nach/weicht aus/gibt sich geschlagen/kapituliert vor
+      x2 (Kraft/Handelnder) unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - nachgeben
+  es:
+    place structure: x1 cede/se rinde/se resigna ante x2 bajo condiciones x3
+    notes:
+    - Ver también {ranti},  se {bapli}.
+    glosses:
+    - ceder
+  ru:
+    place structure: 'x1 уступает/поддается/подчиняется x2 (чему: сила/агент) в условиях
+      x3'
+    notes:
+    - '{jdari} (крепкий), {renvi} (выдерживать), {ranti} (мягкий), {se} {bapli} (заставлять)'
+    glosses:
+    - поддаваться
+    - x1=поддающийся
+    - x2=кому поддаются
+  en-simple:
+    place structure: x1 surrenders or yields to x2
+    notes:
+    - No notes.
+    glosses:
+    - surrend
+    - x1=a surrenderer
+    - x2=something surrendered to
+    - x3=a condition of surrender
+  eo:
+    place structure: x1 cedas al x2 (forto/aganto) sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {jdari}, {renvi}, {ranti}, se {bapli}.
+    glosses:
+    - cedi
+  hu:
+    place structure: x1 enged/megadja magát x2 erőnek/cselekvőnek, x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {jdari}, {renvi}, {ranti}, {bapli})'
+    glosses:
+    - megadja magát
+  ja:
+    place structure: x1 は x2 （力／者）にたいして x3 （条件）のもと降伏／降参／譲歩する
+    notes:
+    - ・大意： 降伏 ・読み方： ランダ  ・語呂合わせ： 降伏並んだ ・関連語： {jdari}, {renvi}, {ranti}, {se} {bapli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1向x2（力量/代理人）投降/屈服，在条件/环境x3下
+    notes:
+    - 参见 {jdari}, {renvi}, {ranti}, se {bapli}.
+    glosses:
+    - No glosses.

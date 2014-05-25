@@ -1,8 +1,79 @@
-Word: cpana
-Rafsi: ''
-Definition: x1 is upon/atop/resting on/lying on [the upper surface of] x2 in frame
-  of reference/gravity x3.
-Notes: ($x_1$ may be object or event); See also se {vasru}, {jbini}, {zvati}, {nenri},
-  {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, {punji} for lay upon, {sarji},
-  {zbepi}.
-Examples: None
+word: cpana
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is upon/atop/resting on/lying on [the upper surface of] x2
+      in frame of reference/gravity x3.
+    notes:
+    - (x1 may be object or event); See also se {vasru}, {jbini}, {zvati}, {nenri},
+      {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, {punji} for lay upon,
+      {sarji}, {zbepi}.
+    glosses:
+    - upon
+  de:
+    place structure: x1 ist/liegt auf [der Oberfläche von] x2 (drauf) in Bezugssystem/durch
+      Schwerkraft x3
+    notes:
+    - No notes.
+    glosses:
+    - auf sein
+  es:
+    place structure: x1 está sobre/encima de x2 según marco de referencia/gravedad
+      x3
+    notes:
+    - Ver también {gapru},  {vreta}.
+    glosses:
+    - sobre
+  ru:
+    place structure: x1 находится/лежит на x2 в системе отсчета/гравитационном поле
+      x3
+    notes:
+    - x1 м.б. объект или событие {se} {vasru} (содержать), {jbini} (между), {zvati}
+      (находиться), {nenri} (внутри), {vreta} (лежать [на чем-либо]), {ckana} (кровать),
+      {diklo} (локальный), {jibni} (близко), {lamji} (смежный), {zutse} (сидеть),
+      {punji} (класть) для «класть на», {sarji} (поддерживать [помогать]), {zbepi}
+      (подставка)
+    glosses:
+    - x2=то, на чём лежат
+  en-simple:
+    place structure: x1 on top of x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something on top
+    - x2=something to which something is on top
+    - x3=a reference frame for being on top
+  eo:
+    place structure: x1 estas sur [la supra surfaco de] x2 en referenckadro/gravito
+      x3
+    notes:
+    - (x1 povas esti objekto aŭ okazo); Vidu ankaŭ se {vasru}, {jbini}, {zvati}, {nenri},
+      {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, punji por meti sur {ion},
+      {sarji}, {zbepi}.
+    glosses:
+    - sur
+  hu:
+    place structure: x1 tárgy/esemény rajta van x2 tetején, x3 vonatkoztatási rendszerben
+    notes:
+    - '(Lásd még: {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo}, {jibni},
+      {lamji}, {zutse}, {punji}, {sarji}, {zbepi})'
+    glosses:
+    - fölső
+  ja:
+    place structure: x1 は x2 （表面）の上に（置いて／立って）在る、 x3 （観点）で
+    notes:
+    - 日本語には適語が無い概念。「galtu」「gapru」との違いに注意。 ・大意： の表面上に ・読み方： シパナ  ・語呂合わせ： 表面でしっぱなし ・関連語：
+      {se} {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo}, {jibni},
+      {lamji}, {zutse}, {punji}, {sarji}, {zbepi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在x2上面（上表面），基于参考标准/重力方向x3
+    notes:
+    - x1可能是物体或事件；参见 se {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo},
+      {jibni}, {lamji}, {zutse}, {punji}, {sarji}, {zbepi}.
+    glosses:
+    - No glosses.

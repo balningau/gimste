@@ -1,5 +1,72 @@
-Word: xanka
-Rafsi: ''
-Definition: x1 is nervous/anxious about x2 (abstraction) under conditions x3.
-Notes: See also {xalni}, {terpa}, {raktu}.
-Examples: None
+word: xanka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is nervous/anxious about x2 (abstraction) under conditions
+      x3.
+    notes:
+    - See also {xalni}, {terpa}, {raktu}.
+    glosses:
+    - nervous
+    - worry (be anxious about)
+  de:
+    place structure: x1 ist nervös/aufgeregt/unruhig/besorgt über x2 (Abstraktion)
+      unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - nervös
+  es:
+    place structure: x1 está nervioso/ansioso/angustiado por x2 (abstracción) bajo
+      condiciones x3
+    notes:
+    - Ver también {terpa}.
+    glosses:
+    - nervioso
+  ru:
+    place structure: x1 волнуется/встревожен/обеспокоен/озабочен/нервничает по поводу
+      x2 (абстракция) в условиях x3
+    notes:
+    - '{xalni} (паниковать), {terpa} (бояться), {raktu} (беспокоить)'
+    glosses:
+    - x1=встревоженный
+    - x2=причина встревоженности
+  en-simple:
+    place structure: x1 is nervous or anxious about x2 (nu)
+    notes:
+    - No notes.
+    glosses:
+    - anxious
+    - something anxious
+    - x1=someone anxious
+    - x2=something about which something is anxious
+    - x3=a conditions of anxiety
+  eo:
+    place structure: x1 estas nervoza/maltrankvila/malpacienca pri x2 (abstraktaĵo)
+      sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {xalni}, {terpa}, {raktu}.
+    glosses:
+    - nervoza
+  hu:
+    place structure: x1 ideges/aggódik x2 absztrakció miatt, x3 körülmények között
+    notes:
+    - '(Lásd még: {xalni}, {terpa}, {raktu})'
+    glosses:
+    - ideges
+  ja:
+    place structure: x1 は x2 （事）について緊張／心配する；  x1 は x2 が不安
+    notes:
+    - 心配という心理の条件としてx3の追加も。 ・大意： 緊張 ・読み方： クァンカ  ・語呂合わせ： ＜半分隠す＞, xaraxara,ハラハラ ・関連語：
+      {xalni}, {terpa}, {raktu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是焦虑的/不安的，关于x2（抽象），在条件x3下
+    notes:
+    - 参见 {xalni}, {terpa}, {raktu}.
+    glosses:
+    - No glosses.

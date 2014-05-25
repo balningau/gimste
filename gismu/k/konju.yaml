@@ -1,6 +1,66 @@
-Word: konju
-Rafsi: kon, ko'u
-Definition: x1 is a cone [shape/form] of material x2 with vertex x3.
-Notes: Also ellipse, ellipsoid (= {konclupa}).  See also {jesni}, {djine}, {sovda},
-  {kojna}, {jganu}.
-Examples: None
+word: konju
+rafsi:
+- kon
+- ko'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cone [shape/form] of material x2 with vertex x3.
+    notes:
+    - Also ellipse, ellipsoid (= {konclupa}).  See also {jesni}, {djine}, {sovda},
+      {kojna}, {jganu}.
+    glosses:
+    - cone
+  de:
+    place structure: x1 ist ein Kegel [Form] aus Material x2 mit Spitze x3
+    notes:
+    - No notes.
+    glosses:
+    - Kegel
+  es:
+    place structure: x1 es un cono (forma) de material x2 con vértice x3
+    notes:
+    - No notes.
+    glosses:
+    - cono
+  ru:
+    place structure: x1 — конус (форма) из материала x2 с вершиной x3
+    notes:
+    - 'Эллипс (коническое сечение): {konclupa} {jesni} (игла [форма, не орудие]),
+      {djine} (кольцо), {sovda} (яйцо), {kojna} (угол [телесный]), {jganu} (угол)'
+    glosses:
+    - x1=конус
+  en-simple:
+    place structure: x1 is a cone of material x2 with vertex x3
+    notes:
+    - No notes.
+    glosses:
+    - a cone
+    - x2=a material of a cone
+    - x3=a cone vertex
+  eo:
+    place structure: x1 estas konuso [formo] el materialo x2 kun vertico x3
+    notes:
+    - 'Ankaŭ: elipso, elipsoido (= {konclupa}).  Vidu ankaŭ {jesni}, {djine}, {sovda},
+      {kojna}, {jganu}.'
+    glosses:
+    - konuso
+  hu:
+    place structure: x1 egy kúp x2 anyagból, x3 csúccsal
+    notes:
+    - '(Lásd még: {jesni}, {djine}, {sovda}, {kojna}, {jganu})'
+    glosses:
+    - kúp
+  ja:
+    place structure: x1 は x2 を頂点とする錐／円錐
+    notes:
+    - ・大意： 錐（すい） ・読み方： コンジュ  ・関連語： {jesni}, {djine}, {sovda}, {kojna}, {jganu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是圆锥性的（形状）/圆锥体，由材料x2做成，具有顶点x3
+    notes:
+    - 椭圆= {konclupa}；参见 {jesni}, {djine}, {sovda}, {kojna}, {jganu}.
+    glosses:
+    - No glosses.

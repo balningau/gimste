@@ -1,5 +1,72 @@
-Word: cokcu
-Rafsi: cko
-Definition: x1 soaks up/absorbs/sucks up x2 from x3 into x4; x1 is an absorbant.
-Notes: See also {panje}, {sakci}, {lacpu}.
-Examples: None
+word: cokcu
+rafsi:
+- cko
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 soaks up/absorbs/sucks up x2 from x3 into x4; x1 is an absorbant.
+    notes:
+    - See also {panje}, {sakci}, {lacpu}.
+    glosses:
+    - soak up
+  de:
+    place structure: x1 saugt x2 von x3 in x4 auf
+    notes:
+    - No notes.
+    glosses:
+    - aufsaugen
+  es:
+    place structure: x1 absorbe/succiona/chupa x2 de x3 en x4
+    notes:
+    - Ver también {renro}.
+    glosses:
+    - absorber
+  ru:
+    place structure: x1 впитывает/поглощает/абсорбирует/всасывает x2 (что) из x3 (откуда)
+      в x4 (куда)
+    notes:
+    - '{panje} (губчатый), {sakci} (всасывать), {lacpu} (тянуть)'
+    glosses:
+    - впитывать
+    - x1=впитывающий
+    - x2=впитываемый
+  en-simple:
+    place structure: x1 soaks up x2 from x3 into x4
+    notes:
+    - No notes.
+    glosses:
+    - an absorber
+    - x2=something absorbed
+    - x3=something absorbed from
+    - x4=something absorbed into
+  eo:
+    place structure: x1 sorbas/suĉas x2-on el x3 en x4-on; x1 estas sorba
+    notes:
+    - Vidu ankaŭ {panje}, {sakci}, {lacpu}.
+    glosses:
+    - sorbi
+  hu:
+    place structure: x1 felszívja/elnyeli/abszorbeálja x2-t x3-ból x4-be
+    notes:
+    - '(Lásd még: {panje}, {sakci}, {lacpu})'
+    glosses:
+    - felszív
+  ja:
+    place structure: x1 は x2 （対象）を x3 （起源）から x4 に吸収する；  x1 は吸収性がある
+    notes:
+    - 「吸収剤」も。 ・大意： 吸収 ・読み方： ショクシュ  ・語呂合わせ： 触手で吸収 ・関連語： {panje}, {sakci}, {lacpu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 absorberar/suger upp x2 från x3 till x4.
+    notes:
+    - mopp/svabb (=grana cokcu), trasa (=cokcu bukfu).
+    glosses:
+    - absorbent
+  zh:
+    place structure: x1吸入/吸吮x2，来自x3，进入x4；x1是吸收剂
+    notes:
+    - 参见 {panje}, {sakci}, {lacpu}.
+    glosses:
+    - No glosses.

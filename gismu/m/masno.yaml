@@ -1,5 +1,62 @@
-Word: masno
-Rafsi: sno
-Definition: x1 is slow/sluggish at doing/being/bringing about x2 (event/state).
-Notes: See also {sutra}.
-Examples: None
+word: masno
+rafsi:
+- sno
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is slow/sluggish at doing/being/bringing about x2 (event/state).
+    notes:
+    - See also {sutra}.
+    glosses:
+    - slow
+  de:
+    place structure: x1 ist langsam/träge/schleppend im Tun/Sein/Bewirken von x2 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - langsam
+  es:
+    place structure: x1 es lento al hacer/realizar despacio x2 (evento)
+    notes:
+    - Ver también {sutra}.
+    glosses:
+    - lento
+  ru:
+    place structure: x1 — медленный/медлительный/неторопливый в действии/осуществлении
+      x2 (событие/состояние)
+    notes:
+    - '{sutra} (быстрый)'
+    glosses:
+    - медленный
+  en-simple:
+    place structure: x1 is slow at doing x2
+    notes:
+    - No notes.
+    glosses:
+    - something slow
+    - x2=something achieved slowly
+  eo:
+    place structure: x1 estas malrapida/malvigla en ago/stato x2 (okazo/stato)
+    notes:
+    - Vidu ankaŭ {sutra}.
+    glosses:
+    - malrapida
+  hu:
+    place structure: x1 lassú x2 véghezvitelében
+    notes:
+    - '(Lásd még: {sutra})'
+    glosses:
+    - lassú
+  ja:
+    place structure: x1 は x2 （事）に関して速度的に遅い／のろい／もたもたする
+    notes:
+    - ・大意： 遅い（速度） ・読み方： マスノ  ・語呂合わせ： 遅いでございますの ・関連語： {sutra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是做/成为x2（事件/状态）是慢的/迟钝的/行动迟缓的
+    notes:
+    - 参见 {sutra}.
+    glosses:
+    - No glosses.

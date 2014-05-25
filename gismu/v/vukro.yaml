@@ -1,5 +1,65 @@
-Word: vukro
-Rafsi: vur, vu'o
-Definition: x1 reflects Ukrainian language/culture/nationality in aspect x2.
-Notes: See also {slovo}, {softo}.
-Examples: None
+word: vukro
+rafsi:
+- vur
+- vu'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Ukrainian language/culture/nationality in aspect
+      x2.
+    notes:
+    - See also {slovo}, {softo}.
+    glosses:
+    - Ukrainian
+  de:
+    place structure: x1 repräsentiert die ukrainische Sprache/Kultur/Nationalität
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - ukrainisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma ucranio/ucraniano en aspecto
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - ucraniano
+  ru:
+    place structure: x1 — украинский в аспекте x2
+    notes:
+    - '{slovo} (славянский), {softo} (советский)'
+    glosses:
+    - x1=украинский
+  en-simple:
+    place structure: x1 is Ukrainian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Ukrainian
+    - x2=a Ukrainian aspect
+  eo:
+    place structure: x1 montras ukrainan lingvon/kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {slovo}, {softo}.
+    glosses:
+    - ukrainan
+  hu:
+    place structure: x1 ukrán nyelvet/kultúrát/nemzetiséget tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {slovo}, {softo})'
+    glosses:
+    - ukrán
+  ja:
+    place structure: x1 は x2 （性質面）に関してウクライナ系（言語／文化／民族）
+    notes:
+    - ・大意： ウクライナ ・読み方： ヴクロ  ・関連語： {slovo}, {softo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于乌克兰的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {slovo}, {softo}.
+    glosses:
+    - No glosses.

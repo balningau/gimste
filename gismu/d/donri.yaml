@@ -1,6 +1,74 @@
-Word: donri
-Rafsi: dor, do'i
-Definition: x1 is the daytime of day x2 at location x3; (adjective:) x1 is diurnal
-  (vs. nocturnal).
-Notes: See also {nicte}, {djedi}, {tcika}.
-Examples: None
+word: donri
+rafsi:
+- dor
+- do'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the daytime of day x2 at location x3; (adjective:) x1 is
+      diurnal (vs. nocturnal).
+    notes:
+    - See also {nicte}, {djedi}, {tcika}.
+    glosses:
+    - daytime
+  de:
+    place structure: x1 ist die Tageszeit [helle Periode] von ganzem Tag x2 in Ort
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Tag
+  es:
+    place structure: x1 es el día/periodo diurno de día x2 en localidad x3
+    notes:
+    - Ver también {nicte},  {murse},  {djedi}.
+    glosses:
+    - diurno
+  ru:
+    place structure: x1 — дневное время суток x2 в местности x3
+    notes:
+    - '{nicte} (ночь), {djedi} (сутки), {tcika} (время [события])'
+    glosses:
+    - x1=день (дневное время)
+  en-simple:
+    place structure: x1 is daytime of day x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a daytime
+    - x2=a day with a daytime
+    - x3=a location with a daytime
+  eo:
+    place structure: x1 estas tago/sunluma tempo de tago x2 en loko x3; (adjektivo:)
+      x1 estas taga (nenokta)
+    notes:
+    - Vidu ankaŭ {nicte}, {djedi}, {tcika}.
+    glosses:
+    - tago
+  hu:
+    place structure: x1 a nappali időszaka x2 napnak, x3 helyen
+    notes:
+    - '(Lásd még: {nicte}, {djedi}, {tcika})'
+    glosses:
+    - nappal
+  ja:
+    place structure: x1 は x2 （日）・ x3 （所）の昼間／日中；  x1 は昼行性
+    notes:
+    - ・大意： 昼間 ・読み方： ドンリ  ・語呂合わせ： どんより昼間 ・関連語： {nicte}, {djedi}, {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är på dagtid av dag x2 på plats x3; x1 dags-/daglig (i motsats
+      till nattlig).
+    notes:
+    - No notes.
+    glosses:
+    - daglig (i motsats till nattlig)
+    - dagtid
+  zh:
+    place structure: x1是x2天的白天/白昼，位于地点x3；x1是日间的/白天的
+    notes:
+    - 参见 {nicte}, {djedi}, {tcika}.
+    glosses:
+    - No glosses.

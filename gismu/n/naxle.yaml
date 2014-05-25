@@ -1,5 +1,66 @@
-Word: naxle
-Rafsi: nax, xle
-Definition: x1 is a canal/channel to x2 from x3 with route x4.
-Notes: $x_2$/$x_3$ may be unordered.  See also {pluta}, {rirxe}, {klaji}, {dargu}.
-Examples: None
+word: naxle
+rafsi:
+- nax
+- xle
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a canal/channel to x2 from x3 with route x4.
+    notes:
+    - x2/x3 may be unordered.  See also {pluta}, {rirxe}, {klaji}, {dargu}.
+    glosses:
+    - canal
+  de:
+    place structure: x1 ist ein Kanal/Durchgang zu x2 von x3 mit Route x4
+    notes:
+    - No notes.
+    glosses:
+    - Kanal
+  es:
+    place structure: x1 es un canal a x2 desde x3 con ruta x4
+    notes:
+    - Ver también {pluta},  {klaji},  {dargu}.
+    glosses:
+    - canal
+  ru:
+    place structure: x1 — канал, ведущий к x2 от x3 по маршруту x4
+    notes:
+    - x2/x3 могут быть не упорядочены {pluta} (путь), {rirxe} (река), {klaji} (улица),
+      {dargu} (дорога)
+    glosses:
+    - канал
+    - x4=маршрут канала
+  en-simple:
+    place structure: x1 is a channel or canal to x2 from x3 with route x4
+    notes:
+    - No notes.
+    glosses:
+    - a channel
+    - x2=a channel destination
+    - x3=a channel origin
+    - x4=a channel route
+  eo:
+    place structure: x1 estas kanalo al x2 elde x3 tra x4
+    notes:
+    - x2/x3 povas esti neordigitaj.  Vidu ankaŭ {pluta}, {rirxe}, {klaji}, {dargu}.
+    glosses:
+    - kanalo
+  hu:
+    place structure: x1 egy csatorna/szoros x2 és x3 között, x4 útvonalon
+    notes:
+    - '(Lásd még: {pluta}, {rirxe}, {klaji}, {dargu})'
+    glosses:
+    - csatorna
+  ja:
+    place structure: x1 は x2 （終点）・ x3 （起点）・ x4 （経路）の運河／海峡
+    notes:
+    - ・大意： 運河 ・読み方： ナクゥルェ  ・関連語： {pluta}, {rirxe}, {klaji}, {dargu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是管道，通往x2，来自x3，通过路径x4
+    notes:
+    - x2/x3可能是无相对顺序的；参见 {pluta}, {rirxe}, {klaji}, {dargu}.
+    glosses:
+    - No glosses.

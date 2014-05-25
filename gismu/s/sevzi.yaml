@@ -1,5 +1,63 @@
-Word: sevzi
-Rafsi: sez, se'i
-Definition: x1 is a self/ego/id/identity-image of x2.
-Notes: See also cmavo list {mi}, {prenu}, {menli}, {jgira}.
-Examples: None
+word: sevzi
+rafsi:
+- sez
+- se'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a self/ego/id/identity-image of x2.
+    notes:
+    - See also cmavo list {mi}, {prenu}, {menli}, {jgira}.
+    glosses:
+    - self
+  de:
+    place structure: x1 ist ein Selbst/Ego/Identität/Selbstbild von x2
+    notes:
+    - No notes.
+    glosses:
+    - Selbst
+  es:
+    place structure: x1 es el ego/yo/sí mismo de x2
+    notes:
+    - No notes.
+    glosses:
+    - mismo
+  ru:
+    place structure: x1 — собственная личность/самосознание/представление о себе/эго/«я»
+      x2 (кого)
+    notes:
+    - 'Также: сам {mi}, {prenu} (персона), {menli} (разум), {jgira} (гордиться)'
+    glosses:
+    - эго
+  en-simple:
+    place structure: x1 is an ego or self of x2
+    notes:
+    - No notes.
+    glosses:
+    - an ego
+    - x2=something with a ego
+  eo:
+    place structure: x1 estas memo de x2
+    notes:
+    - Vidu ankaŭ cmavo {mi}, {prenu}, {menli}, {jgira}.
+    glosses:
+    - mem
+  hu:
+    place structure: x1 egy/az énje/egója/önképe x2-nek
+    notes:
+    - '(Lásd még: {prenu}, {menli}, {jgira})'
+    glosses:
+    - én
+  ja:
+    place structure: x1 は x2 （者）の自己／自我／自分のイメージ
+    notes:
+    - ・大意： 自己 ・読み方： セヴズィ  ・関連語： {mi}, {prenu}, {menli}, {jgira}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的自我/自身/自我认知
+    notes:
+    - 参见 {mi}, {prenu}, {menli}, {jgira}.
+    glosses:
+    - No glosses.

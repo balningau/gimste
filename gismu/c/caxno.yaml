@@ -1,6 +1,86 @@
-Word: caxno
-Rafsi: cax
-Definition: x1 is shallow in extent in direction/property x2 away from reference point
-  x3 by standard x4.
-Notes: See also {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}.
-Examples: None
+word: caxno
+rafsi:
+- cax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is shallow in extent in direction/property x2 away from reference
+      point x3 by standard x4.
+    notes:
+    - See also {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}.
+    glosses:
+    - shallow
+  jbo:
+    place structure: x1 cmalu x2 noi farna x1 boi x3 ku'o x4
+    notes:
+    - No notes.
+    glosses:
+    - caxno
+  de:
+    place structure: x1 ist seicht/flach in Richtung x2 von Referenzpunkt x3 aus gesehen
+      gemäß Standard x4
+    notes:
+    - No notes.
+    glosses:
+    - seicht
+  es:
+    place structure: x1 es poco profundo/superficial en dirección x2 desde punto de
+      referencia x3 según estándar x4
+    notes:
+    - Ver también {condi},  {tordu},  {jarki},  {cinla}.
+    glosses:
+    - poco profundo
+  ru:
+    place structure: x1 — мелкий/неглубокий/{поверхностный} в направлении/свойстве
+      x2 от точки отсчета x3, относительно стандарта x4
+    notes:
+    - '{condi} (глубокий), {tordu} (короткий), {jarki} (узкий), {cinla} (тонкий),
+      {cmalu} (маленький), {jarki} (узкий), {jmifa} (мель)'
+    glosses:
+    - неглубокий
+  en-simple:
+    place structure: x1 is shallow in direction x2 from reference point x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something shallow
+    - x2=a direction of shallowness
+    - x3=a shallowness reference point
+    - x4=a standard of shallowness
+  eo:
+    place structure: x1 estas malprofunda laŭ direkto/eco x2 disde referenca punkto
+      x3 laŭ normo x4
+    notes:
+    - Vidu ankaŭ {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}.
+    glosses:
+    - malprofunda
+  hu:
+    place structure: x1 sekély/lapos x2 tulajdonságban/irányban, x3 referenciapontból,
+      x4 mérce szerint
+    notes:
+    - '(Lásd még: {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa})'
+    glosses:
+    - sekély
+  ja:
+    place structure: x1 は x2 （方向／性質）に関して x3 （照合枠）・ x4 （基準）で浅い／浅はか／薄い
+    notes:
+    - ・大意： 浅い ・読み方： シャクゥノ  ・語呂合わせ： cian(浅),shallow　尺の浅い ・関連語： {condi}, {tordu}, {jarki},
+      {cinla}, {cmalu}, {jarki}, {jmifa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är grund i utsträckning i riktning/egenskap x2 bortifrån referenspunkt
+      x3 enligt standard x4.
+    notes:
+    - No notes.
+    glosses:
+    - grund (liten utsträckning i en dimension)
+    - ytlig (liten utsträckning i en dimension)
+    - x1=grund (något som är grunt)
+  zh:
+    place structure: x1是浅的，在方向/性质x2上，基于参考点x3，依据测量标准x4
+    notes:
+    - 参见 {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}.
+    glosses:
+    - No glosses.

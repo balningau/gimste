@@ -1,7 +1,82 @@
-Word: djedi
-Rafsi: dje, dei
-Definition: x1 is x2 full days in duration (default is 1 day) by standard x3; (adjective:)
-  x1 is diurnal.
-Notes: Today (= {cabdei}); tomorrow (= {bavlamdei}); yesterday (= {prulamdei}).  See
-  also {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
-Examples: None
+word: djedi
+rafsi:
+- dje
+- dei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 full days in duration (default is 1 day) by standard
+      x3; (adjective:) x1 is diurnal.
+    notes:
+    - Today (= {cabdei}); tomorrow (= {bavlamdei}); yesterday (= {prulamdei}).  See
+      also {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
+    glosses:
+    - full day
+  de:
+    place structure: 'x1 hat eine Dauer von x2 (Default: 1) ganzen Tagen) gemäß Standard
+      x3'
+    notes:
+    - No notes.
+    glosses:
+    - ganzer Tag
+  es:
+    place structure: x1 dura x2 días (1 por defecto) segun estándar x3
+    notes:
+    - Ver también {dinri}.
+    glosses:
+    - día
+  ru:
+    place structure: x1 длится x2 суток (по умолчанию 1 сутки) по стандарту x3
+    notes:
+    - 'Прилагательное: x1 — суточный; сегодня: {cabdei}; завтра: {bavlamdei}; вчера:
+      {prulamdei} {donri} (день [время суток]), {detri} (дата), {jeftu} (неделя),
+      {masti} (месяц [промежуток времени]), {nanca} (год), {nicte} (ночь), {tcika}
+      (время [события])'
+    glosses:
+    - сутки
+  en-simple:
+    place structure: x1 is x2 full days long
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in full days
+    - x2=a number of full days
+    - x3=a standard defining a full day
+  eo:
+    place structure: x1 daŭras x2 tagnoktojn (defaŭlte 1 tagnokto) laŭ normo x3; (adjektivo:)
+      x1 estas tagnokta
+    notes:
+    - Hodiaŭ (= {cabdei}); morgaŭ (= {bavlamdei}); hieraŭ (= {prulamdei}).  Vidu ankaŭ
+      {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
+    glosses:
+    - tagnokto
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] teljes nap, x3 mérce szerint
+    notes:
+    - '(Lásd még: {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika})'
+    glosses:
+    - nap (időtartam)
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）の満日
+    notes:
+    - ・大意： 日 ・読み方： ヂェディ  ・関連語： {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte},
+      {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 dygn/hela dagar (1 om inget annat anges) enligt standard
+      x3. x1 är dags-/daglig.
+    notes:
+    - Idag (= {cabdei}); imorgon (= {bavlamdei}); igår (= {prulamdei}). Se även {donri},
+      {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
+    glosses:
+    - dag (heldag/dygn)
+    - dygn
+  zh:
+    place structure: 在时间长度上，x1是x2天（默认1），基于标准x3；x1是一日的
+    notes:
+    - 昨天= {prulamdei}，今天= {cabdei}，明天= {bavlamdei}；参见 {donri}, {detri}, {jeftu}, {masti},
+      {nanca}, {nicte}, {tcika}.
+    glosses:
+    - No glosses.

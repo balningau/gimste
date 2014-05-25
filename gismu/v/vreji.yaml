@@ -1,6 +1,70 @@
-Word: vreji
-Rafsi: rej, vei
-Definition: x1 is a record of x2 (data/facts/du'u) about x3 (object/event) preserved
-  in medium x4.
-Notes: See also {sorcu}, {datni}, {papri}.
-Examples: None
+word: vreji
+rafsi:
+- rej
+- vei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a record of x2 (data/facts/du'u) about x3 (object/event)
+      preserved in medium x4.
+    notes:
+    - See also {sorcu}, {datni}, {papri}.
+    glosses:
+    - record
+  de:
+    place structure: x1 ist eine Aufzeichnung von x2 (Daten/Fakten/du'u) über x3 (Objekt/Ereignis)
+      erhalten in Medium x4
+    notes:
+    - No notes.
+    glosses:
+    - Aufzeichnung
+  es:
+    place structure: x1 es un registro/grabación de x2 conservado en medio x3
+    notes:
+    - No notes.
+    glosses:
+    - registro
+  ru:
+    place structure: 'x1 — запись x2 (чего: данных/фактов/{du''u}) о x3 (объекте/событии)
+      на носителе x4'
+    notes:
+    - '{sorcu} (запас), {datni} (данные [информация]), {papri} (страница)'
+    glosses:
+    - запись (записанное)
+    - x2=записанные данные
+  en-simple:
+    place structure: x1 is a record of x2 about x3 in medium x4
+    notes:
+    - No notes.
+    glosses:
+    - a record
+    - x2=something recorded
+    - x3=a subject of a recording
+    - x4=a medium of a recording
+  eo:
+    place structure: x1 estas registro de x2 (datenoj/faktoj/du'u) pri x3 (objekto/okazo)
+      konservita en medio x4
+    notes:
+    - Vidu ankaŭ {sorcu}, {datni}, {papri}.
+    glosses:
+    - registro
+  hu:
+    place structure: x1 egy felvétel/napló/akta x2 adatokkal/tényekkel/tartalommal
+      x3 eseményről/tárgyról/személyről, x4 adathordozón
+    notes:
+    - '(Lásd még: {sorcu}, {datni}, {papri})'
+    glosses:
+    - felvétel
+  ja:
+    place structure: x1 は x2 （情報／事実／命題）・ x3 （題目）・ x4 （保存媒体）の記録
+    notes:
+    - ・大意： 記録 ・読み方： ヴレジ  ・関連語： {sorcu}, {datni}, {papri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2（数据/事实/du'u）的记录/记载，关于x3（物/事），保存于媒介x4上
+    notes:
+    - 参见 {sorcu}, {datni}, {papri}.
+    glosses:
+    - No glosses.

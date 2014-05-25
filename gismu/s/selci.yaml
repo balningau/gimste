@@ -1,7 +1,68 @@
-Word: selci
-Rafsi: sle
-Definition: x1 is a cell/atom/unit/molecule of x2; x1 is an indivisible, most basic
-  subunit of x2.
-Notes: ($x_2$ generally has mass nature); (cf. {kantu} for properties, activities;
-  {ratni}, {gradu})
-Examples: None
+word: selci
+rafsi:
+- sle
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cell/atom/unit/molecule of x2; x1 is an indivisible,
+      most basic subunit of x2.
+    notes:
+    - (x2 generally has mass nature); (cf. {kantu} for properties, activities; {ratni},
+      {gradu})
+    glosses:
+    - cell
+  de:
+    place structure: x1 ist eine Zelle/ein Atom/Molekül/eine Einheit von x2; x1 ist
+      eine unteilbare, grundlegendste Untereinheit von x2
+    notes:
+    - No notes.
+    glosses:
+    - Zelle
+  es:
+    place structure: x1 es una célula/átomo/unidad básica/molécula de x2
+    notes:
+    - No notes.
+    glosses:
+    - célula
+  ru:
+    place structure: x1 — частица/клетка/молекула/{атом} x2 (чего); x1 — неделимая,
+      основная составляющая частица x2
+    notes:
+    - x2 обычно описывается как масса {kantu} (квант) для свойств/деятельности; {ratni}
+      (атом), {gradu} (градус)
+    glosses:
+    - x1=клетка (биол.)/атом
+  en-simple:
+    place structure: x1 is a cell or atom of x2
+    notes:
+    - No notes.
+    glosses:
+    - something indivisible
+    - x2=something with an indivisible peice
+  eo:
+    place structure: x1 estas ĉelo/atomo/unuo/molekulo de x2; x1 estas nedividebla,
+      plej baza subunuo de x2
+    notes:
+    - (x2 ĝenerale estas kolektiveca); (kp. kantu por ecoj, agoj; ratni, gradu)
+    glosses:
+    - ĉelo
+  hu:
+    place structure: x1 egy sejtje/atomja/molekulája/egysége/[legalapvetőbb, oszthatatlannak
+      vett része] x2-nek
+    notes:
+    - '(Lásd még: {kantu}, {ratni}, {gradu})'
+    glosses:
+    - sejt
+  ja:
+    place structure: x1 は x2 （本体）の細胞／分子／原子／最小単位
+    notes:
+    - ・大意： 分子 ・読み方： セルゥシ  ・語呂合わせ： セル、室 ・関連語： {kantu}; {ratni}, {gradu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的基本组成单元 （x1通常不可见，如：细胞/原子等）
+    notes:
+    - x2通常具有团体属性；参见 {kantu}, {ratni}, {gradu}
+    glosses:
+    - No glosses.

@@ -1,5 +1,61 @@
-Word: vlile
-Rafsi: vil
-Definition: x1 is an event/state/act of violence.
-Notes: See also {suksa}, {jursa}.
-Examples: None
+word: vlile
+rafsi:
+- vil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an event/state/act of violence.
+    notes:
+    - See also {suksa}, {jursa}.
+    glosses:
+    - violent
+  de:
+    place structure: x1 ist ein Ereignis/Zustand/Akt der Gewalt
+    notes:
+    - No notes.
+    glosses:
+    - gewaltsam
+  es:
+    place structure: x1 (evento) es violento
+    notes:
+    - Ver también {suksa},  {jursa}.
+    glosses:
+    - violento
+  ru:
+    place structure: x1 (событие/состояние/действие) — бурное/буйное/неистовое/яростное
+      (потенциальная опасность)
+    notes:
+    - '{suksa} (внезапный), {jursa} (суровый)'
+    glosses:
+    - x1=бурный
+  en-simple:
+    place structure: x1 is violent
+    notes:
+    - No notes.
+    glosses:
+    - a violent act
+  eo:
+    place structure: x1 estas perforta okazo/stato/ago
+    notes:
+    - Vidu ankaŭ {suksa}, {jursa}.
+    glosses:
+    - perforto
+  hu:
+    place structure: x1 erőszakos cselekmény/állapot/esemény
+    notes:
+    - '(Lásd még: {suksa}, {jursa})'
+    glosses:
+    - erőszak
+  ja:
+    place structure: x1 （事／行為）は暴力／暴力的
+    notes:
+    - ・大意： 暴力 ・読み方： ヴルィルェ  ・関連語： {suksa}, {jursa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（时间/状态）是暴力的
+    notes:
+    - 参见 {suksa}, {jursa}.
+    glosses:
+    - No glosses.

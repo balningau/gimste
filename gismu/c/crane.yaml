@@ -1,7 +1,78 @@
-Word: crane
-Rafsi: cra
-Definition: x1 is anterior/ahead/forward/(in/on) the front of x2 which faces/in-frame-of-reference
-  x3.
-Notes: 'Also: $x_3$ is the standard of orientation for $x_2$. See also {sefta}, {flira},
-  {trixe}, {mlana}, {pritu}, {zunle}.'
-Examples: None
+word: crane
+rafsi:
+- cra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is anterior/ahead/forward/(in/on) the front of x2 which faces/in-frame-of-reference
+      x3.
+    notes:
+    - 'Also: x3 is the standard of orientation for x2. See also {sefta}, {flira},
+      {trixe}, {mlana}, {pritu}, {zunle}.'
+    glosses:
+    - front (anterior)
+  de:
+    place structure: x1 ist vor/weiter vorne als x2 welches nach x3 hin ausgerichtet
+      ist/in Bezugssystem x3
+    notes:
+    - No notes.
+    glosses:
+    - vor
+  es:
+    place structure: x1 está adelante/delante/frente/enfrente de x2 que mira hacia
+      x3
+    notes:
+    - Ver también {trixe}.
+    glosses:
+    - adelante
+  ru:
+    place structure: x1 находится перед x2 в системе отсчета x3
+    notes:
+    - x3 задает ориентацию x2 {sefta} (поверхность), {flira} (лицо), {trixe} (сзади),
+      {mlana} (сбоку), {pritu} (справа), {zunle} (слева)
+    glosses:
+    - x1=перед
+  en-simple:
+    place structure: x1 is in front of x2 facing x3
+    notes:
+    - No notes.
+    glosses:
+    - something in front
+    - x2=something to which something is in front
+    - x3=a reference frame for being in front
+  eo:
+    place structure: x1 estas antaŭ/fronte de x2 kiu alfrontas/en referenckadro x3
+    notes:
+    - 'Ankaŭ: x3 estas la normo pri orientiĝo por x2. Vidu ankaŭ {sefta}, {flira},
+      {trixe}, {mlana}, {pritu}, {zunle}.'
+    glosses:
+    - fronta
+  hu:
+    place structure: x1 térben előtte/az elején van x2-nek, x3 irányban/vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {sefta}, {flira}, {trixe}, {mlana}, {pritu}, {zunle})'
+    glosses:
+    - elülső
+  ja:
+    place structure: x1 は x2 （比較対象）・ x3 （照合枠）の前方／前側
+    notes:
+    - ・大意： 前方 ・読み方： シラネ  ・語呂合わせ： 前方知らね ・関連語： {sefta}, {flira}, {trixe}, {mlana}, {pritu},
+      {zunle}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är framsidan av/främre av/fram/framför/framåt/framöver/framom/(av/i)
+      x2 vilken är vänd mot/är i referensram x3.
+    notes:
+    - 'Även: x3 är standard för orientering i rummet för x2.'
+    glosses:
+    - framför
+    - framsida
+  zh:
+    place structure: x1位于x2的前面/前方，面对方向/参考系为x3
+    notes:
+    - x3是x2的基准方向；参见 {sefta}, {flira}, {trixe}, {mlana}, {pritu}, {zunle}.
+    glosses:
+    - No glosses.

@@ -1,11 +1,121 @@
-Word: canja
-Rafsi: caj
-Definition: x1 exchanges/trades/barters commodity x2 for x3 with x4; x1, x4 is a trader/merchant/businessman.
-Notes: Also (adjective:) $x_1$, $x_2$, $x_4$ is/are commercial (better expressed as
-  ka canja, {kamcanja}).  $x_2$/$x_3$ may be a specific object, a commodity (mass),
-  an event (possibly service), or a property; pedantically, for objects/commodities,
-  this is sumti-raising from ownership of the object/commodity (= {posycanja} for
-  unambiguous semantics); (cf. {dunda}, {friti}, {vecnu}, {zarci}, {jdini}, {pleji},
-  {jdima}, {jerna}, {kargu}; see note at {jdima} on cost/price/value distinction,
-  {banxa}, {cirko}, {dunda}, {janta}, {kargu}, {prali}, {sfasa}, {zivle})
-Examples: None
+word: canja
+rafsi:
+- caj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 exchanges/trades/barters commodity x2 for x3 with x4; x1,
+      x4 is a trader/merchant/businessman.
+    notes:
+    - Also (adjective:) x1, x2, x4 is/are commercial (better expressed as ka canja,
+      {kamcanja}).  x2/x3 may be a specific object, a commodity (mass), an event (possibly
+      service), or a property; pedantically, for objects/commodities, this is sumti-raising
+      from ownership of the object/commodity (= {posycanja} for unambiguous semantics);
+      (cf. {dunda}, {friti}, {vecnu}, {zarci}, {jdini}, {pleji}, {jdima}, {jerna},
+      {kargu}; see note at {jdima} on cost/price/value distinction, {banxa}, {cirko},
+      {dunda}, {janta}, {kargu}, {prali}, {sfasa}, {zivle})
+    glosses:
+    - exchange
+    - trade (give in exchange for)
+    - x1=trader
+    - x2=commodity (item)
+    - x3=expense
+  jbo:
+    place structure: joi gi x1 cpacu x3 boi x4 gi x4 cpacu x2 boi x1
+    notes:
+    - No notes.
+    glosses:
+    - canja
+  de:
+    place structure: x1 tauscht Ware x2 gegen x3 von x4; x1 ertauscht sich bei x4
+      x2 gegen x3; x1 und x4 sind Händler/Handelstreibende/Kaufleute
+    notes:
+    - No notes.
+    glosses:
+    - tauschen
+  es:
+    place structure: x1 canjea/intercambia x2 por x3 con x4
+    notes:
+    - No notes.
+    glosses:
+    - canjear
+  ru:
+    place structure: x1 обменивает товар/ценности x2 на x3 c контрагентом x4; x1/x4
+      — торговцы/предприниматели/бизнесмены
+    notes:
+    - 'Прилагательное: x1, x2, x4 — коммерческое (лучше {ka} {canja}, {kamcanja};
+      x2/x3 могут быть конкретным объектом, товаром (масса), событием (напр. услуга)
+      или свойством; строго говоря, для объектов/товаров мы имеем дело с подъемом
+      sumti от владения объектом/товаром: {posycanja} для однозначной семантики) {dunda}
+      (давать), {friti} (предлагать), {vecnu} (продавать), {zarci} (рынок), {jdini}
+      (деньги), {pleji} (платить), {jdima} (цена), {jerna} (зарабатывать), {kargu}
+      (дорогой [дорогостоящий]); см. примечание к {jdima} (цена) о различии стоимости/цены/ценности,
+      {banxa} (банк), {cirko} (терять), {dunda} (давать), {janta} (счет [к оплате]),
+      {kargu} (дорогой [дорогостоящий]), {prali} (прибыль), {sfasa} (наказывать),
+      {zivle} (инвестировать)'
+    glosses:
+    - обменивать
+    - x1=обменивающий
+  en-simple:
+    place structure: x1 trades x2 for x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a trader
+    - x2=something traded
+    - x3=something traded for
+    - x4=something traded with
+  eo:
+    place structure: x1 interŝangas varon x2 kontraŭ x3 kun x4; x1, x4 estas komercisto/negocisto
+    notes:
+    - 'Ankaŭ: (adjektive:) x1, x2, x4 estas komercaj (pli bone esprimebla per ka canja,
+      kamcanja).  x2/x3 povas esti specifa objekto, varo (amaso), okazo (eble servo)
+      aŭ kvalito; pedante, pri objektoj/varoj, tio estas sumti-levado el posedo de
+      la objekto/varo (= posycanja por neambigua {semantiko}); (kp. dunda, friti,
+      vecnu, zarci, jdini, pleji, jdima, jerna, kargu; vidu noton ĉe jdima pri distingo
+      inter kosto/prezo/valoro, banxa, cirko, dunda, janta, kargu, prali, sfasa, zivle)'
+    glosses:
+    - interŝanĝi
+  hu:
+    place structure: x1 elcseréli x2 árucikket/szolgáltatást x3-ért x4 kereskedővel
+    notes:
+    - 'Lásd a {jdima} szóhoz írt megjegyzést (Lásd még: {dunda}, {friti}, {vecnu},
+      {zarci}, {jdini}, {pleji}, {jdima}, {jerna}, {kargu}, {banxa}, {cirko}, {dunda},
+      {janta}, {kargu}, {prali}, {sfasa}, {zivle})'
+    glosses:
+    - elcserél
+  ja:
+    place structure: x1 は x2 （差し出す対象）を x3 （受け取る対象）と、 x4 と交換する；  x1 ・ x4 は貿易業者／投機家／相場師／バーター
+    notes:
+    - ・大意： 交換 ・読み方： シャンジャ  ・語呂合わせ： exchage ・関連語： {dunda}, {friti}, {vecnu}, {zarci},
+      {jdini}, {pleji}, {jdima}, {jerna}, {kargu}; {jdima}, {banxa}, {cirko}, {dunda},
+      {janta}, {kargu}, {prali}, {sfasa}, {zivle}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 byter/utbyter/växlar/handlar vara x2 för x3 med x4; x1, x4
+      är en handlare/köpman/affärsman.
+    notes:
+    - x2/x3 kan vara ett specifikt objekt, en vara (massa), en händelse (möjligen
+      en tjänst), eller en egenskap;
+    - för att vara pedantisk så vad gäller objekt/varor, så är detta sumti-höjande
+      från ägandet av objektet/varan.
+    glosses:
+    - affärsman
+    - byta
+    - byteshandla
+    - handla (handel)
+    - köpman
+    - utbyta (handel)
+    - x1=handlare
+    - x2=vara (handelsvara)
+    - x3=kostnad (för handelsvara)
+  zh:
+    place structure: x1 用x2交换/交易x3，交易的另一方为x4
+    notes:
+    - x2/x3可以指物品/商品/事件（服务）/性质等；具体来说，涉及到所有权时，对于物品/商品的交换物来说，可用 {posycanja} ；参见 {dunda},
+      {friti}, {vecnu}, {zarci}, {jdini}, {pleji}, {jdima}, {jerna}, {kargu}, {banxa},
+      {cirko}, {dunda}, {janta}, {kargu}, {prali}, {sfasa}, {zivle};另可参考{jdima}的备注
+    glosses:
+    - No glosses.

@@ -1,5 +1,67 @@
-Word: penmi
-Rafsi: pen, pe'i
-Definition: x1 meets/encounters x2 at/in location x3.
-Notes: See also {jorne}, {jikca}, {pencu}.
-Examples: None
+word: penmi
+rafsi:
+- pen
+- pe'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 meets/encounters x2 at/in location x3.
+    notes:
+    - See also {jorne}, {jikca}, {pencu}.
+    glosses:
+    - meet
+  de:
+    place structure: x1 trifft/begegnet x2 an Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - treffen
+  es:
+    place structure: x1 encuentra/se encuentra con x2 en x3
+    notes:
+    - Ver también {cirko}.
+    glosses:
+    - encontrar
+  ru:
+    place structure: x1 встречает/встречается с x2 в x3 (где)
+    notes:
+    - '{jorne} (соединенный), {jikca} (общаться [социально взаимодействовать]), {pencu}
+      (трогать)'
+    glosses:
+    - встречаться
+    - x1=встречающийся
+    - x2=тот,  с кем встречаются
+    - x3=место встречи
+  en-simple:
+    place structure: x1 encounters or meets x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - an encounterer
+    - x2=something encountered
+    - x3=a location of an encounter
+  eo:
+    place structure: x1 renkontas x2-on en loko x3
+    notes:
+    - Vidu ankaŭ {jorne}, {jikca}, {pencu}.
+    glosses:
+    - renkonti
+  hu:
+    place structure: x1 találkozik x2-vel x3 helyen
+    notes:
+    - '(Lásd még: {jorne}, {jikca}, {pencu})'
+    glosses:
+    - találkozik
+  ja:
+    place structure: x1 は x2 に x3 （所）で会う
+    notes:
+    - ・大意： 会う ・読み方： ペンミ  ・関連語： {jorne}, {jikca}, {pencu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1遇到/偶遇x2，在地点/位置x3
+    notes:
+    - 参见 {jorne}, {jikca}, {pencu}.
+    glosses:
+    - No glosses.

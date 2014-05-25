@@ -1,5 +1,82 @@
-Word: pluka
-Rafsi: puk, pu'a
-Definition: x1 (event/state) seems pleasant to/pleases x2 under conditions x3.
-Notes: See also {rigni}, cmavo list {pu'a}, {melbi}, {nelci}, {prami}.
-Examples: None
+word: pluka
+rafsi:
+- puk
+- pu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) seems pleasant to/pleases x2 under conditions
+      x3.
+    notes:
+    - See also {rigni}, cmavo list {pu'a}, {melbi}, {nelci}, {prami}.
+    glosses:
+    - pleasant
+    - please (give pleasure)
+  de:
+    place structure: x1 (Ereignis/Zustand) ist angenehm/wohltuend/erfreulich für x2
+      unter Bedingungen x3; x1 erfreut/gefällt x2
+    notes:
+    - No notes.
+    glosses:
+    - angenehm
+  es:
+    place structure: x1 (evento) agrada/place/gusta a x2
+    notes:
+    - No notes.
+    glosses:
+    - agradar
+  ru:
+    place structure: x1 (событие/состояние) представляется приятным/доставляет удовольствие/угождает/нравится
+      x2 (кому) в условиях x3
+    notes:
+    - '{rigni} (отвратительный), {pu''a}, {melbi} (красивый), {nelci} (любить [предпочитать]),
+      {prami} (любить [кого-либо])'
+    glosses:
+    - приятный
+    - x2=кому приятно
+  en-simple:
+    place structure: x1 pleases x2
+    notes:
+    - No notes.
+    glosses:
+    - pleasant
+    - x1=something pleasant
+    - x2=something pleased
+    - x3=a condition of pleasure
+  eo:
+    place structure: x1 (okazo/stato) plaĉas/estas agrabla/ĉarma al x2 sub kondiĉoj
+      x3
+    notes:
+    - Vidu ankaŭ {rigni}, cmavo {pu'a}, {melbi}, {nelci}, {prami}.
+    glosses:
+    - plaĉi
+  hu:
+    place structure: x1 esemény/állapot tetszik/örömet okoz x2-nek, x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {rigni}, {melbi}, {nelci}, {prami})'
+    glosses:
+    - tetszik
+  ja:
+    place structure: x1 （事）は x2 にとって、 x3 （条件）のもと快い／心地良い
+    notes:
+    - ・大意： 快い ・読み方： プルゥカ  ・語呂合わせ： 心地よいぷるぷるか ・関連語： {rigni}, {pu'a}, {melbi}, {nelci},
+      {prami}
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 làm x2 vui lòng dưới điều kiện x3
+    notes:
+    - No notes.
+    glosses:
+    - làm vừa lòng
+    - vừa ý
+    - x1=sự kiện hoặc trạng thái
+    - x2=người cảm nhận
+    - x3=điều kiện
+  zh:
+    place structure: x1 （事件）让 x2（观察者） 在条件 x3下满意
+    notes:
+    - 参见{rigni}, cmavo list {pu'a}, {melbi}, {nelci}, {prami}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: nakni
-Rafsi: nak
-Definition: x1 is a male/buck of species x2 evidencing masculine trait(s) x3 (ka);
-  x1 is masculine.
-Notes: See also {fetsi}, {bersa}.
-Examples: None
+word: nakni
+rafsi:
+- nak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a male/buck of species x2 evidencing masculine trait(s)
+      x3 (ka); x1 is masculine.
+    notes:
+    - See also {fetsi}, {bersa}.
+    glosses:
+    - male
+  de:
+    place structure: x1 ist männlich/ein Männchen von Spezies/Art x2 und weist männliche
+      Charakterzüge x3 (ka) auf; x1 ist männlich
+    notes:
+    - No notes.
+    glosses:
+    - männlich
+  es:
+    place structure: x1 es un macho/varón de especie x2 con rasgos masculinos x3
+    notes:
+    - No notes.
+    glosses:
+    - macho
+  ru:
+    place structure: x1 — самец вида x2, проявляющий мужские признаки (признак) x3
+      ({ka})
+    notes:
+    - 'прилагательное: x1 — мужской, мужественный {fetsi} (самка), {bersa} (сын)'
+    glosses:
+    - x1=самец
+    - x3=признаки самца
+  en-simple:
+    place structure: x1 is a male of species x2 with masculine traits x3
+    notes:
+    - No notes.
+    glosses:
+    - a male
+    - x2=a species of male
+    - x3=a male trait
+  eo:
+    place structure: x1 estas virseksa/maskla/'iĉa' de speco x2 montranta virajn trajtojn
+      x3 (ka); x1 estas vira
+    notes:
+    - Vidu ankaŭ {fetsi}, {bersa}.
+    glosses:
+    - virseksa
+  hu:
+    place structure: x1 egy hím/bak/bika/kakas/kan az x2 fajból, x3 maszkulin tulajdonságokkal
+    notes:
+    - '(Lásd még: {fetsi}, {bersa})'
+    glosses:
+    - hímnemű
+  ja:
+    place structure: x1 は x2 （生物種）の、 x3 （体現性質）に基づく男性／雄；  x1 は男性的
+    notes:
+    - ・大意： 男性 ・読み方： ナクニ  ・語呂合わせ： 泣くになけない男性, nan（男）, masculine ・関連語： {fetsi}, {bersa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是女性的/雌性的/母的生物，属于品种/种类x2，具有证明其为雌性的特征x3
+    notes:
+    - 参见 {fetsi}, {bersa}.
+    glosses:
+    - No glosses.

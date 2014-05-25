@@ -1,5 +1,67 @@
-Word: vanju
-Rafsi: van
-Definition: x1 is made of/contains/is a quantity of wine from fruit/grapes x2.
-Notes: See also {barja}, {birje}, {xalka}, {jikru}, {fusra}.
-Examples: None
+word: vanju
+rafsi:
+- van
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of wine from fruit/grapes
+      x2.
+    notes:
+    - See also {barja}, {birje}, {xalka}, {jikru}, {fusra}.
+    glosses:
+    - wine
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Wein von Frucht/Trauben
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Wein
+  es:
+    place structure: x1 es una cantidad de vino de fruta/uvas x2
+    notes:
+    - Ver también {jikru}.
+    glosses:
+    - vino
+  ru:
+    place structure: x1 — вино из фруктов/винограда x2
+    notes:
+    - '{barja} (бар), {birje} (пиво), {xalka} (алкоголь), {jikru} (крепкий спиртной
+      напиток), {fusra} (гнить)'
+    glosses:
+    - x1=вино
+  en-simple:
+    place structure: x1 is a quantity of wine from grapes x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of wine
+    - x2=a grape wine is made from
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el vino el frukto/vinberoj
+      x2
+    notes:
+    - Vidu ankaŭ {barja}, {birje}, {xalka}, {jikru}, {fusra}.
+    glosses:
+    - vino
+  hu:
+    place structure: x1 bizonyos mennyiségű bor (-t tartalmaz/-ból készült) x2 szőlőből/egyéb
+      gyümölcsből
+    notes:
+    - '(Lásd még: {barja}, {birje}, {xalka}, {jikru}, {fusra})'
+    glosses:
+    - bor
+  ja:
+    place structure: x1 は x2 （果物成分）のワイン／葡萄酒
+    notes:
+    - ・大意： ワイン ・読み方： ヴァンジュ  ・語呂合わせ： budocu 葡萄酒 ・関連語： {barja}, {birje}, {xalka}, {jikru},
+      {fusra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是葡萄酒/果酒，来自葡萄/水果x2
+    notes:
+    - 参见 {barja}, {birje}, {xalka}, {jikru}, {fusra}.
+    glosses:
+    - No glosses.

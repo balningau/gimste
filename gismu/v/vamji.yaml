@@ -1,12 +1,95 @@
-Word: vamji
-Rafsi: vam, va'i
-Definition: x1 (ni) is the equivalent value/worth of x2 [item(s) of value] to x3 for
-  use/appreciation x4.
-Notes: 'Also: $x_2$ is worth $x_1$ to $x_3$; (for $x_2$ person:) $x_2$ merits (one
-  sense), (adjective:) $x_2$ is worthy (= selva''i for reordered places); merit reward
-  (= {nemselva''i}); receive merited reward (= {vamselne''u}); $x_2$ may be a specific
-  object, a commodity (mass), an event, or a property; pedantically, for objects/commodities,
-  this is sumti-raising from ownership of the object/commodity (= {posyva''i}, {posyselva''i}
-  for unambiguous semantics).  (cf. {jdima}, {jerna}, {vecnu}, {dirba}, {janta}, {kargu},
-  {pleji}; see note at jdima on cost/price/value distinction, {vajni})'
-Examples: None
+word: vamji
+rafsi:
+- vam
+- va'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (ni) is the equivalent value/worth of x2 [item(s) of value]
+      to x3 for use/appreciation x4.
+    notes:
+    - 'Also: x2 is worth x1 to x3; (for x2 person:) x2 merits (one sense), (adjective:)
+      x2 is worthy (= selva''i for reordered places); merit reward (= {nemselva''i});
+      receive merited reward (= {vamselne''u}); x2 may be a specific object, a commodity
+      (mass), an event, or a property; pedantically, for objects/commodities, this
+      is sumti-raising from ownership of the object/commodity (= {posyva''i}, {posyselva''i}
+      for unambiguous semantics).  (cf. {jdima}, {jerna}, {vecnu}, {dirba}, {janta},
+      {kargu}, {pleji}; see note at jdima on cost/price/value distinction, {vajni})'
+    glosses:
+    - value (monetary worth)
+    - worth (equal in value to)
+  de:
+    place structure: x1 (ni) ist der Gegenwert/entsprechende Wert von x2 [Gegenstand
+      von Wert] für x3 unter/bei Benutzung/Wertschätzung x4
+    notes:
+    - No notes.
+    glosses:
+    - Wert
+  es:
+    place structure: x1 es el valor de x2 para valuador x3 para uso/según apreciación
+      x4
+    notes:
+    - Ver también {jdima},  {vecnu}.
+    glosses:
+    - valor
+  ru:
+    place structure: x1 ({ni}) — стоимость/ценность x2 (чего) по оценке x3 (чьей)
+      для x4 (способ использования)
+    notes:
+    - 'Также: x2 стоит x1 для x3; (если x2 — лицо:) x2 заслуживает/достоин; прилагательное:
+      x2 — ценный, достойный: {selva''i} с переставленными местами); заслуживать вознаграждения:
+      {nemselva''i}; получить заслуженное вознаграждение: {vamselne''u}; x2 м.б. конкретным
+      объектом, товаром (масса), событием, или свойством; строго говоря, для объектов/товаров
+      мы имеем дело с подъемом sumti от владения объектом/товаром: {posyva''i}, {posyselva''i}
+      для однозначной семантики {jdima} (цена), {jerna} (зарабатывать), {vecnu} (продавать),
+      {dirba} (милый), {janta} (счет [к оплате]), {kargu} (дорогой [дорогостоящий]),
+      {pleji} (платить); см. замечание к {jdima} (цена) о различии стоимости/цены/ценности,
+      {vajni} (важный [имеющий значение])'
+    glosses:
+    - x1=стоимость
+    - x2=имещее стоимость
+    - x3=кто оценивает стоимость
+  en-simple:
+    place structure: x1 is the value of x2 to x3 for use x4
+    notes:
+    - No notes.
+    glosses:
+    - a value
+    - x2=something with a value
+    - x3=something to which something is a value
+    - x4=a use of something with value
+  eo:
+    place structure: x1 (ni) estas la valoro de x2 [valoraĵo(j)] por x3 por uzo/takso
+      x4
+    notes:
+    - 'Ankaŭ: x2 valoras x1-on al x3; (por homa x2:) x2 meritas (unu senco), (adjektivo:)
+      x2 estas inda (= selva''i por reordigitaj {lokoj}); meriti rekompencon (= {nemselva''i});
+      ricevi meritan rekompencon (= {vamselne''u}); x2 povas esti specifa objekto,
+      varo, okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado
+      el posedo de la objekto/varo (= {posyva''i}, posyselva''i por neambigua {semantiko}).  (kp.
+      jdima, jerna, vecnu, dirba, janta, kargu, pleji; see note at jdima on cost/price/value
+      distinction, vajni)'
+    glosses:
+    - valoro
+  hu:
+    place structure: x1 az értéke x2-nek x3 számára, x4 felhasználás/értékelés szempontjából
+    notes:
+    - '(Lásd még: {jdima}, {jerna}, {vecnu}, {dirba}, {janta}, {kargu}, {pleji}, {vajni})'
+    glosses:
+    - érték
+  ja:
+    place structure: x1 （数量／性質）は x2 （物／事）の、 x3 （観点）・ x4 （用途／査定）における価値；  x2 は x3 にとって
+      x1 の値打ちがある
+    notes:
+    - ・大意： 価値 ・読み方： ヴァムジ  ・関連語： {jdima} (値段), {vajni} (重要), {kargu} (高価), {dirba}
+      (大切にされている), {jerna}, {vecnu}, {janta}, {pleji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（ni）是x2的价值，对于x3来说，具有用途/增值价值x4
+    notes:
+    - 也指：x2价值x1，对x3来说；x2是有价值的；成就奖励={nemselva'i}；获得应得的回报= {vamselne'u}；x2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posyva'i},{posyselva'i}；参见
+      {jdima}, {jerna}, {vecnu}, {dirba}, {janta}, {kargu}, {pleji}, {vajni}；查看{jdima}的备注中关于花费/价格/价值的区别。
+    glosses:
+    - No glosses.

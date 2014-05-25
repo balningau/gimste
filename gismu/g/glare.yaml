@@ -1,5 +1,67 @@
-Word: glare
-Rafsi: gla
-Definition: x1 is hot/[warm] by standard x2.
-Notes: Warm (= {mligla}), feverish (= {bi'agla}).  See also {lenku}.
-Examples: None
+word: glare
+rafsi:
+- gla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is hot/[warm] by standard x2.
+    notes:
+    - Warm (= {mligla}), feverish (= {bi'agla}).  See also {lenku}.
+    glosses:
+    - hot
+  de:
+    place structure: x1 ist heiß/warm gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - heiß
+  es:
+    place structure: x1 está caliente/es cálido/caluroso según estándar x2
+    notes:
+    - Ver también {lenku}.
+    glosses:
+    - caliente
+  ru:
+    place structure: x1 — горячий/{теплый} относительно стандарта x2
+    notes:
+    - 'Теплый: {mligla}, лихорадка: {bi''agla} {lenku} (холодный)'
+    glosses:
+    - x1=тёплый
+  en-simple:
+    place structure: x1 is hot
+    notes:
+    - No notes.
+    glosses:
+    - x1=something hot
+    - x2=a heat standard
+  eo:
+    place structure: x1 estas varma laŭ normo x2
+    notes:
+    - Varma (= {mligla}), febra (= {bi'agla}).  Vidu ankaŭ {lenku}.
+    glosses:
+    - varma
+  hu:
+    place structure: x1 meleg/forró x2 mérce szerint
+    notes:
+    - '(Lásd még: {lenku})'
+    glosses:
+    - meleg
+  ja:
+    place structure: x1 は x2 （基準）において熱い／暖かい／温い
+    notes:
+    - ・大意： 熱い ・読み方： グルァレ  ・語呂合わせ： ギラギラ烈日, warm, caluroso, re(熱) ・関連語： {lenku}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är het/(mycket) varm enligt standard x2.
+    notes:
+    - Behagligt (milt) varm (= {mligla}), febrig (= {bi'agla}).
+    glosses:
+    - het (mycket varm)
+  zh:
+    place structure: x1是热的，基于标准x2
+    notes:
+    - 温的= {mligla}，发烧的= {bi'agla}；参见 {lenku}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,67 @@
-Word: talsa
-Rafsi: tal
-Definition: x1 (person) challenges x2 at/in property x3.
-Notes: (cf. {jinga}, {damba}, {darlu}, {jivna}, {nandu} for a challenging event/situation)
-Examples: None
+word: talsa
+rafsi:
+- tal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) challenges x2 at/in property x3.
+    notes:
+    - (cf. {jinga}, {damba}, {darlu}, {jivna}, {nandu} for a challenging event/situation)
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Person) fordert x2 (heraus) in Eigenschaft x3
+    notes:
+    - No notes.
+    glosses:
+    - herausfordern
+  es:
+    place structure: x1 desafía/reta a x2 hacer x3
+    notes:
+    - Ver también {minde}.
+    glosses:
+    - desafiar
+  ru:
+    place structure: x1 бросает вызов/противоречит x2 насчет x3 (свойство); x1 оспаривает
+      x3 у x2
+    notes:
+    - '{jinga} (выигрывать [побеждать]), {damba} (драться), {darlu} (отстаивать [позицию]),
+      {jivna} (соревноваться), {nandu} (трудный [сложный]) для объекта/ситуации'
+    glosses:
+    - противоречить
+    - x1=противоречащий
+    - x3=оспариваемое свойство
+  en-simple:
+    place structure: x1 challenges x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - a challenger
+    - x2=something challenged
+    - x3=something to which something is challenged
+  eo:
+    place structure: x1 (homo) defias x2-on pri eco x3
+    notes:
+    - (kp. jinga, damba, darlu, jivna, nandu por defia okazo/situacio)
+    glosses:
+    - defii
+  hu:
+    place structure: x1 kihívja x2-t egy mérkőzésre x3 tulajdonságban
+    notes:
+    - '(Lásd még: {jinga}, {damba}, {darlu}, {jivna}, {nandu})'
+    glosses:
+    - kihív
+  ja:
+    place structure: x1 （人）は x2 を x3 （性質）について挑む；  x2 に x3 があるかどうかを x1 は試す
+    notes:
+    - 対戦するという意味ではなく、 x2 の実力をx1が喚起して観察するという意味。 ・大意： 挑む ・読み方： タルゥサ  ・語呂合わせ： 挑むタルさ ・関連語：
+      {jinga}, {damba}, {darlu}, {jivna}, {nandu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人）挑战x2，在性质x3上
+    notes:
+    - 参见 {jinga}, {damba}, {darlu}, {jivna}, {nandu}有挑战性的事件或情形
+    glosses:
+    - No glosses.

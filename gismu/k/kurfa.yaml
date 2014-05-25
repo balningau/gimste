@@ -1,8 +1,76 @@
-Word: kurfa
-Rafsi: kur
-Definition: x1 is a right-angled shape/form defined by set of vertices x2, dimensions
-  x3 (default 2).
-Notes: Also rectangle, square, rectilinear; square (= {kubykurfa}, {pitkubykurfa}),
-  cube (= {kurkubli}), rectangle (= {clakurfa}), rhombus/diamond (= {sa'orkurfa},
-  {sa'orpitkubli}).  See also {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}.
-Examples: None
+word: kurfa
+rafsi:
+- kur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a right-angled shape/form defined by set of vertices x2,
+      dimensions x3 (default 2).
+    notes:
+    - Also rectangle, square, rectilinear; square (= {kubykurfa}, {pitkubykurfa}),
+      cube (= {kurkubli}), rectangle (= {clakurfa}), rhombus/diamond (= {sa'orkurfa},
+      {sa'orpitkubli}).  See also {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}.
+    glosses:
+    - square (four sided shape)
+  de:
+    place structure: 'x1 ist eine rechteckige Form, bestimmt von einer Punkte-Menge
+      x2, von Dimension x3 (Default: 2)'
+    notes:
+    - No notes.
+    glosses:
+    - Quadrat
+  es:
+    place structure: x1 es un cuadrado/rectángulo definido por conjunto de vértices
+      x2, en x3 dimensiones (2 por defecto)
+    notes:
+    - No notes.
+    glosses:
+    - cuadrado
+  ru:
+    place structure: x1 — прямоугольник/параллелепипед (форма), определяемый множеством
+      вершин x2, измерений x3 (по умолчанию 2)
+    notes:
+    - 'Квадрат: {kubykurfa}, {pitkubykurfa}, куб: {kurkubli}, прямоугольник: {clakurfa},
+      ромб: {sa''orkurfa}, {sa''orpitkubli} {bliku} (блок [глыба]), {kubli} (куб),
+      {tapla} (плитка), {salpo} (наклонный), {tarmi} (идея [концептуальная форма])'
+    glosses:
+    - прямоугольник
+  en-simple:
+    place structure: x1 is a right-angle with vertices x2 and dimensions x3
+    notes:
+    - No notes.
+    glosses:
+    - a right-angle
+    - x2=a vertex of a right-angle
+    - x3=a dimension of a right-angle
+  eo:
+    place structure: x1 estas orta formo difinita per aro da verticoj x2, dimensioj
+      x3 (defaŭlte 2)
+    notes:
+    - 'Ankaŭ: paralelogramo, rektangulo, kvadrato; kvadrato (= {kubykurfa}, {pitkubykurfa}),
+      kubo (= {kurkubli}), rektangulo (= {clakurfa}), rombo/lozanĝo (= {sa''orkurfa},
+      {sa''orpitkubli}).  Vidu ankaŭ {bliku}, {kubli}, {tapla}, salpo,{tarmi}.'
+    glosses:
+    - kvadrato
+  hu:
+    place structure: x1 egy derékszögű idom x2 csúcsokkal, x3 dimenzióban (alapesetben
+      síkbeli)
+    notes:
+    - '(Lásd még: {bliku}, {kubli}, {tapla}, {salpo}, {tarmi})'
+    glosses:
+    - négyzet
+  ja:
+    place structure: x1 は x2 （頂角）・ x3 （次元／面）の四角形／長方形
+    notes:
+    - ・大意： 四角形 ・読み方： クルファ  ・語呂合わせ： 矩（く） ・関連語： {bliku}, {kubli}, {tapla}, {salpo},
+      {tarmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是直角形的，顶点为x2，维度为x3（默认2）
+    notes:
+    - 也指：矩形，方形，正交直线；正方形= {kubykurfa}/{pitkubykurfa}，正方体={kurkubli}，矩形/长方形= {clakurfa}，菱形={sa'orkurfa}/{sa'orpitkubli}；参见
+      {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}.
+    glosses:
+    - No glosses.

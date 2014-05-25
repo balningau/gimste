@@ -1,8 +1,91 @@
-Word: frati
-Rafsi: fra
-Definition: x1 reacts/responds/answers with action x2 to stimulus x3 under conditions
-  x4; x1 is responsive.
-Notes: $x_3$ stimulates $x_1$ into reaction $x_2$, $x_3$ stimulates reaction $x_2$
-  (= {terfra} for place reordering); attempt to stimulate, prod (= {terfratoi}, {tunterfratoi}).  See
-  also {preti}, {danfu}, {spuda}, {cpedu}, {tarti}.
-Examples: None
+word: frati
+rafsi:
+- fra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reacts/responds/answers with action x2 to stimulus x3 under
+      conditions x4; x1 is responsive.
+    notes:
+    - x3 stimulates x1 into reaction x2, x3 stimulates reaction x2 (= {terfra} for
+      place reordering); attempt to stimulate, prod (= {terfratoi}, {tunterfratoi}).  See
+      also {preti}, {danfu}, {spuda}, {cpedu}, {tarti}.
+    glosses:
+    - react
+    - treat (handle, deal with or behave towards in a specific way)
+  de:
+    place structure: x1 reagiert/antwortet mit Aktion x2 auf Anregung/Stimulus/Reiz
+      unter Bedingungen x4
+    notes:
+    - No notes.
+    glosses:
+    - reagieren
+  es:
+    place structure: x1 reacciona/responde con acción x2 ante estímulo x3 bajo condiciones
+      x4
+    notes:
+    - Ver también {danfu},  {spuda}.
+    glosses:
+    - reaccionar
+  ru:
+    place structure: x1 реагирует/отвечает действием x2 на стимул x3 в условиях x4;
+      x1 отзывчив
+    notes:
+    - 'x3 вызывает у x1 реакцию x2: {terfra} с перестановкой аргументов; попытка вызвать
+      реакцию (понукает/подгоняет/побуждает): {terfratoi}, {tunterfratoi} {preti}
+      (вопрос), {danfu} (ответ), {spuda} (отвечать [реагировать]), {cpedu} (просить),
+      {tarti} (вести [себя: поведение])'
+    glosses:
+    - реагировать
+    - x1=реагирующий
+  en-simple:
+    place structure: x1 responds or reacts with action x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a responder
+    - respond
+    - x1=the responder
+    - x2=a response
+    - x2=the response
+    - x3=a responder's stimulus
+    - x3=the responder's stimulus
+    - x4=a response condition
+  eo:
+    place structure: x1 reagas/respondas per ago x2 al stimulo x3 sub kondiĉoj x4;
+      x1 estas responda
+    notes:
+    - x3 stimulas/incitas/spronas x1-on fari x2-on, x3 stimulas reagon x2 en x1 (=
+      terfra por reordigitaj {lokoj}); klopodi stimuli, piki (= {terfratoi}, {tunterfratoi}).  Vidu
+      ankaŭ {preti}, {danfu}, {spuda}, {cpedu}, {tarti}.
+    glosses:
+    - reagi
+  hu:
+    place structure: x1 reagál/válaszol x2 cselekedettel x3 ingerre x4 körülmények
+      között
+    notes:
+    - '(Lásd még: {preti}, {danfu}, {spuda}, {cpedu}, {tarti})'
+    glosses:
+    - reagál
+  ja:
+    place structure: x1 は x2 （動作／行為）によって x3 （刺激／要因）に反応する／呼応する
+    notes:
+    - ・大意： 反応 ・読み方： フゥラティ  ・関連語： {preti}, {danfu}, {spuda}, {cpedu}, {tarti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reagerar/ger respons/svarar med handling x2 på stimulus x3
+      under omständigheter/villkor x4.
+    notes:
+    - x3 stimulerar x1 så denne reagerar medx2, x3 stimulerar reaktion x2 (= terfra
+      for place reordering); försöka stimulera, egga (= {terfratoi}, {tunterfratoi}).
+    glosses:
+    - reagera
+  zh:
+    place structure: x1以行为x2反应/回应/回答刺激/激励x3，在条件x4下；x1是响应的/回应的
+    notes:
+    - x3刺激x1，使其发生反应x2； 刺激x3导致响应x2；刺激= {terfratoi}/{tunterfratoi}； 参见 {preti}, {danfu},
+      {spuda}, {cpedu}, {tarti}.
+    glosses:
+    - No glosses.

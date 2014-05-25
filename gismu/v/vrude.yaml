@@ -1,7 +1,67 @@
-Word: vrude
-Rafsi: vud, vu'e
-Definition: x1 is virtuous/saintly/[fine/moral/nice/holy/morally good] by standard
-  x2.
-Notes: Holy/saintly (= {cesyvu'e}).  Virtue the attribute is "ka vrude".  See also
-  {palci}, {xamgu}, {marde}, {zabna}.
-Examples: None
+word: vrude
+rafsi:
+- vud
+- vu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is virtuous/saintly/[fine/moral/nice/holy/morally good] by
+      standard x2.
+    notes:
+    - Holy/saintly (= {cesyvu'e}).  Virtue the attribute is "ka vrude".  See also
+      {palci}, {xamgu}, {marde}, {zabna}.
+    glosses:
+    - virtuous
+  de:
+    place structure: x1 ist tugendhaft/rechtschaffen/heiligenmäßig/[moralisch gut/nett/heilig]
+      gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - Tugend
+  es:
+    place structure: x1 es virtuoso/santo/moralmente bueno según estándar x2
+    notes:
+    - Ver también {palci},  {xamgu},  {marde},  {zabna}.
+    glosses:
+    - virtuoso
+  ru:
+    place structure: x1 — добродетельный/доблестный/праведный/{высокоморальный} относительно
+      стандарта x2
+    notes:
+    - 'Святой: {cesyvu''e} {palci} (дурной), {xamgu} (хороший), {marde} (мораль),
+      {zabna} (одобрительный)'
+    glosses:
+    - x1=добродетельный
+  en-simple:
+    place structure: x1 is virtuous by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something virtuous
+    - x2=a standard of virtue
+  eo:
+    place structure: x1 estas virta/sankta/[morale bona] laŭ normo x2
+    notes:
+    - Sankta (= {cesyvu'e}).  Vidu ankaŭ {palci}, {xamgu}, {marde}, {zabna}.
+    glosses:
+    - virta
+  hu:
+    place structure: x1 erényes/„jó” x2 mérce szerint
+    notes:
+    - '(Lásd még: {palci}, {xamgu}, {marde}, {zabna})'
+    glosses:
+    - erényes
+  ja:
+    place structure: x1 は x2 の観点で有徳／高潔／光栄
+    notes:
+    - ・大意： 誉れ ・読み方： ヴルデ  ・関連語： {palci}, {xamgu}, {marde}, {zabna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是善良的/有德的/圣洁的/正直的，基于标准x2
+    notes:
+    - 神圣的= {cesyvu'e}；美德=ka {vrude}；参见 {palci}, {xamgu}, {marde}, {zabna}.
+    glosses:
+    - No glosses.

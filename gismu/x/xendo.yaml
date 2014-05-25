@@ -1,5 +1,66 @@
-Word: xendo
-Rafsi: xed, xe'o
-Definition: x1 (person) is kind to x2 in actions/behavior x3.
-Notes: See also {cinmo}, {kecti}, {pendo}, {kusru}.
-Examples: None
+word: xendo
+rafsi:
+- xed
+- xe'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) is kind to x2 in actions/behavior x3.
+    notes:
+    - See also {cinmo}, {kecti}, {pendo}, {kusru}.
+    glosses:
+    - kind
+  de:
+    place structure: x1 (Person) ist freundlich/gütig/nett zu x2 in Handlung/Verhalten
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - freundlich
+  es:
+    place structure: x1 es bueno/amable/afable/benevolente/simpático para con x2 en
+      acciones/comportamiento x3
+    notes:
+    - No notes.
+    glosses:
+    - amable
+  ru:
+    place structure: x1 проявляет доброту/участие к x2 действием/поведением x3
+    notes:
+    - '{cinmo} (эмоциональный), {kecti} (сочувствовать), {pendo} (друг), {kusru} (обижать)'
+    glosses:
+    - добрый
+  en-simple:
+    place structure: x1 is kind to x2 in doing x3
+    notes:
+    - No notes.
+    glosses:
+    - something kind
+    - x2=something to which something is kind
+    - x3=an act of kindness
+  eo:
+    place structure: x1 (homo) estas afabla al x2 en ago/konduto x3
+    notes:
+    - Vidu ankaŭ {cinmo}, {kecti}, {pendo}, {kusru}.
+    glosses:
+    - afabla
+  hu:
+    place structure: x1 személy kedves/barátságos/szíves x2-hez x3 cselekedet/viselkedés
+      által
+    notes:
+    - '(Lásd még: {cinmo}, {kecti}, {pendo}, {kusru})'
+    glosses:
+    - kedves (barátságos)
+  ja:
+    place structure: x1 （者）は x2 にたいして x3 （行為）で親切／優しい
+    notes:
+    - ・大意： 親切 ・読み方： クェンド  ・関連語： {cinmo}, {kecti}, {pendo}, {kusru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人）对x2是友善的/友好的，以行动/行为x3
+    notes:
+    - 参见 {cinmo}, {kecti}, {pendo}, {kusru}.
+    glosses:
+    - No glosses.

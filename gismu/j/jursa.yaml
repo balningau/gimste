@@ -1,5 +1,63 @@
-Word: jursa
-Rafsi: jus
-Definition: x1 (event/action/state) is severe/harsh to x2 [victim/experiencer].
-Notes: See also {gunta}, {vlile}.
-Examples: None
+word: jursa
+rafsi:
+- jus
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/action/state) is severe/harsh to x2 [victim/experiencer].
+    notes:
+    - See also {gunta}, {vlile}.
+    glosses:
+    - severe
+  de:
+    place structure: x1 (Ereignis/Aktion/Zustand) ist hart/heftig/schwerwiegend für
+      x2 [Opfer]
+    notes:
+    - No notes.
+    glosses:
+    - heftig
+  es:
+    place structure: x1 (evento) es severo/duro con x2
+    notes:
+    - No notes.
+    glosses:
+    - severo
+  ru:
+    place structure: x1 (событие/действие/состояние) сурово/тяжко/{строго} для x2
+      (жертва/терпящий)
+    notes:
+    - '{gunta} (нападать), {vlile} (яростный)'
+    glosses:
+    - x1=тяжко
+  en-simple:
+    place structure: x1 is harsh or severe to x2
+    notes:
+    - No notes.
+    glosses:
+    - something harsh
+    - x2=something experiencing harshness
+  eo:
+    place structure: x1 (okazo/ago/stato) estas severa por x2 [viktimo/spertanto]
+    notes:
+    - Vidu ankaŭ {gunta}, {vlile}.
+    glosses:
+    - severa
+  hu:
+    place structure: x1 esemény/állapot kemény/zord/kedvezőtlen x2 számára
+    notes:
+    - '(Lásd még: {gunta}, {vlile})'
+    glosses:
+    - kemény (kedvezőtlen)
+  ja:
+    place structure: x1 （事）は x2 （者）にたいして辛辣／厳しい／容赦ない／険しい
+    notes:
+    - ・大意： 辛辣 ・読み方： ジュルサ  ・関連語： {gunta}, {vlile}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态/行为）对x2来说是剧烈的
+    notes:
+    - 参见 {gunta}, {vlile}.
+    glosses:
+    - No glosses.

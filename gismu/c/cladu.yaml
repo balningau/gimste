@@ -1,5 +1,82 @@
-Word: cladu
-Rafsi: lau
-Definition: x1 is loud/noisy at observation point x2 by standard x3.
-Notes: See also {savru}.
-Examples: None
+word: cladu
+rafsi:
+- lau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is loud/noisy at observation point x2 by standard x3.
+    notes:
+    - See also {savru}.
+    glosses:
+    - loud
+  jbo:
+    place structure: x1 tsali le ka ka'e se tirna bu'u x2 kei x3
+    notes:
+    - '{tsali}; {tirna}; {savru}; {sance}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist laut von Standpunkt x2 aus gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - laut
+  es:
+    place structure: x1 es fuerte/alto (sonido) en punto de observación x2 según estándar
+      x3
+    notes:
+    - Ver también {smaji},  {savru}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — громкий/шумный в точке наблюдения x2 относительно стандарта
+      x3
+    notes:
+    - '{savru} (шум)'
+    glosses:
+    - громкий
+  en-simple:
+    place structure: x1 is loud at observation point x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something loud
+    - x2=a place something is loud at
+    - x3=a standard of loudness
+  eo:
+    place structure: x1 estas laŭta/brua ĉe punkto de observado x2 laŭ normo x3
+    notes:
+    - Vidu ankaŭ {savru}.
+    glosses:
+    - laŭta
+  hu:
+    place structure: x1 hangos/zajos x2 megfigyelési pontból, x3 mérce szerint
+    notes:
+    - '(Lásd még: {savru})'
+    glosses:
+    - hangos
+  ja:
+    place structure: x1 は x2 （観察基点）・ x3 （照合枠）においてうるさい／やかましい
+    notes:
+    - ・大意： うるさい ・読み方： シルァドゥ  ・語呂合わせ： うるさいと知らず ・関連語： {savru}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är högljudd/bullrig [hög ljudstyrka] vid observationspunkt
+      x2 enligt standard x3.
+    notes:
+    - ljud med hög styrka är synonymt med buller om inte annat anges, men kan också
+      vara mildare former av ljud såsom att någon talar högt eller spelar hög musik.
+    - ''
+    glosses:
+    - högljudd
+    - x1=buller
+    - x2=bullermätpunkt
+    - x3=bullerstandard
+  zh:
+    place structure: x1是大声的/聒噪的，在x2看来，基于标准x3
+    notes:
+    - 参见 {savru}.
+    glosses:
+    - No glosses.

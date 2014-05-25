@@ -1,5 +1,70 @@
-Word: crisa
-Rafsi: cis
-Definition: x1 is summer/summertime [hot season] of year x2 at location x3.
-Notes: See also {citsi}, {critu}, {dunra}, {vensa}.
-Examples: None
+word: crisa
+rafsi:
+- cis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is summer/summertime [hot season] of year x2 at location x3.
+    notes:
+    - See also {citsi}, {critu}, {dunra}, {vensa}.
+    glosses:
+    - summer
+  de:
+    place structure: x1 ist ein/der Sommer [heiße Jahreszeit] von Jahr x2 in Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Sommer
+  es:
+    place structure: x1 es el verano/estío/estación cálida del año x2 en localidad
+      x3
+    notes:
+    - Ver también {critu},  {dunra},  {vensa}.
+    glosses:
+    - verano
+  ru:
+    place structure: x1 — лето (жаркий сезон) года x2 в местности x3
+    notes:
+    - '{citsi} (сезон), {critu} (осень), {dunra} (зима), {vensa} (весна)'
+    glosses:
+    - лето
+  en-simple:
+    place structure: x1 is summer of year x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a summer
+    - x2=a summer's year
+    - x3=a summer's location
+  eo:
+    place structure: x1 estas somero [varma sezono] de jaro x2 en loko x3
+    notes:
+    - Vidu ankaŭ {citsi}, {critu}, {dunra}, {vensa}.
+    glosses:
+    - somero
+  hu:
+    place structure: x1 a nyár [forró évszak] x2 évben, x3 helyen
+    notes:
+    - '(Lásd még: {citsi}, {critu}, {dunra}, {vensa})'
+    glosses:
+    - nyár
+  ja:
+    place structure: x1 は x2 （年）・（所）の夏季
+    notes:
+    - ・大意： 夏 ・読み方： シリサ  ・語呂合わせ： 知り去る夏, cia(夏),summer ・関連語： {citsi}, {critu}, {dunra},
+      {vensa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är sommar/sommartid [varm årstid] av år x2 på plats x3.
+    notes:
+    - No notes.
+    glosses:
+    - sommar (varm årstid)
+  zh:
+    place structure: x1是夏天（热的季节），属于年份x2，位置x3
+    notes:
+    - 参见 {citsi}, {critu}, {dunra}, {vensa}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,76 @@
-Word: jinzi
-Rafsi: jiz
-Definition: x1 (property - ka) is an innate/inherent/intrinsic/natural property/quality/aspect
-  of x2.
-Notes: See also {lakne}, {rarna}, {stati}, cmavo list {ka'e}, {tcaci}.
-Examples: None
+word: jinzi
+rafsi:
+- jiz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (property - ka) is an innate/inherent/intrinsic/natural property/quality/aspect
+      of x2.
+    notes:
+    - See also {lakne}, {rarna}, {stati}, cmavo list {ka'e}, {tcaci}.
+    glosses:
+    - innate
+    - proper (intrinsic)
+  de:
+    place structure: x1 (Eigenschaft - ka) ist ein(e) angeborene(r)/immanente(r)/natürliche(r)
+      Eigenschaft/Aspekt von x2
+    notes:
+    - No notes.
+    glosses:
+    - angeboren
+  es:
+    place structure: x1 es una propiedad/aspecto/cualidad natural/innata/inherente/intrínseca
+      de x2
+    notes:
+    - Ver también {lakne},  {rarna},  {stati}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 ({ka}) есть неотъемлемое/присущее/естественное/врожденное
+      свойство/качество/аспект x2 (чего)
+    notes:
+    - '{lakne} (вероятный), {rarna} (естественный), {stati} (талант), {ka''e}, {tcaci}
+      (обычай)'
+    glosses:
+    - x1=присущий
+  en-simple:
+    place structure: x1 is an innate or natural property of x2
+    notes:
+    - No notes.
+    glosses:
+    - something innate
+    - x2=something with an innate property
+  eo:
+    place structure: x1 (eco - ka) estas esenca/propra/natura eco/kvalito/aspekto
+      de x2
+    notes:
+    - Vidu ankaŭ {lakne}, {rarna}, {stati}, cmavo {ka'e}, {tcaci}.
+    glosses:
+    - esenca
+  hu:
+    place structure: x1 természetes/veleszületett tulajdonsága x2-nek
+    notes:
+    - '(Lásd még: {lakne}, {rarna}, {stati}, {tcaci})'
+    glosses:
+    - természetes
+  ja:
+    place structure: x1 （性質）は x2 に内在する；  x2 は本質的に x1
+    notes:
+    - ・大意： 内在 ・読み方： ジンズィ  ・関連語： {lakne}, {rarna}, {stati}, {ka'e}, {tcaci}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (egenskap - ka) är en inneboende/medfödd/ärvd/väsensartad/väsentlig/naturlig
+      egenskap/kvalitet/aspekt av x2.
+    notes:
+    - No notes.
+    glosses:
+    - inneboende (egenskap/kvalitet/aspekt)
+    - medfödd (egenskap/kvalitet/aspekt)
+    - väsentlig (egenskap/kvalitet/aspekt)
+  zh:
+    place structure: x1（性质ka）是x2身上的与生俱来的/固有的/天生的/遗传的
+    notes:
+    - 参见 {lakne}, {rarna}, {stati}, {ka'e}, {tcaci}.
+    glosses:
+    - No glosses.

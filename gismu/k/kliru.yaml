@@ -1,6 +1,66 @@
-Word: kliru
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of halogen of type x2 [chlorine,
-  fluorine, iodine, etc.].
-Notes: Also bromine; default chlorine. See also {xukmi}.
-Examples: None
+word: kliru
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of halogen of type x2 [chlorine,
+      fluorine, iodine, etc.].
+    notes:
+    - Also bromine; default chlorine. See also {xukmi}.
+    glosses:
+    - chlorine
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Halogen von Typ x2 [Chlor,
+      Fluor, Iod, etc.]
+    notes:
+    - No notes.
+    glosses:
+    - Chlor
+  es:
+    place structure: x1 es una cantidad de halógeno (flúor/iodo/bromo)
+    notes:
+    - No notes.
+    glosses:
+    - cloro
+  ru:
+    place structure: x1 — галоген типа x2; x1 содержит галоген x2 (хлор, фтор, йод,
+      бром; по умолчанию хлор)
+    notes:
+    - '{xukmi} (доза [химического вещества])'
+    glosses:
+    - хлор
+    - x2=тип галогена
+  en-simple:
+    place structure: x1 is a quantity of halogen of type x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of halogen
+    - x2=a type of halogen
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el halogeno de tipo x2 [kloro,
+      fluoro, jodo, ktp.]
+    notes:
+    - 'Ankaŭ: bromo; defaŭlte kloro. Vidu ankaŭ {xukmi}.'
+    glosses:
+    - kloro
+  hu:
+    place structure: x1 bizonyos mennyiségű klór / egyéb halogén az x2 típusból
+    notes:
+    - '(Lásd még: {xukmi})'
+    glosses:
+    - klór
+  ja:
+    place structure: x1 は x2 （種類）のハロゲン／造塩元素（塩素／フッ素／ヨウ素／臭素）
+    notes:
+    - ・大意： ハロゲン ・読み方： クルィル  ・関連語： {xukmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是卤族元素，具体为x2（氟/氯/碘等）
+    notes:
+    - 默认：氯；参见 {xukmi}.
+    glosses:
+    - No glosses.

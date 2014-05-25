@@ -1,6 +1,70 @@
-Word: marxa
-Rafsi: max
-Definition: x1 [force] mashes/crushes/squashes/smashes x2 into pulp/mash/crumbs/deformed
-  mass x3.
-Notes: See also {daspo}, {pesxu}, {zalvi}, {bapli}.
-Examples: None
+word: marxa
+rafsi:
+- max
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [force] mashes/crushes/squashes/smashes x2 into pulp/mash/crumbs/deformed
+      mass x3.
+    notes:
+    - See also {daspo}, {pesxu}, {zalvi}, {bapli}.
+    glosses:
+    - mash
+  de:
+    place structure: x1 [Kraft] zerdrückt/zerquetscht/zerschmettert x2 in Brei/Brösel/verformte
+      Masse x3
+    notes:
+    - No notes.
+    glosses:
+    - zerdrücken
+  es:
+    place structure: x1 aplasta/apisona/pisa x2 haciéndolo pulpa/puré/migas/masa informe
+      x3
+    notes:
+    - Ver también {zalvi}.
+    glosses:
+    - aplastar
+  ru:
+    place structure: x1 (сила) мнет/разминает/толчет/растирает x2 в пульпу/пюре/бесформенную
+      масссу x3
+    notes:
+    - x1 — не деятель, а сила — см. комментарии к {jicla} или {polje} {daspo} (разрушать),
+      {pesxu} (паста), {zalvi} (размалывать), {bapli} (заставлять)
+    glosses:
+    - x1=мять
+    - x3=масса, в которую разминают
+  en-simple:
+    place structure: x1 crushes or smashes x2 into x3
+    notes:
+    - No notes.
+    glosses:
+    - a crusher
+    - x2=something crushed
+    - x3=a result of crushing
+  eo:
+    place structure: x1 [forto] frakasas/pistas/kunpremas/muelas x2-on en pulpon/pulvoron/pecojn/erojn/misformaĵon
+      x3
+    notes:
+    - (kp. daspo, peŝu, zalvi, bapli)
+    glosses:
+    - frakasi
+  hu:
+    place structure: x1 [erő] összezúzza/összetöri/szétnyomja/szétzúzza/szétlapítja
+      x2-t x3 pürévé/péppé/morzsákká/deformált alakba
+    notes:
+    - '(Lásd még: {daspo}, {pesxu}, {zalvi}, {bapli})'
+    glosses:
+    - összezúz
+  ja:
+    place structure: x1 （力）は x2 を x3 （パルプ／泥状態）に潰す
+    notes:
+    - 「ぺちゃんこ／ぐちょぐちょにする」なども。 ・大意： 潰す ・読み方： マルクァ  ・関連語： {daspo}, {pesxu}, {zalvi}, {bapli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（力）粉碎/压碎x2，成为碎片/碎屑x3（群）
+    notes:
+    - 参见 {daspo}, {pesxu}, {zalvi}, {bapli}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,68 @@
-Word: jinci
-Rafsi: ''
-Definition: x1 is a pair of shears/scissors for cutting x2.
-Notes: See also {katna}.
-Examples: None
+word: jinci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pair of shears/scissors for cutting x2.
+    notes:
+    - See also {katna}.
+    glosses:
+    - shears
+  de:
+    place structure: x1 ist eine Schere zum Schneiden von x2
+    notes:
+    - No notes.
+    glosses:
+    - Schere
+  es:
+    place structure: x1 es una tijera/tijeras para cortar x2
+    notes:
+    - No notes.
+    glosses:
+    - tijeras
+  ru:
+    place structure: x1 — ножницы для разрезания x2 (чего)
+    notes:
+    - '{katna} (разрезать)'
+    glosses:
+    - x1=ножницы
+  en-simple:
+    place structure: x1 are shears or scissors for cutting x2
+    notes:
+    - No notes.
+    glosses:
+    - shears
+    - x2=something cut by shears
+  eo:
+    place structure: x1 estas tondilo por tondi/fortranĉi x2
+    notes:
+    - Vidu ankaŭ {katna}.
+    glosses:
+    - tondilo
+  hu:
+    place structure: x1 egy olló x2 metszésére/vágására
+    notes:
+    - '(Lásd még: {katna})'
+    glosses:
+    - olló
+  ja:
+    place structure: x1 は x2 を切る（ための）ハサミ／裁断機／刈り込み機
+    notes:
+    - ・大意： ハサミ ・読み方： ジンシ  ・語呂合わせ： ハサミ人身事故 ・関連語： {katna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett par av saxar/skjuv/klippanordning för att klippa x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=sax (klippanordning)
+    - x2=saxsort (klippanordning)
+  zh:
+    place structure: x1是修建/剪x2的剪子
+    notes:
+    - 参见 {katna}.
+    glosses:
+    - No glosses.

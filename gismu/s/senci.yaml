@@ -1,5 +1,60 @@
-Word: senci
-Rafsi: sec
-Definition: x1 sneezes (intransitive verb).
-Notes: See also {bilma}, {kafke}.
-Examples: None
+word: senci
+rafsi:
+- sec
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sneezes (intransitive verb).
+    notes:
+    - See also {bilma}, {kafke}.
+    glosses:
+    - sneeze
+  de:
+    place structure: x1 niest (intransitives Verb)
+    notes:
+    - No notes.
+    glosses:
+    - niesen
+  es:
+    place structure: x1 estornuda
+    notes:
+    - No notes.
+    glosses:
+    - estornudar
+  ru:
+    place structure: x1 чихает
+    notes:
+    - '{bilma} (больной), {kafke} (кашлять)'
+    glosses:
+    - чихать
+  en-simple:
+    place structure: x1 sneezes
+    notes:
+    - No notes.
+    glosses:
+    - a sneeze
+  eo:
+    place structure: x1 ternas (netransitiva verbo)
+    notes:
+    - Vidu ankaŭ {bilma}, {kafke}.
+    glosses:
+    - terni
+  hu:
+    place structure: x1 tüsszent
+    notes:
+    - '(Lásd még: {bilma}, {kafke})'
+    glosses:
+    - tüsszent
+  ja:
+    place structure: x1 はくしゃみする
+    notes:
+    - ・大意： くしゃみ ・読み方： センシ  ・語呂合わせ： くしゃみ戦士 ・関連語： {bilma}, {kafke}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1打喷嚏
+    notes:
+    - 参见 {bilma}, {kafke}.
+    glosses:
+    - No glosses.

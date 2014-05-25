@@ -1,6 +1,66 @@
-Word: nilce
-Rafsi: ni'e
-Definition: x1 [furniture items] furnishes x2 [location] serving purpose/function
-  x3.
-Notes: See also {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}.
-Examples: None
+word: nilce
+rafsi:
+- ni'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [furniture items] furnishes x2 [location] serving purpose/function
+      x3.
+    notes:
+    - See also {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}.
+    glosses:
+    - furniture
+  de:
+    place structure: x1 [Möbelstücke] statten x2 [Ort] aus und dienen dem Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - Möbel
+  es:
+    place structure: x1 es un mueble de x2 (localidad) con propósito/función x3
+    notes:
+    - No notes.
+    glosses:
+    - mueble
+  ru:
+    place structure: x1 — мебель в x2 (место), предназначенная для/выполняющая функцию
+      x3
+    notes:
+    - '{ckana} (кровать), {jubme} (стол), {sfofa} (диван), {stizu} (стул [сиденье]),
+      {dacru} (ящик [выдвижной])'
+    glosses:
+    - мебель
+    - x3=функция мебели
+  en-simple:
+    place structure: x1 is furniture at x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - furniture
+    - x2=something furnished
+    - x3=a purpose of furniture
+  eo:
+    place structure: x1 [meblo] meblas x2 [loko] kun celo/funkcio x3
+    notes:
+    - Vidu ankaŭ {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}.
+    glosses:
+    - meblo
+  hu:
+    place structure: x1 egy bútor / a bútorzat x2 helyen, x3 célra
+    notes:
+    - '(Lásd még: {ckana}, {jubme}, {sfofa}, {stizu}, {dacru})'
+    glosses:
+    - bútor
+  ja:
+    place structure: x1 は x2 （場所）に備え付く家具／調度品／備品／設置物
+    notes:
+    - ・大意： 家具 ・読み方： ニルゥシェ  ・関連語： {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（家具物品，如：柜子，桌子等）供应给x2（位置），具有用途/功能x3
+    notes:
+    - 参见 {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,83 @@
-Word: canlu
-Rafsi: cal, ca'u
-Definition: x1 is space/volume/region/room [at-least-3-dimensional area] occupied
-  by x2.
-Notes: Also occupy (= selca'u). See also {kensa}, {bliku}, {kumfa}, {kevna}, {kunti},
-  {tubnu}, {dekpu}.
-Examples: None
+word: canlu
+rafsi:
+- cal
+- ca'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is space/volume/region/room [at-least-3-dimensional area]
+      occupied by x2.
+    notes:
+    - Also occupy (= selca'u). See also {kensa}, {bliku}, {kumfa}, {kevna}, {kunti},
+      {tubnu}, {dekpu}.
+    glosses:
+    - space
+  de:
+    place structure: x1 ist ein Raum/Volumen [mindestens dreidimensionaler Raum],
+      der/das von x2 bewohnt/besetzt wird
+    notes:
+    - No notes.
+    glosses:
+    - Raum (Volumen)
+  es:
+    place structure: x1 es espacio/volumen/lugar ocupado por x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — пространство/объем (3 или больше измерений), занимаемый
+      x2 (чем)
+    notes:
+    - 'Также: занимать: {selca''u} {kensa} (космос), {bliku} (блок [глыба]), {kumfa}
+      (комната), {kevna} (впадина), {kunti} (пустой), {tubnu} (трубка), {dekpu} (иметь
+      объем [неметрический])'
+    glosses:
+    - пространство
+  en-simple:
+    place structure: x1 is a space or room occupied by x2
+    notes:
+    - No notes.
+    glosses:
+    - a space
+    - x2=something occupying a space
+  eo:
+    place structure: x1 estas spaco/volumeno/regiono [almenaŭ-3-dimensia etendaĵo]
+      okupita de x2
+    notes:
+    - 'Ankaŭ: okupi (= {selca''u}). Vidu ankaŭ {kensa}, {bliku}, {kumfa}, {kevna},
+      {kunti}, {tubnu}, {dekpu}.'
+    glosses:
+    - spaco
+  hu:
+    place structure: x1 a [legalább háromdimenziós] tér(fogat), amelyet x2 kitölt/elfoglal
+    notes:
+    - '(Lásd még: {kensa}, {bliku}, {kumfa}, {kevna}, {kunti}, {tubnu}, {dekpu})'
+    glosses:
+    - tér
+  ja:
+    place structure: x1 は x2 （内容）が占める空間（三次元的広がり）；  x2 は x1 を占める
+    notes:
+    - ・大意： 空間 ・読み方： シャンルゥ  ・語呂合わせ： volume ・関連語： {kensa}, {bliku}, {kumfa}, {kevna},
+      {kunti}, {tubnu}, {dekpu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är rymd/volym/region/rum [area med (åtminstone) tre dimensioner]
+      som upptas av x2.
+    notes:
+    - No notes.
+    glosses:
+    - region (tredimensionell yta)
+    - rum (tredimensionell yta)
+    - rymd (tredimensionell yta)
+    - upptas av (fyller ut tredimensionell yta)
+    - x1=volym (tredimensionell yta)
+    - x2=utfyllnad (fyller ut tredimensionell yta)
+  zh:
+    place structure: x1是空间（至少是一个三维区域），被x2所占据
+    notes:
+    - 占据= {selca'u}；参见 {kensa}, {bliku}, {kumfa}, {kevna}, {kunti}, {tubnu}, {dekpu}.
+    glosses:
+    - No glosses.

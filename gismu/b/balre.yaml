@@ -1,5 +1,84 @@
-Word: balre
-Rafsi: ba'e
-Definition: x1 is a blade of tool/weapon x2.
-Notes: See also {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
-Examples: None
+word: balre
+rafsi:
+- ba'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a blade of tool/weapon x2.
+    notes:
+    - See also {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - blade
+  de:
+    place structure: x1 ist die Klinge des Werkzeugs/der Waffe x2
+    notes:
+    - See also {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - x1=Klinge
+  es:
+    place structure: x1 es una hoja de herramienta/arma x2
+    notes:
+    - Ver también {dakfu}.
+    glosses:
+    - No glosses.
+  fr:
+    place structure: x1 est une lame de l'outil/l'arme x2.
+    notes:
+    - Voir également {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - lame (d'un couteau)
+  ru:
+    place structure: x1 — лезвие/клинок орудия/оружия x2
+    notes:
+    - '{dakfu} (нож), {tunta} (колоть), {tutci} (инструмент), {guska} (соскабливать),
+      {kinli} (острый), {katna} (разрезать)'
+    glosses:
+    - x1=лезвие
+    - x2=орудие с клинком
+  en-simple:
+    place structure: x1 is a blade of tool or weapon x2
+    notes:
+    - No notes.
+    glosses:
+    - a blade
+    - x2=a bladed tool or weapon
+  eo:
+    place structure: x1 estas klingo de ilo/armilo x2
+    notes:
+    - Vidu ankaŭ {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - klingo
+  hu:
+    place structure: x1 egy/a penge x2 eszközön/fegyveren
+    notes:
+    - '(Lásd még: {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna})'
+    glosses:
+    - penge
+  ja:
+    place structure: x1 は x2 （武器／道具）の刃
+    notes:
+    - 「lo se balre cu se darxi zbasu／刃物を鍛造する」 ・大意： 刃 ・読み方： バルゥレ  ・語呂合わせ：  blade,ren（刃）
+      ・関連語： {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er bladet/klingen på våpen/redskap x2
+    notes:
+    - Se også {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett blad/klinga av verktyg/vapen x2
+    notes:
+    - Se även {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - klinga (vass metalldel)
+    - x1=blad (vass metalldel)
+    - x2=försedd med klinga/blad
+  zh:
+    place structure: x1是刀锋/刃，位于工具/武器x2上
+    notes:
+    - 参见 {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+    glosses:
+    - No glosses.

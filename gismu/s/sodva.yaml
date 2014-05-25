@@ -1,7 +1,60 @@
-Word: sodva
-Rafsi: sod
-Definition: x1 is made of/contains/is a quantity of a carbonated beverage/soda of
-  flavor/brand x2.
-Notes: 'Also: soft drink (though this sometimes includes tea and coffee as distinct
-  from alcoholic beverages which are "hard drinks").  See also {jilka}, {jinme}.'
-Examples: None
+word: sodva
+rafsi:
+- sod
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of a carbonated beverage/soda
+      of flavor/brand x2.
+    notes:
+    - 'Also: soft drink (though this sometimes includes tea and coffee as distinct
+      from alcoholic beverages which are "hard drinks").  See also {jilka}, {jinme}.'
+    glosses:
+    - soda
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus kohlensäurehaltigem
+      Getränk/Limonade mit/von Geschmack/Sorte/Marke x2
+    notes:
+    - No notes.
+    glosses:
+    - Limonade
+  es:
+    place structure: x1 es una cantidad de soda/gaseosa de sabor/marca x2
+    notes:
+    - No notes.
+    glosses:
+    - gaseosa
+  ru:
+    place structure: x1 — газированный напиток вида/с привкусом x2
+    notes:
+    - 'Также: «прохладительный напиток» или «безалкогольный напиток», хотя к последним
+      обычно причисляют еще чай и кофе {jilka} (щелочь), {jinme} (металл)'
+    glosses:
+    - x1=содовая вода
+  en-simple:
+    place structure: x1 is a quantity of soda of flavor x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of soda
+    - x2=a type of soda
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el sodakvo de gusto/brando
+      x2
+    notes:
+    - Vidu ankaŭ {jilka}, {jinme}.
+    glosses:
+    - sodakvo
+  ja:
+    place structure: x1 は x2 （味／銘柄）の炭酸飲料／ソーダ
+    notes:
+    - ・大意： 炭酸飲料 ・読み方： ソドヴァ  ・語呂合わせ： soda ・関連語： {jilka}, {jinme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是碳酸饮料，具有口味/属于品牌x2
+    notes:
+    - 也指：软饮料（不含酒精的饮料）；参见 {jilka}, {jinme}.
+    glosses:
+    - No glosses.

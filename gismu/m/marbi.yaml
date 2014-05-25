@@ -1,6 +1,70 @@
-Word: marbi
-Rafsi: mra
-Definition: x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2 from danger/threat
-  x3.
-Notes: See also {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.
-Examples: None
+word: marbi
+rafsi:
+- mra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2
+      from danger/threat x3.
+    notes:
+    - See also {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.
+    glosses:
+    - shelter
+  de:
+    place structure: x1 ist ein Schutz/Unterschlupf/Zufluchtsort/Unterstand/Hafen
+      für x2/der x2 vor Gefahr/Bedrohung x3 schützt
+    notes:
+    - No notes.
+    glosses:
+    - Unterschlupf
+  es:
+    place structure: x1 ampara/alberga/protege/es un albergue/santuario/puerto/protección
+      para x2 de peligro/amenaza x3
+    notes:
+    - No notes.
+    glosses:
+    - amparar
+  ru:
+    place structure: x1 — убежище/укрытие/приют/гавань, защищающее x2 от угрозы/опасности
+      x3
+    notes:
+    - '{bandu} (защищать), {ckape} (опасный), {snura} (защищенный [в безопасности]),
+      {drudi} (крыша), {sepli} (отделенный), {bitmu} (стена), {gacri} (покрывать [в
+      качестве крышки])'
+    glosses:
+    - x1=убежище
+  en-simple:
+    place structure: x1 is a shelter for x2 against threat x3
+    notes:
+    - No notes.
+    glosses:
+    - a shelter
+    - x2=something sheltered
+    - x3=a threat sheltered against
+  eo:
+    place structure: x1 estas ŝirmejo/haveno/rifuĝejo/ripozejo protektanta x2-on de
+      danĝero/minaco x3
+    notes:
+    - Vidu ankaŭ {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.
+    glosses:
+    - haveno
+  hu:
+    place structure: x1 egy fedezék/menedék x2 védelmére x3 ellen
+    notes:
+    - '(Lásd még: {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri})'
+    glosses:
+    - fedezék
+  ja:
+    place structure: x1 は x2 を x3 （危険／脅威）から護る保護施設／避難所／シェルター
+    notes:
+    - 「隠れ家」「防空壕」「避暑地」なども。 ・大意： 保護施設 ・読み方： マルビ  ・関連語： {bandu}, {ckape}, {snura}, {drudi},
+      {sepli}, {bitmu}, {gacri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是避难所/安息所，保护x2免受危险/威胁x3
+    notes:
+    - 参见 {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.
+    glosses:
+    - No glosses.

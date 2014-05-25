@@ -1,6 +1,83 @@
-Word: dargu
-Rafsi: dag
-Definition: x1 is a road/highway to x2 from x3 with route x4 (x2/x3 may be unordered).
-Notes: A regularly used, improved-for-use surface for travelling.  See also {naxle},
-  {tcana}, {pluta}, {klaji}.
-Examples: None
+word: dargu
+rafsi:
+- dag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a road/highway to x2 from x3 with route x4 (x2/x3 may be
+      unordered).
+    notes:
+    - A regularly used, improved-for-use surface for travelling.  See also {naxle},
+      {tcana}, {pluta}, {klaji}.
+    glosses:
+    - road
+  de:
+    place structure: x1 ist eine Straße/ein Weg nach x2 von x3 mit Route x4 (x2/x3
+      können ungeordnet sein)
+    notes:
+    - No notes.
+    glosses:
+    - Straße (Weg)
+  es:
+    place structure: x1 es un camino/autopista/carretera hacia x2 desde x3 con ruta
+      x4
+    notes:
+    - Ver también {pluta},  {klaji}.
+    glosses:
+    - camino
+  ru:
+    place structure: x1 — дорога/шоссе, ведущая к x2 из x3 по маршруту x4 (x2/x3 могут
+      быть неупорядочены)
+    notes:
+    - Регулярно используемая, обустроенная для езды поверхность {naxle} (канал), {tcana}
+      (станция), {pluta} (путь), {klaji} (улица)
+    glosses:
+    - x1=дорога
+  en-simple:
+    place structure: x1 is a road or highway to x2 from x3 via x4
+    notes:
+    - No notes.
+    glosses:
+    - a road
+    - x2=a road's destination
+    - x3=a road's origin
+    - x4=a road's route
+  eo:
+    place structure: x1 estas vojo/ŝoseo al x2 de x3 kun kurso x4 (x2/x3 povas esti
+      senorda)
+    notes:
+    - Ofte uzata, por uzado plibonigita supraĵo por veturado.  Vidu ankaŭ {naxle},
+      {tcana}, {pluta}, {klaji}.
+    glosses:
+    - vojo
+  hu:
+    place structure: x1 egy (ország)út/autópálya [utazásra rendszeresen használt,
+      kiépített felület] x2-be, x3-ból, x4 útvonalon
+    notes:
+    - 'x2 és x3 felcserélhetők (Lásd még: {naxle}, {tcana}, {pluta}, {klaji})'
+    glosses:
+    - út
+  ja:
+    place structure: x1 は x2 （終点）・ x3 （起点）・ x4 （経路）の道路／車道
+    notes:
+    - 移動に特化した、舗装された通路全般 ・大意： 道路 ・読み方： ダルグ  ・語呂合わせ： dau(道), carretera ・関連語： {naxle},
+      {tcana}, {pluta}, {klaji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: 'x1 är en väg till x2 från x3 med rutt x4. '
+    notes:
+    - En regelbundet använd yta för färd, som är förbättrad för detta ändamål. x2
+      och x3 behöver inte vara i någon speciell ordning.
+    glosses:
+    - x1=väg
+    - x2=vägdestination
+    - x3=vägs början
+    - x4=vägrutt (via vilka platser väg går)
+  zh:
+    place structure: x1是路，去往x2，来自x3，经过路线x4（x2与x3之间可能是无序的）
+    notes:
+    - 参见 {naxle}, {tcana}, {pluta}, {klaji}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: lakse
-Rafsi: lak
-Definition: x1 is quantity of wax [substance especially soft/moldable when warm] from
-  source x2.
-Notes: Also paraffin.  See also {bifce}, {ranti}, {bidju}.
-Examples: None
+word: lakse
+rafsi:
+- lak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is quantity of wax [substance especially soft/moldable when
+      warm] from source x2.
+    notes:
+    - Also paraffin.  See also {bifce}, {ranti}, {bidju}.
+    glosses:
+    - wax
+  de:
+    place structure: x1 ist eine Menge an Wachs [Substanz die besonders weich/formbar
+      ist wenn warm] aus Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Wachs
+  es:
+    place structure: x1 es una cantidad de cera de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - cera
+  ru:
+    place structure: x1 — воск (вещество, размягчающееся при нагревании) из источника
+      x2
+    notes:
+    - 'Также: парафин {bifce} (пчела), {ranti} (мягкий), {bidju} (бисер)'
+    glosses:
+    - x1=воск
+    - x2=источник воска
+  en-simple:
+    place structure: x1 is a quantity of wax from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of wax
+    - x2=a source of wax
+  eo:
+    place structure: x1 estas kvanto da vakso [substance especially soft/moldable
+      when warm] el fonto x2
+    notes:
+    - 'Ankaŭ: parafino.  Vidu ankaŭ {bifce}, {ranti}, {bidju}.'
+    glosses:
+    - vakso
+  hu:
+    place structure: x1 bizonyos mennyiségű viasz/paraffin [hő hatására különösen
+      képlékennyé váló anyag] x2 forrásból
+    notes:
+    - '(Lásd még: {bifce}, {ranti}, {bidju})'
+    glosses:
+    - viasz
+  ja:
+    place structure: x1 は x2 （起源）の蝋／パラフィン
+    notes:
+    - ・大意： 蝋 ・読み方： ルァクセ  ・関連語： {bifce}, {ranti}, {bidju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蜡/蜡制品/蜡状物（加热会变软），来源于x2
+    notes:
+    - 也可指石蜡。查看{bifce},{ranti},{bidju}
+    glosses:
+    - 蜡

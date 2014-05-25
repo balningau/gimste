@@ -1,5 +1,70 @@
-Word: lacpu
-Rafsi: lap, cpu
-Definition: x1 pulls/tugs/draws/drags x2 by handle/at locus x3.
-Notes: Gravity (= ka {maicpu}, {maircpukai}).  See also {catke}, {sakci}, {cokcu}.
-Examples: None
+word: lacpu
+rafsi:
+- lap
+- cpu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pulls/tugs/draws/drags x2 by handle/at locus x3.
+    notes:
+    - Gravity (= ka {maicpu}, {maircpukai}).  See also {catke}, {sakci}, {cokcu}.
+    glosses:
+    - pull
+  de:
+    place structure: x1 zieht/zerrt x2 mit Griff/an Stelle x3
+    notes:
+    - No notes.
+    glosses:
+    - ziehen
+  es:
+    place structure: x1 tira/jala de x2 por manija/parte x3
+    notes:
+    - Ver también {catke}.
+    glosses:
+    - tirar
+  ru:
+    place structure: x1 тянет/тащит x2 за участок/{ручку} x3
+    notes:
+    - 'гравитационное притяжение: {ka} {maicpu}, {maircpukai} {catke} (толкать), {sakci}
+      (всасывать), {cokcu} (впитывать)'
+    glosses:
+    - тащить
+    - x1=тащащий
+    - x2=то, что тащат
+    - x3=место, за которое тащат
+  en-simple:
+    place structure: x1 pulls or drags x2 by handle x3
+    notes:
+    - No notes.
+    glosses:
+    - a puller
+    - x2=something pulled
+    - x3=something by which something is pulled
+  eo:
+    place structure: x1 tiras/trenas x2-on per tenilo/je loko x3
+    notes:
+    - Gravito (= ka {maicpu}, {maircpukai}).  Vidu ankaŭ {catke}, {sakci}, {cokcu}.
+    glosses:
+    - tiri
+  hu:
+    place structure: x1 húzza/vonszolja/megrántja/rángatja/vontatja x2-t x3-nál fogva
+    notes:
+    - '(Lásd még: {catke}, {sakci}, {cokcu})'
+    glosses:
+    - húz
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）を引く／引っ張る
+    notes:
+    - ・大意： 引く ・読み方： ルァシプ  ・関連語： {catke}, {sakci}, {cokcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1拉/拽/扯/拖x2，把手/拉的地方是x3
+    notes:
+    - 查看{catke},{sakci},{cokcu}
+    glosses:
+    - 拉，扯，拽，拖
+    - x1=拉
+    - x2=被拉
+    - x3=拉的位置

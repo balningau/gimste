@@ -1,6 +1,69 @@
-Word: sidju
-Rafsi: dju
-Definition: x1 helps/assists/aids object/person x2 do/achieve/maintain event/activity
-  x3.
-Notes: See also cmavo list {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.
-Examples: None
+word: sidju
+rafsi:
+- dju
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 helps/assists/aids object/person x2 do/achieve/maintain event/activity
+      x3.
+    notes:
+    - See also cmavo list {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.
+    glosses:
+    - help
+  de:
+    place structure: x1 hilft/assistiert/fördert Objekt/Person x2 im Tun/Erreichen/Aufrechterhalten
+      von Ereignis/Tätigkeit x3
+    notes:
+    - No notes.
+    glosses:
+    - helfen
+  es:
+    place structure: x1 ayuda/asiste a x2 para hacer/lograr/mantener evento/actividad
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - ayudar
+  ru:
+    place structure: x1 помогает/содействует/способствует лицу/объекту x2 делать/достигать/поддерживать
+      x3 (событие/деятельность)
+    notes:
+    - '{si''u}, {rirni} (родитель), {sarji} (поддерживать [помогать]), {vipsi} (заместитель),
+      {ferti} (плодородный), {selfu} (оказывать [услугу])'
+    glosses:
+    - помогать
+    - x1=помогающий
+  en-simple:
+    place structure: x1 helps x2 do x3
+    notes:
+    - No notes.
+    glosses:
+    - a helper
+    - x2=a receiver of help
+    - x3=something that something is helped to do
+  eo:
+    place structure: x1 helpas objekton/homon x2 fari/atingi/daŭrigi okazon/agon x3
+    notes:
+    - Vidu ankaŭ cmavo {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.
+    glosses:
+    - helpi
+  hu:
+    place structure: x1 segíti/támogatja x2-t x3 esemény/tulajdonság elérésében/fenntartásában
+    notes:
+    - '(Lásd még: {rirni}, {sarji}, {vipsi}, {ferti}, {selfu})'
+    glosses:
+    - segít
+  ja:
+    place structure: x1 は x2 （者）を x3 （行動／事）に関して助ける
+    notes:
+    - 「to'u ja'o tcima xamgu .inaja lo jikcre cu se sidju／とにかくお天気ならば世間師は助かる」（山頭火『行乞記（二）』）
+      ・大意： 助ける ・読み方： スィヂュ ・語呂合わせ： 始終助ける djo 助, aid, ju(助) ・関連語： {si'u}, {rirni}, {sarji},
+      {vipsi}, {ferti}, {selfu}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1帮助人/物x2实现/完成/达到x3（事件/行为）
+    notes:
+    - 参见 {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.
+    glosses:
+    - No glosses.

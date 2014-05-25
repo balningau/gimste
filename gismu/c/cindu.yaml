@@ -1,5 +1,68 @@
-Word: cindu
-Rafsi: ''
-Definition: x1 is an oak, a type of tree of species/strain x2.
-Notes: See also {tricu}.
-Examples: None
+word: cindu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an oak, a type of tree of species/strain x2.
+    notes:
+    - See also {tricu}.
+    glosses:
+    - oak
+  de:
+    place structure: x1 ist eine Eiche, eine Art Baum von Art/Kultur x2
+    notes:
+    - No notes.
+    glosses:
+    - Eiche
+  es:
+    place structure: x1 es un roble (árbol) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — дуб (дерево) вида/разновидности x2
+    notes:
+    - '{tricu} (дерево)'
+    glosses:
+    - x1=дуб
+  en-simple:
+    place structure: x1 is an oak of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an oak
+    - x2=a species of oak
+  eo:
+    place structure: x1 estas kverko, arbo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {tricu}.
+    glosses:
+    - kverko
+  hu:
+    place structure: x1 egy tölgy [Quercus/Lithocarpus nemzetség] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {tricu})'
+    glosses:
+    - tölgy
+  ja:
+    place structure: x1 はブナ科（樫／オーク）
+    notes:
+    - ・大意： ブナ科 ・読み方： シンドゥ  ・語呂合わせ： cian（橡） ・関連語： {tricu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ek av art/sort x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=ek (träd)
+    - x2=eksort
+  zh:
+    place structure: x1是橡树，属于品种/种类x2
+    notes:
+    - 参见 {tricu}.
+    glosses:
+    - No glosses.

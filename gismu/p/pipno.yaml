@@ -1,5 +1,65 @@
-Word: pipno
-Rafsi: pi'o
-Definition: x1 is a piano/harpsichord/synthesizer/organ; a keyboard musical instrument.
-Notes: See also {zgike}.
-Examples: None
+word: pipno
+rafsi:
+- pi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a piano/harpsichord/synthesizer/organ; a keyboard musical
+      instrument.
+    notes:
+    - See also {zgike}.
+    glosses:
+    - piano
+  de:
+    place structure: x1 ist ein Klavier/Piano/Cembalo/Keyboard/eine Orgel; ein Musikinstrument
+      mit Tasten
+    notes:
+    - No notes.
+    glosses:
+    - Klavier
+  es:
+    place structure: x1 es un piano/clavicordio/sintetizador/órgano (instrumento musical
+      con teclado)
+    notes:
+    - No notes.
+    glosses:
+    - piano
+  ru:
+    place structure: x1 — фортепиано/клавесин/синтезатор/орган/… (клавишный музыкальный
+      инструмент)
+    notes:
+    - 'Также: рояль, пианино, баян, аккордеон,… {zgike} (музыка)'
+    glosses:
+    - фортепиано
+  en-simple:
+    place structure: x1 is a piano or other keyboard musical instrument
+    notes:
+    - No notes.
+    glosses:
+    - a keyboard instrument
+  eo:
+    place structure: x1 estas piano/klaviceno/sintezilo/organo; klavara muzikinstrumento
+    notes:
+    - Vidu ankaŭ {zgike}.
+    glosses:
+    - piano
+  hu:
+    place structure: x1 egy zongora/csembaló/harmónium/orgona/cseleszta/harmonika/szintetizátor/[billentyűs
+      hangszer]
+    notes:
+    - '(Lásd még: {zgike})'
+    glosses:
+    - zongora
+  ja:
+    place structure: x1 は鍵盤楽器（ピアノ／ハープシコード／シンセサイザー／オルガン）
+    notes:
+    - ・大意： 鍵盤楽器 ・読み方： ピプノ  ・語呂合わせ： piano ・関連語： {zgike}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是键盘乐器（如：钢琴/电子琴/管风琴）
+    notes:
+    - 参见 {zgike}.
+    glosses:
+    - No glosses.

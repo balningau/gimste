@@ -1,6 +1,69 @@
-Word: gunta
-Rafsi: gut
-Definition: x1 (person/mass) attacks/invades/commits aggression upon victim x2 with
-  goal/objective x3.
-Notes: See also {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}.
-Examples: None
+word: gunta
+rafsi:
+- gut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person/mass) attacks/invades/commits aggression upon victim
+      x2 with goal/objective x3.
+    notes:
+    - See also {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}.
+    glosses:
+    - attack
+  de:
+    place structure: x1 (Person/Masse) greift x2 an/dringt in x2 ein/übt Aggression
+      an Opfer x2 aus mit Ziel x3
+    notes:
+    - No notes.
+    glosses:
+    - angreifen
+  es:
+    place structure: x1 ataca/invade/agrede a víctima x2 con fin/objetivo x3
+    notes:
+    - No notes.
+    glosses:
+    - atacar
+  ru:
+    place structure: x1 (лицо/масса) нападает на/атакует/вторгается в/совершает агрессию
+      против x2 (жертва) с целью x3
+    notes:
+    - '{bradi} (враг), {damba} (драться), {darxi} (ударять), {jamna} (воевать), {jenca}
+      (потрясать [ошеломлять]), {jursa} (суровый)'
+    glosses:
+    - нападать
+    - x1=нападающий
+  en-simple:
+    place structure: x1 attacks x2 with goal x3
+    notes:
+    - No notes.
+    glosses:
+    - an attacker
+    - x2=something attacked
+    - x3=an attack goal
+  eo:
+    place structure: x1 (homo/kolektivaĵo) atakas/invadas/agresas kontraŭ viktimo
+      x2 kun celo x3
+    notes:
+    - Vidu ankaŭ {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}.
+    glosses:
+    - ataki
+  hu:
+    place structure: x1 személy/sereg megtámadja/megrohamozza x2-t x3 céllal
+    notes:
+    - '(Lásd még: {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa})'
+    glosses:
+    - megtámad
+  ja:
+    place structure: x1 は x2 を x3 （目的）のために攻撃／侵攻する
+    notes:
+    - ・大意： 攻撃 ・読み方： グンタ  ・語呂合わせ： 軍、他を攻撃, gun（攻）, attack ・関連語： {bradi}, {damba}, {darxi},
+      {jamna}, {jenca}, {jursa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1攻击/入侵/进攻/侵犯/侵害x2，为了目的x3
+    notes:
+    - 参见 {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}.
+    glosses:
+    - No glosses.

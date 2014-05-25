@@ -1,11 +1,85 @@
-Word: jarco
-Rafsi: ja'o
-Definition: x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2 (property)
-  to audience x3.
-Notes: '[reveal (= {tolmipygau}, {mipyja''o}, {sivja''o}); also: $x_1$ shows that
-  $x_2$, $x_1$ shows off $x_2$; showing an object is generally expressed with a {tu''a}
-  $x_2$, since the properties of the shown object (other than its presence) intended
-  for observation are seldom specified (simple presence could be expressed by {lo}{ka}
-  Object. {cu} {zvati})]; See also {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri},
-  {simlu}.'
-Examples: None
+word: jarco
+rafsi:
+- ja'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2
+      (property) to audience x3.
+    notes:
+    - '[reveal (= {tolmipygau}, {mipyja''o}, {sivja''o}); also: x1 shows that x2,
+      x1 shows off x2; showing an object is generally expressed with a {tu''a} x2,
+      since the properties of the shown object (other than its presence) intended
+      for observation are seldom specified (simple presence could be expressed by
+      {lo}{ka} Object. {cu} {zvati})]; See also {tigni}, {cipra}, {zgana}, {jvinu},
+      {lanli}, {mipri}, {simlu}.'
+    glosses:
+    - show
+  de:
+    place structure: x1 (Handelnder) zeigt/stellt aus/führt vor/zeigt vor/[enthüllt]/demonstriert
+      x2 (Eigenschaft) vor Publikum x3
+    notes:
+    - No notes.
+    glosses:
+    - zeigen
+  es:
+    place structure: x1 muestra/exhibe/expone x2 ante audiencia x3
+    notes:
+    - Ver también {mipri},  {tigni}.
+    glosses:
+    - mostrar
+  ru:
+    place structure: x1 показывает/демонстрирует x2 (свойство) аудитории x3; x1 показывает,
+      что x2
+    notes:
+    - 'Раскрывать секрет, разоблачать: {tolmipygau}, {mipyja''o}, {sivja''o}; «показывать
+      на» (объект) обычно выражается с помощью {tu''a} x2, поскольку свойства показываемого
+      объекта (отличные от факта его существования) редко указываются явно (присутствие
+      как таковое м.б. выражено с помощью {le}{ka} «объект» {cu} {zvati}) {tigni}
+      (выступать [давать представление]), {cipra} (проверка), {zgana} (наблюдать),
+      {jvinu} (вид [панорама]), {lanli} (анализировать), {mipri} (скрывать), {simlu}
+      (казаться)'
+    glosses:
+    - показывать
+    - x1=показывающий
+  en-simple:
+    place structure: x1 demonstrates or shows x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a demonstrater
+    - x2=something demonstrated
+    - x3=an audience of a demonstration
+  eo:
+    place structure: x1 (aganto) montras/elmontras/[malkaŝas]/demonstras x2-on (eco)
+      al publiko x3
+    notes:
+    - '(malkaŝi (= {tolmipygau}, {mipyja''o}, {sivja''o}); ankaŭ: x1 montras ke x2,
+      x1 paradigas/elstarigas/kontrastigas x2-on; montradon de objekto oni ĝenerale
+      esprimas per tu''a x2, ĉar la ecoj de la montrita objekto (krom ĝia ĉeesto)
+      destinitaj por observado malofte estas specifitaj (simpla ĉeesto povus esti
+      esprimata per leka Objekto. cu zvati)); Vidu ankaŭ {tigni}, {cipra}, {zgana},
+      {jvinu}, {lanli}, {mipri}, {simlu}.'
+    glosses:
+    - montri
+  hu:
+    place structure: x1 bemutatja/demonstrálja x2 tulajdonságot x3 közönségnek
+    notes:
+    - '(Lásd még: {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu})'
+    glosses:
+    - bemutat
+  ja:
+    place structure: x1 は x2 （性質）を x3 （者）に見せる／表示／展示する
+    notes:
+    - ・大意： 表示 ・読み方： ジャルショ  ・関連語： {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri},
+      {simlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1展示/展现/展览/显示x2（性质）给接受者x3
+    notes:
+    - 揭露/使显示= {tolmipygau}, {mipyja'o}, {sivja'o}；也指x1展示x2（若x2为物体，则使用{tu'a}，表达了展示的是物体的性质，如果要表达的是物体的“存在性”，则使用“{leka}物体
+      {cu} {zvati}”）；参见 {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu}.
+    glosses:
+    - No glosses.

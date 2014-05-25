@@ -1,5 +1,66 @@
-Word: tumla
-Rafsi: tum, tu'a
-Definition: x1 is a parcel/expanse of land at location x2; x1 is terrain.
-Notes: (cf. {vacri}, {xamsi}; {tutra}, which need not be land, {gugde}, {xamsi})
-Examples: None
+word: tumla
+rafsi:
+- tum
+- tu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a parcel/expanse of land at location x2; x1 is terrain.
+    notes:
+    - (cf. {vacri}, {xamsi}; {tutra}, which need not be land, {gugde}, {xamsi})
+    glosses:
+    - land
+  de:
+    place structure: x1 ist eine Fläche Land/Landstrich an Ort x2; x1 ist Festland
+    notes:
+    - No notes.
+    glosses:
+    - Landstrich
+  es:
+    place structure: x1 es un terreno/una parcela/expansión de tierra en localidad
+      x2
+    notes:
+    - Ver también {tutra}.
+    glosses:
+    - terreno
+  ru:
+    place structure: x1 — массив суши/земли/тверди в местности x2
+    notes:
+    - '{vacri} (воздух), {xamsi} (море); {tutra} (территория) — не обязательно суша;
+      {gugde} (страна), {xamsi} (море)'
+    glosses:
+    - x1=суша
+  en-simple:
+    place structure: x1 is terrain at x2
+    notes:
+    - No notes.
+    glosses:
+    - terrain
+    - x2=a location of terrain
+  eo:
+    place structure: x1 estas tereno/terspaco/amplekso de tera supraĵo en loko x2;
+      x1 estas tereno
+    notes:
+    - (kp. vacri, xamsi; tutra, kiu ne nepre estas tera, gugde, xamsi)
+    glosses:
+    - tereno
+  hu:
+    place structure: x1 egy földterület x2 helyen
+    notes:
+    - '(Lásd még: {vacri}, {xamsi}, {tutra}, {gugde})'
+    glosses:
+    - föld (terület)
+  ja:
+    place structure: x1 は x2 （位置）における陸／大地の広がり
+    notes:
+    - 「大陸」も。 ・大意： 陸 ・読み方： トゥムルァ  ・語呂合わせ： tu（土）, land ・関連語： {vacri}, {xamsi}; {tutra},
+      {gugde}, {xamsi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是土地/是与地形/地势有关的
+    notes:
+    - 参见 {vacri}, {xamsi}, {tutra}不限定于土地, {gugde}, {xamsi}
+    glosses:
+    - No glosses.

@@ -1,11 +1,86 @@
-Word: tcica
-Rafsi: tic
-Definition: x1 (event/experience) misleads/deceives/dupes/fools/cheats/tricks x2 into
-  x3 (event/state).
-Notes: Agentive deception (= {ticygau}, {ticyzu'e}); $x_3$ could be an action or a
-  belief on the part of $x_2$; harmful intent or result is not implied (= {malticyzu'e}
-  for such harmful intent); self deception (= {sezytcica}); deceive/trick into misguided
-  action (= {ticyxlu}); misguided belief (= {tickri}); fib/lie/tell an untruth/lie/fib
-  (= {ticysku}, {jifsku}), white lie (= {zanticysku}).  See also {stace}, {xlura},
-  {stidi}, {kajde}.
-Examples: None
+word: tcica
+rafsi:
+- tic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/experience) misleads/deceives/dupes/fools/cheats/tricks
+      x2 into x3 (event/state).
+    notes:
+    - Agentive deception (= {ticygau}, {ticyzu'e}); x3 could be an action or a belief
+      on the part of x2; harmful intent or result is not implied (= {malticyzu'e}
+      for such harmful intent); self deception (= {sezytcica}); deceive/trick into
+      misguided action (= {ticyxlu}); misguided belief (= {tickri}); fib/lie/tell
+      an untruth/lie/fib (= {ticysku}, {jifsku}), white lie (= {zanticysku}).  See
+      also {stace}, {xlura}, {stidi}, {kajde}.
+    glosses:
+    - deceive
+  de:
+    place structure: x1 (Ereignis/Erfahrung) täuscht/führt x2 irre und resultiert
+      in x3 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - irreführend
+  es:
+    place structure: x1 engaña/embauca/embuste/miente a x2 sobre tema x3 por método/acción
+      x4
+    notes:
+    - Ver también {stace}.
+    glosses:
+    - engañar
+  ru:
+    place structure: x1 (событие/состояние) обманчиво для/вводит в заблуждение/дурачит
+      x2 (кого), приводя его к x3 (событие/состояние)
+    notes:
+    - 'Деятельный обман/хитрость: {ticygau}, {ticyzu''e}; x3 м.б. действием или убеждением
+      со стороны x2; не предполагается злостный умысел: {malticyzu''e} при сознательном
+      желании причинить ущерб); самообман: {sezytcica}; спровоцировать, заманить:
+      {ticyxlu}; суеверие: {tickri}; лгать/дезинформировать: {ticysku}, {jifsku};
+      невинная ложь/ложь во спасение: {zanticysku} {stace} (честный), {xlura} (влиять),
+      {stidi} (советовать), {kajde} (предостережение)'
+    glosses:
+    - обманывать
+    - x1=обманчивое
+  en-simple:
+    place structure: x1 tricks or misleads x2 into x3
+    notes:
+    - No notes.
+    glosses:
+    - a tricker
+    - x2=something tricked
+    - x3=something that something is tricked into
+  eo:
+    place structure: x1 (okazo/sperto) trompas/misgvidas/erarigas/miskondukas x2-on
+      en x3-on (okazo/stato)
+    notes:
+    - Agenta trompado (= {ticygau}, {ticyzu'e}); x3 povus esti ago aŭ kredo de x2;
+      difekta intenco aŭ rezulto ne implicita (= malticyzu'e por tia difekta {intenco});
+      memtrompi (=sezytcica); trompi en misgvidan agon (= {ticyxlu}); trompita kredo
+      (= {tickri}); mensogi/diri malveron (= {ticysku}, {jifsku}), blanka mensogo
+      (= {zanticysku}).  Vidu ankaŭ {stace}, {xlura}, {stidi}, {kajde}.
+    glosses:
+    - trompi
+  hu:
+    place structure: x1 esemény/tapasztalat megtéveszti/félrevezeti x2-t, kiváltva
+      benne x3 eseményt/állapotot
+    notes:
+    - '(Lásd még: {stace}, {xlura}, {stidi}, {kajde})'
+    glosses:
+    - megtéveszt
+  ja:
+    place structure: x1 （事／経験）は x2 を欺いて／騙して x3 （事／状態）をさせる；  x2 は x1 に惑わされて x3 をする
+    notes:
+    - x3は行動や所信など。詐欺などの悪質性は必ずしも含意されない。 ・大意： 欺く ・読み方： チシャ  ・語呂合わせ： 知者は欺く, trick ・関連語：
+      {stace}, {xlura}, {stidi}, {kajde}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/经历）误导/愚弄/欺骗x2进入状态/事件x3中
+    notes:
+    - （施事的）愚弄/误导/欺骗={ticygau}/{ticyzu'e}；x3可能是x2某一部分上的行为或状态；不暗示有害的目的或结果；{malticyzu'e}具有有害的目的或结果；自欺=
+      {sezytcica}；误导/欺骗……进入某种行为/状态= {ticyxlu}；误导的信条= {tickri}；欺骗/说谎= {ticysku}/{jifsku}；无恶意的谎言={zanticysku}；参见
+      {stace}, {xlura}, {stidi}, {kajde}.
+    glosses:
+    - No glosses.

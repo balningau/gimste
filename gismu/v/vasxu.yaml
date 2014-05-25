@@ -1,7 +1,60 @@
-Word: vasxu
-Rafsi: vax, va'u
-Definition: x1 breathes/respires x2 [gas].
-Notes: (though used to make the Lojban word, clue word vascular is erroneous, actually
-  pertaining to the circulatory system that carries the respired oxygen to the tissues);
-  See also {fepri}, {kijno}, {vacri}.
-Examples: None
+word: vasxu
+rafsi:
+- vax
+- va'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 breathes/respires x2 [gas].
+    notes:
+    - (though used to make the Lojban word, clue word vascular is erroneous, actually
+      pertaining to the circulatory system that carries the respired oxygen to the
+      tissues); See also {fepri}, {kijno}, {vacri}.
+    glosses:
+    - breathe
+  de:
+    place structure: x1 atmet x2 [Gas]
+    notes:
+    - No notes.
+    glosses:
+    - atmen
+  es:
+    place structure: x1 respira aire/gas x2
+    notes:
+    - No notes.
+    glosses:
+    - respirar
+  ru:
+    place structure: x1 дышит (газом) x2
+    notes:
+    - '{fepri} (легкое [анатомия]), {kijno} (кислород), {vacri} (воздух)'
+    glosses:
+    - дышать
+    - x1=дышающий
+    - x2=то, чем дышат
+  en-simple:
+    place structure: x1 breathes x2
+    notes:
+    - No notes.
+    glosses:
+    - a breather
+    - x2=something breathed
+  hu:
+    place structure: x1 belélegzi x2 gáznemű anyagot
+    notes:
+    - '(Lásd még: {fepri}, {kijno}, {vacri})'
+    glosses:
+    - lélegzik
+  ja:
+    place structure: x1 は x2 （気体）を吸う／吐く
+    notes:
+    - ・大意： 呼吸 ・読み方： ヴァスクゥ  ・関連語： {fepri}, {kijno}, {vacri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1呼吸x2（气体）
+    notes:
+    - 参见 {fepri}, {kijno}, {vacri}.
+    glosses:
+    - No glosses.

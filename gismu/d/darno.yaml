@@ -1,5 +1,70 @@
-Word: darno
-Rafsi: dar, da'o
-Definition: x1 is far/distant from x2 in property x3 (ka).
-Notes: See also {jibni}.
-Examples: None
+word: darno
+rafsi:
+- dar
+- da'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is far/distant from x2 in property x3 (ka).
+    notes:
+    - See also {jibni}.
+    glosses:
+    - far
+  de:
+    place structure: x1 ist weit entfernt/fern von x2 in Eigenschaft x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - weit
+  es:
+    place structure: x1 está lejos/lejano/distante/alejado de x2 en propiedad x3
+    notes:
+    - Ver también {jibni}.
+    glosses:
+    - lejos
+  ru:
+    place structure: x1 находится далеко/в отдалении/удален от x2 по свойству x3 ({ka})
+    notes:
+    - '{jibni} (близко)'
+    glosses:
+    - x1=удалённый
+  en-simple:
+    place structure: x1 is distant from x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something distant
+    - x2=something to which something is distant
+    - x3=a property of distantness
+  eo:
+    place structure: x1 estas malproksima/fora de x2 en kvalito x3 (ka)
+    notes:
+    - Vidu ankaŭ {jibni}.
+    glosses:
+    - malproksima
+  hu:
+    place structure: x1 távol/messze van x2-től x3 tulajdonságában
+    notes:
+    - '(Lásd még: {jibni})'
+    glosses:
+    - távoli
+  ja:
+    place structure: x1 は x2 から x3 （性質）に関して遠い
+    notes:
+    - ・大意： 遠い ・読み方： ダルノ  ・関連語： {jibni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är långt borta/avlägset/fjärran från x2 i egenskap x3 (ka).
+    notes:
+    - No notes.
+    glosses:
+    - avlägset
+    - fjärran
+  zh:
+    place structure: x1是远的，离x2，以性质x3（ka）
+    notes:
+    - 参见 {jibni}.
+    glosses:
+    - No glosses.

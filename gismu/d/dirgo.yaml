@@ -1,6 +1,74 @@
-Word: dirgo
-Rafsi: dig
-Definition: x1 is a drop [small, cohesive shape] of material [liquid/vapor] x2 in
-  surrounding material x3.
-Notes: See also {daplu}, {bidju}.
-Examples: None
+word: dirgo
+rafsi:
+- dig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a drop [small, cohesive shape] of material [liquid/vapor]
+      x2 in surrounding material x3.
+    notes:
+    - See also {daplu}, {bidju}.
+    glosses:
+    - drop
+  de:
+    place structure: x1 ist ein Tropfen [kleine, zusammenhängende Form] von Material
+      [Flüssigkeit/Dampf] x2 in Umgebung x3
+    notes:
+    - No notes.
+    glosses:
+    - Tropfen
+  es:
+    place structure: x1 es una gota/burbuja (forma) de material x2 en material circundante
+      x3
+    notes:
+    - Ver también {daplu}.
+    glosses:
+    - gota
+  ru:
+    place structure: 'x1 — капля/пузырек (форма: маленькая, связная) из вещества (жидкость/пар)
+      x2 в окружающем веществе x3'
+    notes:
+    - '{daplu} (остров), {bidju} (бисер)'
+    glosses:
+    - капля
+  en-simple:
+    place structure: x1 is a drop of x2 in surrounding material x3
+    notes:
+    - No notes.
+    glosses:
+    - a drop
+    - x2=a material of a drop
+    - x3=something containing a drop
+  eo:
+    place structure: x1 estas guto [malgranda, kohera formo] el materialo [likvo/vaporo]
+      x2 en ĉirkaŭa materialo x3
+    notes:
+    - Vidu ankaŭ {daplu}, {bidju}.
+    glosses:
+    - guto
+  hu:
+    place structure: x1 egy csepp x2 anyagból, x3 környező anyagban
+    notes:
+    - '(Lásd még: {daplu}, {bidju})'
+    glosses:
+    - csepp
+  ja:
+    place structure: x1 は x2 （物質）の雫／滴
+    notes:
+    - x1を包む物質としてx3の追加も。 ・大意： 雫 ・読み方： ディルゴ  ・関連語： {daplu}, {bidju}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en droppe [liten, kohesivt sammanhållen form] av material
+      x2 [vätska/ånga] i omgivande material x3.
+    notes:
+    - No notes.
+    glosses:
+    - droppe
+  zh:
+    place structure: x1是一滴液体x2，在环境物质x3中
+    notes:
+    - 参见 {daplu}, {bidju}.
+    glosses:
+    - No glosses.

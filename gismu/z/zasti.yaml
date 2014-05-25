@@ -1,6 +1,74 @@
-Word: zasti
-Rafsi: zat, za'i
-Definition: x1 exists/is real/actual/reality for x2 under metaphysics x3.
-Notes: Words usable for epistemology typically have a du'u place.  $x_1$ is physical
-  (one sense).  See also {fatci}, {xanri}.
-Examples: None
+word: zasti
+rafsi:
+- zat
+- za'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 exists/is real/actual/reality for x2 under metaphysics x3.
+    notes:
+    - Words usable for epistemology typically have a du'u place.  x1 is physical (one
+      sense).  See also {fatci}, {xanri}.
+    glosses:
+    - exist
+  jbo:
+    place structure: lo nu su'o da zo'u da me x1 ku se manri x2 boi x3
+    notes:
+    - '{manri}, {me}, {da}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 existiert/ist real/tatsächlich/Realität für x2 gemäß Metaphysik
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - existieren
+  es:
+    place structure: x1 existe/es real para x2 bajo epistemología x3
+    notes:
+    - No notes.
+    glosses:
+    - existir
+  ru:
+    place structure: x1 существует/реален для/с точки зрения x2 в рамках метафизики
+      x3
+    notes:
+    - x1 — физический; слова, описывающие эпистемологию, обычно имеют место типа {du'u}
+      {fatci} (факт), {xanri} (воображаемый)
+    glosses:
+    - реальный
+  en-simple:
+    place structure: x1 exists or is real to x2 under metaphysics x3
+    notes:
+    - No notes.
+    glosses:
+    - something existing
+    - x2=something to which something exists
+    - x3=a metaphysics of existence
+  eo:
+    place structure: x1 ekzistas/estas reala/efektiva por x2 laŭ metafiziko x3
+    notes:
+    - Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton.  x1 estas fizika
+      (unu senco).  Vidu ankaŭ {fatci}, {xanri}.
+    glosses:
+    - ekzisti
+  hu:
+    place structure: x1 létezik/valóságos x2 számára, x3 metafizikai értelemben
+    notes:
+    - '(Lásd még: {fatci}, {xanri})'
+    glosses:
+    - létezik
+  ja:
+    place structure: x1 は x2 （観点）・ x3 （認識体系）において実在する
+    notes:
+    - ・大意： 存在する ・読み方： ザスティ ・関連語： {fatci}, {xanri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是真实的/实际存在的，对于x2来说，基于认知论x3
+    notes:
+    - 关于认知论的词都含有du'u位；参见 {fatci}, {xanri}.
+    glosses:
+    - No glosses.

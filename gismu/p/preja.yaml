@@ -1,5 +1,70 @@
-Word: preja
-Rafsi: pej, pe'a
-Definition: x1 spreads/expands over/into x2 from initial state x3.
-Notes: See also {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
-Examples: None
+word: preja
+rafsi:
+- pej
+- pe'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 spreads/expands over/into x2 from initial state x3.
+    notes:
+    - See also {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
+    glosses:
+    - spread (expand)
+  de:
+    place structure: x1 breitet sich aus über/nach x2, vom Ursprunszustand x3 (Zustand)
+      aus
+    notes:
+    - No notes.
+    glosses:
+    - sich verbreiten
+  es:
+    place structure: x1 se expande/extiende/propaga sobre x2 desde estado inicial
+      x3
+    notes:
+    - Ver también {jmaji},  {banro}.
+    glosses:
+    - expandirse
+  ru:
+    place structure: x1 простирается/распространяется/продолжается на x2 из начального
+      состояния x3
+    notes:
+    - '{tcena} (растягиваться), {kuspe} (простираться), {ranji} (продолжаться), {fatri}
+      (распределяться), {muvdu} (двигаться), {benji} (передавать [сигнал])'
+    glosses:
+    - простираться
+    - x1=простирающийся
+    - x2=на что простирается
+  en-simple:
+    place structure: x1 spreads over x2 from initial state x3
+    notes:
+    - No notes.
+    glosses:
+    - something spread
+    - x2=an area something is spread over
+    - x3=a state before spreading
+  eo:
+    place structure: x1 disvastiĝas/etendiĝas sur x2-on el komenca stato x3
+    notes:
+    - Vidu ankaŭ {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
+    glosses:
+    - disvastiĝi
+  hu:
+    place structure: x1 elterjed/kiterjeszkedik x2 fölé/-ben x3 kiindulási állapotból
+    notes:
+    - '(Lásd még: {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji})'
+    glosses:
+    - terjed
+  ja:
+    place structure: x1 は x2 （拡張範囲）に x3 （初期範囲）から広がる
+    notes:
+    - ・大意： 広がる ・読み方： プレジャ  ・語呂合わせ： 広がるプレジャー ・関連語： {tcena}, {kuspe}, {ranji}, {fatri},
+      {muvdu}, {benji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1扩展/扩张/延展至x2，从原状态x3
+    notes:
+    - 参见 {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
+    glosses:
+    - No glosses.

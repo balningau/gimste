@@ -1,7 +1,84 @@
-Word: cevni
-Rafsi: cev, cei
-Definition: x1 is a/the god/deity of people(s)/religion x2 with dominion over x3 [sphere];
-  x1 is divine.
-Notes: Also divinity; $x_2$ religion refers to the religious community as a mass.  See
-  also {censa}, {krici}, {lijda}, {malsi}.
-Examples: None
+word: cevni
+rafsi:
+- cev
+- cei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the god/deity of people(s)/religion x2 with dominion
+      over x3 [sphere]; x1 is divine.
+    notes:
+    - Also divinity; x2 religion refers to the religious community as a mass.  See
+      also {censa}, {krici}, {lijda}, {malsi}.
+    glosses:
+    - god
+  de:
+    place structure: x1 ist ein/der Gott/Gottheit von Person/Volk/Kultur/Religion
+      x2 mit Zuständigkeitsgebiet/Einflussbereich x3; x1 ist göttlich
+    notes:
+    - No notes.
+    glosses:
+    - Gott
+  es:
+    place structure: x1 es un dios/ídolo/divinidad/deidad de gente/religión x2 con
+      dominio sobre esfera x3
+    notes:
+    - No notes.
+    glosses:
+    - dios
+  ru:
+    place structure: x1 — бог/божество народа/религии x2, покровительствующий сфере
+      x3
+    notes:
+    - Если x2 религия, то относится к религиозной общине, взятой как масса {censa}
+      (священный), {krici} (верить), {lijda} (религия), {malsi} (храм)
+    glosses:
+    - бог
+  en-simple:
+    place structure: x1 is a god of people or religion x2 with dominion over x3
+    notes:
+    - No notes.
+    glosses:
+    - a god
+    - x2=a god's people
+    - x3=a god's dominion
+  eo:
+    place structure: x1 estas (la) dio de popolo/religio x2 reganta super x3 [sfero];
+      x1 estas dia
+    notes:
+    - Vidu ankaŭ {censa}, {krici}, {lijda}, {malsi}.
+    glosses:
+    - dio
+  hu:
+    place structure: x1 egy/az isten(ség)e x2 személyeknek/vallásnak, aki hatalommal
+      rendelkezik x3 fölött
+    notes:
+    - '(Lásd még: {censa}, {krici}, {lijda}, {malsi})'
+    glosses:
+    - isten
+  ja:
+    place structure: x1 は x2 （者／宗教）の、 x3 （領域）をつかさどる神／神性／仏；  x2 は x1 を崇拝する／崇める；  x1
+      は神がかり
+    notes:
+    - ・大意： 神 ・読み方： シェヴニ  ・関連語： {censa}, {krici}, {lijda}, {malsi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en gud/gudom som tillbedjs av folk/religion x2 som dominerar
+      över x3 [sfär].
+    notes:
+    - Även gudomlig; x2 syftar på den religiösa gemenskapen som en massa.
+    glosses:
+    - gudom
+    - gudomlig
+    - tillbedja
+    - x1=gud
+    - x2=tillbedjare (av en gud)
+    - x3=gudssfär (sfär som guden dominerar över)
+  zh:
+    place structure: x1是(人群/地域)x2的神, 享有领地x3 ; x1是神圣的.
+    notes:
+    - No notes.
+    glosses:
+    - 上帝

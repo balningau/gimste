@@ -1,5 +1,62 @@
-Word: zajba
-Rafsi: zaj
-Definition: x1 is a gymnast at/performs gymnastics feat x2.
-Notes: See also {sluji}, {dansu}.
-Examples: None
+word: zajba
+rafsi:
+- zaj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a gymnast at/performs gymnastics feat x2.
+    notes:
+    - See also {sluji}, {dansu}.
+    glosses:
+    - gymnast
+  de:
+    place structure: x1 ist ein Sportler/Athlet in x2/und erbringt Leistung(en) x2
+    notes:
+    - No notes.
+    glosses:
+    - Sportler
+  es:
+    place structure: x1 es un gimnasta en evento x2
+    notes:
+    - No notes.
+    glosses:
+    - gimnasta
+  ru:
+    place structure: x1 — атлет/спортсмен/гимнаст/акробат, совершающий упражнение/трюк
+      x2 (практикующий дисциплину x2)
+    notes:
+    - '{sluji} (мышца), {dansu} (танцевать)'
+    glosses:
+    - атлет
+  en-simple:
+    place structure: x1 is a gymnast performing x2
+    notes:
+    - No notes.
+    glosses:
+    - a gymnast
+    - x2=a gymnastic feat
+  eo:
+    place structure: x1 gimnastikas/faras gimnastikan ekzercon x2; x1 estas gimnastikisto
+    notes:
+    - Vidu ankaŭ {sluji}, {dansu}.
+    glosses:
+    - gimnastiki
+  hu:
+    place structure: x1 tornázik / végzi x2 tornagyakorlatot
+    notes:
+    - '(Lásd még: {sluji}, {dansu})'
+    glosses:
+    - tornázik
+  ja:
+    place structure: x1 は x2 （形態／技術）の体操をする
+    notes:
+    - ・大意： 体操 ・読み方： ザジバ  ・関連語： {sluji}, {dansu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1表演体操x2；x1是表演体操项目x2的体操运动员
+    notes:
+    - 参见 {sluji}, {dansu}.
+    glosses:
+    - No glosses.

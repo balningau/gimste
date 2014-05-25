@@ -1,8 +1,90 @@
-Word: gismu
-Rafsi: gim, gi'u
-Definition: x1 is a (Lojban) root word expressing relation x2 among argument roles
-  x3, with affix(es) x4.
-Notes: Gismu list, if physical object (= ({loi}) {gimste}); referring to the mental
-  construct (e.g. propose adding a new gismu to the gismu list = {gimpoi}, {gimselcmi},
-  {gimselste}).  See also {cmavo}, {cmene}, {lujvo}, {smuni}, {sumti}, {tanru}, {valsi}.
-Examples: None
+word: gismu
+rafsi:
+- gim
+- gi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a (Lojban) root word expressing relation x2 among argument
+      roles x3, with affix(es) x4.
+    notes:
+    - Gismu list, if physical object (= ({loi}) {gimste}); referring to the mental
+      construct (e.g. propose adding a new gismu to the gismu list = {gimpoi}, {gimselcmi},
+      {gimselste}).  See also {cmavo}, {cmene}, {lujvo}, {smuni}, {sumti}, {tanru},
+      {valsi}.
+    glosses:
+    - root word
+  de:
+    place structure: x1 ist ein (Lojban-)Stammwort und drückt Beziehung x2 zwischen
+      Argumenten x3 aus, mit Prä-/Suffix(en) x4
+    notes:
+    - No notes.
+    glosses:
+    - Stammwort
+  es:
+    place structure: x1 es una palabra/raíz/verbo que expresa relación x2 entre roles
+      argumentales x3, con afijos x4
+    notes:
+    - No notes.
+    glosses:
+    - radical
+  ru:
+    place structure: x1 — gismu (корневое слово/радикал Ложбана), выражающий отношение
+      x2 между аргументами x3, с rafsi x4 (словообразующими формами)
+    notes:
+    - 'Cписок gismu: как физический объект: ({loi}) {gi''uste}, как мысленный конструкт
+      (например, при предложении добавить новый gismu к списку gismu): {gimpoi}, {gimselcmi},
+      {gimselste} {cmavo} (), {cmene} (имя), {lujvo} (), {smuni} (значение [смысл]),
+      {sumti} (), {tanru} (), {valsi} (слово)'
+    glosses:
+    - x1=корневое слово
+  en-simple:
+    place structure: x1 is a root word showing relation x2 among argument roles x3
+      with affix x4
+    notes:
+    - No notes.
+    glosses:
+    - a root word
+    - x2=a root word relation
+    - x3=a root word argument role
+    - x4=a root word affix
+  eo:
+    place structure: x1 estas (loĵbana) radikvorto esprimanta rilaton x2 inter argumentaj
+      roloj x3, kun afikso(j) x4
+    notes:
+    - Gismu-listo, se fizika objekto (= (loi) gimste); rilata al la mensa konstruaĵo
+      (ekz. proponi aldoni novan gismu al la gismu-listo = gimpoi, gimselcmi, gimselste).  Vidu
+      ankaŭ {cmavo}, {cmene}, {lujvo}, {smuni}, {sumti}, {tanru}, {valsi}.
+    glosses:
+    - radikvorto
+  hu:
+    place structure: x1 egy (lojban) tőszó, amely x2 viszonyt fejezi ki x3 argumentumok
+      között, x4 toldalékokkal
+    notes:
+    - '(Lásd még: {cmavo}, {cmene}, {lujvo}, {smuni}, {sumti}, {tanru}, {valsi})'
+    glosses:
+    - tőszó
+  ja:
+    place structure: x1 （文字列）は x2 （意味関係）を x3 （項）について表す、 x4 （形態素）からなる語根
+    notes:
+    - ・大意： 語根 ・読み方： ギスム  ・関連語： {gimste}, {cmavo}, {cmene}, {lujvo}, {smuni}, {sumti},
+      {tanru}, {valsi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett (Lojban) rotord som uttrycker relation x2 mellan argument
+      roller x3, med affix x4.
+    notes:
+    - Lista med gismu, om det är ett fysiskt objekt (= (loi) {gimste}); om listan
+      avser en mental konstruktion (exv föreslå att lägga till ett nytt gismu till
+      gismulistan (={gimpoi}, {gimselcmi}, {gimselste}). Se även {cmavo}, {cmene},
+      {lujvo}, {smuni}, {sumti}, {tanru}, {valsi}.
+    glosses:
+    - rotord (i lojban)
+  zh:
+    place structure: x1是逻辑语根词，表达关系x2, 在参数角色x3中,  和词缀x4.
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.

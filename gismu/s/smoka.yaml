@@ -1,6 +1,67 @@
-Word: smoka
-Rafsi: smo
-Definition: x1 is a sock/stocking [flexible foot and lower leg garment] of material
-  x2.
-Notes: See also {cutci}, {taxfu}.
-Examples: None
+word: smoka
+rafsi:
+- smo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sock/stocking [flexible foot and lower leg garment] of
+      material x2.
+    notes:
+    - See also {cutci}, {taxfu}.
+    glosses:
+    - sock
+  de:
+    place structure: x1 ist eine Socke/ein Strumpf [elastische Fuß- und Unterschenkelbekleidung]
+      aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Socke
+  es:
+    place structure: x1 es un calcetín/media/soquete (prenda de vestir) de material
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - calcetín
+  ru:
+    place structure: x1 — чулок/носок (гибкое одеяние для нижней части ног) из материала
+      x2
+    notes:
+    - '{cutci} (обувь), {taxfu} (одежда)'
+    glosses:
+    - x1=носок
+  en-simple:
+    place structure: x1 is a sock of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a sock
+    - x2=a material of a sock
+  eo:
+    place structure: x1 estas ŝtrumpeto [fleksebla vesto por piedo kaj malsupro de
+      la kruro] el materialo x2
+    notes:
+    - Vidu ankaŭ {cutci}, {taxfu}.
+    glosses:
+    - ŝtrumpeto
+  hu:
+    place structure: x1 egy zokni/harisnya [hajlékony lábfejen és lábszáron viselt
+      ruhanemű] x2 anyagból
+    notes:
+    - '(Lásd még: {cutci}, {taxfu})'
+    glosses:
+    - zokni
+  ja:
+    place structure: x1 は x2 （素材）の靴下／ストッキング／タイツ
+    notes:
+    - 伸縮する履物全般。 ・大意： 靴下 ・読み方： スモカ  ・語呂合わせ： 靴下に住もか ・関連語： {cutci}, {taxfu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是袜/袜子，由材料x2制成
+    notes:
+    - 参见 {cutci}, {taxfu}.
+    glosses:
+    - No glosses.

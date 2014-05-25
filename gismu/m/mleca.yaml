@@ -1,6 +1,70 @@
-Word: mleca
-Rafsi: mec, me'a
-Definition: x1 is less than x2 in property/quantity x3 (ka/ni) by amount x4.
-Notes: Also negative (= {nonme'a}).  See also cmavo list {me'a}, cmavo list {su'o},
-  {jdika}, {zmadu}, {traji}.
-Examples: None
+word: mleca
+rafsi:
+- mec
+- me'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is less than x2 in property/quantity x3 (ka/ni) by amount
+      x4.
+    notes:
+    - Also negative (= {nonme'a}).  See also cmavo list {me'a}, cmavo list {su'o},
+      {jdika}, {zmadu}, {traji}.
+    glosses:
+    - less
+  de:
+    place structure: x1 ist weniger/geringer als x2 in Eigenschaft/Menge x3 (ka/ni)
+      um Betrag/Menge/Höhe x4
+    notes:
+    - No notes.
+    glosses:
+    - geringer
+  es:
+    place structure: x1 es menos/menor que x2 en propiedad x3 por cantidad x4
+    notes:
+    - Ver también {zmadu},  {jdika}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 меньше чем/уступает x2 по свойству/количестве x3 ({ka}/{ni})
+      на величину x4; x1 на x4 менее x3 (какой), чем x2
+    notes:
+    - 'Также: отрицательный: {nonme''a}; в lujvo: сравнительная степень прилагательного
+      {me''a}, {su''o}, {jdika} (уменьшаться), {zmadu} (превосходить), {traji} (самый)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is less than x2 in property x3 by amount x4
+    notes:
+    - No notes.
+    glosses:
+    - something which is less than something
+    - x2=something to which something is less than
+    - x3=a property in which something is less than
+    - x4=an amount something is less than by
+  eo:
+    place structure: x1 estas malpli ol x2 laŭ eco/kvanto x3 (ka/ni) en kvanto x4
+    notes:
+    - 'Ankaŭ: negativa (= {nonme''a}).  Vidu ankaŭ cmavo {me''a}, cmavo {su''o}, {jdika},
+      {zmadu}, {traji}.'
+    glosses:
+    - malpli
+  hu:
+    place structure: x1 alulmúlja x2-t, x3 tulajdonságban/mennyiségben, x4 különbözettel
+    notes:
+    - '(Lásd még: {jdika}, {zmadu}, {traji})'
+    glosses:
+    - kevesebb
+  ja:
+    place structure: x1 は x2 よりも、 x3 （性質）に関して x4 （数量）ほど少ない
+    notes:
+    - 比較が含意される。 ・大意： 少ない ・読み方： ムルェシャ  ・語呂合わせ： 少ない群れ者 ・関連語： {me'a}, {su'o}, {jdika},
+      {zmadu}, {traji}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是比x2少的，在性质/数量x3（ka/ni）上，少的数量/程度为x4
+    notes:
+    - 也指：负数= {nonme'a}；参见：{me'a}, {su'o}, {jdika}, {zmadu}, {traji}.
+    glosses:
+    - No glosses.

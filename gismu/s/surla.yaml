@@ -1,5 +1,65 @@
-Word: surla
-Rafsi: sur
-Definition: x1 relaxes/rests/is at ease in/by doing/being x2 (activity).
-Notes: See also {dunku}, {tatpi}, {cando}, {vreta}.
-Examples: None
+word: surla
+rafsi:
+- sur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 relaxes/rests/is at ease in/by doing/being x2 (activity).
+    notes:
+    - See also {dunku}, {tatpi}, {cando}, {vreta}.
+    glosses:
+    - relax (to be at ease)
+    - rest (take repose)
+  de:
+    place structure: x1 entspannt sich/ruht sich aus vom Tun/Sein x2 (Handlung)
+    notes:
+    - No notes.
+    glosses:
+    - entspannen
+  es:
+    place structure: x1 se relaja/descansa haciendo x2 (evento)
+    notes:
+    - Ver también {tatpi},  {cando},  {vreta}.
+    glosses:
+    - relajarse
+  ru:
+    place structure: x1 отдыхает/делает передышку/проводит досуг, занимаясь деятельностью/находясь
+      в состоянии x2
+    notes:
+    - 'Также: праздный {dunku} (страдать), {tatpi} (уставший), {cando} (покоиться
+      [бездействовать]), {vreta} (лежать [на чем-либо])'
+    glosses:
+    - отдыхать
+    - x1=отдыхающий
+  en-simple:
+    place structure: x1 relaxes by doing x2
+    notes:
+    - No notes.
+    glosses:
+    - a relaxer
+    - x2=something relaxing
+  eo:
+    place structure: x1 malstreĉiĝas/ripozas estante/farante x2-on (ago)
+    notes:
+    - Vidu ankaŭ {dunku}, {tatpi}, {cando}, {vreta}.
+    glosses:
+    - malstreĉiĝi
+  hu:
+    place structure: x1 pihen/nyugszik x2 tevékenységgel/állapotban
+    notes:
+    - '(Lásd még: {dunku}, {tatpi}, {cando}, {vreta})'
+    glosses:
+    - pihen
+  ja:
+    place structure: x1 は x2 （動作）に関してくつろぐ／リラックスする
+    notes:
+    - ・大意： くつろぐ ・読み方： スルルァ  ・関連語： {dunku}, {tatpi}, {cando}, {vreta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1做/成为x2是自在的/闲的/休息的/空闲的
+    notes:
+    - 参见 {dunku}, {tatpi}, {cando}, {vreta}.
+    glosses:
+    - No glosses.

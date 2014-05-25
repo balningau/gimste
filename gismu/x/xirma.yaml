@@ -1,5 +1,65 @@
-Word: xirma
-Rafsi: xir, xi'a
-Definition: x1 is a horse/equine/[colt/mare/stallion/pony] of species/breed x2.
-Notes: (adjective:) $x_1$ is equine/equestrian.  See also {sufti}, {xasli}, {kumte}.
-Examples: None
+word: xirma
+rafsi:
+- xir
+- xi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a horse/equine/[colt/mare/stallion/pony] of species/breed
+      x2.
+    notes:
+    - (adjective:) x1 is equine/equestrian.  See also {sufti}, {xasli}, {kumte}.
+    glosses:
+    - horse
+  de:
+    place structure: x1 ist ein Pferd/[Fohlen/Hengst/Pony/eine Stute] von Art/Gattung
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Pferd
+  es:
+    place structure: x1 es un caballo/yegua/potro/potrillo/pony de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - caballo
+  ru:
+    place structure: x1 — лошадь/{конь/кобыла/пони} вида/породы x2
+    notes:
+    - 'Лрилагательное: x1 — конный {sufti} (копыто), {xasli} (осел), {kumte} (верблюд)'
+    glosses:
+    - лошадь
+    - x2=вид лошади
+  en-simple:
+    place structure: x1 is a horse of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a horse
+    - x2=a species of horse
+  eo:
+    place structure: x1 estas ĉevalo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {sufti}, {xasli}, {kumte}.
+    glosses:
+    - ĉevalo
+  hu:
+    place structure: x1 egy ló(féle) [Equidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {sufti}, {xasli}, {kumte})'
+    glosses:
+    - ló
+  ja:
+    place structure: x1 は x2 （種類）のウマ科動物
+    notes:
+    - ・大意： 馬 ・読み方： クィルマ  ・語呂合わせ： 騎・馬 ・関連語： {sufti}, {xasli}, {kumte}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是马，属于物种/种类x2
+    notes:
+    - 参见 {sufti}, {xasli}, {kumte}.
+    glosses:
+    - No glosses.

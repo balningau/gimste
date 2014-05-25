@@ -1,5 +1,80 @@
-Word: jdari
-Rafsi: jar
-Definition: x1 is firm/hard/resistant/unyielding to force x2 under conditions x3.
-Notes: See also {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}.
-Examples: None
+word: jdari
+rafsi:
+- jar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is firm/hard/resistant/unyielding to force x2 under conditions
+      x3.
+    notes:
+    - See also {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}.
+    glosses:
+    - firm
+    - hard (resistant to pressure)
+  de:
+    place structure: x1 ist fest/hart/unnachgiebig gegenüber Kraft x2 unter Umständen
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - hart
+  es:
+    place structure: x1 es duro/firme/resistente ante fuerza x2 bajo condiciones x3
+    notes:
+    - Ver también {ranti}.
+    glosses:
+    - duro
+  ru:
+    place structure: x1 — крепкий/твердый/прочный/неподдающийся силе x2 в условиях
+      x3
+    notes:
+    - '{nandu} (трудный [сложный]), {ralci} (хрупкий), {randa} (уступать), {ranti}
+      (мягкий), {tinsa} (жесткий), {sligu} (твердый [состояние вещества]), {stodi}
+      (постоянный)'
+    glosses:
+    - твердый
+  en-simple:
+    place structure: x1 is firm or resistant to force x2 under conditions x3
+    notes:
+    - No notes.
+    glosses:
+    - firm (resistant)
+    - x1=something firm
+    - x2=a force something is firm against
+    - x2=the force something is firm against
+    - x3=a firmness condition
+  eo:
+    place structure: x1 estas firma/malmola/rezista/necedema al forto x2 sub kondiĉoj
+      x3
+    notes:
+    - Vidu ankaŭ {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}.
+    glosses:
+    - firma
+  hu:
+    place structure: x1 kemény/merev / ellenáll x2 erőnek x3 körülmények között
+    notes:
+    - '(Lásd még: {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi})'
+    glosses:
+    - ellenáll
+  ja:
+    place structure: x1 は x2 （力）にたいして、 x3 （環境／条件）のとき固い／硬い／堅い
+    notes:
+    - 「頭が固い」「岩が硬い」「口が堅い」など。 ・大意： 固い ・読み方： ジダリ  ・関連語： {nandu}, {ralci}, {randa}, {ranti},
+      {tinsa}, {sligu}, {stodi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är hållfast/hård/beständig/oböjlig/motståndskraftig mot kraft
+      x2 under omständigheter/villkor x3.
+    notes:
+    - No notes.
+    glosses:
+    - hållfast
+    - hård
+  zh:
+    place structure: x1是牢固的/顽固的/坚强的，在压力/压迫x2下，在条件x3下
+    notes:
+    - 参见 {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}.
+    glosses:
+    - No glosses.

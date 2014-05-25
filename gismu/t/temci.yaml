@@ -1,7 +1,71 @@
-Word: temci
-Rafsi: tem, tei
-Definition: x1 is the time-duration/interval/period/[elapsed time] from time/event
-  x2 to time/event x3.
-Notes: Also age/elapsed time (= {niltei}).  See also {cacra}, {cedra}, {citsi}, {ranji},
-  {tcika}, {junla}, {renvi}.
-Examples: None
+word: temci
+rafsi:
+- tem
+- tei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the time-duration/interval/period/[elapsed time] from time/event
+      x2 to time/event x3.
+    notes:
+    - Also age/elapsed time (= {niltei}).  See also {cacra}, {cedra}, {citsi}, {ranji},
+      {tcika}, {junla}, {renvi}.
+    glosses:
+    - time
+  de:
+    place structure: x1 ist der Zeitraum/das Intervall/die Periode/[verstrichene Zeit]
+      zwischen Zeitpunkten/Ereignissen x2 und x3
+    notes:
+    - No notes.
+    glosses:
+    - Zeit
+  es:
+    place structure: x1 es la duración/intervalo de tiempo entre evento x2 y evento
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - tiempo
+  ru:
+    place structure: x1 — длительность/промежуток/интервал/период времени от момента/события
+      x2 до момента/события x3
+    notes:
+    - 'Также: возраст/истекшее время: {niltei}; «время» в смысле «сколько сейчас времени?»
+      — {tcika} {cacra} (час), {cedra} (эра), {citsi} (сезон), {ranji} (продолжаться),
+      {tcika} (время [события]), {junla} (часы [механизм]), {renvi} (выдерживать)'
+    glosses:
+    - x1=период
+  en-simple:
+    place structure: x1 is the elapsed time from x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - an elapse of time
+    - x2=a start of an elapse of time
+    - x3=a finish of an elapse of time
+  eo:
+    place structure: x1 estas tempodaŭro/intervalo/periodo/[forpasita tempo] ekde
+      tempo/okazo x2 ĝis tempo/okazo x3
+    notes:
+    - 'Ankaŭ: aĝo/forpasita tempo (= {niltei}).  Vidu ankaŭ {cacra}, {cedra}, {citsi},
+      {ranji}, {tcika}, {junla}, {renvi}.'
+    glosses:
+    - tempo
+  hu:
+    place structure: x1 az időtartam/időszak x2 időponttól/eseménytől x3 időpontig/eseményig
+    notes:
+    - '(Lásd még: {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi})'
+    glosses:
+    - idő
+  ja:
+    place structure: x1は時刻/出来事x2から始まり時刻/出来事x3で終わる時間/間隔/期間である
+    notes:
+    - '参照: {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是时间间隔/长度/区间，从时刻/事件x2到时刻/事件x3
+    notes:
+    - 年龄/持续时间= {niltei}；参见 {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}.
+    glosses:
+    - No glosses.

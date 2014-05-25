@@ -1,6 +1,115 @@
-Word: bakni
-Rafsi: bak
-Definition: x1 is a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of
-  species/breed x2.
-Notes: See also {danlu}.
-Examples: None
+word: bakni
+rafsi:
+- bak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine]
+      of species/breed x2.
+    notes:
+    - See also {danlu}.
+    glosses:
+    - bovine
+  de:
+    place structure: x1 ist ein Rind/Kuh/Ochse[/Bulle/Stier/Kalb] [Nutzrind/Fleischrind]
+      Art/Gattung x2
+    notes:
+    - Siehe auch {danlu}.
+    glosses:
+    - Rind
+  es:
+    place structure: x1 es una vaca/toro/ganado/vacuno/buey de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - vaca
+  fr:
+    place structure: x1 est un(e) vache/boeuf d'espèce x2.
+    notes:
+    - Voir également, {danlu}.
+    glosses:
+    - boeuf
+    - vache
+  ru:
+    place structure: x1 — корова/бык/теленок вида/породы x2
+    notes:
+    - '{danlu} (животное)'
+    glosses:
+    - бык
+    - x1=корова
+    - x2=порода
+  en-simple:
+    place structure: x1 is a cow or bovine of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a cow
+    - x2=a species of cow
+  eo:
+    place structure: x1 estas bovo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {danlu}.
+    glosses:
+    - bovo
+  he:
+    place structure: x1 הוא פר/פרה/שור/עגל/עגלה מסוג/זן x2
+    notes:
+    - ראה גם {danlu}
+    glosses:
+    - בקר
+    - בקר (בשר)
+    - בקר (שם קיבוצי לקבוצת הפרות)
+    - פרה
+    - פרה (חיה)
+  hu:
+    place structure: x1 egy szarvasmarha [Bos nem] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {danlu})'
+    glosses:
+    - marha
+  ja:
+    place structure: x1 は x2 （種類）のウシ属動物
+    notes:
+    - 「lo bakni lo srasu cu citka／牛が草を食べる」「mi djica genai loi bakni gi loi jipci／私はギュウではなくトリが欲しい」
+      ・大意： 牛 ・読み方： バクニ  ・語呂合わせ： ＜バック肉＞, vaca,niu（牛）,ox ・関連語： {danlu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en ku/okse/storfe/[kalv] av art x2
+    notes:
+    - Se også {danlu}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest krową/sztuką bydła/wołem/[bykiem/cielęciem] gatunku/rasy
+      x2.
+    notes:
+    - Patrz też {danlu}.
+    glosses:
+    - bydło
+    - byk (samiec bydła)
+    - krowa
+  sv:
+    place structure: x1 är en kossa/oxe/oxdjur/nötkreatur/boskapsdjur/nötboskap/[ko/tjur/stut/kviga/kalv]
+      av art/sort x2
+    notes:
+    - Syftar på underfamiljen Oxdjur (bovinae) där det ingår 24 arter, fördelade på
+      9 släkten. I vardagligt tal syftar det på nötboskap, närmare bestämt kossor.
+    glosses:
+    - boskap
+    - boskapsart
+    - boskapsdjur
+    - boskapssort
+    - kossa
+    - nötboskap
+    - nötkreatur
+    - oxe
+    - x1=oxdjur
+    - x2=oxdjursart
+  zh:
+    place structure: x1是牛，属于种类x2
+    notes:
+    - 参见 {danlu}
+    glosses:
+    - No glosses.

@@ -1,6 +1,70 @@
-Word: kunra
-Rafsi: kun
-Definition: x1 is/contains/is made from a mineral/ore of type/metal x2 mined from
-  location/lode/mine x3.
-Notes: See also {jinme}, {bisli}, {rokci}, {jemna}.
-Examples: None
+word: kunra
+rafsi:
+- kun
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is/contains/is made from a mineral/ore of type/metal x2 mined
+      from location/lode/mine x3.
+    notes:
+    - See also {jinme}, {bisli}, {rokci}, {jemna}.
+    glosses:
+    - mineral
+  de:
+    place structure: x1 ist/enthält/besteht aus Mineral/Erz von Typ/Metall x2, gefördert/abgebaut
+      an Ort/Erzader/in Mine x3
+    notes:
+    - No notes.
+    glosses:
+    - Mineral
+  es:
+    place structure: x1 es una cantidad de mineral de tipo/metal x2 de localidad/mina
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - mineral
+  ru:
+    place structure: x1 — минерал/горная порода/руда вида x2, добываемый в местности/месторождении/шахте
+      x3
+    notes:
+    - '{jinme} (металл), {bisli} (лед), {rokci} (камень), {jemna} (самоцвет)'
+    glosses:
+    - руда
+    - x2=вид руды
+    - x3=месторождение
+  en-simple:
+    place structure: x1 is mineral or ore of x2 mined from x3
+    notes:
+    - No notes.
+    glosses:
+    - a mineral
+    - x2=a type of mineral
+    - x3=a mineral mine
+  eo:
+    place structure: x1 estas/enhavas/konsistas el mineralo de tipo/metalo x2 elfosita
+      el loko/vejno/mino x3
+    notes:
+    - Vidu ankaŭ {jinme}, {bisli}, {rokci}, {jemna}.
+    glosses:
+    - mineralo
+  hu:
+    place structure: x1 egy ásvány/érc (-et tartalmaz/-ből készült) x2 típusból/fémből,
+      x3 forrásból
+    notes:
+    - '(Lásd még: {jinme}, {bisli}, {rokci}, {jemna})'
+    glosses:
+    - ásvány
+  ja:
+    place structure: x1 は x2 （鉱石／原鉱／原石）・ x3 （鉱脈／鉱床／鉱坑／鉱山）の鉱物
+    notes:
+    - ・大意： 鉱物 ・読み方： クンラ  ・関連語： {jinme}, {bisli}, {rokci}, {jemna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是矿石/矿物，具有性质/金属x2，由矿井/矿洞/位置x3挖出
+    notes:
+    - 参见 {jinme}, {bisli}, {rokci}, {jemna}.
+    glosses:
+    - No glosses.

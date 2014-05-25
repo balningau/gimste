@@ -1,7 +1,85 @@
-Word: djacu
-Rafsi: jac, jau
-Definition: x1 is made of/contains/is a quantity/expanse of water; (adjective:) x1
-  is aqueous/[aquatic].
-Notes: Aquatic (= {jaupli}).  See also {lalxu}, {rirxe}, {xamsi}, {limna}, {litki},
-  {lumci}, {bumru}, {jinto}.
-Examples: None
+word: djacu
+rafsi:
+- jac
+- jau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity/expanse of water; (adjective:)
+      x1 is aqueous/[aquatic].
+    notes:
+    - Aquatic (= {jaupli}).  See also {lalxu}, {rirxe}, {xamsi}, {limna}, {litki},
+      {lumci}, {bumru}, {jinto}.
+    glosses:
+    - water
+  de:
+    place structure: x1 besteht aus/enthält/ist eine gewisse Menge/Fläche Wasser
+    notes:
+    - No notes.
+    glosses:
+    - Wasser
+  es:
+    place structure: x1 es una cantidad/extensión de agua
+    notes:
+    - No notes.
+    glosses:
+    - agua
+  ru:
+    place structure: x1 — вода
+    notes:
+    - '{lalxu} (озеро), {rirxe} (река), {xamsi} (море), {limna} (плыть [активно]),
+      {litki} (жидкость), {lumci} (мыть), {bumru} (туман), {jinto} (колодец)'
+    glosses:
+    - вода
+  en-simple:
+    place structure: x1 is a quantity of water
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of water
+  eo:
+    place structure: x1 estas konsistas el/enhavas/estas kvanto/etendo de akvo; (adjektivo:)
+      x1 estas akva
+    notes:
+    - Akvouza (= {jaupli}).  Vidu ankaŭ {lalxu}, {rirxe}, {xamsi}, {limna}, {litki},
+      {lumci}, {bumru}, {jinto}.
+    glosses:
+    - akvo
+  hu:
+    place structure: x1 bizonyos mennyiségű víz (-et tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {lalxu}, {rirxe}, {xamsi}, {limna}, {litki}, {lumci}, {bumru}, {jinto})'
+    glosses:
+    - víz
+  ja:
+    place structure: x1 は水；  x1 は水溶性／含水の
+    notes:
+    - ・大意： 水 ・読み方： ヂャシュ  ・関連語： {lalxu}, {rirxe}, {xamsi}, {limna}, {litki}, {lumci},
+      {bumru}, {jinto}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is gemaakt van, bevat of is water; (bijvoegelijk naamwoord:)
+      x1 is waterig/waterachtig.
+    notes:
+    - 'Zie ook : {lalxu}, {rirxe}, {xamsi}, {limna}, {litki}, {lumci}, {bumru} en
+      {jinto}.'
+    glosses:
+    - water
+  sv:
+    place structure: x1 är en kvantitet av/gjord av/innehåller/är en vidd av vatten;
+      x1 är vattnig/vattenartad.
+    notes:
+    - No notes.
+    glosses:
+    - vatten
+    - vattenartad
+    - vattnig
+  zh:
+    place structure: x1是水/水一般的
+    notes:
+    - 水生的/水栖的= {jaupli}；参见 {lalxu}, {rirxe}, {xamsi}, {limna}, {litki}, {lumci}, {bumru},
+      {jinto}.
+    glosses:
+    - No glosses.

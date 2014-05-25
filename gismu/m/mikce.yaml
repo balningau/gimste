@@ -1,11 +1,88 @@
-Word: mikce
-Rafsi: mic
-Definition: x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment
-  x3 by treatment/cure x4.
-Notes: Also medic; (adjective:) $x_1$, $x_4$ is medical; $x_2$ is a patient of $x_1$
-  (= selmikce for reordered places) ; $x_2$ is treated by $x_1$ person/$x_4$ treatment/method;
-  successfully cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce,
-  ka'orbi'o to not imply an external agent/process, though the $x_1$ and $x_4$ of
-  mikce may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro},
-  {spita}.
-Examples: None
+word: mikce
+rafsi:
+- mic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for
+      ailment x3 by treatment/cure x4.
+    notes:
+    - Also medic; (adjective:) x1, x4 is medical; x2 is a patient of x1 (= selmikce
+      for reordered places) ; x2 is treated by x1 person/x4 treatment/method; successfully
+      cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce,
+      ka'orbi'o to not imply an external agent/process, though the x1 and x4 of mikce
+      may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro},
+      {spita}.
+    glosses:
+    - doctor
+  de:
+    place structure: x1 ist ein Arzt/Doktor/Mediziner/Krankenpfleger/eine Krankenschwester/Hebamme
+      von x2 gegen Krankheit/Beschwerden x3 mit Behandlung x4
+    notes:
+    - No notes.
+    glosses:
+    - Arzt
+  es:
+    place structure: x1 cura/trata/medica/es médico/doctor/enfermero/curandero de
+      x2 por dolencia x3 con tratamiento/cura x4
+    notes:
+    - No notes.
+    glosses:
+    - curar
+  ru:
+    place structure: x1 лечит пациента x2 от болезни x3, применяя лечение/процедуры
+      x4
+    notes:
+    - 'Также: медик; прилагательное: x1/x4 — медицинский; x2 — пациент x1: {selmikce}
+      с переставленными местами); лечение: {velmikce}; результативное/успешное лечение:
+      вылечил/исцелил: {sadmikce}, {sadvelmikce}; вылечился: {sadyselmikce}, или {ka''orbi''o},
+      если не подразумевается внешняя причина/процесс, хотя можно также использовать
+      {sevzi}, {jinzi} для x1/x4 в [mikce]) {bilma} (больной), {kanro} (здоровый [не
+      больной]), {spita} (больница)'
+    glosses:
+    - лечить
+    - x1=доктор
+    - x3=болезнь, от которой лечат
+    - x4=лечебные процедуры
+  en-simple:
+    place structure: x1 cures or treats x2 for ailment x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a curer
+    - x2=something cured
+    - x3=an ailment to be cured
+    - x4=a cure
+  eo:
+    place structure: x1 kuracas/flegas/akuŝas/prizorgas x2-on pro malsano x3 per kuracmetodo
+      x4
+    notes:
+    - (adjektivo:) x1, x4 estas medicina; x2 estas paciento de x1 (= selmikce por
+      reordigitaj {lokoj}); x2 estas kuracata de x1 homo/x4 kuracado/metodo; sukcese
+      kuraci/sanigi (= {sadmikce}, {sadvelmikce}), kuraciĝi/saniĝi (=sadyselmikce,
+      ka'orbi'o por ne implici eksteran aganton/procedon, kvankam la x1 kaj x4 de
+      mikce povas esti mem/interna); kuracado (= {velmikce}).  Vidu ankaŭ {bilma},
+      {kanro}, {spita}.
+    glosses:
+    - kuraci
+  hu:
+    place structure: x1 az orvosa/ápolója x2 páciensnek / gyógykezeli/ápolja x2-t,
+      x3 betegséggel, x4 kezeléssel
+    notes:
+    - '(Lásd még: {bilma}, {kanro}, {spita})'
+    glosses:
+    - orvos
+  ja:
+    place structure: x1 は x2 （者）を x3 （病気／怪我）について x4 （治療手段）で応接する医者／看護士
+    notes:
+    - 「衛生兵」や「産婆」なども。 ・大意： 医者 ・読み方： ミクシェ  ・関連語： {bilma}, {kanro}, {spita}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1医治/治疗/护疗x2的疾病/状况x3，使用方法/疗法x4
+    notes:
+    - 也指：x1,x4关于医疗的；x2是x1的病人/医治对象；x2被x1采用方法x4进行治疗；治愈= {sadmikce}, {sadvelmikce}；痊愈{sadyselmikce},
+      {ka'orbi'o}；疗法= {velmikce}；参见 {bilma}, {kanro}, {spita}.
+    glosses:
+    - No glosses.

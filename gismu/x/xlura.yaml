@@ -1,9 +1,88 @@
-Word: xlura
-Rafsi: xlu
-Definition: x1 (agent) influences/lures/tempts x2 into action/state x3 by influence/threat/lure
-  x4.
-Notes: Also impresses; $x_4$ is alluring (= {trivelxlu} for place reordering); $x_3$
-  may be an achieved action/state, or an attempt to perform an action/enter a state).  ($x_3$
-  and $x_4$ are normally events or states); See also {djica}, {mukti}, {trina}, {jitro},
-  {sazri}, {tcica}, {xance}, {stidi}, {kajde}, {maksi}.
-Examples: None
+word: xlura
+rafsi:
+- xlu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) influences/lures/tempts x2 into action/state x3 by
+      influence/threat/lure x4.
+    notes:
+    - Also impresses; x4 is alluring (= {trivelxlu} for place reordering); x3 may
+      be an achieved action/state, or an attempt to perform an action/enter a state).  (x3
+      and x4 are normally events or states); See also {djica}, {mukti}, {trina}, {jitro},
+      {sazri}, {tcica}, {xance}, {stidi}, {kajde}, {maksi}.
+    glosses:
+    - influence
+    - lead (draw/direct by influence)
+  de:
+    place structure: x1 (Handelnder) beeinflusst x2, x3 [Handlung/Zustand] zu tun/sein,
+      durch Einfluss/Zwang/Bedrohung/Drohung x4; x1 verleitet x2 zu x3
+    notes:
+    - No notes.
+    glosses:
+    - beeinflussen
+  es:
+    place structure: x1 tienta/induce/influye/convence a x2 a realizar/hacer/ser x3
+      con influencia/amenaza/tentación x4
+    notes:
+    - Ver también {trina}.
+    glosses:
+    - tentar
+  ru:
+    place structure: x1 влияет на/манипулирует x2, приводя его к действию/состоянию
+      x3 воздействием/угрозой/приманкой x4
+    notes:
+    - 'Также: провоцирует на, привлекает, искушает, соблазняет, производит впечатление;
+      x3 м.б. достигаемое состояние/действие или попытка совершить действие/достигнуть
+      состояния; x3 и x4 обычно события или состояния {djica} (хотеть), {mukti} (повод),
+      {trina} (привлекательный), {jitro} (контролировать), {sazri} (управлять [механизмом]),
+      {tcica} (обманчивый), {xance} (кисть [руки]), {stidi} (советовать), {kajde}
+      (предостережение), {maksi} (магнит)'
+    glosses:
+    - влиять на
+    - x1=влияющий на
+    - x2=кем манипулируют
+    - x4=приманка
+  en-simple:
+    place structure: x1 lures or influences x2 into x3 by influence x4
+    notes:
+    - No notes.
+    glosses:
+    - a lurer
+    - x2=something lured
+    - x3=something that something is lured into
+    - x4=a lure
+  eo:
+    place structure: x1 (aganto) influas/logas/tentas x2-on fari agon/staton x3 per
+      influo/minaco/logo x4
+    notes:
+    - 'Ankaŭ: impresi; x4 estas alloga (= trivelxlu por reordigo de {lokoj}); x3 povas
+      esti jam atingita ago/stato, aŭ provo fari agon/enigi staton).  (x3 kaj x4 ĝenerale
+      estas okazoj aŭ statoj);Vidu ankaŭ {djica}, {mukti}, {trina}, {jitro}, {sazri},
+      {tcica}, {xance}, {stidi}, {kajde}, {maksi}.'
+    glosses:
+    - influi
+  hu:
+    place structure: x1 befolyásolja/csalogatja x2-t x3 állapotba/cselekedetbe, x4
+      befolyás/csali/fenyegetés használatával
+    notes:
+    - '(Lásd még: {djica}, {mukti}, {trina}, {jitro}, {sazri}, {tcica}, {xance}, {stidi},
+      {kajde}, {maksi})'
+    glosses:
+    - befolyásol
+  ja:
+    place structure: x1 （者）は x2 （対象）を x3 （行為／状態）へと x4 （作用／感化力）で影響して誘う；  x4 を持つ x1
+      に x2 は感銘する
+    notes:
+    - x3は未然／既成どちらでもよい。x3とx4はたいてい事や性質。 ・大意： 影響 ・読み方： クゥルゥラ  ・関連語： {djica}, {mukti},
+      {trina}, {jitro}, {sazri}, {tcica}, {xance}, {stidi}, {kajde}, {maksi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1诱导/影响x2进入行为/状态x3，通过诱饵/恐吓/影响x4
+    notes:
+    - x4是诱人的；x3可能是行为，状态或试图进入某行为/状态的尝试；参见 {djica}, {mukti}, {trina}, {jitro}, {sazri},
+      {tcica}, {xance}, {stidi}, {kajde}, {maksi}.
+    glosses:
+    - No glosses.

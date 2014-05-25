@@ -1,5 +1,62 @@
-Word: mirli
-Rafsi: ''
-Definition: x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2.
-Notes: See also {mabru}, {danlu}.
-Examples: None
+word: mirli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2.
+    notes:
+    - See also {mabru}, {danlu}.
+    glosses:
+    - deer
+  de:
+    place structure: x1 ist ein Hirsch/Reh/Elch/Elen/[eine Ricke] von Art/Gattung
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Hirsch
+  es:
+    place structure: x1 es un ciervo/reno de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - ciervo
+  ru:
+    place structure: x1 — олень/лось вида/разновидности x2
+    notes:
+    - '{mabru} (зверь), {danlu} (животное)'
+    glosses:
+    - олень
+  en-simple:
+    place structure: x1 is a deer of species x3
+    notes:
+    - No notes.
+    glosses:
+    - a deer
+    - x2=a species of deer
+  eo:
+    place structure: x1 estas cervo/alko de speco/raso x2
+    notes:
+    - Vidu ankaŭ {mabru}, {danlu}.
+    glosses:
+    - cervo
+  hu:
+    place structure: x1 egy szarvas/őz/dámvad [Cervidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {mabru}, {danlu})'
+    glosses:
+    - szarvas
+  ja:
+    place structure: x1 は x2 （種類）のシカ科動物
+    notes:
+    - ・大意： 鹿 ・読み方： ミルルィ  ・関連語： {mabru}, {danlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是鹿，属于种族/种类x2
+    notes:
+    - 参见 {mabru}, {danlu}.
+    glosses:
+    - No glosses.

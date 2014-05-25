@@ -1,6 +1,65 @@
-Word: kukte
-Rafsi: kuk
-Definition: x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory
-  activity].
-Notes: $x_1$ is a delicacy.  See also {gusta}, {ralci}, {vrusi}, {cpina}.
-Examples: None
+word: kukte
+rafsi:
+- kuk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is delicious/tasty/delightful to observer/sense x2 [person,
+      or sensory activity].
+    notes:
+    - x1 is a delicacy.  See also {gusta}, {ralci}, {vrusi}, {cpina}.
+    glosses:
+    - delicious
+  de:
+    place structure: x1 ist lecker/schmackhaft/köstlich/entzückend für Betrachter/Sinn
+      x2 [Person oder Sinnesaktivität]
+    notes:
+    - No notes.
+    glosses:
+    - lecker
+  es:
+    place structure: x1 es delicioso/rico/sabroso/gusta a x2
+    notes:
+    - No notes.
+    glosses:
+    - gustar
+  ru:
+    place structure: x1 вкусный/приятный для наблюдателя/чувства x2; x1 — деликатес
+    notes:
+    - '{gusta} (ресторан), {ralci} (хрупкий), {vrusi} (вкус), {cpina} (резкий [острый/раздражающий])'
+    glosses:
+    - вкусный
+  en-simple:
+    place structure: x1 is tasty or delicious to x2
+    notes:
+    - No notes.
+    glosses:
+    - something tasty
+    - x2=something to which something is tasty
+  eo:
+    place structure: x1 estas bongusta/frandaĵo por observanto/sento x2 [homo, aŭ
+      sensa ago]
+    notes:
+    - Vidu ankaŭ {gusta}, {ralci}, {vrusi}, {cpina}.
+    glosses:
+    - bongusta
+  hu:
+    place structure: x1 finom/ízletes/jó illatú/kellemes x2 megfigyelő/érzék számára
+    notes:
+    - '(Lásd még: {gusta}, {ralci}, {vrusi}, {cpina})'
+    glosses:
+    - finom
+  ja:
+    place structure: x1 は x2 にとっておいしい／美味
+    notes:
+    - 「lo djacu po le cmana pu mutce kukte／お山の水はほんたうにおいしかつた」（山頭火『行乞記（二）』）比喩的に味覚以外のものにも。
+      ・大意： おいしい ・読み方： ククテ  ・語呂合わせ： 手作りクックっておいしい ・関連語： {gusta}, {ralci}, {vrusi}, {cpina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是美味的/可口的/好吃的，对观测者/感官x2来说
+    notes:
+    - x1是美食；参见 {gusta}, {ralci}, {vrusi}, {cpina}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,79 @@
-Word: zmadu
-Rafsi: zma, mau
-Definition: x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess
-  x4.
-Notes: Also positive (= {nonmau}).  See also cmavo list {mau}, {mleca}, {zenba}, {jmina},
-  {bancu}, {dukse}, {traji}.
-Examples: None
+word: zmadu
+rafsi:
+- zma
+- mau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by
+      amount/excess x4.
+    notes:
+    - Also positive (= {nonmau}).  See also cmavo list {mau}, {mleca}, {zenba}, {jmina},
+      {bancu}, {dukse}, {traji}.
+    glosses:
+    - more
+  de:
+    place structure: x1 überschreitet/übertrifft/ist mehr als x2 in Eigenschaft/Quantität
+      x3 (ka/ni) um Menge/Überschuss x4
+    notes:
+    - No notes.
+    glosses:
+    - mehr
+  es:
+    place structure: x1 es más/mayor que x2 en propiedad x3 por cantidad x4
+    notes:
+    - Ver también {mleca},  {zenba}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 больше чем/превосходит x2 по свойству/количестве x3 ({ka}/{ni})
+      на величину x4; x1 на x4 более x3 (какой), чем x2
+    notes:
+    - 'Также: положительный: {nonmau}; в lujvo: сравнительная степень прилагательного
+      {mau}, {mleca} (меньше), {zenba} (возрастать), {jmina} (добавлять), {bancu}
+      (за пределом), {dukse} (избыток), {traji} (самый)'
+    glosses:
+    - больше
+    - x2=меньше
+  en-simple:
+    place structure: x1 exceeds or is more than x2 in x3 by amount x4
+    notes:
+    - No notes.
+    glosses:
+    - x3=a property of exceeding
+    - x4=an amount of exceeding
+  eo:
+    place structure: x1 estas pli ol x2 laŭ eco/kvanto x3 (ka/ni) en kvanto x4
+    notes:
+    - 'Ankaŭ: positiva (= {nonmau}).  Vidu ankaŭ cmavo {mau}, {mleca}, {zenba}, {jmina},
+      {bancu}, {dukse}, {traji}.'
+    glosses:
+    - pli
+  hu:
+    place structure: x1 meghaladja/felülmúlja x2-t x3 tulajdonságban/mennyiségben,
+      x4 különbözettel
+    notes:
+    - '(Lásd még: {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji})'
+    glosses:
+    - több
+  ja:
+    place structure: x1 は x2 よりも、 x3 （性質／数量）の点で、 x4 （度合）ほど卓越している／ x3 が x1 には x2 よりももっとある
+    notes:
+    - ・大意： 卓越 ・読み方： ズマドゥ  ・関連語： {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse},
+      {traji}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is meer dan x2 als in abstracte of quantiteit x3 (ka/ni) met
+      de hoeveelheid x4.
+    notes:
+    - 'Zie ook : {mau}, {mleca}, {zenba}, {jmina}, {bancu} en {dukse}, {traji}.'
+    glosses:
+    - meer (meer zijn)
+  zh:
+    place structure: x1是超过x2的，在性质/数量x3（ka/ni）上，差距/差额为x4
+    notes:
+    - 正数={nonmau}；参见 {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}.
+    glosses:
+    - No glosses.

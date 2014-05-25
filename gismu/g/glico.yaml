@@ -1,9 +1,87 @@
-Word: glico
-Rafsi: gic, gli
-Definition: x1 is English/pertains to English-speaking culture in aspect x2.
-Notes: Generally assume broadest sense of 'English'; may refer to 'English', pertaining
-  to the country/people/culture of England (normally requiring constraint = gligu'e,
-  or simply redundancy = gligli-); British English, the norm language of the UK (=
-  {gliglibau}).  (cf. {brito} which refers to the United Kingdom as a whole or to
-  the British empire, {merko}, {sralo}, {kadno}, {skoto})
-Examples: None
+word: glico
+rafsi:
+- gic
+- gli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is English/pertains to English-speaking culture in aspect
+      x2.
+    notes:
+    - Generally assume broadest sense of 'English'; may refer to 'English', pertaining
+      to the country/people/culture of England (normally requiring constraint = gligu'e,
+      or simply redundancy = gligli-); British English, the norm language of the UK
+      (= {gliglibau}).  (cf. {brito} which refers to the United Kingdom as a whole
+      or to the British empire, {merko}, {sralo}, {kadno}, {skoto})
+    glosses:
+    - English (culture)
+  de:
+    place structure: x1 ist englisch/gehört zur englischsprachigen Kultur in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Englisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma inglés en aspecto x2
+    notes:
+    - Ver también {brito},  {merko}.
+    glosses:
+    - inglés
+  ru:
+    place structure: x1 английский/англоязычный в аспекте x2
+    notes:
+    - '«Английский» в самом широком смысле; если речь идет об Англии, ее народе, культуре,
+      обычно требуется уточнение: {gligu''e}, или усугубление: {gli}{gli}); британский
+      вариант английского языка: {gliglibau} {brito} (британский), относящееся к Соединенному
+      Королевству как целому или к Британской империи; {merko} (американский [США]),
+      {sralo} (австралийский), {kadno} (канадский), {skoto} (кельтский)'
+    glosses:
+    - x1=английский
+  en-simple:
+    place structure: x1 is English in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something English
+    - x2=an English aspect
+  eo:
+    place structure: x1 estas angla/apartenas al anglalingva kulturo laŭ aspekto x2
+    notes:
+    - ĝenerale supozu la plej vastan sencon de 'angla'; povas temi pri 'angla', rilata
+      al la lando/popolo/kulturo de Anglio (normale bezonanta limigon = gligu'e, aŭ
+      simpla redundanco = gligli-); britangla, la normolingvo de Britio (= {gliglibau}).  (kp.
+      brito kiu rilatas al la tuta Britio aŭ al la brita imperio, merko, sralo, kadno,
+      skoto)
+    glosses:
+    - angla
+  hu:
+    place structure: x1 angol nyelvet / angol nyelvű kultúrát tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {brito}, {merko}, {sralo}, {kadno}, {skoto})'
+    glosses:
+    - angol
+  ja:
+    place structure: x1はx2の点で英語/英語圏の文化に属する
+    notes:
+    - '第一義はもっとも広い意味での''イングリッシュ''; イングランド/その人々/文化に属するという意味にもなる(通常は gligu''e (constraint)を要する,
+      もしくは簡単に gligli- (redundancy)); イギリス英語, 英国の標準語({gliglibau}). (参照: {brito} : 英国そのものもしくは大英帝国を指す,
+      {merko}, {sralo}, {kadno}, {skoto})'
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är engelsk/tillhör engelsktalande kultur i aspekt x2.
+    notes:
+    - Generellt antas "engelsk" i dess vidaste mening; tillhör landet/folket/kulturen
+      av England (kräver normalt begränsning =gligu'e eller reducerad form gligli-);
+      Brittisk engelska, språknormen i UK (={gliglibau}). (jfr {brito} vilket refererar
+      till Storbritannien;  {merko}, {sralo}, {kadno}, {skoto}).
+    glosses:
+    - x1=engelsk (kultur)
+    - x2=engelsk kulturell aspekt
+  zh:
+    place structure: x1是关于英语/说英语的文化/国家/语言等的事物，在x2方面；
+    notes:
+    - 英格兰={gligu'e}；英式英语={gliglibau}；注：英国/英联邦{brito}与英格兰并不是同一个概念。参见{merko},{sralo},{kadno},{skoto}
+    glosses:
+    - No glosses.

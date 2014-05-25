@@ -1,5 +1,68 @@
-Word: ciblu
-Rafsi: blu
-Definition: x1 is blood/vital fluid of organism x2.
-Notes: See also {risna}, {flecu}.
-Examples: None
+word: ciblu
+rafsi:
+- blu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is blood/vital fluid of organism x2.
+    notes:
+    - See also {risna}, {flecu}.
+    glosses:
+    - blood
+  de:
+    place structure: x1 ist Blut/lebenswichtige Flüssigkeit von Organismus x2
+    notes:
+    - No notes.
+    glosses:
+    - Blut
+  es:
+    place structure: x1 es sangre/fluido vital de organismo x2
+    notes:
+    - No notes.
+    glosses:
+    - sangre
+  ru:
+    place structure: x1 — кровь/жизненно важная жидкость организма x2
+    notes:
+    - '{risna} (сердце), {flecu} (поток)'
+    glosses:
+    - x1=кровь
+  en-simple:
+    place structure: x1 is blood or vital fluid of organism x2
+    notes:
+    - No notes.
+    glosses:
+    - blood
+    - x2=an organism with blood
+  eo:
+    place structure: x1 estas sango/vivfluido de organismo x2
+    notes:
+    - Vidu ankaŭ {risna}, {flecu}.
+    glosses:
+    - sango
+  hu:
+    place structure: x1 a vére/létfontosságú testfolyadéka x2-nek
+    notes:
+    - '(Lásd még: {risna}, {flecu})'
+    glosses:
+    - vér
+  ja:
+    place structure: x1 は x2 （生体）の血／血液
+    notes:
+    - ・大意： 血 ・読み方： シブルゥ  ・語呂合わせ： 血しぶき ・関連語： {risna}, {flecu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är blod/vital vätska av organism x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=blod
+    - x2=blodförsedd (organism med blod/vital vätska)
+  zh:
+    place structure: x1是生物x2的血液
+    notes:
+    - 参见 {risna}, {flecu}.
+    glosses:
+    - No glosses.

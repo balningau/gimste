@@ -1,5 +1,62 @@
-Word: slari
-Rafsi: sar
-Definition: x1 is sour/tart to observer x2.
-Notes: See also {slami}, {titla}, {kurki}, {nimre}.
-Examples: None
+word: slari
+rafsi:
+- sar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is sour/tart to observer x2.
+    notes:
+    - See also {slami}, {titla}, {kurki}, {nimre}.
+    glosses:
+    - sour
+  de:
+    place structure: x1 ist sauer/beißend für Wahrnehmenden x2
+    notes:
+    - No notes.
+    glosses:
+    - sauer
+  es:
+    place structure: x1 es agrio para x2
+    notes:
+    - No notes.
+    glosses:
+    - agrio
+  ru:
+    place structure: x1 кислый на вкус для x2
+    notes:
+    - '{slami} (кислота), {titla} (сладкий), {kurki} (горький), {nimre} (цитрус)'
+    glosses:
+    - x1=кислый
+    - x2=считающим кислым
+  en-simple:
+    place structure: x1 is sour to x2
+    notes:
+    - No notes.
+    glosses:
+    - something sour
+    - x2=something to which something is sour
+  eo:
+    place structure: x1 estas acida [gusto] por observanto x2
+    notes:
+    - Vidu ankaŭ {slami}, {titla}, {kurki}, {nimre}.
+    glosses:
+    - acida
+  hu:
+    place structure: x1 savanyú/fanyar x2 megfigyelő számára
+    notes:
+    - '(Lásd még: {slami}, {titla}, {kurki}, {nimre})'
+    glosses:
+    - savanyú
+  ja:
+    place structure: x1 は x2 （者）にとってすっぱい
+    notes:
+    - ・大意： すっぱい ・読み方： スルァリ  ・関連語： {slami}, {titla}, {kurki}, {nimre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是酸味的，对观察者x2来说
+    notes:
+    - 参见 {slami}, {titla}, {kurki}, {nimre}.
+    glosses:
+    - No glosses.

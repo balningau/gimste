@@ -1,5 +1,65 @@
-Word: palci
-Rafsi: pac
-Definition: x1 is evil/depraved/wicked [morally bad] by standard x2.
-Notes: See also {zekri}, {vrude}, {xlali}, {marde}, {mabla}.
-Examples: None
+word: palci
+rafsi:
+- pac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is evil/depraved/wicked [morally bad] by standard x2.
+    notes:
+    - See also {zekri}, {vrude}, {xlali}, {marde}, {mabla}.
+    glosses:
+    - evil
+  de:
+    place structure: x1 ist böse/boshaft/verdorben [moralisch schlecht] gemäß Standard
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - böse
+  es:
+    place structure: x1 es malvado/cruel/depravado/perverso/moralmente malo según
+      estándar x2
+    notes:
+    - Ver también {vrude},  {xlali},  {marde},  {mabla}.
+    glosses:
+    - malvado
+  ru:
+    place structure: x1 — дурной/злой/аморальный/безнравственный относительно стандарта
+      x2
+    notes:
+    - '{zekri} (преступление), {vrude} (праведный), {xlali} (плохой), {marde} (мораль),
+      {mabla} (негативный [о значении/смысле слова])'
+    glosses:
+    - злой
+  en-simple:
+    place structure: x1 is wicked or evil by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - something wicked
+    - x2=a wickedness standard
+  eo:
+    place structure: x1 estas malica/malvirta/kruela [morale malbona] laŭ normo x2
+    notes:
+    - Vidu ankaŭ {zekri}, {vrude}, {xlali}, {marde}, {mabla}.
+    glosses:
+    - malica
+  hu:
+    place structure: x1 gonosz/züllött [rossz erkölcsű] x2 mérce szerint
+    notes:
+    - '(Lásd még: {zekri}, {vrude}, {xlali}, {marde}, {mabla})'
+    glosses:
+    - gonosz
+  ja:
+    place structure: x1 は x2 （基準）において悪質／非道／堕落的
+    notes:
+    - ・大意： 悪質 ・読み方： パルゥシ  ・関連語： {zekri}, {vrude}, {xlali}, {marde}, {mabla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是邪恶的/堕落的/不道德的，基于标准x2
+    notes:
+    - 参见 {zekri}, {vrude}, {xlali}, {marde}, {mabla}.
+    glosses:
+    - No glosses.

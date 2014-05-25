@@ -1,6 +1,67 @@
-Word: jukni
-Rafsi: juk
-Definition: x1 is a spider/arachnid/crustacean/crab/lobster/non-insect arthropod of
-  species/breed x2.
-Notes: See also {cinki}, {danlu}.
-Examples: None
+word: jukni
+rafsi:
+- juk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a spider/arachnid/crustacean/crab/lobster/non-insect arthropod
+      of species/breed x2.
+    notes:
+    - See also {cinki}, {danlu}.
+    glosses:
+    - spider
+  de:
+    place structure: x1 ist eine Spinne/Arachnid/[Krebs/Schalentier/Hummer/Nicht-Insekt
+      Gliederfüßler] von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Spinne
+  es:
+    place structure: x1 es una araña/arácnido/crustáceo/cangrejo/langostino de especie/raza
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - araña
+  ru:
+    place structure: x1 — паук/паукообразное/{ракообразное/не-насекомое членистоногое}
+      вида/разновидности x2
+    notes:
+    - '{cinki} (насекомое), {danlu} (животное)'
+    glosses:
+    - паук
+    - x2=вид паука
+  en-simple:
+    place structure: x1 is a spider of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a spider
+    - x2=a species of spider
+  eo:
+    place structure: x1 estas araneo/[krustulo/krabo/omaro/ne-insekta artropodo] de
+      speco/raso x2
+    notes:
+    - Vidu ankaŭ {cinki}, {danlu}.
+    glosses:
+    - araneo
+  hu:
+    place structure: x1 egy pók(féle)/[rák/egyéb ízeltlábú nem-rovar] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cinki}, {danlu})'
+    glosses:
+    - pók
+  ja:
+    place structure: x1 は x2 （種類）のクモ属昆虫
+    notes:
+    - ・大意： 蜘蛛 ・読み方： ジュクニ  ・語呂合わせ： ju（蛛）, araknid,クモの毒で指がじゅくじゅくに ・関連語： {cinki}, {danlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蛛形纲动物/甲壳纲动物，属于品种/种类x2；如：蜘蛛，螃蟹，龙虾
+    notes:
+    - 参见 {cinki}, {danlu}.
+    glosses:
+    - No glosses.

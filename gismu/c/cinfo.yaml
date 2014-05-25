@@ -1,5 +1,69 @@
-Word: cinfo
-Rafsi: ''
-Definition: x1 is a lion/[lioness] of species/breed x2.
-Notes: See also {mlatu}.
-Examples: None
+word: cinfo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lion/[lioness] of species/breed x2.
+    notes:
+    - See also {mlatu}.
+    glosses:
+    - lion
+  de:
+    place structure: x1 ist ein Löwe/[eine Löwin] der Art/Rasse x2.
+    notes:
+    - Siehe auch {mlatu}.
+    glosses:
+    - Löwe
+  es:
+    place structure: x1 es un león/puma de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - león
+  ru:
+    place structure: x1 — лев/{львица} вида/разновидности x2
+    notes:
+    - '{mlatu} (кошка)'
+    glosses:
+    - лев
+  en-simple:
+    place structure: x1 is a lion of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a lion
+    - x2=a species of lion
+  eo:
+    place structure: x1 estas leono de speco/raso x2
+    notes:
+    - Vidu ankaŭ {mlatu}.
+    glosses:
+    - leono
+  hu:
+    place structure: x1 egy oroszlán [Panthera leo] az x2 alfajból/fajtából
+    notes:
+    - '(Lásd még: {mlatu})'
+    glosses:
+    - oroszlán
+  ja:
+    place structure: x1 は x2 （種類）のライオン／獅子
+    notes:
+    - ・大意： ライオン ・読み方： シンフォ  ・語呂合わせ： シンフォニー ・関連語： {mlatu} (上位概念) < {mabru} (上位概念),
+      {tirxu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett lejon/[lejoninna] av art/sort x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=lejon
+    - x2=lejonsort
+  zh:
+    place structure: x1是狮，属于品种/种类x2
+    notes:
+    - 参见 {mlatu}.
+    glosses:
+    - No glosses.

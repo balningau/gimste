@@ -1,6 +1,79 @@
-Word: canko
-Rafsi: ca'o
-Definition: x1 is a window/portal/opening [portal] in wall/building/structure x2.
-Notes: See also {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri},
-  {kuspe}.
-Examples: None
+word: canko
+rafsi:
+- ca'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a window/portal/opening [portal] in wall/building/structure
+      x2.
+    notes:
+    - See also {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri},
+      {kuspe}.
+    glosses:
+    - window
+  de:
+    place structure: x1 ist ein Fenster/Portal/eine Öffnung [Portal] in Wand/Gebäude/Struktur
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Fenster
+  es:
+    place structure: x1 es una ventana/apertura en pared/edificio/estructura x2
+    notes:
+    - Ver también {vorme}.
+    glosses:
+    - ventana
+  ru:
+    place structure: x1 — окно/отверстие/проем в стене/здании/сооружении x2
+    notes:
+    - '{vorme} (дверь), {bitmu} (стена), {ganlo} (закрытый), {murta} (занавес), {pagre}
+      (проникать [проходить сквозь]), {kevna} (впадина), {jvinu} (вид [панорама]),
+      {kalri} (открытый), {kuspe} (простираться)'
+    glosses:
+    - x1=окно
+  en-simple:
+    place structure: x1 is a window or portal in wall or building x2
+    notes:
+    - No notes.
+    glosses:
+    - a window
+    - x2=a structure with a window
+  eo:
+    place structure: x1 estas fenestro/portalo/malfermaĵo en muro/konstruaĵo/strukturo
+      x2
+    notes:
+    - Vidu ankaŭ {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri},
+      {kuspe}.
+    glosses:
+    - fenestro
+  hu:
+    place structure: x1 egy ablak/nyílás/portál x2 falon/épületen/szerkezeten
+    notes:
+    - '(Lásd még: {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri},
+      {kuspe})'
+    glosses:
+    - ablak
+  ja:
+    place structure: x1 は x2 （壁／建物／構造）の窓／門／入口／出口／玄関
+    notes:
+    - ・大意： 窓 ・読み方： シャンコ  ・語呂合わせ： ぺしゃんこ, , window ・関連語： {vorme}, {bitmu}, {ganlo},
+      {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett fönster/portal/öppning [portal] i vägg/byggnad/struktur
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - portal
+    - x1=fönster
+    - x2=fönsterförsedd
+  zh:
+    place structure: x1是窗/墙上的开口，位于墙体/建筑物/结构x2上
+    notes:
+    - 参见 {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}.
+    glosses:
+    - No glosses.

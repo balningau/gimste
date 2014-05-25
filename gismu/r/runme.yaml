@@ -1,6 +1,67 @@
-Word: runme
-Rafsi: rum
-Definition: x1 melts [becomes liquid from solid state] at temperature x2 and pressure
-  x3.
-Notes: $x_1$ runs (= {rumfle}).  See also {dunja}, {febvi}, {lunsa}, {bisli}.
-Examples: None
+word: runme
+rafsi:
+- rum
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 melts [becomes liquid from solid state] at temperature x2
+      and pressure x3.
+    notes:
+    - x1 runs (= {rumfle}).  See also {dunja}, {febvi}, {lunsa}, {bisli}.
+    glosses:
+    - melt
+  de:
+    place structure: x1 schmilzt [geht vom festen zum flüssigen Zustand über] bei
+      Temperatur x2 und Druck x3
+    notes:
+    - No notes.
+    glosses:
+    - schmelzen
+  es:
+    place structure: x1 se derrite/funde a temperatura x2, presión x3
+    notes:
+    - Ver también {dunja},  {febvi},  {lunsa}.
+    glosses:
+    - derretirse
+  ru:
+    place structure: x1 плавится/тает при температуре x2 и давлении x3
+    notes:
+    - '{dunja} (замерзать [затвердевать]), {febvi} (кипеть), {lunsa} (конденсироваться),
+      {bisli} (лед)'
+    glosses:
+    - таять
+    - x1=плавящийся
+  en-simple:
+    place structure: x1 melts at temperature x2 and pressure x3
+    notes:
+    - No notes.
+    glosses:
+    - something melting
+    - x2=a temperature of melting
+    - x3=a pressure of melting
+  eo:
+    place structure: x1 fandiĝas [iĝas likva el solida stato] je temperaturo x2 kaj
+      premo x3
+    notes:
+    - x1 kuras (= {rumfle}).  Vidu ankaŭ {dunja}, {febvi}, {lunsa}, {bisli}.
+    glosses:
+    - fandiĝi
+  hu:
+    place structure: x1 (el)olvad x2 hőmérsékleten, x3 nyomás alatt
+    notes:
+    - '(Lásd még: {dunja}, {febvi}, {lunsa}, {bisli})'
+    glosses:
+    - olvad
+  ja:
+    place structure: x1 は x2 （温度）と x3 （圧力）において溶解する；  x1 は溶ける
+    notes:
+    - ・大意： 溶ける ・読み方： ルンメ  ・語呂合わせ： とけるン目 ・関連語： {dunja}, {febvi}, {lunsa}, {bisli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1融化/溶化（固体变成液体），在温度x2，压强x3下
+    notes:
+    - 参见 {dunja}, {febvi}, {lunsa}, {bisli}.
+    glosses:
+    - No glosses.

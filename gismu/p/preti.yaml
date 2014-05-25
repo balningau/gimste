@@ -1,6 +1,71 @@
-Word: preti
-Rafsi: ret, rei
-Definition: x1 (quoted text) is a question/query about subject x2 by questioner x3
-  to audience x4.
-Notes: See also {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu}.
-Examples: None
+word: preti
+rafsi:
+- ret
+- rei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (quoted text) is a question/query about subject x2 by questioner
+      x3 to audience x4.
+    notes:
+    - See also {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu}.
+    glosses:
+    - question
+  de:
+    place structure: x1 (zitierter Text) ist eine Frage/Anfrage über Thema x2 von
+      Fragendem x3 an Publikum x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es una pregunta/consulta sobre tema x2 hecha por x3 ante audiencia
+      x4
+    notes:
+    - Ver también {nabmi},  {danfu}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — вопрос о x2, задаваемый x3 (кем) x4 (кому)
+    notes:
+    - '{nabmi} (проблема), {danfu} (ответ), {ciksi} (объяснять), {frati} (реагировать),
+      {spuda} (отвечать [реагировать]), {cpedu} (просить)'
+    glosses:
+    - x1=вопрос
+    - x2=о чем вопрос
+    - x3=кто задает вопрос
+    - x4=кому задают вопрос
+  en-simple:
+    place structure: x1 is a question about x2 asked by x3 to x4
+    notes:
+    - No notes.
+    glosses:
+    - a question
+    - x2=a subject of a question
+    - x3=a questioner
+    - x4=an audience of a questioner
+  eo:
+    place structure: x1 (citita teksto) estas demando pri temo x2 de demandanto x3
+      al publiko x4
+    notes:
+    - Vidu ankaŭ {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu}.
+    glosses:
+    - demando
+  hu:
+    place structure: x1 egy kérdés x2-ről, x3-tól, x4-nek
+    notes:
+    - '(Lásd még: {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu})'
+    glosses:
+    - kérdés
+  ja:
+    place structure: x1（引用文）は、主題x2に関する、質問者x3により聞き手x4に向けられた質問である
+    notes:
+    - '参照: {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu}'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（加括号的文本）是问题/提问，关于主题x2，由x3所表达/提出，给读者/受者x4
+    notes:
+    - 参见 {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu}.
+    glosses:
+    - No glosses.

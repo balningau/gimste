@@ -1,8 +1,79 @@
-Word: kruvi
-Rafsi: ruv, kru
-Definition: x1 is a curve/turn/bend in x2, at locus x3, and defined by set of points/properties
-  x4.
-Notes: (adjective:) $x_1$ is curved; ($x_4$ as a set of points is sufficiently specified
-  to identify the relevant properties of the bend).  See also {korcu}, {bargu}, {genxu},
-  {linji}, {sirji}.
-Examples: None
+word: kruvi
+rafsi:
+- ruv
+- kru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a curve/turn/bend in x2, at locus x3, and defined by set
+      of points/properties x4.
+    notes:
+    - (adjective:) x1 is curved; (x4 as a set of points is sufficiently specified
+      to identify the relevant properties of the bend).  See also {korcu}, {bargu},
+      {genxu}, {linji}, {sirji}.
+    glosses:
+    - curve
+  de:
+    place structure: x1 ist eine Kurve/Biegung von x2 an Stelle x3 und ist bestimmt
+      durch eine Menge an Punkten/Eigenschaften x4
+    notes:
+    - No notes.
+    glosses:
+    - Kurve
+  es:
+    place structure: x1 es una curva/doblez en x2, en parte x3, y definido por conjunto
+      de puntos/propiedades x4
+    notes:
+    - No notes.
+    glosses:
+    - curva
+  ru:
+    place structure: x1 — изгиб/поворот/искривление x2 (чего) в участке x3, определяемый
+      множеством точек/свойств x4
+    notes:
+    - 'Прилагательное: x1 кривой/изогнутый; x4 — множество точек, в достаточной мере
+      определяющее существенные свойства изгиба {korcu} (изогнутый), {bargu} (арка),
+      {genxu} (крюк), {linji} (линия), {sirji} (прямой)'
+    glosses:
+    - изгиб
+    - x2=имеющее изгиб
+    - x3=участок изгиба
+  en-simple:
+    place structure: x1 is a curve or bend in x2 at location x3 defined by x4
+    notes:
+    - No notes.
+    glosses:
+    - a curve
+    - x2=something with a curve
+    - x3=a location of a curve
+    - x4=a property defining a curve
+  eo:
+    place structure: x1 estas kurbo en x2, je loko x3, kaj difinita per aro da punktoj/ecoj
+      x4
+    notes:
+    - (adjektivo:) x1 estas kurba; (x4 kiel aro de punktoj estas sufiĉe specifita
+      por identigi la ecojn de la kurbo).  Vidu ankaŭ {korcu}, {bargu}, {genxu}, {linji},
+      {sirji}.
+    glosses:
+    - kurbo
+  hu:
+    place structure: x1 egy görbület/hajlat/kanyar x2-n, x3 helyen, x4 meghatározó
+      pontokkal/tulajdonságokkal
+    notes:
+    - '(Lásd még: {korcu}, {bargu}, {genxu}, {linji}, {sirji})'
+    glosses:
+    - görbület
+  ja:
+    place structure: x1 は x2 （本体）・ x3 （箇所）における x4 （特性）の湾曲；  x1 は曲線；  x2 は曲がっている
+    notes:
+    - x4は曲線を結ぶ／描く点など。 ・大意： 湾曲 ・読み方： クルヴィ ・関連語： {korcu}, {bargu}, {genxu}, {linji},
+      {sirji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是弯曲的/弯道/曲线，在x2上，在位置x3处，由点集/性质x4定义
+    notes:
+    - x1是弯曲的；（x4是能够有效确定曲线的各种相关属性点集；参见 {korcu}, {bargu}, {genxu}, {linji}, {sirji}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,71 @@
-Word: tirxu
-Rafsi: ''
-Definition: x1 is a tiger/leopard/jaguar/[tigress] of species/breed x2 with coat markings
-  x3.
-Notes: 'A great cat noted/recognized by its markings, metaphorically: stripes, tiger
-  markings.  See also {mlatu}.'
-Examples: None
+word: tirxu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tiger/leopard/jaguar/[tigress] of species/breed x2 with
+      coat markings x3.
+    notes:
+    - 'A great cat noted/recognized by its markings, metaphorically: stripes, tiger
+      markings.  See also {mlatu}.'
+    glosses:
+    - tiger
+  de:
+    place structure: x1 ist ein Tiger/ein Leopard/ein Jaguar/[eine Tigerin] der Art/Rasse
+      x2 mit der Fellzeichnung x3.
+    notes:
+    - Eine Großkatze, die sich durch ihre Fellzeichnung auszeichnet.  Siehe auch {mlatu}.
+    glosses:
+    - Tiger
+  es:
+    place structure: x1 es un tigre/leopardo/jaguar de especie/raza x2 con manchas/marcas
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - tigre
+  ru:
+    place structure: x1 — тигр/леопард/ягуар вида/разновидности x2 c узором x3 на
+      шкуре
+    notes:
+    - Большая кошка с характерным узором (пятнами/полосами) на шкуре {mlatu} (кошка)
+    glosses:
+    - x1=тигр
+    - x2=вид тигра
+  en-simple:
+    place structure: x1 is a tiger of species x2 with coat markings x3
+    notes:
+    - No notes.
+    glosses:
+    - a tiger
+    - x2=a species of tiger
+    - x3=a marking of a tiger
+  eo:
+    place structure: x1 estas tigro/leopardo/jaguaro de speco/raso x2 kun felaj strioj/makuloj
+      x3
+    notes:
+    - 'Granda kato rekonita per la markoj, metafore: strioj, tigraj markoj.  Vidu
+      ankaŭ {mlatu}.'
+    glosses:
+    - tigro
+  hu:
+    place structure: x1 egy tigris/párduc/jaguár/gepárd [jellegzetes mintázatú nagymacska]
+      az x2 fajból/fajtából, x3 bundamintázattal
+    notes:
+    - '(Lásd még: {mlatu})'
+    glosses:
+    - tigris
+  ja:
+    place structure: x1 は x2 （種類）・ x3 （模様／柄）のトラ／ヒョウ／ジャガー
+    notes:
+    - 体の模様から識別できる大型のネコ科全般。 ・大意： 虎 ・読み方： ティルクゥ  ・関連語： {mlatu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是虎/豹，属于品种/种类x2，带有花色x3
+    notes:
+    - 指具有斑纹特征（豹纹/虎斑）的大型猫科动物；参见 {mlatu}.
+    glosses:
+    - No glosses.

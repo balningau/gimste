@@ -1,8 +1,88 @@
-Word: cedra
-Rafsi: ''
-Definition: x1 is an era/epoch/age characterized by x2 (event/property/interval/idea).
-Notes: ($x_2$ interval should be the defining boundaries; if merely a characterizing
-  period, the nature of the interval should be expressed in an abstract bridi, or
-  the interval should be marked with tu'a; $x_2$ may also be characteristic object(s)
-  or practices of the era, if marked with tu'a); See also {ranji}, {temci}, {citsi}.
-Examples: None
+word: cedra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an era/epoch/age characterized by x2 (event/property/interval/idea).
+    notes:
+    - (x2 interval should be the defining boundaries; if merely a characterizing period,
+      the nature of the interval should be expressed in an abstract bridi, or the
+      interval should be marked with tu'a; x2 may also be characteristic object(s)
+      or practices of the era, if marked with tu'a); See also {ranji}, {temci}, {citsi}.
+    glosses:
+    - era
+  de:
+    place structure: x1 ist eine Ära/Epoche/ein Zeitalter charakterisiert durch x2
+      (Ereignis/Eigenschaft/Intervall/Idee)
+    notes:
+    - No notes.
+    glosses:
+    - Ära
+  es:
+    place structure: x1 es una era/época/edad caracterizada por x2
+    notes:
+    - Ver también {temci},  {citsi}.
+    glosses:
+    - era
+  ru:
+    place structure: 'x1 — эра/эпоха/век, характеризуемая x2 (чем: событие/свойство/интервал/идея)'
+    notes:
+    - x2 должен определять границы интервала; если речь идет просто о характеризации
+      периода, природа интервала должна быть выражена абстрактным bridi, или же интервал
+      должен быть снабжен маркером {tu'a}; в последнем случае x2 м.б. также объектами
+      или занятиями, характерными для этой эры {ranji} (продолжаться), {temci} (время
+      [промежуток]), {citsi} (сезон)
+    glosses:
+    - эра
+  en-simple:
+    place structure: x1 is an era or age characterized by x2
+    notes:
+    - No notes.
+    glosses:
+    - an era
+    - x2=an era's characterization
+  eo:
+    place structure: x1 estas epoko/erao karakterizita de x2 (okazo/eco/intervalo/ideo)
+    notes:
+    - (intervalo x2 estu la difinaj limoj; se temas pri nur karakteriza periodo, oni
+      esprimu la naturon de la intervalon per abstrakta bridi, aŭ la intervalon oni
+      marku per tu'a; x2 ankaŭ povas esti karakterizaj objektoj aŭ praktikoj de la
+      epoko, se markita per tu'a); Vidu ankaŭ {ranji}, {temci}, {citsi}.
+    glosses:
+    - epoko
+  hu:
+    place structure: x1 egy korszak/kor/éra, amelyet x2 jellemez
+    notes:
+    - '(Lásd még: {ranji}, {temci}, {citsi})'
+    glosses:
+    - korszak
+  ja:
+    place structure: x1 は x2 （事／物／性質／間隔）を特徴とする時代／時期／年代
+    notes:
+    - ・大意： 時代 ・読み方： シェドラ  ・語呂合わせ： cidai(時代), era  ・関連語： {ranji}, {temci}, {citsi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en era/epok/tidsålder/tidsperiod som kännetecknas av x2
+      (händelse/egenskap/intervall/idé).
+    notes:
+    - x2 bör vara de gränser som skiljer ut tidsperioden från andra perioder; om det
+      endast rör sig om en kännetecknande period, så bör detta intervalls natur uttryckas
+      genom ett abstrakt bridi eller så bör intervallet markeras med tu'a; x2 kan
+      också vara kännetecknande objekt eller praktiker från denna era, om markerad
+      med tu'a.
+    glosses:
+    - epok
+    - era (tidsålder)
+    - tidsålder
+    - x1=tidsperiod (epok)
+    - x2=tidsanda
+  zh:
+    place structure: x1是年代/时代，由事物/性质/思潮/时间间隔x2决定/特征化
+    notes:
+    - x2内部应当定义边界；如果只是表示一个被特征化的时期，时间区间的本质应当是一个谓词子句，或用tu'a进行标注； 用tu'a标注时，x2 也可能指那个时代特征化的物品或实例；参见
+      {ranji}, {temci}, {citsi}.
+    glosses:
+    - No glosses.

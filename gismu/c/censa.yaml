@@ -1,5 +1,75 @@
-Word: censa
-Rafsi: ces
-Definition: x1 is holy/sacred to person/people/culture/religion/cult/group x2.
-Notes: See also {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma}.
-Examples: None
+word: censa
+rafsi:
+- ces
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is holy/sacred to person/people/culture/religion/cult/group
+      x2.
+    notes:
+    - See also {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma}.
+    glosses:
+    - holy
+  de:
+    place structure: x1 ist Person/Gruppe/Kultur/Religion/Kult x2 heilig
+    notes:
+    - No notes.
+    glosses:
+    - heilig
+  es:
+    place structure: x1 es sagrado/sacro/santo para persona/gente/cultura/religión/culto
+      x2
+    notes:
+    - Ver también {lijda}.
+    glosses:
+    - sagrado
+  ru:
+    place structure: x1 — священный/сакральный для лица/народа/культуры/религии/культа/группы
+      x2
+    notes:
+    - '{cevni} (бог), {krici} (верить), {latna} (лотос), {pruxi} (дух), {lijda} (религия),
+      {sinma} (уважать)'
+    glosses:
+    - священный
+  en-simple:
+    place structure: x1 is holy or sacred to x2
+    notes:
+    - No notes.
+    glosses:
+    - something holy
+    - x2=something to which something is holy
+  eo:
+    place structure: x1 estas sankta por homo/popolo/kulturo/religio/kulto/grupo x2
+    notes:
+    - (kp. cevni, krici, latna, prŭi, lijda, sinma)
+    glosses:
+    - sankta
+  hu:
+    place structure: x1 (egy) szent/megszentelt x2 személy(ek)/csoport/szekta/kultúra/vallás
+      számára
+    notes:
+    - '(Lásd még: {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma})'
+    glosses:
+    - szent
+  ja:
+    place structure: x1 は x2 （者／文化／宗教／グループ）にとって神聖／冒すことができない；  x2 は x1 を神聖視する
+    notes:
+    - ・大意： 聖なる ・読み方： シェンサ  ・語呂合わせ： cen(聖), sacro  ・関連語： {cevni}, {krici}, {latna},
+      {pruxi}, {lijda}, {sinma}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är helgad/helig för person/folk/religion/kult/grupp x2.
+    notes:
+    - No notes.
+    glosses:
+    - helgad
+    - x1=helig
+    - x2=kultutövare (för vilken/vilka x1 är heligt)
+  zh:
+    place structure: x1是神圣的/让人敬畏的，对人/民族/文化/宗教/组织x2来说
+    notes:
+    - 参见 {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma}.
+    glosses:
+    - No glosses.

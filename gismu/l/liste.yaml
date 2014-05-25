@@ -1,9 +1,78 @@
-Word: liste
-Rafsi: ste
-Definition: x1 (physical object) is a list/catalog/register of sequence/set x2 in
-  order x3 in medium x4.
-Notes: Also roll, log.  ($x_2$ is completely specified); (cf. {porsi}, {girzu}, {cmima}
-  for mental objects wherein order is of varying importance; some manifested order
-  is intrinsic to a physical list, but the specific order may be incidental and not
-  intentional/purposeful)
-Examples: None
+word: liste
+rafsi:
+- ste
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (physical object) is a list/catalog/register of sequence/set
+      x2 in order x3 in medium x4.
+    notes:
+    - Also roll, log.  (x2 is completely specified); (cf. {porsi}, {girzu}, {cmima}
+      for mental objects wherein order is of varying importance; some manifested order
+      is intrinsic to a physical list, but the specific order may be incidental and
+      not intentional/purposeful)
+    glosses:
+    - list
+  de:
+    place structure: x1 (materielles Objekt) ist eine Liste/ein Katalog/ein Verzeichnis
+      von Folge/Menge x2 geordnet nach x3 auf Medium x4
+    notes:
+    - No notes.
+    glosses:
+    - Liste
+  es:
+    place structure: x1 es una lista/catálogo/registro de conjunto x2 en orden x3
+      grabada/registrada en medio x4
+    notes:
+    - No notes.
+    glosses:
+    - lista
+  ru:
+    place structure: x1 (физический объект) есть список/опись/каталог последовательности/множества
+      x2, упорядоченный по принципу x3, записанный на носителе x4
+    notes:
+    - 'Также: перечень, досье, реестр, формуляр; x2 — полностью описанное множество
+      {porsi} (последовательность), {girzu} (группа), {cmima} (член) для мысленных
+      объектов с различной степенью упорядоченности; физическому списку, вообще говоря,
+      всегда присуще некоторое упорядочение, но конкретное проявление порядка м.б.
+      случайным и непреднамеренным'
+    glosses:
+    - каталог (опись)
+  en-simple:
+    place structure: x1 is a list of x2 in order x3 in medium x4
+    notes:
+    - No notes.
+    glosses:
+    - a list
+    - x2=a list sequence
+    - x3=a list order
+    - x4=a list medium
+  eo:
+    place structure: x1 (fizika objekto) estas listo/katalogo/registro de sinsekvo/aro
+      x2 laŭ vico x3 en medio x4
+    notes:
+    - 'Ankaŭ: taglibro.  (x2 estas komplete specifita); (kp. porsi, girzu, cmima por
+      mensaj objektoj kie vicigo estas de varia graveco; iu manifesta vicigo estas
+      esenca por fizika listo, sed la specifa vicigo povas esti incidenta kaj ne intenca/celita)'
+    glosses:
+    - listo
+  hu:
+    place structure: x1 egy (leírt) lista/katalógus x2 sorozat/halmaz elemeiből, x3
+      sorrendben, x4 hordozón
+    notes:
+    - '(Lásd még: {porsi}, {girzu}, {cmima})'
+    glosses:
+    - lista
+  ja:
+    place structure: x1 は x2 （集合）を x3 （序列）で x4 （媒体）に表した目録／カタログ／リスト／一覧／名簿／ログ
+    notes:
+    - ・大意： 目録 ・読み方： ルィステ  ・語呂合わせ： リスト ・関連語： {porsi}, {girzu}, {cmima}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是清单/登记薄/目录，上有序列/集合x2，以顺序x3排列，在媒介x4中
+    notes:
+    - x2需完全确定；参见 {porsi}, {girzu}, {cmima}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,71 @@
-Word: lante
-Rafsi: ''
-Definition: x1 is a can/tightly sealed/pre-sealed container for perishable contents
-  x2, made of x3.
-Notes: See also {botpi}, {baktu}, {tinci}.
-Examples: None
+word: lante
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a can/tightly sealed/pre-sealed container for perishable
+      contents x2, made of x3.
+    notes:
+    - See also {botpi}, {baktu}, {tinci}.
+    glosses:
+    - can
+  de:
+    place structure: x1 ist eine Dose/ein versiegelter Behälter für verderblichen
+      Inhalt x2, gemacht aus x3
+    notes:
+    - No notes.
+    glosses:
+    - Dose
+  es:
+    place structure: x1 es una lata/conserva/recipiente sellado de contenido x2, de
+      material x3
+    notes:
+    - Ver también {botpi},  {baktu}.
+    glosses:
+    - lata
+  ru:
+    place structure: x1 — (консервная) банка, плотно закрытый сосуд со скоропортящимся
+      содержимым x2, из материала x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2» {botpi} (бутылка), {baktu} (ведро),
+      {tinci} (олово)'
+    glosses:
+    - x1=консервная банка
+    - x2=скоропортящееся содержимое банки
+    - x3=материал консервной банки
+  en-simple:
+    place structure: x1 is a can for x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a can
+    - x2=something canned
+    - x3=a material of a can
+  eo:
+    place structure: x1 estas ladskatolo/hermetike fiksita ujo por pereema enhavo
+      x2, farita el x3
+    notes:
+    - Vidu ankaŭ {botpi}, {baktu}, {tinci}.
+    glosses:
+    - ladskatolo
+  hu:
+    place structure: x1 egy konzervdoboz/[szorosan zárt/lehegesztett tárolóedény]
+      x2 romlandó tartalom számára, x3 anyagból
+    notes:
+    - '(Lásd még: {botpi}, {baktu}, {tinci})'
+    glosses:
+    - konzervdoboz
+  ja:
+    place structure: x1 は x2 （生鮮物）を詰めた、 x3 （素材）の缶容器
+    notes:
+    - ・大意： 缶詰 ・読み方： ルァンテ  ・語呂合わせ： 缶詰足らんて ・関連語： {botpi}, {baktu}, {tinci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是罐头/密闭容器，用以装易受影响的物质x2，容器由x3做成
+    notes:
+    - 参见 {botpi}, {baktu}, {tinci}.
+    glosses:
+    - No glosses.

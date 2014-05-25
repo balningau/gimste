@@ -1,6 +1,66 @@
-Word: ralci
-Rafsi: rac
-Definition: x1 is delicate/fragile/subtle/refined in property x2 (ka).
-Notes: Easily damaged or rendered less pleasing/pure/effective.  See also {jdari},
-  {ranti}, {tsali}, {milxe}, {kukte}.
-Examples: None
+word: ralci
+rafsi:
+- rac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is delicate/fragile/subtle/refined in property x2 (ka).
+    notes:
+    - Easily damaged or rendered less pleasing/pure/effective.  See also {jdari},
+      {ranti}, {tsali}, {milxe}, {kukte}.
+    glosses:
+    - delicate
+  de:
+    place structure: x1 ist empfindlich/zart/anfällig/subtil in Eigenschaft x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - zart
+  es:
+    place structure: x1 es delicado/frágil en propiedad x2
+    notes:
+    - No notes.
+    glosses:
+    - delicado
+  ru:
+    place structure: x1 — нежный/хрупкий/непрочный/деликатный в отношении свойства
+      x2 ({ka})
+    notes:
+    - Легко повреждаемый или теряющий эффективность/чистоту/пригодность {jdari} (крепкий),
+      {ranti} (мягкий), {tsali} (сильный), {milxe} (умеренный), {kukte} (вкусный)
+    glosses:
+    - x1=нежный
+  en-simple:
+    place structure: x1 is fragile in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something fragile
+    - x2=a property of fragility
+  eo:
+    place structure: x1 estas delikata/subtila/rafinita en eco x2 (ka)
+    notes:
+    - Facile difektebla aŭ igebla malpli plaĉa/pura/efika. Vidu ankaŭ {jdari}, {ranti},
+      {tsali}, {milxe}, {kukte}.
+    glosses:
+    - delikata
+  hu:
+    place structure: x1 sérülékeny/törékeny/érzékeny x2 tulajdonságban
+    notes:
+    - '(Lásd még: {jdari}, {ranti}, {tsali}, {milxe}, {kukte})'
+    glosses:
+    - sérülékeny
+  ja:
+    place structure: x1 は x2 （性質）に関して繊細／精巧／デリケート；  x1 には x2 の機微がある
+    notes:
+    - ・大意： 繊細 ・読み方： ラルゥシ  ・語呂合わせ： fragile, ci（致） ・関連語： {jdari}, {ranti}, {tsali},
+      {milxe}, {kukte}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是脆弱的/易碎的/微妙的/微弱的，在性质x2上（ka）
+    notes:
+    - 易被损坏或渲染不够有效；参见 {jdari}, {ranti}, {tsali}, {milxe}, {kukte}.
+    glosses:
+    - No glosses.

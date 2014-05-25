@@ -1,8 +1,78 @@
-Word: ragve
-Rafsi: rav
-Definition: x1 is located across/on the other side of gap/boundary x2 from x3; x1
-  is opposite (fi) x3.
-Notes: 'Also: $x_1$ is over there (across/beyond zo''e); directly across/beyond a
-  boundary/gap, generally at the shortest plausible distance on the other side of
-  the boundary.  See also {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}.'
-Examples: None
+word: ragve
+rafsi:
+- rav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is located across/on the other side of gap/boundary x2 from
+      x3; x1 is opposite (fi) x3.
+    notes:
+    - 'Also: x1 is over there (across/beyond zo''e); directly across/beyond a boundary/gap,
+      generally at the shortest plausible distance on the other side of the boundary.  See
+      also {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}.'
+    glosses:
+    - across
+  jbo:
+    place structure: x1 dukti x3 le ka ce'u po'u makau mlana x2 .i x1 bancu x2 boi
+      x3 le ka ce'u zvati makau
+    notes:
+    - '{bancu}; {dukti}; {tolragve}'
+    glosses:
+    - ragve
+  de:
+    place structure: x1 ist gegenüber/auf der anderen Seite von Zwischenraum/Grenze
+      x2 von x3; x1 ist Gegenüber von (fi) x3
+    notes:
+    - No notes.
+    glosses:
+    - gegenüber
+  es:
+    place structure: x1 está al otro lado de/cruzando/a través de x2 desde x3
+    notes:
+    - Ver también {dukti},  {kuspe},  {kruca},  {cripu}.
+    glosses:
+    - través
+  ru:
+    place structure: x1 находится на той стороне/за/через x2 (преграда/граница) от
+      x3; x1 находится напротив ({fi}) x3
+    notes:
+    - Непосредственно «напротив», или на кратчайшем (в каком-то смысле) расстоянии
+      {dukti} (противоположный), {kuspe} (простираться), {bancu} (за пределом), {kruca}
+      (пересекать), {cripu} (мост), {pagre} (проникать [проходить сквозь])
+    glosses:
+    - по ту сторону
+    - x1=находящийся по ту сторону
+  en-simple:
+    place structure: x1 is across boundary x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - something across a boundary
+    - x2=a boundary
+    - x3=something a boundary is across
+  eo:
+    place structure: x1 estas trans/aliflanke de breĉo/limo x2 ekde x3
+    notes:
+    - ĝuste trans limo/breĉo, ĝenerale je distanco kiel eble plej mallonga trans la
+      limo.  Vidu ankaŭ {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}.
+    glosses:
+    - No glosses.
+  hu:
+    place structure: x1 a túloldalán van x2 határnak/résnek, x3 nézőpontjából
+    notes:
+    - '(Lásd még: {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre})'
+    glosses:
+    - túloldalt
+  ja:
+    place structure: x1 は x2 （境界）を x3 （側）に対して横断する／またいでいる；  x1 は x3 の反対側
+    notes:
+    - ・大意： 横断 ・読み方： ラグヴェ  ・関連語： {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1位于沟壑/界线x2的另一边，与x3相对；x1与（fi）是相反的/对面的
+    notes:
+    - 也指：x1在另一边（越过/跨过zo'e）；参见 {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}.
+    glosses:
+    - No glosses.

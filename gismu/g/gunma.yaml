@@ -1,10 +1,92 @@
-Word: gunma
-Rafsi: gum
-Definition: x1 is a mass/team/aggregate/whole, together composed of components x2,
-  considered jointly.
-Notes: A description in $x_1$ indicates of mass property(ies) displayed by the mass;
-  masses may reveal properties not found in the individual set members that are massified,
-  which themselves are not necessarily relevant to the mass property implicit in this
-  bridi.  See also {bende}, {girzu}, {pagbu}, cmavo list {loi}, {lei}, {lai}, {ciste},
-  {cmima}, {kansa}, {tinci}, {mulgunma}.
-Examples: None
+word: gunma
+rafsi:
+- gum
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mass/team/aggregate/whole, together composed of components
+      x2, considered jointly.
+    notes:
+    - A description in x1 indicates of mass property(ies) displayed by the mass; masses
+      may reveal properties not found in the individual set members that are massified,
+      which themselves are not necessarily relevant to the mass property implicit
+      in this bridi.  See also {bende}, {girzu}, {pagbu}, cmavo list {loi}, {lei},
+      {lai}, {ciste}, {cmima}, {kansa}, {tinci}, {mulgunma}.
+    glosses:
+    - jointly (partially specified)
+    - mass (aggregate)
+  de:
+    place structure: x1 ist eine Masse/ein Team/ein Aggregat/ein Ganzes und besteht
+      aus Einzelteilen x2, als Ganzes betrachtet
+    notes:
+    - No notes.
+    glosses:
+    - gemeinsam
+  es:
+    place structure: x1 es una masa/yuxtaposición/equipo compuesta por componentes
+      x2
+    notes:
+    - Ver también {bende}.
+    glosses:
+    - masa
+  ru:
+    place structure: x1 — масса/агрегат/целостность/{толпа}, состоящая из компонент
+      x2, рассматриваемых как единое целое
+    notes:
+    - описание x1 указывает на свойства, проявляемые массой в целом; масса может обладать
+      свойствами, отличными от свойств отдельных компонент {bende} (команда), {girzu}
+      (группа), {pagbu} (часть), {loi}, {lei}, {lai}, {ciste} (система), {cmima} (член),
+      {kansa} (вместе), {tinci} (олово)
+    glosses:
+    - масса
+  en-simple:
+    place structure: x1 is a an aggregate or mass of components x2
+    notes:
+    - No notes.
+    glosses:
+    - an aggregate
+    - x2=a component of an aggregate
+  eo:
+    place structure: x1 estas kolektivo/teamo/amaso/sumo/tuto, kune konsistanta el
+      eroj x2
+    notes:
+    - Priskribo en x1 indikas la kolektiva(j)n eco(j)n elmontratajn de la kolektivaĵo;
+      kolektivaĵoj povas elmontri ecojn ne trovitajn en la individuaj ar-membroj,
+      kiuj mem ne nepre estas signifaj al la kolektiva eco implicita en ĉi tiu bridi.  Vidu
+      ankaŭ {bende}, {girzu}, {pagbu}, cmavo {loi}, {lei}, {lai}, {ciste}, {cmima},
+      {kansa}, {tinci}.
+    glosses:
+    - kune
+  hu:
+    place structure: x1 egy sokaság/csapat/sereg/összesség/teljesség, x2 alkotóelemekből/összetevőkből
+    notes:
+    - '(Lásd még: {bende}, {girzu}, {pagbu}, {ciste}, {cmima}, {kansa}, {tinci})'
+    glosses:
+    - sokaság
+  ja:
+    place structure: x1 は x2 （要素）からなる群／団
+    notes:
+    - 行為や動作について共同的となっているまとまり。 ・大意： 群 ・読み方： グンマ  ・語呂合わせ： 群, gun（共）, mass ・関連語： {bende},
+      {girzu}, {pagbu}, {loi}, {lei}, {lai}, {ciste}, {cmima}, {kansa}, {tinci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en massa/lag/hop/ansamling/helhet, tillsammans sammansatt
+      av komponenter x2, vilka anses hänger ihop.
+    notes:
+    - En beskrivning i x1 indikerar massegenskap(er) som massan visar upp; massor
+      kan avslöja egenskaper vilka inte kan återfinnas hos enskilda medlemmar i setet,
+      vilka har blivit massifierade.
+    glosses:
+    - ansamling (massa/helhet)
+    - hop (ansamling/massa/helhet)
+    - x1=massa (ansamling/helhet)
+    - x2=komponent (i massa (ansamling/helhet))
+  zh:
+    place structure: x1是由各组件x2共同组成的团/队/集体
+    notes:
+    - x1位呈现出了整个团体具有的性质；团体可能显示出集合中单个成员所不具有的性质，而且单个成员的性质也不必要与团体性质有关；参见 {bende}, {girzu},
+      {pagbu}, {loi}, {lei}, {lai}, {ciste}, {cmima}, {kansa}, {tinci}, {mulgunma}.
+    glosses:
+    - No glosses.

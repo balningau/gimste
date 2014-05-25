@@ -1,5 +1,67 @@
-Word: kanba
-Rafsi: ''
-Definition: x1 is a goat/angora/[billy-goat/kid] of species/breed x2.
-Notes: See also {lanme}, {sunla}.
-Examples: None
+word: kanba
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a goat/angora/[billy-goat/kid] of species/breed x2.
+    notes:
+    - See also {lanme}, {sunla}.
+    glosses:
+    - goat
+  de:
+    place structure: x1 ist eine Ziege/[Geiß/Zicke/Bock] von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Ziege
+  es:
+    place structure: x1 es una cabra/chivo de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - cabra
+  ru:
+    place structure: x1 — коза/козел/козленок вида/породы x2
+    notes:
+    - '{lanme} (овца), {sunla} (шерсть)'
+    glosses:
+    - x1=коза
+  en-simple:
+    place structure: x1 is a goat of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a goat
+    - x2=a species of goat
+  eo:
+    place structure: x1 estas kapro de speco/raso x2
+    notes:
+    - Vidu ankaŭ {lanme}, {sunla}.
+    glosses:
+    - kapro
+  hu:
+    place structure: x1 egy kecske [Caprinae alcsalád] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {lanme}, {sunla})'
+    glosses:
+    - kecske
+  ja:
+    place structure: x1 は x2 （種類）のヤギ属動物
+    notes:
+    - ・大意： ヤギ ・読み方： カンバ  ・語呂合わせ： cabra ・関連語： {lanme}, {sunla}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een geit van het ras x2.
+    notes:
+    - 'Zie ook : {lanme}, {sunla}'
+    glosses:
+    - geit
+  zh:
+    place structure: x1是山羊，属于种类/种族x2
+    notes:
+    - 参见 {lanme}, {sunla}.
+    glosses:
+    - No glosses.

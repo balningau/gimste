@@ -1,6 +1,69 @@
-Word: pulce
-Rafsi: puc, pu'e
-Definition: x1 is dust/precipitate [suspensible solid] from x2 in medium/on surface
-  x3.
-Notes: See also te {zalvi}, {danmo}, {purmo}, {sligu}.
-Examples: None
+word: pulce
+rafsi:
+- puc
+- pu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dust/precipitate [suspensible solid] from x2 in medium/on
+      surface x3.
+    notes:
+    - See also te {zalvi}, {danmo}, {purmo}, {sligu}.
+    glosses:
+    - dust
+    - precipitate (suspensible solid)
+  de:
+    place structure: x1 ist Staub/Ablagerung/Niederschlag [Feststoff] von x2 in Medium/auf
+      Oberfläche x3
+    notes:
+    - No notes.
+    glosses:
+    - Staub
+  es:
+    place structure: x1 es una cantidad de polvo de origen x2 flotando en superficie/medio
+      x3
+    notes:
+    - Ver también te {zalvi},  {danmo},  {purmo}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — пыль/осадок (взвесь из твердых частиц) из (источника) x2
+      в среде/на поверхности x3
+    notes:
+    - '{te} {zalvi} (размалывать), {danmo} (дым), {purmo} (порошок), {sligu} (твердый
+      [состояние вещества])'
+    glosses:
+    - x1=пыль
+  en-simple:
+    place structure: x1 is dust from x2 in or on x3
+    notes:
+    - No notes.
+    glosses:
+    - dust
+    - x2=a source of dust
+    - x3=something dusty
+  eo:
+    place structure: x1 estas polvo/precipitaĵo el x2 en medio/sur surfaco x3
+    notes:
+    - Vidu ankaŭ te {zalvi}, {danmo}, {purmo}, {sligu}.
+    glosses:
+    - polvo
+  hu:
+    place structure: x1 bizonyos mennyiségű por/üledék x2-ből, x3 hordozóban/felületen
+    notes:
+    - '(Lásd még: {zalvi}, {danmo}, {purmo}, {sligu})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は x2 （起源）の、 x3 （媒体／表面）における塵／沈殿物
+    notes:
+    - ・大意： 塵 ・読み方： プルゥシェ  ・関連語： {te} {zalvi}, {danmo}, {purmo}, {sligu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是尘土/沉积物，来自x2，沉积在表面/媒介x3上
+    notes:
+    - 参见 te {zalvi}, {danmo}, {purmo}, {sligu}.
+    glosses:
+    - No glosses.

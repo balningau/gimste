@@ -1,6 +1,71 @@
-Word: venfu
-Rafsi: vef
-Definition: x1 takes revenge on/retaliates against x2 (person) for wrong x3 (nu) with
-  vengeance x4 (nu).
-Notes: Also avenge; (adjective:) $x_1$ is vengeful.  See also {sfasa}, {cnemu}.
-Examples: None
+word: venfu
+rafsi:
+- vef
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 takes revenge on/retaliates against x2 (person) for wrong
+      x3 (nu) with vengeance x4 (nu).
+    notes:
+    - Also avenge; (adjective:) x1 is vengeful.  See also {sfasa}, {cnemu}.
+    glosses:
+    - revenge
+  de:
+    place structure: x1 nimmt Rache an/rächt sich an/zahlt es x2 heim (Person) für
+      Unrecht x3 (nu) mit Rache/Vergeltung x4 (nu)
+    notes:
+    - No notes.
+    glosses:
+    - sich rächen
+  es:
+    place structure: x1 se venga/toma revancha/venganza contra x2 por ofensa x3 con
+      venganza x4
+    notes:
+    - Ver también {sfasa},  {cnemu}.
+    glosses:
+    - vengarse
+  ru:
+    place structure: x1 мстит x2 (кому) за (обиду) x3 ({nu}) местью x4 ({nu})
+    notes:
+    - '{sfasa} (наказывать), {cnemu} (воздавать)'
+    glosses:
+    - мстить
+    - x1=мстящий
+    - x2=кому мстят
+    - x3=обида, за которую мстят
+    - x4=месть
+  en-simple:
+    place structure: x1 takes revenge against x2 because x3 by doing x4
+    notes:
+    - No notes.
+    glosses:
+    - a taker of revenge
+    - x2=a victim of revenge
+    - x3=a reason for revenge
+    - x4=an act of vengeance
+  eo:
+    place structure: x1 venĝas/reprezalas kontraŭ x2 (homo) pro malbono x3 (nu) per
+      venĝo x4 (nu)
+    notes:
+    - Vidu ankaŭ {sfasa}, {cnemu}.
+    glosses:
+    - venĝi
+  hu:
+    place structure: x1 megbosszulja/megtorolja x2-n x3 bűnt, x4 bosszúval
+    notes:
+    - '(Lásd még: {sfasa}, {cnemu})'
+    glosses:
+    - megbosszul
+  ja:
+    place structure: x1 は x2 （者）にたいし、 x3 （事）に関して x4 （行動）で復讐／報復／あだ討ち／リベンジする
+    notes:
+    - ・大意： 報復 ・読み方： ヴェンフゥ ・語呂合わせ： hofuku ・関連語： {sfasa}, {cnemu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1报复x2（人），因为事件x3（nu），采取手段x4（nu）
+    notes:
+    - 也指：报仇；x1是报复的/有复仇心的；参见 {sfasa}, {cnemu}.
+    glosses:
+    - No glosses.

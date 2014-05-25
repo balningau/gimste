@@ -1,6 +1,71 @@
-Word: salpo
-Rafsi: sa'o
-Definition: x1 is sloped/inclined/slanted/aslant with angle x2 to horizon/frame x3.
-Notes: Also steep (= {tcesa'o}); normally implies non-rectilinear.  See also {kurfa},
-  {tutci}.
-Examples: None
+word: salpo
+rafsi:
+- sa'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is sloped/inclined/slanted/aslant with angle x2 to horizon/frame
+      x3.
+    notes:
+    - Also steep (= {tcesa'o}); normally implies non-rectilinear.  See also {kurfa},
+      {tutci}.
+    glosses:
+    - slope
+  de:
+    place structure: x1 steigt an/ist ein Anstieg/geneigt/schräg mit Winkel x2 für
+      Blickfeld/Rahmen x3
+    notes:
+    - No notes.
+    glosses:
+    - Steigung
+  es:
+    place structure: x1 es una rampa/inclinación/sesgo de ángulo x2 con respecto a
+      horizonte/marco x3
+    notes:
+    - No notes.
+    glosses:
+    - rampa
+  ru:
+    place structure: x1 наклонен под углом x2 к горизонтали/системе отсчета x3
+    notes:
+    - 'Также: наклонный, косой, скошенный, покатый; скат, склон, откос, диагональ;
+      косо/наискось; Также: крутой: {tcesa''o} {kurfa} (прямоугольник), {tutci} (инструмент)'
+    glosses:
+    - наклон
+    - x1=наклонённый
+    - x2=угол наклона
+  en-simple:
+    place structure: x1 is sloped or slanted with angle x2 to frame x3
+    notes:
+    - No notes.
+    glosses:
+    - something sloped
+    - x2=an angle of slope
+    - x3=a frame of reference of a slope
+  eo:
+    place structure: x1 estas deklivo/kruta/klinita kun angulo x2 rilate al horizontalo/kadro
+      x3
+    notes:
+    - 'Ankaŭ: kruta (= {tcesa''o}); kutime implicas nerekta.  Vidu ankaŭ {kurfa},
+      {tutci}.'
+    glosses:
+    - deklivo
+  hu:
+    place structure: x1 ferde/megdőlt x2 szöggel, x3-hoz viszonyítva
+    notes:
+    - '(Lásd még: {kurfa}, {tutci})'
+    glosses:
+    - lejtő
+  ja:
+    place structure: x1 は x2 （角度）で x3 （基準線）にたいして傾斜している／勾配がある
+    notes:
+    - 「坂」も。 ・大意： 傾斜 ・読み方： サルゥポ ・関連語： {kurfa}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1倾斜/歪斜了角度x2，基于水平面/参照标准x3
+    notes:
+    - 也指：陡峭= {tcesa'o}；参见 {kurfa}, {tutci}.
+    glosses:
+    - No glosses.

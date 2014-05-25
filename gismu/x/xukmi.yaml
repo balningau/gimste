@@ -1,6 +1,70 @@
-Word: xukmi
-Rafsi: xum, xu'i
-Definition: x1 is an instance of substance/chemical/drug x2 (individual or mass) with
-  purity x3.
-Notes: See also {curve}, {cidro}, {marna}, {nimre}.
-Examples: None
+word: xukmi
+rafsi:
+- xum
+- xu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an instance of substance/chemical/drug x2 (individual or
+      mass) with purity x3.
+    notes:
+    - See also {curve}, {cidro}, {marna}, {nimre}.
+    glosses:
+    - chemical
+  de:
+    place structure: x1 ist eine Substanz/Chemikalie/ein Medikament x2 (einzeln oder
+      als Masse) mit Reinheit x3
+    notes:
+    - No notes.
+    glosses:
+    - Chemikalie
+  es:
+    place structure: x1 es una cantidad de sustancia química x2 con pureza x3
+    notes:
+    - No notes.
+    glosses:
+    - sustancia
+  ru:
+    place structure: x1 — доза химического вещества/реактива/реагента x2 (индивид/масса)
+      чистоты x3
+    notes:
+    - '{curve} (чистый [100%]), {cidro} (водород), {marna} (конопля), {nimre} (цитрус)'
+    glosses:
+    - x1=доза химического вещества
+    - x2=химическое вещество
+    - x3=чистота химического вещества
+  en-simple:
+    place structure: x1 is the chemical x2 with purity x3
+    notes:
+    - No notes.
+    glosses:
+    - a chemical
+    - x2=a type of chemical
+    - x3=a purity of chemical
+  eo:
+    place structure: x1 estas instanco de substanco/kemiaĵo/drogo x2 (individuo aŭ
+      kolektivaĵo) kun pureco x3
+    notes:
+    - Vidu ankaŭ {curve}, {cidro}, {marna}, {nimre}.
+    glosses:
+    - kemiaĵo
+  hu:
+    place structure: x1 bizonyos mennyiség az x2 vegyszerből/szubsztanciából/drogból,
+      x3 koncentrációban/tisztasággal
+    notes:
+    - '(Lásd még: {curve}, {cidro}, {marna}, {nimre}))'
+    glosses:
+    - vegyszer
+  ja:
+    place structure: x1 は x2 （成分）・ x3 （純度）の化学製品／化学物質
+    notes:
+    - 「薬」も。 ・大意： 化学製品 ・読み方： クゥクミ  ・関連語： {curve}, {cidro}, {marna}, {nimre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是化学物质x2（个体/团体），具有纯度x3
+    notes:
+    - 参见 {curve}, {cidro}, {marna}, {nimre}.
+    glosses:
+    - No glosses.

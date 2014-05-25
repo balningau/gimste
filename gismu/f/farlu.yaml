@@ -1,7 +1,87 @@
-Word: farlu
-Rafsi: fal, fa'u
-Definition: x1 falls/drops to x2 from x3 in gravity well/frame of reference x4.
-Notes: 'Note: things can fall in spin, thrust, or tide as well as gravity; (agentive
-  "drop" = one of two lujvo: {falcru} and {falri''a}). See also {lafti}, {cpare},
-  {klama}, {sfubu}.'
-Examples: None
+word: farlu
+rafsi:
+- fal
+- fa'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 falls/drops to x2 from x3 in gravity well/frame of reference
+      x4.
+    notes:
+    - 'Note: things can fall in spin, thrust, or tide as well as gravity; (agentive
+      "drop" = one of two lujvo: {falcru} and {falri''a}). See also {lafti}, {cpare},
+      {klama}, {sfubu}.'
+    glosses:
+    - fall
+  de:
+    place structure: x1 fällt/stürzt auf x2 von x3 in Schwerkraftfeld/Bezugssystem
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - fallen
+  es:
+    place structure: x1 cae a x2 de x3 en campo de gravedad x4
+    notes:
+    - No notes.
+    glosses:
+    - caer
+  ru:
+    place structure: x1 падает в/на x2 (куда) из/с x3 (откуда) в гравитационном поле/системе
+      отсчета x4
+    notes:
+    - 'Предмет может падать не только в гравитационном поле, но и под действием сил
+      инерции (центробежная, кориолисова) и приливных сил; «уронить»: {falcru} — напр.,
+      отпустив); «сбросить»: {falri''a} — напр., подтолкнув) {lafti} (тянуть [вверх]),
+      {cpare} (лезть), {klama} (перемещаться), {sfubu} (нырять)'
+    glosses:
+    - падать
+    - x1=падающий
+  en-simple:
+    place structure: x1 falls to x2 from x3 in gravity well x4
+    notes:
+    - No notes.
+    glosses:
+    - a faller
+    - x2=a destination of fall
+    - x3=an origin of fall
+    - x4=a frame of reference for fall
+  eo:
+    place structure: x1 falas al x2 el/de x3 en gravita puto/referenckadro x4
+    notes:
+    - 'Rimarku: io povas fali en turnado, puŝado, aŭ tajdo krom en gravito; (faligi
+      = falcru, falri''a). Vidu ankaŭ {lafti}, {cpare}, {klama}, {sfubu}.'
+    glosses:
+    - fali
+  hu:
+    place structure: x1 le-/elesik x2 helyre, x3 helyről, x4 gravitáció hatására/vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {lafti}, {cpare}, {klama}, {sfubu})'
+    glosses:
+    - esik
+  ja:
+    place structure: x1がx2へ向かって起点x3からx4の重力井戸の中を落ちる
+    notes:
+    - '動作主がいる場合は lujvo で: falcru か falri''a。'
+    - '参照: {lafti}, {cpare}'
+    - ', {klama}, {sfubu}.'
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 faller/tappas/dras iväg mot x2 från x3 i gravitationsfält/referensram
+      x4.
+    notes:
+    - Saker kan hamna i spinn/sladd, knuffade/ivägstötta eller dras iväg av ström,
+      likaväl som falla i gravitation
+    glosses:
+    - dras iväg (okontrollerad rörelse (fall/sladd/ström))
+    - falla
+    - tappas
+  zh:
+    place structure: x1落向x2，由x3开始，基于重力阱/参考系x4
+    notes:
+    - 物体可以旋转下落，在推力作用下下落或在潮汐力影响下下落；（施事的）使/让……落下= {falcru}/{falri'a}；参见 {lafti}, {cpare},
+      {klama}, {sfubu}.
+    glosses:
+    - No glosses.

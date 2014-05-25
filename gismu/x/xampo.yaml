@@ -1,8 +1,83 @@
-Word: xampo
-Rafsi: xap, xa'o
-Definition: x1 is x2 ampere(s) [metric unit] in current (default is 1) by standard
-  x3.
-Notes: See also {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
-  {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
-  {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: xampo
+rafsi:
+- xap
+- xa'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 ampere(s) [metric unit] in current (default is 1) by
+      standard x3.
+    notes:
+    - See also {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - ampere
+  de:
+    place structure: 'x1 sind x2 Ampere [metrische Einheit] an Stromstärke (Default:
+      1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Ampere
+  es:
+    place structure: x1 es una corriente de x2 amperios (1 por defecto) según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - ampere
+  ru:
+    place structure: x1 (сила тока) составляет x2 амперов (метрическая единица, по
+      умолчанию — 1) по стандарту x3
+    notes:
+    - '{dikca} (электричество), {flecu} (поток), {centi} (санти), {decti} (десятый
+      [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo} (гига), {gocti} (йокто),
+      {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri} (микро), {milti} (милли),
+      {nanvi} (нано), {petso} (пета), {picti} (пико), {terto} (тера), {xatsi} (атто),
+      {xecto} (гекто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - x1=ампер
+  en-simple:
+    place structure: x1 is x2 amperes
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in amperes
+    - x2=a number of amperes
+    - x2=the number of amperes
+    - x3=a standard of amperes
+  eo:
+    place structure: x1 estas x2 amperoj [metra unuo] en kurento (defaŭlte 1) laŭ
+      normo x3
+    notes:
+    - Vidu ankaŭ {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - ampero
+  hu:
+    place structure: x1 áramerőssége x2 [alapesetben 1] amper, x3 mérce szerint
+    notes:
+    - '(Lásd még: {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - amper
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のアンペア
+    notes:
+    - ・大意： アンペア ・読み方： クァムポ  ・関連語： {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在电流单位上，x1是x2安培的（公制单位），基于标准x3
+    notes:
+    - 参见 {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

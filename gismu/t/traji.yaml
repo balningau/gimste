@@ -1,10 +1,99 @@
-Word: traji
-Rafsi: rai
-Definition: x1 is superlative in property x2 (ka), the x3 extreme (ka; default ka
-  zmadu) among set/range x4.
-Notes: 'Also: $x_1$ is $x_3$-est/utmost in $x_2$ among $x_4$; $x_1$ is the $x_3$ end
-  of $x_4$; $x_1$ is extreme; $x_1$ is simply $x_3$.  (cf. cmavo list {rai}, {jimte},
-  {milxe}, {mutce}, note contrast with milxe and mutce rather than with mleca and
-  zmadu, which are values for $x_3$, {banli}, {curve}, {fanmo}, {krasi}, {manfo},
-  {prane})'
-Examples: None
+word: traji
+rafsi:
+- rai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is superlative in property x2 (ka), the x3 extreme (ka; default
+      ka zmadu) among set/range x4.
+    notes:
+    - 'Also: x1 is x3-est/utmost in x2 among x4; x1 is the x3 end of x4; x1 is extreme;
+      x1 is simply x3.  (cf. cmavo list {rai}, {jimte}, {milxe}, {mutce}, note contrast
+      with milxe and mutce rather than with mleca and zmadu, which are values for
+      x3, {banli}, {curve}, {fanmo}, {krasi}, {manfo}, {prane})'
+    glosses:
+    - best (superlative)
+    - least (superlative)
+    - superlative
+  jbo:
+    place structure: x1 na mleca fi x2 fe su'o pa cmima be x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist äußerst/höchst- in Eigenschaft x2 (ka), das x3-Extrem
+      (ka; default ka zmadu) von Menge/Bereich x4
+    notes:
+    - No notes.
+    glosses:
+    - äußerst
+  es:
+    place structure: x1 es superlativo/extremo en propiedad x2, el extremo x3 entre
+      x4
+    notes:
+    - Ver también {mutce},  {milxe}.
+    glosses:
+    - extremo
+  ru:
+    place structure: x1 - самый; x1 крайне x2 (какой); x1 проявляет крайнюю/экстремальную
+      степень выраженности/интенсивности свойства x2 (ka) среди x3 (множества)
+    notes:
+    - x4 - то же самое, что и x3. Контрастирует скорее с {milxe} и {mutce}, чем с
+      {mleca} и {zmadu}. См. предлог {rai}, {jimte} - 'граница', {milxe} - 'умеренный',
+      {mutce} - 'очень', {banli} - 'великий', {curve} - 'чистый', {fanmo} - 'конец',
+      {krasi} - 'источник (начало)', {manfo} - 'однородный', {prane} - 'совершенный'
+    glosses:
+    - x1=крайний (экстремальный)
+    - x1=самый
+  en-simple:
+    place structure: x1 is superlative in property x2 among x3
+    notes:
+    - x4 place is the same as x3 place. See also {mutce}
+    glosses:
+    - x1=something superlative
+    - x2=a superlative property
+    - x3=a superlative extreme
+    - x4=a set with a superlative member
+  eo:
+    place structure: x1 estas superlativa en eco x2 (ka), la x3-a ekstremo (defaŭlte
+      ka zmadu) inter aro/amplekso x4
+    notes:
+    - 'Ankaŭ: x1 estas plej x3-a en x2 inter x4; x1 estas la x3-a ekstremo de x4;
+      x1 estas ekstrema; x1 estas simple x3.  (kp. cmavo rai, jimte, milxe, mutce,
+      rimarku kontrasto kun milxe kaj mutce anstataŭ kun mleca kaj zmadu, kiu estas
+      valoroj por x3, banli, curve, fanmo, krasi, manfo, prane)'
+    glosses:
+    - plej
+  hu:
+    place structure: x1 a leginkább/legkevésbé rendelkezik x2 tulajdonsággal, x3 irányban
+      [alapesetben ka {zmadu}], x4 halmazból/tartományból
+    notes:
+    - '(Lásd még: {jimte}, {milxe}, {mutce}, {banli}, {curve}, {fanmo}, {krasi}, {manfo},
+      {prane})'
+    glosses:
+    - leginkább
+  ja:
+    place structure: x1 は x2 （性質）・ x3 （極性）・ x4 （集合／範囲）に関して極致（最上／最下）
+    notes:
+    - x3は「上／下」など、尺度の側／向き。「traji cumki (cumrai)／できるだけ」 ・大意： 極致 ・読み方： トラジ  ・関連語： {rai},
+      {jimte}, {milxe}, {mutce}, {mleca}, {zmadu}, {banli}, {curve}, {fanmo}, {krasi},
+      {manfo}, {prane}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest najbardziej ekstremalne w cechach/wymiarach x2 (ka; domyślnie
+      ka zmadu) w skrajności x3 (ka) w zbiorze x4.
+    notes:
+    - Cf. {rai}, {jimte}, {milxe}, {mutce}, {zmadu}, {mleca}.
+    glosses:
+    - najbardziej
+    - najmniej
+  zh:
+    place structure: x1是最高级的，在性质x2（ka）上，是最x3的（ka，默认为ka zmadu），在集合/范围x4中
+    notes:
+    - 也指：x1是最x3的，在性质x2上，比较范围x4中；x1是x4中最x3的；参见 {rai}, {jimte}, {milxe}, {mutce}, {banli},
+      {curve}, {fanmo}, {krasi}, {manfo}, {prane}
+    glosses:
+    - No glosses.

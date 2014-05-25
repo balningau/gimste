@@ -1,6 +1,78 @@
-Word: frili
-Rafsi: fil
-Definition: x1 (action) is easy/simple/facile for x2 (agent) under conditions x3;
-  x2 does x1 freely/easily.
-Notes: See also {nandu}, {sampu}, {zifre}.
-Examples: None
+word: frili
+rafsi:
+- fil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (action) is easy/simple/facile for x2 (agent) under conditions
+      x3; x2 does x1 freely/easily.
+    notes:
+    - See also {nandu}, {sampu}, {zifre}.
+    glosses:
+    - facile
+  de:
+    place structure: x1 (Aktion) ist leicht/einfach/mühelos für x2 (Handelnden) unter
+      Bedingungen x3; x1 bereitet x2 keine Mühe
+    notes:
+    - No notes.
+    glosses:
+    - mühelos
+  es:
+    place structure: x1 (evento) es fácil/sencillo/simple para x2 (agente) bajo condiciones
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 (действие) легко/несложно/нетрудно для x2 (деятель) в условиях
+      x3; x2 делает x1 с легкостью
+    notes:
+    - '{nandu} (трудный [сложный]), {sampu} (простой [несложный]), {zifre} (свободный)'
+    glosses:
+    - лёгкий (несложный)
+  en-simple:
+    place structure: x1 is easy for x2
+    notes:
+    - No notes.
+    glosses:
+    - easy
+    - x1=something easy
+    - x2=something to which something is easy
+    - x3=a condition for ease
+  eo:
+    place structure: x1 (ago) estas facila/simpla por x2 (aganto) sub kondiĉoj x3;
+      x2 faras x1-on facile
+    notes:
+    - Vidu ankaŭ {nandu}, {sampu}, {zifre}.
+    glosses:
+    - facila
+  hu:
+    place structure: x1 cselekedet könnyű/egyszerű x2 cselekvő számára, x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {nandu}, {sampu}, {zifre})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 （事）は x2 （者）にとって x3 （条件）において簡単／容易；  x2 は x1 をた易くこなす
+    notes:
+    - ・大意： 容易 ・読み方： フゥリルィ  ・関連語： {nandu}, {sampu}, {zifre}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (handling) är  enkelt/lätt/okomplicerad/går utan ansträngning
+      för x2 (agent) under omständigheter/villkor x3; x2 utför/gör x1 enkelt/(utan
+      problem).
+    notes:
+    - No notes.
+    glosses:
+    - enkelt (går lätt att göra/utföra)
+    - lätt (går enkelt att göra/utföra)
+  zh:
+    place structure: 行动x1是简单的/轻松地/容易的，对x2来说，在条件x3下；x2轻松地做x1
+    notes:
+    - 参见 {nandu}, {sampu}, {zifre}.
+    glosses:
+    - No glosses.

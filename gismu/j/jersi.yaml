@@ -1,6 +1,77 @@
-Word: jersi
-Rafsi: je'i
-Definition: x1 chases/pursues/(physically) follows after x2; volition is not implied
-  for x1 or x2.
-Notes: $x_1$ follows after $x_2$.  See also {kavbu}, {rivbi}, {kalte}, {lidne}.
-Examples: None
+word: jersi
+rafsi:
+- je'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 chases/pursues/(physically) follows after x2; volition is
+      not implied for x1 or x2.
+    notes:
+    - x1 follows after x2.  See also {kavbu}, {rivbi}, {kalte}, {lidne}.
+    glosses:
+    - chase
+    - follow (go/come after in physical space)
+  de:
+    place structure: x1 verfolgt/jagt x2/folgt x2 nach; Freiwilligkeit ist nicht impliziert
+      für x1 oder x2
+    notes:
+    - No notes.
+    glosses:
+    - verfolgen
+  es:
+    place structure: x1 sigue/persigue a x2
+    notes:
+    - Ver también {kalte},  {lidne}.
+    glosses:
+    - seguir
+  ru:
+    place structure: x1 преследует/гонится за/следует за (физически) x2; сознательные
+      действия не предполагаются ни со стороны x1, ни со стороны x2
+    notes:
+    - '{kavbu} (ловить), {rivbi} (избегать [участи]), {kalte} (охотиться), {lidne}
+      (предшествовать)'
+    glosses:
+    - гнаться за
+    - x1=гонящийся за
+  en-simple:
+    place structure: x1 chases x2
+    notes:
+    - No notes.
+    glosses:
+    - a chaseer
+    - x2=something chased
+  eo:
+    place structure: x1 postkuras/persekutas/(fizike) sekvas x2-on; volo ne implicita
+      por x1 aŭ x2
+    notes:
+    - Vidu ankaŭ {kavbu}, {rivbi}, {kalte}, {lidne}.
+    glosses:
+    - postkuri
+  hu:
+    place structure: x1 (mozgásban) követi x2-t
+    notes:
+    - '(Lásd még: {kavbu}, {rivbi}, {kalte}, {lidne})'
+    glosses:
+    - követ
+  ja:
+    place structure: x1 は x2 を追う／追跡する
+    notes:
+    - 意志や意識は必ずしも含意されない。 ・大意： 追う ・読み方： ジェルスィ  ・関連語： {kavbu}, {rivbi}, {kalte}, {lidne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 jagar/förföljer/sätter efter/(fysiskt) följer efter x2; förutsätter
+      inte medveten vilja hos x1 eller x2.
+    notes:
+    - No notes.
+    glosses:
+    - följa efter (fysiskt)
+    - förfölja
+    - jaga (följa efter)
+  zh:
+    place structure: x1追赶（物理上）x2
+    notes:
+    - x1在后面跟随x2；参见 {kavbu}, {rivbi}, {kalte}, {lidne}.
+    glosses:
+    - No glosses.

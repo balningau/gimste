@@ -1,12 +1,93 @@
-Word: slabu
-Rafsi: sau
-Definition: x1 is old/familiar/well-known to observer x2 in feature x3 (ka) by standard
-  x4.
-Notes: This can cover both meanings of old.  Old in years, i.e. age, can be conveyed
-  through $x_2$ = the world, life, existence (= loi nu {zasti}); in usage this has
-  been a common default for ellipsis.  However slabu is not the opposite of 'young'
-  (= {nalci'o}, {tolci'o}), but the opposite of 'new' (= {tolni'o}); also ancient
-  (= {tcesau}), age (= {nilsau}); $x_2$ is used to $x_1$ (= selsau for reordered places);
-  historic/historical (= {cirsau}, {cirselcedra}; also {vaipru}).  (cf. {clani}, {citno},
-  {cnino}, se {djuno}; not the opposite of {citno}, {djuno})
-Examples: None
+word: slabu
+rafsi:
+- sau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is old/familiar/well-known to observer x2 in feature x3 (ka)
+      by standard x4.
+    notes:
+    - This can cover both meanings of old.  Old in years, i.e. age, can be conveyed
+      through x2 = the world, life, existence (= loi nu {zasti}); in usage this has
+      been a common default for ellipsis.  However slabu is not the opposite of 'young'
+      (= {nalci'o}, {tolci'o}), but the opposite of 'new' (= {tolni'o}); also ancient
+      (= {tcesau}), age (= {nilsau}); x2 is used to x1 (= selsau for reordered places);
+      historic/historical (= {cirsau}, {cirselcedra}; also {vaipru}).  (cf. {clani},
+      {citno}, {cnino}, se {djuno}; not the opposite of {citno}, {djuno})
+    glosses:
+    - familiar
+  de:
+    place structure: x1 ist bekannt/gewohnt/geläufig/vertraut für Betrachter x2 in
+      Merkmal x3 (ka) gemäß Standard x4
+    notes:
+    - No notes.
+    glosses:
+    - bekannt
+  es:
+    place structure: x1 es viejo/conocido/familiar para x2 en propiedad/aspecto x3
+      según estándar x4
+    notes:
+    - Ver también {cnino}.
+    glosses:
+    - viejo
+  ru:
+    place structure: x1 — старый/знакомый/известный/не новый для наблюдателя x2 по
+      свойству x3 ({ka}) по стандарту x4
+    notes:
+    - 'Включает оба значения слова «старый»; «старый» в смысле возраста передается
+      с помощью x2: мир, жизнь, существование: {loi} {nu} {zasti}) — эти значения
+      могут подразумеваться по умолчанию; однако, [slabu] является антонимом не к
+      «молодой»: {nalci''o}, {tolci''o}, а к «новый»: {tolni''o}; Также: древний:
+      {tcesau}, возраст: {nilsau}; x2 (кому) знаком(о) x1: {selsau} с переставленными
+      местами); исторический: {cirsau}, {cirselcedra}; Также: {vaipru} {clani} (длинный),
+      {citno} (молодой) — не антоним, {cnino} (новый), {se} {djuno} (знать)'
+    glosses:
+    - знакомый
+    - x2=кому знакомо
+  en-simple:
+    place structure: x1 is familiar to x2 in feature x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something familiar
+    - x2=an observer of familiarity
+    - x2=the observer of familiarity
+    - x3=a feature of familiarity
+    - x3=the feature of familiarity
+    - x4=a standard of familiarity
+  eo:
+    place structure: x1 estas konita/malnova por observanto x2 en trajto x3 (ka) laŭ
+      normo x4
+    notes:
+    - 'Ankaŭ: maljuna, kun x2 = la mondo, vivo, ekzisto (= loi nu {zasti}); en uzo
+      ĉi tio iam estis kutima defaŭlto por elipso. Tamen slabu ne estas la malo de
+      ''juna'' (= {nalci''o}, {tolci''o}), malnova (= {tolni''o}); ankaŭ antikva (=
+      {tcesau}), aĝo (= {nilsau}); x2 alkutimiĝis al x1 (= selsau por reordigitaj
+      {lokoj}); historia (= cirsau, cirselcedra; ankaŭ vaipru).  (kp. clani, citno,
+      cnino, se djuno; ne la malo de citno, djuno)'
+    glosses:
+    - konita
+  hu:
+    place structure: x1 ismerős/megszokott/régi x2 számára x3 tulajdonságában, x4
+      mérce szerint
+    notes:
+    - '(Lásd még: {clani}, {citno}, {cnino}, {djuno})'
+    glosses:
+    - ismerős
+  ja:
+    place structure: x1 は x2 （者）にとって x3 （性質）に関して懐かしい／久しい
+    notes:
+    - 「若い」の対義でなく「新しい」の対義。 ・大意： 懐かしい ・読み方： スルァブ  ・語呂合わせ： 懐かしのスラブ ・関連語： {clani}, {citno},
+      {cnino}, {se} {djuno}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是被x2所熟悉的/了解的/认识的，在性质x3（ka）方面，基于标准x4
+    notes:
+    - 也指：老的；但它并非包含了所有“老的”含义，而是表示使用/存在了一定时间的（x2为世界/生命/存在等= loi nu {zasti}，在使用中常被省略）；
+      slabu不是“年轻的”的反义词，年老的= {nalci'o}/{tolci'o}；而是指“新的”的反义词= {tolni'o}；古老的= {tcesau}；存在的时间/年纪=
+      {nilsau}；x2习惯于x1（= {selsau}；历史的/具有历史意义的= {cirsau}/{cirselcedra}/{vaipru}；参见
+      {clani}, {citno}, {cnino}, se {djuno}, {citno}, {djuno})
+    glosses:
+    - No glosses.

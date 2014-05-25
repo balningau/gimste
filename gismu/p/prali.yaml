@@ -1,10 +1,96 @@
-Word: prali
-Rafsi: pal
-Definition: x1 is a profit/gain/benefit/advantage to x2 accruing/resulting from activity/process
-  x3.
-Notes: Also (fe) $x_2$ profits from $x_3$ (= {selterprali} for reordered places);
-  $x_1$ may be a specific object, a commodity (mass), an event, or a property; pedantically,
-  for objects/commodities, this is sumti-raising from ownership of the object/commodity
-  (= {selposprali} for unambiguous semantics).  See also {vecnu}, {cnemu}, {pleji},
-  {jinga}, {canja}, {sfasa}, {jerna}, {jdima}, {dunda}, {zivle}.
-Examples: None
+word: prali
+rafsi:
+- pal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a profit/gain/benefit/advantage to x2 accruing/resulting
+      from activity/process x3.
+    notes:
+    - Also (fe) x2 profits from x3 (= {selterprali} for reordered places); x1 may
+      be a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {selposprali} for unambiguous semantics).  See also {vecnu}, {cnemu}, {pleji},
+      {jinga}, {canja}, {sfasa}, {jerna}, {jdima}, {dunda}, {zivle}.
+    glosses:
+    - gain (profit)
+    - profit
+  jbo:
+    place structure: x1 xamgu x2 gi'e jalge x3
+    notes:
+    - '{xamgu}; {jalge}'
+    glosses:
+    - prali
+  de:
+    place structure: x1 ist ein Ertrag/Gewinn/Profit/Vorteil für x2 angesammelt/sich
+      ergebend aus Tätigkeit/Prozess x3
+    notes:
+    - No notes.
+    glosses:
+    - Profit
+  es:
+    place structure: x1 es una ganancia/beneficio/ventaja para x2 como resultado de
+      actividad/proceso x3
+    notes:
+    - Ver también {cnemu}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — выгода/прибыль/доход/{польза} для x2, приносимая деятельностью/процессом
+      x3
+    notes:
+    - 'Также: x3 выгодно/прибыльно для x2; x2 извлекает выгоду/прибыль из x3 (={selterprali}
+      с переставленными местами); x1 м.б. конкретным объектом, товаром (масса), событием
+      или свойством; строго говоря, для объектов/товаров мы имеем дело с подъемом
+      sumti от владения объектом/товаром: {selposprali} для однозначной семантики)
+      {vecnu} (продавать), {cnemu} (воздавать), {pleji} (платить), {jinga} (выигрывать
+      [побеждать]), {canja} (обменивать), {sfasa} (наказывать), {jerna} (зарабатывать),
+      {jdima} (цена), {dunda} (давать), {zivle} (инвестировать)'
+    glosses:
+    - прибыль
+    - x2=кто получает выгоду
+    - x3=процесс, приводящий к выгоде
+  en-simple:
+    place structure: x1 is a profit or benefit to x2 resulting from x3
+    notes:
+    - No notes.
+    glosses:
+    - a profit
+    - x2=something to which something is a profit
+    - x3=a profitable activity
+  eo:
+    place structure: x1 estas profito/gajno/avantaĝo/utilon al x2 rezultanta de ago/procedo
+      x3
+    notes:
+    - 'Ankaŭ: (fe) x2 profitas el x3 (= selterprali por reordigitaj {lokoj}); x1 povas
+      esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj,
+      ĉi tio estas sumti-levado el posedo de la objekto/varo (= selposprali por neambigua
+      {semantiko}).  Vidu ankaŭ {vecnu}, {cnemu}, {pleji}, {jinga}, {canja}, {sfasa},
+      {jerna}, {jdima}, {dunda}, {zivle}.'
+    glosses:
+    - profito
+  hu:
+    place structure: x1 bizonyos mennyiségű nyereség/profit/haszon/előny x2 számára,
+      x3 eseményből
+    notes:
+    - '(Lásd még: {vecnu}, {cnemu}, {pleji}, {jinga}, {canja}, {sfasa}, {jerna}, {jdima},
+      {dunda}, {zivle})'
+    glosses:
+    - nyereség
+  ja:
+    place structure: x1 は x2 にとっての、 x3 （行動／過程）によって得られた利益；  x2 は x3 によって利する；  x1 は
+      x2 にとっての利点／アドバンテージ
+    notes:
+    - ・大意： 利益 ・読み方： プラルィ  ・語呂合わせ： li (利) ・関連語： {vecnu}, {cnemu}, {pleji}, {jinga},
+      {canja}, {sfasa}, {jerna}, {jdima}, {dunda}, {zivle}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是属于/给予x2的利益/利润/好处/收获，以此作为行为/进程x3的结果
+    notes:
+    - 也指：x2受益于x3；x1 可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {selposprali} ；参见
+      {vecnu}, {cnemu}, {pleji}, {jinga}, {canja}, {sfasa}, {jerna}, {jdima}, {dunda},
+      {zivle}.
+    glosses:
+    - No glosses.

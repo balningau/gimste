@@ -1,6 +1,69 @@
-Word: mekso
-Rafsi: mek, me'o
-Definition: x1 [quantifier/expression] is a mathematical expression interpreted under
-  rules/convention x2.
-Notes: See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
-Examples: None
+word: mekso
+rafsi:
+- mek
+- me'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [quantifier/expression] is a mathematical expression interpreted
+      under rules/convention x2.
+    notes:
+    - See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
+    glosses:
+    - MEX
+  de:
+    place structure: x1 [Ausdruck] ist ein mathematischer Ausdruck ausgewertet/interpretiert
+      nach Regeln/Übereinkunft x2
+    notes:
+    - No notes.
+    glosses:
+    - mathematischer Ausdruck
+  es:
+    place structure: x1 es una expresión matemática/fórmula según reglas x2
+    notes:
+    - No notes.
+    glosses:
+    - fórmula
+  ru:
+    place structure: x1 — математическое выражение/формула, интерпретируемое согласно
+      правилам/соглашениям x2
+    notes:
+    - '{cmaci} (математика), {dilcu} (частное [от деления]), {fancu} (функция [математическая]),
+      {frinu} (дробь), {jalge} (результат), {namcu} (число), {parbi} (пропорция),
+      {pilji} (произведение [арифметическое])'
+    glosses:
+    - MEX
+  en-simple:
+    place structure: x1 is a mathematical expression under rules x2
+    notes:
+    - No notes.
+    glosses:
+    - a math expression
+    - x2=a math rule
+  eo:
+    place structure: x1 [kvantigilo/esprimo] estas matematika esprimo interpretita
+      laŭ reguloj/konvencio x2
+    notes:
+    - Vidu ankaŭ {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
+    glosses:
+    - MEX matematika esprimo
+  hu:
+    place structure: x1 egy matematikai kifejezés x2 értelmezési szabályokkal
+    notes:
+    - '(Lásd még: {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji})'
+    glosses:
+    - matematikai kifejezés
+  ja:
+    place structure: x1 は x2 （原理）の数式／数学的表現
+    notes:
+    - ・大意： 数式 ・読み方： メクソ  ・関連語： {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu},
+      {parbi}, {pilji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（数字/表达式）是数学表达式，由规则/定义x2方式进行解读
+    notes:
+    - 参见 {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
+    glosses:
+    - No glosses.

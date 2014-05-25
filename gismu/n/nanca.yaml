@@ -1,7 +1,71 @@
-Word: nanca
-Rafsi: na'a
-Definition: x1 is x2 years in duration (default is 1 year) by standard x3; (adjective:)
-  x1 is annual.
-Notes: This year (= {cabna'a}); next year (= {bavlamna'a}); last year (= {prulamna'a}).  See
-  also {detri}, {djedi}, {jeftu}, {masti}.
-Examples: None
+word: nanca
+rafsi:
+- na'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 years in duration (default is 1 year) by standard x3;
+      (adjective:) x1 is annual.
+    notes:
+    - This year (= {cabna'a}); next year (= {bavlamna'a}); last year (= {prulamna'a}).  See
+      also {detri}, {djedi}, {jeftu}, {masti}.
+    glosses:
+    - year
+  de:
+    place structure: 'x1 dauert x2 Jahre (Default: 1) gemäß Standard x3; (Adjektiv:)
+      x1 ist einjährig'
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 dura x2 años (1 por defecto) según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - año
+  ru:
+    place structure: x1 длится x2 лет (по умолчанию 1 год) по стандарту x3
+    notes:
+    - 'Текущий год: {cabna''a}; следующий год: {bavlamna''a}; прошлый год: {prulamna''a}
+      {detri} (дата), {djedi} (сутки), {jeftu} (неделя), {masti} (месяц [промежуток
+      времени])'
+    glosses:
+    - год
+  en-simple:
+    place structure: x1 is x2 years long
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in years
+    - x2=a number of years
+    - x3=a standard of a year
+  eo:
+    place structure: x1 daŭras x2 jarojn (defaŭlte 1 jaro) laŭ normo x3; (adjektivo:)
+      x1 estas jara
+    notes:
+    - ĉijaro (= {cabna'a}); la venonta jaro (= {bavlamna'a}); la pasinta jaro (= {prulamna'a}).  Vidu
+      ankaŭ {detri}, {djedi}, {jeftu}, {masti}.
+    glosses:
+    - jaro
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] év, x3 mérce szerint
+    notes:
+    - '(Lásd még: {detri}, {djedi}, {jeftu}, {masti})'
+    glosses:
+    - év
+  ja:
+    place structure: x1 は x2 （数（初期設定では1年））年間、 x3 （基準）で継続する；  x1 は年次
+    notes:
+    - x3は「地球の軌道」や「暦法」など。 ・大意： 年 ・読み方： ナンシャ  ・語呂合わせ： nian(年), annual, 何年社長 ・関連語： {detri},
+      {djedi}, {jeftu}, {masti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在持续时间长度上，x1是x2个年（默认为1）的，基于标准x3；x1是年度的
+    notes:
+    - 今年= {cabna'a}；明年= {bavlamna'a}；去年= {prulamna'a}；参见 {detri}, {djedi}, {jeftu},
+      {masti}.
+    glosses:
+    - No glosses.

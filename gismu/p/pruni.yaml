@@ -1,5 +1,60 @@
-Word: pruni
-Rafsi: pun
-Definition: (adjective:) x1 is elastic/springy.
-Notes: See also {ckabu}, {tcena}.
-Examples: None
+word: pruni
+rafsi:
+- pun
+examples: No examples.
+definitions:
+  en:
+    place structure: (adjective:) x1 is elastic/springy.
+    notes:
+    - See also {ckabu}, {tcena}.
+    glosses:
+    - elastic
+  de:
+    place structure: (Adjektiv:) x1 ist elastisch/dehnbar/federnd
+    notes:
+    - No notes.
+    glosses:
+    - elastisch
+  es:
+    place structure: x1 es elástico/resorte/muelle
+    notes:
+    - Ver también {tcena}.
+    glosses:
+    - elástico
+  ru:
+    place structure: x1 — упругий/пружинит/эластичный
+    notes:
+    - '{ckabu} (резина), {tcena} (растягиваться)'
+    glosses:
+    - эластичный
+  en-simple:
+    place structure: x1 is elastic
+    notes:
+    - No notes.
+    glosses:
+    - something elastic
+  eo:
+    place structure: (adjektivo:) x1 estas elasta/resaltema/risorta
+    notes:
+    - Vidu ankaŭ {ckabu}, {tcena}.
+    glosses:
+    - elasta
+  hu:
+    place structure: x1 rugalmas/ruganyos
+    notes:
+    - '(Lásd még: {ckabu}, {tcena})'
+    glosses:
+    - rugalmas
+  ja:
+    place structure: x1 は弾性がある／柔らかい／伸縮可能
+    notes:
+    - ・大意： 弾性 ・読み方： プルニ  ・語呂合わせ： 弾性ぷるぷるーに ・関連語： {ckabu}, {tcena}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是有弹力的/可伸缩的
+    notes:
+    - 参见 {ckabu}, {tcena}.
+    glosses:
+    - No glosses.

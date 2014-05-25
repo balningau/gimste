@@ -1,5 +1,61 @@
-Word: tsapi
-Rafsi: ''
-Definition: x1 is a seasoning/condiment/spice causing flavor/effect x2 (event/property).
-Notes: 'Also: $x_1$ flavors $x_2$ (tu''a).  See also {vrusi}.'
-Examples: None
+word: tsapi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a seasoning/condiment/spice causing flavor/effect x2 (event/property).
+    notes:
+    - 'Also: x1 flavors x2 (tu''a).  See also {vrusi}.'
+    glosses:
+    - seasoning
+  de:
+    place structure: x1 ist Würze/ein Gewürz und verursacht Geschmack/Wirkung x2 (Ereignis/Eigenschaft)
+    notes:
+    - No notes.
+    glosses:
+    - Gewürz
+  es:
+    place structure: x1 es un condimento/especia para dar sabor/efecto x2
+    notes:
+    - No notes.
+    glosses:
+    - condimento
+  ru:
+    place structure: x1 — приправа/специя, сообщающая вкус/вызывающая эффект x2 (событие/свойство)
+    notes:
+    - '{vrusi} (вкус)'
+    glosses:
+    - x1=приправа
+  en-simple:
+    place structure: x1 is a spice or seasoning causing flavor x2
+    notes:
+    - No notes.
+    glosses:
+    - a seasoning
+    - x2=a seasoning flavour
+  eo:
+    place structure: x1 estas spico/kondimento kaŭzanta guston/efikon x2 (okazo/eco)
+    notes:
+    - 'Ankaŭ: x1 gustigas x2 (tu''a).  Vidu ankaŭ {vrusi}.'
+    glosses:
+    - spico
+  hu:
+    place structure: x1 egy fűszer/ízesítő x2 hatással (esemény/tulajdonság)
+    notes:
+    - '(Lásd még: {vrusi})'
+    glosses:
+    - fűszerezés
+  ja:
+    place structure: x1 は x2 （性質）の調味料／香辛料／薬味／味付／スパイス
+    notes:
+    - 「カラシ」「ケチャップ」「コショウ」など。 ・大意： 調味料 ・読み方： ツァピ  ・関連語： {vrusi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是辅料/佐料/调料/调味品，能带来风味/影响x2
+    notes:
+    - 也指：x1给x2（tu'a）加味；参见 {vrusi}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,71 @@
-Word: jubme
-Rafsi: jub, jbu
-Definition: x1 is a table/flat solid upper surface of material x2, supported by legs/base/pedestal
-  x3.
-Notes: See also {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}.
-Examples: None
+word: jubme
+rafsi:
+- jub
+- jbu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a table/flat solid upper surface of material x2, supported
+      by legs/base/pedestal x3.
+    notes:
+    - See also {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}.
+    glosses:
+    - table
+  de:
+    place structure: x1 ist ein Tisch/eine feste Oberfläche aus Material x2, gehalten/gestützt
+      von Beinen/Basis/Sockel x3
+    notes:
+    - No notes.
+    glosses:
+    - Tisch
+  es:
+    place structure: x1 es una mesa de material x2 sostenida por patas/base/pedestal
+      x3
+    notes:
+    - Ver también {tsina}.
+    glosses:
+    - mesa
+  ru:
+    place structure: x1 — стол/твердая плоскость из материала x2, поддерживаемый ножками/основанием/пьедесталом
+      x3
+    notes:
+    - '{ckana} (кровать), {jamfu} (ступня), {nilce} (мебель), {zbepi} (подставка),
+      {tsina} (подмостки), {stizu} (стул [сиденье])'
+    glosses:
+    - x1=стол
+    - x3=ножки стола
+  en-simple:
+    place structure: x1 is a table made of x2 with support x3
+    notes:
+    - No notes.
+    glosses:
+    - a table
+    - x2=a material of table
+    - x3=a table support
+  eo:
+    place structure: x1 estas tablo/plata solida supra surfaco el materialo x2, subtenita
+      de piedoj/bazo/piedestalo x3
+    notes:
+    - Vidu ankaŭ {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}.
+    glosses:
+    - tablo
+  hu:
+    place structure: x1 egy asztal/pult/oltár/ egyéb magas, sík felület x2 anyagból,
+      x3 lábakon/alapon/emelvényen
+    notes:
+    - '(Lásd még: {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu})'
+    glosses:
+    - asztal
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （脚／柱／台座）の机／テーブル／台
+    notes:
+    - ・大意： 机 ・読み方： ジュブメ  ・関連語： {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是桌子/平面，又材料x2构成，由基座/脚腿/基架x3支撑
+    notes:
+    - 参见 {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}.
+    glosses:
+    - No glosses.

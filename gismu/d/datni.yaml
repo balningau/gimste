@@ -1,7 +1,82 @@
-Word: datni
-Rafsi: ''
-Definition: x1 (du'u) [fact/measurement] is data/information/statistic(s) about x2
-  gathered by method x3.
-Notes: Evidence (= velji'i datni or just {velji'i}, {sidydatni}). See also {fatci},
-  {saske}, {vreji}.
-Examples: None
+word: datni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (du'u) [fact/measurement] is data/information/statistic(s)
+      about x2 gathered by method x3.
+    notes:
+    - Evidence (= velji'i datni or just {velji'i}, {sidydatni}). See also {fatci},
+      {saske}, {vreji}.
+    glosses:
+    - data
+  de:
+    place structure: x1 (du'u) [Tatsache/Messwert] stellt Daten/Information/Statistik
+      über x2 gesammelt durch Verfahren x3 dar
+    notes:
+    - No notes.
+    glosses:
+    - Daten
+  es:
+    place structure: x1 es un dato/información/estadística acerca de x2 obtenido por
+      método x3
+    notes:
+    - No notes.
+    glosses:
+    - dato
+  ru:
+    place structure: 'x1 ({du''u}: факт/измерения) есть данные/сведения/информация/статистика
+      о x2, собранные методом x3'
+    notes:
+    - 'Доказательства, свидетельства: {velji''i} {datni} или просто {velji''i}, {sidydatni}
+      {fatci} (факт), {saske} (наука), {vreji} (запись)'
+    glosses:
+    - данные
+  en-simple:
+    place structure: x1 is information about x2 gathered by method x3
+    notes:
+    - No notes.
+    glosses:
+    - information
+    - x2=a subject of information
+    - x3=an information gathering method
+  eo:
+    place structure: x1 (du'u) [fakto/mezuro] estas informo/indiko/sciaĵo/dateno pri
+      x2 kolektita per metodo x3
+    notes:
+    - 'Ankaŭ: statistiko/statistikero; pruvo (= velji''i datni aŭ nur velji''i, sidydatni).
+      Vidu ankaŭ {fatci}, {saske}, {vreji}.'
+    glosses:
+    - informo
+  hu:
+    place structure: x1 tény egy adat/információ x2-ről, x3 módszer által megszerezve
+    notes:
+    - '(Lásd még: {fatci}, {saske}, {vreji})'
+    glosses:
+    - adat
+  ja:
+    place structure: x1 は x2 （題目）について x3 （方法）で得たデータ／情報／統計
+    notes:
+    - ・大意： 情報 ・読み方： ダトニ  ・関連語： {fatci}, {saske}, {vreji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (du'u) [fakta/mätning] är data/information/statistik om x2
+      insamlad med metod x3.
+    notes:
+    - No notes.
+    glosses:
+    - data (information (ej dator))
+    - information (data)
+    - statistik (data (ej vetenskapen))
+    - x1=data
+    - x2=databehandlad
+    - x3=datainsamlingsmetod
+  zh:
+    place structure: x1（du'u）是数据/信息，关于x2，以方法x3收集
+    notes:
+    - 证据= velji'i datni或只是 {velji'i}, {sidydatni}；参见 {fatci}, {saske}, {vreji}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: sarlu
-Rafsi: ''
-Definition: x1 is a spiral/helix/whorl/[vortex] [shape/form] with limits x2, of dimensionality
-  x3.
-Notes: See also {klupe}, {korcu}, {tarmi}.
-Examples: None
+word: sarlu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a spiral/helix/whorl/[vortex] [shape/form] with limits
+      x2, of dimensionality x3.
+    notes:
+    - See also {klupe}, {korcu}, {tarmi}.
+    glosses:
+    - spiral
+  de:
+    place structure: x1 ist eine Spirale/Helix/Windung/[Wirbel] [Form] mit Grenzen
+      x2 von Dimensionalität x3
+    notes:
+    - No notes.
+    glosses:
+    - Spirale
+  es:
+    place structure: x1 es un espiral/hélice (forma) con límites x2, de dimensión
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - espiral
+  ru:
+    place structure: x1 — спираль/винтовая линия/винт/завиток/{вихрь} с границей x2,
+      размерности x3
+    notes:
+    - '{klupe} (винт), {korcu} (изогнутый), {tarmi} (идея [концептуальная форма])'
+    glosses:
+    - спираль
+  en-simple:
+    place structure: x1 is a spiral or helix with limits x2 and dimensionality x3
+    notes:
+    - No notes.
+    glosses:
+    - a helix
+    - x2=a helix limit
+    - x3=a helix dimension
+  eo:
+    place structure: x1 estas spiralo/helico/[vortico] [formo] kun limoj x2, de dimensio
+      x3
+    notes:
+    - Vidu ankaŭ {klupe}, {korcu}, {tarmi}.
+    glosses:
+    - spiralo
+  hu:
+    place structure: x1 egy spirál/csavar/örvény x2 határokkal, x3 dimenzióban
+    notes:
+    - '(Lásd még: {klupe}, {korcu}, {tarmi})'
+    glosses:
+    - spirál
+  ja:
+    place structure: x1 は x2 （端／たん）・ x3 （次元）の螺旋／渦巻き
+    notes:
+    - ・大意： 螺旋 ・読み方： サルルゥ  ・関連語： {klupe}, {korcu}, {tarmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是螺旋/螺旋状的事物（如：螺纹，漩涡），范围为x2，维度为x3
+    notes:
+    - 参见 {klupe}, {korcu}, {tarmi}.
+    glosses:
+    - No glosses.

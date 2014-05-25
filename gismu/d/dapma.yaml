@@ -1,6 +1,79 @@
-Word: dapma
-Rafsi: dap
-Definition: x1 curses/damns/condemns x2 to fate (event) x3.
-Notes: Curse with a specific expression (= {dapsku}).  See also {mabla}, {dimna},
-  {cnemu}, {sfasa}, {dunda}, {cusku}, {cirko}, {jdima}, {di'ai}.
-Examples: None
+word: dapma
+rafsi:
+- dap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 curses/damns/condemns x2 to fate (event) x3.
+    notes:
+    - Curse with a specific expression (= {dapsku}).  See also {mabla}, {dimna}, {cnemu},
+      {sfasa}, {dunda}, {cusku}, {cirko}, {jdima}, {di'ai}.
+    glosses:
+    - curse (fate)
+  de:
+    place structure: x1 verflucht/verdammt/verurteilt x2 zu Schicksal (Ereignis) x3
+    notes:
+    - No notes.
+    glosses:
+    - verfluchen
+  es:
+    place structure: x1 maldice/condena x2 a suerte/destino x3
+    notes:
+    - No notes.
+    glosses:
+    - maldecir
+  ru:
+    place structure: x1 проклинает x2, желая x2 судьбы x3 (событие)
+    notes:
+    - 'Проклятие, выражаемое конкретными словами: {dapsku} {mabla} (негативный [о
+      значении/смысле слова]), {dimna} (судьба), {cnemu} (воздавать), {sfasa} (наказывать),
+      {dunda} (давать), {cusku} (говорить [кому-либо]), {cirko} (терять), {jdima}
+      (цена)'
+    glosses:
+    - проклинать
+    - x1=проклинающий
+  en-simple:
+    place structure: x1 condemns or curses x2 to fate x3
+    notes:
+    - No notes.
+    glosses:
+    - a condemner
+    - x2=something condemned
+    - x3=a fate condemned to
+  eo:
+    place structure: x1 malbenas/damnas/kondamnas x2-on je sorto (okazo) x3
+    notes:
+    - Malbeni per specifa esprimo (= {dapsku}).  Vidu ankaŭ {mabla}, {dimna}, {cnemu},
+      {sfasa}, {dunda}, {cusku}, {cirko}, {jdima}.
+    glosses:
+    - malbeni
+  hu:
+    place structure: x1 (el-/meg-/ki-)átkozza/káromolja/kárhoztatja x2-t x3 sorsra
+    notes:
+    - '(Lásd még: {mabla}, {dimna}, {cnemu}, {sfasa}, {dunda}, {cusku}, {cirko}, {jdima})'
+    glosses:
+    - átkoz
+  ja:
+    place structure: x1 は x2 を x3 （運命）に呪いつける
+    notes:
+    - 単に言葉による冒涜や罵りも。 ・大意： 呪う ・読み方： ダプマ  ・関連語： {mabla}, {dimna}, {cnemu}, {sfasa},
+      {dunda}, {cusku}, {cirko}, {jdima}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 förbannar/(för)dömer x2 till öde x3 (händelse).
+    notes:
+    - Svordom (={dapsku}).
+    glosses:
+    - förbanna (utsätta för förbannelse)
+    - fördöma (förbanna)
+    - x1=förbanna
+    - x2=fördömd (det som har blivit utsatt för förbannelse)
+  zh:
+    place structure: x1诅咒/咒骂x2，以命运/结局x3（事件）
+    notes:
+    - 带有特定表达的咒骂= {dapsku}；参见 {mabla}, {dimna}, {cnemu}, {sfasa}, {dunda}, {cusku},
+      {cirko}, {jdima}, {di'ai}.
+    glosses:
+    - No glosses.

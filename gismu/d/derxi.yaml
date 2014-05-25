@@ -1,5 +1,76 @@
-Word: derxi
-Rafsi: dre
-Definition: x1 is a heap/pile/stack/mound/hill of materials x2 at location x3.
-Notes: See also {cmana}.
-Examples: None
+word: derxi
+rafsi:
+- dre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a heap/pile/stack/mound/hill of materials x2 at location
+      x3.
+    notes:
+    - See also {cmana}.
+    glosses:
+    - heap
+  de:
+    place structure: x1 ist ein Haufen/Stapel/eine Halde von Materialien x2 an Ort
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Haufen
+  es:
+    place structure: x1 es un montón/pila/parva de materiales x2 en localidad x3
+    notes:
+    - No notes.
+    glosses:
+    - montón
+  ru:
+    place structure: x1 — куча/груда/кипа/стопка материала x2, находящаяся в x3 (место)
+    notes:
+    - '{cmana} (гора)'
+    glosses:
+    - куча
+  en-simple:
+    place structure: x1 is a heap or stack of materials x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a heap
+    - x2=a material of a heap
+    - x3=a location of a heap
+  eo:
+    place structure: x1 estas amaso/stako/monto de materialo x2 en loko x3
+    notes:
+    - Vidu ankaŭ {cmana}.
+    glosses:
+    - amaso
+  hu:
+    place structure: x1 egy kupac/kazal/bucka/domb x2 anyag(ok)ból, x3 helyen
+    notes:
+    - '(Lásd még: {cmana})'
+    glosses:
+    - kupac
+  ja:
+    place structure: x1 は x2 （物質）・ x3 （所）の堆積／やま／積み重ね
+    notes:
+    - ・大意： 堆積 ・読み方： デルクィ  ・語呂合わせ： 出る杭の堆積物 ・関連語： {cmana} (丘／山；下位概念)
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en hög/stack/hop/trave/vall/(kulle) av material x2 på plats
+      x3.
+    notes:
+    - Se även {cmana}.
+    glosses:
+    - hop (hög (substantiv))
+    - stack (hög (substantiv))
+    - trave (hög (substantiv))
+    - x1=hög (substantiv)
+    - x2=högmaterial
+    - x3=plats med hög/höjd
+  zh:
+    place structure: x1是一堆材料x2，位于位置x3
+    notes:
+    - 参见 {cmana}.
+    glosses:
+    - No glosses.

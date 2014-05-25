@@ -1,6 +1,78 @@
-Word: dejni
-Rafsi: dej
-Definition: x1 owes x2 in debt/obligation to creditor x3 in return for x4 [service,
-  loan]; x1 is a debtor.
-Notes: See also {jbera}, {janta}, {zivle}.
-Examples: None
+word: dejni
+rafsi:
+- dej
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 owes x2 in debt/obligation to creditor x3 in return for x4
+      [service, loan]; x1 is a debtor.
+    notes:
+    - See also {jbera}, {janta}, {zivle}.
+    glosses:
+    - owe
+  de:
+    place structure: x1 schuldet x2 (Schuld/Verbindlichkeit) Gläubiger x3 als Gegenleistung
+      für x4 [Dienstleistung, Darlehen]; x1 ist ein Schuldner; x3 ist ein Gläubiger
+    notes:
+    - No notes.
+    glosses:
+    - schulden
+  es:
+    place structure: x1 debe/adeuda x2 a x3 por bien/servicio x4
+    notes:
+    - Ver también {pleji}.
+    glosses:
+    - deber
+  ru:
+    place structure: x1 (должник) должен x2 (долг) кредитору x3 за x4 (услуга, заем)
+    notes:
+    - '{jbera} (заимствовать), {janta} (счет [к оплате]), {zivle} (инвестировать)'
+    glosses:
+    - x1=должен
+  en-simple:
+    place structure: x1 owes debt x2 to creditor x3 in return for x4
+    notes:
+    - No notes.
+    glosses:
+    - a debtor
+    - x2=a debt
+    - x3=a debt creditor
+    - x4=a reason for a debt
+  eo:
+    place structure: x1 ŝuldas x2-on al kreditoro x3 kompense de x4 [servo, pruntaĵo];
+      x1 estas debitoro
+    notes:
+    - Vidu ankaŭ {jbera}, {janta}, {zivle}.
+    glosses:
+    - ŝuldi
+  hu:
+    place structure: x1 tartozik x2-vel x3-nak, x4 szolgáltatásért/áruért/kölcsönért
+    notes:
+    - '(Lásd még: {jbera}, {janta}, {zivle})'
+    glosses:
+    - adós
+  ja:
+    place structure: x1 （者）は x2 （物／事）を、 x3 （者）に x4 （事）をしてもらった借りとして負っている；  x1 は x3
+      に恩義がある
+    notes:
+    - x2 は「借金」なども。 ・大意： 恩義 ・読み方： デジニ  ・語呂合わせ： 恩義は地デジに ・関連語： {jbera}, {janta}, {zivle}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är skyldig x2 i skuld/förpliktelse till fordringsägare/borgenär
+      x3 i utbyte mot x4 [tjänst/lån].
+    notes:
+    - No notes.
+    glosses:
+    - skyldig (är skyldig skuld/förpliktelse)
+    - x1=gäldenär
+    - x2=skuld
+    - x3=borgenär
+    - x4=gäld
+  zh:
+    place structure: x1欠x3债务/义务x2，为了x4（服务/贷款等）
+    notes:
+    - 参见 {jbera}, {janta}, {zivle}.
+    glosses:
+    - No glosses.

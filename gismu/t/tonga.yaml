@@ -1,5 +1,66 @@
-Word: tonga
-Rafsi: tog, to'a
-Definition: x1 is a tone/note of frequency/pitch x2 from source x3.
-Notes: See also {rilti}, {zgike}, {janbe}, {siclu}.
-Examples: None
+word: tonga
+rafsi:
+- tog
+- to'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tone/note of frequency/pitch x2 from source x3.
+    notes:
+    - See also {rilti}, {zgike}, {janbe}, {siclu}.
+    glosses:
+    - tone
+  de:
+    place structure: x1 ist ein Ton/eine Note mit Frequenz/Tonhöhe x2 von Quelle x3
+    notes:
+    - No notes.
+    glosses:
+    - Ton
+  es:
+    place structure: x1 es un tono de frequencia/timbre x2 de origen x3
+    notes:
+    - No notes.
+    glosses:
+    - tono
+  ru:
+    place structure: x1 — тон/нота частоты/высоты x2, производимый источником x3
+    notes:
+    - '{rilti} (ритм), {zgike} (музыка), {janbe} (гонг), {siclu} (свистеть)'
+    glosses:
+    - тон
+    - x2=высота тона
+    - x3=источник тона
+  en-simple:
+    place structure: x1 is a tone of pitch x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a tone
+    - x2=a tone pitch
+    - x3=a tone source
+  eo:
+    place structure: x1 estas tono/noto de frekvenco/piĉo x2 el fonto x3
+    notes:
+    - Vidu ankaŭ {rilti}, {zgike}, {janbe}, {siclu}.
+    glosses:
+    - tono
+  hu:
+    place structure: x1 egy zenei hang x2 magasságban/frekvencián, x3 forrásból
+    notes:
+    - '(Lásd még: {rilti}, {zgike}, {janbe}, {siclu})'
+    glosses:
+    - zenei hang
+  ja:
+    place structure: x1 は x2 （音程）・ x3 （音源）の音／トーン
+    notes:
+    - 「tonga」は「sance」のうち特に周波数で識別できたり譜面に書き表せるもの。 ・大意： 音調 ・読み方： トンガ  ・語呂合わせ： on 音, toon
+      トーン ・関連語： {rilti}, {zgike}, {janbe}, {siclu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是频率/音高x2的声音的音色/音调，来源于x3
+    notes:
+    - 参见 {rilti}, {zgike}, {janbe}, {siclu}.
+    glosses:
+    - No glosses.

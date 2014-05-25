@@ -1,5 +1,68 @@
-Word: skori
-Rafsi: sko
-Definition: x1 is cord/cable/rope/line/twine/cordage/woven strands of material x2.
-Notes: See also {cilta}, {jgena}, {marna}, {bikla}, {linsi}.
-Examples: None
+word: skori
+rafsi:
+- sko
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is cord/cable/rope/line/twine/cordage/woven strands of material
+      x2.
+    notes:
+    - See also {cilta}, {jgena}, {marna}, {bikla}, {linsi}.
+    glosses:
+    - cord
+    - rope
+  de:
+    place structure: x1 ist ein Seil/Kabel/Strick/eine Leine/Kordel/Schnur/gewobene
+      Stränge aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Seil
+  es:
+    place structure: x1 es una soga/cuerda/cable (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - cuerda
+    - soga
+  ru:
+    place structure: x1 — веревка/канат/шнур/кабель/сплетенные пряди из материала
+      x2
+    notes:
+    - '{cilta} (нить), {jgena} (узел), {marna} (конопля), {bikla} (дергаться), {linsi}
+      (цепь)'
+    glosses:
+    - верёвка
+  en-simple:
+    place structure: x1 is rope or cable of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a rope
+    - x2=a material of a rope
+  eo:
+    place structure: x1 estas ŝnuro/kablo/kordo/plektaĵo el materialo x2
+    notes:
+    - Vidu ankaŭ {cilta}, {jgena}, {marna}, {bikla}, {linsi}.
+    glosses:
+    - ŝnuro
+  hu:
+    place structure: x1 egy kötél/madzag/zsinór/húr/kábel x2 anyagból
+    notes:
+    - '(Lásd még: {cilta}, {jgena}, {marna}, {bikla}, {linsi})'
+    glosses:
+    - kötél
+  ja:
+    place structure: x1 は x2 （素材）の縄／コード／ケーブル／ロープ／より糸
+    notes:
+    - ・大意： 縄 ・読み方： スコリ  ・語呂合わせ： koodo コード ・関連語： {cilta}, {jgena}, {marna}, {bikla},
+      {linsi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是绳/线/缆，由材料x2制成
+    notes:
+    - 参见 {cilta}, {jgena}, {marna}, {bikla}, {linsi}.
+    glosses:
+    - No glosses.

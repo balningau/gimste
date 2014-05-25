@@ -1,6 +1,84 @@
-Word: nelci
-Rafsi: nel, nei
-Definition: x1 is fond of/likes/has a taste for x2 (object/state).
-Notes: See also {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni},
-  {cuxna}, {pendo}.
-Examples: None
+word: nelci
+rafsi:
+- nel
+- nei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is fond of/likes/has a taste for x2 (object/state).
+    notes:
+    - See also {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni},
+      {cuxna}, {pendo}.
+    glosses:
+    - fond
+  de:
+    place structure: x1 mag/genießt x2 (Objekt/Zusand)
+    notes:
+    - No notes.
+    glosses:
+    - genießen
+    - mögen
+  es:
+    place structure: x1 disfruta/gusta de x2 (objeto/estado)
+    notes:
+    - No notes.
+    glosses:
+    - disfrutar
+  fr:
+    place structure: x1 adore / apprécie fortement x2 [un objet / un état]
+    notes:
+    - No notes.
+    glosses:
+    - adorer
+    - apprécier
+  ru:
+    place structure: x1 (кому) нравится x2 (объект/состояние); x1 имеет склонность/пристрастие
+      к x2; x1 любит/имеет вкус к x2
+    notes:
+    - Любит в смысле «влюблен» — {prami} {cinmo} (эмоциональный), {djica} (хотеть),
+      {pluka} (приятный), {prami} (любить [кого-либо]), {rigni} (отвратительный),
+      {sinma} (уважать), {trina} (привлекательный), {xebni} (ненавидеть), {cuxna}
+      (выбирать), {pendo} (друг)
+    glosses:
+    - x2=нравящееся
+  art-guaspi:
+    place structure: \x1 /fan \x2
+    notes:
+    - No notes.
+    glosses:
+    - fan
+  en-simple:
+    place structure: x1 likes x2
+    notes:
+    - No notes.
+    glosses:
+    - a liker
+    - x2=something liked
+  eo:
+    place structure: x1 shatas x2 (objekto/stato); x2 estas agrabla al x1
+    notes:
+    - (kp. cinmo, djica, pluka, prami, rigni, sinma, trina, xebni, cŭna, pendo)
+    glosses:
+    - ŝati
+  hu:
+    place structure: x1 kedveli x2-t
+    notes:
+    - '(Lásd még: {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni},
+      {cuxna}, {pendo})'
+    glosses:
+    - kedvel
+  ja:
+    place structure: x1 は x2 （物／事）を好む／好き／気に入っている
+    notes:
+    - ・大意： 好む ・読み方： ネルゥシ  ・関連語： {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma},
+      {trina}, {xebni}, {cuxna}, {pendo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1喜欢/喜爱/喜好x2（物体/状态）
+    notes:
+    - 参见 {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni}, {cuxna},
+      {pendo}.
+    glosses:
+    - No glosses.

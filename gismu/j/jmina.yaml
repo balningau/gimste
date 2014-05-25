@@ -1,6 +1,90 @@
-Word: jmina
-Rafsi: min
-Definition: x1 adds/combines x2 to/with x3, with result x4; x1 augments x2 by amount
-  x3.
-Notes: See also {zmadu}, {banro}, {sumji}, {zenba}, {setca}.
-Examples: None
+word: jmina
+rafsi:
+- min
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 adds/combines x2 to/with x3, with result x4; x1 augments x2
+      by amount x3.
+    notes:
+    - See also {zmadu}, {banro}, {sumji}, {zenba}, {setca}.
+    glosses:
+    - add
+  jbo:
+    place structure: x1 dunda x2 boi x3 ja'e x4 i x1 gasnu lo nu x3 zenba fi x2 ja'e
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - jmina
+  de:
+    place structure: x1 fügt x2 x3 zu mit Ergebnis x4; x1 mengt/gibt x2 x3 bei; x1
+      addiert x2 und x3 mit Ergebnis x4; x1 vergrößert x2 um Menge x3
+    notes:
+    - No notes.
+    glosses:
+    - hinzufügen
+  es:
+    place structure: x1 agrega/añade/aumenta/combina/suma/adiciona x2 a x3 con resultado/total
+      x4
+    notes:
+    - Ver también {vimcu},  {banro},  {sumji},  {zenba}.
+    glosses:
+    - agregar
+  ru:
+    place structure: x1 добавляет/прибавляет x2 к x3 с результатом x4; x1 увеличивает
+      x2 на величину x3
+    notes:
+    - '{zmadu} (превосходить), {banro} (расти), {sumji} (сумма [результат сложения]),
+      {zenba} (возрастать), {setca} (вставлять)'
+    glosses:
+    - добавлять
+    - x1=добавляющий
+    - x2=добавляемое
+    - x3=результат прибавления
+  en-simple:
+    place structure: x1 combines or adds x2 to x3 with result x4
+    notes:
+    - No notes.
+    glosses:
+    - a combiner
+    - x2=something combined
+    - x3=something combined to
+    - x4=a combination result
+  eo:
+    place structure: x1 aldonas/kombinas x2-on al/kun x3, kun rezulto x4; x1 pliigas
+      x2-on per kvanto x3
+    notes:
+    - Vidu ankaŭ {zmadu}, {banro}, {sumji}, {zenba}, {setca}.
+    glosses:
+    - aldoni
+  hu:
+    place structure: x1 összeadja/egyesíti/kombinálja x2-t x3-mal, x4 eredménnyel
+    notes:
+    - '(Lásd még: {zmadu}, {banro}, {sumji}, {zenba}, {setca})'
+    glosses:
+    - összead
+  ja:
+    place structure: x1 は x2 を x3 に加え、その 結果 x4 となる
+    notes:
+    - ・大意： 加える ・読み方： ジミナ  ・語呂合わせ： 地味な追加 ・関連語： {zmadu}, {banro}, {sumji}, {zenba},
+      {setca}
+    - ''
+    glosses:
+    - 追加
+    - x1=加える
+  sv:
+    place structure: x1 lägger till/kombinerar x2 till/med x3, med resultatet x4;
+      x1 förstorar x2 med värdet x3.
+    notes:
+    - No notes.
+    glosses:
+    - kombinera
+    - lägga till
+    - tillägga
+  zh:
+    place structure: x1将x2加上x3，得到结果x4
+    notes:
+    - 参见 {zmadu}, {banro}, {sumji}, {zenba}, {setca}.
+    glosses:
+    - No glosses.

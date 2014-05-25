@@ -1,6 +1,78 @@
-Word: blaci
-Rafsi: ''
-Definition: x1 is a quantity of/is made of/contains glass of composition including
-  x2.
-Notes: See also {kabri}.
-Examples: None
+word: blaci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/is made of/contains glass of composition
+      including x2.
+    notes:
+    - See also {kabri}.
+    glosses:
+    - glass
+  de:
+    place structure: x1 ist eine gewisse Menge/besteht aus/enthält Glas von Zusammensetzung
+      unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Glas (Material)
+  es:
+    place structure: x1 es una cantidad de vidrio de composición x2
+    notes:
+    - No notes.
+    glosses:
+    - vidrio
+  ru:
+    place structure: x1 — стекло, в состав которого входит x2; x1 содержит стекло
+    notes:
+    - '{kabri} (чашка)'
+    glosses:
+    - стекло
+  en-simple:
+    place structure: x1 is a quantity of glass of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of glass
+    - x2=a material of glass
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el vitro de konsisto enhavanta
+      x2-on
+    notes:
+    - Vidu ankaŭ {kabri}.
+    glosses:
+    - vitro
+  hu:
+    place structure: x1 bizonyos mennyiségű üveg (-et tartalmaz/-ből készült), x2
+      összetétellel
+    notes:
+    - '(Lásd még: {kabri})'
+    glosses:
+    - üveg
+  ja:
+    place structure: x1 は x2 （成分）のガラス
+    notes:
+    - ・大意： ガラス ・読み方： ブルァシ ・語呂合わせ：  glass  ・関連語： {kabri}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en mengde/laget av/inneholder glass i en komposisjon x2
+    notes:
+    - Se óg {kabri}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är glas av sammansättning/material/sort x2.
+    notes:
+    - Se även {kabri}
+    glosses:
+    - x1=glas (material)
+    - x2=glas sammansättning
+  zh:
+    place structure: x1是玻璃/玻璃制品/含有玻璃，玻璃的物质构成为x2
+    notes:
+    - 参见{kabri}
+    glosses:
+    - No glosses.

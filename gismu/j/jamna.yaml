@@ -1,6 +1,71 @@
-Word: jamna
-Rafsi: jam
-Definition: x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war
-  with x2.
-Notes: See also {bradi}, {gunta}, {panpi}, {damba}, {darlu}.
-Examples: None
+word: jamna
+rafsi:
+- jam
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person/mass) wars against x2 over territory/matter x3; x1
+      is at war with x2.
+    notes:
+    - See also {bradi}, {gunta}, {panpi}, {damba}, {darlu}.
+    glosses:
+    - war
+  de:
+    place structure: x1 (Person/Masse) führt Krieg gegen x2 über Territorium/Gebiet/Angelegenheit
+      x3; x1 und x2 bekriegen sich
+    notes:
+    - No notes.
+    glosses:
+    - Krieg
+  es:
+    place structure: x1 está en guerra contra x2 por territorio/asunto x3
+    notes:
+    - Ver también {panpi},  {damba},  {bradi}.
+    glosses:
+    - guerrear
+  ru:
+    place structure: x1 (лицо/масса) воюет с/против x2 за территорию/предмет x3; x1
+      находится в состоянии войны с x2 за/по поводу x3
+    notes:
+    - '{bradi} (враг), {gunta} (нападать), {panpi} (в мире), {damba} (драться), {darlu}
+      (отстаивать [позицию])'
+    glosses:
+    - воевать
+    - x1=воюющий
+    - x3=предмет войны
+  en-simple:
+    place structure: x1 wars against x2 over x3
+    notes:
+    - No notes.
+    glosses:
+    - something at war
+    - x2=something at war with
+    - x3=a reason for war
+  eo:
+    place structure: x1 (homo/kolektivaĵo) militas kontraŭ x2 pro teritorio/afero
+      x3; x1 faras militon kontraŭ x2
+    notes:
+    - Vidu ankaŭ {bradi}, {gunta}, {panpi}, {damba}, {darlu}.
+    glosses:
+    - militi
+  hu:
+    place structure: x1 személy/sereg háborúzik/hadakozik x2 ellen, x3 terület/ügy
+      fölött
+    notes:
+    - '(Lásd még: {bradi}, {gunta}, {panpi}, {damba}, {darlu})'
+    glosses:
+    - háborúzik
+  ja:
+    place structure: x1 （群）と x2 （群）は x3 （題目）に関して戦争／紛争する
+    notes:
+    - ・大意： 戦争 ・読み方： ジャムナ  ・語呂合わせ： 邪魔な戦争,jan（戦） ・関連語： {bradi}, {gunta}, {panpi}, {damba},
+      {darlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2战争，为了主权/问题x3；x1与x2交战
+    notes:
+    - 参见 {bradi}, {gunta}, {panpi}, {damba}, {darlu}.
+    glosses:
+    - No glosses.

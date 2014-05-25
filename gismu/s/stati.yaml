@@ -1,5 +1,72 @@
-Word: stati
-Rafsi: ''
-Definition: x1 has a talent/aptitude/innate skill for doing/being x2.
-Notes: See also {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
-Examples: None
+word: stati
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 has a talent/aptitude/innate skill for doing/being x2.
+    notes:
+    - See also {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
+    glosses:
+    - talent
+  de:
+    place structure: x1 hat ein Talent/eine Begabung/eine angeborene Fähigkeit für
+      das Tun/Sein x2.
+    notes:
+    - Siehe auch {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
+    glosses:
+    - Talent
+  es:
+    place structure: x1 tiene talento/aptitud/capacidad/habilidad/destreza innata
+      para ser/hacer x2
+    notes:
+    - Ver también {jinzi},  {certu},  {rarna}.
+    glosses:
+    - talentoso
+  ru:
+    place structure: x1 имеет талант/способности/склонность к x2 (действие/состояние)
+    notes:
+    - '{jinzi} (присущий), {certu} (эксперт), {rarna} (естественный), {larcu} (искусство),
+      {kakne} (мочь)'
+    glosses:
+    - талантливый
+    - x1=талантлив
+    - x2=талант (то, к чему имеет талант)
+  en-simple:
+    place structure: x1 has talent for doing x2
+    notes:
+    - No notes.
+    glosses:
+    - something talented
+    - x2=a talent
+  eo:
+    place structure: x1 havas talenton/naturan lertecon por fari/esti x2
+    notes:
+    - Vidu ankaŭ {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
+    glosses:
+    - talenta
+  hu:
+    place structure: x1-nak tehetsége/érzéke/hajlama/adottsága van x2-hez
+    notes:
+    - '(Lásd még: {jinzi}, {certu}, {rarna}, {larcu}, {kakne})'
+    glosses:
+    - tehetséges
+  ja:
+    place structure: x1 には x2 （事／行為）の才能／素質がある
+    notes:
+    - ・大意： 才能 ・読み方： スタティ  ・関連語： {jinzi}, {certu}, {rarna}, {larcu}, {kakne}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 heeft een talent (vaardigheid) voor het doen/zijn van x2.
+    notes:
+    - 'Zie ook : {jinzi}, {certu}, {rarna}, {larcu} en {kakne}.'
+    glosses:
+    - talent
+  zh:
+    place structure: x1在做/成为x2方面是有天分的/有天赋的
+    notes:
+    - 参见 {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
+    glosses:
+    - No glosses.

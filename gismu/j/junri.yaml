@@ -1,6 +1,70 @@
-Word: junri
-Rafsi: jur
-Definition: x1 (person) is serious/earnest/has gravity about x2 (event/state/activity).
-Notes: Also solemn (= {drijunri}, {ri'irjunri}, {tcejunri}).  See also {tilju}, {xalbo},
-  {badri}, {ritli}.
-Examples: None
+word: junri
+rafsi:
+- jur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) is serious/earnest/has gravity about x2 (event/state/activity).
+    notes:
+    - Also solemn (= {drijunri}, {ri'irjunri}, {tcejunri}).  See also {tilju}, {xalbo},
+      {badri}, {ritli}.
+    glosses:
+    - serious
+  de:
+    place structure: x1 (Person) ist ernsthaft bezüglich x2/zeigt Ernst über x2 (Ereignis/Zustand/Aktivität)
+    notes:
+    - No notes.
+    glosses:
+    - ernsthaft
+  es:
+    place structure: x1 es serio sobre x2 (evento)
+    notes:
+    - Ver también {xalbo}.
+    glosses:
+    - serio
+  ru:
+    place structure: x1 (лицо) серьезно/основательно/нешуточно относится к/рассматривает
+      x2 (событие/состояние/деятельность)
+    notes:
+    - 'Также: торжественный: {ri''irjunri}, основательный/истовый: {tcejunri}, мрачный:
+      {drijunri} {tilju} (тяжелый [массивный]), {xalbo} (легкомысленный), {badri}
+      (грустный), {ritli} (ритуал)'
+    glosses:
+    - серьёзный
+    - x1=серьёзный (о персоне)
+    - x2=серьёзное (случай, событие)
+    - x2=серьёзный (случай, событие)
+  en-simple:
+    place structure: x1 is earnest or serious about x2
+    notes:
+    - No notes.
+    glosses:
+    - something serious
+    - x2=a topic of seriousness
+  eo:
+    place structure: x1 (homo) estas serioza pri x2 (okazo/stato/ago)
+    notes:
+    - 'Ankaŭ: solena (= {drijunri}, {ri''irjunri}, {tcejunri}).  Vidu ankaŭ {tilju},
+      {xalbo}, {badri}, {ritli}.'
+    glosses:
+    - serioza
+  hu:
+    place structure: x1 komoly/lelkiismeretes/megfontolt x2 ügyben
+    notes:
+    - '(Lásd még: {tilju}, {xalbo}, {badri}, {ritli})'
+    glosses:
+    - komoly
+  ja:
+    place structure: x1 （者）は x2 （事）に関してまじめ／真剣／厳か／熱心／本気
+    notes:
+    - ・大意： まじめ ・読み方： ジュンリ  ・語呂合わせ： 真面目に純利益 ・関連語： {tilju}, {xalbo}, {badri}, {ritli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是严肃的/认真的，对事件/状态/行为x2
+    notes:
+    - 庄严的/肃穆的/隆重的= {drijunri}/{ri'irjunri}/{tcejunri}；参见 {tilju}, {xalbo}, {badri},
+      {ritli}.
+    glosses:
+    - No glosses.

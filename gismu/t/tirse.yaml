@@ -1,6 +1,64 @@
-Word: tirse
-Rafsi: tir
-Definition: 'x1 is a quantity of/contains/is made of iron (Fe); [metaphor: strong,
-  durable, tarnishing].'
-Notes: Also (adjective:) $x_1$ is ferric/ferrous.  See also {jinme}, {gasta}, {molki}.
-Examples: None
+word: tirse
+rafsi:
+- tir
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of iron (Fe); [metaphor:
+      strong, durable, tarnishing].'
+    notes:
+    - Also (adjective:) x1 is ferric/ferrous.  See also {jinme}, {gasta}, {molki}.
+    glosses:
+    - iron (metal)
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Eisen (Fe); [Im übertragenen
+      Sinn: stark, beständig, läuft an]'
+    notes:
+    - No notes.
+    glosses:
+    - Eisen
+  es:
+    place structure: x1 es una cantidad de hierro (Fe)
+    notes:
+    - No notes.
+    glosses:
+    - hierro
+  ru:
+    place structure: x1 — железо (Fe); x1 содержит железо
+    notes:
+    - 'Метафора: прочный, долговечный, ржавеющий {jinme} (металл), {gasta} (сталь),
+      {molki} (мельница)'
+    glosses:
+    - x1=железо
+  en-simple:
+    place structure: x1 is a quantity of iron
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of iron
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el fero (Fe); [metafore:
+      forta, daŭranta, malbriliga]'
+    notes:
+    - Vidu ankaŭ {jinme}, {gasta}, {molki}.
+    glosses:
+    - fero
+  hu:
+    place structure: x1 bizonyos mennyiségű vas (-at tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {jinme}, {gasta}, {molki})'
+    glosses:
+    - vas
+  ja:
+    place structure: x1 は鉄（Fe）
+    notes:
+    - ・大意： 鉄 ・読み方： ティルセ  ・関連語： {jinme}, {gasta}, {molki}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是铁/由铁构成[Fe]
+    notes:
+    - x1是铁的/含铁的；参见 {jinme}, {gasta}, {molki}.
+    glosses:
+    - No glosses.

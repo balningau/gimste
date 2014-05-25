@@ -1,7 +1,75 @@
-Word: linji
-Rafsi: lij, li'i
-Definition: x1 is a line/among lines [1-dimensional shape/form] defined by set of
-  points x2.
-Notes: Ray/vector ({farli'i} or {porli'i}).  See also {kruvi}, {sirji}, {jganu}, {kantu},
-  {mokca}.
-Examples: None
+word: linji
+rafsi:
+- lij
+- li'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a line/among lines [1-dimensional shape/form] defined by
+      set of points x2.
+    notes:
+    - Ray/vector ({farli'i} or {porli'i}).  See also {kruvi}, {sirji}, {jganu}, {kantu},
+      {mokca}.
+    glosses:
+    - line (mathematical)
+  jbo:
+    place structure: x1 se cimde pa da gi'e se cmima x2 noi mokca
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Linie/Strecke/Gerade [eindimensionale Form] und festgelegt
+      durch die Punktemenge x2
+    notes:
+    - No notes.
+    glosses:
+    - Linie
+  es:
+    place structure: x1 es una línea/raya definida por conjunto de puntos x2
+    notes:
+    - No notes.
+    glosses:
+    - línea
+  ru:
+    place structure: x1 — линия (одномерная форма), задаваемая множеством точек x2
+    notes:
+    - 'Луч/вектор: {farli''i} или {porli''i} {kruvi} (изгиб), {sirji} (прямой), {jganu}
+      (угол), {kantu} (квант), {mokca} (точка)'
+    glosses:
+    - линия
+  en-simple:
+    place structure: x1 is a line defined by points x2
+    notes:
+    - No notes.
+    glosses:
+    - a line
+    - x2=a point defining a line
+  eo:
+    place structure: x1 estas linio/inter linioj [1-dimensia formo] difinita de aro
+      da punktoj x2
+    notes:
+    - Radio/vektoro (farli'i aŭ porli'i).  Vidu ankaŭ {kruvi}, {sirji}, {jganu}, {kantu},
+      {mokca}.
+    glosses:
+    - linio
+  hu:
+    place structure: x1 egy vonal x2 pontok által meghatározva
+    notes:
+    - '(Lásd még: {kruvi}, {sirji}, {jganu}, {kantu}, {mokca})'
+    glosses:
+    - vonal
+  ja:
+    place structure: x1 は x2 （点集合）の間の線
+    notes:
+    - ・大意： 線 ・読み方： ルィンジ  ・語呂合わせ： line,　ji(直)　臨時 ・関連語： {kruvi}, {sirji}, {jganu}, {kantu},
+      {mokca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是线（一维结构），由点集x2定义
+    notes:
+    - 射线/矢量线={farli'i}/{porli'i}；参见 {kruvi}, {sirji}, {jganu}, {kantu}, {mokca}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,76 @@
-Word: smaji
-Rafsi: sma
-Definition: x1 (source) is quiet/silent/[still] at observation point x2 by standard
-  x3.
-Notes: See also {kerlo}, {panpi}, {savru}, {tirna}.
-Examples: None
+word: smaji
+rafsi:
+- sma
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (source) is quiet/silent/[still] at observation point x2 by
+      standard x3.
+    notes:
+    - See also {kerlo}, {panpi}, {savru}, {tirna}.
+    glosses:
+    - quiet
+  jbo:
+    place structure: x1 seltinynalka'e lo'e zvati be x2 ma'i x3 .i x1 se sance no
+      da
+    notes:
+    - '{seltinynalka''e}, {sance}'
+    glosses:
+    - smaji
+  de:
+    place structure: x1 (Quelle) ist leise/still an Beobachtungspunkt x2 gemäß Standard
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - leise
+  es:
+    place structure: x1 está en silencio/callado en punto de observación x2 según
+      estándar x3
+    notes:
+    - Ver también {cladu}.
+    glosses:
+    - silencio
+  ru:
+    place structure: x1 — молчит/безмолвствует/не воспринимается в точке наблюдения
+      x2 по критерию x3
+    notes:
+    - '{kerlo} (ухо), {panpi} (в мире), {savru} (шум), {tirna} (слышать)'
+    glosses:
+    - молчать
+    - x1=молчащий
+  en-simple:
+    place structure: x1 is quiet at observation point x2 by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something silent
+    - x2=an observation point for silence
+    - x3=a standard of silence
+  eo:
+    place structure: x1 (fonto) estas silenta/senbrua/[kvieta] je observopunkto x2
+      laŭ normo x3
+    notes:
+    - Vidu ankaŭ {kerlo}, {panpi}, {savru}, {tirna}.
+    glosses:
+    - silenta
+  hu:
+    place structure: x1 hangforrás csendes x2 megfigyelési pontból, x3 norma szerint
+    notes:
+    - '(Lásd még: {kerlo}, {panpi}, {savru}, {tirna})'
+    glosses:
+    - csendes
+  ja:
+    place structure: x1 は x2 （観察点）・ x3 （基準）において静か／閑静／沈黙
+    notes:
+    - 「無言」も。 ・大意： 静か ・読み方： スマジ  ・語呂合わせ： seijaku 静寂 ・関連語： {kerlo}, {panpi}, {savru},
+      {tirna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（来源）是安静的/寂静的，在观察点x2看来，基于标准x3
+    notes:
+    - 参见 {kerlo}, {panpi}, {savru}, {tirna}.
+    glosses:
+    - No glosses.

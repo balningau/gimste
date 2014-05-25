@@ -1,9 +1,80 @@
-Word: sanli
-Rafsi: sa'i
-Definition: x1 stands [is vertically oriented] on surface x2 supported by limbs/support/pedestal
-  x3.
-Notes: $x_1$ is standing; $x_1$ stands up; $x_1$ is erect/vertical/upright; $x_1$
-  bows/bends over (= {krosa'i}, {krosa'ibi'o}, {plosa'i}); frame of reference is (approximate)
-  perpendicularity to the surface, and not to a gravity field.  See also {kamju},
-  {sraji}, {tuple}, {zbepi}, {sarji}.
-Examples: None
+word: sanli
+rafsi:
+- sa'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 stands [is vertically oriented] on surface x2 supported by
+      limbs/support/pedestal x3.
+    notes:
+    - x1 is standing; x1 stands up; x1 is erect/vertical/upright; x1 bows/bends over
+      (= {krosa'i}, {krosa'ibi'o}, {plosa'i}); frame of reference is (approximate)
+      perpendicularity to the surface, and not to a gravity field.  See also {kamju},
+      {sraji}, {tuple}, {zbepi}, {sarji}.
+    glosses:
+    - stand
+  de:
+    place structure: x1 steht [ist senkrecht] auf Oberfläche x2 gestützt/gehalten
+      von Gliedern/Stütze/Ständer x3
+    notes:
+    - No notes.
+    glosses:
+    - stehen
+  es:
+    place structure: x1 está de pie/se erige/yergue vertical sobre superficie x2 sostenido
+      por miembro/soporte/pedestal x3
+    notes:
+    - No notes.
+    glosses:
+    - erguirse
+  ru:
+    place structure: x1 стоит (вертикально/стоймя) на поверхности x2, поддерживаемый
+      конечностями/опорой/пьедесталом x3
+    notes:
+    - 'Нагибается: {krosa''i}, {krosa''ibi''o}, {plosa''i}; вертикаль понимается как
+      (приблизительный) перпендикуляр к поверхности, а не направление гравитационного
+      поля {kamju} (колонна [столб]), {sraji} (вертикальный), {tuple} (нога), {zbepi}
+      (подставка), {sarji} (поддерживать [помогать])'
+    glosses:
+    - стоять
+    - x1=стоящий
+  en-simple:
+    place structure: x1 stands on x2 using x3
+    notes:
+    - No notes.
+    glosses:
+    - a stander
+    - x2=a surface stood on
+    - x3=a support used for standing
+  eo:
+    place structure: x1 staras [estas vertikale orientigita] sur surfaco x2 subtenita
+      de membroj/subteno/piedestalo x3
+    notes:
+    - x1 estas staranta; x1 staras; x1 estas vertikala/rekta; x1 riverencas/kliniĝas
+      (= {krosa'i}, {krosa'ibi'o}, {plosa'i}); referenckadro estas (proksimume) perpendikulare
+      al la surfaco, kaj ne al gravita kampo. Vidu ankaŭ {kamju}, {sraji}, {tuple},
+      {zbepi}, {sarji}.
+    glosses:
+    - stari
+  hu:
+    place structure: x1 áll x2 felületen, x3 lábakon/állványon/alátámasztással
+    notes:
+    - 'x2 felület normálisára vonatkoztatva (Lásd még: {kamju}, {sraji}, {tuple},
+      {zbepi}, {sarji})'
+    glosses:
+    - áll
+  ja:
+    place structure: x1 は x2 （所）に x3 （脚／支え）で立つ
+    notes:
+    - ・大意： 立つ ・読み方： サンルィ  ・語呂合わせ： 立つ。三陸海岸に ・関連語： {kamju}, {sraji}, {tuple}, {zbepi},
+      {sarji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1站立（垂直站立）在表面x2上，使用的肢体/支撑体x3
+    notes:
+    - x1站立着/站起来；x1是竖立的/直立的； x1弯曲/弯腰/弯折={krosa'i}/{krosa'ibi'o}/{plosa'i}；参照系是近似垂直的表面，而非重力场；参见
+      {kamju}, {sraji}, {tuple}, {zbepi}, {sarji}.
+    glosses:
+    - No glosses.

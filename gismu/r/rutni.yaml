@@ -1,6 +1,65 @@
-Word: rutni
-Rafsi: run
-Definition: x1 is an artifact; x1 is artificial; x1 is made/caused by people/se kulnu
-  x2; x1 is man-made.
-Notes: See also {rarna}, se {zbasu}, {gundi}, {slasi}.
-Examples: None
+word: rutni
+rafsi:
+- run
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an artifact; x1 is artificial; x1 is made/caused by people/se
+      kulnu x2; x1 is man-made.
+    notes:
+    - See also {rarna}, se {zbasu}, {gundi}, {slasi}.
+    glosses:
+    - artifact
+  de:
+    place structure: x1 ist ein Artefakt; x1 ist künstlich; x1 ist von Menschen gemacht
+    notes:
+    - No notes.
+    glosses:
+    - Artefakt
+  es:
+    place structure: x1 es artificial/un artefacto hecho/causado por gente x2
+    notes:
+    - Ver también {rarna},  se {zbasu}.
+    glosses:
+    - artefacto
+  ru:
+    place structure: x1 — искусственный/рукотворный; x1 — артефакт; x1 создан/порожден
+      людьми/культурой/{se} {kulnu} (культура [этноса]) x2
+    notes:
+    - '{rarna} (естественный), {se} {zbasu} (изготавливать), {gundi} (промышленность),
+      {slasi} (пластмасса)'
+    glosses:
+    - искусственный
+  en-simple:
+    place structure: x1 is artificially made by people x2
+    notes:
+    - No notes.
+    glosses:
+    - something artificial
+    - x2=a maker of something artificial
+  eo:
+    place structure: x1 estas artefarita; x1 estas farita/kaŭzita de homoj/se kulnu
+      x2
+    notes:
+    - Vidu ankaŭ {rarna}, se {zbasu}, {gundi}, {slasi}.
+    glosses:
+    - artefarita
+  hu:
+    place structure: x1 mesterséges / egy terméke x2 kultúrának
+    notes:
+    - '(Lásd még: {rarna}, {zbasu}, {gundi}, {slasi})'
+    glosses:
+    - mesterséges
+  ja:
+    place structure: x1 は人工物；  x1 は人為的
+    notes:
+    - ・大意： 人工 ・読み方： ルトニ  ・語呂合わせ： 人工ルートに ・関連語： {rarna}, {se} {zbasu}, {gundi}, {slasi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是人造的/人工制品
+    notes:
+    - 参见 {rarna}, se {zbasu}, {gundi}, {slasi}.
+    glosses:
+    - No glosses.

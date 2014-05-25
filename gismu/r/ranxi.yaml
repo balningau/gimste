@@ -1,5 +1,69 @@
-Word: ranxi
-Rafsi: rax
-Definition: x1 is ironic(al)/contrary to expectation x2 in state/property/aspect x3.
-Notes: See also {dukti}, {frica}, {cizra}.
-Examples: None
+word: ranxi
+rafsi:
+- rax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is ironic(al)/contrary to expectation x2 in state/property/aspect
+      x3.
+    notes:
+    - See also {dukti}, {frica}, {cizra}.
+    glosses:
+    - irony
+  de:
+    place structure: x1 ist ironisch/entgegen der Erwartung x2 in Zustand/Eigenschaft/Aspekt
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Ironie
+  es:
+    place structure: x1 es irónico/contrario a lo esperado x2 en estado/propiedad/aspecto
+      x3
+    notes:
+    - Ver también {dukti},  {frica},  {cizra}.
+    glosses:
+    - ironía
+  ru:
+    place structure: x1 (событие) парадоксально по отношению к x2 (ожиданию) в аспекте
+      x3; x1 не соответствует ожиданию x2
+    notes:
+    - '{dukti} (противоположный), {frica} (отличаться), {cizra} (странный)'
+    glosses:
+    - парадоксальный
+    - x1=парадоксальное
+    - x2=ожидаемое
+    - x3=аспект парадоксальности
+  en-simple:
+    place structure: x1 is ironic or contrary to expectation x2 in aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - something ironic
+    - x2=an expectation something is ironic to
+    - x3=an aspect of irony
+  eo:
+    place structure: x1 estas ironia/kontraŭa al atendo x2 en stato/eco/aspekto x3
+    notes:
+    - Vidu ankaŭ {dukti}, {frica}, {cizra}.
+    glosses:
+    - ironio
+  hu:
+    place structure: x1 ironikus / x2 várakozással ellentétes x3 tekintetben
+    notes:
+    - '(Lásd még: {dukti}, {frica}, {cizra})'
+    glosses:
+    - ironikus
+  ja:
+    place structure: x1 （事）は x2 （予想／期待）に x3 （性質）の点で反する／皮肉的
+    notes:
+    - ・大意： 皮肉 ・読み方： ランクィ  ・語呂合わせ： 皮肉ランキング ・関連語： {dukti}, {frica}, {cizra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是与期待x2相反的/说反话的，在状态/性质x3方面
+    notes:
+    - 参见 {dukti}, {frica}, {cizra}.
+    glosses:
+    - No glosses.

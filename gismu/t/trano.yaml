@@ -1,5 +1,60 @@
-Word: trano
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of nitrogen/ammonia/nitrates.
-Notes: (adjective:) $x_1$ is nitric/nitrous.  See also {vacri}.
-Examples: None
+word: trano
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of nitrogen/ammonia/nitrates.
+    notes:
+    - (adjective:) x1 is nitric/nitrous.  See also {vacri}.
+    glosses:
+    - nitrogen
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Stickstoff/Ammoniak/Nitraten
+    notes:
+    - No notes.
+    glosses:
+    - Stickstoff
+  es:
+    place structure: x1 es una cantidad de nitrógeno/amoniaco/nitratos (N)
+    notes:
+    - No notes.
+    glosses:
+    - nitrógeno
+  ru:
+    place structure: x1 — азот/аммиак/нитрат (N); x1 содержит азот
+    notes:
+    - '{vacri} (воздух)'
+    glosses:
+    - x1=азот
+  en-simple:
+    place structure: x1 is a quantity of nitrogen
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of nitrogen
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el nitrogeno/amoniako/nitrato
+    notes:
+    - Vidu ankaŭ {vacri}.
+    glosses:
+    - nitrogeno
+  hu:
+    place structure: x1 bizonyos mennyiségű nitrogén (-t tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {vacri})'
+    glosses:
+    - nitrogén
+  ja:
+    place structure: x1 は窒素（N）
+    notes:
+    - ・大意： 窒素 ・読み方： トラノ  ・関連語： {vacri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是氮/含氮的/氮化物（如：氨/硝酸盐等）
+    notes:
+    - 参见 {vacri}.
+    glosses:
+    - No glosses.

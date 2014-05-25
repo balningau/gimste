@@ -1,5 +1,77 @@
-Word: daspo
-Rafsi: spo
-Definition: x1 (event) destroys/ruins/wrecks/despoils x2; x1 is destructive.
-Notes: See also {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu}.
-Examples: None
+word: daspo
+rafsi:
+- spo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) destroys/ruins/wrecks/despoils x2; x1 is destructive.
+    notes:
+    - See also {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu}.
+    glosses:
+    - destroy
+  de:
+    place structure: x1 (Ereignis) zerstört/ruiniert x2; x1 ist destruktiv
+    notes:
+    - No notes.
+    glosses:
+    - zerstören
+  es:
+    place structure: x1 (evento) destruye/arruina/arrasa/asola a x2
+    notes:
+    - Ver también {spofu},  {xrani},  {marxa},  {zalvi}.
+    glosses:
+    - destruir
+  ru:
+    place structure: x1 (событие) разрушает/уничтожает x2; x1 разрушительно
+    notes:
+    - '{spofu} (сломанный [испорченный, негодный]), {xrani} (вредить), {marxa} (мять),
+      {zalvi} (размалывать), {xaksu} (расходовать)'
+    glosses:
+    - разрушать
+    - x1=разрушающий
+  en-simple:
+    place structure: x1 destroys x2
+    notes:
+    - No notes.
+    glosses:
+    - a destroyer
+    - x2=something destroyed
+  eo:
+    place structure: x1 (okazo) detruas/ruinigas/difektas/rompas/frakasas x2-on; x1
+      estas detruema
+    notes:
+    - Vidu ankaŭ {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu}.
+    glosses:
+    - detrui
+  hu:
+    place structure: x1 esemény lerombolja/elpusztítja/megsemmisíti/szabotálja x2-t
+    notes:
+    - '(Lásd még: {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu})'
+    glosses:
+    - lerombol
+  ja:
+    place structure: x1 （事）は x2 を破壊する／破滅させる／倒す；  x1 は破壊的
+    notes:
+    - ・大意： 破壊 ・読み方： ダスポ  ・語呂合わせ： ＜ダサいポーズ＞ ・関連語： {spofu}, {xrani}, {marxa}, {zalvi},
+      {xaksu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse) förstör/fördärvar/ödelägger/våldför sig på x2;
+      x1 är destruktiv.
+    notes:
+    - No notes.
+    glosses:
+    - destruktiv
+    - fördärva
+    - förstöra
+    - ödelägga
+    - x1=fördärvare
+    - x2=fördärvad
+  zh:
+    place structure: x1（事件）摧毁/毁坏/破坏x2；x1是有破坏性的
+    notes:
+    - 参见 {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,77 @@
-Word: karni
-Rafsi: ''
-Definition: x1 is a journal/periodical/magazine/[newspaper] with content x2 published
-  by x3 for audience x4.
-Notes: $x_2$ may be a subject, but not all journals have a single subject; all have
-  some sort of principle defining what is included, so this need not be a list.  See
-  also {papri}, {pelji}, {tcidu}.
-Examples: None
+word: karni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a journal/periodical/magazine/[newspaper] with content
+      x2 published by x3 for audience x4.
+    notes:
+    - x2 may be a subject, but not all journals have a single subject; all have some
+      sort of principle defining what is included, so this need not be a list.  See
+      also {papri}, {pelji}, {tcidu}.
+    glosses:
+    - journal
+    - press (media)
+  de:
+    place structure: x1 ist eine Zeitschrift/Journal/Magazin mit Inhalt x2 veröffentlicht
+      von x3 für Leserschaft/Zielgruppe x4
+    notes:
+    - No notes.
+    glosses:
+    - Zeitschrift
+  es:
+    place structure: x1 es un diario/periódico/revista/boletín sobre tema x2 publicado
+      por x3 para audiencia x4
+    notes:
+    - No notes.
+    glosses:
+    - periódico
+  ru:
+    place structure: x1 — журнал/периодическое издание/{газета} с содержанием x2,
+      публикуемый x3 (кем) для аудитории x4
+    notes:
+    - x2 м.б. тема, однако не все журналы специализируются на одной теме; тем не менее,
+      подбор содержания всегда характеризуется каким-то принципом; таким образом,
+      x2 не обязательно список тем {papri} (страница), {pelji} (бумага), {tcidu} (читать)
+    glosses:
+    - журнал
+  en-simple:
+    place structure: x1 is a journal or magazine with content x2 published by x3 for
+      audience x4
+    notes:
+    - No notes.
+    glosses:
+    - a journal
+    - x2=a journal contents
+    - x3=a journal publisher
+    - x4=a journal audience
+  eo:
+    place structure: x1 estas ĵurnalo/periodaĵo/magazino/revuo kun enhavo x2 eldonita
+      de x3 por publiko x4
+    notes:
+    - x2 povas esti temo, sed ne ĉiuj ĵurnaloj havas unusolan temon; ĉiuj havas ian
+      principon difinantan tion, kio estas inkluzivata, do ĉi tio ne nepre estas listo.  Vidu
+      ankaŭ {papri}, {pelji}, {tcidu}.
+    glosses:
+    - ĵurnalo
+  hu:
+    place structure: x1 egy újság/magazin x2 tartalommal, x3 kiadóval, x4 olvasóközönség
+      számára
+    notes:
+    - '(Lásd még: {papri}, {pelji}, {tcidu})'
+    glosses:
+    - újság
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （出版者）・ x4 （読者）の刊行物／雑誌／新聞
+    notes:
+    - ・大意： 誌 ・読み方： カルニ  ・語呂合わせ： 仮に雑誌とする ・関連語： {papri}, {pelji}, {tcidu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是带有内容x2的杂志/期刊，由x3发表，读者为x4
+    notes:
+    - x2可能是主题，但并非所有杂志都有单一主题，所有的杂志对内容都有一定的原则，所以那可能是一个列举清单；参见 {papri}, {pelji}, {tcidu}.
+    glosses:
+    - No glosses.

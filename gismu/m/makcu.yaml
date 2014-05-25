@@ -1,5 +1,67 @@
-Word: makcu
-Rafsi: ma'u
-Definition: x1 is mature/ripe/fully-grown/adult in development-quality x2 (ka).
-Notes: See also {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
-Examples: None
+word: makcu
+rafsi:
+- ma'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is mature/ripe/fully-grown/adult in development-quality x2
+      (ka).
+    notes:
+    - See also {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
+    glosses:
+    - mature
+  de:
+    place structure: x1 ist erwachsen/reif/ausgewachsen in Entwicklungsqualität x2
+      (ka).
+    notes:
+    - Siehe auch {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
+    glosses:
+    - erwachsen
+  es:
+    place structure: x1 es/está maduro/desarrollado/adulto en cualidad x2
+    notes:
+    - No notes.
+    glosses:
+    - maduro
+  ru:
+    place structure: x1 — зрелый/созревший/{спелый}/взрослый относительно признака
+      x2 ({ka})
+    notes:
+    - '{cifnu} (младенец), {ninmu} (женщина), {verba} (ребенок), {banro} (расти),
+      {farvi} (развиваться), {nanmu} (мужчина)'
+    glosses:
+    - x1=зрелый
+  en-simple:
+    place structure: x1 is mature in quality x2
+    notes:
+    - No notes.
+    glosses:
+    - something mature
+    - x2=a mature property
+  eo:
+    place structure: x1 estas matura/elkreskinta/adolta/plenaĝa en evolua kvalito
+      x2 (ka)
+    notes:
+    - Vidu ankaŭ {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
+    glosses:
+    - matura
+  hu:
+    place structure: x1 felnőtt/érett/kifejlett x2 tulajdonságban
+    notes:
+    - '(Lásd még: {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu})'
+    glosses:
+    - felnőtt
+  ja:
+    place structure: x1 は x2 （性質）に関して成熟している；  x1 は成人／おとな
+    notes:
+    - 「lo cmana rutrkaki po le cmana malsi zo'u za'o makcu／山寺の山柿のうれたまゝ」（山頭火『行乞記（二）』）
+      ・大意： 成熟 ・読み方： マクシュ  ・関連語： {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是成熟的/成年的/已长成的/完全发育的，在发展/生长品质x2（ka）上
+    notes:
+    - 参见 {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
+    glosses:
+    - No glosses.

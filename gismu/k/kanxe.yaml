@@ -1,5 +1,67 @@
-Word: kanxe
-Rafsi: kax
-Definition: x1 is a conjunction, stating that x2 (du'u) and x3 (du'u) are both true.
-Notes: See also {vlina}.
-Examples: None
+word: kanxe
+rafsi:
+- kax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a conjunction, stating that x2 (du'u) and x3 (du'u) are
+      both true.
+    notes:
+    - See also {vlina}.
+    glosses:
+    - conjunction
+  de:
+    place structure: x1 ist eine Konjunktion/logische Und-Verknüpfung und sagt aus,
+      dass x2 (du'u) und x3 (du'u) beide wahr sind
+    notes:
+    - No notes.
+    glosses:
+    - Konjunktion
+  es:
+    place structure: 'x1 es una conjunción: tanto x2 (du''u) como x3 (du''u) son ciertos'
+    notes:
+    - Ver también {vlina},  {natfe}.
+    glosses:
+    - conjunción
+  ru:
+    place structure: 'x1 — конъюнкция: утверждение, что как x2 ({du''u}), так и x3
+      ({du''u}) вместе истинны'
+    notes:
+    - '{vlina} (дизъюнкция)'
+    glosses:
+    - конъюнкция
+  en-simple:
+    place structure: x1 is a conjunction stating that x2 and x3 are both true
+    notes:
+    - No notes.
+    glosses:
+    - a conjunction
+    - x2=a component of a conjunction
+    - x3=a conjunction element
+  eo:
+    place structure: x1 estas konjunkcio, asertanta ke x2 (du'u) kaj x3 (du'u) ambaŭ
+      estas veraj
+    notes:
+    - Vidu ankaŭ {vlina}.
+    glosses:
+    - konjunkcio
+  hu:
+    place structure: x1 egy logikai kapcsolat, amely szerint x2 és x3 [du’u] állítások
+      igazak
+    notes:
+    - '(Lásd még: {vlina})'
+    glosses:
+    - konjunkció
+  ja:
+    place structure: x1 は x2 （命題）・ x3 （命題）の連言
+    notes:
+    - ・大意： 連言 ・読み方： カンクェ  ・関連語： {vlina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是连词，称述/表征x2（du'u）和x3（du'u）都是正确的
+    notes:
+    - 参见 {vlina}.
+    glosses:
+    - No glosses.

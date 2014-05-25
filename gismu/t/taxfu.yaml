@@ -1,9 +1,83 @@
-Word: taxfu
-Rafsi: taf, ta'u
-Definition: x1 is dress/a garment/clothing for wearing by x2 (gender/species/body
-  part) serving purpose x3.
-Notes: 'Also: $x_2$ can wear/is wearing $x_1$; refers to something intended for use
-  as a garment, not merely something that happens to be worn at some time (which need
-  not be true for dasni).  See also {creka}, {cutci}, {daski}, {dasni}, {gluta}, {kosta},
-  {mapku}, {palku}, {pastu}, {skaci}, {smoka}, {lunbe}.'
-Examples: None
+word: taxfu
+rafsi:
+- taf
+- ta'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dress/a garment/clothing for wearing by x2 (gender/species/body
+      part) serving purpose x3.
+    notes:
+    - 'Also: x2 can wear/is wearing x1; refers to something intended for use as a
+      garment, not merely something that happens to be worn at some time (which need
+      not be true for dasni).  See also {creka}, {cutci}, {daski}, {dasni}, {gluta},
+      {kosta}, {mapku}, {palku}, {pastu}, {skaci}, {smoka}, {lunbe}.'
+    glosses:
+    - garment
+  de:
+    place structure: x1 ist ein Kleidungsstück/Kleid für x2 (Geschlecht/Art/Körperteil)
+      und erfüllt Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - Kleidung
+  es:
+    place structure: x1 es una prenda/vestimenta/traje para ser vestida por x2 con
+      propósito x3
+    notes:
+    - No notes.
+    glosses:
+    - prenda
+  ru:
+    place structure: x1 — одежда для ношения x2 (кем/чем) с целью/назначением x3 (свойство)
+    notes:
+    - 'Также: x2 носит/может носить x1; относится к чему-то, предназначенному для
+      ношения в качестве одежды, не просто к чему-то, носимому в какой-то момент (что
+      не обязательно для {dasni}) {creka} (рубашка), {cutci} (обувь), {daski} (карман),
+      {dasni} (носить [одежду]), {gluta} (перчатка), {kosta} (пальто), {mapku} (шапка),
+      {palku} (штаны), {pastu} (платье), {skaci} (юбка), {smoka} (носок), {lunbe}
+      (голый)'
+    glosses:
+    - одежда
+  en-simple:
+    place structure: x1 is a garment worn by x2 serving purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - a garment
+    - x2=a wearer of a garment
+    - x3=a purpose of a garment
+  eo:
+    place structure: x1 estas vestaĵo/kostumo por vestado de x2 (sekso/speco/korpoparto)
+      kun funkcio x3
+    notes:
+    - 'Ankaŭ: x2 povas porti/portas x1-on; rilatas al io destinita kiel vesto, ne
+      al io nur okaze portita (tio ne nepre estas tiel por dasni).  Vidu ankaŭ {creka},
+      {cutci}, daski,dasni,gluta,{kosta}, mapku,{palku}, {pastu}, {skaci}, {smoka},
+      {lunbe}.'
+    glosses:
+    - vestaĵo
+  hu:
+    place structure: x1 egy ruhadarab x2 nem/faj/társadalmi réteg/testrész/stb. számára,
+      x3 célra
+    notes:
+    - '(Lásd még: {creka}, {cutci}, {daski}, {dasni}, {gluta}, {kosta}, {mapku}, {palku},
+      {pastu}, {skaci}, {smoka}, {lunbe})'
+    glosses:
+    - ruha
+  ja:
+    place structure: x1 は x2 （身体部分／性別／種族）・ x3 （目的／機能）の衣服／服飾
+    notes:
+    - ・大意： 衣服 ・読み方： タクゥフゥ  ・語呂合わせ： ＜タフな服＞,たくさん服, traje, fu（服） ・関連語： {creka}, {cutci},
+      {daski}, {dasni}, {gluta}, {kosta}, {mapku}, {palku}, {pastu}, {skaci}, {smoka},
+      {lunbe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是服饰，为了给x2（性别/物种/身体部位等）穿戴，具有功能/用途x3
+    notes:
+    - 也指：x2可穿戴x1；指可用作服饰的物体，而非那些正好被穿在身上的服饰{dasni}；参见 {creka}, {cutci}, {daski}, {dasni},
+      {gluta}, {kosta}, {mapku}, {palku}, {pastu}, {skaci}, {smoka}, {lunbe}.
+    glosses:
+    - No glosses.

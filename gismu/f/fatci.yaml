@@ -1,6 +1,78 @@
-Word: fatci
-Rafsi: fac
-Definition: x1 (du'u) is a fact/reality/truth/actuality, in the absolute.
-Notes: See also {datni}, {jitfa}, {sucta}, {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika},
-  {saske}.
-Examples: None
+word: fatci
+rafsi:
+- fac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (du'u) is a fact/reality/truth/actuality, in the absolute.
+    notes:
+    - See also {datni}, {jitfa}, {sucta}, {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika},
+      {saske}.
+    glosses:
+    - actual (factual, not just apparent or even false)
+    - fact
+  de:
+    place structure: x1 (du'u) ist ein Fakt/real/wahr/eine Tatsache (absolut gesehen)
+    notes:
+    - No notes.
+    glosses:
+    - Fakt
+  es:
+    place structure: x1 es un hecho/realidad
+    notes:
+    - Ver también {jetnu},  {fasnu}.
+    glosses:
+    - hecho
+  ru:
+    place structure: x1 ({du'u}) есть факт/правда/действительность/реальность (объективная)
+    notes:
+    - '{datni} (данные [информация]), {jitfa} (ложь), {sucta} (абстракция), {xanri}
+      (воображаемый), {jetnu} (истина), {fasnu} (происходить [случаться]), {zasti}
+      (существовать), {cfika} (вымысел), {saske} (наука)'
+    glosses:
+    - факт
+  en-simple:
+    place structure: x1 is a fact
+    notes:
+    - No notes.
+    glosses:
+    - a fact
+  eo:
+    place structure: x1 (du'u) estas fakto/realo/vero/efektivaĵo, absolute
+    notes:
+    - Vidu ankaŭ {datni}, {jitfa}, {sucta}, {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika},
+      {saske}.
+    glosses:
+    - fakto
+  hu:
+    place structure: x1 egy abszolút tény/valóság/igazság
+    notes:
+    - '(Lásd még: {datni}, {jitfa}, {sucta}, {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika},
+      {saske})'
+    glosses:
+    - tény
+  ja:
+    place structure: x1 （命題）は事実／現実
+    notes:
+    - ・大意： 事実 ・読み方： ファチ ・語呂合わせ： fact,ci(実) ・関連語： {da'inai}, {datni}, {jitfa}, {sucta},
+      {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika}, {saske}
+    - ''
+    glosses:
+    - 実際 (現実)
+    - 本当 (仮ではない)
+    - x1=現実
+  sv:
+    place structure: x1 är ett faktum/fakta/sant/verkligt, i absolut mening.
+    notes:
+    - No notes.
+    glosses:
+    - faktum (faktisk, inte falskt eller endast till synes.)
+    - sant (faktisk, inte falskt eller endast till synes.)
+    - verkligt (faktisk, inte falskt eller endast till synes.)
+    - x1=fakta (faktisk, inte falskt eller endast till synes.)
+  zh:
+    place structure: 在绝对意义上，x1（du'u）是事实/真实
+    notes:
+    - 参见 {datni}, {jitfa}, {sucta}, {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika}, {saske}.
+    glosses:
+    - No glosses.

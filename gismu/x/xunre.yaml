@@ -1,6 +1,82 @@
-Word: xunre
-Rafsi: xun, xu'e
-Definition: x1 is red/crimson/ruddy [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu},
-  {zirpu}.
-Examples: None
+word: xunre
+rafsi:
+- xun
+- xu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is red/crimson/ruddy [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu},
+      {zirpu}.
+    glosses:
+    - red
+  jbo:
+    place structure: x1 skari lo'e ciblu .a lo'e gusni poi traji le ka boxna clani
+      kei le zmadu lei ka'e se viska be lo'e remna
+    notes:
+    - '{skari}; {ciblu}'
+    glosses:
+    - xunre
+  de:
+    place structure: x1 ist rot [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu},
+      {zirpu}.
+    glosses:
+    - rot
+  es:
+    place structure: x1 es rojo/colorado (color)
+    notes:
+    - No notes.
+    glosses:
+    - rojo
+  ru:
+    place structure: x1 — красный/алый (о цвете); x1 краснеет/алеет
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {nukni} (пурпурный), {narju} (оранжевый), {rozgu} (роза),
+      {zirpu} (сиреневый)'
+    glosses:
+    - краснеть
+    - x1=красный
+  en-simple:
+    place structure: x1 is red
+    notes:
+    - No notes.
+    glosses:
+    - a red
+  eo:
+    place structure: x1 estas ruĝa/karmezina [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu},
+      {zirpu}.
+    glosses:
+    - ruĝa
+  hu:
+    place structure: x1 piros/vörös színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu},
+      {zirpu})'
+    glosses:
+    - vörös
+  ja:
+    place structure: x1 は赤色／クリムゾン
+    notes:
+    - ・大意： 赤色 ・読み方： クゥンレ ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni},
+      {narju}, {rozgu}, {zirpu}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest czerwory/purpurowy/rumiany/rudy [przymiotnik koloru].
+    notes:
+    - No notes.
+    glosses:
+    - czerwony
+  zh:
+    place structure: x1是红色的/深红色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu}, {zirpu}.
+    glosses:
+    - No glosses.

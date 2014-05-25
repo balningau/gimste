@@ -1,5 +1,66 @@
-Word: manci
-Rafsi: mac
-Definition: x1 feels wonder/awe/marvels about x2.
-Notes: See also {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}.
-Examples: None
+word: manci
+rafsi:
+- mac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels wonder/awe/marvels about x2.
+    notes:
+    - See also {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}.
+    glosses:
+    - wonder (feeling awe)
+  de:
+    place structure: x1 bewundert/staunt/zeigt Bewunderung über x2
+    notes:
+    - No notes.
+    glosses:
+    - bewundern
+  es:
+    place structure: x1 siente maravilla/admiración hacia x2
+    notes:
+    - Ver también {kucli},  {spaji}.
+    glosses:
+    - maravillarse
+  ru:
+    place structure: x1 изумлен/восхищен/поражен/удивлен x2 (чем); x2 изумляет/восхищает/поражает/удивляет
+      x1
+    notes:
+    - '{cinmo} (эмоциональный), {makfa} (магия), {kucli} (любопытный [испытывающий
+      любопытство]), {spaji} (неожиданность), {cinri} (интересный), {banli} (великий),
+      {sisku} (искать)'
+    glosses:
+    - изумлённый
+    - x2=изумляющий
+  en-simple:
+    place structure: x1 feels awe or wonder about x2
+    notes:
+    - No notes.
+    glosses:
+    - a feeler of awe
+    - x2=something awe-inspiring
+  eo:
+    place structure: x1 miras pri x2
+    notes:
+    - Vidu ankaŭ {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}.
+    glosses:
+    - miri
+  hu:
+    place structure: x1 csodálkozik x2-n
+    notes:
+    - '(Lásd még: {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku})'
+    glosses:
+    - csodálkozik
+  ja:
+    place structure: x1 は x2 に畏敬の念を感じる／驚嘆する；  x1 は x2 を摩訶不思議に思う
+    notes:
+    - ・大意： 畏敬 ・読み方： マンシ  ・語呂合わせ： スーパーマン氏に畏敬 ・関連語： {cinmo}, {makfa}, {kucli}, {spaji},
+      {cinri}, {banli}, {sisku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2感到惊奇/敬畏/惊异
+    notes:
+    - 参见 {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}.
+    glosses:
+    - No glosses.

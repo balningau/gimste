@@ -1,5 +1,65 @@
-Word: marna
-Rafsi: ''
-Definition: x1 is a quantity of hemp/marijuana/jute of species/strain x2.
-Notes: See also {skori}, {tanko}, {sigja}, {xukmi}.
-Examples: None
+word: marna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of hemp/marijuana/jute of species/strain x2.
+    notes:
+    - See also {skori}, {tanko}, {sigja}, {xukmi}.
+    glosses:
+    - hemp
+  de:
+    place structure: x1 ist eine Menge an Hanf/Marihuana/Jute von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Hanf
+  es:
+    place structure: x1 es una cantidad de marihuana/jute/cáñamo de especie/variedad
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - marihuana
+  ru:
+    place structure: x1 — конопля/марихуана вида/сорта x2
+    notes:
+    - '{skori} (веревка), {tanko} (табак), {sigja} (сигарета), {xukmi} (доза [химического
+      вещества])'
+    glosses:
+    - конопля
+  en-simple:
+    place structure: x1 is a quantity of hemp of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of hemp
+    - x2=a species of hemp
+  eo:
+    place structure: x1 estas kvanto da kanabo/juto de speco/raso x2
+    notes:
+    - Vidu ankaŭ {skori}, {tanko}, {sigja}, {xukmi}.
+    glosses:
+    - kanabo
+  hu:
+    place structure: x1 bizonyos mennyiségű kender/marihuána [Cannabaceae család]
+      az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {skori}, {tanko}, {sigja}, {xukmi})'
+    glosses:
+    - kender
+  ja:
+    place structure: x1 は x2 （種類）の麻／大麻／マリファナ
+    notes:
+    - ・大意： 麻 ・読み方： マルナ  ・語呂合わせ： ma(麻), marijuana ・関連語： {skori}, {tanko}, {sigja},
+      {xukmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是大麻/黄麻，属于种类/种族x2
+    notes:
+    - 参见 {skori}, {tanko}, {sigja}, {xukmi}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,78 @@
-Word: gunro
-Rafsi: gur, gu'o
-Definition: x1 rolls/trundles on/against surface x2 rotating on axis/axle x3; x1 is
-  a roller.
-Notes: See also {bolci}, {carna}, {jendu}, {slanu}.
-Examples: None
+word: gunro
+rafsi:
+- gur
+- gu'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 rolls/trundles on/against surface x2 rotating on axis/axle
+      x3; x1 is a roller.
+    notes:
+    - See also {bolci}, {carna}, {jendu}, {slanu}.
+    glosses:
+    - roll (of an object)
+  de:
+    place structure: x1 rollt auf/gegen Oberfläche x2 und rotiert auf Achse x3; x1
+      ist ein Roller
+    notes:
+    - No notes.
+    glosses:
+    - rollen
+  es:
+    place structure: x1 rueda sobre superficie x2 alrededor de eje x3
+    notes:
+    - Ver también {carna}.
+    glosses:
+    - rodar
+  ru:
+    place structure: x1 катится по поверхности x2, вращаясь вокруг оси x3
+    notes:
+    - '{bolci} (шар), {carna} (вращаться), {jendu} (ось), {slanu} (цилиндр)'
+    glosses:
+    - катиться
+    - x1=катящийся
+    - x3=ось вращения
+  en-simple:
+    place structure: x1 rolls on x2 rotating on axis or axle x3
+    notes:
+    - No notes.
+    glosses:
+    - a roller
+    - x2=a rolling surface
+    - x3=an axle of a roller
+  eo:
+    place structure: x1 ruliĝas sur/kontraŭ surfaco x2 turniĝante ĉirkaŭ akso x3;
+      x1 estas rado/rulumaĵo
+    notes:
+    - Vidu ankaŭ {bolci}, {carna}, {jendu}, {slanu}.
+    glosses:
+    - ruliĝi
+  hu:
+    place structure: x1 gurul/gördül x2 felületen, x3 tengelye körül forogva
+    notes:
+    - '(Lásd még: {bolci}, {carna}, {jendu}, {slanu})'
+    glosses:
+    - gurul
+  ja:
+    place structure: x1 は x2 （表面）・ x3 （回転軸）を転がる
+    notes:
+    - ・大意： 転がる ・読み方： グンロ  ・関連語： {bolci}, {carna}, {jendu}, {slanu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 rullar på/mot underlag x2 roterande runt axel x3; x1 är en
+      roller/vält/kavel.
+    notes:
+    - Se även {bolci}, {carna}, {jendu}, {slanu}.
+    glosses:
+    - rulla (på underlag)
+    - x1=rullare
+    - x2=rullningsunderlag
+    - x3=axel (rotationsaxel vid rullning)
+  zh:
+    place structure: x1在表面x2旋转/滚动，转轴为x3；x1在打滚/是滚筒
+    notes:
+    - 参见 {bolci}, {carna}, {jendu}, {slanu}.
+    glosses:
+    - No glosses.

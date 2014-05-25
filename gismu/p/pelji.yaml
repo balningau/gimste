@@ -1,6 +1,64 @@
-Word: pelji
-Rafsi: ple
-Definition: x1 is paper from source x2.
-Notes: Sheet of paper (= {plekarda} if shape is important, {plebo'o}).  See also {karni},
-  {papri}, {prina}.
-Examples: None
+word: pelji
+rafsi:
+- ple
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is paper from source x2.
+    notes:
+    - Sheet of paper (= {plekarda} if shape is important, {plebo'o}).  See also {karni},
+      {papri}, {prina}.
+    glosses:
+    - paper
+  de:
+    place structure: x1 ist Papier aus Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Papier
+  es:
+    place structure: x1 es una cantidad de papel de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - papel
+  ru:
+    place structure: x1 — бумага/картон из источника x2
+    notes:
+    - 'Лист бумаги: {plekarda}, если форма существенна, или {plebo''o} {karni} (журнал),
+      {papri} (страница), {prina} (отпечаток)'
+    glosses:
+    - x1=бумага
+  en-simple:
+    place structure: x1 is paper from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a paper
+    - x2=a source of paper
+  eo:
+    place structure: x1 estas papero el fonto x2
+    notes:
+    - Paperfolio (= plekarda se formo {gravas}, {plebo'o}).  Vidu ankaŭ {karni}, {papri},
+      {prina}.
+    glosses:
+    - papero
+  hu:
+    place structure: x1 bizonyos mennyiségű papír (-ból készült) x2 forrásból
+    notes:
+    - '(Lásd még: {karni}, {papri}, {prina})'
+    glosses:
+    - papír
+  ja:
+    place structure: x1 は x2 （資源）の紙
+    notes:
+    - ・大意： 紙 ・読み方： ペルゥジ  ・語呂合わせ： papel, ji（紙） ・関連語： {karni}, {papri}, {prina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是纸，来源于x2
+    notes:
+    - 纸张= {plekarda}/{plebo'o}；参见 {karni}, {papri}, {prina}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,74 @@
-Word: karbi
-Rafsi: kab
-Definition: x1 [observer] compares x2 with x3 in property x4 (ka), determining comparison
-  x5 (state).
-Notes: See also {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}.
-Examples: None
+word: karbi
+rafsi:
+- kab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [observer] compares x2 with x3 in property x4 (ka), determining
+      comparison x5 (state).
+    notes:
+    - See also {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}.
+    glosses:
+    - compare
+  de:
+    place structure: x1 [Betrachter] vergleicht x2 mit x3 in Eigenschaft x4 und stellt
+      dabei [Ergebnis des Vergleichs] x5 (Zustand) fest
+    notes:
+    - No notes.
+    glosses:
+    - vergleichen
+  es:
+    place structure: x1 compara x2 con x3 en propiedad x4 con resultado/conclusión
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - comparar
+  ru:
+    place structure: x1 (наблюдатель) сравнивает x2 с x3 по свойству x4 ({ka}), приходя
+      к результату/заключению x5 (состояние)
+    notes:
+    - '{klani} (количество), {mapti} (подходить), {sarxe} (гармонировать), {zmadu}
+      (превосходить), {mleca} (меньше), {dunli} (равный)'
+    glosses:
+    - сравнивать
+    - x1=сравнивающий
+  en-simple:
+    place structure: x1 compares x2 with x3 in property x4 determining comparison
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - a comparer
+    - x2=something compared
+    - x3=something compared with
+    - x4=a compared property
+    - x5=a comparison
+  eo:
+    place structure: x1 [observanto] komparas x2-on kun x3 en eco x4 (ka), determinante
+      comparon x5 (stato)
+    notes:
+    - Vidu ankaŭ {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}.
+    glosses:
+    - kompari
+  hu:
+    place structure: x1 megfigyelő összehasonlítja x2-t és x3-t x4 tulajdonságuk szerint,
+      x5 eredménnyel
+    notes:
+    - '(Lásd még: {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli})'
+    glosses:
+    - összehasonlít
+  ja:
+    place structure: x1 （者）は x2 と x3 を x4 （性質）について比較する
+    notes:
+    - 比較の結果／結論をx5として追加してもよい。 ・大意： 比較 ・読み方： カルビ  ・語呂合わせ： カルビ比較 ・関連語： {klani}, {mapti},
+      {sarxe}, {zmadu}, {mleca}, {dunli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（观察者）比较x2与x3，在性质x4上（ka），以比较关系x5（状态）来说
+    notes:
+    - 参见 {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}.
+    glosses:
+    - No glosses.

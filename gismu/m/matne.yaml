@@ -1,7 +1,76 @@
-Word: matne
-Rafsi: ''
-Definition: x1 is a quantity of/contains butter/oleo/margarine/shortening from source
-  x2.
-Notes: (adjective:) $x_1$ is buttery; an edible fat, solid but spreadable at normal
-  temperatures; dairy butter (= {ladmatne}).  See also {grasu}, {kruji}.
-Examples: None
+word: matne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains butter/oleo/margarine/shortening
+      from source x2.
+    notes:
+    - (adjective:) x1 is buttery; an edible fat, solid but spreadable at normal temperatures;
+      dairy butter (= {ladmatne}).  See also {grasu}, {kruji}.
+    glosses:
+    - butter
+  de:
+    place structure: x1 ist eine Menge an/enthält Butter/Margarine/Backfett von Quelle
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Butter
+  es:
+    place structure: x1 es una cantidad de mantequilla/manteca/óleo/margarina/grasa
+      de origen x2
+    notes:
+    - Ver también {grasu}.
+    glosses:
+    - mantequilla
+  ru:
+    place structure: x1 — масло/маргарин
+    notes:
+    - 'Съедобный жир, твердый, но размазываемый при нормальных температурах; сливочное
+      масло: {ladmatne} {grasu} (жир), {kruji} (крем)'
+    glosses:
+    - x1=масло
+  en-simple:
+    place structure: x1 is a quantity of butter from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of butter
+    - x2=a source of butter
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el butero/margarino el fonto
+      x2
+    notes:
+    - Manĝebla graso, solida sed ŝmirebla je ordinaraj temperaturoj; elmilka butero
+      (= {ladmatne}).  Vidu ankaŭ {grasu}, {kruji}.
+    glosses:
+    - butero
+  hu:
+    place structure: x1 bizonyos mennyiségű vaj/margarin/növényi olaj (-at tartalmaz/-ból
+      készült)
+    notes:
+    - '(Lásd még: {grasu}, {kruji})'
+    glosses:
+    - vaj
+  ja:
+    place structure: x1 は x2 （原料）のバター／マーガリン／ショートニング（ラード）
+    notes:
+    - ・大意： バター ・読み方： マトネ  ・語呂合わせ： バター待ってね ・関連語： {grasu}, {kruji}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er/inneholder smør/margarin fra kilde x2
+    notes:
+    - No notes.
+    glosses:
+    - smør
+    - x2=smørkilde
+  zh:
+    place structure: x1是黄油/人造奶油/起酥油，来源于x2
+    notes:
+    - 可食用的固体脂肪，在常温下容易涂抹开； 乳制品奶油= {ladmatne}；参见 {grasu}, {kruji}.
+    glosses:
+    - No glosses.

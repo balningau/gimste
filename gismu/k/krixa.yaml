@@ -1,5 +1,71 @@
-Word: krixa
-Rafsi: kix, ki'a
-Definition: x1 cries out/yells/howls sound x2; x1 is a crier.
-Notes: See also {klaku}, {bacru}.
-Examples: None
+word: krixa
+rafsi:
+- kix
+- ki'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 cries out/yells/howls sound x2; x1 is a crier.
+    notes:
+    - See also {klaku}, {bacru}.
+    glosses:
+    - cry out
+  jbo:
+    place structure: x1 bacru x2 noi cladu
+    notes:
+    - '{cladu}; {bacru}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 schreit/ruft/brüllt/kreischt Geräusch x2; x1 ist ein Ausrufer;
+      x1 heult auf
+    notes:
+    - No notes.
+    glosses:
+    - schreien
+  es:
+    place structure: x1 grita sonido/alarido x2
+    notes:
+    - Ver también {bacru}.
+    glosses:
+    - gritar
+  ru:
+    place structure: x1 кричит/ревет/рычит/воет/стонет, производя звук x2
+    notes:
+    - '{klaku} (плакать), {bacru} (произносить)'
+    glosses:
+    - стонать
+    - x1=стонущий
+    - x2=стон
+  en-simple:
+    place structure: x1 yells or cries out x2
+    notes:
+    - No notes.
+    glosses:
+    - a yeller
+    - x2=a yelled sound
+  eo:
+    place structure: x1 krias/ululas sonon x2; x1 estas krianto
+    notes:
+    - Vidu ankaŭ {klaku}, {bacru}.
+    glosses:
+    - krii
+  hu:
+    place structure: x1 felkiált/felüvölt x2 hangon
+    notes:
+    - '(Lásd még: {klaku}, {bacru})'
+    glosses:
+    - felkiált
+  ja:
+    place structure: x1 は x2 （音）を叫ぶ
+    notes:
+    - ・大意： 叫ぶ ・読み方： クリクァ  ・関連語： {klaku}, {bacru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1哭/嚎/尖叫出声音x2
+    notes:
+    - 参见 {klaku}, {bacru}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,89 @@
-Word: cecla
-Rafsi: cel, ce'a
-Definition: x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion].
-Notes: 'Also: $x_1$ is a gun/launcher/cannon; $x_1$ hurls/throws/casts (more general
-  than renro in that propulsion need not be internal to $x_1$).  See also {renro},
-  {danti}, {jakne}, {jbama}, {spoja}.'
-Examples: None
+word: cecla
+rafsi:
+- cel
+- ce'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 launches/fires/shoots projectile/missile x2, propelled by
+      x3 [propellant/propulsion].
+    notes:
+    - 'Also: x1 is a gun/launcher/cannon; x1 hurls/throws/casts (more general than
+      renro in that propulsion need not be internal to x1).  See also {renro}, {danti},
+      {jakne}, {jbama}, {spoja}.'
+    glosses:
+    - launcher
+  de:
+    place structure: x1 schießt/feuert Geschoss/Projektil/Rakete/Flugkörper x2 ab
+      mit Antrieb x3 [Treibmittel/Treibgas/Antrieb]
+    notes:
+    - No notes.
+    glosses:
+    - abschießen
+  es:
+    place structure: x1 es un cañón/lanzador/pistola que dispara/lanza proyectil/misil
+      x2 propelido/impulsado por x3
+    notes:
+    - Ver también {renro},  {danti}.
+    glosses:
+    - disparar
+  ru:
+    place structure: x1 выстреливает/запускает снаряд/ракету x2, приводимую в движение
+      x3 (чем)
+    notes:
+    - 'Также: x1 — ружье, пушка, пусковая установка и т.п.; Также: x1 швыряет/мечет;
+      шире, чем {renro}: источник движения не обязательно x1 {renro} (швырять), {danti}
+      (снаряд [метательный]), {jakne} (ракета), {jbama} (бомба), {spoja} (взрываться)'
+    glosses:
+    - выстреливать
+    - x1=выстреливающий
+    - x2=снаряд
+  en-simple:
+    place structure: x1 launches projectile or missile x2 propelled by x3
+    notes:
+    - No notes.
+    glosses:
+    - a launcher
+    - x2=a launcher's projectile
+    - x3=a launcher's propulsion
+  eo:
+    place structure: x1 lanĉas/pafas pafaĵon/ĵetaĵon x2, pelita de x3
+    notes:
+    - 'Ankaŭ: x1 estas pafilo/lanĉilo/ĵetilo/kanono; ĵeti (pli ĝenerala ol renro en
+      tio, ke pelo ne nepre estas interna al x1).  Vidu ankaŭ {renro}, {danti}, {jakne},
+      {jbama}, {spoja}.'
+    glosses:
+    - lanĉi
+  hu:
+    place structure: x1 kilövi x2 lövedéket/rakétát/egyéb tárgyat x3 meghajtással
+    notes:
+    - '(Lásd még: {renro}, {danti}, {jakne}, {jbama}, {spoja})'
+    glosses:
+    - kilő
+  ja:
+    place structure: x1 は x2 を x3 （原動力）で発射する;
+    notes:
+    - 「銃」「大砲」「ミサイル」など。 ・大意： 発射する ・読み方： シェシルァ  ・語呂合わせ： ce(射), launch  ・関連語： {renro},
+      {danti}, {jakne}, {jbama}, {spoja}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 skjuter (iväg)/avfyrar projektil/missil x2, vilken drivs med  x3
+      [drivkraft/drivmedel].
+    notes:
+    - x1 är ett eldvapen/avfyrningsanordning/kanon; x1 slungar iväg/kastar (mer generellt
+      än {renro} på så sätt att drivkraften inte måste komma från x1).
+    glosses:
+    - avfyra
+    - skjuta (avfyra projektil)
+    - x1=avfyrningsanordning
+    - x2=avfyrad (projektil/missil)
+    - x3=projektildrivkraft
+  zh:
+    place structure: x1发射/射击导弹/火箭/子弹x2，推进动力是/来自x3
+    notes:
+    - x1指枪/炮/发射器；x1 发射/投掷（推进力不必限定来自物体内部，比较{renro}）；参见 {renro}, {danti}, {jakne}, {jbama},
+      {spoja}.
+    glosses:
+    - No glosses.

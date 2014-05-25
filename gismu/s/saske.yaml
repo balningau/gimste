@@ -1,8 +1,78 @@
-Word: saske
-Rafsi: ske
-Definition: x1 (mass of facts) is science of/about subject matter x2 based on methodology
-  x3.
-Notes: Not limited to science as derived by the scientific method, but pertaining
-  to any body of usually-coherent knowledge garnered/gathered/assembled by a consistent
-  methodology.  See also {datni}, {fatci}, {djuno}, {cipra}, {pensi}, {jimpe}.
-Examples: None
+word: saske
+rafsi:
+- ske
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass of facts) is science of/about subject matter x2 based
+      on methodology x3.
+    notes:
+    - Not limited to science as derived by the scientific method, but pertaining to
+      any body of usually-coherent knowledge garnered/gathered/assembled by a consistent
+      methodology.  See also {datni}, {fatci}, {djuno}, {cipra}, {pensi}, {jimpe}.
+    glosses:
+    - lore (body of knowledge)
+    - science
+  de:
+    place structure: x1 (Masse an Tatsachen) ist eine Wissenschaft über/von Thematik/Sachgebiet/behandelten
+      Gegenstand x2 und basiert auf Methodik x3
+    notes:
+    - No notes.
+    glosses:
+    - Wissenschaft
+  es:
+    place structure: x1 es ciencia sobre tema/tópico x2 basada en metodología x3
+    notes:
+    - No notes.
+    glosses:
+    - ciencia
+  ru:
+    place structure: x1 — наука/знание/учение о предмете x2, основанная на методологии
+      x3
+    notes:
+    - Относится не только к знаниям, полученным научным методом, но также к любому
+      упорядоченному запасу знаний/сведений, собранных/полученных по единообразной
+      методологии {datni} (данные [информация]), {fatci} (факт), {djuno} (знать),
+      {cipra} (проверка), {pensi} (думать), {jimpe} (понимать)
+    glosses:
+    - x1=наука
+    - x2=предмет науки
+    - x3=методология
+  en-simple:
+    place structure: x1 is science about x2 based on methodology x3
+    notes:
+    - No notes.
+    glosses:
+    - a science
+    - x2=a subject of a science
+    - x3=a methodology of a science
+  eo:
+    place structure: x1 (faktaro) estas scienco pri temo x2 bazita sur metodologio
+      x3
+    notes:
+    - Ne limigita al scienco laŭ scienca metodo, sed rilata al iu ajn korpo de kohera
+      scio kolektita per konsekvenca metodologio.  Vidu ankaŭ {datni}, {fatci}, {djuno},
+      {cipra}, {pensi}, {jimpe}.
+    glosses:
+    - scienco
+  hu:
+    place structure: x1 a tudománya / összefüggő tudásanyaga x2 tárgykörnek, x3 módszertannal
+    notes:
+    - '(Lásd még: {datni}, {fatci}, {djuno}, {cipra}, {pensi}, {jimpe})'
+    glosses:
+    - tudomány
+  ja:
+    place structure: x1 （事実群）は x2 （題目）・ x3 （方法論）の科学的知識
+    notes:
+    - 一貫した方法論によって得られる体系的知識全般。 ・大意： 科学 ・読み方： サスケ  ・語呂合わせ： 科学のサスケ ・関連語： {datni}, {fatci},
+      {djuno}, {cipra}, {pensi}, {jimpe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事实）是关于主题x2的科学 ，基于方法论x3
+    notes:
+    - 不限于基于所谓科学方法得到的科学，而包括其他经过一致的方法检验过的知识；参见 {datni}, {fatci}, {djuno}, {cipra}, {pensi},
+      {jimpe}.
+    glosses:
+    - No glosses.

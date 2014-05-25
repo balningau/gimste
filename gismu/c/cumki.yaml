@@ -1,6 +1,80 @@
-Word: cumki
-Rafsi: cum, cu'i
-Definition: x1 (event/state/property) is possible under conditions x2; x1 may/might
-  occur; x1 is a maybe.
-Notes: Also possibility.  See also {lakne}.
-Examples: None
+word: cumki
+rafsi:
+- cum
+- cu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state/property) is possible under conditions x2; x1
+      may/might occur; x1 is a maybe.
+    notes:
+    - Also possibility.  See also {lakne}.
+    glosses:
+    - possible
+  de:
+    place structure: x1 (Ereignis/Zustand/Eigenschaft) ist unter Umständen x2 möglich;
+      x1 kann vorkommen; x1 ist möglich
+    notes:
+    - No notes.
+    glosses:
+    - möglich
+  es:
+    place structure: x1 (evento) es posible/puede ser/tal vez ocurra bajo condiciones
+      x2
+    notes:
+    - Ver también {lakne}.
+    glosses:
+    - posible
+  ru:
+    place structure: x1 (событие/состояние/свойство) возможно при/в условиях x2; x1
+      может произойти
+    notes:
+    - 'Также: x1 — возможность {lakne} (вероятный), {cumki} (возможный)'
+    glosses:
+    - возможный
+  en-simple:
+    place structure: x1 is possible
+    notes:
+    - See {fau}
+    glosses:
+    - possible
+    - x1=something which is possible
+    - x2=a condition for something being possible
+  eo:
+    place structure: x1 (okazo/stato/eco) estas ebla sub kondiĉoj x2; x1 povas/povus
+      okazi
+    notes:
+    - Vidu ankaŭ {lakne}, {cumki}.
+    glosses:
+    - ebla
+  hu:
+    place structure: x1 lehetséges x2 körülmények között
+    notes:
+    - 'Továbbá: lehetőség (Lásd még: {lakne}, {cumki})'
+    glosses:
+    - lehetséges
+  ja:
+    place structure: x1 （事）は x2 （条件）においてありえる／可能；  x1 は可能性
+    notes:
+    - 「traji cumki (cumrai)／できるだけ」 ・大意： ありえる ・読み方： シュムキ  ・関連語： {lakne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är möjlig under omständigheter/villkor x2; x1 kan möjligen/möjligtvs
+      inträffa; x1 är ett kanske.
+    notes:
+    - No notes.
+    glosses:
+    - kanske
+    - möjlig
+    - möjligen
+    - möjligtvis
+    - x1=möjlighet
+    - x2=möjlig under villkor
+  zh:
+    place structure: x1（事件/状态/性质）是可能的，在条件x2下
+    notes:
+    - 也指：可能发生的事；参见 {lakne}.
+    glosses:
+    - No glosses.

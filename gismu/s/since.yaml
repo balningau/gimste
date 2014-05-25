@@ -1,5 +1,61 @@
-Word: since
-Rafsi: ''
-Definition: x1 is a snake/serpent of species/breed x2.
-Notes: See also {curnu}, {danlu}, {respa}, {vindu}.
-Examples: None
+word: since
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a snake/serpent of species/breed x2.
+    notes:
+    - See also {curnu}, {danlu}, {respa}, {vindu}.
+    glosses:
+    - snake
+  de:
+    place structure: x1 ist eine Schlange von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Schlange
+  es:
+    place structure: x1 es una víbora/serpiente de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - víbora
+  ru:
+    place structure: x1 — змея вида/разновидности x2
+    notes:
+    - '{curnu} (червь), {danlu} (животное), {respa} (рептилия), {vindu} (ядовитый)'
+    glosses:
+    - змея
+  en-simple:
+    place structure: x1 is a snake of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a snake
+    - x2=a species of snake
+  eo:
+    place structure: x1 estas serpento de speco/raso x2
+    notes:
+    - Vidu ankaŭ {curnu}, {danlu}, {respa}, {vindu}.
+    glosses:
+    - serpento
+  hu:
+    place structure: x1 egy kígyó [Serpentes alrend] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {curnu}, {danlu}, {respa}, {vindu})'
+    glosses:
+    - kígyó
+  ja:
+    place structure: x1 は x2 （種類）のヘビ亜目動物（コブラ／ボア／ニシキヘビ等）
+    notes:
+    - ・大意： 蛇 ・読み方： スィンシェ  ・関連語： {curnu}, {danlu}, {respa}, {vindu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蛇，属于品种/种类x2
+    notes:
+    - 参见 {curnu}, {danlu}, {respa}, {vindu}.
+    glosses:
+    - No glosses.

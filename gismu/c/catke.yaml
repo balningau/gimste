@@ -1,6 +1,80 @@
-Word: catke
-Rafsi: ca'e
-Definition: x1 [agent] shoves/pushes x2 at locus x3.
-Notes: Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force,
-  lacpu)
-Examples: None
+word: catke
+rafsi:
+- ca'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [agent] shoves/pushes x2 at locus x3.
+    notes:
+    - Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force,
+      lacpu)
+    glosses:
+    - push (shove)
+    - shove
+  de:
+    place structure: x1 [Handelnder] schiebt/drückt/stößt x2 an Stelle x3
+    notes:
+    - No notes.
+    glosses:
+    - schieben
+  es:
+    place structure: x1 empuja a x2 en parte x3
+    notes:
+    - Ver también {lacpu}.
+    glosses:
+    - empujar
+  ru:
+    place structure: x1 толкает x2 (кого/что) в участок x3
+    notes:
+    - 'Приводит в движение толчком: {ca''ermuvgau} {danre} (давить) — при отсутствии
+      деятеля, {lacpu} (тянуть)'
+    glosses:
+    - толкать
+    - x2=толкаемый
+  en-simple:
+    place structure: x1 shoves or pushes x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a shover
+    - x2=something shoved
+    - x3=a location of a shove
+  eo:
+    place structure: x1 [aganto] shovas/puŝas x2-on je loko x3
+    notes:
+    - Movi per puŝo/ŝovo (= {ca'ermuvgau}).  Vidu ankaŭ danre por neagenta {forto},
+      {lacpu}.
+    glosses:
+    - ŝovi
+  hu:
+    place structure: x1 [mint cselekvő] meglöki x2-t x3 ponton
+    notes:
+    - '(Lásd még: {danre}, {lacpu})'
+    glosses:
+    - meglök
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）を押す
+    notes:
+    - ・大意： 押す ・読み方： シャトケ  ・語呂合わせ： ＜シャトー見学＞, shove,tuei(推) ・関連語： {danre}, {lacpu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 puffar/knuffar/stöter/trycker/pressar x2 på ställe x3.
+    notes:
+    - No notes.
+    glosses:
+    - knuffa
+    - pressa (utöva tryck (agent))
+    - puffa (knuffa)
+    - stöta (ge en stöt)
+    - trycka (utöva tryck (agent))
+    - x1=knuffande person
+    - x2=knuffad
+    - x3=ställe ((på kropp) där x2 blivit knuffad)
+  zh:
+    place structure: x1推/挤x2上某部位x3
+    notes:
+    - 推动/推移={ca'ermuvgau}；参见 {danre}, {lacpu}
+    glosses:
+    - No glosses.

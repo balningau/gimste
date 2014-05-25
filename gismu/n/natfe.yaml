@@ -1,7 +1,76 @@
-Word: natfe
-Rafsi: naf, na'e
-Definition: x1 (du'u) contradicts/denies/refutes/negates x2 (du'u) under rules/logic
-  x3.
-Notes: Also exception (= {nafmupli}); agentive contradict/deny (= {nafxu'a} or {tolxu'a}).  See
-  also {nibli}, {tugni}, {zanru}, {xusra}.
-Examples: None
+word: natfe
+rafsi:
+- naf
+- na'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (du'u) contradicts/denies/refutes/negates x2 (du'u) under
+      rules/logic x3.
+    notes:
+    - Also exception (= {nafmupli}); agentive contradict/deny (= {nafxu'a} or {tolxu'a}).  See
+      also {nibli}, {tugni}, {zanru}, {xusra}.
+    glosses:
+    - contradict (negate)
+    - deny
+    - refute (negate)
+  de:
+    place structure: x1 (du'u) widerspricht/negiert/steht im Widerspruch zu/ist unvereinbar
+      mit x2 (du'u) unter Regeln/Logik x3
+    notes:
+    - No notes.
+    glosses:
+    - widersprechen
+  es:
+    place structure: x1 (du'u) contradice/niega/refuta x2 (du'u) según reglas/lógica
+      x3
+    notes:
+    - Ver también {nibli},  {kanxe},  {vlina}.
+    glosses:
+    - negación
+  ru:
+    place structure: x1 ({du'u}) отрицает/противоречит/служит опровержением x2 ({du'u})
+      в системе правил/логике x3
+    notes:
+    - 'Также: исключение/контрпример: {nafmupli}; деятельное отрицание: x1 отрицает/опровергает:
+      {nafxu''a} или {tolxu''a} {nibli} (влечь [логически]), {tugni} (соглашаться),
+      {zanru} (одобрять), {xusra} (утверждать)'
+    glosses:
+    - x2=противоречащее
+  en-simple:
+    place structure: x1 contradicts or denies x2 under logic x3
+    notes:
+    - No notes.
+    glosses:
+    - a contradicter
+    - x2=something contradicted
+    - x3=a logic used to contradict
+  eo:
+    place structure: x1 (du'u) kontraŭdiras/negas/refutas/neas x2-on (du'u) laŭ reguloj/logiko
+      x3
+    notes:
+    - 'Ankaŭ: escepto (= {nafmupli}); agenta kontraŭdiro/neo (= nafxu''a aŭ tolxu''a).  Vidu
+      ankaŭ {nibli}, {tugni}, {zanru}, {xusra}.'
+    glosses:
+    - negi
+  hu:
+    place structure: x1 tény cáfolja/tagadja x2 tényt x3 logika szerint
+    notes:
+    - '(Lásd még: {nibli}, {tugni}, {zanru}, {xusra})'
+    glosses:
+    - ellentmond
+  ja:
+    place structure: x1 （命題）は x2 （命題）と矛盾する／を否定する
+    notes:
+    - 人そのものによる意識的否定ではなく、或る命題が別な命題とかみ合わないこと。拡張すれば「例外」も。 ・大意： 否定 ・読み方： ナトフェ  ・関連語： {nibli},
+      {tugni}, {zanru}, {xusra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（du'u）否定/驳斥x2（du'u），基于规则/逻辑x3
+    notes:
+    - 例外= {nafmupli}；（施事的）否定/驳斥/反对={nafxu'a}/{tolxu'a}；参见 {nibli}, {tugni}, {zanru},
+      {xusra}.
+    glosses:
+    - No glosses.

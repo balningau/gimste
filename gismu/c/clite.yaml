@@ -1,6 +1,75 @@
-Word: clite
-Rafsi: lit
-Definition: x1 is polite/courteous/civil in matter x2 according to standard/custom
-  x3.
-Notes: Also formal, ritual.  See also {ritli}.
-Examples: None
+word: clite
+rafsi:
+- lit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is polite/courteous/civil in matter x2 according to standard/custom
+      x3.
+    notes:
+    - Also formal, ritual.  See also {ritli}.
+    glosses:
+    - polite
+  de:
+    place structure: x1 ist höflich/zuvorkommend in Angelegenheit x2 gemäß Standard/Gebrauch/Sitte
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - höflich
+  es:
+    place structure: x1 es cortés/amable/afable/educado en asunto x2 según estándar/costumbre
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cortés
+  ru:
+    place structure: x1 проявляет вежливость/хорошие манеры/любезность/учтивость/культурность
+      в ситуации x2 согласно обычаям/культуре x3
+    notes:
+    - 'Также: формальный, ритуальный, церемонный {ritli} (ритуал)'
+    glosses:
+    - вежливый
+  en-simple:
+    place structure: x1 is polite in matter x2 according to custom x3
+    notes:
+    - No notes.
+    glosses:
+    - something polite
+    - x2=a politely handled matter
+    - x3=a standard for politeness
+  eo:
+    place structure: x1 estas ĝentila pri afero x2 laŭ normo/kutimo x3
+    notes:
+    - 'Ankaŭ: formala, rita.  Vidu ankaŭ {ritli}.'
+    glosses:
+    - ĝentila
+  hu:
+    place structure: x1 udvarias/előzékeny/jólnevelt x2 ügyben, x3 mérce/szokás szerint
+    notes:
+    - '(Lásd még: {ritli})'
+    glosses:
+    - udvarias
+  ja:
+    place structure: x1 は x2 （事）に際し、 x3 （照合枠）において礼儀正しい／行儀が良い
+    notes:
+    - 「形式ばった」「かしこまった」も。 ・大意： 礼儀正しい ・読み方： シルィテ  ・語呂合わせ： 知りてー ・関連語： {ritli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är artig/hövlig/belevad vad gäller x2 enligt standard/sedvänja
+      x3.
+    notes:
+    - Även formell/rituell.
+    glosses:
+    - artig
+    - belevad
+    - hövlig
+  zh:
+    place structure: x1是有礼貌的，在事件x2中，依据标准/习俗x3
+    notes:
+    - 也指：正式的，礼节性的；参见 {ritli}.
+    glosses:
+    - No glosses.

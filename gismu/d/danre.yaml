@@ -1,6 +1,75 @@
-Word: danre
-Rafsi: da'e
-Definition: x1 (force) puts pressure on/presses/applies force to x2.
-Notes: Agentive press/depress (= {da'ergau}, {da'erzu'e}).  See also {catke}, {bapli},
-  {prina}, {tinsa}.
-Examples: None
+word: danre
+rafsi:
+- da'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (force) puts pressure on/presses/applies force to x2.
+    notes:
+    - Agentive press/depress (= {da'ergau}, {da'erzu'e}).  See also {catke}, {bapli},
+      {prina}, {tinsa}.
+    glosses:
+    - press (apply pressure)
+    - pressure
+  de:
+    place structure: x1 (Kraft) übt Druck auf x2 aus/drückt (auf) x2
+    notes:
+    - No notes.
+    glosses:
+    - Druck
+  es:
+    place structure: x1 presiona/aprieta x2
+    notes:
+    - Ver también {catke}.
+    glosses:
+    - presionar
+  ru:
+    place structure: x1 (сила) давит/жмет на x2
+    notes:
+    - 'Также: сила x1 действует на x2; x1 нажимает/надавливает: {da''ergau}, {da''erzu''e}
+      {catke} (толкать), {bapli} (заставлять), {prina} (отпечаток), {tinsa} (жесткий)'
+    glosses:
+    - давить
+    - x1=давящий
+  en-simple:
+    place structure: x1 puts pressure on or applies force to x2
+    notes:
+    - No notes.
+    glosses:
+    - something applying pressure
+    - x2=something with a pressure applied
+  eo:
+    place structure: x1 (forto) premas x2
+    notes:
+    - Age premi/depremi (= {da'ergau}, {da'erzu'e}).  Vidu ankaŭ {catke}, {bapli},
+      {prina}, {tinsa}.
+    glosses:
+    - premi
+  hu:
+    place structure: x1 erő nyomja/tolja x2-t
+    notes:
+    - '(Lásd még: {catke}, {bapli}, {prina}, {tinsa})'
+    glosses:
+    - nyom
+  ja:
+    place structure: x1 （力）は x2 を圧する；  x1 は圧力
+    notes:
+    - ・大意： 圧力 ・読み方： ダンレ  ・関連語： {catke}, {bapli}, {prina}, {tinsa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (kraft) applicerar tryck på/pressar på x2.
+    notes:
+    - Agentiv pressa (={da'ergau}, {da'erzu'e}).
+    glosses:
+    - pressa (applicera tryck)
+    - trycka (applicera tryck)
+    - x1=tryck
+    - x2=pressad (utsatt för tryck)
+  zh:
+    place structure: 力x1施加在/按压在x2上
+    notes:
+    - 施事动词的按/压= {da'ergau}/{da'erzu'e}；参见 {catke}, {bapli}, {prina}, {tinsa}.
+    glosses:
+    - No glosses.

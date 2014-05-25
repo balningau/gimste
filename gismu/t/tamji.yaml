@@ -1,7 +1,69 @@
-Word: tamji
-Rafsi: taj
-Definition: x1 is a/the thumb/big toe [body-part] on limb x2 of x3; [metaphor based
-  on relative shape].
-Notes: Thumb (specifically the hand = {xantamji}), big toe (= {jmatamji}).  See also
-  {degji}, {tance}, {xance}, {jamfu}.
-Examples: None
+word: tamji
+rafsi:
+- taj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the thumb/big toe [body-part] on limb x2 of x3; [metaphor
+      based on relative shape].
+    notes:
+    - Thumb (specifically the hand = {xantamji}), big toe (= {jmatamji}).  See also
+      {degji}, {tance}, {xance}, {jamfu}.
+    glosses:
+    - thumb
+  de:
+    place structure: x1 ist ein/der Daumen/große Zeh [Körperteil] an Glied x2 von
+      x3; [übertragener Sinn basiert auf relative Form]
+    notes:
+    - No notes.
+    glosses:
+    - Daumen
+  es:
+    place structure: x1 es un pulgar/dedo gordo (parte del cuerpo) de x2
+    notes:
+    - Ver también {degji}.
+    glosses:
+    - pulgar
+  ru:
+    place structure: x1 — большой палец (часть тела) конечности x2 тела x3
+    notes:
+    - 'Большой палец руки: {xantamji}, большой палец ноги: {jmatamji} {degji} (палец),
+      {tance} (язык [часть тела]), {xance} (кисть [руки]), {jamfu} (ступня)'
+    glosses:
+    - большой палец
+  en-simple:
+    place structure: x1 is a thumb or big toe on limb x2 of x3
+    notes:
+    - No notes.
+    glosses:
+    - a thumb
+    - x2=a limb with a thumb
+    - x3=something with a thumb
+  eo:
+    place structure: x1 estas dikfingro [korpoparto] en membro x2 de x3; [metaforo
+      bazita sur relativa formo]
+    notes:
+    - Polekso (specife mana = xantamji), pieda dikfingro (= {jmatamji}).  Vidu ankaŭ
+      {degji}, {tance}, {xance}, {jamfu}.
+    glosses:
+    - dikfingro
+  hu:
+    place structure: x1 egy/a hüvelykujj x2 végtagján x3-nak
+    notes:
+    - '(Lásd még: {degji}, {tance}, {xance}, {jamfu})'
+    glosses:
+    - hüvelykujj
+  ja:
+    place structure: x1 は x2 （肢）・ x3 （本体）の親指
+    notes:
+    - ・大意： 親指 ・読み方： タムジ  ・関連語： {xantamji}, {jmatamji}; {degji}, {tance}, {xance},
+      {jamfu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是拇指/大脚趾，长在肢体x2上，属于人/动物x3
+    notes:
+    - 拇指={xantamji}；大脚趾={jmatamji}；参见 {degji}, {tance}, {xance}, {jamfu}.
+    glosses:
+    - No glosses.

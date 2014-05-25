@@ -1,6 +1,75 @@
-Word: cigla
-Rafsi: cig
-Definition: x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion
-  of x1.
-Notes: Secretion (= {selcigla}).  See also {vikmi}, {xasne}.
-Examples: None
+word: cigla
+rafsi:
+- cig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the gland [body-part] secreting x2, of body x3; x2 is
+      a secretion of x1.
+    notes:
+    - Secretion (= {selcigla}).  See also {vikmi}, {xasne}.
+    glosses:
+    - gland
+  de:
+    place structure: x1 ist eine/die Drüse [Körperteil], die x2 absondert/ausscheidet,
+      in Körper x3; x2 ist ein/das Sekret von x1
+    notes:
+    - No notes.
+    glosses:
+    - Drüse
+  es:
+    place structure: x1 es una glándula (parte del cuerpo) que segrega x2, de cuerpo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - glándula
+  ru:
+    place structure: x1 — железа (часть тела), выделяющая x2 и принадлежащая телу
+      x3; x2 — секрет/выделение железы x1
+    notes:
+    - 'Секрет/выделение: {selcigla} {vikmi} (испражняться), {xasne} (пот)'
+    glosses:
+    - железа
+  en-simple:
+    place structure: x1 is a gland secreting x2 of body x3
+    notes:
+    - No notes.
+    glosses:
+    - a gland
+    - x2=a gland's secretion
+    - x3=something with a gland
+  eo:
+    place structure: x1 estas glando [korpoparto] sekrecianta x2-on, de korpo x3;
+      x2 estas secrecio de x1
+    notes:
+    - Sekrecio (= {selcigla}).  Vidu ankaŭ {vikmi}, {xasne}.
+    glosses:
+    - glando
+  hu:
+    place structure: x1 egy mirigy, amely x2 anyagot választ ki x3 testében
+    notes:
+    - '(Lásd még: {vikmi}, {xasne})'
+    glosses:
+    - mirigy
+  ja:
+    place structure: x1 は x2 （分泌物）・ x3 （本体）の分泌腺；  x1 は x2 を分泌する
+    notes:
+    - ・大意： 分泌 ・読み方： シグルァ ・語呂合わせ： まっしぐら ・関連語： {vikmi}, {xasne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en körtel som utsöndrar sekret x2 i kropp/organism x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=körtel
+    - x2=sekret (utsöndring)
+    - x3=körtelförsedd (organism/kropp)
+  zh:
+    place structure: x1是腺/腺体，分泌x2，属于身体x3；x2是腺体x1的分泌物
+    notes:
+    - 分泌物={selcigla}；参见 {vikmi}, {xasne}.
+    glosses:
+    - No glosses.

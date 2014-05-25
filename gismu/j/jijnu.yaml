@@ -1,6 +1,79 @@
-Word: jijnu
-Rafsi: jij
-Definition: x1 (person) intuits x2 (du'u) about subject x3; [epistemology].
-Notes: Words usable for epistemology typically have a du'u place.  See also {djuno},
-  {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}.
-Examples: None
+word: jijnu
+rafsi:
+- jij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) intuits x2 (du'u) about subject x3; [epistemology].
+    notes:
+    - Words usable for epistemology typically have a du'u place.  See also {djuno},
+      {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}.
+    glosses:
+    - intuit
+  de:
+    place structure: x1 (Person) weiß x2 (du'u) durch Intuition über Thema x3
+    notes:
+    - No notes.
+    glosses:
+    - intuitiv wissen
+  es:
+    place structure: x1 intuye que x2 (du'u) es cierto acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - intuir
+  ru:
+    place structure: 'x1 интуитивно/внутренним чутьем постигает x2 (факт: {du''u})
+      о предмете x3'
+    notes:
+    - 'Также: интуиция, интуитивный; слова, описывающие эпистемологию, обычно имеют
+      место типа {du''u} {djuno} (знать), {facki} (открывать [узнавать, находить]),
+      {jimpe} (понимать), {jinvi} (считать [полагать]), {nabmi} (проблема), {pensi}
+      (думать), {sidbo} (концепция), {smadi} (догадываться)'
+    glosses:
+    - интуитивно постигать
+    - x1=интуитивно постигающий
+    - x2=интуитивно постигаемый
+  en-simple:
+    place structure: x1 intuits x2 about subject x3
+    notes:
+    - No notes.
+    glosses:
+    - an intuiter
+    - x2=something intuited
+    - x3=an intuition subject
+  eo:
+    place structure: x1 (homo) intuicias/intuas x2-on (du'u) pri temo x3; [epistemologio]
+    notes:
+    - Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton.  Vidu ankaŭ {djuno},
+      {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}.
+    glosses:
+    - intuicii
+  hu:
+    place structure: x1 ösztönösen megérzi x2 tényt x3-ról
+    notes:
+    - '(Lásd még: {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi})'
+    glosses:
+    - intuíció
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について直感する／勘づく
+    notes:
+    - 「虫の知らせ」も。 ・大意： 直感 ・読み方： ジジヌ  ・関連語： {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi},
+      {pensi}, {sidbo}, {smadi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (person) uppfattar/får kännedom intuitivt x2 (du'u) om ämne
+      x3; [epistemologi].
+    notes:
+    - No notes.
+    glosses:
+    - uppfatta intuitivt
+  zh:
+    place structure: x1凭直觉感受到/凭直觉知道x2（du'u），关于主题x3
+    notes:
+    - 关于认知论的词都含有du'u位；参见 {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo},
+      {smadi}.
+    glosses:
+    - No glosses.

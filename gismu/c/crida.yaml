@@ -1,8 +1,88 @@
-Word: crida
-Rafsi: rid
-Definition: x1 is a fairy/elf/gnome/brownie/pixie/goblin/kobold [mythical humanoid]
-  of mythos/religion x2.
-Notes: Also orc, giant, demon or devil (when humanoid-form is presumed by the mythos/religion),
-  bugbear, bogeyman.  (cf. {ranmi}, especially for non-humanoid creatures of myth,
-  {lijda})
-Examples: None
+word: crida
+rafsi:
+- rid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fairy/elf/gnome/brownie/pixie/goblin/kobold [mythical
+      humanoid] of mythos/religion x2.
+    notes:
+    - Also orc, giant, demon or devil (when humanoid-form is presumed by the mythos/religion),
+      bugbear, bogeyman.  (cf. {ranmi}, especially for non-humanoid creatures of myth,
+      {lijda})
+    glosses:
+    - demon
+    - elf
+    - fairy
+    - gnome
+    - goblin
+  de:
+    place structure: x1 ist eine Fee/ein Elf/ein Gnom/ein Heinzelmännchen/ein Kobold
+      [ein menschenähnliches Fabelwesen] des Mythos/der Religion x2.
+    notes:
+    - Auch Ork, Riese, Dämon oder Teufel (wenn vom Mythos/von der Religion eine menschenähnliche
+      Form vorgegeben wird), Gespenst, Buhmann.  (vgl. {ranmi}, besonders für nicht-menschenähnliche
+      Fabelwesen, und {lijda})
+    glosses:
+    - Fee
+  es:
+    place structure: x1 es un hada/duende/gnomo/elfo/trasgo de mito x2
+    notes:
+    - No notes.
+    glosses:
+    - hada
+  ru:
+    place structure: x1 — леший/домовой/эльф/гном/русалка (мифический гуманоид) мифологии/религии
+      x2
+    notes:
+    - 'Также: великан, черт, демон (предполагается гуманоидная форма) {ranmi} (миф),
+      особенно для негуманоидных мифических существ; {lijda} (религия)'
+    glosses:
+    - x1=леший
+  en-simple:
+    place structure: x1 is a fairy, elf, or other mythical humanoid of religion x2
+    notes:
+    - No notes.
+    glosses:
+    - a fairy
+    - x2=a religion with a fairy
+  eo:
+    place structure: x1 estas feo/feino/elfo/gnomo/demoneto/koboldo [mita humanoido]
+      de mito/religio x2
+    notes:
+    - 'Ankaŭ: orko, giganto, demono aŭ diablo (kiam homforma), bugbear, fantomo.  (kp.
+      ranmi, precipe por nehomformaj mitaj estaĵoj, lijda)'
+    glosses:
+    - feo
+  hu:
+    place structure: x1 egy tündér/tünde/elf/gnóm/pixi/goblin/manó [emberszerű mitikus
+      lény] az x2 mítoszban/vallásban/szerepjátékban
+    notes:
+    - 'Továbbá: ork/törpe/óriás/démon/ördög/angyal (emberi formában)/mumus (Lásd még:
+      {ranmi}, {lijda})'
+    glosses:
+    - tündér
+  ja:
+    place structure: x1 は x2 （ミトス／宗教）における妖精／
+    notes:
+    - 人の形をした神話的キャラクター全般。「エルフ」「ゴブリン」「グノーム」など。 ・大意： 妖精 ・読み方： シリダ  ・語呂合わせ： 妖精の尻だ, cian
+      (仙),fairy  ・関連語： {ranmi}, {lijda}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett naturväsen/tomte/älva/skogsrå/troll/vätte/vittra [mytologisk
+      humanoid] av myt/religion x2.
+    notes:
+    - Även orch, jätte, demon, djävul (när myt/religion skildrar denne med humanoid
+      form); även engelskans bogeyman.
+    - Vissa menar att naturväsen existerar på riktigt, varför det vore fel att begränsa
+      definitionen till endast sagoväsen.
+    glosses:
+    - väsen (sago-/naturväsen (humanoid))
+  zh:
+    place structure: x1是仙女/精灵/哥布林（各种类人的虚构生物），属于神话/宗教x2
+    notes:
+    - 也指：妖怪/恶魔/巨人等等比较：{ranmi}尤其指传说中非类人的生物；参见：{lijda})
+    glosses:
+    - No glosses.

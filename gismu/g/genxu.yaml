@@ -1,5 +1,74 @@
-Word: genxu
-Rafsi: gex
-Definition: x1 is a hook/crook [shape/form] of material x2.
-Notes: See also {kruvi}, {korcu}.
-Examples: None
+word: genxu
+rafsi:
+- gex
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a hook/crook [shape/form] of material x2.
+    notes:
+    - See also {kruvi}, {korcu}.
+    glosses:
+    - hook
+  de:
+    place structure: x1 ist ein Haken [Form] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Haken
+  es:
+    place structure: x1 es un gancho/anzuelo (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - gancho
+  ru:
+    place structure: x1 — крюк (форма) из материала x2
+    notes:
+    - '{kruvi} (изгиб), {korcu} (изогнутый)'
+    glosses:
+    - x1=крюк
+  en-simple:
+    place structure: x1 is a hook of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a hook
+    - x2=a material of a hook
+  eo:
+    place structure: x1 estas hoko [formo] el materialo x2
+    notes:
+    - Vidu ankaŭ {kruvi}, {korcu}.
+    glosses:
+    - hoko
+  hu:
+    place structure: x1 egy kampó/horog x2 anyagból
+    notes:
+    - '(Lásd még: {kruvi}, {korcu})'
+    glosses:
+    - horog
+  ja:
+    place structure: x1 は x2 （素材）の鉤／留め金／ホック
+    notes:
+    - ・大意： 鉤（かぎ） ・読み方： ゲンクゥ  ・関連語： {kruvi}, {korcu}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een haak [vorm] van materiaal x2.
+    notes:
+    - 'Zie ook : {kruvi} en {korcu}'
+    glosses:
+    - haak
+  sv:
+    place structure: x1 är en krok/hake/klyka/krök/hyska [form] av material x2.
+    notes:
+    - No notes.
+    glosses:
+    - klyka
+    - krok
+  zh:
+    place structure: x1是钩子，由材料x2构成
+    notes:
+    - 参见 {kruvi}, {korcu}.
+    glosses:
+    - No glosses.

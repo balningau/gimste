@@ -1,5 +1,65 @@
-Word: palku
-Rafsi: pak
-Definition: x1 are pants/trousers/slacks/leggings [legged garment] of material x2.
-Notes: See also {taxfu}, {pastu}, {skaci}.
-Examples: None
+word: palku
+rafsi:
+- pak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 are pants/trousers/slacks/leggings [legged garment] of material
+      x2.
+    notes:
+    - See also {taxfu}, {pastu}, {skaci}.
+    glosses:
+    - pants
+    - slacks (trousers)
+    - trousers
+  de:
+    place structure: x1 ist eine Hose [Kleidung mit Beinen] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Hose
+  es:
+    place structure: x1 es un pantalón (prenda de vestir) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - pantalón
+  ru:
+    place structure: x1 — штаны/брюки/панталоны/рейтузы/кальсоны/колготки (одежда
+      со штанинами) из материала x2
+    notes:
+    - '{taxfu} (одежда), {pastu} (платье), {skaci} (юбка)'
+    glosses:
+    - x1=штаны
+  en-simple:
+    place structure: x1 are pants or trousers of material x2
+    notes:
+    - No notes.
+    glosses:
+    - trousers
+    - x2=a material of trousers
+  eo:
+    place structure: x1 estas pantalono [krurpartigita vesto] el materialo x2
+    notes:
+    - Vidu ankaŭ {taxfu}, {pastu}, {skaci}.
+    glosses:
+    - pantalono
+  hu:
+    place structure: x1 egy nadrág [szárakkal] x2 anyagból
+    notes:
+    - '(Lásd még: {taxfu}, {pastu}, {skaci})'
+    glosses:
+    - nadrág
+  ja:
+    place structure: x1 は x2 （素材）のズボン／スラックス／パンツ（女性用）
+    notes:
+    - ・大意： ズボン ・読み方： パルゥク  ・語呂合わせ： お腹でズボン出っ張る苦 裤 (ku) ・関連語： {taxfu}, {pastu}, {skaci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是裤子，由材料x2制成
+    notes:
+    - 参见 {taxfu}, {pastu}, {skaci}.
+    glosses:
+    - No glosses.

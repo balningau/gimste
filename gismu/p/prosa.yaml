@@ -1,8 +1,76 @@
-Word: prosa
-Rafsi: ros, ro'a
-Definition: x1 is prose about plot/theme/subject x2 by author x3 for intended audience
-  x4.
-Notes: Non-poetic written text, without intentional rhyme or meter; $x_2$ may be a
-  convention rather than a subject.  See also {cfika}, {lisri}, {cukta}, {pemci},
-  {finti}.
-Examples: None
+word: prosa
+rafsi:
+- ros
+- ro'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is prose about plot/theme/subject x2 by author x3 for intended
+      audience x4.
+    notes:
+    - Non-poetic written text, without intentional rhyme or meter; x2 may be a convention
+      rather than a subject.  See also {cfika}, {lisri}, {cukta}, {pemci}, {finti}.
+    glosses:
+    - prose
+  de:
+    place structure: x1 ist Prosa über Handlungschema/(Leit-)motiv/Thema x2 von Autor
+      x3 für beabsichtigtes Publikum x4
+    notes:
+    - No notes.
+    glosses:
+    - Prosa
+  es:
+    place structure: x1 es un escrito/prosa sobre tema x2 por autor x3 para audiencia
+      x4
+    notes:
+    - Ver también {pemci}.
+    glosses:
+    - prosa
+  ru:
+    place structure: x1 — прозаическое произведение на сюжет/на тему/о предмете x2,
+      автора x3, предназначенное для аудитории x4
+    notes:
+    - 'непоэтический письменный текст, без преднамеренной рифмы или ритма; x2 м.б.
+      также: жанр/стиль {cfika} (вымысел), {lisri} (рассказ), {cukta} (книга), {pemci}
+      (стихотворение), {finti} (сочинять)'
+    glosses:
+    - прозаическое произведение
+    - x2=сюжет прозаического произведения
+    - x3=автор прозаического произведения
+  en-simple:
+    place structure: x1 is prose about x2 by x3 for audience x4
+    notes:
+    - No notes.
+    glosses:
+    - prose
+    - x2=a subject of prose
+    - x3=an author of prose
+    - x4=an audience of prose
+  eo:
+    place structure: x1 estas prozo pri intrigo/temo x2 de aŭtoro x3 por celita publiko
+      x4
+    notes:
+    - Ne-poezia skribita teksto, sen intenca rimo aŭ mezuro; x2 povas esti konvencio
+      anstataŭ temo.  Vidu ankaŭ {cfika}, {lisri}, {cukta}, {pemci}, {finti}.
+    glosses:
+    - prozo
+  hu:
+    place structure: x1 egy prózai szöveg x2 témában/cselekménnyel, x3 szerzőtől,
+      x4 közönségnek
+    notes:
+    - '(Lásd még: {cfika}, {lisri}, {cukta}, {pemci}, {finti})'
+    glosses:
+    - próza
+  ja:
+    place structure: x1 は x2 （主題）・ x3 （作者）・ x4 （読者）の散文
+    notes:
+    - ・大意： 散文 ・読み方： プロサ  ・語呂合わせ： prose ・関連語： {cfika}, {lisri}, {cukta}, {pemci}, {finti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是散文，关于主旨/主题/内容x2，由作者x3书写，为了读者x4
+    notes:
+    - x2可能指习俗而非主题；参见 {cfika}, {lisri}, {cukta}, {pemci}, {finti}.
+    glosses:
+    - No glosses.

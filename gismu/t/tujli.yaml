@@ -1,5 +1,63 @@
-Word: tujli
-Rafsi: tuj
-Definition: x1 is a tulip (defined by flower shape) of species/strain x2.
-Notes: See also {spati}.
-Examples: None
+word: tujli
+rafsi:
+- tuj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tulip (defined by flower shape) of species/strain x2.
+    notes:
+    - See also {spati}.
+    glosses:
+    - tulip
+  de:
+    place structure: x1 ist eine Tulpe (bestimmt durch die Form der Blüte) von Art/Sorte
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Tulpe
+  es:
+    place structure: x1 es un tulipán (flor) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - tulipán
+  ru:
+    place structure: x1 — тюльпан (цветок характерной формы) вида/сорта x2
+    notes:
+    - '{spati} (растение)'
+    glosses:
+    - тюльпан
+    - x2=вид тюльпана
+  en-simple:
+    place structure: x1 is a tulip of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a tulip
+    - x2=a species of tulip
+  eo:
+    place structure: x1 estas tulipo (difinita per florformo) de speco/raso x2
+    notes:
+    - Vidu ankaŭ {spati}.
+    glosses:
+    - tulipo
+  hu:
+    place structure: x1 egy tulipán [Tulipa nemzetség] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {spati})'
+    glosses:
+    - tulipán
+  ja:
+    place structure: x1 は x2 （種類）のチューリップ属植物
+    notes:
+    - ・大意： チューリップ ・読み方： トゥジルィ  ・関連語： {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是郁金香，属于物种/种类x2
+    notes:
+    - 参见 {spati}.
+    glosses:
+    - No glosses.

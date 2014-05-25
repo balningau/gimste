@@ -1,7 +1,82 @@
-Word: litce
-Rafsi: lic
-Definition: x1 is x2 liter(s) [metric unit] in volume (default is 1) by standard x3.
-Notes: See also {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti},
-  {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
-  {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: litce
+rafsi:
+- lic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 liter(s) [metric unit] in volume (default is 1) by standard
+      x3.
+    notes:
+    - See also {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - liter
+  de:
+    place structure: 'x1 ist x2 Liter [metrische Einheit] an Volumen (Default: 1)
+      gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Liter
+  es:
+    place structure: x1 tiene un volumen de x2 litros (1 por defecto) según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - litro
+  ru:
+    place structure: x1 имеет объем x2 (по умолчанию 1) литров (метрическая единица)
+      по стандарту x3
+    notes:
+    - '{merli} (измерять), {grake} (грамм), {mitre} (метр), {dekpu} (иметь объем [неметрический]),
+      {centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто),
+      {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега),
+      {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико),
+      {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто),
+      {zetro} (зетта)'
+    glosses:
+    - литр
+  en-simple:
+    place structure: x1 is x2 litres
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in litres
+    - x2=a number of litres
+    - x3=a litre standard
+  eo:
+    place structure: x1 estas x2 litroj [metra unuo] en volumeno (defaŭlte 1) laŭ
+      normo x3
+    notes:
+    - Vidu ankaŭ {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - litro
+  hu:
+    place structure: x1 űrtartalma x2 liter, x3 mérce szerint
+    notes:
+    - '(Lásd még: {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - liter
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のリットル量
+    notes:
+    - ・大意： リットル ・読み方： ルィチェ ・関連語： {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti},
+      {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在容积上，x1是x2升（公制单位，默认为1）的，基于标准x3
+    notes:
+    - 参见 {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

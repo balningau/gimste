@@ -1,9 +1,87 @@
-Word: radno
-Rafsi: ra'o
-Definition: x1 is x2 radian(s) [metric unit] in angular measure (default is 1) by
-  standard x3.
-Notes: Measured in degrees ({julra'o}); right ascension astronomical measurement.
-  (= {cacryra'o}).  See also {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti},
-  {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli},
-  {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: radno
+rafsi:
+- ra'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 radian(s) [metric unit] in angular measure (default
+      is 1) by standard x3.
+    notes:
+    - Measured in degrees ({julra'o}); right ascension astronomical measurement. (=
+      {cacryra'o}).  See also {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - radian
+  de:
+    place structure: 'x1 ist x2 Radiant [metrische Einheit] Winkel im Bogenmaß (Default:
+      1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Radiant
+  es:
+    place structure: x1 es un ángulo de x2 radianes (1 por defecto) según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - radián
+  ru:
+    place structure: x1 (угол) имеет величину x2 (по умолчанию 1) радиан (метрическая
+      единица) по стандарту x3; x1 — угол в x2 радиан
+    notes:
+    - 'В градусах: {julra''o}; прямое восхождение (астрон.): {cacryra''o} {jganu}
+      (угол), {kilto} (кило), {centi} (санти), {decti} (десятый [доля 1/10]), {dekto}
+      (дека), {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {gutci}
+      (измеряться [в футах/дюймах и пр.]), {litce} (литр), {megdo} (мега), {mikri}
+      (микро), {milti} (милли), {minli} (миля), {nanvi} (нано), {petso} (пета), {picti}
+      (пико), {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti}
+      (зепто), {zetro} (зетта)'
+    glosses:
+    - радиан
+  en-simple:
+    place structure: x1 is x2 radians
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in radians
+    - x2=a number of radians
+    - x2=the number of radians
+    - x3=a radian standard
+  eo:
+    place structure: x1 estas x2 radianoj [metra unuo] en angula mezuro (defaŭlte
+      1) laŭ normo x3
+    notes:
+    - (mezurita en gradoj (julra'o); dekstra supreniro Astronomia mezuro. (= {cacryra'o}))
+      Vidu ankaŭ {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {gutci}, {litce}, {megdo}, {mikri}, milti,{minli}, {nanvi}, petso,{picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - radiano
+  hu:
+    place structure: x1 szög nagysága x2 [alapesetben 1] radián, x3 mérce szerint
+    notes:
+    - '(Lásd még: {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - radián
+  ja:
+    place structure: x1 は x2 （単位）・ x3 （基準）のラジアン／弧度
+    notes:
+    - ・大意： ラジアン ・読み方： ラドノ  ・関連語： {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在角度测量上，x1是x2幅度的（公制单位，默认为1），基于标准x3
+    notes:
+    - 以“角度”测量={julra'o}；赤经天文测量={cacryra'o}；参见 {jganu}, {kilto}, {centi}, {decti},
+      {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri},
+      {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso},
+      {zepti}, {zetro}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,95 @@
-Word: citka
-Rafsi: cti
-Definition: x1 eats/ingests/consumes (transitive verb) x2.
-Notes: See also {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
-Examples: None
+word: citka
+rafsi:
+- cti
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 eats/ingests/consumes (transitive verb) x2.
+    notes:
+    - See also {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+    glosses:
+    - eat
+  de:
+    place structure: x1 isst/nimmt zu sich/konsumiert (transitives Verb) x2.
+    notes:
+    - Siehe auch {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+    glosses:
+    - essen
+  es:
+    place structure: x1 come/ingiere/consume x2
+    notes:
+    - No notes.
+    glosses:
+    - comer
+  fr:
+    place structure: x1 mange x2
+    notes:
+    - No notes.
+    glosses:
+    - manger
+  ru:
+    place structure: x1 ест/поедает/поглощает x2
+    notes:
+    - '{cidja} (пища), {pinxe} (пить), {tunlo} (глотать), {xagji} (голодный), {xaksu}
+      (расходовать), {batci} (кусать), {gusta} (ресторан), {kabri} (чашка)'
+    glosses:
+    - поедать
+    - x1=поедающий
+  en-simple:
+    place structure: x1 eats x2
+    notes:
+    - No notes.
+    glosses:
+    - an eater
+    - x2=something eaten
+  eo:
+    place structure: x1 manĝas/konsumas (transitiva verbo) x2-on
+    notes:
+    - Vidu ankaŭ {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+    glosses:
+    - manĝi
+  hu:
+    place structure: x1 eszi/elfogyasztja x2-t
+    notes:
+    - '(Lásd még: {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri})'
+    glosses:
+    - eszik
+  ja:
+    place structure: x1 は x2 を食べる
+    notes:
+    - ・大意： 食べる ・読み方： シトカ  ・語呂合わせ： ＜嫉妬隠して食う＞ ・関連語： {cidja}, {pinxe}, {tunlo}, {xagji},
+      {xaksu}, {batci}, {gusta}, {kabri}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 spiser/eter x2
+    notes:
+    - Se også {batci}, {cidja}, {gusta}, {kabri}, {pinxe}, {tunlo}, {xagji} og {xaksu}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 je/konsumuje/spożywa x2.
+    notes:
+    - Cf. {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+    glosses:
+    - jeść
+    - 'konsumować '
+    - spożywać
+  sv:
+    place structure: x1 äter/intar/konsumerar [transitivt verb] x2.
+    notes:
+    - No notes.
+    glosses:
+    - förtära (äta)
+    - inta (äta)
+    - konsumera (äta)
+    - äta
+    - x1=ätare
+    - x2=äts av
+  zh:
+    place structure: x1吃/进食x2
+    notes:
+    - 参见 {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+    glosses:
+    - No glosses.

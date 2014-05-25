@@ -1,5 +1,60 @@
-Word: lerci
-Rafsi: lec
-Definition: x1 (event) is late by standard x2.
-Notes: See also {clira}.
-Examples: None
+word: lerci
+rafsi:
+- lec
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) is late by standard x2.
+    notes:
+    - See also {clira}.
+    glosses:
+    - late
+  de:
+    place structure: x1 (Ereignis) ist spät gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - spät
+  es:
+    place structure: x1 (evento) es tarde/tardío según estándar x2
+    notes:
+    - Ver también {clira}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 (событие) происходит поздно по стандарту x2
+    notes:
+    - '{clira} (рано)'
+    glosses:
+    - x1=поздно
+  en-simple:
+    place structure: x1 is late by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - something late
+    - x2=a lateness standard
+  eo:
+    place structure: x1 (okazo) estas malfrua laŭ normo x2
+    notes:
+    - Vidu ankaŭ {clira}.
+    glosses:
+    - malfrua
+  hu:
+    place structure: x1 esemény késői/késik x2 mérce szerint
+    notes:
+    - '(Lásd még: {clira})'
+    glosses:
+    - késő
+  ja:
+    place structure: x1はx2の点で遅い
+    notes:
+    - '参照: {clira}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件）是迟的，基于标准x2
+    notes:
+    - 参见 {clira}.
+    glosses:
+    - No glosses.

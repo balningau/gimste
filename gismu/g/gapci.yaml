@@ -1,7 +1,86 @@
-Word: gapci
-Rafsi: gac
-Definition: x1 is gaseous/fumes/a gas/vapor of material/composition including x2,
-  under conditions x3.
-Notes: $x_3$ includes temperature and pressure.  See also {pambe}, {vacri}, {litki},
-  {sligu}, {danmo}, {bumru}, {cidro}, {flecu}.
-Examples: None
+word: gapci
+rafsi:
+- gac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is gaseous/fumes/a gas/vapor of material/composition including
+      x2, under conditions x3.
+    notes:
+    - x3 includes temperature and pressure.  See also {pambe}, {vacri}, {litki}, {sligu},
+      {danmo}, {bumru}, {cidro}, {flecu}.
+    glosses:
+    - gas
+  de:
+    place structure: x1 ist gasförmig/Schwaden/Gas/Dampf aus Material/Zusammensatzung
+      unter anderem x2, unter Umständen x3
+    notes:
+    - No notes.
+    glosses:
+    - Gas
+  es:
+    place structure: x1 es un gas/vapor de composición/material x2, bajo condiciones
+      x3
+    notes:
+    - Ver también {litki},  {sligu},  {danmo},  {bumru}.
+    glosses:
+    - gas
+  ru:
+    place structure: x1 — газ/пар состава/вещества x2 в условиях x3; x1 — газообразный
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава); x3 включает
+      температуру и давление {pambe} (насос), {vacri} (воздух), {litki} (жидкость),
+      {sligu} (твердый [состояние вещества]), {danmo} (дым), {bumru} (туман), {cidro}
+      (водород), {flecu} (поток)'
+    glosses:
+    - x1=газ
+  en-simple:
+    place structure: x1 is a gas of x2
+    notes:
+    - No notes.
+    glosses:
+    - gas
+    - x1=a gas
+    - x2=a gas composition
+    - x2=the gas composition
+    - x3=a condition of gas
+  eo:
+    place structure: x1 estas gaso/fumo/vaporo de materialo/konsisto enhavanta x2-on,
+      sub kondiĉoj x3
+    notes:
+    - x3 inkluzivas temperaturon kaj premon.  Vidu ankaŭ {pambe}, {vacri}, {litki},
+      {sligu}, {danmo}, {bumru}, {cidro}, {flecu}.
+    glosses:
+    - gaso
+  hu:
+    place structure: x1 egy gáz/füst/gőz/pára (többek között) x2 anyagból, x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro}, {flecu})'
+    glosses:
+    - gáz
+  ja:
+    place structure: x1 は x2 （成分）・ x3 （条件）の気体／ガス
+    notes:
+    - x3は温度／圧力など。 ・大意： 気体 ・読み方： ガプシ  ・関連語： {pambe}, {vacri}, {litki}, {sligu}, {danmo},
+      {bumru}, {cidro}, {flecu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är gasformig/är en gas/ånga av material/sammansättning x2
+      under omständigheter x3.
+    notes:
+    - x3 inkluderar temperatur och tryck.
+    glosses:
+    - gasformig
+    - ånga
+    - x1=gas
+    - x2=gasmaterial
+  zh:
+    place structure: x1是气态的/气体/水汽/蒸汽，包含物质x2，在条件x3（温度/压强）下
+    notes:
+    - x3包括温度和压强；参见 {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro},
+      {flecu}.
+    glosses:
+    - No glosses.

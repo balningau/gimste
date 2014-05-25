@@ -1,8 +1,93 @@
-Word: cukta
-Rafsi: cku
-Definition: x1 is a book containing work x2 by author x3 for audience x4 preserved
-  in medium x5.
-Notes: '[$x_1$ is a manifestation/container A physical object or its analogue. of
-  a work/content, not necessarily using paper (= {selpapri})]; See also {cfika}, {prina},
-  {prosa}, {tcidu}, {papri}.'
-Examples: None
+word: cukta
+rafsi:
+- cku
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a book containing work x2 by author x3 for audience x4
+      preserved in medium x5.
+    notes:
+    - '[x1 is a manifestation/container A physical object or its analogue. of a work/content,
+      not necessarily using paper (= {selpapri})]; See also {cfika}, {prina}, {prosa},
+      {tcidu}, {papri}.'
+    glosses:
+    - book
+  de:
+    place structure: x1 ist ein Buch, das das Werk x2 des Autors x3 für die Zielgruppe
+      x4 im Medium x5 beinhaltet.
+    notes:
+    - '[x1 ist eine Manifestation/ein Behälter - ein Naturgegenstand oder sein Gegenstück
+      - eines Werkes/Inhalts, das nicht zwingend Papier verwendet (= {selpapri})];
+      Siehe auch {cfika}, {prina}, {prosa}, {tcidu}, {papri}.'
+    glosses:
+    - Buch
+    - x3=Autor (eines Buches)
+  es:
+    place structure: x1 es un libro con contenido/obra x2 por autor x3 para audiencia
+      x4 conservado en medio x5
+    notes:
+    - No notes.
+    glosses:
+    - libro
+  ru:
+    place structure: x1 — книга, содержащая произведение x2 автора x3 для аудитории
+      x4, записанная на носителе x5
+    notes:
+    - 'x1 — воплощение (физический объект или его аналог) произведения/содержания,
+      не обязательно на бумаге: {selpapri} {cfika} (вымысел), {prina} (отпечаток),
+      {prosa} (проза), {tcidu} (читать), {papri} (страница)'
+    glosses:
+    - x1=книга
+    - x2=произведение (книга)
+    - x3=автор произведения
+  en-simple:
+    place structure: x1 is a book with work x2 by author x3 for audience x4 in medium
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - a book
+    - x2=a work in a book
+    - x3=a book's author
+    - x4=a book's audience
+    - x5=a book medium
+  eo:
+    place structure: x1 estas libro enhavanta verkon x2 de aŭtoro x3 por legantaro
+      x4 konservita en medio x5
+    notes:
+    - (x1 estas manifestaĵo/ujo Fizika objekto aŭ analoga. de verko/enhavo, ne nepre
+      papera (= {selpapri})); Vidu ankaŭ {cfika}, {prina}, {prosa}, {tcidu}, {papri}.
+    glosses:
+    - libro
+  hu:
+    place structure: x1 egy könyv, amely x2 művet tartalmazza, x3 szerzőtől, x4 közönségnek,
+      x5 hordozón
+    notes:
+    - '(Lásd még: {cfika}, {prina}, {prosa}, {tcidu}, {papri})'
+    glosses:
+    - könyv
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （著者）・ x4 （読者）・ x5 （媒体）の本／文献
+    notes:
+    - 「インターネット・サイト」なども。 ・大意： 本 ・読み方： シュクタ ・語呂合わせ： cu（書）, book ・関連語： {cfika}, {prina},
+      {prosa}, {tcidu}, {papri}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en bok innehållande verk x2 av författare x3 för läsare/publik
+      x4 bevarad i medium x5.
+    notes:
+    - x1 är en manifestation/behållare, dvs ett fysiskt objekt eller liknande motsvarighet,
+      av ett verk/innehåll. Behöver inte nödvändigtvis vara i pappersform.
+    glosses:
+    - x1=bok (behållare för författat innehåll)
+    - x2=verk (innehåll av bok (eller motsvarande))
+    - x3=läsare (av ett visst verk)
+    - x4=bokmedium
+  zh:
+    place structure: x1是书，含有内容有关x2，作者为x3，读者为x4，书的载体为x5
+    notes:
+    - 不一定是纸张构成的书；参见 {cfika}, {prina}, {prosa}, {tcidu}, {papri}.
+    glosses:
+    - No glosses.

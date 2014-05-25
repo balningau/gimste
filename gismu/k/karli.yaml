@@ -1,5 +1,68 @@
-Word: karli
-Rafsi: ''
-Definition: x1 is a collar/ring/belt/band around/surrounding x2 made of material x3.
-Notes: Also sphincter.  See also {sruri}, {djine}.
-Examples: None
+word: karli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a collar/ring/belt/band around/surrounding x2 made of material
+      x3.
+    notes:
+    - Also sphincter.  See also {sruri}, {djine}.
+    glosses:
+    - collar
+  de:
+    place structure: x1 ist ein Kragen/Ring/Gürtel/Band um x2 aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Kragen
+  es:
+    place structure: x1 es un collar/anillo/cinturon/banda alrededor de x2, de material
+      x3
+    notes:
+    - Ver también {sruri},  {djine}.
+    glosses:
+    - collar
+  ru:
+    place structure: x1 — пояс/воротник/повязка/манжета/ожерелье/галстук/ошейник вокруг
+      x2, сделанный из материала x3
+    notes:
+    - См. сфинктер {sruri} (окружать), {djine} (кольцо)
+    glosses:
+    - воротник
+    - галстук
+    - ожерелье
+    - пояс
+  en-simple:
+    place structure: x1 is a collar or band surrounding x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a collar
+    - x2=something surrounded by a collar
+    - x3=a material of a collar
+  eo:
+    place structure: x1 estas ringo/kolumo/zono/rubando ĉirkaŭ x2 el materialo x3
+    notes:
+    - 'Ankaŭ: sfinktero.  Vidu ankaŭ {sruri}, {djine}.'
+    glosses:
+    - kolumo
+  hu:
+    place structure: x1 egy öv/szíj/gyűrű/örv x2 körül, x3 anyagból
+    notes:
+    - '(Lásd még: {sruri}, {djine})'
+    glosses:
+    - öv
+  ja:
+    place structure: x1 は x2 を取り巻く、 x3 （素材）の襟／ベルト部
+    notes:
+    - 「dasri」と違い、物体としての独立性に欠ける。 ・大意： 襟 ・読み方： カルルィ  ・語呂合わせ： カラー ・関連語： {sruri}, {djine}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是围绕x2的环形物/环带/环圈（如：戒指/腰带等），由材料x3做成
+    notes:
+    - 也指：括约肌；参见 {sruri}, {djine}.
+    glosses:
+    - No glosses.

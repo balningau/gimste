@@ -1,6 +1,70 @@
-Word: lunra
-Rafsi: lur
-Definition: x1 is Earth's moon (default); x1 is a major natural satellite/moon of
-  planet x2.
-Notes: See also {plini}, {solri}, {terdi}, {mluni}.
-Examples: None
+word: lunra
+rafsi:
+- lur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is Earth's moon (default); x1 is a major natural satellite/moon
+      of planet x2.
+    notes:
+    - See also {plini}, {solri}, {terdi}, {mluni}.
+    glosses:
+    - lunar
+  de:
+    place structure: x1 ist der Erdmond (Default); x1 ist ein größer/bedeutender Mond
+      von Planet x2
+    notes:
+    - No notes.
+    glosses:
+    - Erdmond
+  es:
+    place structure: x1 es una luna/satélite natural de planeta x2 (la tierra por
+      defecto)
+    notes:
+    - Ver también {mluni}.
+    glosses:
+    - luna
+  ru:
+    place structure: x1 — Луна, спутник Земли (по умолчанию); x1 — крупный естественный
+      спутник планеты x2
+    notes:
+    - '{plini} (планета), {solri} (солнце), {terdi} (земля [планета Земля]), {mluni}
+      (спутник [космический])'
+    glosses:
+    - Луна
+  en-simple:
+    place structure: x1 is a moon or major natural satellite of planet x2
+    notes:
+    - No notes.
+    glosses:
+    - a moon
+    - x2=a planet with a moon
+  eo:
+    place structure: x1 estas la luno de la tero (defaŭlte); x1 estas grava natura
+      satelito/luno de planedo x2
+    notes:
+    - Vidu ankaŭ {plini}, {solri}, {terdi}, {mluni}.
+    glosses:
+    - luno
+  hu:
+    place structure: x1 egy/a (természetes) holdja x2 bolygónak [alapesetben a Földnek]
+    notes:
+    - '(Lásd még: {plini}, {solri}, {terdi}, {mluni})'
+    glosses:
+    - hold (égitest)
+  ja:
+    place structure: x1 は地球の月；  x1 は x2 の主要衛星
+    notes:
+    - 「mluni」の狭義。 ・大意： 月 ・読み方： ルゥンラ  ・関連語： {plini}, {solri}, {terdi}, {mluni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 是月球; x1是行星x2的主要自然卫星.
+    notes:
+    - No notes.
+    glosses:
+    - 卫星
+    - 月
+    - 月亮
+    - 月球

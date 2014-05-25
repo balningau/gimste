@@ -1,7 +1,75 @@
-Word: sidbo
-Rafsi: sib, si'o
-Definition: x1 (idea abstract) is an idea/concept/thought about x2 (object/abstract)
-  by thinker x3.
-Notes: Also (adjective:) $x_1$ is ideal/ideational.  See also {ciksi}, {jijnu}, {mucti},
-  {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo list {si'o}.
-Examples: None
+word: sidbo
+rafsi:
+- sib
+- si'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (idea abstract) is an idea/concept/thought about x2 (object/abstract)
+      by thinker x3.
+    notes:
+    - Also (adjective:) x1 is ideal/ideational.  See also {ciksi}, {jijnu}, {mucti},
+      {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo list {si'o}.
+    glosses:
+    - idea
+  de:
+    place structure: x1 (Idee abstrakt) ist eine Idee/Konzept/Gedanke über x2 (Objekt/abstrakt)
+      von Denker x3.
+    notes:
+    - 'Auch: x1 ist Ideell (adjektiv). Siehe auch {ciksi}, {jijnu}, {mucti}, {jinvi},
+      {nabmi}, {pensi}, {xanri}, {si''o}.'
+    glosses:
+    - Gedanke
+    - Idee
+  es:
+    place structure: x1 es una idea/concepto/pensamiento sobre x2 por pensador x3
+    notes:
+    - No notes.
+    glosses:
+    - idea
+  ru:
+    place structure: x1 (абстракция) есть идея/понятие/концепция/мысль об x2 (объект/абстракция)
+      мыслителя x3
+    notes:
+    - 'Прилагательное: x1 — идеальный, мысленный. rafsi {si''o} часто используется
+      для образования слов на "-изм": "коммунизм", "нудизм" и т. д. {ciksi} (объяснять),
+      {jijnu} (постигать [интуитивно]), {mucti} (нематериальный), {jinvi} (считать
+      [полагать]), {nabmi} (проблема), {pensi} (думать), {xanri} (воображаемый), {si''o}'
+    glosses:
+    - идея
+  en-simple:
+    place structure: x1 is an idea about x2 by thinker x3
+    notes:
+    - No notes.
+    glosses:
+    - an idea
+    - x2=an subject of an idea
+    - x3=something with an idea
+  eo:
+    place structure: x1 (idea abstraktaĵo) estas ideo/koncepto/penso pri x2 (objekto/abstraktaĵo)
+      de pensanto x3
+    notes:
+    - 'Ankaŭ: (adjektivo:) x1 estas ideala/ideeca.  Vidu ankaŭ {ciksi}, {jijnu}, {mucti},
+      {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo {si''o}.'
+    glosses:
+    - ideo
+  hu:
+    place structure: x1 egy fogalma/gondolata/eszméje/képzete x2-nek, x3 által
+    notes:
+    - '(Lásd még: {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri})'
+    glosses:
+    - fogalom
+  ja:
+    place structure: x1 （抽象）は x2 （物／事）の、 x3 （思考者）による概念／観念／アイディア／コンセプト
+    notes:
+    - ・大意： 概念 ・読み方： スィドボ  ・関連語： {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi},
+      {xanri}, {si'o}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（想法的谓词子句）是一个主意/想法/思考，关于x2，思考者为x3
+    notes:
+    - x1是概念的/构思的/构想的/想法的；参见 {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi},
+      {xanri}, {si'o}.
+    glosses:
+    - No glosses.

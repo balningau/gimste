@@ -1,8 +1,73 @@
-Word: palne
-Rafsi: ''
-Definition: x1 is a tray/platter/flat container [pan/sheet/griddle] of contents x2,
-  and made of material x3.
-Notes: Also pallet, when used for carrying rather than support on the ground; a tray
-  is flat-bottomed and shallow or without a rim, and is generally portable.  See also
-  {tansi}, {patxu}, {palta}, {ckana}.
-Examples: None
+word: palne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tray/platter/flat container [pan/sheet/griddle] of contents
+      x2, and made of material x3.
+    notes:
+    - Also pallet, when used for carrying rather than support on the ground; a tray
+      is flat-bottomed and shallow or without a rim, and is generally portable.  See
+      also {tansi}, {patxu}, {palta}, {ckana}.
+    glosses:
+    - tray
+  de:
+    place structure: x1 ist ein Tablett/(Back-)Blech/Platte/flacher Behälter [Pfanne/Folie]
+      mit Inhalt x2 und hergestellt aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Tablett
+  es:
+    place structure: x1 es una bandeja para contenido x2, de material x3
+    notes:
+    - Ver también {tansi},  {patxu},  {palta}.
+    glosses:
+    - bandeja
+  ru:
+    place structure: x1 — поднос/противень/{поддон} с содержимым x2, из материала
+      x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2»; Также: поддон, когда используется
+      для переноски, а не стационарно; поднос имеет плоское дно и неглубокий, или
+      без ободка, обычно переносимый {tansi} (миска), {patxu} (котел), {palta} (тарелка),
+      {ckana} (кровать)'
+    glosses:
+    - поднос
+  en-simple:
+    place structure: x1 is a tray or platter with contents x2, made of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a tray
+    - x2=a content of a tray
+    - x3=a material of a tray
+  eo:
+    place structure: x1 estas pleto/plado/plata ujo [pato] kun enhavo x2, kaj el materialo
+      x3
+    notes:
+    - Plata portilo; pleto estas platfunda kaj malprofunda aŭ sen rando, kaj ĝenerale
+      estas portebla.  Vidu ankaŭ {tansi}, {patxu}, {palta}, {ckana}.
+    glosses:
+    - pleto
+  hu:
+    place structure: x1 egy tál/tálca [lapos edény] x2 tartalommal, x3 anyagból
+    notes:
+    - '(Lásd még: {tansi}, {patxu}, {palta}, {ckana})'
+    glosses:
+    - tálca
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）の盆／トレイ
+    notes:
+    - 平らで底が浅く、幾つかの物を載せて運べる。 ・大意： 盆 ・読み方： パルゥネ  ・語呂合わせ： お盆出っ張るね ・関連語： {tansi}, {patxu},
+      {palta}, {ckana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是浅一点的容器（如：托盘/盘子等），用以装盛x2，由材料x3制成
+    notes:
+    - 参见 {tansi}, {patxu}, {palta}, {ckana}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,81 @@
-Word: jbera
-Rafsi: jer
-Definition: x1 (agent) borrows/temporarily takes/assumes x2 (object) from source x3
-  for interval x4.
-Notes: Credit (= {jernu'e}); borrow/assume a property or quality as a chameleon does
-  (= {zaskai}, {zasysmitra}, {zasysmitai}).  See also {dejni}, {janta}, {zivle}.
-Examples: None
+word: jbera
+rafsi:
+- jer
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) borrows/temporarily takes/assumes x2 (object) from
+      source x3 for interval x4.
+    notes:
+    - Credit (= {jernu'e}); borrow/assume a property or quality as a chameleon does
+      (= {zaskai}, {zasysmitra}, {zasysmitai}).  See also {dejni}, {janta}, {zivle}.
+    glosses:
+    - borrow
+  de:
+    place structure: x1 (Handelnder) leiht sich/borgt/übernimmt zeitweilig x2 (Gegenstand)
+      von/aus Quelle x3 für Zeitraum x4
+    notes:
+    - No notes.
+    glosses:
+    - ausleihen
+  es:
+    place structure: x1 toma prestado/temporariamente x2 de origen x3 por intervalo
+      x4
+    notes:
+    - Ver también {zivle}.
+    glosses:
+    - tomar prestado
+  ru:
+    place structure: x1 заимствует/временно забирает x2 (объект) из источника x3 на
+      отрезок времени x4
+    notes:
+    - 'кредит: {jernu''e}; заимствует свойство, подобно хамелеону: {zaskai}, {zasysmitra},
+      {zasysmitai} {dejni} (должник), {janta} (счет [к оплате]), {zivle} (инвестировать)'
+    glosses:
+    - заимствовать
+    - x1=заимствующий
+  en-simple:
+    place structure: x1 borrows x2 from x3 for interval x4
+    notes:
+    - No notes.
+    glosses:
+    - a borrower
+    - x2=something borrowed
+    - x3=something from which something is borrowed
+    - x4=an interval for which something is borrowed
+  eo:
+    place structure: x1 (aganto) prunteprenas/provizore prenas/alprenas x2-on (objekto)
+      el fonto x3 por intervalo x4
+    notes:
+    - Krediti (= {jernu'e}); alpreni econ aŭ kvaliton kiel faras kameleono (= {zaskai},
+      {zasysmitra}, {zasysmitai}).  Vidu ankaŭ {dejni}, {janta}, {zivle}.
+    glosses:
+    - prunti
+  hu:
+    place structure: x1 kölcsönveszi x2 tárgyat x3-tól, x4 időre
+    notes:
+    - '(Lásd még: {dejni}, {janta}, {zivle})'
+    glosses:
+    - kölcsönvesz
+  ja:
+    place structure: x1 （者）は x2 （物）を x3 （起源）から x4 （期間）にわたって借りる
+    notes:
+    - ・大意： 借りる ・読み方： ジベラ  ・関連語： {dejni}, {janta}, {zivle}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (agent) lånar/tillfälligt tar (kontroll över)/intar x2 (objekt)
+      från källa x3 inom intervall x4.
+    notes:
+    - Kredit (= {jernu'e}); lånar/intar en egenskap eller kvalitet som en kameleont
+      gör (={zaskai}, {zasysmitra}, {zasysmitai}).
+    glosses:
+    - låna
+  zh:
+    place structure: x1借用/临时使用x2，来源于x3，借用时间长度为x4
+    notes:
+    - 信用额= {jernu'e}； 像变色龙一样借用/套用别人的性质= {zaskai}, {zasysmitra}, {zasysmitai}；参见 {dejni},
+      {janta}, {zivle}.
+    glosses:
+    - No glosses.

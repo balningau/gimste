@@ -1,6 +1,100 @@
-Word: batke
-Rafsi: ''
-Definition: x1 is a button/knob/[handle] on/for item x2, with purpose x3, made of
-  material x4.
-Notes: See also {jadni}, {balji}, {punji}, {jgari}, {lasna}.
-Examples: None
+word: batke
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a button/knob/[handle] on/for item x2, with purpose x3,
+      made of material x4.
+    notes:
+    - See also {jadni}, {balji}, {punji}, {jgari}, {lasna}.
+    glosses:
+    - button
+  de:
+    place structure: x1 ist ein Knopf/Griff auf/für Gegenstand x2, mit Zweck x3, aus
+      Material x4
+    notes:
+    - No notes.
+    glosses:
+    - Knopf
+  es:
+    place structure: x1 es un botón/perilla/manija/tirador en x2, con propósito x3,
+      hecho de material x4
+    notes:
+    - No notes.
+    glosses:
+    - botón
+  fr:
+    place structure: x1 est un bouton/une poignée sur/pour x2, avec but/utilité x3,
+      fait de matériau x4.
+    notes:
+    - Voir également {jadni}, {balji}, {punji}, {jgari}, {lasna}.
+    glosses:
+    - bouton
+    - poignée
+  ru:
+    place structure: x1 — кнопка/пуговица/головка/набалдашник/{ручка} на предмете
+      x2, предназначенная для x3, сделанная из материала x4
+    notes:
+    - '{jadni} (украшать [деятельный процесс]), {balji} (клубень), {punji} (класть),
+      {jgari} (держать), {lasna} (прикреплять)'
+    glosses:
+    - x1=пуговица
+  en-simple:
+    place structure: x1 is a button or knob on x2 with purpose x3 of material x4
+    notes:
+    - No notes.
+    glosses:
+    - a button
+    - x2=something with a button
+    - x3=purpose of a button
+    - x4=a material of a button
+  eo:
+    place structure: x1 estas butono/tubero/[tenilo] sur objekto x2, kun celo x3,
+      el materialo x4
+    notes:
+    - Vidu ankaŭ {jadni}, {balji}, {punji}, {jgari}, {lasna}.
+    glosses:
+    - butono
+  hu:
+    place structure: x1 egy gomb/kilincs/fogantyú x2-n, x3 célra, x4 anyagból
+    notes:
+    - '(Lásd még: {jadni}, {balji}, {punji}, {jgari}, {lasna})'
+    glosses:
+    - fogantyú
+  ja:
+    place structure: x1 は x2 （本体／機材）・ x3 （用途）・ x4 （素材）のボタン／ノブ／スイッチ／つまみ／取っ手
+    notes:
+    - ・大意： ボタン ・読み方： バトケ  ・語呂合わせ： ＜バットける＞.  button,  keu(釦) ・関連語： {jadni}, {balji},
+      {punji}, {jgari}, {lasna}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en knapp/knott/[håndtak] på/for objekt x2, med formål/funksjon
+      x3, laget av materiale x4
+    notes:
+    - Se også {jadni}, {bidju}, {balji}, {punji}, {jgari}, {lasna}, {lafti}, {lacpu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en knapp/knopp/handtag på/för föremål x2, med funktion/ändamål
+      x3, gjord av material x4.
+    notes:
+    - Se även {jadni}, {bidju}, {balji}, {punji}, {jgari}, {lasna}, {lafti}, {lacpu}.
+    glosses:
+    - grepp (handtag)
+    - greppförsedd
+    - handtag
+    - knappändamål
+    - knopp
+    - x1=knapp (substantiv)
+    - x2=knappförsedd
+    - x3=knappfunktion
+    - x4=knappmaterial
+  zh:
+    place structure: x1是纽扣/扣子，位于物体x2上/属于物体x2，为了目的/功能x3，由材料x4制成
+    notes:
+    - 参见 {jadni}, {balji}, {punji}, {jgari}, {lasna}.
+    glosses:
+    - No glosses.

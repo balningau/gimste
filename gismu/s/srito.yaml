@@ -1,6 +1,66 @@
-Word: srito
-Rafsi: ''
-Definition: x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in
-  aspect x2.
-Notes: See also {xindo}, {xurdo}.
-Examples: None
+word: srito
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality
+      in aspect x2.
+    notes:
+    - See also {xindo}, {xurdo}.
+    glosses:
+    - Sanskrit
+  de:
+    place structure: x1 repräsentiert die Sanskrit-/Vedische Sprache/Kultur/Nationalität
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - Sanskrit
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma sánscrito/védico en aspecto
+      x2
+    notes:
+    - Ver también {xindo},  {xurdo}.
+    glosses:
+    - sánscrito
+  ru:
+    place structure: x1 — санскрит, санскритский/ведический в аспекте x2
+    notes:
+    - '{xindo} (хинди), {xurdo} (урду)'
+    glosses:
+    - санскритский
+  en-simple:
+    place structure: x1 is Sanskrit in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Sanskrit
+    - x2=a Sanskrit aspect
+  eo:
+    place structure: x1 montras sanskritan/vedan lingvon/kulturon/naciecon laŭ aspekto
+      x2
+    notes:
+    - Vidu ankaŭ {xindo}, {xurdo}.
+    glosses:
+    - sanskrita
+  hu:
+    place structure: x1 szanszkrit/védikus kultúrát/nemzetiséget/nyelvet tükröz x2
+      tekintetben
+    notes:
+    - '(Lásd még: {xindo}, {xurdo})'
+    glosses:
+    - szanszkrit
+  ja:
+    place structure: x1 は x2 （性質面）に関してサンスクリット／ベーダ系（言語／文化／民族）
+    notes:
+    - ・大意： サンスクリット ・読み方： スリト  ・関連語： {xindo}, {xurdo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于梵语的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {xindo}, {xurdo}.
+    glosses:
+    - No glosses.

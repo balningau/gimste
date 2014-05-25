@@ -1,6 +1,94 @@
-Word: barna
-Rafsi: ba'a
-Definition: x1(s) is a/are mark(s)/spot(s) on x2 of material x3.
-Notes: '{ba''armo''a} for a pattern of marks.  See also {sinxa}, {pixra}, {se} {ciska},
-  {se} {prina}.'
-Examples: None
+word: barna
+rafsi:
+- ba'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1(s) is a/are mark(s)/spot(s) on x2 of material x3.
+    notes:
+    - '{ba''armo''a} for a pattern of marks.  See also {sinxa}, {pixra}, {se} {ciska},
+      {se} {prina}.'
+    glosses:
+    - mark
+    - spot (patch on surface)
+  de:
+    place structure: x1 ist/sind (ein) Fleck(en) auf x2 und besteht/bestehen aus Material
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Fleck
+  es:
+    place structure: x1 es una marca sobre x2 de material x3
+    notes:
+    - No notes.
+    glosses:
+    - marca
+  fr:
+    place structure: x1 est/sont une/des marque(s)/tache(s) sur x2, de matériau x3.
+    notes:
+    - '{ba''armo''a} pour la forme/le motif des marques. Voir également {sinxa}, {pixra},
+      {se} {ciska}, {se} {prina}.'
+    glosses:
+    - marque
+    - tache
+  ru:
+    place structure: x1 — пятно/пятна на x2 из вещества x3
+    notes:
+    - 'Узор из пятен: {ba''armo''a} {sinxa} (символ), {pixra} (картина), {se} {ciska}
+      (писать), {se} {prina} (отпечаток)'
+    glosses:
+    - пятно
+  en-simple:
+    place structure: x1 is a mark or spot on x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a mark
+    - x2=something marked
+    - x3=a material of a mark
+  eo:
+    place structure: x1 estas marko(j)/makulo(j) sur x2 el materialo x3
+    notes:
+    - Ba'armo'a por aranĝo de markoj.  Vidu ankaŭ {sinxa}, {pixra}, se {ciska}, se
+      {prina}.
+    glosses:
+    - marko
+  hu:
+    place structure: x1 egy folt/paca x2-n, x3 anyagból
+    notes:
+    - '(Lásd még: {sinxa}, {pixra}, {ciska}, {prina})'
+    glosses:
+    - folt
+  ja:
+    place structure: x1 は x2 に有る印／斑点
+    notes:
+    - ［様式を伴うものは ba'armo'a。］「ko catke lo xunre barna／赤い印を押してください」 ・大意： 印 ・読み方： バルナ  ・語呂合わせ：
+      ＜バーない＞, ban(瘢), mark ・関連語： {sinxa}, {pixra}, {se} {ciska}, {se} {prina}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er merker/flekker på x2 av materiale x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett märke/fläck på x2 av material/substans x3.
+    notes:
+    - Föreslår {ba'armo'a} för ett mönster av märken. Se även {sinxa}, {pixra}, se
+      {ciska}, se {prina}, {xinmo}.
+    glosses:
+    - fläck
+    - fläcksubstans
+    - prick (märke)
+    - x1=märke
+    - x2=märkt
+    - x3=märke av material
+  zh:
+    place structure: x1 是标记/斑点，位于x2上，由x3材料构成
+    notes:
+    - 图案标记={ba'armo'a}；参见 {sinxa}, {pixra}, {se} {ciska}, {se} {prina}
+    glosses:
+    - No glosses.

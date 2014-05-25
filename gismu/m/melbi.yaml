@@ -1,7 +1,113 @@
-Word: melbi
-Rafsi: mel, mle
-Definition: x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic standard
-  x4.
-Notes: Also handsome, pretty, gorgeous, cute, comely, graceful.  See also {pluka},
-  {xamgu}.
-Examples: None
+word: melbi
+rafsi:
+- mel
+- mle
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic
+      standard x4.
+    notes:
+    - Also handsome, pretty, gorgeous, cute, comely, graceful.  See also {pluka},
+      {xamgu}.
+    glosses:
+    - beautiful
+    - gorgeous
+    - handsome
+  de:
+    place structure: x1 ist schön/angenehm für x2 in Aspekt x3 und ästhetischem Standard
+      x4
+    notes:
+    - auch hübsch, süß, heiß, anmutig.; siehe auch {pluka}, {xamgu}.
+    glosses:
+    - schön
+  es:
+    place structure: x1 es bello/agradable/lindo/bonito/guapo/hermoso para x2 en propiedad/aspecto
+      x3 según estándar x4
+    notes:
+    - Ver también {pluka},  {xamgu}.
+    glosses:
+    - bello
+  fr:
+    place structure: x1 (objet/idée) est beau pour x2 (observateur) selon x3 (norme/standard)
+    notes:
+    - No notes.
+    glosses:
+    - beau
+    - belle
+    - joli
+  ru:
+    place structure: x1 — красивый/прекрасный/привлекательный для/с точки зрения x2
+      (кого) в аспекте x3 ({ka}), согласно эстетическому критерию x4
+    notes:
+    - 'Также: миловидный, изящный, статный, прелестный, роскошный, грациозный, элегантный
+      {pluka} (приятный), {xamgu} (хороший)'
+    glosses:
+    - красивый
+    - x2=считающий красивым
+  art-guaspi:
+    place structure: \x1 /fpl |ve ciw \x2 /ve ? \x3  /ve fta \x4
+    notes:
+    - No notes.
+    glosses:
+    - fpl
+  en-simple:
+    place structure: x1 is beautiful to x2 in aspect x3 by standard x4
+    notes:
+    - No notes.
+    glosses:
+    - something beautiful
+    - x2=an observer of beauty
+    - x3=an aspect of beauty
+    - x4=a standard of beauty
+  eo:
+    place structure: x1 estas bela/plaĉa/agrabla al x2 laŭ aspekto x3 (ka) laŭ estetika
+      normo x4
+    notes:
+    - 'Ankaŭ: gracia.  Vidu ankaŭ {pluka}, {xamgu}.'
+    glosses:
+    - bela
+  hu:
+    place structure: x1 szép/kellemes x2 megfigyelő számára, x3 szempontból, x4 mérce
+      szerint
+    notes:
+    - '(Lásd még: {pluka}, {xamgu})'
+    glosses:
+    - szép
+  ja:
+    place structure: x1はx2にとって、x3の面がx4という審美的理由で美しい
+    notes:
+    - '参照: {pluka}, {xamgu}'
+    glosses:
+    - 優雅な
+  pl:
+    place structure: x1 jest piękne/śliczne/ładne dla x2 w zakresie x3 (ka) według
+      standardu x4.
+    notes:
+    - Cf. {pluka}, {xamgu}.
+    glosses:
+    - piękne
+    - ładne
+    - śliczne
+  vi:
+    place structure: x1 đẹp đối với x2 theo tiêu chuẩn x3
+    notes:
+    - No notes.
+    glosses:
+    - đẹp
+    - x1=vật thể hoặc ý niệm
+    - x2=người quan sát
+  zh:
+    place structure: x1对x2来说、从x3方面来看、按x4标准来评价是美的
+    notes:
+    - '不分男女、人物，所以也是英俊、漂亮、可爱、优雅、优美的意思。参照: {pluka}, {xamgu}'
+    glosses:
+    - 优美
+    - 可爱
+    - 漂亮
+    - 美丽
+    - 英俊
+    - x1=美人
+    - x2=欣赏者
+    - x3=审美角度
+    - x4=审美标准

@@ -1,6 +1,69 @@
-Word: makfa
-Rafsi: maf
-Definition: x1 is magic/supernatural/sorcery/witchcraft/wizardry to x2, performed
-  by person/force/deity x3.
-Notes: See also {krici}, {manci}.
-Examples: None
+word: makfa
+rafsi:
+- maf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is magic/supernatural/sorcery/witchcraft/wizardry to x2, performed
+      by person/force/deity x3.
+    notes:
+    - See also {krici}, {manci}.
+    glosses:
+    - magic
+  de:
+    place structure: x1 ist magisch/übernatürlich/Zauberei/Hexerei für x2, vollführt/ausgeführt
+      von Person/Kraft/Gottheit x3
+    notes:
+    - No notes.
+    glosses:
+    - Magie
+  es:
+    place structure: x1 es mágico/brujería/hechicería/sobrenatural para x2, realizado
+      por persona/fuerza/deidad x3
+    notes:
+    - No notes.
+    glosses:
+    - mágico
+  ru:
+    place structure: x1 — волшебство/колдовство/магия с точки зрения x2, творимое
+      лицом/силой/божеством x3
+    notes:
+    - '{krici} (верить), {manci} (изумленный)'
+    glosses:
+    - волшебство
+    - x3=волшебник
+  en-simple:
+    place structure: x1 is magic or supernatural to x2 performed by x3
+    notes:
+    - No notes.
+    glosses:
+    - something magical
+    - x2=something to which something is magical
+    - x3=a performer of magic
+  eo:
+    place structure: x1 estas magia/supernatura/sorĉarta por x2, fare de homo/forto/dio
+      x3
+    notes:
+    - Vidu ankaŭ {krici}, {manci}.
+    glosses:
+    - magia
+  hu:
+    place structure: x1 varázslat/természetfeletti/mágia/boszorkányság x2 számára,
+      x3 személy/erő/istenség által végrehajtva
+    notes:
+    - '(Lásd még: {krici}, {manci})'
+    glosses:
+    - varázslat
+  ja:
+    place structure: x1 は x2 （対象）に x3 （者）が掛ける魔法／妖術／超自然的力
+    notes:
+    - ・大意： 魔法 ・読み方： マクファ  ・関連語： {manci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是魔法的/超自然的/有魔力的/巫术，对x2来说，由人/力/神灵x3施展
+    notes:
+    - 参见 {krici}, {manci}.
+    glosses:
+    - No glosses.

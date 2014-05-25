@@ -1,5 +1,63 @@
-Word: kusru
-Rafsi: kus
-Definition: x1 (person) is cruel/mean/unkind to victim x2.
-Notes: See also {xendo}, {jursa}.
-Examples: None
+word: kusru
+rafsi:
+- kus
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) is cruel/mean/unkind to victim x2.
+    notes:
+    - See also {xendo}, {jursa}.
+    glosses:
+    - cruel
+  de:
+    place structure: x1 (Person) ist grausam/gemein/unfreundlich gegenüber Opfer x2
+    notes:
+    - No notes.
+    glosses:
+    - grausam
+  es:
+    place structure: x1 es cruel/malvado/mezquino/desagradable hacia x2
+    notes:
+    - No notes.
+    glosses:
+    - cruel
+  ru:
+    place structure: x1 обижает/мучает/жесток к x2 (жертва)
+    notes:
+    - '{xendo} (добрый), {jursa} (суровый)'
+    glosses:
+    - обижать
+    - x1=обижающий
+    - x2=обижаемый
+  en-simple:
+    place structure: x1 is cruel to x2
+    notes:
+    - No notes.
+    glosses:
+    - something cruel
+    - x2=a victim of cruelty
+  eo:
+    place structure: x1 (homo) estas kruela/malnobla/malbona al viktimo x2
+    notes:
+    - Vidu ankaŭ {xendo}, {jursa}.
+    glosses:
+    - kruela
+  hu:
+    place structure: x1 személy kegyetlen/könyörtelen/aljas/undok x2-vel
+    notes:
+    - '(Lásd még: {xendo}, {jursa})'
+    glosses:
+    - kegyetlen
+  ja:
+    place structure: x1 （者）は x2 にたいして酷い／意地悪／不親切
+    notes:
+    - ・大意： 酷い（むごい） ・読み方： クスル  ・語呂合わせ： 酷くする ・関連語： {xendo}, {jursa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人）对x2是残酷的/自私的/不友好的
+    notes:
+    - 参见 {xendo}, {jursa}.
+    glosses:
+    - No glosses.

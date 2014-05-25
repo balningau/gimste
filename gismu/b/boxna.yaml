@@ -1,6 +1,93 @@
-Word: boxna
-Rafsi: bon, bo'a
-Definition: x1 is a wave [periodic pattern] in medium x2, wave-form x3, wave-length
-  x4, frequency x5.
-Notes: See also {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
-Examples: None
+word: boxna
+rafsi:
+- bon
+- bo'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wave [periodic pattern] in medium x2, wave-form x3, wave-length
+      x4, frequency x5.
+    notes:
+    - See also {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
+    glosses:
+    - wave
+  de:
+    place structure: x1 ist eine Welle [wiederkehrendes Muster] in Medium x2 mit Wellenform
+      x3, Wellenlänge x4 und Frequenz x5
+    notes:
+    - No notes.
+    glosses:
+    - Welle
+  es:
+    place structure: x1 es una onda/ola (forma periódica) en medio x2, forma de onda
+      x3, longitud de onda x4, frecuencia x5
+    notes:
+    - No notes.
+    glosses:
+    - onda
+  ru:
+    place structure: x1 — волна (периодическая структура) в среде x2, имеющая форму
+      x3, длину x4 и частоту x5
+    notes:
+    - '{slilu} (колебаться), {dikni} (регулярный [циклический]), {cinje} (складка),
+      {polje} (морщить), {morna} (узор), {canre} (песок)'
+    glosses:
+    - волна
+  en-simple:
+    place structure: x1 is a wave in x2 with wave-form x3, wavelength x4, and frequency
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - a wave
+    - x2=a wave medium
+    - x3=a waveform
+    - x4=a wavelength
+    - x5=a wave frequency
+  eo:
+    place structure: x1 estas ondo [perioda formo] en medio x2, formo x3, ondolongo
+      x4, frekvenco x5
+    notes:
+    - Vidu ankaŭ {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
+    glosses:
+    - ondo
+  hu:
+    place structure: x1 egy hullám [ismétlődő minta] x2 közegben, x3 hullámformával,
+      x4 hullámhosszal, x5 rezgésszámmal
+    notes:
+    - '(Lásd még: {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre})'
+    glosses:
+    - hullám
+  ja:
+    place structure: x1 は x2 （媒体）・ x3 （波形）・ x4 （波長）・ x5 （周波数）の波／周期的形態
+    notes:
+    - 海の波も。 ・大意： 波 ・読み方： ボクゥナ  ・語呂合わせ： ＜坊主の船出＞,  bo(並), onda　 ・関連語： {slilu}, {dikni},
+      {cinje}, {polje}, {morna}, {canre}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en bølge [periodisk mønster] i medium x2, med bølgeform
+      x3, bølgelengde x4 og frekvens x5
+    notes:
+    - Se óg {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en våg/periodiskt mönster i medium x2, med vågform x3,våglängd
+      x4 och frekvens x5.
+    notes:
+    - No notes.
+    glosses:
+    - ondulera
+    - x1=våg (periodiskt mönster)
+    - x2=vågig
+    - x3=vågform
+    - x4=våglängd
+    - x5=vågfrekvens
+  zh:
+    place structure: x1是波，传播媒介为x2，波形为x3，波长为x4，频率为x5
+    notes:
+    - 参见 {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
+    glosses:
+    - No glosses.

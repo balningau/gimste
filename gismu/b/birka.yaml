@@ -1,6 +1,82 @@
-Word: birka
-Rafsi: bir
-Definition: 'x1 is a/the arm [body-part] of x2; [metaphor: branch with strength].'
-Notes: Also elbow (= {bircidni}), wrist (= {xanterjo'e}), appendage (but jimca, rebla
-  preferred).  See also {jimca}, {janco}, {xance}, {rebla}.
-Examples: None
+word: birka
+rafsi:
+- bir
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the arm [body-part] of x2; [metaphor: branch with strength].'
+    notes:
+    - Also elbow (= {bircidni}), wrist (= {xanterjo'e}), appendage (but jimca, rebla
+      preferred).  See also {jimca}, {janco}, {xance}, {rebla}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: 'x1 ist ein/der Arm [Körperteil] von x2; [im übertragenen Sinne:
+      Zweig mit Kraft]'
+    notes:
+    - No notes.
+    glosses:
+    - Arm
+  es:
+    place structure: x1 es un brazo (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - brazo
+  ru:
+    place structure: x1 — рука (часть тела) x2
+    notes:
+    - 'Локоть: {bircidni}, запястье: {xanterjo''e}, Также: придаток (но предпочтительнее
+      {jimca}, {rebla}) {jimca} (ветвь), {janco} (плечо [часть тела]), {xance} (кисть
+      [руки]), {rebla} (хвост)'
+    glosses:
+    - x1=рука
+  en-simple:
+    place structure: x1 is an arm of x2
+    notes:
+    - No notes.
+    glosses:
+    - an arm
+    - x2=something with an arm
+  eo:
+    place structure: 'x1 estas brako [korpoparto] de x2; [metafore: branĉo kun forto]'
+    notes:
+    - 'Ankaŭ: kubuto (= {bircidni}), pojno (= {xanterjo''e}), alpendaĵo (sed jimca,
+      rebla preferindaj).  Vidu ankaŭ {jimca}, {janco}, {xance}, {rebla}.'
+    glosses:
+    - brako
+  hu:
+    place structure: x1 egy/a karja x2-nek
+    notes:
+    - '(Lásd még: {jimca}, {janco}, {xance}, {rebla})'
+    glosses:
+    - kar
+  ja:
+    place structure: x1 は x2 （本体）の腕
+    notes:
+    - ・大意： 腕 ・読み方： ビルカ  ・語呂合わせ： ＜ビールかかえる＞,  bi(臂), brazo  ・関連語： {jimca} (上位概念), {janco},
+      {xance}, {rebla}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en arm [kroppsdel] på kropp x2
+    notes:
+    - Óg albue (= {bircidni}), håndledd (= {xanterjo'e}). Se også {jimca}, {janco},
+      {xance}, {rebla}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en arm av kropp x2.
+    notes:
+    - Även {bircidni} för armbåge.Se även {jimca}, {janco}, {xance}, {rebla}, {nalci},
+      {tuple}, {xarci}.
+    glosses:
+    - x1=arm (kroppsdel)
+    - x2=armförsedd
+  zh:
+    place structure: x1是x2的胳膊/手臂
+    notes:
+    - 手肘={bircidni}；手腕={xanterjo'e}；参见 {jimca}, {janco}, {xance}, {rebla}
+    glosses:
+    - No glosses.

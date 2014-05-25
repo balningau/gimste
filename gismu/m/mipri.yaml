@@ -1,7 +1,77 @@
-Word: mipri
-Rafsi: mip
-Definition: x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret; x1 hides/conceals
-  x2.
-Notes: Intransitive hidden/secret, without an agent (= {selcri} or {nalterju'o});
-  secret (= {selmipri}).  See also {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.
-Examples: None
+word: mipri
+rafsi:
+- mip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret;
+      x1 hides/conceals x2.
+    notes:
+    - Intransitive hidden/secret, without an agent (= {selcri} or {nalterju'o}); secret
+      (= {selmipri}).  See also {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.
+    glosses:
+    - secret
+  de:
+    place structure: x1 hält x2 geheim/versteckt vor x3 durch Methode x4; x2 ist ein
+      Geheimnis; x1 versteckt/verbirgt x2.
+    notes:
+    - Intransitiv versteckt/geheim, ohne einen Handelnden (= {selcri}); Geheimnis
+      (= {selmipri}).  Siehe auch {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.
+    glosses:
+    - geheim
+  es:
+    place structure: x1 esconde/oculta x2 de x3 por método x4
+    notes:
+    - Ver también {jarco},  {stace},  {mifra}.
+    glosses:
+    - esconder
+  ru:
+    place structure: x1 скрывает/прячет/держит в секрете x2 (что) от x3 путем/способом
+      x4; x2 — секрет/тайна
+    notes:
+    - 'Скрытый/затерянный/неведомый (в отсутствие агента): {selcri} или {nalterju''o};
+      секрет/тайна: {selmipri} {stace} (честный), {mifra} (шифровка), {sivni} (частный
+      [персональный]), {djuno} (знать), {cirko} (терять), {jarco} (показывать [демонстрировать])'
+    glosses:
+    - прятать
+    - x1=прячущий
+    - x2=секрет
+    - x3=тот, от кого скрывают
+    - x4=способ скрытия
+  en-simple:
+    place structure: x1 keeps x2 hidden from x3 by method x4
+    notes:
+    - No notes.
+    glosses:
+    - a concealer
+    - x2=something concealed
+    - x3=something from which something is concealed
+    - x4=a method of concealment
+  eo:
+    place structure: x1 sekretigas x2-on kaŝitan al x3 per metodo x4; x2 estas sekreta;
+      x1 kaŝas x2-on
+    notes:
+    - Netransitiva kaŝita/sekreta, sen agento (= selcri aŭ nalterju'o); sekreta (=
+      {selmipri}).  Vidu ankaŭ {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.
+    glosses:
+    - sekretigi
+  hu:
+    place structure: x1 eltitkolja x2-t x3 elől, x4 módon
+    notes:
+    - '(Lásd még: {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco})'
+    glosses:
+    - titkol
+  ja:
+    place structure: x1 は x2 を x3 から、 x4 （方法）によって匿う／隠す／秘密にする
+    notes:
+    - ・大意： 匿う ・読み方： ミプリ  ・関連語： {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将x2隐藏，以避开x3，使用隐藏方法x4；x2是秘密/机密；x1将x2隐藏起来
+    notes:
+    - 躲避/隐藏= {selcri}/{nalterju'o}；秘密={selmipri}；参见 {stace}, {mifra}, {sivni}, {djuno},
+      {cirko}, {jarco}.
+    glosses:
+    - No glosses.

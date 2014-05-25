@@ -1,7 +1,80 @@
-Word: jvinu
-Rafsi: vin, ji'u
-Definition: x1 is the view/scene/panorama/sight/prospect of x2 (object/location) from
-  point-of-view x3.
-Notes: Also $x_1$ is on display to $x_2$/$x_3$.  See also {catlu}, {kanla}, {viska},
-  {canko}, {jarco}.
-Examples: None
+word: jvinu
+rafsi:
+- vin
+- ji'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the view/scene/panorama/sight/prospect of x2 (object/location)
+      from point-of-view x3.
+    notes:
+    - Also x1 is on display to x2/x3.  See also {catlu}, {kanla}, {viska}, {canko},
+      {jarco}.
+    glosses:
+    - scene (landscape)
+    - sight (view)
+    - view
+    - view (sight)
+  jbo:
+    place structure: x1 se krasi x2 gi'e ka'e se viska bu'u x3
+    notes:
+    - '{viska}; {sance}; {panci}; {vrusi}; {tengu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist die Sicht/Aussicht/Szene/der Anblick/das Panorama von
+      x2 (Objekt/Ort) von Perspektive/Blickwinkel x3
+    notes:
+    - No notes.
+    glosses:
+    - Sicht
+  es:
+    place structure: x1 es una vista/escena/panorama de x2 desde punto de vista x3
+    notes:
+    - No notes.
+    glosses:
+    - vista
+  ru:
+    place structure: x1 — вид/сцена/панорама объекта/места x2 с точки наблюдения x3
+    notes:
+    - '{catlu} (смотреть [на что-либо]), {kanla} (глаз), {viska} (видеть), {canko}
+      (окно), {jarco} (показывать [демонстрировать])'
+    glosses:
+    - x1=панорама
+    - x3=точка наблюдения панорамы
+  en-simple:
+    place structure: x1 is a view of x2 from point of view x3
+    notes:
+    - No notes.
+    glosses:
+    - a view
+    - x2=something viewed
+    - x3=a viewpoint
+  eo:
+    place structure: x1 estas la vidaĵo/panoramo de x2 (objekto/loko) el vidpunkto
+      x3
+    notes:
+    - Vidu ankaŭ {catlu}, {kanla}, {viska}, {canko}, {jarco}.
+    glosses:
+    - vidaĵo
+  hu:
+    place structure: x1 a kilátás x2-re / a látványa x2-nek x3 nézőpontból
+    notes:
+    - '(Lásd még: {catlu}, {kanla}, {viska}, {canko}, {jarco})'
+    glosses:
+    - kilátás
+  ja:
+    place structure: x1 は x2 （物／所）・ x3 （観点）の景観／景色／光景
+    notes:
+    - 「ここに写っている（x1）のは、新宿（ x3 ）から観える富士山（ x2 ）」。「lo blotcana cu te cerni .i nu jvinu
+      lo lunra／港は朝月のある風景」（山頭火『行乞記（二）』） ・大意： 景観 ・読み方： ジヴィヌ  ・関連語： {catlu}, {kanla},
+      {viska}, {canko}, {jarco}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2（物体/地点）的景色，从观测点x3看来
+    notes:
+    - 参见 {catlu}, {kanla}, {viska}, {canko}, {jarco}.
+    glosses:
+    - No glosses.

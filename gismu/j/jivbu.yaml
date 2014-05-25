@@ -1,5 +1,74 @@
-Word: jivbu
-Rafsi: ''
-Definition: x1 weaves x2 from material/[yarn] x3.
-Notes: See also {fenso}, {nivji}.
-Examples: None
+word: jivbu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 weaves x2 from material/[yarn] x3.
+    notes:
+    - See also {fenso}, {nivji}.
+    glosses:
+    - weave
+  de:
+    place structure: x1 webt x2 aus Material/Faden x3
+    notes:
+    - No notes.
+    glosses:
+    - weben
+  es:
+    place structure: x1 teje/trenza/entrelaza/entreteje x2 con material x3
+    notes:
+    - Ver también {nivji}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 ткет/плетет x2 из материала/{пряжи} x3
+    notes:
+    - '{fenso} (шить), {nivji} (вязать)'
+    glosses:
+    - x1=ткать
+    - x2=выплетаемый
+    - x3=пряжа
+  en-simple:
+    place structure: x1 weaves x2 from material x3
+    notes:
+    - No notes.
+    glosses:
+    - a weaver
+    - x2=a woven product
+    - x3=a yarn for weaving
+  eo:
+    place structure: x1 teksas x2-on el materialo/[fadeno] x3; x1 plektas x2-on en
+      x3-on
+    notes:
+    - Vidu ankaŭ {fenso}, {nivji}.
+    glosses:
+    - teksi
+  hu:
+    place structure: x1 szövi x2-t x3 anyagból
+    notes:
+    - '(Lásd még: {fenso}, {nivji})'
+    glosses:
+    - sző
+  ja:
+    place structure: x1 は x2 を x3 （材料）から織る
+    notes:
+    - ・大意： 織る ・読み方： ジヴブ  ・関連語： {fenso}, {nivji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 väver x2 från material/[garn] x3.
+    notes:
+    - No notes.
+    glosses:
+    - väva
+    - x1=vävare
+    - x2=vävnad (textil)
+    - x3=vävmaterial
+  zh:
+    place structure: x1编织/纺织x2，使用原材料x3
+    notes:
+    - 参见 {fenso}, {nivji}.
+    glosses:
+    - No glosses.

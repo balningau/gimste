@@ -1,7 +1,67 @@
-Word: pindi
-Rafsi: pid
-Definition: x1 is poor/indigent/impoverished/lacking in goods/possessions/property
-  x2.
-Notes: $x_2$ is scanty/meager/lacking for $x_1$.  See also {ricfu}, {claxu}, {nitcu},
-  {pikci}.
-Examples: None
+word: pindi
+rafsi:
+- pid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is poor/indigent/impoverished/lacking in goods/possessions/property
+      x2.
+    notes:
+    - x2 is scanty/meager/lacking for x1.  See also {ricfu}, {claxu}, {nitcu}, {pikci}.
+    glosses:
+    - poor
+  de:
+    place structure: x1 ist arm/verarmt/mittellos/bedürftig und es fehlt ihm/ihr an
+      Gütern/Besitz/Eigentum x2
+    notes:
+    - No notes.
+    glosses:
+    - arm
+  es:
+    place structure: x1 es pobre/indigente/carente de bienes/posesiones/propiedad/aspecto
+      x2
+    notes:
+    - Ver también {ricfu},  {claxu},  {nitcu}.
+    glosses:
+    - pobre
+  ru:
+    place structure: x1 беден/скуден/обделен ресурсами/имуществом/собственностью x2
+    notes:
+    - x1 (кому) не хватает/не достает x2 {ricfu} (богатый), {claxu} (без), {nitcu}
+      (нуждаться), {pikci} (молить)
+    glosses:
+    - бедный
+  en-simple:
+    place structure: x1 is poor or lacking in x2
+    notes:
+    - No notes.
+    glosses:
+    - something poor
+    - x2=something of which something is poor
+  eo:
+    place structure: x1 estas malriĉa/povra/senhava je varoj/posedaĵoj/eco x2
+    notes:
+    - x2 estas malabunda/malsufiĉa/mankanta por x1.  Vidu ankaŭ {ricfu}, {claxu},
+      {nitcu}, {pikci}.
+    glosses:
+    - malriĉa
+  hu:
+    place structure: x1 szegény/rászoruló/létminimum alatt él, x2 javak/birtokok/tulajdonság
+      nélkül
+    notes:
+    - '(Lásd még: {ricfu}, {claxu}, {nitcu}, {pikci})'
+    glosses:
+    - szegény
+  ja:
+    place structure: x1 は x2 （性質）に関して貧乏／貧しい／貧窮している
+    notes:
+    - ・大意： 貧乏 ・読み方： ピンディ  ・語呂合わせ： pin (贫) ・関連語： {ricfu}, {claxu}, {nitcu}, {pikci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是贫穷的/贫困的/贫乏的，在（货物/财产/性质）x2方面；x1缺少x2
+    notes:
+    - x2是缺乏的，对x1来说；参见 {ricfu}, {claxu}, {nitcu}, {pikci}.
+    glosses:
+    - No glosses.

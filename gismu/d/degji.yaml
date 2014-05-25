@@ -1,7 +1,77 @@
-Word: degji
-Rafsi: deg
-Definition: 'x1 is a/the finger/digit/toe [body-part] on limb/body site x2 of body
-  x3; [metaphor: peninsula].'
-Notes: Finger (= {xandegji}), toe (= {jmadegji}).  See also {nazbi}, {tamji}, {tance},
-  {xance}.,
-Examples: None
+word: degji
+rafsi:
+- deg
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the finger/digit/toe [body-part] on limb/body site x2
+      of body x3; [metaphor: peninsula].'
+    notes:
+    - Finger (= {xandegji}), toe (= {jmadegji}).  See also {nazbi}, {tamji}, {tance},
+      {xance}.,
+    glosses:
+    - finger
+  de:
+    place structure: 'x1 ist ein/der Finger/Zeh [Körperteil] an Gliedmaß/Körperstelle
+      x2 von Körper x3; [im übertragenen Sinne: Halbinsel]'
+    notes:
+    - No notes.
+    glosses:
+    - Finger oder Zeh
+  es:
+    place structure: x1 es un dedo/dígito (parte del cuerpo) de miembro x2 del cuerpo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - dedo
+  ru:
+    place structure: x1 — палец (часть тела) конечности x2 тела x3
+    notes:
+    - 'Метафора: полуостров; палец руки: {xandegji}, палец ноги: {jmadegji} {nazbi}
+      (нос), {tamji} (большой палец), {tance} (язык [часть тела]), {xance} (кисть
+      [руки])'
+    glosses:
+    - палец
+  en-simple:
+    place structure: x1 is a finger, toe, or digit on limb x2 of body x3
+    notes:
+    - No notes.
+    glosses:
+    - a finger or toe
+    - x2=a limb with a finger or toe
+    - x3=something with a finger or toe
+  eo:
+    place structure: 'x1 estas fingro [korpoparto] en membro/korpa loko x2 de korpo
+      x3; [metafore: peninsula]'
+    notes:
+    - Fingro (= {xandegji}), piedfingro (= {jmadegji}).  Vidu ankaŭ {nazbi}, {tamji},
+      {tance}, {xance}.
+    glosses:
+    - fingro
+  hu:
+    place structure: x1 egy/az ujj x2 végtagon/helyen, x3 testén
+    notes:
+    - '(Lásd még: {nazbi}, {tamji}, {tance}, {xance})'
+    glosses:
+    - ujj
+  ja:
+    place structure: x1 は x2 （本体）・ x3 （箇所／肢）の指
+    notes:
+    - 比喩的に「半島」も。 ・大意： 指 ・読み方： デグジ  ・関連語： {nazbi}, {tamji}, {tance}, {xance}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett finger/tå [kroppsdel] på lem/ställe på kroppen x2 av
+      kropp x3.
+    notes:
+    - Finger (= {xandegji}), toe (= {jmadegji}).
+    glosses:
+    - finger/tå
+  zh:
+    place structure: x1是手指/脚趾/爪子，位于肢体x2上，身体x3上（暗喻：半岛）
+    notes:
+    - 手指= {xandegji}，脚趾= {jmadegji}；参见 {nazbi}, {tamji}, {tance}, {xance}.,
+    glosses:
+    - No glosses.

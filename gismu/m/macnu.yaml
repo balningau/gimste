@@ -1,6 +1,68 @@
-Word: macnu
-Rafsi: cnu
-Definition: x1 (event/action/process) is manual [not automatic] in function x2 under
-  conditions x3.
-Notes: See also {zmiku}, {jitro}.
-Examples: None
+word: macnu
+rafsi:
+- cnu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/action/process) is manual [not automatic] in function
+      x2 under conditions x3.
+    notes:
+    - See also {zmiku}, {jitro}.
+    glosses:
+    - manual (requiring sentient intervention)
+  de:
+    place structure: x1 (Ereignis/Tätigkeit/Prozess) ist manuell [nicht automatisch]
+      in Funktion x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - manuell
+  es:
+    place structure: x1 es manual (no automático) en función x2
+    notes:
+    - Ver también {zmiku}.
+    glosses:
+    - manual
+  ru:
+    place structure: x1 (событие/действие/процесс) — ручной (не автоматический) относительно
+      функции x2 в условиях x3
+    notes:
+    - '{zmiku} (автоматический), {jitro} (контролировать)'
+    glosses:
+    - x1=ручной (процесс)
+  en-simple:
+    place structure: x1 is manual in function x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something manual
+    - x2=a manual function
+    - x2=the manual function
+    - x3=a manual condition
+  eo:
+    place structure: x1 (okazo/ago/procedo) estas neaŭtomata/homdirektata en funkcio
+      x2 sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {zmiku}, {jitro}.
+    glosses:
+    - neaŭtomata
+  hu:
+    place structure: x1 (esemény/cselekedet/folyamat) kézi [nem automatikus] x2 szerepben,
+      x3 feltételek mellett
+    notes:
+    - '(Lásd még: {zmiku}, {jitro})'
+    glosses:
+    - kézi
+  ja:
+    place structure: x1 （事）は x2 （機能）に関して手動／マニュアル
+    notes:
+    - ・大意： 手動 ・読み方： マシヌ  ・語呂合わせ： マニュアル　手動 ・関連語： {zmiku}, {jitro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/行为/进程）是手动/非自动的，在功用x2上，在条件x3下
+    notes:
+    - 参见 {zmiku}, {jitro}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,72 @@
-Word: latna
-Rafsi: ''
-Definition: x1 is a lotus, plant/flower/herb of species/strain x2 symbolizing x3 to
-  culture/religion x4.
-Notes: See also {budjo}, {censa}, {lijda}, {spati}.
-Examples: None
+word: latna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lotus, plant/flower/herb of species/strain x2 symbolizing
+      x3 to culture/religion x4.
+    notes:
+    - See also {budjo}, {censa}, {lijda}, {spati}.
+    glosses:
+    - lotus
+  de:
+    place structure: x1 ist ein Lotus, eine Pflanze/Blume/ein Kraut von Art/Gattung
+      x2 und symbolisiert x3 für Kultur/Religion x4
+    notes:
+    - No notes.
+    glosses:
+    - Lotus
+  es:
+    place structure: x1 es un loto/flor/hierba/planta de especie/variedad x2 que simboliza
+      x3 para cultura/religión x4
+    notes:
+    - No notes.
+    glosses:
+    - loto
+  ru:
+    place structure: x1 — лотос, растение/цветок/трава вида/разновидности x2, символизирующий
+      x3 в культуре/религии x4
+    notes:
+    - '{budjo} (буддийский), {censa} (священный), {lijda} (религия), {spati} (растение)'
+    glosses:
+    - лотос
+    - x2=вид лотоса
+    - x3=символика лотоса
+  en-simple:
+    place structure: x1 is a lotus of species x2 symbolizing x3 to culture x4
+    notes:
+    - No notes.
+    glosses:
+    - a lotus
+    - x2=a species of lotus
+    - x3=something symbolised by a lotus
+    - x4=a culture to which a lotus symbolizes something
+  eo:
+    place structure: x1 estas lotuso, planto/floro/herbo de speco/raso x2 simbolanta
+      x3-on por kulturo/religio x4
+    notes:
+    - Vidu ankaŭ {budjo}, {censa}, {lijda}, {spati}.
+    glosses:
+    - lotuso
+  hu:
+    place structure: x1 egy szimbolikus jelentőséggel bíró növény az x2 fajból/fajtából,
+      ami x3 szimbóluma az x4 kultúrában/vallásban
+    notes:
+    - '(Lásd még: {budjo}, {censa}, {lijda}, {spati})'
+    glosses:
+    - lótusz
+  ja:
+    place structure: x1 は x2 （種類）のハス属植物
+    notes:
+    - 「スイレン属」も。仏教、ギリシア神話、古代エジプトなどで広く象徴的であることから、文化をx3、象徴内容をx4とする方法も。 ・大意： 蓮 ・読み方： ルァトナ  ・語呂合わせ：
+      lotus, lian（蓮） ・関連語： {budjo}, {censa}, {lijda}, {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是莲/荷，属于种类x2，象征x3，在文化/宗教x4中
+    notes:
+    - 参见 {budjo}, {censa}, {lijda}, {spati}.
+    glosses:
+    - No glosses.

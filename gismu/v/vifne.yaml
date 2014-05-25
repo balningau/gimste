@@ -1,5 +1,60 @@
-Word: vifne
-Rafsi: vif
-Definition: (adjective:) x1 is fresh/unspoiled.
-Notes: See also {fusra}.
-Examples: None
+word: vifne
+rafsi:
+- vif
+examples: No examples.
+definitions:
+  en:
+    place structure: (adjective:) x1 is fresh/unspoiled.
+    notes:
+    - See also {fusra}.
+    glosses:
+    - fresh
+  de:
+    place structure: (Adjektiv:) x1 ist frisch/unverdorben
+    notes:
+    - No notes.
+    glosses:
+    - frisch
+  es:
+    place structure: x1 es/está fresco
+    notes:
+    - Ver también {fusra}.
+    glosses:
+    - fresco
+  ru:
+    place structure: x1 — свежий/неиспорченный
+    notes:
+    - '{fusra} (гнить)'
+    glosses:
+    - свежий
+  en-simple:
+    place structure: x1 is fresh or unspoiled
+    notes:
+    - No notes.
+    glosses:
+    - something fresh
+  eo:
+    place structure: (adjektivo:) x1 estas freŝa/bonstata
+    notes:
+    - Vidu ankaŭ {fusra}.
+    glosses:
+    - freŝa
+  hu:
+    place structure: x1 friss/romlatlan
+    notes:
+    - '(Lásd még: {fusra})'
+    glosses:
+    - friss
+  ja:
+    place structure: x1 は新鮮／新品状態
+    notes:
+    - ・大意： 新鮮 ・読み方： ヴィフゥネ  ・語呂合わせ： cinsen ・関連語： {fusra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是新鲜的/未损坏的
+    notes:
+    - 参见 {fusra}.
+    glosses:
+    - No glosses.

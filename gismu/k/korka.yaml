@@ -1,6 +1,66 @@
-Word: korka
-Rafsi: kok
-Definition: x1 is a quantity of/contains/is made of cork/bark from tree/species x2;
-  [material].
-Notes: See also {tricu}, {calku}, {skapi}, {stagi}.
-Examples: None
+word: korka
+rafsi:
+- kok
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of cork/bark from tree/species
+      x2; [material].
+    notes:
+    - See also {tricu}, {calku}, {skapi}, {stagi}.
+    glosses:
+    - cork
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Kork/Rinde/Borke von
+      Baum/Spezies x2; [Material]
+    notes:
+    - No notes.
+    glosses:
+    - Kork
+  es:
+    place structure: x1 es una cantidad de corcho/corteza de árbol/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - corcho
+  ru:
+    place structure: x1 — кора/пробка/луб дерева вида x2; x1 содержит кору
+    notes:
+    - '{tricu} (дерево), {calku} (панцирь), {skapi} (кожа), {stagi} (овощ)'
+    glosses:
+    - кора (луб)
+    - x2=дерево, имеющее кору
+  en-simple:
+    place structure: x1 is a quantity of cork from tree x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of cork
+    - x2=a species of cork
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el korko/ŝelo el arbo/speco
+      x2; [materialo]
+    notes:
+    - Vidu ankaŭ {tricu}, {calku}, {skapi}, {stagi}.
+    glosses:
+    - korko
+  hu:
+    place structure: x1 bizonyos mennyiségű parafa/fakéreg/faháncs (-ot tartalmaz/-ból
+      készült) az x2 fafajból
+    notes:
+    - '(Lásd még: {tricu}, {calku}, {skapi}, {stagi})'
+    glosses:
+    - parafa
+  ja:
+    place structure: x1 は x2 （木材／種類）のコルク
+    notes:
+    - ・大意： コルク ・読み方： コルカ  ・語呂合わせ： コルク ・関連語： {tricu}, {calku}, {skapi}, {stagi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是树皮，属于植物x2
+    notes:
+    - 参见 {tricu}, {calku}, {skapi}, {stagi}.
+    glosses:
+    - No glosses.

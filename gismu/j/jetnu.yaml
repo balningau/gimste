@@ -1,6 +1,80 @@
-Word: jetnu
-Rafsi: jet, je'u
-Definition: x1 (du'u) is true/truth by standard/epistemology/metaphysics x2.
-Notes: Words usable for epistemology typically have a du'u place.  See also {stace},
-  {jitfa}, {fatci}, {birti}, {cfika}.
-Examples: None
+word: jetnu
+rafsi:
+- jet
+- je'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (du'u) is true/truth by standard/epistemology/metaphysics
+      x2.
+    notes:
+    - Words usable for epistemology typically have a du'u place.  See also {stace},
+      {jitfa}, {fatci}, {birti}, {cfika}.
+    glosses:
+    - 'true'
+  de:
+    place structure: x1 (du'u) ist wahr/die Wahrheit gemäß Standard/Erkenntnistheorie
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - wahr
+  es:
+    place structure: x1 es verdad/cierto según estándar/epistemología x2
+    notes:
+    - Ver también {jitfa},  {fatci}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 (факт) является истинным относительно стандарта/эпистемологии/метафизики
+      x2
+    notes:
+    - 'Также: истина, правда; слова, описывающие эпистемологию, обычно имеют место
+      типа {du''u} {stace} (честный), {jitfa} (ложь), {fatci} (факт), {birti} (убежденный
+      [в истинности]), {cfika} (вымысел)'
+    glosses:
+    - x1=истинный
+  en-simple:
+    place structure: x1 is true by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - something true
+    - x2=a standard for truth
+  eo:
+    place structure: x1 (du'u) estas vera laŭ normo/epistemologio/metafiziko x2
+    notes:
+    - Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton.  Vidu ankaŭ {stace},
+      {jitfa}, {fatci}, {birti}, {cfika}.
+    glosses:
+    - vera
+  hu:
+    place structure: x1 igaz x2 mérce/ismeretelmélet/metafizikai modell szerint
+    notes:
+    - '(Lásd még: {stace}, {jitfa}, {fatci}, {birti}, {cfika})'
+    glosses:
+    - igaz
+  ja:
+    place structure: x1 （命題）は x2 （認識体系）において真実／本当
+    notes:
+    - tanru の修飾部として使えば「本当に～」など。 ・大意： 真実 ・読み方： ジェトヌ  ・関連語： {je'u}, {stace}, {jitfa},
+      {fatci}, {birti}, {cfika}
+    - ''
+    glosses:
+    - 本当 (嘘ではない)
+    - x1=真 (偽ではない)
+  sv:
+    place structure: x1 (du'u) är sant/sanning enligt standard/epistemologi/metafysik
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - sann
+    - sanning
+    - sant (sann)
+  zh:
+    place structure: x1（du'u）是真的/真实的/真相，给予标准/认知论x2
+    notes:
+    - 基于认知论的词通常含有du'u位；参见 {stace}, {jitfa}, {fatci}, {birti}, {cfika}.
+    glosses:
+    - No glosses.

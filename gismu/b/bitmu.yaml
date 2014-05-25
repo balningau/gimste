@@ -1,6 +1,104 @@
-Word: bitmu
-Rafsi: bim, bi'u
-Definition: x1 is a wall/fence separating x2 and x3 (unordered) of/in structure x4.
-Notes: See also {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta},
-  {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
-Examples: None
+word: bitmu
+rafsi:
+- bim
+- bi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wall/fence separating x2 and x3 (unordered) of/in structure
+      x4.
+    notes:
+    - See also {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta},
+      {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+    glosses:
+    - wall
+  de:
+    place structure: x1 ist eine Wand/Mauer/ein Zaun und trennt x2 und x3 (ungeordnet)
+      in/von Struktur/Gebäude x4
+    notes:
+    - No notes.
+    glosses:
+    - Wand (Mauer)
+  es:
+    place structure: x1 es una pared/muro/verja/valla que separa x2 y x3 en estructura
+      x4
+    notes:
+    - Ver también {vorme},  {jbini},  {sepli}.
+    glosses:
+    - muro
+  ru:
+    place structure: x1 — стена/забор/изгородь/{ширма/перегородка}, разделяющая x2
+      и x3 (порядок неважен) в сооружении x4
+    notes:
+    - '{jbini} (между), {sepli} (отделенный), {fendi} (делить [разделять]), {canko}
+      (окно), {drudi} (крыша), {kumfa} (комната), {loldi} (пол [дно]), {senta} (слой),
+      {snuji} (прослойка), {pagre} (проникать [проходить сквозь]), {gacri} (покрывать
+      [в качестве крышки]), {kuspe} (простираться), {marbi} (убежище), {vorme} (дверь)'
+    glosses:
+    - x1=забор
+  en-simple:
+    place structure: x1 is a wall or fence separating x2 and x3 of or in structure
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a wall
+    - x2=something separated by a wall
+    - x3=something a wall separates
+    - x4=something with a wall
+  eo:
+    place structure: x1 estas muro/barilo apartiganta x2-on kaj x3-on (neordigitaj)
+      de/en strukturo x4
+    notes:
+    - Vidu ankaŭ {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta},
+      {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+    glosses:
+    - muro
+  hu:
+    place structure: x1 egy fal, amely elválasztja x2-t és x3-t, x4 építményben/szerkezettel
+    notes:
+    - '(Lásd még: {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta},
+      {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme})'
+    glosses:
+    - fal
+  ja:
+    place structure: x1 は x2 ・ x3 を隔てる、 x4 （構造体）の壁／垣／塀／フェンス
+    notes:
+    - ・大意： 壁 ・読み方： ビトム  ・語呂合わせ： ＜美に富む＞, 壁、ちょびっと無駄,  muro  ・関連語： {jbini}, {sepli},
+      {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri},
+      {kuspe}, {marbi}, {vorme}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en mur/vegg/gjerde som separerer x2 og x3 som er organisert
+      i struktur x4
+    notes:
+    - Se óg {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta},
+      {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en vägg/mur/staket/stängsel/inhägnad som separerar x2 från
+      x3, och underindelar x4.
+    notes:
+    - I vilken ordning x2 och x3 sätts i är oviktigt.Se även {jbini}, {sepli}, {fendi},
+      {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe},
+      {marbi}, {vorme}.
+    glosses:
+    - dela av (med fysisk struktur (exv vägg))
+    - hägna in
+    - inhägna
+    - inhägnad
+    - vägg
+    - x1=avdelare (med fysisk struktur (exv vägg))
+    - x2=avdelad (med fysisk struktur (exv vägg))
+    - x3=avdelad från (med fysisk struktur (exv vägg))
+    - x4=underindelad (med fysisk struktur (exv vägg))
+  zh:
+    place structure: x1是隔开x2和x3的墙/篱，在结构x4上
+    notes:
+    - 参见 {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji},
+      {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+    glosses:
+    - No glosses.

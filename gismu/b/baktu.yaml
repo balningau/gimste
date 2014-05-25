@@ -1,6 +1,109 @@
-Word: baktu
-Rafsi: ''
-Definition: x1 is a bucket/pail/can/deep, solid, wide-topped container of contents
-  x2, made of material x3.
-Notes: See also {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
-Examples: None
+word: baktu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bucket/pail/can/deep, solid, wide-topped container of
+      contents x2, made of material x3.
+    notes:
+    - See also {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+    glosses:
+    - bucket
+  de:
+    place structure: x1 ist ein Eimer/eine Dose/ein tiefer, fester Behälter mit breitem
+      Rand mit Inhalt x2, bestehend aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Eimer
+  es:
+    place structure: x1 es un balde/cubo/tarro/tonel/lata/tinaja/recipiente de boca
+      ancha para contenido x2, de material x3
+    notes:
+    - Ver también {botpi},  {patxu},  {tansi}.
+    glosses:
+    - balde
+  fr:
+    place structure: x1 est un seau/un contenant profond et solide dont le haut est
+      large, contenant x2 et fait de x3.
+    notes:
+    - Voir également {botpi}, {patxu}, {lante}, {lanka}.
+    glosses:
+    - seau
+  ru:
+    place structure: x1 — бадья/ведро/лохань/ванна/корыто (сосуд с плотными стенками,
+      с широким раствором) с содержимым x2, из материала x3
+    notes:
+    - Содержимое может только предполагаться, т.е. сосуд для x2
+    glosses:
+    - ванна
+    - корыто
+    - x1=ведро
+  en-simple:
+    place structure: x1 is a pail or bucket containing x2 made of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a pail
+    - x2=contents of a pail
+    - x3=a material of a pail
+  eo:
+    place structure: x1 estas sitelo/profunda, solida ujo kun larĝa supro, enhavanta
+      x2-on, el materialo x3
+    notes:
+    - Vidu ankaŭ {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+    glosses:
+    - sitelo
+  hu:
+    place structure: x1 egy vödör/bödön [mély, széles edény/tartály] amely x2-t tartalmaz
+      és x3 anyagból készült
+    notes:
+    - '(Lásd még: {botpi}, {patxu}, {tansi}, {lante}, {lanka})'
+    glosses:
+    - vödör
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）のバケツ／桶／槽
+    notes:
+    - 「tansi」よりも底が深い。「風呂／浴槽」「水槽」も。「da kevna le baktu／そのバケツは、どこかに穴が開いている」 ・大意： バケツ
+      ・読み方： バクトゥ ・語呂合わせ： ＜バック・トゥー＞, baketu, bucket ・関連語： {botpi}, {patxu}, {tansi},
+      {lante}, {lanka}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en bøtte/kanne/spann med innhold x2, laget av materiale
+      x3
+    notes:
+    - Se også {botpi}, {lanka}, {lante}, {patxu} og {tansi}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest wiadrem/kubłem/puszką/głębokim, solidnym, szerokim u
+      góry pojemnikiem z zawartością x2, zrobionym z materiału x3.
+    notes:
+    - Patrz też {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+    glosses:
+    - wiadro
+  sv:
+    place structure: x1 är en spann/hink/ämbar/pyts/bytta/[skål]/dunk]/burk/tunna/djup
+      behållare med vid öppning med innehåll x2, tillverkad av material x3
+    notes:
+    - Se även {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+    glosses:
+    - burk
+    - bytta
+    - hink
+    - pyts
+    - spann (hink)
+    - tunna (behållare)
+    - ämbar
+    - x1=behållare (djup behållare med vid öppning)
+    - x2=innehåll (innehåll i djup behållare med vid öppning)
+    - x3=behållarmaterial (djup behållare med vid öppning)
+  zh:
+    place structure: x1是瓶/罐/瓮（固体，上开口的容器），装有x2，由材料x3构成
+    notes:
+    - 参见 {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,68 @@
-Word: jerxo
-Rafsi: jex
-Definition: x1 reflects Algerian culture/nationality in aspect x2.
-Notes: See also {friko}, {xrabo}, {muslo}, {fraso}.
-Examples: None
+word: jerxo
+rafsi:
+- jex
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Algerian culture/nationality in aspect x2.
+    notes:
+    - See also {friko}, {xrabo}, {muslo}, {fraso}.
+    glosses:
+    - Algerian
+  de:
+    place structure: x1 repräsentiert algerische Kultur/Nationalität in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - Algerier
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma argeliano en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - argeliano
+  ru:
+    place structure: x1 — алжирский в аспекте x2
+    notes:
+    - '{friko} (африканский), {xrabo} (арабский), {muslo} (исламский), {fraso} (французский)'
+    glosses:
+    - алжирский
+  en-simple:
+    place structure: x1 is Algerian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Algerian
+    - x2=an Algerian aspect
+  eo:
+    place structure: x1 montras alĝerian kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {friko}, {xrabo}, {muslo}, {fraso}.
+    glosses:
+    - alĝeria
+  hu:
+    place structure: x1 algériai kultúrát/nemzetiséget/nyelvet tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {friko}, {xrabo}, {muslo}, {fraso})'
+    glosses:
+    - algériai
+  ja:
+    place structure: x1 は x2 （性質面）に関してアルジェリア系（言語／文化／民族／地理）
+    notes:
+    - ・大意： アルジェリア ・読み方： ジェルクォ  ・関連語： {friko}, {xrabo}, {muslo}, {fraso}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar algerisk kultur/nationalitet i aspekt x2.
+    notes:
+    - No notes.
+    glosses:
+    - algerisk
+  zh:
+    place structure: x1在x2方面很阿尔及利亚（体现了阿尔及利亚文化或国民性）
+    notes:
+    - 参见：{friko}（非洲）、{xrabo}（阿拉伯）、{muslo}（伊斯兰）、{fraso}（法兰西）。
+    glosses:
+    - x1=阿尔及利亚特色
+    - x2=体现阿尔及利亚特色的方面

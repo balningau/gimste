@@ -1,10 +1,85 @@
-Word: xanri
-Rafsi: xar
-Definition: x1 [concept] exists in the imagination of/is imagined by/is imaginary
-  to x2.
-Notes: Also (adjective:) $x_1$ is mental (one sense), $x_1$ is unreal (one sense);
-  in spite of the synonym, note that $x_1$ is imaginary does not imply that it doesn't
-  exist in the real world; the definition is crafted so that one can talk about imaginary
-  things without claiming that they thereby don't exist.  See also {fatci}, {senva},
-  {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.
-Examples: None
+word: xanri
+rafsi:
+- xar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [concept] exists in the imagination of/is imagined by/is imaginary
+      to x2.
+    notes:
+    - Also (adjective:) x1 is mental (one sense), x1 is unreal (one sense); in spite
+      of the synonym, note that x1 is imaginary does not imply that it doesn't exist
+      in the real world; the definition is crafted so that one can talk about imaginary
+      things without claiming that they thereby don't exist.  See also {fatci}, {senva},
+      {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.
+    glosses:
+    - imaginary
+  de:
+    place structure: x1 [Konzept] existiert in der Einbildung/Fantasie von/ist erfunden
+      von/unwirklich für x2
+    notes:
+    - No notes.
+    glosses:
+    - imaginär
+  es:
+    place structure: x1 es imaginado por/existe en la imaginación de x2
+    notes:
+    - No notes.
+    glosses:
+    - imaginario
+  ru:
+    place structure: x1 (понятие) существует в воображении x2 (чьем); x2 воображает
+      x1
+    notes:
+    - 'Прилагательное: x1 — воображаемый, {умственный/мысленный}; x1 — мнимый, нереальный;
+      несмотря на приведенные синонимы, не подразумевается, что x1 не существует в
+      реальном мире; определение [xanri] составлено так, чтобы позволить говорить
+      о воображаемых предметах, не настаивая при этом на их реальном существовании
+      {fatci} (факт), {senva} (мечтать), {sucta} (абстракция), {zasti} (существовать),
+      {cfika} (вымысел), {dacti} (вещь), {menli} (разум), {sidbo} (концепция)'
+    glosses:
+    - x1=воображаемый
+    - x2=воображающий
+  en-simple:
+    place structure: x1 is imaginary to x2
+    notes:
+    - No notes.
+    glosses:
+    - something imagined
+    - x2=an imaginer
+  eo:
+    place structure: x1 [koncepto] estas fantazia/imagita de x2
+    notes:
+    - 'Ankaŭ: (adjektivo:) x1 estas mensa (unu senco), x1 estas nereala (unu senco);
+      spite la sinonimo, rimarku ke tio ke x2 estas imagata ne implicas ke ĝi ne ekzistas
+      en la reala mondo; la difino estas verkita tiel ke oni povas paroli pri imagitaj
+      aferoj sen aserti ke ili vere ekzistas.  Vidu ankaŭ {fatci}, {senva}, {sucta},
+      {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.'
+    glosses:
+    - fantazia
+  hu:
+    place structure: x1 a képzeletében él x2-nek
+    notes:
+    - 'Nem zár ki valós létezést (Lásd még: {fatci}, {senva}, {sucta}, {zasti}, {cfika},
+      {dacti}, {menli}, {sidbo})'
+    glosses:
+    - képzeletbeli
+  ja:
+    place structure: x1 は x2 （者）による想像；  x1 は架空／想像上のもの／非現実
+    notes:
+    - ・大意： 想像 ・読み方： クァンリ  ・語呂合わせ： ＜半分理解＞,想像を管理, xuan(幻), unreal ・関連語： {da'i}, {fatci},
+      {senva}, {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}
+    - ''
+    glosses:
+    - 幻
+    - 幻想
+    - 架空
+    - x1=非現実
+    - x2=想像する (空想)
+  zh:
+    place structure: x1（内容）存在于x2的想象之中/是x2所幻想出来的
+    notes:
+    - 也指：x1是精神的/不真实的（某种意义上）；注意x1是被想象出来的但并不确定它是否真实存在；此深思熟虑的定义可以确保人们在谈论想象之物时不必要声明其是否真实存在；参见
+      {fatci}, {senva}, {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,88 @@
-Word: darlu
-Rafsi: dau
-Definition: x1 argues for stand x2 against stand x3; [an opponent is not necessary].
-Notes: See also {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba},
-  {bradi}, {tavla}.
-Examples: None
+word: darlu
+rafsi:
+- dau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 argues for stand x2 against stand x3; [an opponent is not
+      necessary].
+    notes:
+    - See also {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba},
+      {bradi}, {tavla}.
+    glosses:
+    - argue
+    - x2=contention (point maintained in an argument)
+  de:
+    place structure: x1 argumentiert für Standpunkt x2 gegen Standpunkt x3; [ein Gegner
+      ist nicht notwendig]
+    notes:
+    - No notes.
+    glosses:
+    - argumentieren
+  es:
+    place structure: x1 arguye/argumenta a favor de posición x2 contra posición x3
+    notes:
+    - No notes.
+    glosses:
+    - argu:ir
+  ru:
+    place structure: x1 приводит доводы в пользу позиции/точки зрения/тезиса x2 против
+      позиции/точки зрения/тезиса x3 (наличие оппонента необязательно); x1 защищает/аргументирует
+      позицию x2, оспаривая позицию x3
+    notes:
+    - '{fapro} (противостоять), {jamna} (воевать), {sarji} (поддерживать [помогать]),
+      {talsa} (оспаривать), {sumti} (), {tugni} (соглашаться), {casnu} (обсуждать),
+      {damba} (драться), {bradi} (враг), {tavla} (говорить [о чем-либо])'
+    glosses:
+    - приводить доводы
+    - x1=приводящий доводы
+    - x2=точка зрения
+  en-simple:
+    place structure: x1 argues for stance x2 against stance x3
+    notes:
+    - No notes.
+    glosses:
+    - an arguer
+    - x2=an stance argued for
+    - x3=an stance argued against
+  eo:
+    place structure: x1 debatas por pozicio x2 kontraŭ pozicio x3; [kontraŭulo ne
+      necesas]
+    notes:
+    - Vidu ankaŭ {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba},
+      {bradi}, {tavla}.
+    glosses:
+    - debati
+  hu:
+    place structure: x1 érvel x2 álláspont mellett, x3 álláspont ellen
+    notes:
+    - '(Lásd még: {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba},
+      {bradi}, {tavla})'
+    glosses:
+    - érvel
+  ja:
+    place structure: x1 は x2 （観点）を x3 （観点）に対して論理的・倫理的な根拠から擁護／主張する
+    notes:
+    - 「xusra」と違い、 x2 は真実性を評価されるものだけでなく倫理上の正当性を評価されるものも。 x2 , x3 は純粋な観点であり、対人間の論争とは限らない。
+      ・大意： 擁護 ・読み方： ダルルゥ  ・関連語： {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni},
+      {casnu}, {damba}, {bradi}, {tavla}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 argumenterar/talar för ståndpunkt x2 mot ståndpunkt x3; [meningsmotståndare
+      är ej nödvändig].
+    notes:
+    - No notes.
+    glosses:
+    - argumentera
+    - x1=poäng (del av ett argument f viss ståndpunkt)
+    - x2=ståndpunkt
+    - x3=motsatt ståndpunkt
+  zh:
+    place structure: x1争论，为了立场x2，反对立场x3
+    notes:
+    - 参见 {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba}, {bradi},
+      {tavla}.
+    glosses:
+    - No glosses.

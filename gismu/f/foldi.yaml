@@ -1,7 +1,79 @@
-Word: foldi
-Rafsi: flo, foi
-Definition: x1 is a field [shape/form] of material x2; x1 is a broad uniform expanse
-  of x2.
-Notes: Also woods (= {ricfoi}), lawn/meadow (= {sasfoi}), brush (= {spafoi}, {cicyspafoi}).  See
-  also {purdi}, {cange}.
-Examples: None
+word: foldi
+rafsi:
+- flo
+- foi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a field [shape/form] of material x2; x1 is a broad uniform
+      expanse of x2.
+    notes:
+    - Also woods (= {ricfoi}), lawn/meadow (= {sasfoi}), brush (= {spafoi}, {cicyspafoi}).  See
+      also {purdi}, {cange}.
+    glosses:
+    - field
+  de:
+    place structure: x1 ist ein Feld/eine Ebene [Form] aus Material x2; x1 ist eine
+      breite gleichmäßige Ausdehnung/Fläche von x2
+    notes:
+    - No notes.
+    glosses:
+    - Feld
+  es:
+    place structure: x1 es un campo/expansión/extensión uniforme (forma) de material
+      x2
+    notes:
+    - Ver también {purdi}.
+    glosses:
+    - campo
+  ru:
+    place structure: 'x1 — поле x2 (чего: земли, деревьев, травы и т. д.); x1 — обширная
+      площадь, равномерно заполненная x2 (чем)'
+    notes:
+    - 'Также: лес: {ricfoi}, луг: {sasfoi}, заросли, чаща: {spafoi}, {cicyspafoi}
+      {purdi} (сад), {cange} (ферма)'
+    glosses:
+    - поле
+  en-simple:
+    place structure: x1 is a field of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a field
+    - x2=a material of a field
+  eo:
+    place structure: x1 estas kampo [formo] el materialo x2; x1 estas larĝa unufora
+      etendo de x2
+    notes:
+    - 'Ankaŭ: arbaro (= {ricfoi}), razenejo/herbobedo (= {sasfoi}), densejo (= {spafoi},
+      {cicyspafoi}).  Vidu ankaŭ {purdi}, {cange}.'
+    glosses:
+    - kampo
+  hu:
+    place structure: x1 egy mező/síkság/széles, egyenletes kiterjedés x2 anyagból
+    notes:
+    - '(Lásd még: {purdi}, {cange})'
+    glosses:
+    - mező
+  ja:
+    place structure: x1 は x2 （物質）の地帯／地域
+    notes:
+    - 「森林地帯／ricfoi」「野原／sasfoi」など。 ・大意： 地帯 ・読み方： フォルゥディ  ・関連語： {purdi}, {cange}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett fält/plan [form] x2; x1 är en bred enhetlig utbredning
+      av x2.
+    notes:
+    - Även skog (= ricfoi), gräsmatta/äng (= sasfoi), snårskog (= {spafoi}, {cicyspafoi}).
+      Se även {purdi}, {cange}.
+    glosses:
+    - fält (plats m bred enhetlig utbredning av ngt)
+    - plan (plats m bred enhetlig utbredning av ngt)
+  zh:
+    place structure: x1是物质x2的场；x1是x2构成的宽阔的区域
+    notes:
+    - 树林/森林= {ricfoi}，草场/草地= {sasfoi}，灌木林= {spafoi}/{cicyspafoi}；参见 {purdi}, {cange}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,111 @@
-Word: badna
-Rafsi: ''
-Definition: x1 is a banana/plantain [fruit/plant] of species/breed x2.
-Notes: See also {grute}.
-Examples: None
+word: badna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a banana/plantain [fruit/plant] of species/breed x2.
+    notes:
+    - See also {grute}.
+    glosses:
+    - banana (fruit or plant)
+  de:
+    place structure: x1 ist eine Banane/Kochbanane [Frucht/Pflanze] der Art/Sorte
+      x2
+    notes:
+    - Siehe auch {grute}
+    glosses:
+    - Kochbanane (Frucht oder Pflanze)
+    - x1=Banane (Frucht oder Pflanze)
+    - x2=Bananenart
+  es:
+    place structure: x1 es una banana/plátano (fruta) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - banana
+  fr:
+    place structure: x1 est une banane d'espèce x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=banane (banane fruit ou banane plantain (utilisée comme un légume))
+    - 'x2=espèce de banane (espèce de la banane ; par exemple : Gros Michel (Canaries),
+      Grande Naine (Cameroun, Antilles), Payo (Antilles, Amérique centrale), Cavendish
+      (Côte-d''Ivoire))'
+  ru:
+    place structure: x1 — банан (фрукт/растение) вида/сорта x2
+    notes:
+    - '{grute} (плод [фрукт])'
+    glosses:
+    - x2=сорт банана
+  en-simple:
+    place structure: x1 is a banana fruit or plant of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a banana
+    - x2=a species of banana
+  eo:
+    place structure: x1 estas banano/bananarbo [frukto/planto] de speco/raso x2
+    notes:
+    - Vidu ankaŭ"grute".
+    glosses:
+    - x1=banano
+    - x2=banana speco
+  he:
+    place structure: x1 היא בננה מזן/סוג x2
+    notes:
+    - הגיסמו מתייחס הן לפרי והן לצמח
+    glosses:
+    - בננה
+  hu:
+    place structure: x1 egy banán/banánfa [Musa nemzetség] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute})'
+    glosses:
+    - banán
+  ja:
+    place structure: x1はx2という種/品種のバナナである
+    notes:
+    - '参照: {grute}, {jupybadna}'
+    glosses:
+    - バナナ
+  nl:
+    place structure: x1 is een banaan [fruit/plant] van de soort x2.
+    notes:
+    - Zie ook {grute}.
+    glosses:
+    - banaan
+  'no':
+    place structure: x1 er en banan av type/art x2
+    notes:
+    - Se også {grute}, {jupybadna}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to banan/bananowate [owoc/roślina] z gatunku x2.
+    notes:
+    - Cf. {grute}.
+    glosses:
+    - banan
+    - bananowate
+  sv:
+    place structure: x1 är en banan/kokbanan/dessertbanan [frukt/växt] av arten/sorten
+      x2.
+    notes:
+    - Banan är ett bär, en ört, eller en frukt tillhörande banansläktet (Musa).
+    - Se även {jupybadna}.
+    glosses:
+    - bananart
+    - dessertbanan
+    - kokbanan
+    - x1=banan
+    - x2=banansort
+    - x2=banansort;bananart
+  zh:
+    place structure: x1 是属于种类 x2 的香蕉
+    notes:
+    - 参见 {grute}
+    glosses:
+    - x1=香蕉

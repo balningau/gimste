@@ -1,7 +1,67 @@
-Word: simxu
-Rafsi: sim, si'u
-Definition: x1 (set) has members who mutually/reciprocally x2 (event [x1 should be
-  reflexive in 1+ sumti]).
-Notes: Members of $x_1$ do to each other/one another $x_2$, and in return do $x_2$;
-  $x_1$ (plural set) do the same thing $x_2$ to each other.  See also {kampu}, {mintu}.
-Examples: None
+word: simxu
+rafsi:
+- sim
+- si'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (set) has members who mutually/reciprocally x2 (event [x1
+      should be reflexive in 1+ sumti]).
+    notes:
+    - Members of x1 do to each other/one another x2, and in return do x2; x1 (plural
+      set) do the same thing x2 to each other.  See also {kampu}, {mintu}.
+    glosses:
+    - mutual
+  de:
+    place structure: x1 (Menge) besitzt Elemente die gegenseitig/wechselseitig x2
+      sind/tun (Ereignis [x1 sollte reflexiv in 1+ Sumti sein])
+    notes:
+    - No notes.
+    glosses:
+    - gegenseitig
+  es:
+    place structure: x1 mutuamente/recíprocamente son/hacen x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - mutuo
+  ru:
+    place structure: x1 (множество) содержит члены, которые взаимно/друг другу делают
+      x2 (событие)
+    notes:
+    - '{kampu} (общий [о свойстве]), {mintu} (идентичный)'
+    glosses:
+    - x1=взаимный
+  en-simple:
+    place structure: x1 mutually do x2
+    notes:
+    - No notes.
+    glosses:
+    - things mutually doing something
+    - x2=something done mutually
+  eo:
+    place structure: x1 (aro) havas membrojn kiuj reciproke faras x2-on (okazo)
+    notes:
+    - Membroj de x1 faras unu al la alia x2, returne faras x2-on.  Vidu ankaŭ {kampu},
+      {mintu}.
+    glosses:
+    - reciprokantaj
+  hu:
+    place structure: x1 halmaz elemei kölcsönösen végrehajtják egymáson x2 cselekvést/eseményt
+    notes:
+    - '(Lásd még: {kampu}, {mintu})'
+    glosses:
+    - kölcsönösen
+  ja:
+    place structure: x1 （集合）は x2 （事／性質）の点で相互的／共通し合っている
+    notes:
+    - ・大意： 相互 ・読み方： スィムクゥ  ・関連語： {kampu}, {mintu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（集合）含有相互地x2（事件）的元素；（x1至少映射1个以上的sumti）
+    notes:
+    - 成员集x1中的成员相互做x2；集合x1对其每一个成员做同样的事情x2；参见 {kampu}, {mintu}.
+    glosses:
+    - No glosses.

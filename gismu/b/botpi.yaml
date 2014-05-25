@@ -1,6 +1,99 @@
-Word: botpi
-Rafsi: bot, bo'i
-Definition: x1 is a bottle/jar/urn/flask/closable container for x2, made of material
-  x3 with lid x4.
-Notes: See also {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
-Examples: None
+word: botpi
+rafsi:
+- bot
+- bo'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bottle/jar/urn/flask/closable container for x2, made
+      of material x3 with lid x4.
+    notes:
+    - See also {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
+    glosses:
+    - bottle
+  de:
+    place structure: x1 ist eine Flasche/eine Buddel/ein Tiegel/eine Urne/ein verschließbarer
+      Behälter für x2 aus dem Material x3 mit dem Deckel x4.
+    notes:
+    - Siehe auch {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
+    glosses:
+    - Flasche
+  es:
+    place structure: x1 es una botella/jarro/urna/recipiente tapable para contenido
+      x2, de material x3, con tapa x4
+    notes:
+    - Ver también {baktu}.
+    glosses:
+    - botella
+  ru:
+    place structure: x1 — бутылка/фляга/банка/канистра/бак/цистерна (закрываемый сосуд)
+      с содержимым x2, из материала x3, с крышкой/затычкой x4
+    notes:
+    - 'содержимое может только предполагаться (быть потенциальным), например: « бутылка
+      для x2». См. {baktu} (ведро), {lante} (банка [консервная]), {patxu} (котел),
+      {tansi} (миска), {tanxe} (коробка), {vasru} (содержать), {gacri} (покрывать
+      [в качестве крышки])'
+    glosses:
+    - банка
+    - бутылка
+    - x2=содержимое бутылки
+    - x3=материал бутылки
+    - x4=крышка бутылки
+  en-simple:
+    place structure: x1 is a bottle, jar, or flask for x2 made of x3 with lid x4
+    notes:
+    - No notes.
+    glosses:
+    - a bottle
+    - x2=contents of a bottle
+    - x3=a material of a bottle
+    - x4=a lid of a bottle
+  eo:
+    place structure: x1 estas botelo/poto/urno/flakono/fermebla ujo por x2, el materialo
+      x3 kun kovrilo x4
+    notes:
+    - Vidu ankaŭ {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
+    glosses:
+    - botelo
+  hu:
+    place structure: x1 egy palack/(befőttes)üveg/urna [zárható edény] x2 tárolására,
+      x3 anyagból, x4 fedéllel/kupakkal
+    notes:
+    - '(Lásd még: {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri})'
+    glosses:
+    - palack
+  ja:
+    place structure: x1はx2を入れるための、x3でできた、ふたx4のついた瓶/ボトル/壷/ふたのできる容器である
+    notes:
+    - '参照: {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.'
+    glosses:
+    - ボトル
+    - 瓶
+  'no':
+    place structure: x1 er en flaske/krukke/urne/lukkbar beholder for x2, laget av
+      materiale x3 med lokk/kork/topp x4
+    notes:
+    - Se óg {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {kabri}, {dakli},
+      {gacri}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en flaska/butelj/urna/stängbart kärl för x2, gjord av material
+      x3, med lock/försegling x4.
+    notes:
+    - kork (=korka xelbotpi).
+    glosses:
+    - butelj
+    - kapsyl
+    - paket (stängbart kärl)
+    - urna
+    - x1=flaska
+    - x2=flaskinnehåll
+    - x3=flaskmaterial
+    - x4=flasklock
+  zh:
+    place structure: x1是瓶/罐/壶（可关闭的容器），装有x2，由材料x3构成，带有盖子x4
+    notes:
+    - 参见 {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
+    glosses:
+    - No glosses.

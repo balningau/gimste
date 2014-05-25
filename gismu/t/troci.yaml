@@ -1,6 +1,72 @@
-Word: troci
-Rafsi: toc, toi
-Definition: x1 tries/attempts/makes an effort to do/attain x2 (event/state/property)
-  by actions/method x3.
-Notes: Also experiments at.  See also {fliba}, {snada}, {cipra}.
-Examples: None
+word: troci
+rafsi:
+- toc
+- toi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 tries/attempts/makes an effort to do/attain x2 (event/state/property)
+      by actions/method x3.
+    notes:
+    - Also experiments at.  See also {fliba}, {snada}, {cipra}.
+    glosses:
+    - attempt (to try)
+    - try
+  de:
+    place structure: x1 versucht, x2 (Ereignis/Zustand/Eigenschaft) zu tun/erreichen
+      durch Aktion/Methode x3.
+    notes:
+    - Auch »experimentiert mit«. Siehe auch {fliba}, {snada}, {cipra}.
+    glosses:
+    - versuchen
+  es:
+    place structure: x1 trata/intenta/prueba hacer/realizar/que ocurra x2 por medio
+      de acción/método x3
+    notes:
+    - Ver también {snada}.
+    glosses:
+    - tratar
+  ru:
+    place structure: x1 пытается/пробует/старается сделать/достичь x2 (событие/состояние/свойство)
+      действием/методом x3
+    notes:
+    - 'Также: экспериментирует {fliba} (терпеть неудачу), {snada} (добиваться [чего-либо
+      успешно]), {cipra} (проверка)'
+    glosses:
+    - пытаться
+    - x1=пытающийся
+  en-simple:
+    place structure: x1 tries to do x2 using method x3
+    notes:
+    - No notes.
+    glosses:
+    - a tryer
+    - x2=something tried
+    - x3=a method of trial
+  eo:
+    place structure: x1 provas/klopodas/penas fari/atingi x2-on (okazo/stato/eco)
+      per ago/metodo x3
+    notes:
+    - 'Ankaŭ: eksperimenti.  Vidu ankaŭ {fliba}, {snada}, {cipra}.'
+    glosses:
+    - provi
+  hu:
+    place structure: x1 megpróbálja elérni x2 eseményt/állapotot/tulajdonságot x3
+      módon
+    notes:
+    - '(Lásd még: {fliba}, {snada}, {cipra})'
+    glosses:
+    - próbál
+  ja:
+    place structure: x1 は x2 （事／情態／性質）を x3 （手段／方法）で達成／獲得しようと努める／努力する；  x1 は x2 をやってみる
+    notes:
+    - ・大意： 努める ・読み方： トロシ  ・語呂合わせ： 努力がトロし ・関連語： {fliba}, {snada}, {cipra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1尝试做/达到/完成x2（状态/事件/性质），通过行为/方法x3
+    notes:
+    - 也指：试验；参见 {fliba}, {snada}, {cipra}.
+    glosses:
+    - No glosses.

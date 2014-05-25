@@ -1,7 +1,77 @@
-Word: plipe
-Rafsi: pip, pi'e
-Definition: x1 (agent/object) leaps/jumps/springs/bounds to x2 from x3 reaching height
-  x4 propelled by x5.
-Notes: Place structure parallels klama; hence $x_4$ may be a route-like expression.  See
-  also {bajra}, {stapa}, {cpare}, {lafti}.
-Examples: None
+word: plipe
+rafsi:
+- pip
+- pi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent/object) leaps/jumps/springs/bounds to x2 from x3 reaching
+      height x4 propelled by x5.
+    notes:
+    - Place structure parallels klama; hence x4 may be a route-like expression.  See
+      also {bajra}, {stapa}, {cpare}, {lafti}.
+    glosses:
+    - jump
+    - leap
+  de:
+    place structure: x1 (Handelnder/Objekt) springt/hüpft nach x2 von x3 und erreicht
+      eine Höhe von x4 angetrieben von x5
+    notes:
+    - No notes.
+    glosses:
+    - springen
+  es:
+    place structure: x1 salta hasta x2 desde x3 alcanzando altura x4 propelido/impulsado
+      por x5
+    notes:
+    - No notes.
+    glosses:
+    - saltar
+  ru:
+    place structure: x1 (деятель/объект) прыгает/скачет/подскакивает в/к/на x2 (куда)
+      из/с/от x3 (откуда), достигая высоты x4, толкаемый x5 (чем)
+    notes:
+    - 'Структура мест параллельна {klama}, таким образом, x4 м.б. также: описанием
+      маршрута {bajra} (бежать), {stapa} (ступать), {cpare} (лезть), {lafti} (тянуть
+      [вверх])'
+    glosses:
+    - прыгать
+    - x1=прыгающий
+    - x3=высота прыжка
+  en-simple:
+    place structure: x1 jumps to x2 from x3 reaching height x4 propelled by x5
+    notes:
+    - No notes.
+    glosses:
+    - a leaper
+    - x2=a destination of a leap
+    - x3=an origin of a leap
+    - x4=a height of a jump
+    - x5=a propulsion of a jump
+  eo:
+    place structure: x1 (aganto/objekto) saltas al x2 el x3 atingante alto x4 pelita
+      de x5
+    notes:
+    - Lokstrukturo paralelas tiun de klama; do x4 povas esti vojeca esprimo.  Vidu
+      ankaŭ {bajra}, {stapa}, {cpare}, {lafti}.
+    glosses:
+    - salti
+  hu:
+    place structure: x1 ugrik/szökken x2-be/-re, x3-ból/-ról, x4 magasságban, x5 meghajtással
+    notes:
+    - '(Lásd még: {bajra}, {stapa}, {cpare}, {lafti})'
+    glosses:
+    - ugrik
+  ja:
+    place structure: x1 （者／物）は x2 （終点）に x3 （起点）から x4 （高さ）ほど x5 （動力）によって跳躍／ジャンプする
+    notes:
+    - ・大意： 跳躍 ・読み方： プルィペ  ・関連語： {bajra}, {stapa}, {cpare}, {lafti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1跳向x2，从x3处，达到高度x4，由x5所驱动
+    notes:
+    - 参见 {klama}, {bajra}, {stapa}, {cpare}, {lafti}.
+    glosses:
+    - No glosses.

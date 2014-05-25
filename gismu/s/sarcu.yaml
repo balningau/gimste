@@ -1,7 +1,73 @@
-Word: sarcu
-Rafsi: sa'u
-Definition: x1 (abstract) is necessary/required for continuing state/process x2 under
-  conditions x3.
-Notes: Also factually necessary, necessity, prerequisite, condition, precondition.  See
-  also cmavo list {sau}, {nitcu}.
-Examples: None
+word: sarcu
+rafsi:
+- sa'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (abstract) is necessary/required for continuing state/process
+      x2 under conditions x3.
+    notes:
+    - Also factually necessary, necessity, prerequisite, condition, precondition.  See
+      also cmavo list {sau}, {nitcu}.
+    glosses:
+    - necessary
+    - x1=condition (requirement)
+  de:
+    place structure: x1 (Abstraktion) ist notwendig/erforderlich/unerlässlich zum
+      Fortsetzen von Zustand/Prozess x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - notwendig
+  es:
+    place structure: x1 (evento) es necesario/requerido para que ocurra x2 bajo condiciones
+      x3
+    notes:
+    - Ver también {banzu},  {nitcu}.
+    glosses:
+    - necesario
+  ru:
+    place structure: x1 (абстракция) необходимо/требуется, для того, чтобы продолжалось/поддерживалось
+      x2 (состояние/процесс) при/в условиях x3; для x2 необходимо, чтобы x1
+    notes:
+    - 'Также: предпосылка, необходимое условие {sau}, {nitcu} (нуждаться)'
+    glosses:
+    - требоваться для
+    - x1=требующийся для
+  en-simple:
+    place structure: x1 is necessary for x2 to continue under conditions x3
+    notes:
+    - No notes.
+    glosses:
+    - something necessary
+    - x2=something with a necessity
+    - x3=a condition of necessity
+  eo:
+    place structure: 'x1 (abstraktaĵo) estas necesa/nepra por daŭrigi staton/procedon
+      x2 sub kondiĉoj x3                                                           3m  57     [ankaŭ:
+      fakte necesa, neceso, kondiĉo, antaŭkondiĉo]; (kp. cmavo sau, nitcu'
+    notes:
+    - )
+    glosses:
+    - necesa
+  hu:
+    place structure: x1 szükséges/kötelező feltétele x2 állapot/folyamat folytatásának,
+      x3 körülmények között
+    notes:
+    - '(Lásd még: {nitcu})'
+    glosses:
+    - szükséges
+  ja:
+    place structure: x1 （事）は x2 （事）にとって x3 （状態条件）のもと必須／欠かせない
+    notes:
+    - 「ba'o sarcu lo nu mi za'u re'u dasni lo cucrxuaraji／私はまた草鞋を穿かなければならなくなりました」（山頭火『行乞記（二）』）
+      ・大意： 必須 ・読み方： サルシュ  ・関連語： {sau}, {nitcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是必要的/必需的，为了继续进程/状态x2，在条件x3下
+    notes:
+    - 也指：必需品/先决条件/必要条件；参见 {sau}, {nitcu}.
+    glosses:
+    - No glosses.

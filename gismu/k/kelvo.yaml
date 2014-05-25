@@ -1,8 +1,81 @@
-Word: kelvo
-Rafsi: ke'o
-Definition: x1 is x2 degree(s) Kelvin [metric unit] in temperature (default is 1)
-  by standard x3.
-Notes: See also {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
-  {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
-  {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: kelvo
+rafsi:
+- ke'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 degree(s) Kelvin [metric unit] in temperature (default
+      is 1) by standard x3.
+    notes:
+    - See also {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - kelvin
+  de:
+    place structure: 'x1 ist x2 Kelvin [metrische Einheit] an Temperatur (Default:
+      1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Kelvin
+  es:
+    place structure: x1 esta a una temperatura de x2 grados Kelvin (1 por defecto)
+      según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - kelvin
+  ru:
+    place structure: x1 имеет температуру x2 (по умолчанию 1) градусов Кельвина (метрическая
+      единица) по стандарту x3
+    notes:
+    - '{gradu} (градус), {centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека),
+      {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило),
+      {megdo} (мега), {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета),
+      {picti} (пико), {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса),
+      {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - кельвин
+  en-simple:
+    place structure: x1 is x2 degrees Kelvin
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in Kelvins
+    - x2=a number of Kelvins
+    - x3=a Kelvin standard
+  eo:
+    place structure: x1 estas x2 kelvinaj gradoj [metra unuo] en temperaturo (defaŭlte
+      1) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - kelvino
+  hu:
+    place structure: x1 hőmérséklete x2 [alapesetben 1] kelvin, x3 mérce szerint
+    notes:
+    - '(Lásd még: {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - kelvin
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のケルビン度
+    notes:
+    - 熱力学温度の単位。 ・大意： ケルビン ・読み方： ケルゥヴォ  ・語呂合わせ：   ・関連語： {gradu}, {centi}, {decti},
+      {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在温度上，x1是x2开尔文（公制单位）的，基于标准x3
+    notes:
+    - 参见 {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

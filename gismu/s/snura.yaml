@@ -1,5 +1,65 @@
-Word: snura
-Rafsi: nur, nu'a
-Definition: x1 is secure/safe from threat x2 (event).
-Notes: See also {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}.
-Examples: None
+word: snura
+rafsi:
+- nur
+- nu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is secure/safe from threat x2 (event).
+    notes:
+    - See also {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}.
+    glosses:
+    - safe (secure)
+    - secure
+  de:
+    place structure: x1 ist sicher/geschützt gegen/vor Gefahr x2 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - sicher
+  es:
+    place structure: x1 está seguro/protegido/a resguardo/a salvo de amenaza/peligro
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - seguro
+  ru:
+    place structure: x1 защищен/находится в безопасности от угрозы x2 (событие)
+    notes:
+    - '{ckape} (опасный), {kajde} (предостережение), {marbi} (убежище), {terpa} (бояться),
+      {xalni} (паниковать), {bandu} (защищать)'
+    glosses:
+    - защищённый
+  en-simple:
+    place structure: x1 is safe from threat x2
+    notes:
+    - No notes.
+    glosses:
+    - something that is safe from a threat
+    - x2=a threat something is safe from
+  eo:
+    place structure: x1 estas sekura de minaco x2 (okazo)
+    notes:
+    - Vidu ankaŭ {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}.
+    glosses:
+    - sekura
+  hu:
+    place structure: x1 biztonságban van x2 veszélytől
+    notes:
+    - '(Lásd még: {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu})'
+    glosses:
+    - biztonságban van
+  ja:
+    place structure: x1 は x2 （事／危険）にたいして安全
+    notes:
+    - ・大意： 安全 ・読み方： スヌラ  ・関連語： {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是安全的（不会受到伤害/攻击），在威胁/危险x2（事件）下
+    notes:
+    - 参见 {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}.
+    glosses:
+    - No glosses.

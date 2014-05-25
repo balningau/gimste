@@ -1,5 +1,70 @@
-Word: fengu
-Rafsi: feg, fe'u
-Definition: x1 is angry/mad at x2 for x3 (action/state/property).
-Notes: See also {fanza}, {dunku}.
-Examples: None
+word: fengu
+rafsi:
+- feg
+- fe'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is angry/mad at x2 for x3 (action/state/property).
+    notes:
+    - See also {fanza}, {dunku}.
+    glosses:
+    - angry
+  de:
+    place structure: x1 ist ärgerlich auf/verärgert über x2 wegen x3 (Aktion/Zustand/Eigenschaft)
+    notes:
+    - No notes.
+    glosses:
+    - ärgerlich
+  es:
+    place structure: x1 se enoja/enfada con x2 por x3
+    notes:
+    - Ver también {fanza},  {dunku}.
+    glosses:
+    - enojarse
+  ru:
+    place structure: x1 зол/сердит на x2 за x3 (действие/состояние/свойство)
+    notes:
+    - 'Также: рассерженный, недовольный, рассвирепевший, разгневанный {fanza} (раздражать
+      [беспокоить]), {dunku} (страдать)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is angry at x2 for x3
+    notes:
+    - No notes.
+    glosses:
+    - something angry
+    - x2=an anger target
+    - x3=an anger reason
+  eo:
+    place structure: x1 estas kolera/furioza kontraŭ x2 pro x3 (ago/stato/eco)
+    notes:
+    - Vidu ankaŭ {fanza}, {dunku}.
+    glosses:
+    - kolera
+  hu:
+    place structure: x1 dühös/mérges x2-re x3 cselekedetért/állapotért/tulajdonságért
+    notes:
+    - '(Lásd még: {fanza}, {dunku})'
+    glosses:
+    - dühös
+  ja:
+    place structure: x1 は x2 （者）にたいして x3 （事／性質）について憤慨している／怒っている
+    notes:
+    - ・大意： 憤慨 ・読み方： フェング  ・語呂合わせ： fungai ・関連語： {fanza}, {dunku}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är arg/rasande/vred/ilsken/förbannad på x2 för x3 (handling/tillstånd/egenskap).
+    notes:
+    - No notes.
+    glosses:
+    - arg
+  zh:
+    place structure: x1憤怒,对 x2 ,由于 x3 (行为/状态/属性).
+    notes:
+    - No notes.
+    glosses:
+    - 愤怒

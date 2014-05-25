@@ -1,6 +1,72 @@
-Word: plini
-Rafsi: ''
-Definition: x1 is a planet revolving around x2 with planetary characteristics x3,
-  orbital parameters x4.
-Notes: See also {lunra}, {mluni}, {terdi}, {solri}, {munje}.
-Examples: None
+word: plini
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a planet revolving around x2 with planetary characteristics
+      x3, orbital parameters x4.
+    notes:
+    - See also {lunra}, {mluni}, {terdi}, {solri}, {munje}.
+    glosses:
+    - planet
+  de:
+    place structure: x1 ist ein Planet, der x2 umkreist, mit kennzeichnender/n Eigenschaft(en)
+      x3 und Umlaufbahn-Parametern x4
+    notes:
+    - No notes.
+    glosses:
+    - Planet
+  es:
+    place structure: x1 es un planeta que rota alrededor de x2 con características
+      x3, parámetros orbitales x4
+    notes:
+    - Ver también {lunra},  {mluni},  {terdi}.
+    glosses:
+    - planeta
+  ru:
+    place structure: x1 — планета, обращающаяся вокруг x2, с планетарными характеристиками
+      x3, орбитальными параметрами x4
+    notes:
+    - '{lunra} (луна), {mluni} (спутник [космический]), {terdi} (земля [планета Земля]),
+      {solri} (солнце), {munje} (мир [вселенная])'
+    glosses:
+    - x1=планета
+    - x4=орбитальные параметры планеты
+  en-simple:
+    place structure: x1 is a planet around x2 with characteristics x3 and orbital
+      parameters x4
+    notes:
+    - No notes.
+    glosses:
+    - a planet
+    - x2=something a planet orbits
+    - x3=a characteristic of a planet
+    - x4=an orbital parameter of a planet
+  eo:
+    place structure: x1 estas planedo turnanta ĉirkaŭ x2 kun planedaj ecoj x3, orbitaj
+      parametroj x4
+    notes:
+    - Vidu ankaŭ {lunra}, {mluni}, {terdi}, {solri}, {munje}.
+    glosses:
+    - planedo
+  hu:
+    place structure: x1 egy bolygója x2-nek, x3 méret- és x4 pályatulajdonságokkal
+    notes:
+    - '(Lásd még: {lunra}, {mluni}, {terdi}, {solri}, {munje})'
+    glosses:
+    - bolygó
+  ja:
+    place structure: x1 は x2 を周る、 x3 （惑星特性）・ x4 （軌道特性）の惑星
+    notes:
+    - ・大意： 惑星 ・読み方： プルィニ  ・語呂合わせ： planet, cincin（行星） ・関連語： {lunra}, {mluni}, {terdi},
+      {solri}, {munje}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是绕x2旋转的行星，具有行星特性x3，轨道参数为x4
+    notes:
+    - 参见 {lunra}, {mluni}, {terdi}, {solri}, {munje}.
+    glosses:
+    - No glosses.

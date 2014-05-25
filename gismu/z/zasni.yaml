@@ -1,7 +1,84 @@
-Word: zasni
-Rafsi: zas
-Definition: x1 is temporary/not permanent/expected to change in property x2 (ka) by
-  standard/expectant x3.
-Notes: Also transient.  See also {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika},
-  {stali}, {tcini}, {vitke}.
-Examples: None
+word: zasni
+rafsi:
+- zas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is temporary/not permanent/expected to change in property
+      x2 (ka) by standard/expectant x3.
+    notes:
+    - Also transient.  See also {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika},
+      {stali}, {tcini}, {vitke}.
+    glosses:
+    - temporary
+  jbo:
+    place structure: x1 ckaji x2 ije lo nu x1 cenba x2 cu lakne ma'i x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist temporär/befristet/kurzzeitig/vorläufig/nicht dauerhaft/es
+      wird eine Veränderung erwartet in Eigenschaft x2 (ka) gemäß Standard/Erwartung
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - temporär
+  es:
+    place structure: x1 es transitorio/no permanente/temporario en propiedad x2 según
+      estándar x3
+    notes:
+    - Ver también {vitno},  {stodi},  {cenba},  {stika}.
+    glosses:
+    - transitorio
+  ru:
+    place structure: x1 — временный/преходящий/бренный, подверженный изменениям по
+      свойству x2 ({ka}) согласно критерию/ожиданиям x3
+    notes:
+    - 'Также: переходный, мимолетный, эфемерный {vitno} (длительный), {stodi} (постоянный),
+      {cenba} (изменчивый [в свойстве]), {galfi} (изменять), {binxo} (становиться),
+      {stika} (регулировать), {stali} (оставаться), {tcini} (обстоятельство), {vitke}
+      (гостить)'
+    glosses:
+    - временный
+  en-simple:
+    place structure: x1 is temporary in property x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something temporary
+    - x2=a property of temporariness
+    - x2=the property of temporariness
+    - x3=a standard of temporariness
+  eo:
+    place structure: x1 estas provizora/dumtempa/maldaŭra/efemera/ŝanĝiĝonta en eco
+      x2 laŭ normo/atendo de x3
+    notes:
+    - Vidu ankaŭ {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali}, {tcini},
+      {vitke}.
+    glosses:
+    - provizora
+  hu:
+    place structure: x1 ideiglenes/múlandó/várhatóan változni fog x2 tulajdonságában,
+      x3 mérce/belátás szerint
+    notes:
+    - '(Lásd még: {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali}, {tcini},
+      {vitke})'
+    glosses:
+    - ideiglenes
+  ja:
+    place structure: x1 は x2 （性質）に関して、 x3 （観点）にとって一時的／過渡的／可変
+    notes:
+    - ・大意： 一時的 ・読み方： ザスニ  ・関連語： {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika},
+      {stali}, {tcini}, {vitke}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是临时的/暂时的/不会长存的，在性质x2（ka）方面，基于标准x3
+    notes:
+    - 也指：短暂的/转瞬即逝的；参见 {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali},
+      {tcini}, {vitke}.
+    glosses:
+    - No glosses.

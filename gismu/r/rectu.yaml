@@ -1,5 +1,63 @@
-Word: rectu
-Rafsi: rec, re'u
-Definition: x1 is a quantity of/contains meat/flesh from source/animal x2.
-Notes: See also {sluji}.
-Examples: None
+word: rectu
+rafsi:
+- rec
+- re'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains meat/flesh from source/animal x2.
+    notes:
+    - See also {sluji}.
+    glosses:
+    - meat
+  de:
+    place structure: x1 ist eine Menge an/enthält Fleisch von Quelle/Tier x2
+    notes:
+    - No notes.
+    glosses:
+    - Fleisch
+  es:
+    place structure: x1 es una cantidad de carne de origen/animal x2
+    notes:
+    - Ver también {sluji}.
+    glosses:
+    - carne
+  ru:
+    place structure: x1 — мясо/плоть из источника/животного x2
+    notes:
+    - '{sluji} (мышца)'
+    glosses:
+    - мясо
+  en-simple:
+    place structure: x1 is a quantity of meat from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of meat
+    - x2=a meat source
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el viando/karno el fonto/besto
+      x2
+    notes:
+    - Vidu ankaŭ {sluji}.
+    glosses:
+    - viando
+  hu:
+    place structure: x1 bizonyos mennyiségű hús (-t tartalmaz/-ból készült) x2 állatból/forrásból
+    notes:
+    - '(Lásd még: {sluji})'
+    glosses:
+    - hús
+  ja:
+    place structure: x1 は x2 （生体）の肉
+    notes:
+    - ・大意： 肉 ・読み方： レシトゥ  ・関連語： {sluji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是肉/肉制品，来源于x2（动物）
+    notes:
+    - 参见 {sluji}.
+    glosses:
+    - No glosses.

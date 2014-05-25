@@ -1,5 +1,78 @@
-Word: cidja
-Rafsi: dja
-Definition: x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2.
-Notes: See also {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.
-Examples: None
+word: cidja
+rafsi:
+- dja
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition
+      to x2.
+    notes:
+    - See also {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.
+    glosses:
+    - food
+    - nutriment
+  de:
+    place structure: x1 ernährt/ist Essen/Futter/Nahrung für x2; x1 ist essbar.
+    notes:
+    - Siehe auch {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.
+    glosses:
+    - Essen
+  es:
+    place structure: x1 es comida/alimento/nutrición/sustento/comestible/nutritivo
+      para x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — пища/корм/питание для x2; x1 съедобно/служит пищей для x2
+    notes:
+    - '{citka} (есть), {nitcu} (нуждаться), {pinxe} (пить), {xagji} (голодный), {cpina}
+      (резкий [острый/раздражающий])'
+    glosses:
+    - x1=пища
+  en-simple:
+    place structure: x1 is food or nutriment for x2
+    notes:
+    - No notes.
+    glosses:
+    - food
+    - x2=something that eats food
+  eo:
+    place structure: x1 estas nutraĵo/manĝaĵo por x2; x1 nutras x2-on; x1 estas manĝebla
+      por x2
+    notes:
+    - Vidu ankaŭ {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.
+    glosses:
+    - nutraĵo
+  hu:
+    place structure: x1 étel/ennivaló/élelem/táplálék x2 számára
+    notes:
+    - '(Lásd még: {citka}, {nitcu}, {pinxe}, {xagji}, {cpina})'
+    glosses:
+    - étel
+  ja:
+    place structure: x1 は x2 （摂食者）のための食べ物／食糧／餌；  x1 は x2 に栄養価を与える；  x1 は食用
+    notes:
+    - ・大意： 食物 ・読み方： シヂャ ・関連語： {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är mat/föda/näring/kost/[foder] för x2; x1 är ätbar/närande
+      för x2.
+    notes:
+    - No notes.
+    glosses:
+    - föda (mat)
+    - närande (födoämne)
+    - näring (födoämne)
+    - ätbar
+    - x1=mat
+    - x2=livnärd (får näring)
+  zh:
+    place structure: x1是x2的食物/养料；x1能够为x2提供营养物质
+    notes:
+    - 参见 {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.
+    glosses:
+    - No glosses.

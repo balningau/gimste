@@ -1,9 +1,99 @@
-Word: bliku
-Rafsi: bli
-Definition: x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides
-  x3.
-Notes: $x_3$ sides/surfaces should include number, size, and shape; also polyhedron
-  (= {pitybli} having flat/planar sides/surfaces).  regular polyhedron (= {kubybli},
-  {blikubli}), brick (= {kitybli}); See also {tapla}, {kubli}, {tanbo}, {canlu}, {kojna},
-  {sefta}, {bolci}, {kurfa}, {tarmi}.
-Examples: None
+word: bliku
+rafsi:
+- bli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides
+      x3.
+    notes:
+    - x3 sides/surfaces should include number, size, and shape; also polyhedron (=
+      {pitybli} having flat/planar sides/surfaces).  regular polyhedron (= {kubybli},
+      {blikubli}), brick (= {kitybli}); See also {tapla}, {kubli}, {tanbo}, {canlu},
+      {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}.
+    glosses:
+    - block
+  de:
+    place structure: x1 ist ein Block/Klotz [dreidimensionaler Gegenstand] aus Material
+      x2 mit Oberflächen/Seiten x3
+    notes:
+    - No notes.
+    glosses:
+    - Block
+  es:
+    place structure: x1 es un bloque/ladrillo de material x2 con superficies/lados
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - bloque
+  ru:
+    place structure: x1 — блок/глыба/кусок (3-мерная форма) материала x2 со сторонами/гранями
+      x3
+    notes:
+    - 'x3 должно включать число, размер и форму; Также: многогранник: {pitybli} —
+      имеющий плоские грани), правильный многогранник: {kubybli}, {blikubli}, кирпич:
+      {kitybli} {tapla} (плитка), {kubli} (куб), {tanbo} (доска), {canlu} (объем),
+      {kojna} (угол [телесный]), {sefta} (поверхность), {bolci} (шар), {kurfa} (прямоугольник),
+      {tarmi} (идея [концептуальная форма])'
+    glosses:
+    - блок
+    - x2=материал глыбы
+  en-simple:
+    place structure: x1 is a block of material x2 with surfaces or sides x3
+    notes:
+    - No notes.
+    glosses:
+    - a block
+    - x2=a material of a block
+    - x3=a side of a block
+  eo:
+    place structure: x1 estas bloko [3-dimensia formo] el materialo x2, surfacoj/flankoj/lateroj
+      x3
+    notes:
+    - x3 (edroj/lateroj/facoj/surfacoj) inkluzivu nombron, grandon, kaj formon; ankaŭ
+      multedro (= pitybli kun plataj/ebenaj lateroj/surfacoj).  regula multedro (=
+      {kubybli}, {blikubli}), briko (= {kitybli}); Vidu ankaŭ {tapla}, {kubli}, {tanbo},
+      {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}.
+    glosses:
+    - bloko
+  hu:
+    place structure: x1 egy [valóságos] test x2 anyagból, x3 határolólapokkal
+    notes:
+    - '(Lásd még: {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa},
+      {tarmi})'
+    glosses:
+    - test (fizikai)
+  ja:
+    place structure: x1 は x2 （素材）の立体物／塊／ブロック
+    notes:
+    - ・大意： 塊 ・読み方： ブルィク  ・語呂合わせ： ＜ブリ食う＞, ブロック,  block  ・関連語： {tapla}, {kubli}, {tanbo},
+      {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en tredimensjonal kube av materiale x2 med (som stort sett
+      flate) overflater/sider x3
+    notes:
+    - Se óg {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa},
+      {tarmi}, {bitmu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett block [tredimensionell form] av material x2 med (framförallt
+      plana) ytor/sidor x3.
+    notes:
+    - x3 sidor/ytor bör inkludera antal, storlek and form.
+    glosses:
+    - mångsiding
+    - x1=block (tredimensionell form med flera sidor)
+    - x2=blockmaterial (tredimensionell form med flera sidor)
+    - x3=sida (av tredimensionell form med flera sidor)
+  zh:
+    place structure: x1是块状物（三维结构的物体），有材料x2构成，包含面/表面/侧面x3
+    notes:
+    - x3的面应包括面数，面积，形状等；（平面）多面体={pitybli}；正多面体={kubybli},{blikybli}；土砖={kitybli}；参见{tapla},
+      {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}.
+    glosses:
+    - No glosses.

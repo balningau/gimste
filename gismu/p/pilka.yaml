@@ -1,5 +1,73 @@
-Word: pilka
-Rafsi: pil, pi'a
-Definition: x1 is a crust/rind/peel/skin/hide/outer cover of x2.
-Notes: (cf. {grute}, {calku}, {skapi} (pilka as a general term includes skapi), {gacri})
-Examples: None
+word: pilka
+rafsi:
+- pil
+- pi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a crust/rind/peel/skin/hide/outer cover of x2.
+    notes:
+    - (cf. {grute}, {calku}, {skapi} (pilka as a general term includes skapi), {gacri})
+    glosses:
+    - crust
+  jbo:
+    place structure: x1 rango x2 lo nu x1 gacri x2
+    notes:
+    - '{rango}, {gacri}, {skapi}, {calku}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Kruste/Rinde/Pelle/Schale/Haut/ein Fell/Mantel von
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Kruste
+  es:
+    place structure: x1 es una cáscara/corteza/piel de x2
+    notes:
+    - Ver también {calku},  {skapi}.
+    glosses:
+    - cáscara
+  ru:
+    place structure: x1 — кожура/кора/корка/кожа/кожица/шкура/обшивка/наружная оболочка
+      x2 (чего)
+    notes:
+    - '{grute} (плод [фрукт]), {calku} (панцирь), {skapi} (кожа) ([pilka], как более
+      общий термин, включает в себя {skapi} (кожа)), {gacri} (покрывать [в качестве
+      крышки])'
+    glosses:
+    - x1=кора
+  en-simple:
+    place structure: x1 is a crust or skin of x2
+    notes:
+    - No notes.
+    glosses:
+    - a crust
+    - x2=something with a crust
+  eo:
+    place structure: x1 estas krusto/ŝelo/haŭto/felo/ekstera kovraĵo de x2
+    notes:
+    - (kp. grute, calku, skapi (pilka kiel ĝenerala termino inkluzivas je skapi),
+      gacri)
+    glosses:
+    - krusto
+  hu:
+    place structure: x1 a kérge/héja/bőre/külső fedőrétege x2-nek
+    notes:
+    - '(Lásd még: {grute}, {calku}, {skapi}, {gacri})'
+    glosses:
+    - kéreg
+  ja:
+    place structure: x1 は x2 を覆う皮／外面／表層
+    notes:
+    - ・大意： 皮 ・読み方： ピルゥカ  ・語呂合わせ： pi（皮） ・関連語： {grute}, {calku}, {skapi} (pilka as a
+      general term includes skapi}, {gacri}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的外壳/皮肤/外皮/外表面
+    notes:
+    - 参见 {grute}, {calku}, {skapi}, {pilka}, {gacri}
+    glosses:
+    - No glosses.

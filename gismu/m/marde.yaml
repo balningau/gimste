@@ -1,8 +1,76 @@
-Word: marde
-Rafsi: mad
-Definition: x1 are the ethics/morals/moral standards/ethical standards of x2 (ind./mass)
-  about situation x3.
-Notes: $x_1$ will (typically) be an abstract, a rule or rules of behavior; also principles;
-  also conscience (= {sezmarde}).  See also {palci}, {vrude}, {lijda}, {manri}, {javni},
-  {tarti}, {zekri}.
-Examples: None
+word: marde
+rafsi:
+- mad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 are the ethics/morals/moral standards/ethical standards of
+      x2 (ind./mass) about situation x3.
+    notes:
+    - x1 will (typically) be an abstract, a rule or rules of behavior; also principles;
+      also conscience (= {sezmarde}).  See also {palci}, {vrude}, {lijda}, {manri},
+      {javni}, {tarti}, {zekri}.
+    glosses:
+    - morals
+  de:
+    place structure: x1 ist/sind die Moral/Ethik/Sitten/die ethischen/moralischen
+      Standards von x2 (Einzelner/Masse) für Situation x3
+    notes:
+    - No notes.
+    glosses:
+    - Moral
+  es:
+    place structure: x1 es una ética/moral/estándar de conducta de x2 para situación
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - moral
+  ru:
+    place structure: x1 — мораль/этика/нравственность/этические нормы/нравственные
+      принципы x2 (чья)
+    notes:
+    - 'В типичном употреблении x1 — абстракция, правило или правила поведения; совесть:
+      {sezmarde} {palci} (дурной), {vrude} (праведный), {lijda} (религия), {manri}
+      (эталон), {javni} (правило [предписание]), {tarti} (вести [себя: поведение]),
+      {zekri} (преступление)'
+    glosses:
+    - мораль
+  en-simple:
+    place structure: x1 are the ethices of x2 about situation x3
+    notes:
+    - No notes.
+    glosses:
+    - an ethic
+    - x2=something with an ethic
+    - x3=a situation with an ethic
+  eo:
+    place structure: x1 estas la etiko/moralo/moralaj normoj/etikaj normoj de x2 (ind./mass)
+      pri situacio x3
+    notes:
+    - x1 kutime estos abstraktaĵo, regulo aŭ reguloj de konduto; ankaŭ principoj;
+      ankaŭ konscienco (= {sezmarde}).  Vidu ankaŭ {palci}, {vrude}, {lijda}, {manri},
+      {javni}, {tarti}, {zekri}.
+    glosses:
+    - moralo
+  hu:
+    place structure: x1 az erkölcse/morálja x2-nek x3 helyzetről
+    notes:
+    - '(Lásd még: {palci}, {vrude}, {lijda}, {manri}, {javni}, {tarti}, {zekri})'
+    glosses:
+    - erkölcs
+  ja:
+    place structure: x1 は x2 （個人／群）の、 x3 （事）に関する倫理／道徳（律）／モラル
+    notes:
+    - x1は事や行動など。 ・大意： 倫理 ・読み方： マルデ  ・語呂合わせ： 道徳まるでない ・関連語： {palci}, {vrude}, {lijda},
+      {manri}, {javni}, {tarti}, {zekri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2（个体/团体）的道德标准/伦理规范，关于情形x3
+    notes:
+    - x1通常是谓词子句，规则或者行为规范；也指原则；道德/良心={sezmarde}；参见 {palci}, {vrude}, {lijda}, {manri},
+      {javni}, {tarti}, {zekri}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,71 @@
-Word: pritu
-Rafsi: ''
-Definition: x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference
-  x3.
-Notes: 'Also: $x_3$ is the standard of orientation for $x_2$.  See also cmavo list
-  {ri''u}, {mlana}, {crane}, {trixe}, {farna}, {zunle}.'
-Examples: None
+word: pritu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference
+      x3.
+    notes:
+    - 'Also: x3 is the standard of orientation for x2.  See also cmavo list {ri''u},
+      {mlana}, {crane}, {trixe}, {farna}, {zunle}.'
+    glosses:
+    - right
+  de:
+    place structure: x1 ist rechts/zur Rechten von x2, das x3 gegenübersteht/in Bezugssystem
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - rechts
+  es:
+    place structure: x1 está a la derecha/diestra de x2 que mira hacia x3
+    notes:
+    - Ver también {zunle}.
+    glosses:
+    - derecha
+  ru:
+    place structure: x1 находится справа/по правую руку от x2, наблюдаемого со стороны/находящегося
+      в системе координат x3
+    notes:
+    - x3 - это критерий, стандарт ориентации, направления x2 (наблюдателя). {ri'u},
+      {mlana} (сбоку), {crane} (перед), {trixe} (сзади), {farna} (направление), {zunle}
+      (слева)
+    glosses:
+    - справа
+    - x1=правый (справа)
+  en-simple:
+    place structure: x1 is to the right of x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something to the right of something
+    - x2=something to which something is right of
+    - x3=a frame of reference in which something is to the right
+  eo:
+    place structure: x1 estas dekstre de x2 kiu frontas al/en referenckadro x3
+    notes:
+    - 'Ankaŭ: x3 estas la normo pri orientiĝo por x2.  Vidu ankaŭ cmavo {ri''u}, {mlana},
+      {crane}, {trixe}, {farna}, {zunle}.'
+    glosses:
+    - dekstra
+  hu:
+    place structure: x1 a jobb oldala x2-nek / jobbra van x2-től, x3 vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {mlana}, {crane}, {trixe}, {farna}, {zunle})'
+    glosses:
+    - jobb
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における右方／右側
+    notes:
+    - ・大意： 右 ・読み方： プリトゥ  ・語呂合わせ： 右手にプリッツ ・関連語： {ri'u}, {mlana}, {crane}, {trixe},
+      {farna}, {zunle}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1位于x2的右边，面向/基于参考系x3
+    notes:
+    - 也指：x3是x2选取方向的标准；参见 {ri'u}, {mlana}, {crane}, {trixe}, {farna}, {zunle}.
+    glosses:
+    - No glosses.

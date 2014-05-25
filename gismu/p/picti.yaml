@@ -1,9 +1,98 @@
-Word: picti
-Rafsi: pic
-Definition: x1 is a trillionth [$10^{-12}$] of x2 in dimension/aspect x3 (default
-  is units).
-Notes: Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
-  {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
-  {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi},
-  {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: picti
+rafsi:
+- pic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a trillionth [$10^{-12}$] of x2 in dimension/aspect x3
+      (default is units).
+    notes:
+    - Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - 1E-12
+    - trillionth
+  de:
+    place structure: 'x1 ist ein Billionstel [$10^{-12}$] von x2 in Dimension/Aspekt
+      x3 (Default: Einheiten]'
+    notes:
+    - No notes.
+    glosses:
+    - 1E-12
+  es:
+    place structure: x1 es una billonésima (1E-12) de x2 en dimensión/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - pico
+  ru:
+    place structure: x1 составляет триллионную [$10^{-12}$] долю x2 (чего) в аспекте/измерении
+      x3 (по умолчанию единицы)
+    notes:
+    - '{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno}
+      (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин),
+      {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi}
+      (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo}
+      (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri}
+      (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {terto} (тера), {xatsi}
+      (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - 1E-12
+  en-simple:
+    place structure: x1 is 10 to the negative twelfth of x2 in dimension x3
+    notes:
+    - No notes.
+    glosses:
+    - a 10 to the negative twelfth
+    - x2=something with 10 to the negative twelfths
+    - x3=a 10 to the negative twelfth aspect
+  eo:
+    place structure: x1 estas bilionono [1x10**-12] de x2 laŭ dimensio/aspekto x3
+      (defaŭlte unuoj)
+    notes:
+    - (kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti,
+      nanvi, petso, terto, xatsi,xecto, xexso,zepti,zetro)
+    glosses:
+    - 1E-12 piko-
+  hu:
+    place structure: x1 az egybilliomod ($10^{-12}$) része x2-nek, x3 méretében/szempontból
+    notes:
+    - '(Lásd még: {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - piko-
+  ja:
+    place structure: x1 は x2 の、 x3 （性質）におけるピコ／一兆分の一 ［1 x1 0**-12］
+    notes:
+    - ・大意： ピコ ・読み方： ピシティ  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro},
+      {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en biljontedel [$10^{-12}$] av x2 i dimension/aspekt x3
+      (enheter om inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - 1E-12
+    - biljontedel (långa skalan (Sverige m.fl.))
+    - pico- (SI-prefix)
+    - piko- (SI-prefix)
+    - triljontedel (korta skalan (ej Sverige; USA/modern England))
+  zh:
+    place structure: x1是十的负十二次方个/份[$10^{-12}$]x2，在x3方面（默认为计量单位）
+    notes:
+    - 参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu},
+      {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

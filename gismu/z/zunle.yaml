@@ -1,7 +1,71 @@
-Word: zunle
-Rafsi: zul
-Definition: x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference
-  x3.
-Notes: Also $x_3$ is the standard of orientation for $x_2$.  See also cmavo list {zu'a},
-  {pritu}, {mlana}, {crane}, {trixe}, {farna}.
-Examples: None
+word: zunle
+rafsi:
+- zul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference
+      x3.
+    notes:
+    - Also x3 is the standard of orientation for x2.  See also cmavo list {zu'a},
+      {pritu}, {mlana}, {crane}, {trixe}, {farna}.
+    glosses:
+    - left
+  de:
+    place structure: x1 ist links/zur Linken von x2, das x3 gegenübersteht/in Bezugssystem
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - links
+  es:
+    place structure: x1 está a la izquierda/siniestra de x2 que mira hacia x3
+    notes:
+    - Ver también {pritu}.
+    glosses:
+    - izquierda
+  ru:
+    place structure: x1 находится слева/по левую руку от x2 для (воображаемого) наблюдателя,
+      смотрящего от x2 в сторону/в системе отсчета x3
+    notes:
+    - x3 задает ориентацию x2 {zu'a}, {pritu} (справа), {mlana} (сбоку), {crane} (перед),
+      {trixe} (сзади), {farna} (направление)
+    glosses:
+    - слева
+    - x1=левый
+  en-simple:
+    place structure: x1 is to the left of x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something to the left of something
+    - x2=something to which something is left of
+    - x3=a frame of reference in which something is to the left
+  eo:
+    place structure: x1 estas maldekstre/live de x2 kiu frontas al/en referenckadro
+      x3
+    notes:
+    - 'Ankaŭ: x3 estas la normo por orientiĝo de x2.  Vidu ankaŭ cmavo {zu''a}, {pritu},
+      {mlana}, {crane}, {trixe}, {farna}.'
+    glosses:
+    - maldekstra
+  hu:
+    place structure: x1 a bal oldala x2-nek / balra van x2-től, x3 vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {pritu}, {mlana}, {crane}, {trixe}, {farna})'
+    glosses:
+    - bal
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における左方／左側
+    notes:
+    - ・大意： 左 ・読み方： ズンルェ  ・語呂合わせ： ＜ずんずんレフトに＞ ・関連語： {zu'a}, {pritu}, {mlana}, {crane},
+      {trixe}, {farna}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在x2的左侧，相对于参考物x3
+    notes:
+    - 'x3是x2的方向标准。 参考: {zu''a} ， {pritu} ， {mlana} ， {crane} ， {trixe} ， {farna}。'
+    glosses:
+    - 左

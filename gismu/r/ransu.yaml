@@ -1,6 +1,65 @@
-Word: ransu
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of bronze of composition including
-  x2.
-Notes: See also {jinme}, {tunka}, {lastu}.
-Examples: None
+word: ransu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of bronze of composition
+      including x2.
+    notes:
+    - See also {jinme}, {tunka}, {lastu}.
+    glosses:
+    - bronze
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Bronze von Zusammensetzung
+      unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Bronze
+  es:
+    place structure: x1 es una cantidad de bronce de composición x2
+    notes:
+    - Ver también {lastu}.
+    glosses:
+    - bronce
+  ru:
+    place structure: x1 — бронза, в состав которой входит x2; x1 содержит бронзу
+    notes:
+    - '{jinme} (металл), {tunka} (медь), {lastu} (латунь)'
+    glosses:
+    - x1=бронза
+  en-simple:
+    place structure: x1 is a quantity of bronze of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of bronze
+    - x2=a composition of bronze
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el bronzo de konsisto enhavanta
+      x2-on
+    notes:
+    - Vidu ankaŭ {jinme}, {tunka}, {lastu}.
+    glosses:
+    - bronzo
+  hu:
+    place structure: x1 bizonyos mennyiségű bronz (-ot tartalmaz/-ból készült), x2
+      összetétellel
+    notes:
+    - '(Lásd még: {jinme}, {tunka}, {lastu}))'
+    glosses:
+    - bronz
+  ja:
+    place structure: x1 は x2 （成分）の青銅
+    notes:
+    - ・大意： 青銅 ・読み方： ランス  ・語呂合わせ： 青銅のランス ・関連語： {jinme}, {tunka}, {lastu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是青铜/青铜制品，包含组分x2
+    notes:
+    - 参见 {jinme}, {tunka}, {lastu}.
+    glosses:
+    - No glosses.

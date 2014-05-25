@@ -1,5 +1,62 @@
-Word: tamca
-Rafsi: ''
-Definition: x1 is a tomato [fruit/vegetable/plant] of species/strain x2.
-Notes: See also {grute}, {stagi}.
-Examples: None
+word: tamca
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tomato [fruit/vegetable/plant] of species/strain x2.
+    notes:
+    - See also {grute}, {stagi}.
+    glosses:
+    - tomato (fruit or plant)
+  de:
+    place structure: x1 ist eine Tomate [Frucht/Pflanze] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Tomate (Frucht oder Pflanze)
+  es:
+    place structure: x1 es un tomate (fruto) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - tomate
+  ru:
+    place structure: x1 — помидор/томат (овощ/растение) вида/сорта x2
+    notes:
+    - '{grute} (плод [фрукт]), {stagi} (овощ)'
+    glosses:
+    - томат
+    - x2=вид томата
+  en-simple:
+    place structure: x1 is a tomato of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a tomato
+    - x2=a species of tomato
+  eo:
+    place structure: x1 estas tomato [frukto/legomo/planto] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {grute}, {stagi}.
+    glosses:
+    - tomato
+  hu:
+    place structure: x1 egy paradicsom [Solanum lycopersicum] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute}, {stagi})'
+    glosses:
+    - paradicsom
+  ja:
+    place structure: x1 は x2 （種類）のトマト
+    notes:
+    - ・大意： トマト ・読み方： タムシャ  ・語呂合わせ： トマト食べたﾑｼｬﾑｼｬ ・関連語： {grute}, {stagi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是番茄/西红柿，属于品种/种类x2
+    notes:
+    - 参见 {grute}, {stagi}.
+    glosses:
+    - No glosses.

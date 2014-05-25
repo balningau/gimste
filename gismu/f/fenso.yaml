@@ -1,7 +1,85 @@
-Word: fenso
-Rafsi: fen, fe'o
-Definition: x1 sews/stitches/sutures materials x2 (ind./set) together with tool(s)
-  x3, using filament x4.
-Notes: ($x_2$ if a set must be a complete specification); See also {cilta}, {jivbu},
-  {jorne}, {nivji}, {pijne}, {lasna}.
-Examples: None
+word: fenso
+rafsi:
+- fen
+- fe'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sews/stitches/sutures materials x2 (ind./set) together with
+      tool(s) x3, using filament x4.
+    notes:
+    - (x2 if a set must be a complete specification); See also {cilta}, {jivbu}, {jorne},
+      {nivji}, {pijne}, {lasna}.
+    glosses:
+    - sew
+  de:
+    place structure: x1 näht/stickt Materialien x2 (einzeln/Menge) zusammen mit Werkzeug(en)
+      x3 und Draht/Faden/Garn x4
+    notes:
+    - No notes.
+    glosses:
+    - nähen
+  es:
+    place structure: x1 cose/sutura materiales x2 con herramienta/instrumento x3 usando
+      hilo/filamento x4
+    notes:
+    - No notes.
+    glosses:
+    - coser
+  ru:
+    place structure: x1 сшивает материалы x2, используя орудия x3, нить x4; ткж. шьет,
+      накладывает швы
+    notes:
+    - 'x2: если множество, требует полного описания {cilta} (нить), {jivbu} (ткать),
+      {jorne} (соединенный), {nivji} (вязать), {pijne} (булавка), {lasna} (прикреплять)'
+    glosses:
+    - сшивать
+    - x1=сшивающий
+  en-simple:
+    place structure: x1 sews or stitches x2 together with tool x3 using filament x4
+    notes:
+    - No notes.
+    glosses:
+    - a sewer
+    - x2=a sewn material
+    - x3=a sewing tool
+    - x4=a sewing thread
+  eo:
+    place structure: x1 kudras/stebas/suturas materialojn x2 (ind./set) kunaj per
+      ilo(j) x3, per filamento x4
+    notes:
+    - (x2 se aro devas esti kompleta specifado); Vidu ankaŭ {cilta}, {jivbu}, {jorne},
+      {nivji}, {pijne}, {lasna}.
+    glosses:
+    - kudri
+  hu:
+    place structure: x1 összevarrja/összeölti x2 anyagokat x3 eszközzel, x4 szállal
+    notes:
+    - '(Lásd még: {cilta}, {jivbu}, {jorne}, {nivji}, {pijne}, {lasna})'
+    glosses:
+    - varr
+  ja:
+    place structure: x1 は x2 （集合）を x3 （縫い具）・ x4 （縫い糸）で縫い合わせる
+    notes:
+    - ・大意： 縫合 ・読み方： フェンソ  ・関連語： {cilta}, {jivbu}, {jorne}, {nivji}, {pijne}, {lasna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 syr/sömmar/nästar/tråcklar/suturerar material (ind./set) x2
+      ihop/fast med verktyg x3 och tråd/fiber x4.
+    notes:
+    - No notes.
+    glosses:
+    - sy
+    - sömma
+    - x1=sömmare
+    - x2=symaterial (det som sys ihop)
+    - x3=sydon (verktyg för sömnad)
+    - x4=sytråd
+  zh:
+    place structure: x1将材料x2（个体/集合）缝合在一起，使用缝合工具x3，缝合线x4
+    notes:
+    - x2处若为集合，应当全部指明；参见 {cilta}, {jivbu}, {jorne}, {nivji}, {pijne}, {lasna}.
+    glosses:
+    - No glosses.

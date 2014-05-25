@@ -1,6 +1,98 @@
-Word: basna
-Rafsi: ''
-Definition: x1 emphasizes/accentuates/gives emphasis/stress/accent to x2 by (action)
-  x3.
-Notes: 'Also: say forcefully. See also {pandi}.'
-Examples: None
+word: basna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 emphasizes/accentuates/gives emphasis/stress/accent to x2
+      by (action) x3.
+    notes:
+    - 'Also: say forcefully. See also {pandi}.'
+    glosses:
+    - emphasize
+  de:
+    place structure: x1 betont/verleiht Nachdruck zu x2 indem es Aktion x3 durchführt
+    notes:
+    - No notes.
+    glosses:
+    - betonen
+  es:
+    place structure: x1 enfatiza/acentúa x2 con acción/énfasis x3
+    notes:
+    - No notes.
+    glosses:
+    - enfatizar
+  fr:
+    place structure: x1 met de l'emphase sur x2, par l'action x3.
+    notes:
+    - Aussi "dire avec force". Voir également {pandi}.
+    glosses:
+    - mettre de l'emphase
+  ru:
+    place structure: x1 акцентирует/выделяет/подчеркивает x2 действием x3
+    notes:
+    - 'Также: говорит убедительно {pandi} (расставлять [знаки препинания])'
+    glosses:
+    - акцентировать
+    - x1=акцентирующий
+    - x2=акцентированный
+    - x3=акцентирующее действие
+  en-simple:
+    place structure: x1 emphasizes x2 by action x3
+    notes:
+    - No notes.
+    glosses:
+    - an emphasizer
+    - x2=something emphasized
+    - x3=an emphasizing action
+  eo:
+    place structure: x1 emfazas/akcentas/substrekas/elstarigas x2-on per (ago) x3
+    notes:
+    - 'Ankaŭ: diri forte. Vidu ankaŭ {pandi}.'
+    glosses:
+    - emfazi
+  hu:
+    place structure: x1 hangsúlyozza/megnyomja x2-t x3 miatt/okból
+    notes:
+    - '(Lásd még: {pandi})'
+    glosses:
+    - hangsúlyoz
+  ja:
+    place structure: x1 は x2 （対象）を x3 で強調する
+    notes:
+    - 「ko sepi'o lo kalkrecinta cu basna lo kanla be do／マスカラで目元を強調してください」 ・大意： 強調
+      ・読み方： バスナ  ・語呂合わせ： ＜バスない＞, accent ・関連語： {pandi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 uthever/tydeliggjør/gir trykk til x2 ved (handling) x3
+    notes:
+    - Se også {pandi} og {ba'e}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 betonar/accentuerar/lägger tonvikt på x2 genom (handling)
+      x3.
+    notes:
+    - 'Även: säger kraftfullt/ säger med eftertryck. Se även {pandi}, {ba''e}.'
+    glosses:
+    - accent
+    - accentuera
+    - betona
+    - betoning
+    - emfas
+    - framhäva
+    - lägga tonvikt på
+    - markera (betona)
+    - säga med eftertryck
+    - understryka (betona)
+    - x1=betoningsgivare
+    - x2=betonad
+    - x3=tonvikt (betoningssätt)
+  zh:
+    place structure: x1强调/重点论述什么给x2通过行动/行为x3
+    notes:
+    - 也指音节的“重读”；参见 {pandi}
+    glosses:
+    - No glosses.

@@ -1,6 +1,77 @@
-Word: fetsi
-Rafsi: fet, fe'i
-Definition: x1 is a female/doe of species x2 evidencing feminine trait(s) x3 (ka);
-  x1 is feminine.
-Notes: See also {nakni}.
-Examples: None
+word: fetsi
+rafsi:
+- fet
+- fe'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a female/doe of species x2 evidencing feminine trait(s)
+      x3 (ka); x1 is feminine.
+    notes:
+    - See also {nakni}.
+    glosses:
+    - female
+  de:
+    place structure: x1 ist ein Weibchen der Spezies x2 mit weiblicher Eigenschaft/weiblichen
+      Eigenschaften x3 (ka); x1 ist weiblich
+    notes:
+    - No notes.
+    glosses:
+    - weiblich
+  es:
+    place structure: x1 es una hembra/mujer de especie x2 con rasgos femeninos x3
+    notes:
+    - No notes.
+    glosses:
+    - hembra
+  ru:
+    place structure: x1 — самка вида x2, проявляющая женские признаки x3 ({ka})
+    notes:
+    - 'прилагательное: x1 женский, женственный {nakni} (самец)'
+    glosses:
+    - x1=самка
+  en-simple:
+    place structure: x1 is a female of species x2 with feminine traits x3
+    notes:
+    - No notes.
+    glosses:
+    - a female
+    - x2=a species of a female
+    - x3=a feminine trait
+  eo:
+    place structure: x1 estas ino/femelo de speco x2 montranta inajn trajtojn x3 (ka);
+      x1 estas ineca
+    notes:
+    - Vidu ankaŭ {nakni}.
+    glosses:
+    - ino
+  hu:
+    place structure: x1 egy nőstény/tehén/tojó/koca az x2 fajból, x3 feminin vonásokkal
+    notes:
+    - '(Lásd még: {nakni})'
+    glosses:
+    - nőnemű
+  ja:
+    place structure: x1 は x2 （生物種）の、 x3 （体現性質）に基づく女性／雌；  x1 は女性的
+    notes:
+    - ・大意： 女性 ・読み方： フェツィ ・関連語： {nakni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en hona av art x2 uppvisande feminin(a) drag x3 (ka); x1
+      är feminin/kvinnlig.
+    notes:
+    - No notes.
+    glosses:
+    - feminin
+    - kvinnlig
+    - x1=hona
+    - x2=honförsedd art
+    - x3=feminina drag
+  zh:
+    place structure: x1是女性的/雌性的/母的生物，属于品种/种类x2，具有证明其为雌性的特征x3（ka）
+    notes:
+    - 参见 {nakni}.
+    glosses:
+    - No glosses.

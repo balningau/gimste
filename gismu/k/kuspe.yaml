@@ -1,7 +1,78 @@
-Word: kuspe
-Rafsi: kup, ku'e
-Definition: x1 ranges/extends/spans/persists/reaches across/over interval/gap/area/scope/extent/range
-  x2.
-Notes: Also continues.  See also {ranji}, {renvi}, {tcena}, {bancu}, {cripu}, {ragve},
-  {vorme}, {canko}, {bitmu}, {sirji}, {jbini}, {jimte}, {preja}.
-Examples: None
+word: kuspe
+rafsi:
+- kup
+- ku'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 ranges/extends/spans/persists/reaches across/over interval/gap/area/scope/extent/range
+      x2.
+    notes:
+    - Also continues.  See also {ranji}, {renvi}, {tcena}, {bancu}, {cripu}, {ragve},
+      {vorme}, {canko}, {bitmu}, {sirji}, {jbini}, {jimte}, {preja}.
+    glosses:
+    - range
+    - reach (touch by virtue of extent)
+  de:
+    place structure: x1 erstreckt sich/dehnt sich aus/dauert fort über Intervall/Region/Bereich/Zweck
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - erstrecken
+  es:
+    place structure: x1 abarca/cubre/se extiende sobre intervalo/región/área x2
+    notes:
+    - No notes.
+    glosses:
+    - abarcar
+  ru:
+    place structure: x1 простирается на/охватывает/перекрывает область/интервал/сферу/зону
+      x2
+    notes:
+    - 'Также: достигает, продолжается на; x2 Также: размах, диапазон, ареал {ranji}
+      (продолжаться), {renvi} (выдерживать), {tcena} (растягиваться), {bancu} (за
+      пределом), {cripu} (мост), {ragve} (напротив [по ту сторону]), {vorme} (дверь),
+      {canko} (окно), {bitmu} (стена), {sirji} (прямой), {jbini} (между), {jimte}
+      (граница), {preja} (простираться [до чего-либо])'
+    glosses:
+    - простираться на
+    - x1=простирающийся на
+  en-simple:
+    place structure: x1 extends or reaches over x2
+    notes:
+    - No notes.
+    glosses:
+    - something extending over
+    - x2=something extended over
+  eo:
+    place structure: x1 ampleksas/daŭras/persistas intervalon/breĉon/areon/amplekson/etendon
+      x2
+    notes:
+    - 'Ankaŭ: kontinui.  Vidu ankaŭ {ranji}, {renvi}, {tcena}, {bancu}, {cripu}, {ragve},
+      {vorme}, {canko}, {bitmu}, {sirji}, {jbini}, {jimte}, {preja}.'
+    glosses:
+    - ampleksi
+  hu:
+    place structure: x1 átfogja/áthidalja x2 távolságot/területet/intervallumot/tárgykört
+    notes:
+    - 'Továbbá: átnyúlik, elterül (bizonyos értelemben) (Lásd még: {ranji}, {renvi},
+      {tcena}, {bancu}, {cripu}, {ragve}, {vorme}, {canko}, {bitmu}, {sirji}, {jbini},
+      {jimte}, {preja})'
+    glosses:
+    - átfog
+  ja:
+    place structure: x1 は x2 （間隔／領域）にわたる；  x2 は x1 の範囲／範疇
+    notes:
+    - ・大意： 範囲 ・読み方： クスペ  ・関連語： {ranji}, {renvi}, {tcena}, {bancu}, {cripu}, {ragve},
+      {vorme}, {canko}, {bitmu}, {sirji}, {jbini}, {jimte}, {preja}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在范围x2内变动
+    notes:
+    - 也指：连续；参见 {ranji}, {renvi}, {tcena}, {bancu}, {cripu}, {ragve}, {vorme}, {canko},
+      {bitmu}, {sirji}, {jbini}, {jimte}, {preja}.
+    glosses:
+    - No glosses.

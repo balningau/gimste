@@ -1,5 +1,89 @@
-Word: banfi
-Rafsi: ''
-Definition: x1 is an amphibian of species/breed x2.
-Notes: See also {danlu}, {respa}.
-Examples: None
+word: banfi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an amphibian of species/breed x2.
+    notes:
+    - See also {danlu}, {respa}.
+    glosses:
+    - amphibian
+  de:
+    place structure: x1 ist eine Amphibie von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Amphibie
+  es:
+    place structure: x1 es un anfibio de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - anfibio
+  fr:
+    place structure: x1 est un amphibien de type/sorte/espèce x2
+    notes:
+    - Voir également {danlu}, {respa}.
+    glosses:
+    - amphibien
+    - grenouille
+  ru:
+    place structure: x1 — амфибия/земноводное (животное) вида/разновидности x2
+    notes:
+    - '{danlu} (животное), {respa} (рептилия)'
+    glosses:
+    - x1=амфибия
+    - x2=вид амфибии
+  en-simple:
+    place structure: x1 is an amphibian of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an amphibian
+    - x2=a species of amphibian
+  eo:
+    place structure: x1 estas amfibio de speco/raso x2
+    notes:
+    - Vidu ankaŭ {danlu}, {respa}.
+    glosses:
+    - amfibio
+  hu:
+    place structure: x1 egy kétéltű [Amphibia osztály] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {danlu}, {respa})'
+    glosses:
+    - kétéltű
+  ja:
+    place structure: x1 は x2 （種類）の両性綱／両生類動物
+    notes:
+    - 「so'o se banfi jai za'o na cirko lo fipfepri lo nu makcu binxo／ある種の両生類は成熟しても鰓を失わない」
+      ・大意： 両生類 ・読み方： バンフィ ・語呂合わせ： anfibio ・関連語： {danlu}, {respa}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een amfibie van de soort x2.
+    notes:
+    - Zie ook {danlu} en {respa}.
+    glosses:
+    - amfibie
+  'no':
+    place structure: x1 er en amfibie av art x2
+    notes:
+    - Se også {danlu} og {respa}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en amfibie (djur) av art/sort x2
+    notes:
+    - Se även {danlu}, {respa}.
+    glosses:
+    - x1=amfibie (djur)
+    - x2=amfibieart
+  zh:
+    place structure: x1是两栖动物，属于物种x2
+    notes:
+    - 参见 {danlu}, {respa}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,69 @@
-Word: panzi
-Rafsi: paz
-Definition: x1 is a [biological] offspring/child/kid/hybrid of parent(s) x2; (adjective:)
-  x1 is filial.
-Notes: See also {grute}, {verba}, {bersa}, {tixnu}, se {rorci}, {patfu}.
-Examples: None
+word: panzi
+rafsi:
+- paz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a [biological] offspring/child/kid/hybrid of parent(s)
+      x2; (adjective:) x1 is filial.
+    notes:
+    - See also {grute}, {verba}, {bersa}, {tixnu}, se {rorci}, {patfu}.
+    glosses:
+    - offspring
+  de:
+    place structure: x1 ist die [biologische] Nachkommenschaft/Brut/der Nachwuchs/ein
+      Kind/Sprössling von Eltern x2
+    notes:
+    - No notes.
+    glosses:
+    - Nachwuchs
+  es:
+    place structure: x1 es una cría/cachorro/pichón/hijo/progenie (biológico) de progenitor
+      x2
+    notes:
+    - Ver también {bersa},  {tixnu},  se {rorci}.
+    glosses:
+    - cría
+  ru:
+    place structure: x1 — (биологический) потомок/отпрыск/ребенок/гибрид родителя(ей)
+      x2
+    notes:
+    - '{grute} (плод [фрукт]), {verba} (ребенок), {bersa} (сын), {tixnu} (дочь), {se}
+      {rorci} (порождать), {patfu} (отец)'
+    glosses:
+    - отпрыск
+    - x2=родители
+  en-simple:
+    place structure: x1 is a child of x2
+    notes:
+    - No notes.
+    glosses:
+    - an offspring
+    - x2=something with a offspring
+  eo:
+    place structure: x1 estas [biologia] ido/infano/gefilo/hibrido de gepatro(j) x2;
+      (adjektivo:) x1 estas fila
+    notes:
+    - Vidu ankaŭ {grute}, {verba}, {bersa}, {tixnu}, se {rorci}, {patfu}.
+    glosses:
+    - ido
+  hu:
+    place structure: x1 egy leszármazottja/gyermeke x2 szülő(k)nek
+    notes:
+    - '(Lásd még: {grute}, {verba}, {bersa}, {tixnu}, {rorci}, {patfu})'
+    glosses:
+    - leszármazott
+  ja:
+    place structure: x1 は x2 （親）の生物学的子孫
+    notes:
+    - いわゆる「実の子」。 ・大意： 子孫 ・読み方： パンズィ  ・関連語： {grute}, {verba}, {bersa}, {tixnu}, {se}
+      {rorci}, {patfu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是亲代x2的子代婴儿/幼崽/新生儿（生物学上的）
+    notes:
+    - 参见 {grute}, {verba}, {bersa}, {tixnu}, se {rorci}, {patfu}.
+    glosses:
+    - No glosses.

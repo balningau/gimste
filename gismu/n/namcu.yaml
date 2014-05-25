@@ -1,6 +1,81 @@
-Word: namcu
-Rafsi: nac, na'u
-Definition: x1 (li) is a number/quantifier/digit/value/figure (noun); refers to the
-  value and not the symbol.
-Notes: See also {lerfu}, {mekso}, {klani}.
-Examples: None
+word: namcu
+rafsi:
+- nac
+- na'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (li) is a number/quantifier/digit/value/figure (noun); refers
+      to the value and not the symbol.
+    notes:
+    - See also {lerfu}, {mekso}, {klani}.
+    glosses:
+    - number (a quantity)
+  jbo:
+    place structure: x1 te kancu ja se klani
+    notes:
+    - '{kanju}, {klani}; {pa}, {re}, {ci}, {vo}, {mu}, {xa}, {se}, {bi}, {so}, {no};
+      {dau}, {fei}, {gai}, {jau}, {rei}, {vai}; {ro}, {so''a}, {so''e}, {so''i}, {so''o},
+      {so''u}; {su''o}, {su''e}, {za''u}, {me''i}, {da''a}; {rau}, {du''e}, {mo''a},
+      {no''o}; {ci''i}, {pai}, {te''o}; {ji''i}, {ma''u}, {ni''u}, {ce''i}; {ki''o},
+      {ka''o}, {fi''u}, {pi}, {ra''e}, {pi''e}; {tu''o}, {xo}'
+    glosses:
+    - namcu
+  de:
+    place structure: x1 (li) ist eine Zahl/Ziffer/ein Wert/eine Anzahl (Substantiv);
+      bezieht sich auf den Wert und nicht auf das Zeichen
+    notes:
+    - No notes.
+    glosses:
+    - Zahl
+  es:
+    place structure: x1 es un número/cuantificador/cifra/valor
+    notes:
+    - Ver también {lerfu},  {mekso},  {klani}.
+    glosses:
+    - número
+  ru:
+    place structure: x1 ({li}) есть число/величина/численное значение
+    notes:
+    - относится к значению, а не к символу {lerfu} (буква), {mekso} (формула), {klani}
+      (количество)
+    glosses:
+    - x1=число
+  en-simple:
+    place structure: x1 is a number or value
+    notes:
+    - No notes.
+    glosses:
+    - a number
+  eo:
+    place structure: x1 (li) estas nombro/kvantigilo/cifero/valoro (substantivo);
+      rilatas al valoro ne al simbolo
+    notes:
+    - Vidu ankaŭ {lerfu}, {mekso}, {klani}.
+    glosses:
+    - nombro
+  hu:
+    place structure: x1 egy szám(jegy)/mennyiség/érték
+    notes:
+    - '(Lásd még: {lerfu}, {mekso}, {klani})'
+    glosses:
+    - szám
+  ja:
+    place structure: x1 は数／量／値
+    notes:
+    - ・大意： 数 ・読み方： ナムシュ  ・語呂合わせ： number,cu(数) ・関連語： {lerfu}, {mekso}, {klani}
+    - ''
+    glosses:
+    - No glosses.
+  la:
+    place structure: x1 numerus est
+    notes:
+    - Confer {lerfu} et {mekso} et {klani}
+    glosses:
+    - x1=numerus
+  zh:
+    place structure: x1（li）是数字/数据/数量；只代表数值，不表示其表征的含义
+    notes:
+    - 参见 {lerfu}, {mekso}, {klani}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,76 @@
-Word: cinta
-Rafsi: ''
-Definition: x1 [material] is a paint of pigment/active substance x2, in a base of
-  x3.
-Notes: See also {pixra}, {skari}.
-Examples: None
+word: cinta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [material] is a paint of pigment/active substance x2, in a
+      base of x3.
+    notes:
+    - See also {pixra}, {skari}.
+    glosses:
+    - paint
+  de:
+    place structure: x1 [Material] ist Lack/Farbe mit Pigment/Farbstoff x2 in einer
+      Basis x3
+    notes:
+    - No notes.
+    glosses:
+    - Farbe
+  es:
+    place structure: x1 es una cantidad de pintura de pigmento/substancia activa x2,
+      sobre una base de x3
+    notes:
+    - No notes.
+    glosses:
+    - pintura
+  ru:
+    place structure: x1 (материал) есть краска, состоящая из пигмента/красителя/активного
+      вещества, на основе x3
+    notes:
+    - '{pixra} (картина), {skari} (иметь цвет)'
+    glosses:
+    - краска
+    - x2=основа пигмента
+  en-simple:
+    place structure: x1 is paint of substance x2 in a base of x3
+    notes:
+    - No notes.
+    glosses:
+    - paint
+    - x2=a paint pigment
+    - x3=a paint base
+  eo:
+    place structure: x1 [materialo] estas farbo de pigmento/aktiva substanco x2, en
+      bazo de x3
+    notes:
+    - Vidu ankaŭ {pixra}, {skari}.
+    glosses:
+    - farbo
+  hu:
+    place structure: x1 egy festék x2 színezőanyaggal, x3 alapanyagban
+    notes:
+    - '(Lásd még: {pixra}, {skari})'
+    glosses:
+    - festék
+  ja:
+    place structure: x1 は x2 （色）・ x3 （主成分）の塗料
+    notes:
+    - 「絵の具」「口紅」も。 ・大意： 塗料 ・読み方： シンタ  ・関連語： {pixra}, {skari}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 [material] är färg av pigment/aktiv substans x2 i basen x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=färg (material)
+    - x2=färgpigment
+    - x3=färgbas
+  zh:
+    place structure: x1（材料）是具有物质/颜色x2的颜料/涂料，在基板/底板x3上
+    notes:
+    - 参见 {pixra}, {skari}.
+    glosses:
+    - No glosses.

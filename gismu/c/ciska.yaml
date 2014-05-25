@@ -1,7 +1,89 @@
-Word: ciska
-Rafsi: ci'a
-Definition: x1 inscribes/writes x2 on display/storage medium x3 with writing implement
-  x4; x1 is a scribe.
-Notes: Also $x_3$ writing surface.  See also {papri}, {penbi}, {pinsi}, {tcidu}, {xatra},
-  {pixra}, {prina}, {finti} for 'author' or specific authorial works, {barna}, {pinka}.
-Examples: None
+word: ciska
+rafsi:
+- ci'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 inscribes/writes x2 on display/storage medium x3 with writing
+      implement x4; x1 is a scribe.
+    notes:
+    - Also x3 writing surface.  See also {papri}, {penbi}, {pinsi}, {tcidu}, {xatra},
+      {pixra}, {prina}, {finti} for 'author' or specific authorial works, {barna},
+      {pinka}.
+    glosses:
+    - write
+  de:
+    place structure: x1 schreibt/trägt x2 auf Anzeigemedium/Speichermedium x3 mit
+      Schreibgerät x4 (ein); x1 ist ein Schreiber
+    notes:
+    - No notes.
+    glosses:
+    - schreiben
+  es:
+    place structure: x1 escribe/inscribe x2 en medio/superficie/documento x3 con instrumento
+      x4
+    notes:
+    - Ver también {tcidu},  {finti}.
+    glosses:
+    - escribir
+  ru:
+    place structure: x1 пишет/записывает x2 на средство хранения/считывания информации
+      x3 с помощью пишущего инструмента x4
+    notes:
+    - 'x3 Также: поверхность для письма {papri} (страница), {penbi} (ручка [пишущая]),
+      {pinsi} (карандаш), {tcidu} (читать), {xatra} (письмо), {pixra} (картина), {prina}
+      (отпечаток), {finti} (сочинять) для «является автором», {barna} (пятно), {pinka}
+      (комментарий)'
+    glosses:
+    - писать
+    - x1=пишущий
+  en-simple:
+    place structure: x1 writes x2 on x3 using x4
+    notes:
+    - No notes.
+    glosses:
+    - a writer
+    - x2=something written
+    - x3=a writing medium
+    - x4=a writing implement
+  eo:
+    place structure: x1 skribas x2-on sur elmontra/konserva medio x3 per skribilo
+      x4; x1 estas skribisto
+    notes:
+    - 'Ankaŭ: x3 skribsurfaco.  (kp. papri, penbi, pinsi, tcidu, xatra, pixra, prina,
+      finti por ''aŭtoro'' aŭ specifa aŭtora verko, barna, pinka)'
+    glosses:
+    - skribi
+  hu:
+    place structure: x1 ráírja/rávési x2-t x3 felületre/tárolóeszközre x4 eszközzel/szerszámmal
+    notes:
+    - '(Lásd még: {papri}, {penbi}, {pinsi}, {tcidu}, {xatra}, {pixra}, {prina}, {finti},
+      {barna}, {pinka})'
+    glosses:
+    - ír
+  ja:
+    place structure: x1 は x2 （文字列）を x3 （媒体）に x4 （道具）で書く
+    notes:
+    - ・大意： 書く ・読み方： シスカ  ・語呂合わせ： 書しますか ・関連語： {papri}, {penbi}, {pinsi}, {tcidu}, {xatra},
+      {pixra}, {prina}, {finti}, {barna}, {pinka}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 skriver/ristar/graverar/sätter på pränt x2 på skärm/lagringsmedium
+      x3 med skrivdon/ x4.
+    notes:
+    - No notes.
+    glosses:
+    - skriva (forma bokstäver)
+    - x1=skrivare
+    - x2=skrift
+    - x3=skrivyta
+    - x4=skrivdon
+  zh:
+    place structure: x1写 x2 在载体 x3上, 使用工具 x4; x1 书写的人.
+    notes:
+    - No notes.
+    glosses:
+    - 写
+    - 刻

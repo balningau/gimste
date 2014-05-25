@@ -1,5 +1,82 @@
-Word: bilma
-Rafsi: bi'a
-Definition: x1 is ill/sick/diseased with symptoms x2 from disease x3.
-Notes: See also {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}.
-Examples: None
+word: bilma
+rafsi:
+- bi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is ill/sick/diseased with symptoms x2 from disease x3.
+    notes:
+    - See also {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}.
+    glosses:
+    - ill
+  de:
+    place structure: x1 ist krank/erkrankt mit Symptomen x2 an/mit Krankheit x3
+    notes:
+    - No notes.
+    glosses:
+    - krank
+  es:
+    place structure: x1 está enfermo con síntomas x2 de enfermedad/mal x3
+    notes:
+    - No notes.
+    glosses:
+    - enfermo
+  ru:
+    place structure: x1 болен, с симптомами x2 болезни/заболевания x3
+    notes:
+    - '{kanro} (здоровый [не больной]), {mikce} (лечить), {spita} (больница), {senci}
+      (чихать), {kafke} (кашлять), {binra} (страховать)'
+    glosses:
+    - больной
+    - x2=симптом болезни
+  en-simple:
+    place structure: x1 is ill or sick with symptoms x2 from disease x3
+    notes:
+    - No notes.
+    glosses:
+    - something ill
+    - x2=a symptom of an illness
+    - x3=a disease of an illness
+  eo:
+    place structure: x1 estas malsana kun simptomoj x2 pro malsano x3
+    notes:
+    - Vidu ankaŭ {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}.
+    glosses:
+    - malsana
+  hu:
+    place structure: x1 beteg x2 tünetekkel, x3 betegséggel
+    notes:
+    - '(Lásd még: {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra})'
+    glosses:
+    - beteg
+  ja:
+    place structure: x1 は x2 （症状）の x3 （病）を患っている
+    notes:
+    - 「risna terbi'a／心臓病」「sudga selbi'a／脱水症」 ・大意： 患う ・読み方： ビルゥマ  ・語呂合わせ： ＜ビルでマスク＞,  bin(病),
+      　ill, mal  ・関連語： {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er syk/smittet med symptomer x2 fra sykdom x3
+    notes:
+    - Se óg {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}, {cortu}, {xrani}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är sjuklig/sjuk med symtom/symptom x2 från sjukdom x3.
+    notes:
+    - Se även {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}, {cortu}, {xrani}.
+    glosses:
+    - sjuk
+    - sjuklig
+    - symptom (sjukdom)
+    - x1=sjukling
+    - x2=symtom (sjukdom)
+    - x3=sjukdom
+  zh:
+    place structure: x1生病/虚弱，带有症状x2，来自疾病x3
+    notes:
+    - 参见 {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}
+    glosses:
+    - No glosses.

@@ -1,8 +1,77 @@
-Word: srana
-Rafsi: ra'a
-Definition: x1 pertains to/is germane/relevant to/concerns/is related/associated with/is
-  about x2.
-Notes: 'Also: $x_1$ is a question of/treats of $x_2$; can be symmetric, although $x_1$
-  is conventionally more specific or constrained in scope than $x_2$.  See also cmavo
-  list {ra''a}, {ckini}, {ponse}, {steci}.'
-Examples: None
+word: srana
+rafsi:
+- ra'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pertains to/is germane/relevant to/concerns/is related/associated
+      with/is about x2.
+    notes:
+    - 'Also: x1 is a question of/treats of x2; can be symmetric, although x1 is conventionally
+      more specific or constrained in scope than x2.  See also cmavo list {ra''a},
+      {ckini}, {ponse}, {steci}.'
+    glosses:
+    - pertain
+    - pertinent (relevant)
+    - relate (pertain)
+    - relevant
+  de:
+    place structure: x1 betrifft/gehört zu/ist relevant für/ist verknüpft/zugeordnet/steht
+      in Beziehung mit x2
+    notes:
+    - No notes.
+    glosses:
+    - betreffen
+  es:
+    place structure: x1 concierne/es relevante a x2
+    notes:
+    - Ver también {ckini},  {steci}.
+    glosses:
+    - concernir
+  ru:
+    place structure: x1 причастен к/имеет отношение к/связан с x2; x2 является темой
+      для x1
+    notes:
+    - 'Также: касается, относится к; x1 — это дело/вопрос x2 (чего); отношение x1
+      и x2 м.б. симметрично, хотя x1 обычно более специфично, чем x2 {ra''a}, {ckini}
+      (иметь отношение), {ponse} (владеть), {steci} (специфика)'
+    glosses:
+    - иметь отношение
+    - x1=имеющий отношение
+    - x2=тема
+    - x2=то, к чему имеет отношение
+  en-simple:
+    place structure: x1 is relevant to x2
+    notes:
+    - No notes.
+    glosses:
+    - something relevant
+    - x2=something to which something is relevant
+  eo:
+    place structure: x1 temas pri/rilatas/koncernas al x2
+    notes:
+    - 'Ankaŭ: x1 estas afero/traktas pri x2; povas esti simetria, kvankam x1 estas
+      konvencie pli specifa aŭ limigita en amplekso ol x2.  Vidu ankaŭ cmavo {ra''a},
+      {ckini}, {ponse}, {steci}.'
+    glosses:
+    - temi
+  hu:
+    place structure: x1 hozzátartozik x2-hez / vonatkozik x2-re / illeti x2-t / összefügg
+      x2-vel
+    notes:
+    - '(Lásd még: {ckini}, {ponse}, {steci})'
+    glosses:
+    - hozzátartozik
+  ja:
+    place structure: x1 は x2 に関連する／関係がある
+    notes:
+    - 一般にx1は x2 よりも具体的な事物となりやすい ・大意： 関連 ・読み方： スラナ  ・関連語： {ra'a}, {ckini}, {ponse},
+      {steci}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2是相关的/有联系的/有关联的；x1相关于/关系到x2
+    notes:
+    - 参见 {ra'a}, {ckini}, {ponse}, {steci}.
+    glosses:
+    - No glosses.

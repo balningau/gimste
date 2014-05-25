@@ -1,9 +1,92 @@
-Word: fepni
-Rafsi: fep, fei
-Definition: x1 is measured in kopeck/cent money-subunits as x2 [quantity], in monetary
-  system x3.
-Notes: Also pfennig, paisa, sen, fen, dinar, etc.; $x_1$ is generally a price/cost/value.  (additional
-  secondary, tertiary, etc. subunit places may be added as $x_4$, $x_5$, $x_6$, ...);
-  See also {sicni}, {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli},
-  {merli}, {bunda}, {kramu}.
-Examples: None
+word: fepni
+rafsi:
+- fep
+- fei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is measured in kopeck/cent money-subunits as x2 [quantity],
+      in monetary system x3.
+    notes:
+    - Also pfennig, paisa, sen, fen, dinar, etc.; x1 is generally a price/cost/value.  (additional
+      secondary, tertiary, etc. subunit places may be added as x4, x5, x6, ...); See
+      also {sicni}, {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu}.
+    glosses:
+    - cent
+  de:
+    place structure: x1 wird gemessen in Kopeken/Cent/Pennies/Gelduntereinheiten als
+      x2 [Mengenangabe] in Geldsystem x3
+    notes:
+    - No notes.
+    glosses:
+    - Cent
+  es:
+    place structure: x1 es/vale/cuesta x2 centavos/céntimos/peniques/sub-unidad de
+      sistema monetario x3
+    notes:
+    - Ver también {rupnu}.
+    glosses:
+    - centavo
+  ru:
+    place structure: x1 составляет/стоит x2 (количество) дробных денежных единиц (копейка/цент/сантим/…)
+      денежной системы x3
+    notes:
+    - x1 обычно цена/стоимость/ценность; дополнительные места для вторичных и т.д.
+      подъединиц могут быть добавлены как x4, x5, x6,… {sicni} (монета), {jdini} (деньги),
+      {jdima} (цена), {vecnu} (продавать), {rupnu} (денежная единица), {dekpu} (иметь
+      объем [неметрический]), {gutci} (измеряться [в футах/дюймах и пр.]), {minli}
+      (миля), {merli} (измерять), {bunda} (весить [в неметрических единицах]), {kramu}
+      (акр)
+    glosses:
+    - x1=копейка
+  en-simple:
+    place structure: x1 is measured in money subunits as quantity x2 in monetary system
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - something measured in money subunits
+    - x2=a quantity of money subunits
+    - x3=a monetary system with money subunits
+  eo:
+    place structure: x1 kostas/valoras x2 [kvanto] cendojn/kopekojn/groŝojn/monsubunuojn,
+      en monsistemo x3
+    notes:
+    - 'Ankaŭ: pfenigo, centimo, centavo, soldo, ktp.; x1 ĝenerale estas prezo/kosto/valoro.  (pliajn
+      subunuajn lokojn oni povas aldoni kiel x4, x5, x6, ...); Vidu ankaŭ {sicni},
+      {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli}, {merli}, {bunda},
+      {kramu}.'
+    glosses:
+    - cendo
+  hu:
+    place structure: x1 értéke x2 váltópénzegység, x3 valutában, x4 (x5, x6, stb.)
+      al-alegységekkel
+    notes:
+    - '(Lásd még: {sicni}, {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu})'
+    glosses:
+    - cent
+  ja:
+    place structure: x1 は x2 （数量）・ x3 （通貨体系）の下位単位／銭／セント／コペック
+    notes:
+    - ・大意： 銭 ・読み方： フェプニ  ・関連語： {sicni}, {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu},
+      {gutci}, {minli}, {merli}, {bunda}, {kramu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 mäts i ören/cent [valuta underenhet] såsom x2 (kvantitet)
+      i penningsystem x3.
+    notes:
+    - Även kopeck, pfennig, paisa, sen, fen, dinar, etc.; x1 är generellt ett pris/kostnad/värde.
+      (ytterligare underenhetsplatser kan läggas till såsom x4, x5, x6, ...).
+    glosses:
+    - öre
+  zh:
+    place structure: x1是数量x2的货币子单位（角/美分/戈比等），在货币系统x3中
+    notes:
+    - 也指：芬尼，派萨，第纳尔等；x1通常指价格/价值/花费；可以在x4,x5……位添加额外的二级，三级单位……；参见 {sicni}, {jdini}, {jdima},
+      {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - No glosses.

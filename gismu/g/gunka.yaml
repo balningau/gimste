@@ -1,7 +1,107 @@
-Word: gunka
-Rafsi: gun, gu'a
-Definition: x1 [person] labors/works on/at x2 [activity] with goal/objective x3.
-Notes: 'Also: $x_1$ is a worker/laborer.  (cf. {sazri}, {gasnu}, {se} {jibri}; {zukte}
-  - which need not be labor; physics term ''work'' = {ni} {muvyselbai}, {briju}, {jibri},
-  {lazni}, {selfu})'
-Examples: None
+word: gunka
+rafsi:
+- gun
+- gu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [person] labors/works on/at x2 [activity] with goal/objective
+      x3.
+    notes:
+    - 'Also: x1 is a worker/laborer.  (cf. {sazri}, {gasnu}, {se} {jibri}; {zukte}
+      - which need not be labor; physics term ''work'' = {ni} {muvyselbai}, {briju},
+      {jibri}, {lazni}, {selfu})'
+    glosses:
+    - work
+  de:
+    place structure: x1 (Person) arbeitet an x2 (Aktivität/Aufgabe) mit dem Ziel/Auftrag
+      x3
+    notes:
+    - nicht physikalische Arbeit (siehe {muvyselbai})
+    glosses:
+    - Arbeit (Bearbeitung einer Aufgabe)
+    - x1=Arbeiter
+    - x2=Aufgabe ; Aktivität (Gegenstand bewusster Arbeit)
+    - x3=Ziel ; Auftrag (erhofftes Ergebnis bewusster Arbeit)
+  es:
+    place structure: x1 trabaja en x2 con fin/objetivo x3
+    notes:
+    - Ver también {zukte}.
+    glosses:
+    - trabajar
+  ru:
+    place structure: x1 трудится/работает в/над x2 (деятельность) с целью x3
+    notes:
+    - 'Также: x1 — работник/рабочий {sazri} (управлять [механизмом]), {gasnu} (делать),
+      {se} {jibri} (профессия); {zukte} (действовать) — не обязательно труд; физический
+      термин «работа»: {ni} {muvyselbai}, {briju} (офис), {jibri} (профессия), {lazni}
+      (лениться), {selfu} (оказывать [услугу])'
+    glosses:
+    - работать
+    - x1=работающий
+  art-guaspi:
+    place structure: \x1 /bwo \x2 ^ve syl \x3
+    notes:
+    - No notes.
+    glosses:
+    - bwo
+  en-simple:
+    place structure: x1 works on x2 with goal x3
+    notes:
+    - No notes.
+    glosses:
+    - a worker
+    - x2=a work activity
+    - x3=a work goal
+  eo:
+    place structure: x1 [homo] laboras je x2 [ago] kun celo x3
+    notes:
+    - 'Ankaŭ: x1 estas laboristo.  (kp. sazri, gasnu, se jibri; zukte - kiu ne nepre
+      estas laboro; fizika termino ''laboro'' = ni muvyselbai, briju, jibri, lazni,
+      selfu)'
+    glosses:
+    - labori
+  hu:
+    place structure: x1 személy dolgozik/munkálkodik x2 tevékenységen, x3 célból
+    notes:
+    - '(Lásd még: {sazri}, {gasnu}, {jibri}, {zukte}, {briju}, {jibri}, {lazni}, {selfu})'
+    glosses:
+    - dolgozik
+  ja:
+    place structure: x1 は x2 （動作／行動）を x3 （目的／目標）のために働く／労働／勤務する；  x1 は労働者
+    notes:
+    - ・大意： 働く ・読み方： グンカ  ・語呂合わせ： 軍歌, gun（工）, work ・関連語： {sazri}, {gasnu}, {se} {jibri};
+      {zukte}; {ni} {muvyselbai}, {briju}, {jibri}, {lazni}, {selfu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 [person] arbeider/jobber med x2 [aktivitet] med målsetning
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - arbeide
+    - jobbe
+    - x2=arbeidsoppgave
+    - x3=målsetning (for en arbeidsoppgave)
+  sv:
+    place structure: x1 [person] arbetar/sliter med/på x2 [aktivitet] med målsättning
+      x3.
+    notes:
+    - 'Även: x1 är en arbetare. (jfr {sazri}, {gasnu}, se {jibri}; {zukte} - vilket
+      inte behöver vara arbete; begreppet ''arbete'' inom fysik (= ni {muvyselbai}).'
+    glosses:
+    - x1=arbetare
+    - x2=arbete
+    - x3=arbetsmålsättning
+  zh:
+    place structure: x1 [人] 劳动/工作, 于x2 [活动], 目的/对象 x3.
+    notes:
+    - No notes.
+    glosses:
+    - 劳动
+    - 工作
+    - x1=工人/劳动者
+    - x2=活动内容
+    - x3=工作对象

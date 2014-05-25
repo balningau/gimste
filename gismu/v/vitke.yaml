@@ -1,5 +1,71 @@
-Word: vitke
-Rafsi: vi'e
-Definition: x1 is a guest/visitor of x2 at place/event x3; x1 visits x2/x3.
-Notes: See also {friti}, {klama}, {zasni}, {xabju}, {zvati}.
-Examples: None
+word: vitke
+rafsi:
+- vi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a guest/visitor of x2 at place/event x3; x1 visits x2/x3.
+    notes:
+    - See also {friti}, {klama}, {zasni}, {xabju}, {zvati}.
+    glosses:
+    - attend (be at an event)
+    - guest
+    - visit
+    - visitor
+  de:
+    place structure: x1 ist ein Gast/Besucher von x2 an Ort/zu Ereignis x3; x1 besucht
+      x2/x3
+    notes:
+    - No notes.
+    glosses:
+    - Gast
+  es:
+    place structure: x1 visita a x2 en lugar/sitio/ocasión/evento x3
+    notes:
+    - No notes.
+    glosses:
+    - visitar
+  ru:
+    place structure: x1 — гость/посетитель x2 (чей) в/на x3 (место/событие); x1 гостит
+      у x2 в x3; x1 посещает x2/x3
+    notes:
+    - '{friti} (предлагать), {klama} (перемещаться), {zasni} (временный), {xabju}
+      (проживать), {zvati} (находиться)'
+    glosses:
+    - гостить
+    - x1=гость
+    - x2=у кого гостят
+  en-simple:
+    place structure: x1 is a guest of x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - a guest
+    - x2=something with a guest
+    - x3=a place with a guest
+  eo:
+    place structure: x1 estas gasto/vizitanto de x2 je loko/okazo x3; x1 vizitas x2-on/x3-on
+    notes:
+    - Vidu ankaŭ {friti}, {klama}, {zasni}, {xabju}, {zvati}.
+    glosses:
+    - gasto
+  hu:
+    place structure: x1 egy vendége/látogatója x2-nek x3 helyen/eseményen
+    notes:
+    - '(Lásd még: {friti}, {klama}, {zasni}, {xabju}, {zvati})'
+    glosses:
+    - vendég
+  ja:
+    place structure: x1 は x2 （者）・ x3 （所／事）の客；  x1 は x2 ・ x3 を訪れる
+    notes:
+    - ・大意： 客 ・読み方： ヴィトケ  ・語呂合わせ： 客はヴィトン系 ・関連語： {friti}, {klama}, {zasni}, {xabju},
+      {zvati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的客人/访客，在位置x3处/事件x3中；x1拜访/访问x2（人）/x3（位置/事件）
+    notes:
+    - 参见 {friti}, {klama}, {zasni}, {xabju}, {zvati}.
+    glosses:
+    - No glosses.

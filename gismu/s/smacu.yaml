@@ -1,5 +1,61 @@
-Word: smacu
-Rafsi: ''
-Definition: x1 is a mouse of species/breed x2.
-Notes: See also {ratcu}.
-Examples: None
+word: smacu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mouse of species/breed x2.
+    notes:
+    - See also {ratcu}.
+    glosses:
+    - mouse
+  de:
+    place structure: x1 ist eine Maus von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Maus
+  es:
+    place structure: x1 es un ratón de especie/raza x2
+    notes:
+    - Ver también {ratcu}.
+    glosses:
+    - ratón
+  ru:
+    place structure: x1 — мышь вида/разновидности x2
+    notes:
+    - '{ratcu} (крыса)'
+    glosses:
+    - мышь
+  en-simple:
+    place structure: x1 is a mouse of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a mouse
+    - x2=a species of mouse
+  eo:
+    place structure: x1 estas muso de speco/raso x2
+    notes:
+    - Vidu ankaŭ {ratcu}.
+    glosses:
+    - muso
+  hu:
+    place structure: x1 egy egér az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {ratcu})'
+    glosses:
+    - egér
+  ja:
+    place structure: x1 は x2 （種類）のハツカネズミ属（マウス等）
+    notes:
+    - ・大意： マウス ・読み方： スマシュ  ・語呂合わせ： マウススマッシュ！ ・関連語： {ratcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是老鼠，属于品种/种类x2
+    notes:
+    - 参见 {ratcu}.
+    glosses:
+    - No glosses.

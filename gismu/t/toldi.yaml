@@ -1,5 +1,63 @@
-Word: toldi
-Rafsi: tod
-Definition: x1 is a butterfly/moth of species/breed x2.
-Notes: See also {cinki}.
-Examples: None
+word: toldi
+rafsi:
+- tod
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a butterfly/moth of species/breed x2.
+    notes:
+    - See also {cinki}.
+    glosses:
+    - butterfly
+  de:
+    place structure: x1 ist ein Schmetterling/Nachtfalter/eine Motte von Art/Gattung
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Schmetterling
+  es:
+    place structure: x1 es una mariposa/polilla de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - mariposa
+  ru:
+    place structure: x1 — бабочка/мотылек/моль вида/разновидности x2
+    notes:
+    - '{cinki} (насекомое)'
+    glosses:
+    - бабочка
+    - x2=вид бабочки
+  en-simple:
+    place structure: x1 is a butterfly or moth of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a moth
+    - x2=a species of moth
+  eo:
+    place structure: x1 estas papilio/tineo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cinki}.
+    glosses:
+    - papilio
+  hu:
+    place structure: x1 egy lepke/pillangó [Lepidoptera rend] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cinki})'
+    glosses:
+    - lepke
+  ja:
+    place structure: x1 は x2 （種類）のチョウ目（もく）昆虫
+    notes:
+    - ・大意： 蝶 ・読み方： トルゥディ  ・関連語： {cinki} (上位概念)
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蝶/蛾，属于品种/种类x2
+    notes:
+    - 参见 {cinki}.
+    glosses:
+    - No glosses.

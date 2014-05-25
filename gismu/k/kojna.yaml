@@ -1,8 +1,76 @@
-Word: kojna
-Rafsi: koj, ko'a
-Definition: x1 is a corner/point/at-least-3-dimensional [solid] angle [shape/form]
-  in/on x2, of material x3.
-Notes: Also apex; a corner exists on three dimensions but need not be limited to points;
-  it suggests a discontinuity in slope in some direction; i.e. in some planar cross-section.  See
-  also {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}.
-Examples: None
+word: kojna
+rafsi:
+- koj
+- ko'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a corner/point/at-least-3-dimensional [solid] angle [shape/form]
+      in/on x2, of material x3.
+    notes:
+    - Also apex; a corner exists on three dimensions but need not be limited to points;
+      it suggests a discontinuity in slope in some direction; i.e. in some planar
+      cross-section.  See also {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}.
+    glosses:
+    - corner
+  de:
+    place structure: x1 ist eine Ecke/Eckpunkt (mind. dreidimensional) [Form] an x2
+      aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Ecke
+  es:
+    place structure: x1 es un rincón/punta/esquina/ángulo sólido (forma) de x2, de
+      material x3
+    notes:
+    - No notes.
+    glosses:
+    - rincón
+  ru:
+    place structure: x1 — телесный (3-мерный) угол (форма) в/на x2, из материала x3
+    notes:
+    - 'Также: вершина, острие — впрочем, наличие точечной вершины необязательно, достаточно
+      наличия ребра/излома в каком-либо поперечном сечении {jipno} (кончик), {konju}
+      (конус), {bliku} (блок [глыба]), {fanmo} (конец), {jganu} (угол), {krasi} (источник
+      [начало])'
+    glosses:
+    - x1=угол
+  en-simple:
+    place structure: x1 is a corner in x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a corner
+    - x2=something with a corner
+    - x3=a material of a corner
+  eo:
+    place structure: x1 estas [solida] tridimensia angulo/punkto [formo] ĉe/en x2,
+      el materialo x3
+    notes:
+    - 'Ankaŭ: pinto; angulo ekzistas en tri dimensioj sed ne nepre estas limigita
+      al punkto; ĝi sugestas ŝanĝon en deklivo laŭ iu direkto; t.e. en iu ebenkruco.  Vidu
+      ankaŭ {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}.'
+    glosses:
+    - angulo [tridimensia]
+  hu:
+    place structure: x1 egy sarok/csúcs/térszög x2-n/-ben, x3 anyagból
+    notes:
+    - '(Lásd még: {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi})'
+    glosses:
+    - sarok
+  ja:
+    place structure: x1 は x2 の角／隅
+    notes:
+    - ・大意： 角（かど） ・読み方： コジナ  ・語呂合わせ： 角に足の指をぶつけたのは故事なこと ・関連語： {jipno}, {konju}, {bliku},
+      {fanmo}, {jganu}, {krasi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是一个顶角（三维结构），在x2上，由材料x3构成
+    notes:
+    - 也指：顶点； 有的角存在三维空间且不具有顶点，因为其在角边上不连续，比如被截去顶点的角；参见 {jipno}, {konju}, {bliku}, {fanmo},
+      {jganu}, {krasi}.
+    glosses:
+    - No glosses.

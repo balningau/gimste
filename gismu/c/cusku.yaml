@@ -1,7 +1,124 @@
-Word: cusku
-Rafsi: cus, sku
-Definition: x1 (agent) expresses/says x2 (sedu'u/text/lu'e concept) for audience x3
-  via expressive medium x4.
-Notes: Also says.  See also {bacru}, {tavla}, {casnu}, {spuda}, cmavo list {cu'u},
-  {bangu}, {dapma}, {jufra}, {pinka}.
-Examples: None
+word: cusku
+rafsi:
+- cus
+- sku
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) expresses/says x2 (sedu'u/text/lu'e concept) for audience
+      x3 via expressive medium x4.
+    notes:
+    - Also says.  See also {bacru}, {tavla}, {casnu}, {spuda}, cmavo list {cu'u},
+      {bangu}, {dapma}, {jufra}, {pinka}.
+    glosses:
+    - express
+    - mention
+    - say
+    - x1=expresser
+    - x2=expression (expressed information)
+    - x3=audience (receiver of expression)
+    - x3=listener
+    - x4=medium (communication format)
+  de:
+    place structure: x1 sagt x2/drückt x2 aus für Zuhörer x3 mittels Medium/Kommunikationsform
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - ausdrücken (eine Bedeutung zum Ausdruck bringen)
+    - erwähnen (ein Konzept in Sprache einbetten)
+    - sagen
+    - x2=Aussage (ausgedrückter Sprachinhalt)
+    - x4=Medium (Kommunikationskanal)
+  es:
+    place structure: x1 dice/expresa x2 a x3 usando medio x4
+    notes:
+    - Ver también {bacru},  {tavla},  {casnu},  {spuda}.
+    glosses:
+    - decir
+  fr:
+    place structure: x1 [agent] exprime/dit x2 à/pour l'audience x3 par le moyen d'expression
+      x4
+    notes:
+    - Voir également {bacru}, {tavla}, {casnu}, {spuda}, {bangu}, {dapma}, {jufra},
+      {pinka}, {cu'u}.
+    glosses:
+    - dire
+    - exprimer
+    - mentionner
+    - x1=exprimeur
+    - x2=expression (information exprimée)
+    - x3=audience (receveur de l'information)
+    - x4=médium (format de communication)
+  ru:
+    place structure: x1 высказывает/сообщает/выражает/говорит x2 (sedu'u/текст/lu'e-концепцию
+      аудитории x3 посредством/способом x4
+    notes:
+    - '{bacru} (произносить), {tavla} (говорить [о чем-либо]), {casnu} (обсуждать),
+      {spuda} (отвечать [реагировать]), {cu''u}, {bangu} (язык [лингвистический]),
+      {dapma} (проклинать), {jufra} (фраза), {pinka} (комментарий)'
+    glosses:
+    - высказывать
+    - сказать
+    - x1=высказывающий
+  art-guaspi:
+    place structure: \x1 /jai \x2 ^x3
+    notes:
+    - No notes.
+    glosses:
+    - jai
+  en-simple:
+    place structure: x1 says x2 for audience x3 via medium x4
+    notes:
+    - No notes.
+    glosses:
+    - a sayer
+    - x2=something said
+    - x3=an audience of something said
+    - x4=a medium for something said
+  eo:
+    place structure: x1 (aganto) diras/esprimas x2-on (sedu'u/teksto/koncepto lu'e)
+      por aŭdantaro x3 per esprimilo x4
+    notes:
+    - Vidu ankaŭ {bacru}, {tavla}, {casnu}, {spuda}, cmavo {cu'u}, {bangu}, {dapma},
+      {jufra}, {pinka}.
+    glosses:
+    - diri
+  hu:
+    place structure: x1 kifejezi/mondja x2-t x3 közönségnek, x4 módon
+    notes:
+    - '(Lásd még: {bacru}, {tavla}, {casnu}, {spuda}, {bangu}, {dapma}, {jufra}, {pinka})'
+    glosses:
+    - kifejez
+  ja:
+    place structure: x1 （者）は x2 （内容）を x3 （聴衆）に x4 （媒体）で表す／言う／表現する
+    notes:
+    - 口言葉に限らない。 ・大意： 表す ・読み方： シュスク  ・関連語： {bacru}, {tavla}, {casnu}, {spuda}, {cu'u},
+      {bangu}, {dapma}, {jufra}, {pinka}
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 (agent) uttrykker/sier x2 (se du'u/tekst/lu'e-konsept) til
+      publikum/mottaker x3 via medium x4
+    notes:
+    - No notes.
+    glosses:
+    - si
+    - uttrykke
+    - x2=uttrykk (noe som kommuniseres)
+    - x3=mottaker
+    - x4=medium (noe en kommuniserer via)
+  pl:
+    place structure: x1 wyraża/mówi x2 (sedu'u/tekst/lu'e) do słuchacza x3 przez medium
+      x4.
+    notes:
+    - Cf. {bacru}, {tavla}, {casnu}, {spuda}.
+    glosses:
+    - mówić
+    - wyrażać (mówić)
+  zh:
+    place structure: x1表达/说出内容x2（sedu'u/lu'e）给x3，通过媒体/媒介x4
+    notes:
+    - 参见 {bacru}, {tavla}, {casnu}, {spuda}, {cu'u}, {bangu}, {dapma}, {jufra}, {pinka}.
+    glosses:
+    - No glosses.

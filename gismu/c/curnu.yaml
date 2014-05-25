@@ -1,7 +1,78 @@
-Word: curnu
-Rafsi: cur
-Definition: x1 is a worm/invertebrate animal of species/breed x2.
-Notes: Also mollusk, snail (= {cakcurnu}), shellfish (= {xaskemcakcurnu}, {xaskemcakydja});
-  the generalization to invertebrate is because many multicellular invertebrates are
-  indeed wormlike.  See also {since}, {silka}.
-Examples: None
+word: curnu
+rafsi:
+- cur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a worm/invertebrate animal of species/breed x2.
+    notes:
+    - Also mollusk, snail (= {cakcurnu}), shellfish (= {xaskemcakcurnu}, {xaskemcakydja});
+      the generalization to invertebrate is because many multicellular invertebrates
+      are indeed wormlike.  See also {since}, {silka}.
+    glosses:
+    - worm
+  de:
+    place structure: x1 ist ein Wurm/wirbelloses Tier von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Wurm
+  es:
+    place structure: x1 es un gusano/lombriz de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - gusano
+  ru:
+    place structure: x1 — червь/беспозвоночное животное вида/разновидности x2
+    notes:
+    - 'Также: моллюск, улитка: {cakcurnu}, морские моллюски: {xaskemcakcurnu}, {xaskemcakydja};
+      большинство многоклеточных беспозвоночных червеподобны, отсюда расширительное
+      толкование {since} (змея), {silka} (шелк)'
+    glosses:
+    - червь
+  en-simple:
+    place structure: x1 is a worm of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a worm
+    - x2=a species of worm
+  eo:
+    place structure: x1 estas vermo/senvertebrulo de speco/raso x2
+    notes:
+    - 'Ankaŭ: molusko, heliko (= {cakcurnu}), konkulo (= {xaskemcakcurnu}, {xaskemcakydja});
+      la ĝeneraligo al nevertebruloj estas ĉar preskaŭ ĉiuj multĉelaj nevertebruloj
+      ja estas vermosimilaj. Vidu ankaŭ {since}, {silka}.'
+    glosses:
+    - vermo
+  hu:
+    place structure: x1 egy féreg/giliszta/kukac/hernyó/csiga/kagyló [gerinctelen
+      állat kitinpáncél nélkül] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {since}, {silka})'
+    glosses:
+    - féreg
+  ja:
+    place structure: x1 は x2 （種類）の無脊椎動物（ミミズ／クラゲ／イカ等）
+    notes:
+    - ・大意： 無脊椎動物 ・読み方： シュルヌ  ・関連語： {since}, {silka}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en mask/[ryggradslöst djur] av art/sort x2.
+    notes:
+    - Maskar kan både vara ryggradslösa eller ryggradsdjur (även om det är mindre
+      vanligt); även larver. Ordet curnu kan ses som en trivial beteckning för olika
+      typer av krälande, maskliknande djur.
+    glosses:
+    - x1=mask (djur)
+    - x2=masksort (djur)
+  zh:
+    place structure: x1是无脊椎动物，属于品种/种类x2
+    notes:
+    - 蜗牛/贝类= {cakcurnu}；海生甲壳类= {xaskemcakcurnu}/{xaskemcakydja}；指广义的无脊椎动物，因为许多多细胞无脊椎动物确实看起来和虫一样；参见
+      {since}, {silka}.
+    glosses:
+    - No glosses.

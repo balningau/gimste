@@ -1,7 +1,66 @@
-Word: stidi
-Rafsi: sid, ti'i
-Definition: x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event)
-  inspires x2 in/among x3.
-Notes: Event which inspires/suggests/is suggestive (= {faurti'i}, {sidyfau}).  See
-  also cmavo list {ti'i}, {tcica}, {xlura}.
-Examples: None
+word: stidi
+rafsi:
+- sid
+- ti'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) suggests/proposes idea/action x2 to audience x3; x1
+      (event) inspires x2 in/among x3.
+    notes:
+    - Event which inspires/suggests/is suggestive (= {faurti'i}, {sidyfau}).  See
+      also cmavo list {ti'i}, {tcica}, {xlura}.
+    glosses:
+    - propose
+    - suggest
+  es:
+    place structure: x1 sugiere/propone/indica x2 ante audiencia x3
+    notes:
+    - No notes.
+    glosses:
+    - sugerir
+  ru:
+    place structure: 'x1 советует/подсказывает/{предлагает} x2 (что: идея/действие)
+      x3 (кому); x1 (событие/деятель) вдохновляет/наводит на мысль x3 на x2'
+    notes:
+    - 'Также: внушает; если x1 - событие, может обозначать "вдохновляет" (если у x3
+      при этом появляется желание, необходимо добавить {djica}; событие, которое вдохновляет/наводит
+      на мысль: {faurti''i}, {sidyfau} {ti''i}, {tcica} (обманчивый), {xlura} (влиять)'
+    glosses:
+    - советовать
+    - x1=советующий
+    - x2=подсказка, совет
+    - x3=кому подсказывают
+  en-simple:
+    place structure: x1 suggests x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a suggester
+    - x2=a suggested idea
+    - x3=an audience of a suggestion
+  eo:
+    place structure: x1 (aganto) proponas/inspiras ideon/agon x2 al publiko x3
+    notes:
+    - Okazo kiu inspiras/sugestas/estas sugesta (= {faurti'i}, {sidyfau}).  Vidu ankaŭ
+      cmavo {ti'i}, {tcica}, {xlura}.
+    glosses:
+    - proponi
+  hu:
+    place structure: x1 javasolja x2 ötletet/cselekedetet x3 közönségnek
+    notes:
+    - '(Lásd még: {tcica}, {xlura})'
+    glosses:
+    - javasol
+  ja:
+    place structure: x1 は x2 （概念／行動）を x3 （者）に示唆／推奨／提案する；  x1 （事）は x2 を x3 にたいして鼓舞する
+    notes:
+    - ・大意： 示唆 ・読み方： スティディ  ・関連語： {ti'i}, {tcica}, {xlura}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人）建议/提议主意/行为x2给接收者x3；x1（事件）激发出x2（灵感等）给x3
+    notes:
+    - 给人带来灵感/提出建议/带来启发的事件= {faurti'i}/{sidyfau}；参见 {ti'i}, {tcica}, {xlura}.
+    glosses:
+    - No glosses.

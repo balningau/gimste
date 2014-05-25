@@ -1,5 +1,70 @@
-Word: cmaci
-Rafsi: ''
-Definition: x1 is a mathematics of type/describing x2.
-Notes: See also {mekso}.
-Examples: None
+word: cmaci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mathematics of type/describing x2.
+    notes:
+    - See also {mekso}.
+    glosses:
+    - mathematics
+  de:
+    place structure: x1 ist Mathematik vom Typ x2/und beschreibt x2
+    notes:
+    - No notes.
+    glosses:
+    - Mathematik
+  es:
+    place structure: x1 es una matemática de tipo x2
+    notes:
+    - No notes.
+    glosses:
+    - matemática
+  ru:
+    place structure: x1 — математика раздела x2
+    notes:
+    - '{mekso} (формула)'
+    glosses:
+    - математика
+    - x2=раздел математики
+  en-simple:
+    place structure: x1 is mathematics of type x2
+    notes:
+    - No notes.
+    glosses:
+    - a mathematic
+    - x2=a mathematic type
+  eo:
+    place structure: x1 estas matematiko de tipo/priskribanta x2-on
+    notes:
+    - Vidu ankaŭ {mekso}.
+    glosses:
+    - matematiko
+  hu:
+    place structure: x1 matematika, amely x2 típusú / leírja x2-t
+    notes:
+    - '(Lásd még: {mekso})'
+    glosses:
+    - matematika
+  ja:
+    place structure: x1 は x2 （種類／表現内容）の数学
+    notes:
+    - ・大意： 数学 ・読み方： シマシ  ・関連語： {mekso}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en matematik av typ/som beskriver x2.
+    notes:
+    - No notes.
+    glosses:
+    - matte (matematik)
+    - x1=matematik
+    - x2=matematiktyp
+  zh:
+    place structure: x1是数学，用以定义/描述x2
+    notes:
+    - 参见 {mekso}.
+    glosses:
+    - No glosses.

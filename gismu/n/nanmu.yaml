@@ -1,6 +1,76 @@
-Word: nanmu
-Rafsi: nau
-Definition: x1 is a man/men; x1 is a male humanoid person [not necessarily adult].
-Notes: Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See
-  also {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
-Examples: None
+word: nanmu
+rafsi:
+- nau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a man/men; x1 is a male humanoid person [not necessarily
+      adult].
+    notes:
+    - Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See
+      also {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
+    glosses:
+    - man
+  de:
+    place structure: x1 ist ein Mann/sind Männer; x1 ist eine männliche menschenähnliche
+      Person [nicht notwendigerweise erwachsen].
+    notes:
+    - Wort in Metapher/Beispiel als sexistisch nicht bevorzugt (Benutz stattdessen
+      {remna} oder {prenu}!). Siehe auch {ninmu}, {remna}, {prenu}, {makcu}, {nanla},
+      {bersa}.
+    glosses:
+    - Mann
+  es:
+    place structure: x1 es un hombre
+    notes:
+    - Ver también {ninmu},  {remna},  {prenu},  {makcu},  {nanla}.
+    glosses:
+    - hombre
+  ru:
+    place structure: x1 — мужчина; x1 — человек/гуманоид мужского пола (не обязательно
+      взрослый)
+    notes:
+    - '{ninmu} (женщина), {remna} (человек), {prenu} (персона), {makcu} (зрелый),
+      {nanla} (мальчик), {bersa} (сын)'
+    glosses:
+    - мужчина
+  en-simple:
+    place structure: x1 is a man
+    notes:
+    - No notes.
+    glosses:
+    - a man
+  eo:
+    place structure: x1 estas viro; x1 estas vira homeca persono [ne nepre adolta]
+    notes:
+    - Vorto evitinda en metaforo/ekzemplo kiel seksisma; (uzu je remna aŭ prenu).  Vidu
+      ankaŭ {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
+    glosses:
+    - viro
+  hu:
+    place structure: x1 egy férfi [hímnemű humanoid; nem feltétlenül felnőtt]
+    notes:
+    - '(Lásd még: {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa})'
+    glosses:
+    - férfi
+  ja:
+    place structure: x1 は男（の人）
+    notes:
+    - セクシズムを避けるなら「prenu」か「remna」。 ・大意： 男 ・読み方： ナンム  ・語呂合わせ： nan（男） ・関連語： {ninmu},
+      {remna}, {prenu}, {makcu}, {nanla}, {bersa}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to mężczyzna/osobnik płci męskiej [nie koniecznie dorosły].
+    notes:
+    - Cf. {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
+    glosses:
+    - mężczyzna
+    - 'osobnik płci męskiej '
+  zh:
+    place structure: x1是男性/男人/男性形状的人（不必要是成年人）
+    notes:
+    - 参见 {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
+    glosses:
+    - No glosses.

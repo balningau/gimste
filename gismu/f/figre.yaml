@@ -1,5 +1,69 @@
-Word: figre
-Rafsi: fig
-Definition: x1 is a fig [fruit/tree] of species/strain x2.
-Notes: See also {grute}.
-Examples: None
+word: figre
+rafsi:
+- fig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fig [fruit/tree] of species/strain x2.
+    notes:
+    - See also {grute}.
+    glosses:
+    - fig
+  de:
+    place structure: x1 ist eine Feige [Frucht/Baum] von Art/Gattung/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Feige
+  es:
+    place structure: x1 es un higo (fruta) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - higo
+  ru:
+    place structure: x1 — инжир/фига/смоква/фикус (фрукт/дерево) вида/сорта x2
+    notes:
+    - '{grute} (плод [фрукт])'
+    glosses:
+    - инжир
+  en-simple:
+    place structure: x1 is a fig of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a fig
+    - x2=a species of fig
+  eo:
+    place structure: x1 estas figo [frukto/arbo] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {grute}.
+    glosses:
+    - figo
+  hu:
+    place structure: x1 egy füge/fügefa [a Ficus nemzetségbe tartozó növény, ill.
+      annak termése] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute})'
+    glosses:
+    - füge
+  ja:
+    place structure: x1 は x2 （種類）のイチジク属植物（ビワ／イチジク／ベンジャミン等）
+    notes:
+    - ・大意： イチジク ・読み方： フィグレ ・関連語： {grute}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är fikon [frukt/träd] av art/stam x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=fikon (frukt/träd)
+    - x2=fikonsort
+  zh:
+    place structure: x1是无花果（树/果），属于品种/种类x2
+    notes:
+    - 参见 {grute}.
+    glosses:
+    - No glosses.

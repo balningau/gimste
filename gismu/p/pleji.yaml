@@ -1,11 +1,102 @@
-Word: pleji
-Rafsi: lej, le'i
-Definition: x1 pays/compensates/remunerates/[rewards] payment x2 to recipient/payee
-  x3 for goods/services x4.
-Notes: Also $x_4$ commodities; $x_4$ may be a specific object, a commodity (mass),
-  an event, or a property; pedantically, for objects/commodities, this is sumti-raising
-  from ownership of the object/commodity (= {posle'i}, {posyvelyle'i} for unambiguous
-  semantics); rent (= {jerle'i}, {lejyjbera}).  (cf. {canja}, {cnemu}, {friti}, {kargu},
-  {vecnu}, {jdima}, {prali}, {jerna}, {sfasa}, {dunda}, {jinga}, {dapma}; see note
-  at jdima on cost/price/value distinction, {cirko}, {dirba})
-Examples: None
+word: pleji
+rafsi:
+- lej
+- le'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pays/compensates/remunerates/[rewards] payment x2 to recipient/payee
+      x3 for goods/services x4.
+    notes:
+    - Also x4 commodities; x4 may be a specific object, a commodity (mass), an event,
+      or a property; pedantically, for objects/commodities, this is sumti-raising
+      from ownership of the object/commodity (= {posle'i}, {posyvelyle'i} for unambiguous
+      semantics); rent (= {jerle'i}, {lejyjbera}).  (cf. {canja}, {cnemu}, {friti},
+      {kargu}, {vecnu}, {jdima}, {prali}, {jerna}, {sfasa}, {dunda}, {jinga}, {dapma};
+      see note at jdima on cost/price/value distinction, {cirko}, {dirba})
+    glosses:
+    - pay
+  jbo:
+    place structure: x1 canja x2 noi jdini ku'o fo x3 fi x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 bezahlt/begleicht/vergütet/[entlohnt] Zahlung x2 an Empfänger
+      x3 für Ware(n)/Dienstleistung(en) x4
+    notes:
+    - No notes.
+    glosses:
+    - bezahlen
+  es:
+    place structure: x1 paga/compensa/remunera/recompensa con x2 a x3 por bien/servicio
+      x4
+    notes:
+    - Ver también {vecnu},  {dejni},  {cnemu},  {jdima},  {prali},  {jerna},  {sfasa}.
+    glosses:
+    - pagar
+  ru:
+    place structure: x1 платит/расплачивается/возмещает/{вознаграждает} x2 (чем) x3
+      (кому) за товары/услуги x4
+    notes:
+    - 'x4 м.б. конкретным объектом, товаром (масса), событием или свойством; строго
+      говоря, для объектов/товаров мы имеем дело с подъемом sumti от владения объектом/товаром:
+      {posle''i}, {posyvelyle''i} для однозначной семантики); выплачивать: {jerle''i},
+      арендовать (={lejyjbera} {canja} (обменивать), {cnemu} (воздавать), {friti}
+      (предлагать), {kargu} (дорогой [дорогостоящий]), {vecnu} (продавать), {jdima}
+      (цена), {prali} (прибыль), {jerna} (зарабатывать), {sfasa} (наказывать), {dunda}
+      (давать), {jinga} (выигрывать [побеждать]), {dapma} (проклинать); см. замечание
+      к {jdima} (цена) о различии стоимости/цены/ценности; {cirko} (терять), {dirba}
+      (милый)'
+    glosses:
+    - платить
+    - x1=плательщик
+    - x2=чем платят
+    - x3=кому платят
+    - x4=товары/услуги
+  en-simple:
+    place structure: x1 pays x2 to x3 for x4
+    notes:
+    - No notes.
+    glosses:
+    - a payer
+    - x2=a payment
+    - x3=a payee
+    - x4=something paid for
+  eo:
+    place structure: x1 pagas/kompensas/[rekompencas] pagon x2 al ricevanto/pagato
+      x3 pro varoj/servoj x4
+    notes:
+    - 'Ankaŭ: x4 komercaĵoj; x4 povas esti specifa objekto, varo (kolektivaĵo), okazo,
+      aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de
+      la objekto/varo (= {posle''i}, posyvelyle''i por neambigua {semantiko}); lui
+      (= {jerle''i}, {lejyjbera}).  (kp. canja, cnemu, friti, kargu, vecnu, jdima,
+      prali, jerna, sfasa, dunda, jinga, dapma; vidu rimarkon ĉe jdima pri distingo
+      inter kosto/prezo/valoro, cirko, dirba)'
+    glosses:
+    - pagi
+  hu:
+    place structure: x1 fizet/kárpótol/jutalmaz x2-vel x3-nak, x4 javakért/szolgáltatásért
+    notes:
+    - '(Lásd még: {canja}, {cnemu}, {friti}, {kargu}, {vecnu}, {jdima}, {prali}, {jerna},
+      {sfasa}, {dunda}, {jinga}, {dapma}, {cirko}, {dirba})'
+    glosses:
+    - fizet
+  ja:
+    place structure: x1 は x2 （金／報酬）を x3 （者）に x4 （対価／商品／サービス）のために支払う
+    notes:
+    - 特別な出来事のために褒美や謝礼を贈るのは「cnemu」。 ・大意： 支払う ・読み方： プルェジ  ・関連語： {canja}, {cnemu}, {friti},
+      {kargu}, {vecnu}, {jdima}, {prali}, {jerna}, {sfasa}, {dunda}, {jinga}, {dapma},
+      {cirko}, {dirba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1给付酬劳/报酬/赔偿/款项x2给接受者/收款人x3，因为货物/服务x4
+    notes:
+    - x4可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posle'i},{posyvelyle'i} ；租借=
+      {jerle'i}/{lejyjbera}；参见 {canja}, {cnemu}, {friti}, {kargu}, {vecnu}, {jdima},
+      {prali}, {jerna}, {sfasa}, {dunda}, {jinga}, {dapma}, {jdima}, {cirko}, {dirba}
+    glosses:
+    - No glosses.

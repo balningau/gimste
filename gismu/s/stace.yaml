@@ -1,6 +1,69 @@
-Word: stace
-Rafsi: sac
-Definition: x1 is honest/open/truthfully revealing to/candid/frank with x2 about matter/fact
-  x3.
-Notes: Also straight, straight-forward.  See also {tcica}, {jetnu}, {jitfa}, {mipri}.
-Examples: None
+word: stace
+rafsi:
+- sac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is honest/open/truthfully revealing to/candid/frank with x2
+      about matter/fact x3.
+    notes:
+    - Also straight, straight-forward.  See also {tcica}, {jetnu}, {jitfa}, {mipri}.
+    glosses:
+    - honest
+  de:
+    place structure: x1 ist ehrlich/ehrenwert/aufrichtig/wahrheitsgemäß aussagend/offen
+      zu/gegenüber x2 über Angelegenheit/Tatsache x3
+    notes:
+    - No notes.
+    glosses:
+    - ehrlich
+  es:
+    place structure: x1 es sincero/honesto/abierto/franco ante x2 sobre asunto/hecho
+      x3
+    notes:
+    - Ver también {tcica}.
+    glosses:
+    - sincero
+  ru:
+    place structure: x1 — честный/откровенный/искренний с/по отношению к x2 насчет/что
+      касается дела/факта x3
+    notes:
+    - 'Также: прямой, чистосердечный, без экивоков, без обиняков {tcica} (обманчивый),
+      {jetnu} (истина), {jitfa} (ложь), {mipri} (скрывать)'
+    glosses:
+    - быть откровенным
+    - x1=откровенный
+    - x2=то, в чем откровенен
+  en-simple:
+    place structure: x1 is honest to x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - a honest
+    - x2=something to which something is honest
+    - x3=something about which something is honest
+  eo:
+    place structure: x1 estas honesta/malferma/malkaŝa kun x2 pri afero/fakto x3
+    notes:
+    - 'Ankaŭ: rekta.  Vidu ankaŭ {tcica}, {jetnu}, {jitfa}, {mipri}.'
+    glosses:
+    - honesta
+  hu:
+    place structure: x1 őszinte/becsületes/nyílt/egyenes x2-vel, x3 ügyben/tényről
+    notes:
+    - '(Lásd még: {tcica}, {jetnu}, {jitfa}, {mipri})'
+    glosses:
+    - őszinte
+  ja:
+    place structure: x1 は x2 にたいして、 x3 （事柄）に関して正直／誠実／率直
+    notes:
+    - ・大意： 正直 ・読み方： スタシェ ・関連語： {tcica}, {jetnu}, {jitfa}, {mipri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2是诚实的/坦白的/率直的，关于问题/事实x3
+    notes:
+    - 也指：直白的/直接的；参见 {tcica}, {jetnu}, {jitfa}, {mipri}.
+    glosses:
+    - No glosses.

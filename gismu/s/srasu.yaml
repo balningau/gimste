@@ -1,5 +1,64 @@
-Word: srasu
-Rafsi: sas
-Definition: x1 is a blade/expanse of grass of species x2.
-Notes: Lawn/meadow (= {sasfoi}).  See also {spati}.
-Examples: None
+word: srasu
+rafsi:
+- sas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a blade/expanse of grass of species x2.
+    notes:
+    - Lawn/meadow (= {sasfoi}).  See also {spati}.
+    glosses:
+    - grass
+  de:
+    place structure: x1 ist ein Grashalm/Rasen/eine Grasfläche von Art x2
+    notes:
+    - No notes.
+    glosses:
+    - Gras
+  es:
+    place structure: x1 es una expansión de cesped/pasto/hierba de especie/variedad
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - césped
+  ru:
+    place structure: x1 — трава вида x2
+    notes:
+    - 'Луг/лужайка/газон: {sasfoi} {spati} (растение)'
+    glosses:
+    - x1=трава
+    - x2=вид травы
+  en-simple:
+    place structure: x1 is grass of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a grass
+    - x2=a species of grass
+  eo:
+    place structure: x1 estas ero/etendo de herbo/razeno de speco x2                                                                                                 6c  47     [herbobedo/razenejo
+      (= sasfoi)]; (kp. spati
+    notes:
+    - )
+    glosses:
+    - herbo
+  hu:
+    place structure: x1 egy fűszál/bizonyos mennyiségű fű az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {spati})'
+    glosses:
+    - fű
+  ja:
+    place structure: x1 は x2 （種類）の草／草原／原っぱ
+    notes:
+    - ・大意： 草 ・読み方： スラス  ・語呂合わせ： 草がすらすら ・関連語： {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是草叶，属于品种/种类x2
+    notes:
+    - 草地/草坪= {sasfoi}；参见 {spati}.
+    glosses:
+    - No glosses.

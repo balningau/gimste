@@ -1,5 +1,62 @@
-Word: viknu
-Rafsi: vik
-Definition: x1 is thick/viscous under conditions x2.
-Notes: See also {denmi}, {snipa}.
-Examples: None
+word: viknu
+rafsi:
+- vik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is thick/viscous under conditions x2.
+    notes:
+    - See also {denmi}, {snipa}.
+    glosses:
+    - viscous
+  de:
+    place structure: x1 ist dickflüssig/zähflüssig/viskos unter Bedingungen x2
+    notes:
+    - No notes.
+    glosses:
+    - viskos
+  es:
+    place structure: x1 es viscoso/espeso bajo condiciones x2
+    notes:
+    - Ver también {denmi},  {snipa}.
+    glosses:
+    - viscoso
+  ru:
+    place structure: x1 — вязкий/{густой} в условиях x2
+    notes:
+    - '{denmi} (плотный [в определенном участке]), {snipa} (прилипать)'
+    glosses:
+    - x1=вязкий
+  en-simple:
+    place structure: x1 is thick or viscous
+    notes:
+    - No notes.
+    glosses:
+    - thick
+    - x1=something thick
+    - x2=a condition of thickness
+  eo:
+    place structure: x1 estas viskoza sub kondiĉoj x2
+    notes:
+    - Vidu ankaŭ {denmi}, {snipa}.
+    glosses:
+    - viskoza
+  hu:
+    place structure: x1 viszkózus/sűrűn folyó x2 körülmények között
+    notes:
+    - '(Lásd még: {denmi}, {snipa})'
+    glosses:
+    - viszkózus
+  ja:
+    place structure: x1 は x2 （条件）で粘性がある／ねばねばしている
+    notes:
+    - ・大意： 粘性 ・読み方： ヴィクヌ  ・関連語： {denmi}, {snipa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是浓的/粘滞的，在条件x2下
+    notes:
+    - 参见 {denmi}, {snipa}.
+    glosses:
+    - No glosses.

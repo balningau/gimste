@@ -1,5 +1,66 @@
-Word: serti
-Rafsi: ser
-Definition: x1 are stairs/stairway/steps for climbing structure x2 with steps x3.
-Notes: See also {stapa}, {loldi}, {senta}.
-Examples: None
+word: serti
+rafsi:
+- ser
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 are stairs/stairway/steps for climbing structure x2 with steps
+      x3.
+    notes:
+    - See also {stapa}, {loldi}, {senta}.
+    glosses:
+    - stairs
+    - x1=step (one of a set of stair rests)
+  de:
+    place structure: x1 ist eine Treppe/sind Treppenstufen für steigende Struktur
+      x2 mit Stufen x3
+    notes:
+    - No notes.
+    glosses:
+    - Treppe
+  es:
+    place structure: x1 es una escalera para subir estructura x2 con escalones x3
+    notes:
+    - No notes.
+    glosses:
+    - escaleras
+  ru:
+    place structure: x1 — лестница/сходни/трап для подъема/спуска в сооружении x2
+      со ступенями x3
+    notes:
+    - '{stapa} (ступать), {loldi} (пол [дно]), {senta} (слой)'
+    glosses:
+    - x1=лестница
+  en-simple:
+    place structure: x1 are stairs for climbing x2 with steps x3
+    notes:
+    - No notes.
+    glosses:
+    - a stairway
+    - x2=something climbed by stairs
+    - x3=a step of a stariway
+  eo:
+    place structure: x1 estas ŝtuparo por supreniri strukturon x2 kun ŝtupoj x3
+    notes:
+    - Vidu ankaŭ {stapa}, {loldi}, {senta}.
+    glosses:
+    - ŝtuparo
+  hu:
+    place structure: x1 egy lépcső/létra x2 szerkezetben/-hez, x3 fokokkal
+    notes:
+    - '(Lásd még: {stapa}, {loldi}, {senta})'
+    glosses:
+    - lépcső
+  ja:
+    place structure: x1 は x2 （構造）・ x3 （段数）の階段
+    notes:
+    - ・大意： 階段 ・読み方： セルティ  ・語呂合わせ： stair, ti(梯) ・関連語： {stapa}, {loldi}, {senta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是阶梯/楼梯/台阶，用于攀爬建筑物x2，具有阶数x3
+    notes:
+    - 参见 {stapa}, {loldi}, {senta}.
+    glosses:
+    - No glosses.

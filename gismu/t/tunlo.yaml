@@ -1,7 +1,71 @@
-Word: tunlo
-Rafsi: tul, tu'o
-Definition: x1 gulps/swallows.
-Notes: $x_1$ swallows down food/drink. $x_2$ (= {tulpinxe}, {tulcti}, {ctitu'o} (the
-  latter two are more general - for food or beverage); swallow/engulf (= {galxycti},
-  {galxynerbi'o}, {galxygre}.  See also {citka}, {pinxe}, {galxe}.
-Examples: None
+word: tunlo
+rafsi:
+- tul
+- tu'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 gulps/swallows.
+    notes:
+    - x1 swallows down food/drink. x2 (= {tulpinxe}, {tulcti}, {ctitu'o} (the latter
+      two are more general - for food or beverage); swallow/engulf (= {galxycti},
+      {galxynerbi'o}, {galxygre}.  See also {citka}, {pinxe}, {galxe}.
+    glosses:
+    - swallow
+  de:
+    place structure: x1 schluckt
+    notes:
+    - No notes.
+    glosses:
+    - schlucken
+  es:
+    place structure: x1 traga/engulle a x2
+    notes:
+    - No notes.
+    glosses:
+    - tragar
+  ru:
+    place structure: x1 глотает x2
+    notes:
+    - 'x1 проглатывает (еду/напиток) x2: {tulpinxe}, {tulcti}, {ctitu''o}; пожирает,
+      заглатывает: {galxycti}, {galxynerbi''o}, {galxygre} {citka} (есть), {pinxe}
+      (пить), {galxe} (горло)'
+    glosses:
+    - глотать
+    - x1=глотающий
+    - x2=проглатываемое
+  en-simple:
+    place structure: x1 swallows
+    notes:
+    - No notes.
+    glosses:
+    - a swallower
+    - x2=something swallowed
+  eo:
+    place structure: x1 glutas
+    notes:
+    - (x1 englutas Manĝaĝon/trinkaĵon. x2 (= tulpinxe, tulcti, ctitu'o (la lastaj
+      du estas pli ĝeneralaj - por manĝaĵo aŭ trinkaĵo); engluti/malaperigi en si
+      (= {galxycti}, {galxynerbi'o}, {galxygre}); Vidu ankaŭ {citka}, {pinxe}, {galxe}.
+    glosses:
+    - gluti
+  hu:
+    place structure: x1 nyel egyet
+    notes:
+    - '(Lásd még: {citka}, {pinxe}, {galxe})'
+    glosses:
+    - nyel
+  ja:
+    place structure: x1 は x2 を飲み込む／飲み下す
+    notes:
+    - 比喩的に（概念／意見を）「取り入れる」「消化する」も ・大意： 飲み込む ・読み方： トゥンルォ  ・関連語： {citka}, {pinxe}, {galxe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1吞咽
+    notes:
+    - x1吞咽食物/饮料；被吞下= {tulpinxe}, {tulcti}, {ctitu'o}； 吞下/咽下= {galxycti}, {galxynerbi'o},
+      {galxygre}；参见 {citka}, {pinxe}, {galxe}.
+    glosses:
+    - No glosses.

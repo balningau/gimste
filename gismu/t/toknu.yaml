@@ -1,6 +1,65 @@
-Word: toknu
-Rafsi: tok
-Definition: x1 is an oven [enclosure that heats its contents] for baking/heating/drying
-  x2.
-Notes: See also {nanba}.
-Examples: None
+word: toknu
+rafsi:
+- tok
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an oven [enclosure that heats its contents] for baking/heating/drying
+      x2.
+    notes:
+    - See also {nanba}.
+    glosses:
+    - oven
+  de:
+    place structure: x1 ist ein Ofen [Gehäuse, das den Inhalt erhitzt] zum Backen/Erhitzen/Trocknen
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - Ofen
+  es:
+    place structure: x1 es un horno para cocer/hornear x2
+    notes:
+    - No notes.
+    glosses:
+    - horno
+  ru:
+    place structure: x1 — печь/духовка (замкнутое пространство для разогрева содержимого)
+      для выпечки/разогрева/сушки x2 (чего)
+    notes:
+    - '{nanba} (хлеб)'
+    glosses:
+    - печь
+  en-simple:
+    place structure: x1 is an oven for heating x2
+    notes:
+    - No notes.
+    glosses:
+    - an oven
+    - x2=something baked with an oven
+  eo:
+    place structure: x1 estas forno [enfermaĵo por varmigi sian enhavon] por baki/varmigi/sekigi
+      x2-on
+    notes:
+    - Vidu ankaŭ {nanba}.
+    glosses:
+    - forno
+  hu:
+    place structure: x1 egy sütő/kemence/kohó/egyéb zárt fűtőeszköz x2 sütésére/szárítására/égetésére/melegítésére/olvasztására
+    notes:
+    - '(Lásd még: {nanba})'
+    glosses:
+    - sütő
+  ja:
+    place structure: x1 は x2 を焼く／熱する／乾かすためのオーブン／かまど／天火／乾燥機／炉
+    notes:
+    - 「火葬室」も。 ・大意： オーブン ・読み方： トクヌ  ・関連語： {nanba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是用以烘烤/加热/干燥x2的烤箱/炉/灶
+    notes:
+    - 参见 {nanba}.
+    glosses:
+    - No glosses.

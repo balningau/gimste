@@ -1,9 +1,91 @@
-Word: jicmu
-Rafsi: cmu
-Definition: x1 is a basis/foundation/underlying or fundamental principle of x2; x1
-  is at the bottom of x2.
-Notes: $x_2$ is founded on basis $x_1$ (= {selcmu} for reordered places); (adjective:)
-  $x_1$ is basic/basal/fundamental); (generally events and properties will be bases
-  for events and states, while objects may be bases/bottoms for objects).  See also
-  cmavo list {ji'u}, {jamfu}, {zbepi}, {genja}, {krasi}.
-Examples: None
+word: jicmu
+rafsi:
+- cmu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a basis/foundation/underlying or fundamental principle
+      of x2; x1 is at the bottom of x2.
+    notes:
+    - x2 is founded on basis x1 (= {selcmu} for reordered places); (adjective:) x1
+      is basic/basal/fundamental); (generally events and properties will be bases
+      for events and states, while objects may be bases/bottoms for objects).  See
+      also cmavo list {ji'u}, {jamfu}, {zbepi}, {genja}, {krasi}.
+    glosses:
+    - basic (elementary building block)
+    - basic (foundational)
+    - basis
+    - principle (basis)
+  de:
+    place structure: x1 ist eine Basis/Grundlage/ein Fundament/grundlegendes Prinzip
+      von x2; x1 ist am Fuß/Grund von x2/das Wesentlichste von x2
+    notes:
+    - No notes.
+    glosses:
+    - Grundlage
+  es:
+    place structure: x1 es una base/fundamento de x2
+    notes:
+    - Ver también {zbepi},  {genja}.
+    glosses:
+    - base
+  ru:
+    place structure: x1 — основа/основание/основополагающий принцип/{сущность} для
+      x2
+    notes:
+    - 'x2 основано на x1: {selcmu} с переставленными местами); прилагательное: x1
+      — основной/фундаментальный/коренной/основополагающий; обычно события и свойства
+      служат основой для событий и состояний, а объекты — для объектов {ji''u}, {jamfu}
+      (ступня), {zbepi} (подставка), {genja} (корень [растения]), {krasi} (источник
+      [начало])'
+    glosses:
+    - основополагающий принцип
+  en-simple:
+    place structure: x1 is a basis of x2
+    notes:
+    - No notes.
+    glosses:
+    - a basis
+    - x2=something with a basis
+  eo:
+    place structure: x1 estas bazo/fundamento/principo de x2; x1 estas malsupre de
+      x2
+    notes:
+    - x2 estas fondita sur bazo x1 (= selcmu por reordigitaj {lokoj}); (adjektivo:)
+      x1 estas baza/fonda/funda/fundamenta); (ĝenerale okazoj kaj ecoj estos bazo/fundamento
+      por okazoj kaj statoj, dum objekto povas esti bazo/fundo por objekto).  Vidu
+      ankaŭ cmavo {ji'u}, {jamfu}, {zbepi}, {genja}, {krasi}.
+    glosses:
+    - bazo
+  hu:
+    place structure: x1 az alapja (bármelyik értelemben) x2-nek
+    notes:
+    - '(Lásd még: {jamfu}, {zbepi}, {genja}, {krasi})'
+    glosses:
+    - alap
+  ja:
+    place structure: x1 は x2 の基礎／基盤／根本／原理
+    notes:
+    - ・大意： 基礎 ・読み方： ジシム  ・関連語： {ji'u}, {jamfu}, {zbepi}, {genja}, {krasi}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en bas/grund/underliggande eller fundamental princip av
+      x2; x1 ligger i botten av x2.
+    notes:
+    - x2 är grundad med x1 som bas (= {selcmu}); (adjektiv:) x1 är grunden/grundläggande/fundamental);
+      (i allmänhet är händelser och skeenden baser för händelser och skeenden, medan
+      föremål kan vara grund/i botten av andra föremål).
+    glosses:
+    - bas (grund)
+    - fundamental
+    - grund (bas)
+    - grundläggande
+    - princip (fundamental/grundläggande)
+  zh:
+    place structure: x1是x2的基础/基本/基座/基本原理；x1是x2的底座/支撑架/底部
+    notes:
+    - x2建立在基础x1上；x1基础的/基本的/底层的；一般来说，状态/事件可以是另一些状态/事件的基础，而物体则是另一些物体的基础/底基；参见：{ji'u},
+      {jamfu}, {zbepi}, {genja}, {krasi}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,61 @@
-Word: tanjo
-Rafsi: ''
-Definition: x1 is the trigonometric tangent of angle/arctangent x2.
-Notes: See also {sinso}.
-Examples: None
+word: tanjo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the trigonometric tangent of angle/arctangent x2.
+    notes:
+    - See also {sinso}.
+    glosses:
+    - tangent
+  de:
+    place structure: x1 ist der trigonometrische Tangens von Winkel/Arcustangens x2
+    notes:
+    - No notes.
+    glosses:
+    - Tangens
+  es:
+    place structure: x1 es la tangente trigonométrica de ángulo x2
+    notes:
+    - Ver también {sinso}.
+    glosses:
+    - tangente
+  ru:
+    place structure: x1 — тригонометрический тангенс угла x2; x2 — арктангенс x1
+    notes:
+    - '{sinso} (синус)'
+    glosses:
+    - x1=тангенс
+  en-simple:
+    place structure: x1 it a tangent of angle x2
+    notes:
+    - No notes.
+    glosses:
+    - a tangent
+    - x2=an angle with a tangent
+  eo:
+    place structure: x1 estas la trigonometria tangento de angulo/arkotangento x2
+    notes:
+    - Vidu ankaŭ {sinso}.
+    glosses:
+    - tangento
+  hu:
+    place structure: x1 a tangense x2 szögnek/számnak
+    notes:
+    - '(Lásd még: {sinso})'
+    glosses:
+    - tangens
+  ja:
+    place structure: x1 は x2 （角度／逆正接）のタンジェント／正接
+    notes:
+    - ・大意： タンジェント ・読み方： タンジョ  ・関連語： {sinso}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在三角函数上，x1是角度/反正切x2的正切
+    notes:
+    - 参见 {sinso}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,72 @@
-Word: jbama
-Rafsi: bam
-Definition: x1 is a bomb/explosive device with explosive material/principle x2.
-Notes: See also {cecla}, {spoja}.
-Examples: None
+word: jbama
+rafsi:
+- bam
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bomb/explosive device with explosive material/principle
+      x2.
+    notes:
+    - See also {cecla}, {spoja}.
+    glosses:
+    - bomb
+  de:
+    place structure: x1 ist eine Bombe mit explosivem Material/Prinzip x2
+    notes:
+    - No notes.
+    glosses:
+    - Bombe
+  es:
+    place structure: x1 es una bomba/aparato explosivo con material/principio explosivo
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — бомба/мина/взрывное устройство со взрывчатым веществом/принципом
+      действия x2
+    notes:
+    - '{cecla} (стрелять), {spoja} (взрываться)'
+    glosses:
+    - бомба
+  en-simple:
+    place structure: x1 is a bomb with explosive x2
+    notes:
+    - No notes.
+    glosses:
+    - a bomb
+    - x2=an explosive of a bomb
+  eo:
+    place structure: x1 estas bombo/eksplodaĵo kun eksploda materialo/principo x2
+    notes:
+    - Vidu ankaŭ {cecla}, {spoja}.
+    glosses:
+    - bombo
+  hu:
+    place structure: x1 egy bomba/robbanószerkezet x2 robbanóanyaggal/működési elvvel
+    notes:
+    - '(Lásd még: {cecla}, {spoja})'
+    glosses:
+    - bomba
+  ja:
+    place structure: x1 は x2 （爆薬／爆発方法）による爆弾；  x1 には爆発性がある
+    notes:
+    - ・大意： 爆弾 ・読み方： ジバマ  ・語呂合わせ： 磁場まずい爆弾 ・関連語： {cecla}, {spoja}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en bomb/explosiv anordning med explosivt material/princip
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=bomb
+    - x2=bombsort
+  zh:
+    place structure: x1是使用爆炸材料/原料/原理x2的炸弹/爆炸装置
+    notes:
+    - 参见 {cecla}, {spoja}.
+    glosses:
+    - No glosses.

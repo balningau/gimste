@@ -1,6 +1,94 @@
-Word: betfu
-Rafsi: bef, be'u
-Definition: 'x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor: midsection].'
-Notes: Also stomach (= {djaruntyrango}), digestive tract (= {befctirango}, {befctirangyci'e}).  See
-  also {cutne}, {livga}, {canti}.
-Examples: None
+word: betfu
+rafsi:
+- bef
+- be'u
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor:
+      midsection].'
+    notes:
+    - Also stomach (= {djaruntyrango}), digestive tract (= {befctirango}, {befctirangyci'e}).  See
+      also {cutne}, {livga}, {canti}.
+    glosses:
+    - abdomen
+  de:
+    place structure: 'x1 ist ein/der Bauch/Unterkörper [Körperteil] von x2; [im übertragenen
+      Sinne: Mittelteil]'
+    notes:
+    - No notes.
+    glosses:
+    - Bauch
+  es:
+    place structure: x1 es un abdomen/panza/barriga/vientre (parte del cuerpo) de
+      x2
+    notes:
+    - Ver también {canti}.
+    glosses:
+    - abdomen
+  fr:
+    place structure: x1 est l'abdomen de/la partie inférieure du tronc de x2.
+    notes:
+    - Peut référer métaphoriquement à une quelconque section centrale, au milieu.
+      Aussi "estomac", {djaruntyrango} et système disgestif, {befctirangyci'e}. Voir
+      également {cutne}, {livga}, {canti}.
+    glosses:
+    - abdomen
+  ru:
+    place structure: x1 — живот/брюхо/нижняя часть туловища (часть тела) x2
+    notes:
+    - 'Метафора: среднее сечение; желудок: {djaruntyrango}, пищеварительный тракт:
+      {befctirango}, {befctirangyci''e} {cutne} (торс), {livga} (печень), {canti}
+      (кишки)'
+    glosses:
+    - живот
+  en-simple:
+    place structure: x1 is a abdomen or lower trunk of x2
+    notes:
+    - No notes.
+    glosses:
+    - an abdomen
+    - x2=something with an abdomen
+  eo:
+    place structure: 'x1 estas (la) abdomeno/ventro [korpoparto] de x2; [metafore:
+      meza parto]'
+    notes:
+    - 'Ankaŭ: stomako (= {djaruntyrango}), digesta aparato (= {befctirango}, {befctirangyci''e}).  Vidu
+      ankaŭ {cutne}, {livga}, {canti}.'
+    glosses:
+    - ventro
+  hu:
+    place structure: x1 egy/a hasa/alteste/potroha x2-nek
+    notes:
+    - '(Lásd még: {cutne}, {livga}, {canti})'
+    glosses:
+    - has
+  ja:
+    place structure: x1 は x2 （本体）の腹／胴部
+    notes:
+    - ・大意： 腹 ・読み方： ベトフゥ  ・語呂合わせ： ＜別の腹部＞, belly, fu(腹) ・関連語： {cutne}, {livga}, {canti}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en mage/magen tilhørende x2
+    notes:
+    - Se også {cutne}, {livga}, {canti}, {gutra}, {balji}, {midju}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är mage/buk/abdomen/nedre del av bål av kropp x2.
+    notes:
+    - Magsäck/matsmältningsorgan(= {djaruntyrango}). Se även {cutne}, {livga}, {canti},
+      {gutra}, {balji}, {midju}.
+    glosses:
+    - abdomen (nedre del av bål)
+    - buk
+    - x1=mage
+    - x2=magförsedd
+  zh:
+    place structure: x1是x2的腹部/肚子
+    notes:
+    - 胃={djaruntyrango};消化道={befctirango}/{befctirangyci'e}，参见{cutne}, {livga}, {canti}
+    glosses:
+    - No glosses.

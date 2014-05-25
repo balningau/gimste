@@ -1,12 +1,101 @@
-Word: zarci
-Rafsi: zac, zai
-Definition: x1 is a market/store/exchange/shop(s) selling/trading (for) x2, operated
-  by/with participants x3.
-Notes: 'Also: mall, marketplace, shopping center, cooperative, bazaar, trading post,
-  mart; the concept is the function of selling/exchanging coupled with a location,
-  and is more oriented to the larger concept of marketplace than the stalls/shops
-  that comprise it, though it does not exclude the latter individual shops (= {zaisle});
-  $x_3$ may include both owners/proprietors and customers in some markets, but in
-  most contexts refers only to the operators.  See also {vecnu}, {canja}, {dinju},
-  {banxa}.'
-Examples: None
+word: zarci
+rafsi:
+- zac
+- zai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a market/store/exchange/shop(s) selling/trading (for) x2,
+      operated by/with participants x3.
+    notes:
+    - 'Also: mall, marketplace, shopping center, cooperative, bazaar, trading post,
+      mart; the concept is the function of selling/exchanging coupled with a location,
+      and is more oriented to the larger concept of marketplace than the stalls/shops
+      that comprise it, though it does not exclude the latter individual shops (=
+      {zaisle}); x3 may include both owners/proprietors and customers in some markets,
+      but in most contexts refers only to the operators.  See also {vecnu}, {canja},
+      {dinju}, {banxa}.'
+    glosses:
+    - market
+  de:
+    place structure: x1 ist ein Markt/Geschäft/Laden/Kaufhaus und verkauft/handelt
+      mit x2, betrieben von/mit Beteiligten x3
+    notes:
+    - No notes.
+    glosses:
+    - Markt
+  es:
+    place structure: x1 es un mercado/almacén/despensa que vende x2, manejado por
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - mercado
+  ru:
+    place structure: x1 — рынок/магазин/лавка, где продают/меняют (на) x2, управляемый/с
+      участниками x3 (кем)
+    notes:
+    - 'Также: торговый центр, базар, кооператив, универсам, универмаг; речь идет о
+      функции торговли/обмена, привязанной к конкретному месту; понятие [zarci] тяготеет
+      скорее к более широкому понятию рынка/торгового центра, чем к отдельным лавкам/магазинам,
+      составляющим его, хотя индивидуальные магазины и не исключаются: {zaisle}; x3
+      может включать как владельцев/собственников, так и покупателей в некоторых типах
+      рынков, но в большинстве контекстов относится только к продавцам {vecnu} (продавать),
+      {canja} (обменивать), {dinju} (здание), {banxa} (банк)'
+    glosses:
+    - магазин
+  en-simple:
+    place structure: x1 is a market selling x2 operated by x3
+    notes:
+    - No notes.
+    glosses:
+    - a market
+    - x2=something sold at a market
+    - x3=an operator of a market
+  eo:
+    place structure: 'x1 estas bazaro/maklerejo/vendejo vendanta/komercanta x2-on,
+      administrita/partoprenita de x3                                                    3m
+      290     [ankaŭ: magazeno, foirejo, kooperativo, butiko; la koncepto estas la
+      funkcio de vendado/interŝanĝo kunigita kun loko, pli orientigita al la pli vasta
+      koncepto de vendplaco ol la budoj/butikoj kiuj konsistigas ĝin, kvankam tiuj
+      ne estas ekskluditaj (= zaisle); x3 povas inkluzivi kaj posedantojn kaj klientojn
+      en iuj merkatoj, sed plejparte rilatas nur al la partoprenantoj]; (kp. vecnu,
+      canja, dinju, banxa'
+    notes:
+    - )
+    glosses:
+    - bazaro
+  hu:
+    place structure: x1 egy bolt/üzlet/piac/áruház/bevásárlóközpont x2 áru eladására/cseréjére,
+      x3 üzemeltetőkkel/eladókkal
+    notes:
+    - 'Adott helyen található vásárlási lehetőség (Lásd még: {vecnu}, {canja}, {dinju},
+      {banxa})'
+    glosses:
+    - bolt
+  ja:
+    place structure: x1 は x2 （取引品）・ x3 （営者）の店／市場
+    notes:
+    - 「モール」も。x3は店員だけでなく客も含まれうる。 ・大意： 店 ・読み方： ザルシ  ・関連語： {vecnu}, {canja}, {dinju},
+      {banxa}
+    - ''
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 là chợ/cửa hàng/cửa hiệu bán x2 do x3 làm việc
+    notes:
+    - No notes.
+    glosses:
+    - chợ
+    - cửa hiệu
+    - cửa hàng
+    - x1=cửa hàng; cửa hiệu
+    - x2=sản phẩm
+    - x3=người bán
+  zh:
+    place structure: x1是销售/贩卖/交易x2的商店/市场/交易所，由x3运营
+    notes:
+    - 此概念指的是交易/销售的场所，且相对于小商铺，其更倾向于指较大型的市场，但其并不排除前者；小商铺/小商店= {zaisle}；x3可能包括了拥有者/运营者甚至包括顾客，但大部分情况下专指运营者；参见
+      {vecnu}, {canja}, {dinju}, {banxa}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,82 @@
-Word: vasru
-Rafsi: vas, vau
-Definition: x1 contains/holds/encloses/includes contents x2 within; x1 is a vessel
-  containing x2.
-Notes: '[also accommodates, container; containment need not be total; $x_2$ is Contained.
-  in $x_1$ (= selvau for reordered places)]; See also {bartu}, {jbini}, {nenri}, {zvati},
-  {cpana}, {botpi}, {lanka}.'
-Examples: None
+word: vasru
+rafsi:
+- vas
+- vau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 contains/holds/encloses/includes contents x2 within; x1 is
+      a vessel containing x2.
+    notes:
+    - '[also accommodates, container; containment need not be total; x2 is Contained.
+      in x1 (= selvau for reordered places)]; See also {bartu}, {jbini}, {nenri},
+      {zvati}, {cpana}, {botpi}, {lanka}.'
+    glosses:
+    - contain
+    - include (enclose)
+    - x1=container
+    - x2=content
+  de:
+    place structure: x1 beinhält/umschließt x2; x1 ist ein Behälter mit x2 drin.
+    notes:
+    - '[Umschließung muss nicht vollständig sein]; Siehe auch {bartu}, {jbini}, {nenri},
+      {zvati}, {cpana}, {botpi}, {lanka}.'
+    glosses:
+    - beinhalten
+    - umschließen
+    - x1=Behälter
+  es:
+    place structure: x1 contiene/incluye/es recipiente/vaso/vasija con contenido x2;
+      (nenri, jbini)
+    notes:
+    - No notes.
+    glosses:
+    - contener
+  ru:
+    place structure: x1 содержит/вмещает/заключает содержимое x2; x1 — сосуд/вместилище,
+      содержащ(ий/ее) x2
+    notes:
+    - 'x1 не обязательно объемлет x2 полностью; x2 содержится в x1: {selvau} с перестановкой
+      мест {bartu} (вне), {jbini} (между), {nenri} (внутри), {zvati} (находиться),
+      {cpana} (на), {botpi} (бутылка), {lanka} (корзина)'
+    glosses:
+    - содержать
+    - x1=вмещающий
+    - x2=содержимое
+  en-simple:
+    place structure: x1 is a container or vessel containing x2
+    notes:
+    - No notes.
+    glosses:
+    - a container
+    - x2=something in a container
+  eo:
+    place structure: x1 enhavas/entenas/enfermas enhavon x2 interne; x1 estas vazo
+      enhavanta x2-on
+    notes:
+    - '(ankaŭ: ricevi, ujo; ne nepre kompleta enhavado; x2 estas Entenita. en x1 (=
+      selvau por reordigitaj {lokoj})); Vidu ankaŭ {bartu}, {jbini}, {nenri}, {zvati},
+      {cpana}, {botpi}, {lanka}.'
+    glosses:
+    - enhavi
+  hu:
+    place structure: x1 tartalmazza/közrezárja x2 tartalmat
+    notes:
+    - 'Nem feltétlenül teljesen (Lásd még: {bartu}, {jbini}, {nenri}, {zvati}, {cpana},
+      {botpi}, {lanka})'
+    glosses:
+    - tartalmaz
+  ja:
+    place structure: x1 は x2 を内に含む／包む；  x1 は x2 の容器
+    notes:
+    - 「nenri」と違い、 x2 はx1をはみ出ていてもいい。 ・大意： 含む ・読み方： ヴァスル  ・関連語： {bartu}, {jbini}, {nenri},
+      {zvati}, {cpana}, {botpi}, {lanka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1包含/含有/包括x2在里面；x1是装有x2的容器
+    notes:
+    - 参见 {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}.
+    glosses:
+    - No glosses.

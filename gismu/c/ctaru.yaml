@@ -1,5 +1,73 @@
-Word: ctaru
-Rafsi: ''
-Definition: x1 is a tide [cyclical/periodic expansion] in x2 caused by x3.
-Notes: See also {xamsi}.
-Examples: None
+word: ctaru
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tide [cyclical/periodic expansion] in x2 caused by x3.
+    notes:
+    - See also {xamsi}.
+    glosses:
+    - tide
+  de:
+    place structure: x1 ist Ebbe/Flut/Gezeiten [zyklische oder periodische Größenänderung]
+      in x2, erzeugt durch x3
+    notes:
+    - No notes.
+    glosses:
+    - Gezeiten
+  es:
+    place structure: x1 es una marea (expansión periódica/cíclica) en x2 causada por
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - marea
+  ru:
+    place structure: x1 — пульсация/{прилив/отлив} (периодическое/циклическое расширение)
+      x2 (чего), вызванная x3 (чем)
+    notes:
+    - '{xamsi} (море)'
+    glosses:
+    - x1=пульсация
+  en-simple:
+    place structure: x1 as a tide in x2 caused by x3
+    notes:
+    - No notes.
+    glosses:
+    - a tide
+    - x2=something with a tide
+    - x3=a tide's cause
+  eo:
+    place structure: x1 estas tajdo [cikla/perioda ekspansio] en x2 kaŭzita de x3
+    notes:
+    - Vidu ankaŭ {xamsi}.
+    glosses:
+    - tajdo
+  hu:
+    place structure: x1 egy/az árapály [ciklikus kiterjedés] x2-ben, x3 által
+    notes:
+    - '(Lásd még: {xamsi})'
+    glosses:
+    - árapály
+  ja:
+    place structure: x1 は x2 （所）・ x3 （起因）の潮
+    notes:
+    - 周期的／規則的拡張全般。 ・大意： 潮 ・読み方： シタル  ・語呂合わせ： 潮水に浸る ・関連語： {xamsi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en strömning/tidvatten/flodvåg [cyklisk/periodisk expansion]
+      i/vid x2 orsakad av x3.
+    notes:
+    - No notes.
+    glosses:
+    - strömning (cyklisk/periodisk expansion)
+    - tidvatten
+  zh:
+    place structure: x1是浪潮（周期性的/循环性的扩展）在x2上，由x3导致
+    notes:
+    - 参见 {xamsi}.
+    glosses:
+    - No glosses.

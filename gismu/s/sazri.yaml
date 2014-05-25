@@ -1,6 +1,69 @@
-Word: sazri
-Rafsi: saz
-Definition: x1 operates/drives/runs x2 [apparatus/machine] with goal/objective/use/end/function
-  x3.
-Notes: See also {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}.
-Examples: None
+word: sazri
+rafsi:
+- saz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 operates/drives/runs x2 [apparatus/machine] with goal/objective/use/end/function
+      x3.
+    notes:
+    - See also {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}.
+    glosses:
+    - operate
+  de:
+    place structure: x1 bedient/betätigt/betreibt/steuert x2 [Gerät/Maschine] mit/für
+      Ziel/Nutzen/Anwendung x3
+    notes:
+    - No notes.
+    glosses:
+    - bedienen
+  es:
+    place structure: x1 maneja/opera/conduce/dirige aparato/máquina x2 con fin/próposito
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - manejar
+  ru:
+    place structure: x1 работает на/с x2 (аппарат/машина) с целью x3; x1 — оператор/машинист/водитель
+      x2 (чего); ткж. ведет/пилотирует (автомобиль/самолет), управляет
+    notes:
+    - '{gidva} (вести [направлять/быть лидером]), {xlura} (влиять), {pilno} (использовать),
+      {tutci} (инструмент), {jitro} (контролировать), {gunka} (работать)'
+    glosses:
+    - x1=управляющий
+    - x3=цель управления
+  en-simple:
+    place structure: x1 operates machine x2 with goal x3
+    notes:
+    - No notes.
+    glosses:
+    - an operater
+    - x2=something operated
+    - x3=a goal of operating something
+  eo:
+    place structure: x1 funkciigas x2-on [aparato/maŝino] kun celo/uzo/funkcio x3
+    notes:
+    - Vidu ankaŭ {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}.
+    glosses:
+    - funkciigi
+  hu:
+    place structure: x1 működteti/kezeli/vezeti x2 készüléket/gépet/berendezést, x3
+      céllal/szándékkal
+    notes:
+    - '(Lásd még: {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka})'
+    glosses:
+    - működtet
+  ja:
+    place structure: x1 は x2 を x3 （目的）のために操作する
+    notes:
+    - ・大意： 操作 ・読み方： サズリ  ・関連語： {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1驱动/推动x2（器官/机械）的运行，具有作用/用途/功能/目的x3
+    notes:
+    - 参见 {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}.
+    glosses:
+    - No glosses.

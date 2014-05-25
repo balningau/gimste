@@ -1,6 +1,58 @@
-Word: pruxi
-Rafsi: rux, ru'i
-Definition: x1 is spiritual/pertains to the soul in nature [either energy or being];
-  x1 is ghostly/ethereal.
-Notes: Also soul (= {ruxse'i}).  See also {censa}, {lijda}, {mucti}, {xadni}.
-Examples: None
+word: pruxi
+rafsi:
+- rux
+- ru'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is spiritual/pertains to the soul in nature [either energy
+      or being]; x1 is ghostly/ethereal.
+    notes:
+    - Also soul (= {ruxse'i}).  See also {censa}, {lijda}, {mucti}, {xadni}.
+    glosses:
+    - spirit
+  de:
+    place structure: x1 ist geistig/gehört zur beseelten Natur [entweder Energie oder
+      Wesen]; x1 ist geisterhaft/ätherisch
+    notes:
+    - No notes.
+    glosses:
+    - geistig
+  es:
+    place structure: x1 es un espíritu/alma/fantasma/espiritual
+    notes:
+    - No notes.
+    glosses:
+    - espíritu
+  ru:
+    place structure: x1  - духовный/имеет отношение к душе/духу/призраку; x1 — призрачный/эфирный/астральный/бестелесный
+    notes:
+    - 'Также: душа: {ruxse''i} {censa} (священный), {lijda} (религия), {mucti} (нематериальный),
+      {xadni} (тело)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is ghostly or spiritual
+    notes:
+    - No notes.
+    glosses:
+    - something spiritual
+  hu:
+    place structure: x1 a lélekhez/szellemhez kapcsolódik
+    notes:
+    - '(Lásd még: {censa}, {lijda}, {mucti}, {xadni})'
+    glosses:
+    - lélek
+  ja:
+    place structure: x1 は魂／霊；  x1 は霊的
+    notes:
+    - ・大意： 魂 ・読み方： プルクィ  ・関連語： {censa}, {lijda}, {mucti}, {xadni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于鬼魂的/幽灵的；x1是幽灵似的/空气似的
+    notes:
+    - 也指：灵魂= {ruxse'i}；参见 {censa}, {lijda}, {mucti}, {xadni}.
+    glosses:
+    - No glosses.

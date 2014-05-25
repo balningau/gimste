@@ -1,10 +1,104 @@
-Word: carmi
-Rafsi: cam, cai
-Definition: x1 is intense/bright/saturated/brilliant in property (ka) x2 as received/measured
-  by observer x3.
-Notes: 'Also lustrous, gleaming, sparkling, shining (all probably better metaphorically
-  combined with gusni: gusycai or camgu''i); in colors, refers principally to increased
-  saturation (with opposite kandi).  See also {denmi}, {gusni}, {kandi}, {ruble},
-  {skari}, {tilju}, {tsali}, {mutce}, {blabi}, {blanu}, {bunre}, {cicna}, {crino},
-  {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.'
-Examples: None
+word: carmi
+rafsi:
+- cam
+- cai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is intense/bright/saturated/brilliant in property (ka) x2
+      as received/measured by observer x3.
+    notes:
+    - 'Also lustrous, gleaming, sparkling, shining (all probably better metaphorically
+      combined with gusni: gusycai or camgu''i); in colors, refers principally to
+      increased saturation (with opposite kandi).  See also {denmi}, {gusni}, {kandi},
+      {ruble}, {skari}, {tilju}, {tsali}, {mutce}, {blabi}, {blanu}, {bunre}, {cicna},
+      {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.'
+    glosses:
+    - intense
+  de:
+    place structure: x1 ist leuchtend/gesättigt (Farbe)/intensiv/strahlend in Eigenschaft
+      (ka) x2 für Beobachter/Messer x3
+    notes:
+    - No notes.
+    glosses:
+    - leuchtend
+  es:
+    place structure: x1 es intenso/brillante/saturado en propiedad x2 según observador
+      x3
+    notes:
+    - Ver también {kandi},  {denmi}.
+    glosses:
+    - intenso
+  ru:
+    place structure: x1 — интенсивный/яркий/насыщенный в свойстве ({ka}) x2 для наблюдателя
+      x3
+    notes:
+    - 'Также: блестящий, сияющий, сверкающий (лучше в сочетании с {gusni}: {gusycai}
+      или {camgu''i}; в применении к цвету означает в основном повышенную насыщенность
+      (антоним: {kandi}) {denmi} (плотный [в определенном участке]), {gusni} (свет),
+      {kandi} (тусклый), {ruble} (слабый), {skari} (иметь цвет), {tilju} (тяжелый
+      [массивный]), {tsali} (сильный), {mutce} (очень), {blabi} (белый), {blanu} (синий),
+      {bunre} (коричневый), {cicna} (бирюзовый), {crino} (зеленый), {grusi} (серый
+      [цвет]), {narju} (оранжевый), {nukni} (пурпурный), {pelxu} (желтый), {xekri}
+      (черный), {xunre} (красный), {zirpu} (сиреневый)'
+    glosses:
+    - x1=яркий
+  en-simple:
+    place structure: x1 is bright or intense in property x2 as measured by observer
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - something bright
+    - x2=a property of brightness
+    - x3=an observer of brightness
+  eo:
+    place structure: x1 estas intensa/brila/saturita en eco (ka) x2 laŭ ricevo/mezuro
+      de observanto x3
+    notes:
+    - 'Brila (gusycai aŭ camgu''i); en koloroj, pliigita saturado (malo: kandi).  Vidu
+      ankaŭ {denmi}, {gusni}, {kandi}, {ruble}, {skari}, {tilju}, {tsali}, {mutce},
+      {blabi}, {blanu}, {bunre}, {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu},
+      {xekri}, {xunre}, {zirpu}.'
+    glosses:
+    - intensa
+  hu:
+    place structure: x1 élénk/telített/csillogó/intenzív x2 tulajdonságban, x3 megfigyelő
+      szerint
+    notes:
+    - '(Lásd még: {denmi}, {gusni}, {kandi}, {ruble}, {skari}, {tilju}, {tsali}, {mutce},
+      {blabi}, {blanu}, {bunre}, {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu},
+      {xekri}, {xunre}, {zirpu})'
+    glosses:
+    - élénk színű
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （観点）で激しい／強烈／激烈／猛烈／熱烈
+    notes:
+    - 「まぶしい」「まばゆい」「濃い」も。 ・大意： 激烈 ・読み方： シャルミ  ・語呂合わせ： bright, min(明) ・関連語： {denmi},
+      {gusni}, {kandi}, {ruble}, {skari}, {tilju}, {tsali}, {mutce}, {blabi}, {blanu},
+      {bunre}, {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre},
+      {zirpu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är intensiv/(ljus)stark/klar/livlig/mättad/[briljant] i egenskap
+      (ka) x2 såsom den tas emot/uppmäts/värderas enligt observatör x3.
+    notes:
+    - Även skinande, gnistrande, glimmande, strålande i kombination med {gusni}. När
+      det gäller färg så avser det ökad mättnad.
+    glosses:
+    - klar (om observerbar egenskap)
+    - livlig (om observerbar egenskap)
+    - mättad (färg)
+    - x1=intensiv (om observerbar egenskap)
+    - x2=egenskap (som kännetecknas av intensitet)
+    - x3=observatör (av intensiv egenskap)
+  zh:
+    place structure: x1是明亮的/光亮的，以性质x2（ka），在观察者x3看来
+    notes:
+    - 有光泽的/闪闪发光的={gusycai} 或 {camgu'i};在色彩上，指高的饱和度，与{kandi}相反； 参见 {denmi}, {gusni},
+      {kandi}, {ruble}, {skari}, {tilju}, {tsali}, {mutce}, {blabi}, {blanu}, {bunre},
+      {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.
+    glosses:
+    - No glosses.

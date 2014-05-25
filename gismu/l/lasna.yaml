@@ -1,9 +1,83 @@
-Word: lasna
-Rafsi: la'a
-Definition: x1 (agent) fastens/connects/attaches/binds/lashes x2 to x3 with fastener
-  x4.
-Notes: No implication that result is considered a single object; although $x_2$ and
-  $x_3$ may be reversible, $x_3$ may be used for the substrate, the fixed/larger object
-  to which $x_2$ becomes attached. See also {jorne}, {fenso}, {jgena}, {batke}, {dinko},
-  {kansa}.
-Examples: None
+word: lasna
+rafsi:
+- la'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) fastens/connects/attaches/binds/lashes x2 to x3 with
+      fastener x4.
+    notes:
+    - No implication that result is considered a single object; although x2 and x3
+      may be reversible, x3 may be used for the substrate, the fixed/larger object
+      to which x2 becomes attached. See also {jorne}, {fenso}, {jgena}, {batke}, {dinko},
+      {kansa}.
+    glosses:
+    - fasten
+  de:
+    place structure: x1 (Handelnder) befestigt/verbindet/heftet/zurrt x2 an x3 fest
+      mit Befestigung/Halter/Klammer x4
+    notes:
+    - No notes.
+    glosses:
+    - befestigen
+  es:
+    place structure: x1 ata/conecta/asegura/abrocha/une x2 y x3 con broche/atadura
+      x4
+    notes:
+    - Ver también {jorne}.
+    glosses:
+    - atar
+  ru:
+    place structure: x1 прикрепляет/присоединяет/приделывает x2 к x3 с помощью x4
+      (крепление и т.п.)
+    notes:
+    - Не предполагается, что результат должен быть целостным объектом; хотя x2 и x3
+      могут переставляться, x3 скорее используется для субстрата, неподвижного, большего
+      объекта, к которому прикрепляется x2 {jorne} (соединенный), {fenso} (шить),
+      {jgena} (узел), {batke} (кнопка), {dinko} (гвоздь), {kansa} (вместе)
+    glosses:
+    - присоединять
+    - x1=присоединяющий
+    - x2=присоединяемое
+  en-simple:
+    place structure: x1 fastens or binds x2 to x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a fastener
+    - x2=a fastened
+    - x3=something fastened to
+    - x4=something with which something is fastened
+  eo:
+    place structure: x1 (aganto) ligas/kunigas/konektas/alfiksas/almetas/bindas x2-on
+      al x3 per fiksilo x4
+    notes:
+    - Ne estas implico ke la rezulto devas esti unuopa objekto; kvankam x2 kaj x3
+      povas esti interŝanĝeblaj, x3 povas esti uzata por la substrato, la fiksa/pli
+      granda objekto al kiu x2 ligiĝas.  Vidu ankaŭ {jorne}, {fenso}, {jgena}, {batke},
+      {dinko}, {kansa}.
+    glosses:
+    - ligi
+  hu:
+    place structure: x1 (cselekvő) rögzíti/odaerősíti/-köti/-kapcsolja x2-t x3-hoz
+      x4 rögzítési eszközzel
+    notes:
+    - '(Lásd még: {jorne}, {fenso}, {jgena}, {batke}, {dinko}, {kansa})'
+    glosses:
+    - rögzít
+  ja:
+    place structure: x1 （者）は x2 を x3 に x4 （留め具）で留める／つなげる／くっつける／縛る
+    notes:
+    - 個体としての x2 と x3 の分離は維持される。「lo cradi cu ve lasna sei pruce'u selsanga／ラヂオでつながつて故郷の唄」（山頭火『行乞記（二）』）
+      ・大意： 留める ・読み方： ルァスナ  ・語呂合わせ： lian(联) , fasten ・関連語： {jorne}, {fenso}, {jgena},
+      {batke}, {dinko}, {kansa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将x2固定/绑定在x3上，使用固定装置x4
+    notes:
+    - 不按时绑定之后作为单一物体；x2与x3是可互换的。x3可能指基材，x2绑定于其上；参见 {jorne}, {fenso}, {jgena}, {batke},
+      {dinko}, {kansa}.
+    glosses:
+    - No glosses.

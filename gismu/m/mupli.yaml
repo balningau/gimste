@@ -1,6 +1,74 @@
-Word: mupli
-Rafsi: mup
-Definition: x1 is an example/sample/specimen/instance/case/illustration of common
-  property(s) x2 of set x3.
-Notes: See also cmavo list {mu'u}, {pixra}.
-Examples: None
+word: mupli
+rafsi:
+- mup
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an example/sample/specimen/instance/case/illustration of
+      common property(s) x2 of set x3.
+    notes:
+    - See also cmavo list {mu'u}, {pixra}.
+    glosses:
+    - example
+    - sample (specimen)
+  jbo:
+    place structure: x1 noi cmima x3 cu jarco x2 noi kampu x3
+    notes:
+    - '{mu''u}; {mu''a}'
+    glosses:
+    - mupli
+  de:
+    place structure: x1 ist ein Beispiel/Vorbild/Muster/eine Probe/Darstellung/ein
+      Fall von gemeinsamer/n Eigenschaft(en) x2 von Menge x3
+    notes:
+    - No notes.
+    glosses:
+    - Beispiel
+  es:
+    place structure: x1 es un ejemplo/muestra/espécimen/instancia/caso/ilustración
+      de propiedad común x2 en conjunto x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — пример/образец/частный случай/проявление/{иллюстрация} общего
+      свойства x2 элементов множества x3
+    notes:
+    - '{mu''u}, {pixra} (картина)'
+    glosses:
+    - пример (образец)
+  en-simple:
+    place structure: x1 is an example of common property x2 of set x3
+    notes:
+    - No notes.
+    glosses:
+    - an example
+    - x2=a common property of an example
+    - x3=a set with an example
+  eo:
+    place structure: x1 estas ekzemplo/specimeno/instanco/kaze/ilustraĵo de komunaj
+      ecoj x2 de aro x3
+    notes:
+    - Vidu ankaŭ cmavo {mu'u}, {pixra}.
+    glosses:
+    - ekzemplo
+  hu:
+    place structure: x1 egy példa/eset/példány/előfordulás x2 tulajdonságra, az x3
+      halmazból
+    notes:
+    - '(Lásd még: {pixra})'
+    glosses:
+    - példa
+  ja:
+    place structure: x1 は x2 （性質）を x3 （集合）について表す例／標本／サンプル／件
+    notes:
+    - ・大意： 例 ・読み方： ムプルィ  ・語呂合わせ： サムプル ・関連語： {mu'u}, {pixra}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是具有基本属性x2的样本/例子/范例，属于集合x3
+    notes:
+    - 参见：{mu'u}, {pixra}.
+    glosses:
+    - No glosses.

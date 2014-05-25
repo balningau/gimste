@@ -1,6 +1,90 @@
-Word: drata
-Rafsi: dat
-Definition: x1 isn't the-same-thing-as/is different-from/other-than x2 by standard
-  x3; x1 is something else.
-Notes: See also {mintu}, {frica}.
-Examples: None
+word: drata
+rafsi:
+- dat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 isn't the-same-thing-as/is different-from/other-than x2 by
+      standard x3; x1 is something else.
+    notes:
+    - See also {mintu}, {frica}.
+    glosses:
+    - other
+  jbo:
+    place structure: x1 frica x2 lo ka ce'u du makau ma'i x3 i x1 to'e mintu x2 boi
+      x3
+    notes:
+    - '{frica}, {mintu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist nicht dasselbe wie/ist anders als/ist etwas anderes als
+      x2 gemäß Standard x3; x1 ist etwas Anderes
+    notes:
+    - No notes.
+    glosses:
+    - anderes
+  es:
+    place structure: x1 es otro/es distinto de/no es el mismo que x2 según estándar
+      x3
+    notes:
+    - Ver también {mintu},  {frica}.
+    glosses:
+    - otro
+  fr:
+    place structure: x1 n'est pas la même chose que / est différent de x2 d'après
+      x3 (norme/standard)
+    notes:
+    - No notes.
+    glosses:
+    - autre
+    - différent
+    - pas la même chose
+  ru:
+    place structure: x1 — не то же самое что/не идентичен/{отличается от} x2 по критерию/стандарту
+      x3; x1 — другой/иной
+    notes:
+    - 'Антоним: {mintu} {mintu} (идентичный), {frica} (отличаться)'
+    glosses:
+    - отличаться
+    - x1=отличающийся
+  en-simple:
+    place structure: x1 is not the same as x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something different
+    - x2=a reference of differentness
+    - x3=a standard of differentness
+  eo:
+    place structure: x1 estas alia ol/malsama al x2 laŭ normo x3; x1 estas io alia
+    notes:
+    - Vidu ankaŭ {mintu}, {frica}.
+    glosses:
+    - alia
+  hu:
+    place structure: x1 másvalami/nem ugyanaz, mint x2, x3 mérce szerint
+    notes:
+    - '(Lásd még: {mintu}, {frica})'
+    glosses:
+    - másik
+  ja:
+    place structure: x1 は x2 ではない何か、 x3 （基準）において；  x1 は他のもの
+    notes:
+    - ・大意： 他 ・読み方： ドラタ  ・語呂合わせ： 他 ・関連語： {mintu}, {frica}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är inte samma sak som/skiljer sig från/är något annat än x2
+      enligt standard x3; x1 är någonting annat.
+    notes:
+    - No notes.
+    glosses:
+    - annat
+  zh:
+    place structure: x1是不同于x2的，基于标准x3；x1与x2不同；x1是另外的事物；
+    notes:
+    - 参见 {mintu}, {frica}.
+    glosses:
+    - No glosses.

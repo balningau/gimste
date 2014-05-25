@@ -1,5 +1,82 @@
-Word: crino
-Rafsi: ri'o
-Definition: x1 is green/verdant [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.
-Examples: None
+word: crino
+rafsi:
+- ri'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is green/verdant [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - green
+  jbo:
+    place structure: 'x1 skari lo''e banro je vifne srasu .a lo''e gusni poi jbini
+      lo''e blanu ku joi lo''e pelxu le ka boxna clani '
+    notes:
+    - '{skari}; {srasu}; {blanu}; {pelxu}'
+    glosses:
+    - crino
+  de:
+    place structure: x1 ist grün [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - grün
+  es:
+    place structure: x1 es verde (color)
+    notes:
+    - No notes.
+    glosses:
+    - verde
+  ru:
+    place structure: x1 — зелёный (о цвете); x1 зеленеет
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {cicna} (бирюзовый)'
+    glosses:
+    - зеленеть
+    - x1=зелёный
+  en-simple:
+    place structure: x1 is green
+    notes:
+    - No notes.
+    glosses:
+    - something green
+  eo:
+    place structure: x1 estas verda [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - verda
+  hu:
+    place structure: x1 zöld színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna})'
+    glosses:
+    - zöld
+  ja:
+    place structure: x1 は緑色
+    notes:
+    - ・大意： 緑色 ・読み方： シリノ  ・語呂合わせ： 尻の緑, green ・関連語： {skari}, {blabi}, {xekri}, {kandi},
+      {carmi}, {cicna}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest zielony [przymiotnik koloru].
+    notes:
+    - No notes.
+    glosses:
+    - zielony
+  sv:
+    place structure: x1 är grön [färgadjektiv].
+    notes:
+    - No notes.
+    glosses:
+    - x1=grön
+  zh:
+    place structure: x1是绿色的/青色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,81 @@
-Word: simlu
-Rafsi: mlu
-Definition: x1 seems/appears to have property(ies) x2 to observer x3 under conditions
-  x4.
-Notes: 'Also: $x_1$ seems like it has $x_2$ to $x_3$; suggest belief/observation (=
-  {mlugau}, {mluti''i}); looks like/resembles (= {smimlu}, {mitmlu}).  See also {catlu},
-  {viska}, {simsa}, {zgana}, {ganse}, {jarco}.'
-Examples: None
+word: simlu
+rafsi:
+- mlu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 seems/appears to have property(ies) x2 to observer x3 under
+      conditions x4.
+    notes:
+    - 'Also: x1 seems like it has x2 to x3; suggest belief/observation (= {mlugau},
+      {mluti''i}); looks like/resembles (= {smimlu}, {mitmlu}).  See also {catlu},
+      {viska}, {simsa}, {zgana}, {ganse}, {jarco}.'
+    glosses:
+    - seem
+  de:
+    place structure: x1 erscheint/erweckt den Anschein, die Eigenschaft(en) x2 zu
+      besitzen, für Betrachter x3 unter Bedingungen x4
+    notes:
+    - No notes.
+    glosses:
+    - scheinen
+  es:
+    place structure: x1 parece/aparenta tener propiedad x2 según observador x3 bajo
+      condiciones x4
+    notes:
+    - No notes.
+    glosses:
+    - parecer
+  ru:
+    place structure: x1 представляется имеющим свойств(о/а) x2 наблюдателю x3 в условиях
+      x4; x1 кажется x2 (каким) x3 (кому); x3 (кому) кажется, что x1 (что/кто) x2
+      (какое)
+    notes:
+    - 'Придавать вид/маскировать/гримировать: {mlugau}, {mluri''a}, выдавать за: {mluti''i};
+      казаться похожим, напоминать: {smimlu}, {mitmlu} {catlu} (смотреть [на что-либо]),
+      {viska} (видеть), {simsa} (похожий), {zgana} (наблюдать), {ganse} (чувствовать
+      [ощущать]), {jarco} (показывать [демонстрировать])'
+    glosses:
+    - казаться
+    - x1=кажущийся
+  en-simple:
+    place structure: x1 seems to have property x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - seem to be
+    - x1=something which seems to have a property
+    - x2=a property which something seems to have
+    - x2=the property which something seems to have
+    - x3=an observer of something seeming to have a property
+    - x3=the observer of something seeming to have a property
+    - x4=a condition of seeming to have a property
+  eo:
+    place structure: x1 ŝajnas havi econ x2 por observanto x3 sub kondiĉoj x4
+    notes:
+    - Sugesti kredon/observon (= {mlugau}, {mluti'i}); simili (= {smimlu}, {mitmlu}).  Vidu
+      ankaŭ {catlu}, {viska}, {simsa}, {zgana}, {ganse}, {jarco}.
+    glosses:
+    - ŝajni
+  hu:
+    place structure: x1-ról úgy tűnik/látszik, hogy x2 tulajdonsággal rendelkezik,
+      x3 megfigyelő számára, x4 körülmények között
+    notes:
+    - '(Lásd még: {catlu}, {viska}, {simsa}, {zgana}, {ganse}, {jarco})'
+    glosses:
+    - tűnik valaminek
+  ja:
+    place structure: x1 は x2 （性質）であるよう x3 （者）に x4 （状態条件）の下で見受けられる；  x1 は x2 らしい気が
+      x3 にする
+    notes:
+    - ・大意： らしい ・読み方： スィムルゥ  ・関連語： {catlu}, {viska}, {simsa}, {zgana}, {ganse}, {jarco}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 好像具有特性 x2 ,对观察者 x3而言，在x4的情况下.
+    notes:
+    - No notes.
+    glosses:
+    - 仿佛
+    - 好像

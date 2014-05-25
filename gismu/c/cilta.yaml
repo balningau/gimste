@@ -1,5 +1,71 @@
-Word: cilta
-Rafsi: cil
-Definition: x1 is a thread/filament/wire [shape/form] of material x2.
-Notes: See also {fenso}, {nivji}, {skori}, {silka}.
-Examples: None
+word: cilta
+rafsi:
+- cil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a thread/filament/wire [shape/form] of material x2.
+    notes:
+    - See also {fenso}, {nivji}, {skori}, {silka}.
+    glosses:
+    - thread
+  de:
+    place structure: x1 ist ein Faden/Draht/Filament/eine Faser [Form] aus Material
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Faden
+  es:
+    place structure: x1 es un hilo/filamento/alambre (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - hilo
+  ru:
+    place structure: x1 — нить/леска/струна/проволока (форма) из материала x2
+    notes:
+    - '{fenso} (шить), {nivji} (вязать), {skori} (веревка), {silka} (шелк)'
+    glosses:
+    - x1=нить
+  en-simple:
+    place structure: x1 is a thread of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a thread
+    - x2=a material of thread
+  eo:
+    place structure: x1 estas fadeno/filamento/drato/fibro [formo] el materialo x2
+    notes:
+    - Vidu ankaŭ {fenso}, {nivji}, {skori}, {silka}.
+    glosses:
+    - fadeno
+  hu:
+    place structure: x1 egy fonal/drót x2 anyagból
+    notes:
+    - '(Lásd még: {fenso}, {nivji}, {skori}, {silka})'
+    glosses:
+    - fonal
+  ja:
+    place structure: x1 は x2 （素材）の糸／繊維／ワイヤー
+    notes:
+    - 「フィラメント」も。 ・大意： 糸 ・読み方： シルゥタ  ・語呂合わせ： 汁垂れる ・関連語： {fenso}, {nivji}, {skori},
+      {silka}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en tråd/garn/fiber/sträng/vajer av material x2.
+    notes:
+    - Enstaka, tunn tråd till skillnad från rep/kabel/lina {skori}.
+    glosses:
+    - fiber (tråd)
+    - x1=tråd
+    - x2=trådmaterial
+  zh:
+    place structure: x1是线/丝，由材料x2构成
+    notes:
+    - 参见 {fenso}, {nivji}, {skori}, {silka}.
+    glosses:
+    - No glosses.

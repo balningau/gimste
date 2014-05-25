@@ -1,6 +1,68 @@
-Word: xalka
-Rafsi: xal
-Definition: x1 is a quantity of/contains/is made of alcohol of type x2 from source/process
-  x3.
-Notes: See also {birje}, {jikru}, {vanju}.
-Examples: None
+word: xalka
+rafsi:
+- xal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of alcohol of type x2 from
+      source/process x3.
+    notes:
+    - See also {birje}, {jikru}, {vanju}.
+    glosses:
+    - alcohol
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Alkohol von Typ x2 aus
+      Quelle/Prozess x3
+    notes:
+    - No notes.
+    glosses:
+    - Alkohol
+  es:
+    place structure: x1 es una cantidad de alcohol de tipo x2 de origen/proceso x3
+    notes:
+    - No notes.
+    glosses:
+    - alcohol
+  ru:
+    place structure: x1 — алкоголь/спирт типа x2 из источника/полученный технологическим
+      процессом x3
+    notes:
+    - '{birje} (пиво), {jikru} (крепкий спиртной напиток), {vanju} (вино)'
+    glosses:
+    - спирт
+    - x2=тип спирта
+  en-simple:
+    place structure: x1 is a quantity of alcohol of type x2 from source x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of alcohol
+    - x2=a type of alcohol
+    - x3=a source of alcohol
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el alkoholo de tipo x2 el
+      fonto/procedo x3
+    notes:
+    - Vidu ankaŭ {birje}, {jikru}, {vanju}.
+    glosses:
+    - alkoholo
+  hu:
+    place structure: x1 bizonyos mennyiségű alkohol (-t tartalmaz/-ból készült) az
+      x2 típusból, x3 forrásból/folyamatból
+    notes:
+    - '(Lásd még: {birje}, {jikru}, {vanju})'
+    glosses:
+    - alkohol (vegyület)
+  ja:
+    place structure: x1 は x2 （種類）・ x3 （起源／醸造方法）のアルコール
+    notes:
+    - ・大意： アルコール ・読み方： クァルゥカ  ・関連語： {birje}, {jikru}, {vanju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是酒精/酒，属于类型x2，来自于来源/加工过程x3
+    notes:
+    - 参见 {birje}, {jikru}, {vanju}.
+    glosses:
+    - No glosses.

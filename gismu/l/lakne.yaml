@@ -1,5 +1,71 @@
-Word: lakne
-Rafsi: la'e
-Definition: x1 (event/state/property) is probable/likely under conditions x2.
-Notes: See also {cumki}, {jinzi}, {kampu}, {tcaci}, {cunso}, {cafne}, {fadni}, {cnano}.
-Examples: None
+word: lakne
+rafsi:
+- la'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state/property) is probable/likely under conditions
+      x2.
+    notes:
+    - See also {cumki}, {jinzi}, {kampu}, {tcaci}, {cunso}, {cafne}, {fadni}, {cnano}.
+    glosses:
+    - likely (probable)
+    - probable
+  de:
+    place structure: x1 (Ereignis/Zustand/Eigenschaft) ist wahrscheinlich unter Bedingungen
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - wahrscheinlich
+  es:
+    place structure: x1 (evento) es probable bajo condiciones x2
+    notes:
+    - Ver también {cunso},  {cafne},  {fadni}.
+    glosses:
+    - probable
+  ru:
+    place structure: x1 (событие/состояние/свойство) вероятно/{возможно} в/при условиях
+      x2
+    notes:
+    - '{cumki} (возможный), {jinzi} (присущий), {kampu} (общий [о свойстве]), {tcaci}
+      (обычай), {cunso} (случайный), {cafne} (часто), {fadni} (типичный), {cnano}
+      (нормальный)'
+    glosses:
+    - x1=вероятный
+    - x2=условие возможности
+  en-simple:
+    place structure: x1 is probable, likely
+    notes:
+    - No notes.
+    glosses:
+    - likely
+    - probable
+    - x1=something probable
+    - x2=a probability condition
+  eo:
+    place structure: x1 (okazo/stato/eco) estas probabla/verŝajna sub kondiĉoj x2
+    notes:
+    - Vidu ankaŭ {cumki}, {jinzi}, {kampu}, {tcaci}, {cunso}, {cafne}, {fadni}, {cnano}.
+    glosses:
+    - probabla
+  hu:
+    place structure: x1 esemény/állapot/tulajdonság valószínű x2 körülmények között
+    notes:
+    - '(Lásd még: {cumki}, {jinzi}, {kampu}, {tcaci}, {cunso}, {cafne}, {fadni}, {cnano})'
+    glosses:
+    - valószínű
+  ja:
+    place structure: x1 （事）は x2 （条件）でありうる／起こりうる／蓋然的
+    notes:
+    - ・大意： ありえる ・読み方： ルァクネ  ・語呂合わせ： ありえるくらい楽ね ・関連語： {cumki}, {jinzi}, {kampu}, {tcaci},
+      {cunso}, {cafne}, {fadni}, {cnano}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态/性质）是可能的，在条件x2下
+    notes:
+    - 查看{cumki},{jinzi},{kampu},{tcaci},{cunso},{fadni},{cnano}
+    glosses:
+    - 可能

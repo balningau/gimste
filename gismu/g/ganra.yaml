@@ -1,6 +1,84 @@
-Word: ganra
-Rafsi: gan
-Definition: x1 is broad/wide in dimension x2 [2nd most significant dimension] by standard
-  x3.
-Notes: See also {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}.
-Examples: None
+word: ganra
+rafsi:
+- gan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is broad/wide in dimension x2 [2nd most significant dimension]
+      by standard x3.
+    notes:
+    - See also {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}.
+    glosses:
+    - broad
+    - wide (having a large physical extent from side to side)
+  jbo:
+    place structure: x1 barda x2 noi remoi cimde x1 ku'o x3
+    notes:
+    - No notes.
+    glosses:
+    - ganra
+  de:
+    place structure: x1 ist breit/weit in Dimension x2 [zweitwichtigste Dimension]
+      gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - breit
+  es:
+    place structure: x1 es ancho/amplio en dimensión/dirección x2 (la segunda en importancia)
+      según estándar x3
+    notes:
+    - Ver también {jarki},  {clani},  {rotsu},  {condi}.
+    glosses:
+    - ancho
+  ru:
+    place structure: x1 — широкий/обширный в измерении x2 (2-е по важности измерение)
+      относительно стандарта x3
+    notes:
+    - '{clani} (длинный), {jarki} (узкий), {rotsu} (толстый), {condi} (глубокий),
+      {barda} (большой), {gutci} (измеряться [в футах/дюймах и пр.]), {minli} (миля)'
+    glosses:
+    - x1=широкий
+  en-simple:
+    place structure: x1 is broad or wide in dimension x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something broad
+    - x2=a dimension of broadness
+    - x3=a standard of broadness
+  eo:
+    place structure: x1 estas larĝa laŭ dimensio x2 [2a plej signifa dimensio] laŭ
+      normo x3
+    notes:
+    - Vidu ankaŭ {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}.
+    glosses:
+    - larĝa
+  hu:
+    place structure: x1 széles x2 méretében x3 mérce szerint
+    notes:
+    - '(Lásd még: {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli})'
+    glosses:
+    - széles
+  ja:
+    place structure: x1 は x2 （次元）・ x3 （基準）において広い／幅がある／ワイド
+    notes:
+    - ・大意： 広い ・読み方： ガンラ  ・関連語： {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci},
+      {minli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är bred/vid i dimension x2 [näst mest signifikanta dimension]
+      enligt standard x3.
+    notes:
+    - No notes.
+    glosses:
+    - bred
+    - vid (adjektiv)
+  zh:
+    place structure: x1是宽的，在尺寸/规格x2上，基于测量标准x3
+    notes:
+    - 参见 {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}.
+    glosses:
+    - No glosses.

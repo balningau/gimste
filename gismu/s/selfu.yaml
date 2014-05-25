@@ -1,6 +1,68 @@
-Word: selfu
-Rafsi: sef, se'u
-Definition: x1 (agent) serves x2 with service x3 (activity); x1 is a servant (noun)
-  of x2 performing x3.
-Notes: See also {sidju}, {sarji}, {gunka}.
-Examples: None
+word: selfu
+rafsi:
+- sef
+- se'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) serves x2 with service x3 (activity); x1 is a servant
+      (noun) of x2 performing x3.
+    notes:
+    - See also {sidju}, {sarji}, {gunka}.
+    glosses:
+    - serve
+  de:
+    place structure: x1 (Handelnder) dient x2 mit Dienstleistung x3 (Tätigkeit); x1
+      ist ein Diener/Bediensteter (Substantiv) von x2 und leistet x3
+    notes:
+    - No notes.
+    glosses:
+    - dienen
+  es:
+    place structure: x1 sirve/es sirviente/criado de x2 con servicio/acción x3
+    notes:
+    - No notes.
+    glosses:
+    - servir
+  ru:
+    place structure: x1 оказывает x2 (кому) услугу x3; x1 служит/обслуживает x2; x1
+      — слуга/прислуга x2 (чей), выполняющий работу x3
+    notes:
+    - '{sidju} (помогать), {sarji} (поддерживать [помогать]), {gunka} (работать)'
+    glosses:
+    - оказывать услугу
+    - x1=оказывающий услугу
+  en-simple:
+    place structure: x1 serves x2 with service x3
+    notes:
+    - No notes.
+    glosses:
+    - a server
+    - x2=a receiver of a service
+    - x3=a service
+  eo:
+    place structure: x1 (aganto) servas x2-on per servo x3 (ago); x1 estas servanto
+      de x2 faranta x3-on
+    notes:
+    - Vidu ankaŭ {sidju}, {sarji}, {gunka}.
+    glosses:
+    - servi
+  hu:
+    place structure: x1 kiszolgálja x2-t x3 szolgáltatással [cselekvés]
+    notes:
+    - '(Lásd még: {sidju}, {sarji}, {gunka})'
+    glosses:
+    - kiszolgál
+  ja:
+    place structure: x1 （者）は x2 （者）に x3 （行動）によって奉仕する；  x1 は x2 の使用人
+    notes:
+    - ・大意： 奉仕 ・読み方： セルゥフゥ  ・語呂合わせ： セルフ奉仕 ・関連語： {sidju}, {sarji}, {gunka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1服务/服侍x2，采用的服务方式是x3（行为）；x1是服务员，为x2提供服务x3
+    notes:
+    - 参见 {sidju}, {sarji}, {gunka}.
+    glosses:
+    - No glosses.

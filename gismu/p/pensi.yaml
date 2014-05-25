@@ -1,8 +1,95 @@
-Word: pensi
-Rafsi: pes, pei
-Definition: x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept
-  x2.
-Notes: 'Also: $x_1$ is thoughtful (one sense); $x_2$ is mental (one sense)/intellectual
-  (one sense) (= {selpei}).  See also cmavo list {pe''i}, {jijnu}, {menli}, {morji},
-  {sidbo}, {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}.'
-Examples: None
+word: pensi
+rafsi:
+- pes
+- pei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 thinks/considers/cogitates/reasons/is pensive about/reflects
+      upon subject/concept x2.
+    notes:
+    - 'Also: x1 is thoughtful (one sense); x2 is mental (one sense)/intellectual (one
+      sense) (= {selpei}).  See also cmavo list {pe''i}, {jijnu}, {menli}, {morji},
+      {sidbo}, {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}.'
+    glosses:
+    - think (on a topic)
+  de:
+    place structure: x1 denkt/überlegt/grübelt/zieht in Betracht/ist nachdenklich/reflektiert
+      über Thema/Konzept x2
+    notes:
+    - No notes.
+    glosses:
+    - denken
+  es:
+    place structure: x1 piensa/considera/cogita acerca de x2
+    notes:
+    - Ver también {jinvi},  se {nabmi}.
+    glosses:
+    - pensar
+  fr:
+    place structure: x1 penser / réfléchir au concept / sujet x2
+    notes:
+    - No notes.
+    glosses:
+    - penser
+    - réfléchir
+  ru:
+    place structure: x1 думает/размышляет/мыслит о предмете/понятии x2; x1 обдумывает
+      x2
+    notes:
+    - '«Думать» в значении «полагать/считать» (, что…) — {jinvi}; Также: x1 задумчив,
+      погружен в раздумья; x2 — умственный, интеллектуальный {pe''i}, {jijnu} (постигать
+      [интуитивно]), {menli} (разум), {morji} (помнить), {sidbo} (концепция), {jinvi}
+      (считать [полагать]), {se} {nabmi} (проблема), {minra} (отражать), {lanli} (анализировать),
+      {besna} (мозг), {saske} (наука), {skami} (компьютер)'
+    glosses:
+    - размышлять о
+    - x1=размышляющий о
+    - x2=то, о чем размышляют
+  en-simple:
+    place structure: x1 considers or ponders x2
+    notes:
+    - No notes.
+    glosses:
+    - a considerer
+    - x2=a considered subject
+  eo:
+    place structure: x1 pensas/konsideras/rezonas pri temo/koncepto x2
+    notes:
+    - 'Ankaŭ: x1 estas pensema (unu senco); x2 estas mensa (unu senco)/intelekta (unu
+      senco) (= {selpei}).  Vidu ankaŭ cmavo {pe''i}, {jijnu}, {menli}, {morji}, {sidbo},
+      {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}.'
+    glosses:
+    - pensi
+  hu:
+    place structure: x1 gondolkozik x2 kérdésen/tárgyban
+    notes:
+    - '(Lásd még: {jijnu}, {menli}, {morji}, {sidbo}, {jinvi}, {nabmi}, {minra}, {lanli},
+      {besna}, {saske}, {skami})'
+    glosses:
+    - gondolkozik
+  ja:
+    place structure: x1 は x2 （概念）について思慮する／考慮する／熟考する／思いを巡らす；  x2 は考え深い
+    notes:
+    - ・大意： 思慮 ・読み方： ペンスィ  ・関連語： {pe'i}, {jijnu}, {menli}, {morji}, {sidbo}, {jinvi},
+      {se} {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 myśli/rozważa/rozmyśla na temat/o koncepcji x2.
+    notes:
+    - Cf. {jijnu}, se {nabmi}.
+    glosses:
+    - myśleć
+    - myśli
+    - rozmyśla
+    - rozmyślać
+    - rozważa
+    - rozważać
+  zh:
+    place structure: x1考虑/思考/思索主题/内容x2
+    notes:
+    - 也指：x1思考的/考虑周到的（某种意义上）； x2 是关于想法的；参见 {pe'i}, {jijnu}, {menli}, {morji}, {sidbo},
+      {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}.
+    glosses:
+    - No glosses.

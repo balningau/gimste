@@ -1,7 +1,74 @@
-Word: jufra
-Rafsi: juf, ju'a
-Definition: x1 (text) is a sentence/statement about x2 [topic/subject/predicate/focus]
-  in language x3.
-Notes: Phrase (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  See also {valsi}, {bangu},
-  {gerna}, {cusku}, {smuni}.
-Examples: None
+word: jufra
+rafsi:
+- juf
+- ju'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (text) is a sentence/statement about x2 [topic/subject/predicate/focus]
+      in language x3.
+    notes:
+    - Phrase (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  See also {valsi}, {bangu},
+      {gerna}, {cusku}, {smuni}.
+    glosses:
+    - sentence (statement)
+  de:
+    place structure: x1 (Text) ist ein Satz/eine Aussage über x2 [Thema/Prädikat/Schwerpunkt]
+      in Sprache x3
+    notes:
+    - No notes.
+    glosses:
+    - Satz
+  es:
+    place structure: x1 es una frase/oración sobre tema x2 en idioma x3
+    notes:
+    - No notes.
+    glosses:
+    - frase
+  ru:
+    place structure: x1 (текст) есть предложение/высказывание/фраза об x2 (тема/предмет/предикат/фокус)
+      на языке x3
+    notes:
+    - 'Оборот речи, выражение: {jufpau}, {suzrelvla}, {suzvla}, {gensle} {valsi} (слово),
+      {bangu} (язык [лингвистический]), {gerna} (грамматика), {cusku} (говорить [кому-либо]),
+      {smuni} (значение [смысл])'
+    glosses:
+    - предложение (фраза)
+    - x2=тема предложения (фразы)
+    - x3=язык предложения (фразы)
+  en-simple:
+    place structure: x1 is a sentence or statement about x2 in language x3
+    notes:
+    - No notes.
+    glosses:
+    - a sentence
+    - x2=a sentence topic
+    - x3=a language of a sentence
+  eo:
+    place structure: x1 (teksto) estas frazo/aserto/deklaro pri x2 [temo/subjekto/predikato/fokuso]
+      en lingvo x3
+    notes:
+    - Frazo (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  Vidu ankaŭ {valsi}, {bangu},
+      {gerna}, {cusku}, {smuni}.
+    glosses:
+    - frazo
+  hu:
+    place structure: x1 egy mondat/állítás x2-ről, x3 nyelven
+    notes:
+    - '(Lásd még: {valsi}, {bangu}, {gerna}, {cusku}, {smuni})'
+    glosses:
+    - mondat
+  ja:
+    place structure: x1 （文字列）は x2 （題目）の、 x3 （言語）における文
+    notes:
+    - ・大意： 文 ・読み方： ジュフゥラ  ・関連語： {valsi}, {bangu}, {gerna}, {cusku}, {smuni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（文本）是句子，关于x2（主题/话题/议论等），以语言x3
+    notes:
+    - 短语={jufpau}/{suzrelvla}/{suzvla}/{gensle}；参见 {valsi}, {bangu}, {gerna}, {cusku},
+      {smuni}.
+    glosses:
+    - No glosses.

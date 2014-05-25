@@ -1,6 +1,68 @@
-Word: panka
-Rafsi: ''
-Definition: x1 is a park/land reserve managed by community/polity/company x2 for purpose
-  x3.
-Notes: See also {sorcu}, {zdile}, {klaji}, {purdi}.
-Examples: None
+word: panka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a park/land reserve managed by community/polity/company
+      x2 for purpose x3.
+    notes:
+    - See also {sorcu}, {zdile}, {klaji}, {purdi}.
+    glosses:
+    - park (land reserve)
+  de:
+    place structure: x1 ist ein Park/eine Landreserve verwaltet von Gemeinschaft/Gemeinwesen/Firma
+      x2 für Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - Park
+  es:
+    place structure: x1 es un parque/reserva manejada por comunidad/estado/compañía
+      x2 en localidad x3 con próposito x4
+    notes:
+    - No notes.
+    glosses:
+    - parque
+  ru:
+    place structure: x1 — парк/заповедник, находящийся под попечением общины/государства/компании
+      x2, с назначением x3
+    notes:
+    - '{sorcu} (запас), {zdile} (развлекать), {klaji} (улица), {purdi} (сад)'
+    glosses:
+    - x1=парк (заповедник)
+  en-simple:
+    place structure: x1 is a park or preserve managed by x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - a park
+    - x2=a manager of a park
+    - x3=a purpose of a park
+  eo:
+    place structure: x1 estas parko/rezervejo administrata de komunumo/civito/ŝtato/kompanio
+      x2 por celo x3
+    notes:
+    - Vidu ankaŭ {sorcu}, {zdile}, {klaji}, {purdi}.
+    glosses:
+    - parko
+  hu:
+    place structure: x1 egy park/beépítetlen terület x2 közösség/társaság által fenntartva
+      x3 célra
+    notes:
+    - '(Lásd még: {sorcu}, {zdile}, {klaji}, {purdi})'
+    glosses:
+    - park
+  ja:
+    place structure: x1 は x2 （共同体／政体／企業）・ x3 （目的）の公園／敷地
+    notes:
+    - ・大意： 公園 ・読み方： パンカ  ・語呂合わせ： 公園でパンか・・・ ・関連語： {sorcu}, {zdile}, {klaji}, {purdi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是公园，由团体/政府/公司x2所有/托管/管理，用以目的x3
+    notes:
+    - 参见 {sorcu}, {zdile}, {klaji}, {purdi}.
+    glosses:
+    - No glosses.

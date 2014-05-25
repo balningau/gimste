@@ -1,5 +1,67 @@
-Word: sombo
-Rafsi: som, so'o
-Definition: x1 sows/plants x2 [crop/plants] at/in x3.
-Notes: See also {crepu}, {tsiju}.
-Examples: None
+word: sombo
+rafsi:
+- som
+- so'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sows/plants x2 [crop/plants] at/in x3.
+    notes:
+    - See also {crepu}, {tsiju}.
+    glosses:
+    - plant (place in soil)
+    - sow
+  de:
+    place structure: x1 sät/pflanzt x2 [Ernte/Pflanzen] auf/in x3
+    notes:
+    - No notes.
+    glosses:
+    - säen
+  es:
+    place structure: x1 siembra/planta semillas x2 en suelo/tierra x3
+    notes:
+    - Ver también {crepu}.
+    glosses:
+    - sembrar
+  ru:
+    place structure: x1 сажает x2 (растения) в x3 (где/куда)
+    notes:
+    - '{crepu} (собирать [урожай]), {tsiju} (семя [зерно])'
+    glosses:
+    - сажать (растения)
+    - x1=сажающий (растения)
+    - x2=сажаемые растения
+    - x3=место высадки растений
+  en-simple:
+    place structure: x1 sows x2 in x3
+    notes:
+    - No notes.
+    glosses:
+    - a sower
+    - x2=something sown
+    - x3=a sowing location
+  eo:
+    place structure: x1 semas/plantas x2-on [kultivo/plantoj] ĉe/en x3
+    notes:
+    - Vidu ankaŭ {crepu}, {tsiju}.
+    glosses:
+    - semi
+  hu:
+    place structure: x1 elveti/elülteti x2 növényt x3-ba
+    notes:
+    - '(Lásd még: {crepu}, {tsiju})'
+    glosses:
+    - vet
+  ja:
+    place structure: x1 は x2 （植物／種）を x3 （所）に植える／蒔く
+    notes:
+    - ・大意： 植える ・読み方： ソムボ  ・関連語： {crepu}, {tsiju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1播种/种植x2（植物/作物），在位置x3处、
+    notes:
+    - 参见 {crepu}, {tsiju}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,64 @@
-Word: sliri
-Rafsi: ''
-Definition: 'x1 is a quantity of/contains/is made of sulfur/brimstone (S); [metaphor:
-  foul odor, volcanic].'
-Notes: See also {xukmi}, {panci}, {pelxu}.
-Examples: None
+word: sliri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of sulfur/brimstone (S);
+      [metaphor: foul odor, volcanic].'
+    notes:
+    - See also {xukmi}, {panci}, {pelxu}.
+    glosses:
+    - sulfur
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Schwefel (S); [Im übertragenen
+      Sinn: fauler Geruch, vulkanisch]'
+    notes:
+    - No notes.
+    glosses:
+    - Schwefel
+  es:
+    place structure: x1 es una cantidad de azufre (S)
+    notes:
+    - No notes.
+    glosses:
+    - azufre
+  ru:
+    place structure: x1 — сера (S); x1 содержит серу
+    notes:
+    - 'Метафора: зловонный, вулканический {xukmi} (доза [химического вещества]), {panci}
+      (запах), {pelxu} (желтый)'
+    glosses:
+    - x1=сера
+  en-simple:
+    place structure: x1 is a quantity of sulfur
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of sulphur
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el sulfuro/sulfo (S); [metafore:
+      malbonodoro, vulkana]'
+    notes:
+    - Vidu ankaŭ {xukmi}, {panci}, {pelxu}.
+    glosses:
+    - sulfuro
+  hu:
+    place structure: x1 bizonyos mennyiségű kén (-t tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {xukmi}, {panci}, {pelxu})'
+    glosses:
+    - kén
+  ja:
+    place structure: x1 は硫黄（S）
+    notes:
+    - ・大意： 硫黄 ・読み方： スルィリ  ・関連語： {xukmi}, {panci}, {pelxu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是硫（S）/硫制品
+    notes:
+    - 参见 {xukmi}, {panci}, {pelxu}.
+    glosses:
+    - No glosses.

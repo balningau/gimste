@@ -1,9 +1,82 @@
-Word: carna
-Rafsi: car
-Definition: 'x1 turns about vector x2 towards direction x3, turning angular distance
-  / to face point x4 '
-Notes: 'Also revolve (= {jincarna}).  See also {gunro}, {jendu}. New definition of
-  {carna} originally proposed by Robin Lee Powell and backward-compatible with the
-  old one. Official definition: $x_1$ turns/rotates/revolves around axis $x_2$ in
-  direction $x_3$.'
-Examples: None
+word: carna
+rafsi:
+- car
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 turns about vector x2 towards direction x3, turning angular
+      distance / to face point x4 '
+    notes:
+    - 'Also revolve (= {jincarna}).  See also {gunro}, {jendu}. New definition of
+      {carna} originally proposed by Robin Lee Powell and backward-compatible with
+      the old one. Official definition: x1 turns/rotates/revolves around axis x2 in
+      direction x3.'
+    glosses:
+    - turn (movement)
+  de:
+    place structure: x1 dreht sich/rotiert um Achse x2 in Richtung x3
+    notes:
+    - No notes.
+    glosses:
+    - drehen
+  es:
+    place structure: x1 gira/rota/da vueltas alrededor de eje x2 en dirección x3
+    notes:
+    - Ver también {gunro}.
+    glosses:
+    - girar
+  ru:
+    place structure: x1 поворачивается/вращается/вертится вокруг оси x2 в направлениии
+      x3
+    notes:
+    - 'Также: обращается, напр. о движении Земли вокруг Солнца: {jincarna} {gunro}
+      (катиться), {jendu} (ось)'
+    glosses:
+    - вращаться
+    - x1=вращающийся
+  en-simple:
+    place structure: x1 turns or rotates around axis x2 in direction x3
+    notes:
+    - No notes.
+    glosses:
+    - something that rotates
+    - x2=an axis of rotation
+    - x3=a direction of rotation
+  eo:
+    place structure: x1 turniĝas/rotacias/ruliĝas/volviĝas ĉirkaŭ akso x2 laŭ direkto
+      x3
+    notes:
+    - 'Ankaŭ: rivolui (= {jincarna}).  Vidu ankaŭ {gunro}, {jendu}.'
+    glosses:
+    - turniĝi
+  hu:
+    place structure: x1 forog/pörög/elfordul x2 tengely körül, x3 irányban
+    notes:
+    - '(Lásd még: {gunro}, {jendu})'
+    glosses:
+    - forog
+  ja:
+    place structure: x1 は x2 （軸）・ x3 （指向）で回る／回転／周回／旋回する
+    notes:
+    - ・大意： 回る ・読み方： シャルナ  ・語呂合わせ： おっしゃるな, cuan(旋), turn, tornar ・関連語： {gunro}, {jendu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 roterar/svänger/snurrar/vrider sig runt axel x2 i riktning
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - rotera
+    - snurra runt
+    - svänga
+    - vrida sig (rotera)
+    - x1=roterande
+    - x3=rotationsriktning
+  zh:
+    place structure: x1转动航向/运动矢量x2至方向x3，转动角度/指向某点x4
+    notes:
+    - 旋转= {jincarna}； 参见 {gunro}, {jendu}. 由 Robin Lee Powell 提出的{carna}d的新定义与其旧定义方向兼容：x1绕转轴x2转动，在方向x3上
+    glosses:
+    - No glosses.

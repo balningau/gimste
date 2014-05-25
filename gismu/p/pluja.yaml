@@ -1,6 +1,69 @@
-Word: pluja
-Rafsi: luj
-Definition: x1 is complex/complicated/involved in aspect/property x2 (ka) by standard
-  x3.
-Notes: Also tangled, confused.  See also {cfipu}, {banli}, {sampu}, {jgena}.
-Examples: None
+word: pluja
+rafsi:
+- luj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is complex/complicated/involved in aspect/property x2 (ka)
+      by standard x3.
+    notes:
+    - Also tangled, confused.  See also {cfipu}, {banli}, {sampu}, {jgena}.
+    glosses:
+    - complicated
+  de:
+    place structure: x1 ist kompliziert/komplex/verwickelt in Aspekt/Eigenschaft x2
+      (ka) gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - kompliziert
+  es:
+    place structure: x1 es complejo/complicado/intrincado en propiedad/aspecto x2
+      según estándar x3
+    notes:
+    - Ver también {sampu},  {cfipu}.
+    glosses:
+    - complejo
+  ru:
+    place structure: x1 — сложный/усложненный/осложненный/{составной} в аспекте/свойстве
+      x2 ({ka}), относительно стандарта x3
+    notes:
+    - 'Также: запутанный, замысловатый; «сложный» в смысле «трудный» — {nandu} {cfipu}
+      (морочить), {banli} (великий), {sampu} (простой [несложный]), {jgena} (узел)'
+    glosses:
+    - x1=усложнённый
+  en-simple:
+    place structure: x1 is complex in x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something complex
+    - x2=a complex property
+    - x2=complexity property
+    - x3=a standard of complexity
+  eo:
+    place structure: x1 estas kompleksa/malsimpla/komplika laŭ aspekto/eco x2 (ka)
+      laŭ normo x3
+    notes:
+    - 'Ankaŭ: implikita, konfuza.  Vidu ankaŭ {cfipu}, {banli}, {sampu}, {jgena}.'
+    glosses:
+    - kompleksa
+  hu:
+    place structure: x1 bonyolult/komplikált/komplex x2 szempontból, x3 mérce szerint
+    notes:
+    - '(Lásd még: {cfipu}, {banli}, {sampu}, {jgena})'
+    glosses:
+    - bonyolult
+  ja:
+    place structure: x1 は x2 （性質）が x3 （基準）において複雑／煩雑
+    notes:
+    - ・大意： 複雑 ・読み方： プルゥジャ  ・語呂合わせ： 複雑ぷるぷるじゃ ・関連語： {cfipu}, {banli}, {sampu}, {jgena}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是复杂的/难解的，在x2方面（ka），基于标准x3
+    notes:
+    - 也指：紊乱的/让人困惑的；参见 {cfipu}, {banli}, {sampu}, {jgena}.
+    glosses:
+    - No glosses.

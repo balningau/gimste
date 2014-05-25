@@ -1,6 +1,85 @@
-Word: ckule
-Rafsi: kul, cu'e
-Definition: x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun.
-  x4 operated by x5.
-Notes: Also college, university.  See also {cilre}, {ctuca}, {tadni}.
-Examples: None
+word: ckule
+rafsi:
+- kul
+- cu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is school/institute/academy at x2 teaching subject(s) x3 to
+      audien./commun. x4 operated by x5.
+    notes:
+    - Also college, university.  See also {cilre}, {ctuca}, {tadni}.
+    glosses:
+    - school
+  de:
+    place structure: x1 ist eine Schule/Akademie/ein Institut in x2 (Ort) und unterrichtet
+      Fach/Fächer x3 an Publikum/Gemeinschaft x4 und wird von x5 betrieben
+    notes:
+    - No notes.
+    glosses:
+    - Schule
+  es:
+    place structure: x1 es una escuela/colegio/instituto/academia en x2 que enseña
+      tema x3 ante audiencia/comunidad x4 manejado por x5
+    notes:
+    - No notes.
+    glosses:
+    - escuela
+  ru:
+    place structure: x1 — школа/училище/институт/академия в x2 (место), где преподают
+      предмет(ы) x3 аудитории/коллективу x4, с преподавателями/работниками/администрацией
+      x5
+    notes:
+    - 'Также: колледж, университет {cilre} (узнавать), {ctuca} (преподавать), {tadni}
+      (изучать)'
+    glosses:
+    - x1=школа
+  en-simple:
+    place structure: x1 is a school at x2, teaching x3 to x4, operated by x5
+    notes:
+    - No notes.
+    glosses:
+    - a school
+    - x2=a location of a school
+    - x3=a subject taught in a school
+    - x4=a pupil of a school
+    - x5=an operator of a shcool
+  eo:
+    place structure: x1 estas lernejo/instituto/akademio ĉe x2 instruanta temojn x3
+      al x4 administrata de x5
+    notes:
+    - 'Ankaŭ: kolegio, universitato.  Vidu ankaŭ {cilre}, {ctuca}, {tadni}.'
+    glosses:
+    - lernejo
+  hu:
+    place structure: x1 egy iskola/egyetem/akadémia x2 helyen, x3 tantárgy(ak)kal,
+      x4 diákokkal, x5 igazgatóval
+    notes:
+    - '(Lásd még: {cilre}, {ctuca}, {tadni})'
+    glosses:
+    - iskola
+  ja:
+    place structure: x1 は x2 （所）で x3 （科目）を x4 （聴衆）に教える、 x5 （者）によって営まれている教育機関／学習施設
+    notes:
+    - 「小学校」「中学校」「高校」「大学」「専門学校」「講習会」「塾」「研究所」など、知識を養える施設全般。 ・大意： 学習施設 ・読み方： シクルェ  ・語呂合わせ：
+      師くれー ・関連語： {cilre}, {ctuca}, {tadni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en skola/institut/akademi belägen i x2 som lär ut ämne(n)
+      x3 till elever/audiens/gemenskap x4 styrd/ledd av x5.
+    notes:
+    - Även högskola/universitet/college.
+    glosses:
+    - x1=skola
+    - x2=skolort
+    - x3=skolämne
+    - x4=elev
+    - x5=skolledning
+  zh:
+    place structure: x1是学校/机构，位于x2，教授课程/科目x3给x4，由x5运营
+    notes:
+    - 也指：学院，大学；参见 {cilre}, {ctuca}, {tadni}.
+    glosses:
+    - No glosses.

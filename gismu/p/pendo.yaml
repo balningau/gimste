@@ -1,5 +1,79 @@
-Word: pendo
-Rafsi: ped, pe'o
-Definition: x1 is/acts as a friend of/to x2 (experiencer); x2 befriends x1.
-Notes: See also {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
-Examples: None
+word: pendo
+rafsi:
+- ped
+- pe'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is/acts as a friend of/to x2 (experiencer); x2 befriends x1.
+    notes:
+    - See also {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
+    glosses:
+    - friend
+  de:
+    place structure: x1 (Handelnder) ist ein Freund von x2.; x2 ist x1 ein Freund.
+    notes:
+    - Siehe auch {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
+    glosses:
+    - Freund
+    - Freundin
+    - Kumpel
+  es:
+    place structure: x1 es amigo de x2
+    notes:
+    - No notes.
+    glosses:
+    - amigo
+  fr:
+    place structure: x1 est l'ami de x2
+    notes:
+    - No notes.
+    glosses:
+    - amitié
+  ru:
+    place structure: x1 — друг x2 (чей); x1 ведет себя как друг/по дружески относится
+      к x2
+    notes:
+    - '{bradi} (враг), {xendo} (добрый), {nelci} (любить [предпочитать]), {prami}
+      (любить [кого-либо]), {bradi} (враг)'
+    glosses:
+    - x1=друг
+  en-simple:
+    place structure: x1 is a friend to x2
+    notes:
+    - No notes.
+    glosses:
+    - a friend
+    - x2=something with a friend
+  eo:
+    place structure: x1 estas amiko de x2; x1 agas amike al x2 (spertanto)
+    notes:
+    - Vidu ankaŭ {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
+    glosses:
+    - amiko
+  hu:
+    place structure: x1 barátja x2-nek
+    notes:
+    - '(Lásd még: {bradi}, {xendo}, {nelci}, {prami}, {bradi})'
+    glosses:
+    - barát
+  ja:
+    place structure: x1 （者）は x2 （者）の友人；  x1 は x2 にたいして友好的
+    notes:
+    - ・大意： 友人 ・読み方： ペンド  ・語呂合わせ： 友人ペンどこ, 朋(pen)友 ・関連語： {bradi}, {xendo}, {nelci},
+      {prami}, {bradi}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest przyjacielem x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=przyjaciel
+  zh:
+    place structure: x1是x2的朋友；x2以朋友相待x1
+    notes:
+    - 参见 {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
+    glosses:
+    - No glosses.

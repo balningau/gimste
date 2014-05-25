@@ -1,5 +1,69 @@
-Word: xinmo
-Rafsi: xim
-Definition: x1 is a quantity of ink of color/pigment x2 used by writing device x3.
-Notes: See also {penbi}.
-Examples: None
+word: xinmo
+rafsi:
+- xim
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of ink of color/pigment x2 used by writing device
+      x3.
+    notes:
+    - See also {penbi}.
+    glosses:
+    - ink
+  de:
+    place structure: x1 ist eine Menge an Tinte von Farbe/Pigment x2 verwendet mit
+      Schreibgerät x3
+    notes:
+    - No notes.
+    glosses:
+    - Tinte
+  es:
+    place structure: x1 es una cantidad de tinta de color/pigmento x2 usada por x3
+      (instrumento para escribir)
+    notes:
+    - No notes.
+    glosses:
+    - tinta
+  ru:
+    place structure: x1 — чернила/тушь цвета/на основе пигмента x2, используемые в
+      приборе для письма x3
+    notes:
+    - '{penbi} (ручка [пишущая])'
+    glosses:
+    - чернила
+    - x2=пигмент чернил
+    - x3=прибор для письма чернилами
+  en-simple:
+    place structure: x1 is a quantity of ink of color x2 used by writing device x3.
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of ink
+    - x2=a colour of ink
+    - x3=a writing device using ink
+  eo:
+    place structure: x1 estas kvanto da inko de koloro/pigmento x2 por skribilo x3
+    notes:
+    - Vidu ankaŭ {penbi}.
+    glosses:
+    - inko
+  hu:
+    place structure: x1 bizonyos mennyiségű tinta/tus x2 festékanyaggal/színnel, x3
+      íróeszköz általi használatra
+    notes:
+    - '(Lásd még: {penbi})'
+    glosses:
+    - tinta
+  ja:
+    place structure: x1 は x2 （色）・ x3 （筆記用具）のインク／墨
+    notes:
+    - ・大意： インク ・読み方： クィンモ  ・関連語： {penbi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是墨水/墨汁，具有颜色x2，被用于书写设备/工具x3
+    notes:
+    - 参见 {penbi}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,77 @@
-Word: pelxu
-Rafsi: pel
-Definition: x1 is yellow/golden [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
-Examples: None
+word: pelxu
+rafsi:
+- pel
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is yellow/golden [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
+    glosses:
+    - yellow
+  jbo:
+    place structure: x1 skari lo'e makcu pelnimre .a lo'e solxrula .a lo'e gusni poi
+      jbini lo'e crino ku joi lo'e narju le ka boxna clani
+    notes:
+    - '{skari}; {pelnimre}; {solxrula}; {crino}; {narju}'
+    glosses:
+    - pelxu
+  de:
+    place structure: x1 ist gelb/golden [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
+    glosses:
+    - gelb
+    - golden
+  es:
+    place structure: x1 es amarillo/dorado (color)
+    notes:
+    - No notes.
+    glosses:
+    - amarillo
+  ru:
+    place structure: x1 — желтый/золотистый (о цвете); x1 желтеет
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {narju} (оранжевый), {solji} (золото)'
+    glosses:
+    - желтеть
+    - x1=желтый
+  en-simple:
+    place structure: x1 is yellow
+    notes:
+    - No notes.
+    glosses:
+    - something yellow
+  eo:
+    place structure: x1 estas flava/ora [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
+    glosses:
+    - flava
+  hu:
+    place structure: x1 sárga színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji})'
+    glosses:
+    - sárga
+  ja:
+    place structure: x1 は黄色
+    notes:
+    - ・大意： 黄色 ・読み方： ペルゥクゥ  ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju},
+      {solji}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest zółty/złocisty.
+    notes:
+    - No notes.
+    glosses:
+    - żółty
+  zh:
+    place structure: x1是黄色的/金色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
+    glosses:
+    - No glosses.

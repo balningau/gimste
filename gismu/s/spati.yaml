@@ -1,7 +1,82 @@
-Word: spati
-Rafsi: spa
-Definition: x1 is a plant/herb/greenery of species/strain/cultivar x2.
-Notes: Also (adjective:) $x_1$ is vegetable/vegetal/vegetative.  See also {genja},
-  {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju}, {tujli}, {xruba},
-  {xrula}, {pezli}, {srasu}.
-Examples: None
+word: spati
+rafsi:
+- spa
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a plant/herb/greenery of species/strain/cultivar x2.
+    notes:
+    - Also (adjective:) x1 is vegetable/vegetal/vegetative.  See also {genja}, {grute},
+      {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju}, {tujli}, {xruba}, {xrula},
+      {pezli}, {srasu}.
+    glosses:
+    - plant
+  de:
+    place structure: x1 ist eine Pflanze/ein Kraut von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Pflanze
+  es:
+    place structure: x1 es una planta/vegetal de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - planta
+  ru:
+    place structure: x1 — растение/растительность/зелень вида/разновидности/сорта
+      x2
+    notes:
+    - 'Прилагательное: x1 — растительный {genja} (корень [растения]), {grute} (плод
+      [фрукт]), {gurni} (зерно), {latna} (лотос), {rozgu} (роза), {stagi} (овощ),
+      {tricu} (дерево), {tsiju} (семя [зерно]), {tujli} (тюльпан), {xruba} (гречиха),
+      {xrula} (цветок), {pezli} (лист [растения]), {srasu} (трава)'
+    glosses:
+    - x1=растение
+    - x2=вид растения
+  en-simple:
+    place structure: x1 is a plant of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a plant
+    - x2=a species of plant
+  eo:
+    place structure: 'x1 estas planto/herbo/kreskaĵo/vegetaĵo de speco/raso/kultivo
+      x2                                                                              6c  68     [ankaŭ:
+      (adjektivo:) x1 estas vegeta]; (kp. genja, grute, gurni, latna, rozgu, stagi,
+      tricu, tsiju, tujli, xruba, xrula, pezli, srasu'
+    notes:
+    - )
+    glosses:
+    - planto
+  hu:
+    place structure: x1 egy növény [Plantea ország] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju},
+      {tujli}, {xruba}, {xrula}, {pezli}, {srasu})'
+    glosses:
+    - növény
+  ja:
+    place structure: x1 は x2 （種類）の植物（草木／葉／花）；  x1 は植物性
+    notes:
+    - ・大意： 植物 ・読み方： スパティ  ・関連語： {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi},
+      {tricu}, {tsiju}, {tujli}, {xruba}, {xrula}, {pezli}, {srasu}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een plant/kruid/'groen' van de soorten/ras x2.
+    notes:
+    - x1 is een groente.
+    glosses:
+    - groente ((voedsel))
+    - kruid
+    - plant
+  zh:
+    place structure: x1是植物，属于品种/种类x2
+    notes:
+    - x1是关于植物的；参见 {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju},
+      {tujli}, {xruba}, {xrula}, {pezli}, {srasu}.
+    glosses:
+    - No glosses.

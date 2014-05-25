@@ -1,7 +1,82 @@
-Word: jinku
-Rafsi: ''
-Definition: x1 is a vaccine/immune-system stimulant protecting x2 against disease
-  x3 introduced by method x4.
-Notes: Also serum; inoculation (= {jestu'u} {veljinku}). See also {jurme}, {mikce},
-  {jesni}, {bilma}.
-Examples: None
+word: jinku
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a vaccine/immune-system stimulant protecting x2 against
+      disease x3 introduced by method x4.
+    notes:
+    - Also serum; inoculation (= {jestu'u} {veljinku}). See also {jurme}, {mikce},
+      {jesni}, {bilma}.
+    glosses:
+    - vaccine
+  de:
+    place structure: x1 ist ein Impfstoff und schützt x2 gegen Krankheit x3, eingebracht/eingenommen/gespritzt
+      mit Methode x4
+    notes:
+    - No notes.
+    glosses:
+    - Impfstoff
+  es:
+    place structure: x1 es una vacuna para proteger a x2 contra enfermedad/mal x3
+    notes:
+    - No notes.
+    glosses:
+    - vacuna
+  ru:
+    place structure: x1 — вакцина/стимулятор имунной системы, предохраняющий x2 (кого)
+      от заболевания x3 и вводимый методом x4
+    notes:
+    - 'Также: сыворотка; прививка: {jestu''u} {veljinku} {jurme} (микроб), {mikce}
+      (лечить), {jesni} (игла [форма, не орудие]), {bilma} (больной)'
+    glosses:
+    - x1=вакцина
+  en-simple:
+    place structure: x1 is a vaccine protecting x2 against x3 introduced by method
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a vaccine
+    - x2=something vaccinated
+    - x3=a disease prevented by vaccine
+    - x4=a method of vaccination
+  eo:
+    place structure: x1 estas vakcino/imunsistema stimulilo protektanta x2-on de malsano
+      x3 injektita per metodo x4
+    notes:
+    - 'Ankaŭ: sero/serumo; inokulaĵo (= jestu''u {veljinku}). Vidu ankaŭ {jurme},
+      {mikce}, {jesni}, {bilma}.'
+    glosses:
+    - vakcino
+  hu:
+    place structure: x1 egy oltóanyag/immunrendszer-serkentő x2 védelmére x3 betegségtől,
+      x4 módszerrel
+    notes:
+    - '(Lásd még: {jurme}, {mikce}, {jesni}, {bilma})'
+    glosses:
+    - oltóanyag
+  ja:
+    place structure: x1 は x2 を x3 （病気／疾病／疾患）から x4 （接種方法）によって護るワクチン／痘苗／血清／予防接種
+    notes:
+    - ・大意： ワクチン ・読み方： ジンク  ・語呂合わせ： 尽苦ワクチン, jiejun（接種）,inoculation ・関連語： {jurme}, {mikce},
+      {jesni}, {bilma}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett vaccin/immunförsvar vilket verkar genom att skydda
+      x2 mot sjukdom x3 införd genom metod x4.
+    notes:
+    - Även serum; (in)ympning (= {jestu'u} {veljinku}).
+    glosses:
+    - immunförsvar
+    - serum
+    - vaccin
+  zh:
+    place structure: x1是用于x2抵抗疾病x3的疫苗/免疫兴奋剂，使用方法x4接种
+    notes:
+    - 也指：免疫血清；接种={jestu'u}/{veljinku}；参见 {jurme}, {mikce}, {jesni}, {bilma}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,71 @@
-Word: culno
-Rafsi: clu
-Definition: x1 is full/completely filled with x2.
-Notes: See also {tisna}, {kunti}, {mulno}, {setca}, {tisna}.
-Examples: None
+word: culno
+rafsi:
+- clu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is full/completely filled with x2.
+    notes:
+    - See also {tisna}, {kunti}, {mulno}, {setca}, {tisna}.
+    glosses:
+    - full
+    - x1=whole (entirety)
+  de:
+    place structure: x1 ist voll/bis oben hin gefüllt mit x2.
+    notes:
+    - Siehe auch {tisna}, {kunti}, {mulno}, {setca}, {tisna}.
+    glosses:
+    - voll
+  es:
+    place structure: x1 está lleno/pleno de x2
+    notes:
+    - Ver también {kunti},  {tisna}.
+    glosses:
+    - lleno
+  ru:
+    place structure: x1 полон x2 (чего); x1 наполнен/заполнен x2 (чем)
+    notes:
+    - '{tisna} (наполняться), {kunti} (пустой), {mulno} (законченный), {setca} (вставлять),
+      {tisna} (наполняться)'
+    glosses:
+    - x1=полный
+  en-simple:
+    place structure: x1 is full of x2
+    notes:
+    - No notes.
+    glosses:
+    - something full
+    - x2=something that something is full of
+  eo:
+    place structure: x1 estas plena/plenplena je x2
+    notes:
+    - Vidu ankaŭ {tisna}, {kunti}, {mulno}, {setca}, {tisna}.
+    glosses:
+    - plena
+  hu:
+    place structure: x1 tele van x2-vel
+    notes:
+    - '(Lásd még: {tisna}, {kunti}, {mulno}, {setca}, {tisna})'
+    glosses:
+    - teli
+  ja:
+    place structure: x1 は x2 で充溢／充満している
+    notes:
+    - 「満タン」も。 ・大意： 充満 ・読み方： シュルゥノ  ・語呂合わせ： cun（充）, full ・関連語： {tisna}, {kunti}, {mulno},
+      {setca}, {tisna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är full/fullständigt fylld med x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=full (fullständigt fylld)
+    - x2=full av (fullständigt fylld av)
+  zh:
+    place structure: x1饱含x2,；x1被x2所灌满/充满
+    notes:
+    - 参见 {tisna}, {kunti}, {mulno}, {setca}, {tisna}.
+    glosses:
+    - No glosses.

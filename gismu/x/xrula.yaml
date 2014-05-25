@@ -1,6 +1,65 @@
-Word: xrula
-Rafsi: rul
-Definition: x1 is a/the flower/blossom/bloom [body-part] of plant/species x2; (adjective:)
-  x1 is floral.
-Notes: See also {spati}.
-Examples: None
+word: xrula
+rafsi:
+- rul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the flower/blossom/bloom [body-part] of plant/species
+      x2; (adjective:) x1 is floral.
+    notes:
+    - See also {spati}.
+    glosses:
+    - flower
+  de:
+    place structure: x1 ist eine/die Blume/Blüte [Körperteil] von Pflanze/Art x2;
+      (Adjektiv:) x1 ist geblümt
+    notes:
+    - No notes.
+    glosses:
+    - Blüte
+  es:
+    place structure: x1 es una flor de planta/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - flor
+  ru:
+    place structure: x1 — цветок растения/вида x2
+    notes:
+    - 'прилагательное: x1 — цветочный, цветковый {spati} (растение)'
+    glosses:
+    - x1=цветок
+    - x2=вид цветка
+  en-simple:
+    place structure: x1 is a flower of plant or species x2
+    notes:
+    - No notes.
+    glosses:
+    - a flower
+    - x2=a flowering plant
+  eo:
+    place structure: x1 estas floro [korpoparto] de planto/speco x2; (adjektivo:)
+      x1 estas flora
+    notes:
+    - Vidu ankaŭ {spati}.
+    glosses:
+    - floro
+  hu:
+    place structure: x1 egy/a virága/virágzata x2 növénynek/fajnak
+    notes:
+    - '(Lásd még: {spati})'
+    glosses:
+    - virág
+  ja:
+    place structure: x1 は x2 （種類）の花
+    notes:
+    - ・大意： 花 ・読み方： クゥルルァ  ・語呂合わせ： フルール ・関連語： {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是花朵，属于物种/种类x2
+    notes:
+    - 参见 {spati}.
+    glosses:
+    - No glosses.

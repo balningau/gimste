@@ -1,6 +1,75 @@
-Word: xrani
-Rafsi: xai
-Definition: x1 (event) injures/harms/damages victim x2 in property x3 (ka) resulting
-  in injury x4 (state).
-Notes: Also hurts.  See also {cortu}, {daspo}, {spofu}, {katna}, {porpi}.
-Examples: None
+word: xrani
+rafsi:
+- xai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) injures/harms/damages victim x2 in property x3 (ka)
+      resulting in injury x4 (state).
+    notes:
+    - Also hurts.  See also {cortu}, {daspo}, {spofu}, {katna}, {porpi}.
+    glosses:
+    - injure
+  de:
+    place structure: x1 (Ereignis) verletzt/beschädigt/schadet Opfer x2 in Eigenschaft
+      x3 (ka) und daraus ergibt sich Verletzung x4 (Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - verletzen
+  es:
+    place structure: x1 (evento) hiere/lastima/daña/lesiona a x2 en propiedad x3 resultando
+      daño/herida x4 (estado)
+    notes:
+    - No notes.
+    glosses:
+    - herir
+  ru:
+    place structure: x1 вредит/наносит ущерб жертве x2 в аспекте x3 ({ka}), нанося
+      ущерб/урон/повреждение/{рану} x4 (состояние)
+    notes:
+    - 'Также: ранит, обижает, причиняет зло, ущемляет {cortu} (испытывать [боль]),
+      {daspo} (разрушать), {spofu} (сломанный [испорченный, негодный]), {katna} (разрезать),
+      {porpi} (разваливаться)'
+    glosses:
+    - вредить
+    - x1=вредящий
+    - x2=кому наносят вред
+    - x3=наносимый вред
+  en-simple:
+    place structure: x1 injures x2 in property x3 resulting in injury x4
+    notes:
+    - No notes.
+    glosses:
+    - something causing injury
+    - x2=something injured
+    - x3=a property of injury
+    - x4=an injury
+  eo:
+    place structure: x1 (okazo) vundas/difektas viktimon x2 en eco x3 (ka) kun rezulta
+      vundo x4 (stato)
+    notes:
+    - Vidu ankaŭ {cortu}, {daspo}, {spofu}, {katna}, {porpi}.
+    glosses:
+    - vundi
+  hu:
+    place structure: x1 esemény megsebesíti/megsérti/megrongálja x2-t x3 tulajdonságában,
+      x4 sérülést okozva
+    notes:
+    - '(Lásd még: {cortu}, {daspo}, {spofu}, {katna}, {porpi})'
+    glosses:
+    - megsebesít
+  ja:
+    place structure: x1 （事）は x2 （対象）に、 x3 （性質）に関して x4 （損傷／ダメージ）を与える；  x1 は x2 を傷つける／傷める／損害する
+    notes:
+    - ・大意： 損傷 ・読み方： クゥラニ  ・語呂合わせ： ＜フライで肉を＞,倉に損傷 ・関連語： {cortu}, {daspo}, {spofu}, {katna},
+      {porpi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件）伤害/毁坏x2，在性质x3（ka）上，造成了伤害/伤口x4（状态）
+    notes:
+    - 参见 {cortu}, {daspo}, {spofu}, {katna}, {porpi}.
+    glosses:
+    - No glosses.

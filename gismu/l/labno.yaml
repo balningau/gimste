@@ -1,5 +1,62 @@
-Word: labno
-Rafsi: ''
-Definition: x1 is a wolf/lupine of species/breed x2.
-Notes: See also {gerku}.
-Examples: None
+word: labno
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wolf/lupine of species/breed x2.
+    notes:
+    - See also {gerku}.
+    glosses:
+    - wolf
+  de:
+    place structure: x1 ist ein Wolf der Art/Rasse x2.
+    notes:
+    - Siehe auch {gerku}.
+    glosses:
+    - Wolf
+  es:
+    place structure: x1 es un lobo/lupino de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - lobo
+  ru:
+    place structure: x1 — волк вида/разновидности x2
+    notes:
+    - '{gerku} (собака)'
+    glosses:
+    - волк
+    - x2=вид волка
+  en-simple:
+    place structure: x1 is a wolf of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a wolf
+    - x2=a species of wolf
+  eo:
+    place structure: x1 estas lupo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gerku}.
+    glosses:
+    - lupo
+  hu:
+    place structure: x1 egy farkas [Canis lupus] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gerku})'
+    glosses:
+    - farkas
+  ja:
+    place structure: x1 は x2 （種類）の狼
+    notes:
+    - ・大意： 狼 ・読み方： ルァブノ  ・関連語： {gerku} (上位概念)
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是狼，属于种类x2
+    notes:
+    - 查看{gerku}
+    glosses:
+    - 狼

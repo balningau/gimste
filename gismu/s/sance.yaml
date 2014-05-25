@@ -1,6 +1,78 @@
-Word: sance
-Rafsi: sna
-Definition: x1 is sound produced/emitted by x2.
-Notes: $x_2$ sounds (intransitive verb).  See also {savru}, {tirna}, {voksa}, {siclu},
-  {slaka}.
-Examples: None
+word: sance
+rafsi:
+- sna
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is sound produced/emitted by x2.
+    notes:
+    - x2 sounds (intransitive verb).  See also {savru}, {tirna}, {voksa}, {siclu},
+      {slaka}.
+    glosses:
+    - sound
+  jbo:
+    place structure: x1 se krasi x2 gi'e ka'e se tirna
+    notes:
+    - '{tirna}; {jvinu}; {panci}; {vrusi}; {tengu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist ein Laut/Klang/Geräusch erzeugt/ausgesendet von x2
+    notes:
+    - No notes.
+    glosses:
+    - Laut
+  es:
+    place structure: x1 es un sonido emitido por x2
+    notes:
+    - No notes.
+    glosses:
+    - sonido
+  ru:
+    place structure: x1 — звук, производимый/испускаемый x2 (чем); x2 звучит
+    notes:
+    - '{savru} (шум), {tirna} (слышать), {voksa} (голос), {siclu} (свистеть), {slaka}
+      (слог)'
+    glosses:
+    - x1=звук
+    - x2=источник звука
+  en-simple:
+    place structure: x1 is sound produced by x2
+    notes:
+    - No notes.
+    glosses:
+    - a sound
+    - x2=a producer of a sound
+  eo:
+    place structure: x1 estas sono produktita/eligita de x2
+    notes:
+    - x2 sonas (netransitiva verbo).  Vidu ankaŭ {savru}, {tirna}, {voksa}, {siclu},
+      {slaka}.
+    glosses:
+    - sono
+  hu:
+    place structure: x1 egy hang x2 által keltve/kibocsátva
+    notes:
+    - '(Lásd még: {savru}, {tirna}, {voksa}, {siclu}, {slaka})'
+    glosses:
+    - hang (zaj)
+  ja:
+    place structure: x1 は x2 が発する音；  x2 は音がする
+    notes:
+    - ・大意： 音 ・読み方： サンシェ  ・関連語： {savru}, {tirna}, {voksa}, {siclu}, {slaka}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een geluid afkomstig van x2.
+    notes:
+    - x2 maakt geluid (als werkwoord). Zie ook {savru}, {tirna}, {voksa}, {siclu},
+      {slaka}.
+    glosses:
+    - geluid
+  zh:
+    place structure: x1是由x2发出的声音
+    notes:
+    - x2发生声响；参见 {savru}, {tirna}, {voksa}, {siclu}, {slaka}.
+    glosses:
+    - No glosses.

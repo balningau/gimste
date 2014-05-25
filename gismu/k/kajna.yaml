@@ -1,6 +1,67 @@
-Word: kajna
-Rafsi: ''
-Definition: x1 is a shelf/counter/bar in/on/attached to supporting object x2, for
-  purpose x3.
-Notes: See also {balni}.
-Examples: None
+word: kajna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shelf/counter/bar in/on/attached to supporting object
+      x2, for purpose x3.
+    notes:
+    - See also {balni}.
+    glosses:
+    - shelf
+  de:
+    place structure: x1 ist ein Gestell/Regal/eine Ablage/Theke in/auf/verbunden mit
+      stützendem Objekt x2 für Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - Regal
+  es:
+    place structure: x1 es un mostrador/estante/anaquel/bar adherido a soporte x2,
+      con proposito x3
+    notes:
+    - No notes.
+    glosses:
+    - mostrador
+  ru:
+    place structure: x1 — полка/прилавок/лавка, прикрепленная к опоре x2 и предназначенная
+      для x3
+    notes:
+    - '{balni} (балкон)'
+    glosses:
+    - x1=полка
+  en-simple:
+    place structure: x1 is a shelf or counter on x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - a shelf
+    - x2=something supported by a shelf
+    - x3=a purpose of a shelf
+  eo:
+    place structure: x1 estas breto/tabulo/bufedo ĉe/sur/alfiksita al subtenanta objekto
+      x2, por celo x3
+    notes:
+    - Vidu ankaŭ {balni}.
+    glosses:
+    - breto
+  hu:
+    place structure: x1 egy polc/pult/korlát/keresztrúd x2-re erősítve, x3 célból
+    notes:
+    - '(Lásd még: {balni})'
+    glosses:
+    - polc
+  ja:
+    place structure: x1 は x2 （物）のための棚／カウンター
+    notes:
+    - 棚状の物全般。 ・大意： 棚 ・読み方： カジナ  ・語呂合わせ： 火事な棚 ・関連語： {balni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是架子/柜台，用以支撑/放置x2，为了目的/用途x3
+    notes:
+    - 参见 {balni}.
+    glosses:
+    - No glosses.

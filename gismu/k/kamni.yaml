@@ -1,6 +1,66 @@
-Word: kamni
-Rafsi: ''
-Definition: x1 (mass) is a committee with task/purpose x2 of body x3.
-Notes: Board of directors/trustees/cabinet (= {trukamni}, {gritrukamni}). See also
-  {bende}, {kagni}.
-Examples: None
+word: kamni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass) is a committee with task/purpose x2 of body x3.
+    notes:
+    - Board of directors/trustees/cabinet (= {trukamni}, {gritrukamni}). See also
+      {bende}, {kagni}.
+    glosses:
+    - committee
+  de:
+    place structure: x1 (Masse) ist ein Komitee/Gremium/Ausschuss mit Aufgabe/Zweck
+      x2, von Institution x3
+    notes:
+    - No notes.
+    glosses:
+    - Komitee
+  es:
+    place structure: x1 es un comité con función/propósito x2 de cuerpo x3
+    notes:
+    - No notes.
+    glosses:
+    - comité
+  ru:
+    place structure: x1 — комиссия/комитет/совет с функцией/назначением x2, состоящая
+      из x3
+    notes:
+    - 'Совет директоров, кабинет: {trukamni}, {gritrukamni} {bende} (команда), {kagni}
+      (фирма)'
+    glosses:
+    - x1=комиссия
+  en-simple:
+    place structure: x1 is a committee with task x2 of body x3
+    notes:
+    - No notes.
+    glosses:
+    - a committee
+    - x2=a purpose of a committee
+    - x3=something with a committee
+  eo:
+    place structure: x1 (kolektivaĵo) estas komitato kun tasko/celo x2 de asocio x3
+    notes:
+    - Direktoraro/ministraro (= {trukamni}, {gritrukamni}). Vidu ankaŭ {bende}, {kagni}.
+    glosses:
+    - komitato
+  hu:
+    place structure: x1 (sokaság) egy bizottság x2 feladattal/céllal x3 testületben/szervben
+    notes:
+    - '(Lásd még: {bende}, {kagni})'
+    glosses:
+    - bizottság
+  ja:
+    place structure: x1 （群）は x2 （目的／責務）・ x3 （母体）の委員会
+    notes:
+    - 「内閣」も。 ・大意： 委員会 ・読み方： カムニ ・語呂合わせ： カミュニティ ・関連語： {bende}, {kagni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（团体）是带有任务/目的/用途的委员会，主体由x3构成
+    notes:
+    - 董事会/托管会/内阁= {trukamni}, {gritrukamni}；参见 {bende}, {kagni}.
+    glosses:
+    - No glosses.

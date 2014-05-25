@@ -1,5 +1,73 @@
-Word: nimre
-Rafsi: ''
-Definition: x1 is a quantity of citrus [fruit/tree, etc.] of species/strain x2.
-Notes: See also {grute}, {slari}, {slami}, {xukmi}.
-Examples: None
+word: nimre
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of citrus [fruit/tree, etc.] of species/strain
+      x2.
+    notes:
+    - See also {grute}, {slari}, {slami}, {xukmi}.
+    glosses:
+    - citrus
+  de:
+    place structure: x1 ist eine Menge an Zitrone/Zitrusgewächs [Frucht/Baum, etc.]
+      von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es un limón/naranja/cítrico (fruta) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - cítrico
+  ru:
+    place structure: x1 — цитрус/{лимон/апельсин/мандарин/грейпфрут} (фрукт/дерево
+      и т.д.) вида/сорта x2
+    notes:
+    - '{grute} (плод [фрукт]), {slari} (кислый), {slami} (кислота), {xukmi} (доза
+      [химического вещества])'
+    glosses:
+    - цитрус
+    - x2=вид цитруса
+  en-simple:
+    place structure: x1 is a quantity of citrus of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of citrus
+    - x2=a species of citrus
+  eo:
+    place structure: x1 estas kvanto da citro [frukto/arbo, ktp.] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {grute}, {slari}, {slami}, {xukmi}.
+    glosses:
+    - citro
+  hu:
+    place structure: x1 egy citrusféle [Citrus nemzetség] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute}, {slari}, {slami}, {xukmi})'
+    glosses:
+    - citrus
+  ja:
+    place structure: x1 は x2 （種）のかんきつ類／ミカン属
+    notes:
+    - ・大意： ミカン属 ・読み方： ニムレ  ・語呂合わせ： ミカンに群れ ・関連語： {grute}, {slari}, {slami}, {xukmi}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een hoeveelheid citrus [fruit/boom, etc.] van soorten/ras
+      x2.
+    notes:
+    - 'Zie ook : {grute}, {slari}, {slami}, {xukmi}.'
+    glosses:
+    - citrus
+  zh:
+    place structure: x1是柑橘（植物/果实），属于品种/种类x2
+    notes:
+    - 参见 {grute}, {slari}, {slami}, {xukmi}.
+    glosses:
+    - No glosses.

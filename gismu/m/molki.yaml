@@ -1,8 +1,73 @@
-Word: molki
-Rafsi: mlo
-Definition: x1 is a mill/foundry/industrial plant/[assembly line] performing process
-  x2.
-Notes: (unlike fanri,) need not produce a product; grain mill (= {grumlo}), grinding
-  mill (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  See also {gasta}, {gurni}, {tirse},
-  {fanri}, {zalvi}.
-Examples: None
+word: molki
+rafsi:
+- mlo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mill/foundry/industrial plant/[assembly line] performing
+      process x2.
+    notes:
+    - (unlike fanri,) need not produce a product; grain mill (= {grumlo}), grinding
+      mill (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  See also {gasta}, {gurni}, {tirse},
+      {fanri}, {zalvi}.
+    glosses:
+    - mill
+  de:
+    place structure: x2 ist eine Mühle/Fabrik/Gießerei/Industrieanlage/[Fließband]
+      und führt Prozess x2 durch
+    notes:
+    - No notes.
+    glosses:
+    - Mühle
+  es:
+    place structure: x1 es un molino/planta industrial que realiza proceso x2
+    notes:
+    - Ver también {fanri}.
+    glosses:
+    - molino
+  ru:
+    place structure: x1 — мельница/плавильня/промышленное предприятие/{сборочная линия},
+      выполняющая процесс x2
+    notes:
+    - 'В отличие от {fanri} не обязательно производит продукт: акцент на обработке/переработке;
+      мучная мельница: {grumlo}, другие виды мельниц: {zalmlo}, {zalmlotci}, {zalmloca''a}
+      {gasta} (сталь), {gurni} (зерно), {tirse} (железо), {fanri} (фабрика), {zalvi}
+      (размалывать)'
+    glosses:
+    - мельница
+  en-simple:
+    place structure: x1 is an industrial plant or mill performing x2
+    notes:
+    - No notes.
+    glosses:
+    - an industrial plant
+  eo:
+    place structure: x1 estas muelejo/fandejo/fabriko/[assembly line] plenumanta procedon
+      x2
+    notes:
+    - (malkiel fanri,) ne nepre produktas ion; grajnomuelejo (= {grumlo}), muelejo
+      (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  Vidu ankaŭ {gasta}, {gurni}, {tirse},
+      {fanri}, {zalvi}.
+    glosses:
+    - muelejo
+  hu:
+    place structure: x1 egy malom/gyártósor x2 művelet elvégzésére
+    notes:
+    - '(Lásd még: {gasta}, {gurni}, {tirse}, {fanri}, {zalvi})'
+    glosses:
+    - malom
+  ja:
+    place structure: x1 は x2 （生産過程）に携わる製造場／製錬場／鋳造場
+    notes:
+    - 製品や商品そのものの完成には携わらず、特に材料や製材を準備する所 ・大意： 製造場 ・読み方： モルゥキ  ・関連語： {gasta}, {gurni},
+      {tirse}, {fanri} (上位概念), {zalvi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是工业工厂/制造厂，执行进程x2
+    notes:
+    - 不需要生产产品，不同于{fanri}；谷物磨粉装置={grumlo}；研磨机={zalmlo}, {zalmlotci}, {zalmloca'a}；参见
+      {gasta}, {gurni}, {tirse}, {fanri}, {zalvi}.
+    glosses:
+    - No glosses.

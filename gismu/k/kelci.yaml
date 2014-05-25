@@ -1,6 +1,69 @@
-Word: kelci
-Rafsi: kel, kei
-Definition: x1 [agent] plays with plaything/toy x2.
-Notes: Play game (= {ci'erkei}), play competitively (= {jvikei}).  See also {jivna},
-  {jinga}, {zdile}.
-Examples: None
+word: kelci
+rafsi:
+- kel
+- kei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [agent] plays with plaything/toy x2.
+    notes:
+    - Play game (= {ci'erkei}), play competitively (= {jvikei}).  See also {jivna},
+      {jinga}, {zdile}.
+    glosses:
+    - play
+    - x1=player (participant of a game)
+  de:
+    place structure: x1 [Handelnder] spielt mit Spielzeug x2
+    notes:
+    - No notes.
+    glosses:
+    - spielen
+  es:
+    place structure: x1 juega con juego/juguete x2
+    notes:
+    - No notes.
+    glosses:
+    - jugar
+  ru:
+    place structure: x1 играет в игру/с игрушкой x2
+    notes:
+    - 'Игра по правилам: {ci''erkei}, соревновательная игра: {jvikei} {jivna} (соревноваться),
+      {jinga} (выигрывать [побеждать]), {zdile} (развлекать)'
+    glosses:
+    - играть
+    - x1=играющий
+    - x2=игра
+    - x2=игрушка
+  en-simple:
+    place structure: x1 plays with toy x2
+    notes:
+    - No notes.
+    glosses:
+    - a player
+    - x2=a toy played with
+  eo:
+    place structure: x1 [aganto] ludas per ludilo x2
+    notes:
+    - Ludi ludon (= {ci'erkei}), ludi konkure (= {jvikei}).  Vidu ankaŭ {jivna}, {jinga},
+      {zdile}.
+    glosses:
+    - ludi
+  hu:
+    place structure: x1 játszik x2 játékszerrel
+    notes:
+    - '(Lásd még: {jivna}, {jinga}, {zdile})'
+    glosses:
+    - játszik
+  ja:
+    place structure: x1 は x2 （道具／方法）で遊ぶ
+    notes:
+    - ・大意： 遊ぶ ・読み方： ケルゥシ  ・語呂合わせ： 遊びで蹴るし ・関連語： {jivna}, {jinga}, {zdile}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1玩耍玩物/玩具x2
+    notes:
+    - 做游戏={ci'erkei}；有竞争地玩={jvikei}；参见 {jivna}, {jinga}, {zdile}.
+    glosses:
+    - No glosses.

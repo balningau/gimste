@@ -1,6 +1,69 @@
-Word: kacma
-Rafsi: ''
-Definition: x1 is a camera/photographic equipment recording illumination type x2 images
-  to medium x3.
-Notes: See also {lenjo}.
-Examples: None
+word: kacma
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a camera/photographic equipment recording illumination
+      type x2 images to medium x3.
+    notes:
+    - See also {lenjo}.
+    glosses:
+    - camera
+  de:
+    place structure: x1 ist eine Kamera/ein Fotoapparat und nimmt/speichert Bilder
+      mit Strahlung von Typ x2 (z.B. Licht) auf Medium x3 (auf)
+    notes:
+    - No notes.
+    glosses:
+    - Kamera
+  es:
+    place structure: x1 es una cámara fotográfica que graba/registra imágenes en medio
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - cámara
+  ru:
+    place structure: x1 — фотокамера/фотоаппарат, фиксирующая изображение в лучах
+      вида x2 на носителе x3
+    notes:
+    - '{lenjo} (линза)'
+    glosses:
+    - фотоаппарат
+  en-simple:
+    place structure: x1 is a camera recording illumination type x2 images to medium
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - a camera
+    - x2=an image type recorded by camera
+    - x3=a photographic medium used in a camera
+  eo:
+    place structure: x1 estas kamerao/fotografaparato registranta bildojn de lumigtipo
+      x2 en medio x3
+    notes:
+    - Vidu ankaŭ {lenjo}.
+    glosses:
+    - kamerao
+  hu:
+    place structure: x1 egy fényképezőgép/kamera x2 fény/sugárzás által alkotott képek
+      x3 hordozóra való rögzítésére
+    notes:
+    - '(Lásd még: {lenjo})'
+    glosses:
+    - fényképezőgép
+  ja:
+    place structure: x1 は x2 （光学的対象）を x3 （媒体）に記録するカメラ
+    notes:
+    - ・大意： カメラ ・読み方： カシマ  ・語呂合わせ： カメラ貸します ・関連語： {lenjo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是相机/摄像设备，将图像x2记录到媒介x3中
+    notes:
+    - 参见 {lenjo}.
+    glosses:
+    - No glosses.

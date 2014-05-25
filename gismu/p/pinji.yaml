@@ -1,8 +1,75 @@
-Word: pinji
-Rafsi: ''
-Definition: x1 is a/the clitoris/penis [projecting reproductive organ; body-part]
-  of x2.
-Notes: 'Normally context eliminates need for specificity; otherwise: penis (= {nakpinji}),
-  clitoris (= {fetpinji}).  See also {cinse}, {gletu}, {vibna}, {plibu}, {vlagi},
-  {mabla}, {ganti}.'
-Examples: None
+word: pinji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the clitoris/penis [projecting reproductive organ; body-part]
+      of x2.
+    notes:
+    - 'Normally context eliminates need for specificity; otherwise: penis (= {nakpinji}),
+      clitoris (= {fetpinji}).  See also {cinse}, {gletu}, {vibna}, {plibu}, {vlagi},
+      {mabla}, {ganti}.'
+    glosses:
+    - penis
+  de:
+    place structure: x1 ist die Klitoris/der Penis [hervorstehendes Geschlechtsorgan;
+      Körperteil] von x2
+    notes:
+    - No notes.
+    glosses:
+    - Penis
+  es:
+    place structure: x1 es un pene (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - pene
+  ru:
+    place structure: x1 — пенис/клитор (выступающий орган размножения; часть тела)
+      x2
+    notes:
+    - 'Контекст обычно делает ненужным уточнение; в противном случае: пенис: {nakpinji},
+      клитор: {fetpinji} {cinse} (сексуальный), {gletu} (совокупляться), {vibna} (влагалище),
+      {plibu} (лобок), {vlagi} (вульва), {mabla} (негативный [о значении/смысле слова]),
+      {ganti} (яичко [анатомия])'
+    glosses:
+    - пенис/клитор
+    - x2=имеющий пенис/клитор
+  en-simple:
+    place structure: x1 is a clitoris or penis of x2
+    notes:
+    - No notes.
+    glosses:
+    - a penis
+    - x2=something with a penis
+  eo:
+    place structure: x1 estas (la) klitoro/peniso [elstaranta reprodukta organo; korpoparto]
+      de x2
+    notes:
+    - 'ĝenerale la konteksto forigas bezonon por specifo; alie: peniso (= {nakpinji}),
+      klitoro (= {fetpinji}).  Vidu ankaŭ {cinse}, {gletu}, {vibna}, {plibu}, {vlagi},
+      {mabla}, {ganti}.'
+    glosses:
+    - peniso
+  hu:
+    place structure: x1 egy/a hímvesszeje/csiklója [kiálló nemiszerve] x2-nek
+    notes:
+    - '(Lásd még: {cinse}, {gletu}, {vibna}, {plibu}, {vlagi}, {mabla}, {ganti})'
+    glosses:
+    - hímvessző
+  ja:
+    place structure: x1 は x2 （本体）のペニス（陰茎）／クリトリス（陰核）
+    notes:
+    - ・大意： 陰茎 ・読み方： ピンジ  ・関連語： {cinse}, {gletu}, {vibna}, {plibu}, {vlagi}, {mabla},
+      {ganti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的阴蒂/阴茎（突出的生殖器官）
+    notes:
+    - 阳物/阴茎= {nakpinji}，阴蒂= {fetpinji}；参见 {cinse}, {gletu}, {vibna}, {plibu}, {vlagi},
+      {mabla}, {ganti}.
+    glosses:
+    - No glosses.

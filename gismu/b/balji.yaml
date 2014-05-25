@@ -1,5 +1,97 @@
-Word: balji
-Rafsi: ''
-Definition: 'x1 is a bulb [body-part] of plant/species x2; [metaphor: rounded, bulgy].'
-Notes: See also {punli}, {batke}.
-Examples: None
+word: balji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a bulb [body-part] of plant/species x2; [metaphor: rounded,
+      bulgy].'
+    notes:
+    - See also {punli}, {batke}.
+    glosses:
+    - bulb
+  de:
+    place structure: 'x1 ist eine Knolle/Zwiebel [Körperteil] von Pflanze/Art x2;
+      [im übertragenen Sinne: gerundet, ausgebeult]'
+    notes:
+    - No notes.
+    glosses:
+    - Knolle
+  es:
+    place structure: x1 es un bulbo de planta/especie x2
+    notes:
+    - Ver también {punli}.
+    glosses:
+    - bulbo
+  fr:
+    place structure: 'x1 est un bulbe [partie du corps] de la plante/espèce x2; (métaphore:
+      rond, gonflé, bossu)'
+    notes:
+    - Voir également {punli}, {batke}.
+    glosses:
+    - bosse
+    - bulbe
+  ru:
+    place structure: x1 — клубень растения x2
+    notes:
+    - 'Метафора: круглый, выпуклый'
+    - См. также {punli} (выступ), {batke} (кнопка)
+    glosses:
+    - клубень
+    - x1=луковица
+  en-simple:
+    place structure: x1 is a plant bulb of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a plant bulb
+    - x2=a species of plant bulb
+  eo:
+    place structure: 'x1 estas bulbo [korpoparto] de planto/speco x2; [metafore: ronda,
+      elŝvelinta]'
+    notes:
+    - Vidu ankaŭ {punli}, {batke}.
+    glosses:
+    - bulbo
+  hu:
+    place structure: x1 egy/a hagymája/gumója x2 növénynek/fajnak
+    notes:
+    - '(Lásd még: {punli}, {batke})'
+    glosses:
+    - gumó
+  ja:
+    place structure: x1 は x2 （植物種）の球根／球茎／鱗茎／
+    notes:
+    - 「lo balji be la likoris. cu vindu mutce／ヒガンバナの球根は毒性が強い」 ・大意： 球根 ・読み方： バルゥジ ・語呂合わせ：  バルブ、bulb,jing（茎）
+      ・関連語： {punli}, {batke}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: 'x1 er en løk [del] av plante/art x2; [metafor: svullen, avrundet]'
+    notes:
+    - Se også {batke}, {punli}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: 'x1 jest bulwą/cebulką [część ciała] rośliny/gatunku x2; [metafora:
+      okrągły, pękaty].'
+    notes:
+    - Patrz też {punli}, {batke}.
+    glosses:
+    - bulwa
+  sv:
+    place structure: 'x1 är en blomlök av växt/art x2; [metafor: rund, svullen, utputande]'
+    notes:
+    - Se även {punli}, {batke}.
+    glosses:
+    - blomlök
+    - rund (lökliknande)
+    - x1=lök (blomlök)
+    - x2=lökartad (har blomlök)
+  zh:
+    place structure: x1是球茎，位于植物体/植物种类x2上
+    notes:
+    - 参见 {punli}, {batke}.
+    glosses:
+    - No glosses.

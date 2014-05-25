@@ -1,5 +1,63 @@
-Word: mraji
-Rafsi: ''
-Definition: x1 is a quantity of rye [grain] of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: mraji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of rye [grain] of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - rye
+  de:
+    place structure: x1 ist eine Menge an Roggen [Getreide/Korn] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Roggen
+  es:
+    place structure: x1 es una cantidad de centeno (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - centeno
+  ru:
+    place structure: x1 — рожь (зерно) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - x1=рожь (зерно)
+    - x2=вид ржи
+  en-simple:
+    place structure: x1 is a quantity of rye of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of rye
+    - x2=a species of rye
+  eo:
+    place structure: x1 estas kvanto da sekalo [greno] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - sekalo
+  hu:
+    place structure: x1 bizonyos mennyiségű rozs [mag] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - rozs
+  ja:
+    place structure: x1 は x2 （品種）のライムギ粒
+    notes:
+    - ・大意： ライ麦 ・読み方： ムラジ  ・関連語： {gurni}
+    - ''
+    glosses:
+    - ライ麦 (穀粒)
+    - x1=ライムギ (穀粒)
+  zh:
+    place structure: x1是黑麦，属于种类/种族x2
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

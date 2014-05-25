@@ -1,7 +1,92 @@
-Word: cmene
-Rafsi: cme, me'e
-Definition: x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user
-  x3 (person).
-Notes: 'Also: $x_2$ is called $x_1$ by $x_3$ (= selcme for reordered places).  See
-  also cmavo list {me''e}, {gismu}, {tcita}, {valsi}, {judri}.'
-Examples: None
+word: cmene
+rafsi:
+- cme
+- me'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by
+      namer/name-user x3 (person).
+    notes:
+    - 'Also: x2 is called x1 by x3 (= selcme for reordered places).  See also cmavo
+      list {me''e}, {gismu}, {tcita}, {valsi}, {judri}.'
+    glosses:
+    - name (reference word)
+    - title (name)
+  de:
+    place structure: x1 (zitiertes Wort oder Wörter) ist ein/der Name/Titel von x2
+      für Benenner x3/wie er von x3 (Person) benutzt wird
+    notes:
+    - No notes.
+    glosses:
+    - Name
+  es:
+    place structure: x1 es un nombre/título de x2 usado/puesto por x3 (persona)
+    notes:
+    - No notes.
+    glosses:
+    - nombre
+  fr:
+    place structure: x1 (zo / li'u) [une citation] est le nom / titre / étiquette
+      que porte x2 utilisé par x3 [une personne/communauté]
+    notes:
+    - No notes.
+    glosses:
+    - nom
+    - titre
+    - étiquette
+  ru:
+    place structure: x1 (цитата) — имя/название/прозвище x2 (кого), используемое именователем
+      x3 (кем)
+    notes:
+    - 'Также: x2 называется x1 именователем x3: {selcme} для переставленных аргументов);
+      Также: кличка, прозвище {me''e}, {gismu} (), {tcita} (метка), {valsi} (слово),
+      {judri} (адрес)'
+    glosses:
+    - x1=имя
+  en-simple:
+    place structure: x1 is the name for x2 used by x3
+    notes:
+    - No notes.
+    glosses:
+    - a name
+    - x2=something named
+    - x3=a user of a name
+  eo:
+    place structure: x1 (citita(j) vorto(j)) estas (la) nomo/titolo/etikedo de x2
+      uzata de x3 (homo)
+    notes:
+    - 'Ankaŭ: x2 estas nomata x1 fare de x3 (= selcme por reordigitaj {lokoj}).  Vidu
+      ankaŭ cmavo {me''e}, {gismu}, {tcita}, {valsi}, {judri}.'
+    glosses:
+    - nomo
+  hu:
+    place structure: x1 (idézet) egy/a neve/címe x2-nek, x3 használatában; x3 x1-nak
+      hívja x2-t
+    notes:
+    - '(Lásd még: {gismu}, {tcita}, {valsi}, {judri})'
+    glosses:
+    - név
+  ja:
+    place structure: x1 （文字列）は x2 の、 x3 （者）による名称；  x3 は x2 を x1 と呼ぶ；  x2 は x1 と呼ばれている
+    notes:
+    - ・大意： 名前 ・読み方： シメネ  ・語呂合わせ： 名 ・関連語： {me'e}, {gismu}, {tcita}, {valsi}, {judri}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett namn/titel på/beteckning för x2 som igenkänns/används
+      av namngivare/namnanvändare x3.
+    notes:
+    - No notes.
+    glosses:
+    - namn (referensord)
+    - titel (namn)
+    - x1=namn
+    - x2=namngiven (som har namn)
+    - x3=namnare (som ger/använder namn)
+  zh:
+    place structure: x1（被引用的词）是x2的名字/标题/特定标签，被x3使用/引用
+    notes:
+    - 也指：x2被x3称作x1；参见 {me'e}, {gismu}, {tcita}, {valsi}, {judri}
+    glosses:
+    - No glosses.

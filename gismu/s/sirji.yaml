@@ -1,6 +1,74 @@
-Word: sirji
-Rafsi: sir
-Definition: x1 is straight/direct/line segment/interval between x2 and x3; (adjective:)  x1
-  is linear.
-Notes: See also {korcu}, {linji}, {kruvi}, {kuspe}.
-Examples: None
+word: sirji
+rafsi:
+- sir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is straight/direct/line segment/interval between x2 and x3;
+      (adjective:)  x1 is linear.
+    notes:
+    - See also {korcu}, {linji}, {kruvi}, {kuspe}.
+    glosses:
+    - straight (of a line)
+  jbo:
+    place structure: 'x1 toryrai lo linji be x2 e x3 '
+    notes:
+    - '{linji}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Gerade/Strecke zwischen x2 und x3; (Adjektiv:) x1
+      ist geradlinig
+    notes:
+    - No notes.
+    glosses:
+    - Strecke
+  es:
+    place structure: x1 es un segmento/intervalo/linea derecho/directo entre x2 y
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - intervalo
+  ru:
+    place structure: x1 — прямолинейный/прямой отрезок/интервал между x2 и x3
+    notes:
+    - 'Прилагательное: x1 — линейный {korcu} (изогнутый), {linji} (линия), {kruvi}
+      (изгиб), {kuspe} (простираться)'
+    glosses:
+    - x1=прямой
+  en-simple:
+    place structure: x1 is straight or direct between x2 and x3
+    notes:
+    - No notes.
+    glosses:
+    - something straight
+    - x2=a start point of something straight
+    - x3=an end point of something straight
+  eo:
+    place structure: x1 estas rekta/direkta linio/segmento/intervalo inter x2 kaj
+      x3; (adjektivo:)  x1 estas linia
+    notes:
+    - Vidu ankaŭ {korcu}, {linji}, {kruvi}, {kuspe}.
+    glosses:
+    - rekta
+  hu:
+    place structure: x1 egyenes, x2-t és x3-t összekötve
+    notes:
+    - '(Lásd még: {korcu}, {linji}, {kruvi}, {kuspe})'
+    glosses:
+    - egyenes
+  ja:
+    place structure: x1 は x2 ・ x3 の間でまっすぐ／直線的／直接的
+    notes:
+    - 「zu'a cmana .i ri'u xamsi .i fo le pa sirji pluta fa lo litru cu klama／左は山、右は海、その一筋道を旅人は行く」（山頭火『行乞記（二）』）
+      ・大意： まっすぐ ・読み方： スィルジ  ・関連語： {korcu}, {linji}, {kruvi}, {kuspe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2与x3之间直接的/线性的部分/间隔；x1是线性的
+    notes:
+    - 参见 {korcu}, {linji}, {kruvi}, {kuspe}.
+    glosses:
+    - No glosses.

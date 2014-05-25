@@ -1,7 +1,85 @@
-Word: frica
-Rafsi: fic
-Definition: x1 differs/is distinct from/contrasts with/is unlike x2 in property/dimension/quantity
-  x3.
-Notes: Also other-than (less common meaning).  See also {ranxi}, {drata}, {dunli},
-  {simsa}, {vrici}.
-Examples: None
+word: frica
+rafsi:
+- fic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 differs/is distinct from/contrasts with/is unlike x2 in property/dimension/quantity
+      x3.
+    notes:
+    - Also other-than (less common meaning).  See also {ranxi}, {drata}, {dunli},
+      {simsa}, {vrici}.
+    glosses:
+    - differ
+    - x1=difference (quality of being different)
+  jbo:
+    place structure: x1 to'e dunli x2 boi x3
+    notes:
+    - '{dunli}, {drata}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 unterscheidet sich von/kontrastiert mit/steht im Gegensatz
+      zu/ist unähnlich x2 in Eigenschaft/Dimension/Menge x3
+    notes:
+    - No notes.
+    glosses:
+    - sich unterscheiden
+  es:
+    place structure: x1 difiere/es diferente/distinto/contrasta con x2 en propiedad/dimensión/cantidad
+      x3
+    notes:
+    - Ver también {dunli},  {simsa},  {drata}.
+    glosses:
+    - diferir
+  ru:
+    place structure: x1 отличается от/непохож на/не такой как x2 по свойству/измерении/величине
+      x3
+    notes:
+    - 'Антоним: {dunli} {ranxi} (парадоксальный), {drata} (другой), {dunli} (равный),
+      {simsa} (похожий), {vrici} (разнообразный)'
+    glosses:
+    - отличаться от
+    - x1=отличающийся от
+  en-simple:
+    place structure: x1 differs from x2 in x3
+    notes:
+    - No notes.
+    glosses:
+    - x2=something to which something is different
+    - x3=a difference property
+  eo:
+    place structure: x1 diferencas/kontrastas/malsamas al x2 en eco/dimensio/kvanto
+      x3
+    notes:
+    - Vidu ankaŭ {ranxi}, {drata}, {dunli}, {simsa}, {vrici}.
+    glosses:
+    - diferenci
+  hu:
+    place structure: x1 eltér/különbözik/elüt x2-től, x3 tulajdonságban/méretben/mennyiségben
+    notes:
+    - '(Lásd még: {ranxi}, {drata}, {dunli}, {simsa}, {vrici})'
+    glosses:
+    - eltér
+  ja:
+    place structure: x1 は x2 と、 x3 （性質）に関して違う／異なる
+    notes:
+    - ・大意： 違う ・読み方： フゥリシャ  ・関連語： {ranxi}, {drata}, {dunli}, {simsa}, {vrici}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 skiljer sig från/är åtskild från/står i kontrast till/är olik
+      x2 i egenskap/dimension/kvanititet x3.
+    notes:
+    - Även något-annat-än (mindre vanlig betydelse).
+    glosses:
+    - kontrastera (står i kontrast till; är olik)
+    - olik (är olik; skiljer sig från)
+    - skilja sig från (är olik)
+  zh:
+    place structure: x1不同于/有区别于x2，在性质/尺寸/数量x3上
+    notes:
+    - 参见 {ranxi}, {drata}, {dunli}, {simsa}, {vrici}.
+    glosses:
+    - No glosses.

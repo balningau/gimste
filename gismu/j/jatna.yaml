@@ -1,5 +1,75 @@
-Word: jatna
-Rafsi: ja'a
-Definition: x1 is captain/commander/leader/in-charge/boss of vehicle/domain x2.
-Notes: See also {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}.
-Examples: None
+word: jatna
+rafsi:
+- ja'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is captain/commander/leader/in-charge/boss of vehicle/domain
+      x2.
+    notes:
+    - See also {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}.
+    glosses:
+    - captain
+  de:
+    place structure: x1 ist der Kapitän/Kommandeur/Führer/Leiter/Boss von Fahrzeug/Domäne
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Kapitän
+  es:
+    place structure: x1 es capitán/comandante/líder/a cargo de vehículo/dominio x2
+    notes:
+    - Ver también te {bende},  {minde},  {ralju}.
+    glosses:
+    - capitán
+  ru:
+    place structure: x1 — капитан/командир/лидер/ответственный/начальник/руководитель
+      x2 (чего)
+    notes:
+    - '{jitro} (контролировать), {lidne} (предшествовать), {te} {bende} (команда),
+      {minde} (командовать), {ralju} (главный), {gidva} (вести [направлять/быть лидером]),
+      {bloti} (корабль)'
+    glosses:
+    - лидер
+  en-simple:
+    place structure: x1 is a commander or leader of x2
+    notes:
+    - No notes.
+    glosses:
+    - a commander
+    - x2=something commanded
+  eo:
+    place structure: x1 estas kapitano/komandanto/estro/ĉefo/mastro de veturilo/regno
+      x2
+    notes:
+    - Vidu ankaŭ {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}.
+    glosses:
+    - kapitano
+  hu:
+    place structure: x1 a kapitány/parancsnok/főnök x2 járművön/tárgykörben
+    notes:
+    - '(Lásd még: {jitro}, {lidne}, {bende}, {minde}, {ralju}, {gidva}, {bloti})'
+    glosses:
+    - kapitány
+  ja:
+    place structure: x1 は x2 （活動領域／権限範疇）における指揮者／指導者／首領／長／リーダー／キャプテン
+    notes:
+    - x2 は指揮対象も。 ・大意： 指揮者 ・読み方： ジャトナ  ・語呂合わせ： 長じゃとな！？ ・関連語： {jitro}, {lidne}, {te}
+      {bende}, {minde}, {ralju}, {gidva}, {bloti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en befäl(havare)/kapten/ledare/har befälet/bossen för fordon/område
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - befälhavare (ledare för område/fordon)
+  zh:
+    place structure: x1是领域x2的带头人/领导者/负责人
+    notes:
+    - 参见 {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}.
+    glosses:
+    - No glosses.

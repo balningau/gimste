@@ -1,6 +1,72 @@
-Word: kavbu
-Rafsi: kav
-Definition: x1 captures/catches/apprehends/seizes/nabs x2 with trap/restraint x3.
-Notes: Catch something thrown (= {rerkavbu}).  See also {jersi}, {kalte}, {pinfu},
-  {sisku}, se {rinju}.
-Examples: None
+word: kavbu
+rafsi:
+- kav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 captures/catches/apprehends/seizes/nabs x2 with trap/restraint
+      x3.
+    notes:
+    - Catch something thrown (= {rerkavbu}).  See also {jersi}, {kalte}, {pinfu},
+      {sisku}, se {rinju}.
+    glosses:
+    - capture
+    - catch (seize an object)
+    - x1=catcher (that which catches)
+  de:
+    place structure: x1 fängt/ergreift/schnappt/erwischt x2/nimmt x2 fest mit Falle/Mittel
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - fangen
+  es:
+    place structure: x1 captura/ataja/aprehende x2 con instrumento/trampa x3
+    notes:
+    - No notes.
+    glosses:
+    - capturar
+  ru:
+    place structure: x1 ловит/захватывает/задерживает x2 ловушкой/орудием x3
+    notes:
+    - 'Ловить на лету: {rerkavbu} {jersi} (преследовать), {kalte} (охотиться), {pinfu}
+      (пленник), {sisku} (искать), {se} {rinju} (удерживаться [от чего-либо])'
+    glosses:
+    - ловить
+    - x2=ловимый
+    - x3=ловушка (орудие)
+  en-simple:
+    place structure: x1 captures x2 with trap x3
+    notes:
+    - No notes.
+    glosses:
+    - a capturer
+    - x2=something captured
+    - x3=a trap used for capture
+  eo:
+    place structure: x1 kaptas x2-on per kaptilo/detenilo x3
+    notes:
+    - Kapti ion ĵetitan (= {rerkavbu}).  Vidu ankaŭ {jersi}, {kalte}, {pinfu}, {sisku},
+      se {rinju}.
+    glosses:
+    - kapti
+  hu:
+    place structure: x1 elfogja/elkapja/csapdába ejti x2-t x3 csapdával/eszközzel
+    notes:
+    - '(Lásd még: {jersi}, {kalte}, {pinfu}, {sisku}, {rinju})'
+    glosses:
+    - elfog
+  ja:
+    place structure: x1 は x2 を x3 （罠／拘束力）で捕らえる／捕獲／捕捉／逮捕する
+    notes:
+    - 「ボール（ x2 ）をキャッチする」も。 ・大意： 捕らえる ・読み方： カヴブ  ・関連語： {jersi}, {kalte}, {pinfu}, {sisku},
+      {se} {rinju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1捕获/抓取/抓捕x2，使用陷阱/圈套x3
+    notes:
+    - 抛接= {rerkavbu}；参见 {jersi}, {kalte}, {pinfu}, {sisku}, se {rinju}.
+    glosses:
+    - No glosses.

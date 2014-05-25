@@ -1,6 +1,72 @@
-Word: gasta
-Rafsi: gat
-Definition: x1 is a quantity of/is made of/contains steel of composition including
-  x2.
-Notes: See also {jinme}, {molki}, {tirse}.
-Examples: None
+word: gasta
+rafsi:
+- gat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/is made of/contains steel of composition
+      including x2.
+    notes:
+    - See also {jinme}, {molki}, {tirse}.
+    glosses:
+    - steel
+  de:
+    place structure: x1 ist eine gewisse Menge/besteht aus/enthält Stahl von Zusammensetzung
+      unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Stahl
+  es:
+    place structure: x1 es una cantidad de acero de composición x2
+    notes:
+    - No notes.
+    glosses:
+    - acero
+  ru:
+    place structure: x1 — сталь, в состав которой входит x2; x1 содержит сталь
+    notes:
+    - '{jinme} (металл), {molki} (мельница), {tirse} (железо)'
+    glosses:
+    - x1=сталь
+  en-simple:
+    place structure: x1 is a quantity of steel of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of steel
+    - x2=a composition of steel
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el ŝtalo de konsisto enhavanta
+      x2-on
+    notes:
+    - Vidu ankaŭ {jinme}, {molki}, {tirse}.
+    glosses:
+    - ŝtalo
+  hu:
+    place structure: x1 bizonyos mennyiségű acél (-t tartalmaz/-ból készült) x2 összetétellel
+    notes:
+    - '(Lásd még: {jinme}, {molki}, {tirse})'
+    glosses:
+    - acél
+  ja:
+    place structure: x1 は x2 （成分）の鋼鉄／はがね
+    notes:
+    - ・大意： 鋼鉄 ・読み方： ガスタ ・関連語： {jinme}, {molki}, {tirse}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är gjord av/innehåller/är en kvantitet av stål av sammansättning
+      inklusive x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=stål
+    - x2=stålsort (stålsammansättning)
+  zh:
+    place structure: x1是钢/钢制品，含有材料x2
+    notes:
+    - 参见 {jinme}, {molki}, {tirse}.
+    glosses:
+    - No glosses.

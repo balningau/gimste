@@ -1,5 +1,71 @@
-Word: cipni
-Rafsi: cpi
-Definition: x1 is a bird/avian/fowl of species x2.
-Notes: See also {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
-Examples: None
+word: cipni
+rafsi:
+- cpi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bird/avian/fowl of species x2.
+    notes:
+    - See also {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
+    glosses:
+    - bird
+  de:
+    place structure: x1 ist ein Vogel/Geflügel der Art x2.
+    notes:
+    - Siehe auch {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
+    glosses:
+    - Vogel
+  es:
+    place structure: x1 es un pájaro/ave de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - pájaro
+  ru:
+    place structure: x1 — птица вида x2
+    notes:
+    - '{datka} (утка), {gunse} (гусь), {jipci} (курица), {nalci} (крыло), {pimlu}
+      (перо), {vofli} (лететь), {xruki} (индейка), {danlu} (животное)'
+    glosses:
+    - x1=птица
+  en-simple:
+    place structure: x1 is a bird of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a bird
+    - x2=a species of bird
+  eo:
+    place structure: x1 estas birdo de speco x2
+    notes:
+    - Vidu ankaŭ {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
+    glosses:
+    - birdo
+  hu:
+    place structure: x1 egy madár [Ave osztály] az x2 fajból
+    notes:
+    - '(Lásd még: {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu})'
+    glosses:
+    - madár
+  ja:
+    place structure: x1 は x2 （種類）のトリ綱（ダチョウ／キジ／カモ／カッコウ／オウム／ツバメ／フクロウ／ハト／ツル／コウノトリ／ペリカン／フラミンゴ／ペンギン…目）
+    notes:
+    - ・大意： 鳥 ・読み方： シプニ  ・語呂合わせ： shipに鳥 ・関連語： {datka} (下位概念) < {gunse} (下位概念), {jipci}
+      (下位概念), {xruki} (下位概念), {nalci} (翼), {pimlu} (羽毛), {danlu} (動物；上位概念), {vofli}
+      (飛ぶ)
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en fågel/fjäderfä av art/sort x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=fågel
+    - x2=fågelsort
+  zh:
+    place structure: x1是鸟/禽，属于品种/种类x2
+    notes:
+    - 参见 {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
+    glosses:
+    - No glosses.

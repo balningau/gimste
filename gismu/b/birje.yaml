@@ -1,5 +1,78 @@
-Word: birje
-Rafsi: ''
-Definition: x1 is made of/contains/is a amount of beer/ale/brew brewed from x2.
-Notes: See also {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
-Examples: None
+word: birje
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a amount of beer/ale/brew brewed from
+      x2.
+    notes:
+    - See also {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+    glosses:
+    - beer
+  de:
+    place structure: x1 besteht aus/enthält/ist eine Menge Bier/ein Gebräu gebräut
+      aus x2.
+    notes:
+    - Siehe auch {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+    glosses:
+    - Bier
+  es:
+    place structure: x1 es una cantidad de cerveza de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - cerveza
+  ru:
+    place structure: x1 — пиво/брага, сваренное из x2
+    notes:
+    - '{pinxe} (пить), {barja} (бар), {jikru} (крепкий спиртной напиток), {vanju}
+      (вино), {xalka} (алкоголь), {fusra} (гнить)'
+    glosses:
+    - пиво
+  en-simple:
+    place structure: x1 is made of or contains beer or ale brewed from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of beer
+    - x2=something beer is brewed from
+  eo:
+    place structure: x1 konsistas el/enhavas/estas kvanto da biero/elo farita el x2
+    notes:
+    - Vidu ankaŭ {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+    glosses:
+    - biero
+  hu:
+    place structure: x1 bizonyos mennyiségű sör (-t tartalmaz), x2-ből főzve
+    notes:
+    - '(Lásd még: {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra})'
+    glosses:
+    - sör
+  ja:
+    place structure: x1 は x2 （起源）の発泡酒／ビール／エール
+    notes:
+    - ・大意： 発泡酒 ・読み方： ビルジェ  ・語呂合わせ：  biiru ・関連語： {pinxe}, {barja}, {jikru}, {vanju},
+      {xalka}, {fusra}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er laget av/inneholder/er en mengde øl brygget av x2
+    notes:
+    - Se også {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+    glosses:
+    - øl
+  sv:
+    place structure: x1 är öl bryggd på x2
+    notes:
+    - Se även {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+    glosses:
+    - x1=öl
+    - x2=ölingredienser
+  zh:
+    place structure: x1是啤酒，由酿造x2得来
+    notes:
+    - 参见 {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+    glosses:
+    - No glosses.

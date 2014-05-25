@@ -1,5 +1,79 @@
-Word: jaspu
-Rafsi: jap
-Definition: x1 is a passport issued to x2 (person) by authority x3 allowing x4 (activity).
-Notes: See also {pikta}, {catni}, {curmi}.
-Examples: None
+word: jaspu
+rafsi:
+- jap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a passport issued to x2 (person) by authority x3 allowing
+      x4 (activity).
+    notes:
+    - See also {pikta}, {catni}, {curmi}.
+    glosses:
+    - account (registry to a service)
+    - passport
+    - permit (artifact or document rendering something allowed or legal)
+  de:
+    place structure: x1 ist ein Pass/Ausweis ausgestellt an x2 (Person) durch Behörde
+      x3 und erlaubt x4 (Aktivität)
+    notes:
+    - No notes.
+    glosses:
+    - Pass
+  es:
+    place structure: x1 es un pasaporte expedido a x2 por autoridad x3 que le permite
+      hacer x4
+    notes:
+    - Ver también {pikta}.
+    glosses:
+    - pasaporte
+  ru:
+    place structure: x1 — паспорт/лицензия, выданный x2 (кому) органом власти x3,
+      разрешающий x4 (деятельность)
+    notes:
+    - '{pikta} (билет), {catni} (чиновник), {curmi} (разрешать [позволять])'
+    glosses:
+    - паспорт
+  en-simple:
+    place structure: x1 is a passport issued to x2 by x3 allowing x4
+    notes:
+    - No notes.
+    glosses:
+    - a passport
+    - x2=something with a passport
+    - x3=a passport issuer
+    - x4=an activity allowed by a passport
+  eo:
+    place structure: x1 estas pasporto liverita al x2 (homo) fare de aŭtoritato x3
+      rajtiganta x4-on (ago)
+    notes:
+    - Vidu ankaŭ {pikta}, {catni}, {curmi}.
+    glosses:
+    - pasporto
+  hu:
+    place structure: x1 egy útlevél x2 nevén, x3 hatóság által kiállítva, amely x4
+      tevékenységre jogosít fel
+    notes:
+    - '(Lásd még: {pikta}, {catni}, {curmi})'
+    glosses:
+    - útlevél
+  ja:
+    place structure: x1 は x2 （者）の、 x3 （権限）によって x4 （行動）を認可された旅券／パスポート
+    notes:
+    - ・大意： 旅券 ・読み方： ジャスプ  ・関連語： {pikta} (上位概念), {catni}, {curmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett pass/tillstånd utfärdad till x2 (person) av auktoritet
+      x3 vilket ger tillåtelse till x4 (activity).
+    notes:
+    - No notes.
+    glosses:
+    - pass (tillstånd)
+    - tillstånd (fr auktoritet)
+  zh:
+    place structure: x1是发给x2的护照/通行证，颁发者/机构为x3，准许持有人进行活动x4
+    notes:
+    - 参见 {pikta}, {catni}, {curmi}.
+    glosses:
+    - No glosses.

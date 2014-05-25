@@ -1,8 +1,94 @@
-Word: dekto
-Rafsi: dek
-Definition: x1 is ten [10; $10^1$] of x2 in dimension/aspect x3 (default is units).
-Notes: See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
-  {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro},
-  {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
-  {xecto}, {xexso}, {zepti}, {zetro}
-Examples: None
+word: dekto
+rafsi:
+- dek
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is ten [10; $10^1$] of x2 in dimension/aspect x3 (default
+      is units).
+    notes:
+    - See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro}
+    glosses:
+    - No glosses.
+  de:
+    place structure: 'x1 ist zehn [10; $1×10^1$] x2 in Dimension/Aspekt x3 (Default:
+      Einheiten)'
+    notes:
+    - No notes.
+    glosses:
+    - '10'
+  es:
+    place structure: x1 es una decena (1E1) de x2 en dimensión/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - deca
+  ru:
+    place structure: x1 составляет десять (10) раз/крат x2 (чего) в аспекте/измерении
+      x3 (по умолчанию, единицы)
+    notes:
+    - '{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno}
+      (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин),
+      {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi}
+      (санти), {decti} (десятый [доля 1/10]), {femti} (фемто), {gigdo} (гига), {gocti}
+      (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri} (микро), {milti}
+      (милли), {nanvi} (нано), {petso} (пета), {picti} (пико), {terto} (тера), {xatsi}
+      (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is ten of x2 in dimension or aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - tens
+    - x2=something measured in tens
+    - x3=an aspect of tens
+  eo:
+    place structure: x1 estas deko [10; 1 10  1] da x2 laŭ dimensio/aspekto x3 (defaŭlte
+      unuoj)
+    notes:
+    - (kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, decti, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi,petso,picti,
+      terto, xatsi, xecto, xexso, zepti, zetro)
+    glosses:
+    - 10 deka-
+  hu:
+    place structure: x1 a tízszerese x2-nek x3 méretében/szempontból
+    notes:
+    - '(Lásd még: {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - deka-
+  ja:
+    place structure: x1 は x2 ・ x3 （性質）の［10; 1*10**1］
+    notes:
+    - ・大意： デカ／十 ・読み方： デクト  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro},
+      {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är tio [$10^{1}$] av x2 i dimension/aspekt x3 (enheter om
+      inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - deka- (SI-prefix)
+    - tio
+  zh:
+    place structure: x1是十个/份[10; $1*10^1$]x2，在x3方面（默认为计量单位）
+    notes:
+    - 参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu},
+      {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}
+    glosses:
+    - No glosses.

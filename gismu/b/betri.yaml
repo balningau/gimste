@@ -1,5 +1,87 @@
-Word: betri
-Rafsi: bet
-Definition: x1 is a tragedy/disaster/tragic for x2.
-Notes: See also {badri}, {xlali}, {morsi}, {binra}.
-Examples: None
+word: betri
+rafsi:
+- bet
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tragedy/disaster/tragic for x2.
+    notes:
+    - See also {badri}, {xlali}, {morsi}, {binra}.
+    glosses:
+    - tragedy
+  de:
+    place structure: x1 ist eine Tragödie/Katastrophe/ein schlimmes Ereignis für x2
+    notes:
+    - No notes.
+    glosses:
+    - Tragödie
+  es:
+    place structure: x1 (evento) es una tragedia/desastre/trágico para x2
+    notes:
+    - No notes.
+    glosses:
+    - tragedia
+  fr:
+    place structure: x1 est un tragédie/un désastre/une catastrophe/tragique pour
+      x2.
+    notes:
+    - Voir également {badri}, {xlali}, {morsi}, {binra}.
+    glosses:
+    - catastrophe
+    - désastre
+    - tragédie (événement)
+  ru:
+    place structure: x1 (событие) есть беда/несчастье/трагедия для x2
+    notes:
+    - '{badri} (грустный), {xlali} (плохой), {morsi} (мертвый), {binra} (страховать)'
+    glosses:
+    - беда
+  en-simple:
+    place structure: x1 is a tragedy for x2
+    notes:
+    - No notes.
+    glosses:
+    - a tragedy
+    - x2=a sufferer of a tragedy
+  eo:
+    place structure: x1 estas tragedia/katastrofa/ruiniga por x2
+    notes:
+    - Vidu ankaŭ {badri}, {xlali}, {morsi}, {binra}.
+    glosses:
+    - tragedia
+  hu:
+    place structure: x1 egy szerencsétlenség/tragédia/katasztrófa x2 számára
+    notes:
+    - '(Lásd még: {badri}, {xlali}, {morsi}, {binra})'
+    glosses:
+    - szerencsétlenség
+  ja:
+    place structure: x1 は x2 にとって悲劇／災難／惨事
+    notes:
+    - ・大意： 悲劇 ・読み方： ベトリ  ・語呂合わせ： ＜別の離反＞, bei(悲), tragic  ・関連語： {badri}, {xlali}, {morsi},
+      {binra}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en tragedie/katastrofe/er tragisk for x2
+    notes:
+    - Se også {badri}, {xlali}, {morsi}, {binra}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är tragiskt/en katastrof/tragedi/tragik för x2.
+    notes:
+    - Se även {badri}, {xlali}, {morsi}, {binra}.
+    glosses:
+    - katastrof (tragedi)
+    - tragik
+    - tragisk
+    - x1=tragedi
+    - x2=finner tragisk
+  zh:
+    place structure: x1是悲剧/灾难/悲剧性的，对于x2来说
+    notes:
+    - 参见 {badri}, {xlali}, {morsi}, {binra}
+    glosses:
+    - No glosses.

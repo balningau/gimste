@@ -1,7 +1,72 @@
-Word: zalvi
-Rafsi: zal
-Definition: x1 [individual or mass of hard surfaces] grinds/pulverizes/crushes x2
-  into powder x3.
-Notes: May need mosra tanru.  See also {daspo}, {purmo}, {marxa}, {pulce}, {canre},
-  {molki}.
-Examples: None
+word: zalvi
+rafsi:
+- zal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [individual or mass of hard surfaces] grinds/pulverizes/crushes
+      x2 into powder x3.
+    notes:
+    - May need mosra tanru.  See also {daspo}, {purmo}, {marxa}, {pulce}, {canre},
+      {molki}.
+    glosses:
+    - grind
+  de:
+    place structure: x1 [einzelne oder Masse an harten Oberflächen] zermahlt/zerreibt/pulverisiert/zerdrückt
+      x2 und erzeugt Pulver x3
+    notes:
+    - No notes.
+    glosses:
+    - zermahlen
+  es:
+    place structure: x1 muele/pulveriza x2 en polvo x3
+    notes:
+    - No notes.
+    glosses:
+    - moler
+  ru:
+    place structure: x1 размалывает/дробит/крошит/растирает x2 в порошок x3
+    notes:
+    - Можно также образовать tanru с {mosra} {daspo} (разрушать), {purmo} (порошок),
+      {marxa} (мять), {pulce} (пыль), {canre} (песок), {molki} (мельница)
+    glosses:
+    - дробить
+    - x1=дробящий
+    - x2=растираемое
+    - x3=порошок, в который растирают
+  en-simple:
+    place structure: x1 grinds x2 into powder x3
+    notes:
+    - No notes.
+    glosses:
+    - a grinder
+    - x2=something ground
+    - x3=a powder produced by griding
+  eo:
+    place structure: x1 [individua aŭ aro da malmolaj surfacoj] pistas/pulvorigas
+      x2-on en pulvoron x3
+    notes:
+    - Povas bezoni tanru-on kun mosra.  Vidu ankaŭ {daspo}, {purmo}, {marxa}, {pulce},
+      {canre}, {molki}.
+    glosses:
+    - pisti
+  hu:
+    place structure: x1 felület(ek) felőrli/ledarálja x2-t x3 porrá
+    notes:
+    - '(Lásd még: {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki})'
+    glosses:
+    - őröl
+  ja:
+    place structure: x1 （表面／道具）は x2 を挽いて／すり潰して x3 （粉）にする
+    notes:
+    - 「mosra」との組み合わせも。 ・大意： 挽く（ひく） ・読み方： ザルゥヴィ ・関連語： {daspo}, {purmo}, {marxa}, {pulce},
+      {canre}, {molki}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（个体/团体的硬表面）将x2研磨/磨成粉末x3
+    notes:
+    - 可能需要{mosra}构成 tanru；参见 {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki}.
+    glosses:
+    - No glosses.

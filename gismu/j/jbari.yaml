@@ -1,5 +1,74 @@
-Word: jbari
-Rafsi: jba
-Definition: x1 is a berry (fruit/plant) of plant/species x2.
-Notes: See also {grute}, {tsiju}, {narge}.
-Examples: None
+word: jbari
+rafsi:
+- jba
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a berry (fruit/plant) of plant/species x2.
+    notes:
+    - See also {grute}, {tsiju}, {narge}.
+    glosses:
+    - berry
+  de:
+    place structure: x1 ist eine Beere (Frucht/Pflanze) von Pflanze/Art x2
+    notes:
+    - No notes.
+    glosses:
+    - Beere
+  es:
+    place structure: x1 es una baya/frutilla/mora/granada/grosella (fruta) de especie/variedad
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - baya
+  ru:
+    place structure: x1 — ягода (плод/фрукт/растение) растения/вида x2
+    notes:
+    - '{grute} (плод [фрукт]), {tsiju} (семя [зерно]), {narge} (орех [плод]), {grute}
+      (плод [фрукт])'
+    glosses:
+    - x1=ягода
+    - x2=вид ягоды
+  en-simple:
+    place structure: x1 is a berry of plant x2
+    notes:
+    - No notes.
+    glosses:
+    - a berry
+    - x2=a species of berry
+  eo:
+    place structure: x1 estas bero (frukto/planto) de planto/speco x2
+    notes:
+    - Vidu ankaŭ {grute}, {tsiju}, {narge}, {grute}.
+    glosses:
+    - bero
+  hu:
+    place structure: x1 egy bogyó (termés/növény) az x2 növényről/fajból/fajtából
+    notes:
+    - '(Lásd még: {grute}, {tsiju}, {narge}, {grute})'
+    glosses:
+    - bogyó
+  ja:
+    place structure: x1 は x2 （種類）の食用小果実／ベリー
+    notes:
+    - ・大意： 食用小果実 ・読み方： ジバリ  ・関連語： {grute}, {tsiju}, {narge}, {grute}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett bär (frukt/växt) av växt/art x2.
+    notes:
+    - "Bär är i botanisk mening mångfröiga äkta frukter inom \tundergruppen saftiga\
+      \ frukter. I dagligt tal ges ordet \"bär\" normalt en betydelse som samlar allehanda\
+      \ små ätbara växtdelar, även om de botaniskt sett inte är bär."
+    - Se även {grute}.
+    glosses:
+    - x1=bär (frukt)
+    - x2=bärsort
+  zh:
+    place structure: x1是浆果（植物/果实），属于品种/种类x2；如葡萄，西红柿
+    notes:
+    - 参见 {grute}, {tsiju}, {narge}.
+    glosses:
+    - No glosses.

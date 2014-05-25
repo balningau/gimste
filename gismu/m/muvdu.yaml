@@ -1,14 +1,106 @@
-Word: muvdu
-Rafsi: muv, mu'u
-Definition: x1 (object) moves to destination/receiver x2 [away] from origin x3 over
-  path/route x4.
-Notes: Also mobile (= {comymu'u}, for the non-specific opposite of immobile); after
-  a muvdu, object is alienated from/no longer at origin (unless physically returned
-  there, per litru or slilu); agentive move (= {muvgau}, {muvzu'e}), non-agentive
-  transitive move (= {muvri'a}), self-propelled (= {sezmuvgau}), motion of a part
-  of the object (= {pagmu'u}), having a moving part (= {muvypau}, {muvyselpau}); apparent
-  motion (= {mlumu'u}).  (cf. {rinci}, {klama} (which differs in that the means of
-  motion is explicit), {litru}, {cliva}, {fatri}; {dunda}, {benji} for agentive movement
-  that does not necessarily imply alienation from origin, preja for similar movement
-  with no agent implied, {bevri}, {vimcu})
-Examples: None
+word: muvdu
+rafsi:
+- muv
+- mu'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object) moves to destination/receiver x2 [away] from origin
+      x3 over path/route x4.
+    notes:
+    - Also mobile (= {comymu'u}, for the non-specific opposite of immobile); after
+      a muvdu, object is alienated from/no longer at origin (unless physically returned
+      there, per litru or slilu); agentive move (= {muvgau}, {muvzu'e}), non-agentive
+      transitive move (= {muvri'a}), self-propelled (= {sezmuvgau}), motion of a part
+      of the object (= {pagmu'u}), having a moving part (= {muvypau}, {muvyselpau});
+      apparent motion (= {mlumu'u}).  (cf. {rinci}, {klama} (which differs in that
+      the means of motion is explicit), {litru}, {cliva}, {fatri}; {dunda}, {benji}
+      for agentive movement that does not necessarily imply alienation from origin,
+      preja for similar movement with no agent implied, {bevri}, {vimcu})
+    glosses:
+    - move (non-agentive)
+  jbo:
+    place structure: x1 cenba lo ka ce'u zvati makau kei fe'e co'u x2 fe'e co'a x3
+      fe'e ca'o x4
+    notes:
+    - No notes.
+    glosses:
+    - muvdu
+  de:
+    place structure: x1 (Objekt) bewegt sich zu Ziel/Empfänger x2, [weg] von Ursprung
+      x3 über Pfad/Route x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 se mueve hacia x2 desde x3 por camino/ruta x4
+    notes:
+    - Ver también {benji},  {klama}.
+    glosses:
+    - moverse
+  ru:
+    place structure: x1 (объект) движется/перемещается к x2 (куда) от x3 (откуда)
+      по маршруту x4
+    notes:
+    - 'Также: подвижный: {comymu''u}, как неспецифический антоним к «неподвижному»);
+      в случае [muvdu] объект отчуждается от/покидает источник/исходный пункт (если
+      только не возвращается обратно, как в случае {litru} или {slilu}); x1 заставляет
+      двигаться: {muvgau}, {muvzu''e}; x1 (сила) приводит в движение: {muvri''a};
+      x1 передвигается: {sezmuvgau}; движение части объекта: {pagmu''u}; имеющий движущиеся
+      части: {muvypau}, {muvyselpau}; кажущееся/видимое движение: {mlumu''u} {rinci}
+      (вытекать), {klama} (перемещаться) — явно указывает на средство передвижения,
+      {litru} (путешествовать), {cliva} (уходить), {fatri} (распределяться); {dunda}
+      (давать), {benji} (передавать [сигнал]) — деятельное перемещение, не подразумевающее
+      отчуждение от источника; {preja} (простираться [до чего-либо]) или аналогичное
+      движение в отсутствие деятеля, {bevri} (нести), {vimcu} (отнимать)'
+    glosses:
+    - двигаться
+    - x1=двигающийся
+  en-simple:
+    place structure: x1 moves to x2 from x3 over route x4
+    notes:
+    - No notes.
+    glosses:
+    - something moving
+    - x2=a destination of movement
+    - x3=an origin of movement
+    - x4=a route of movement
+  eo:
+    place structure: x1 (objekto) moviĝas al celita loko x2 [for] de deirpunkto x3
+      tra vojo x4
+    notes:
+    - 'Ankaŭ: mova (= {comymu''u}, por la nespecifa malo de {senmova}); post muvdu,
+      objekto forlasas/ne plu estas ĉe la deirpunkto (krom se fizike revenas tien,
+      kiel litru aŭ slilu); agenta movo (=muvgau, muvzu''e), ne-agenta transitiva
+      movo (= {muvri''a}), mem-pelita (= {sezmuvgau}), movo de parto de la objekto
+      (= {pagmu''u}), havi moveblan parton (= {muvypau}, {muvyselpau}); ŝajni moviĝi
+      (= {mlumu''u}).  (kp. rinci, klama (kiu diferencas je tio, ke la movrimedoj
+      estas eksplicitaj), litru, cliva, fatri; dunda, benji por agenta movo kiu ne
+      nepre implicas forproprigon de origino, preja por simila movo sen implica agento,
+      bevri, vimcu)'
+    glosses:
+    - moviĝi
+  hu:
+    place structure: x1 mozog x2-be x3-ból/felől, x4 út(vonal)on
+    notes:
+    - '(Lásd még: {rinci}, {klama}, {litru}, {cliva}, {fatri}, {dunda}, {benji}, {preja},
+      {bevri}, {vimcu})'
+    glosses:
+    - mozog
+  ja:
+    place structure: 物体x1が終着点/受け手x2に向かって起点/点x3から軌道/道筋x4を通って動く
+    notes:
+    - '参照: {rinci}, {benji}, {klama}, {litru}, {cliva}, {fatri}; {dunda}, {benji},
+      {preja}, {bevri}, {vimcu}'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体）移向目的地/接受者x2，来自原地x3，仅有路径/路线x4
+    notes:
+    - 也指：移动/运动（与不动相反的状态）= {comymu'u}；经过了{muvdu}的物体将不再处于原位（除非又回到原地）；（施事的）使……移动= {muvgau}/{muvzu'e}；（非施事的及物的）移动=
+      {muvri'a}；自行推动= {sezmuvgau}；运动对象的一部分={pagmu'u}；有移动的部分={muvypau}/{muvyselpau}；虚表运动/似动运动=
+      {mlumu'u}；参见 {rinci}, {klama}, {litru}, {cliva}, {fatri}; {dunda}, {benji}（施事的运动，但不必要暗示对来源的疏远）,
+      {preja}, {bevri}, {vimcu}
+    glosses:
+    - No glosses.

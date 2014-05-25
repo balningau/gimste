@@ -1,6 +1,80 @@
-Word: finpe
-Rafsi: fip, fi'e
-Definition: x1 is a fish of species x2 [metaphorical extension to sharks, non-fish
-  aquatic vertebrates].
-Notes: See also {danlu}.
-Examples: None
+word: finpe
+rafsi:
+- fip
+- fi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fish of species x2 [metaphorical extension to sharks,
+      non-fish aquatic vertebrates].
+    notes:
+    - See also {danlu}.
+    glosses:
+    - fish (living being)
+  de:
+    place structure: x1 ist ein Fisch der Art x2 [auch Haie, andere Wirbeltiere im
+      Wasser].
+    notes:
+    - Siehe auch {danlu}.
+    glosses:
+    - Fisch
+  es:
+    place structure: x1 es un pez de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - pez
+  ru:
+    place structure: x1 — рыба вида x2
+    notes:
+    - Метафорически распространяется на акул, не-рыбных водных позвоночных {danlu}
+      (животное)
+    glosses:
+    - x1=рыба
+  en-simple:
+    place structure: x1 is a fish of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a fish
+    - x2=a species of fish
+  eo:
+    place structure: x1 estas fiŝo de speco x2 [metafora etendo al ŝarkoj, nefiŝaj
+      akvaj vertebruloj]
+    notes:
+    - Vidu ankaŭ {danlu}.
+    glosses:
+    - fiŝo
+  hu:
+    place structure: x1 egy hal [a Vertebrata ] az x2 fajból
+    notes:
+    - '(Lásd még: {danlu})'
+    glosses:
+    - hal
+  ja:
+    place structure: x1は種類x2の魚である
+    notes:
+    - '参照: {danlu}.'
+    glosses:
+    - 魚
+  ko:
+    place structure: x1은 x2 종의 물고기이다.
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en fisk av art x2.
+    notes:
+    - pisces på latin är en biologiskt orankad grupp;  skulle kunna användas som lujvo-slutled
+      till arter i grupperna Cephalochordata (lansettfiskar), Agnatha (käklösa fiskar),
+      Chondrichthyes (broskfiskar; bl.a. hajar och rockor) och Osteichthyes (benfiskar).
+    glosses:
+    - x1=fisk
+    - x2=fiskart
+  zh:
+    place structure: x1是鱼类，属于品种/种类x2；可借指像鱼类的水生动物，如：鲸
+    notes:
+    - 参见 {danlu}.
+    glosses:
+    - No glosses.

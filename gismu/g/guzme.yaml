@@ -1,5 +1,64 @@
-Word: guzme
-Rafsi: guz, zme
-Definition: x1 is a melon/squash [fruit/plant] of species/strain x2.
-Notes: See also {grute}.
-Examples: None
+word: guzme
+rafsi:
+- guz
+- zme
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a melon/squash [fruit/plant] of species/strain x2.
+    notes:
+    - See also {grute}.
+    glosses:
+    - melon
+  de:
+    place structure: x1 ist eine Melone/ein Kürbis [Frucht/Pflanze] von Art/Gattung/Sorte
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Melone
+  es:
+    place structure: x1 es un melón/sandía (fruta) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - melón
+  ru:
+    place structure: x1 — дыня/арбуз/тыква/кабачок (фрукт/овощ/растение) вида/сорта
+      x2
+    notes:
+    - '{grute} (плод [фрукт])'
+    glosses:
+    - дыня
+  en-simple:
+    place structure: x1 is a melon of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a melon
+    - x2=a species of melon
+  eo:
+    place structure: x1 estas melono/melopepo [frukto/planto] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {grute}.
+    glosses:
+    - melono
+  hu:
+    place structure: x1 egy dinnye/tök [Cucurbitaceae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute})'
+    glosses:
+    - dinnye
+  ja:
+    place structure: x1 は x2 （種類）のウリ科植物（カボチャ／メロン／ズッキーニ等）
+    notes:
+    - ・大意： メロン ・読み方： グズメ  ・語呂合わせ： グズグズメロン ・関連語： {grute}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是南瓜属植物/果实，属于品种/种类x2；如南瓜，甜瓜
+    notes:
+    - 参见 {grute}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,82 @@
-Word: gacri
-Rafsi: gai
-Definition: x1 is a cover/[lid/top] for covering/concealing/sheltering x2.
-Notes: See also {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}.
-Examples: None
+word: gacri
+rafsi:
+- gai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cover/[lid/top] for covering/concealing/sheltering x2.
+    notes:
+    - See also {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}.
+    glosses:
+    - cover
+  jbo:
+    place structure: x1 pagbu je bartu je marbi x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Bedeckung/ein Deckel/eine Abdeckung/ein Bezug und
+      bedeckt/schützt/verbirgt x2
+    notes:
+    - No notes.
+    glosses:
+    - Bedeckung
+  es:
+    place structure: x1 cubre/protege/esconde/tapa a x2
+    notes:
+    - No notes.
+    glosses:
+    - cubrir
+  ru:
+    place structure: x1 покрывает/накрывает/закрывает x2
+    notes:
+    - 'Также: крышка, покрывало, чехол, футляр {pilka} (кожура), {gapru} (над), {marbi}
+      (убежище), {drudi} (крыша), {ve} {botpi} (бутылка), {bitmu} (стена), {calku}
+      (панцирь)'
+    glosses:
+    - покрывать
+    - x1=покрывающий
+    - x2=покрытый
+  en-simple:
+    place structure: x1 is a lid for covering x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  eo:
+    place structure: x1 estas kovrilo/[supro] por kovri/kaŝi/ŝirmi/ŝtopi x2-on
+    notes:
+    - Vidu ankaŭ {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}.
+    glosses:
+    - kovrilo
+  hu:
+    place structure: x1 egy takaró/huzat/fedő/kupak/fedél x2 takarására/elrejtésére/védelmére
+    notes:
+    - '(Lásd még: {pilka}, {gapru}, {marbi}, {drudi}, {botpi}, {bitmu}, {calku})'
+    glosses:
+    - fedő
+  ja:
+    place structure: x1 は x2 の覆い／蓋／カバー；  x1 は x2 に被さっている
+    notes:
+    - 「仮面」なども。 ・大意： 覆い ・読み方： ガシリ  ・語呂合わせ： がっしり覆う ・関連語： {pilka}, {gapru}, {marbi},
+      {drudi}, {ve} {botpi}, {bitmu}, {calku}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett skydd/(hölje)/(omslag)/(lock) för att skydda/dölja/ge
+      skydd åt x2.
+    notes:
+    - No notes.
+    glosses:
+    - hölje (skydd åt)
+    - skydda (ge skydd åt (ej agent))
+    - x1=skydd (omslag/hölje/skydd åt)
+    - x2=skyddad (av omslag/hölje/skydd osv.)
+  zh:
+    place structure: x1是用于遮蔽/保护x2的覆盖物/顶盖
+    notes:
+    - 参见 {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}.
+    glosses:
+    - No glosses.

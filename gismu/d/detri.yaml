@@ -1,8 +1,85 @@
-Word: detri
-Rafsi: det
-Definition: x1 is the date [day,{week},{month},year] of event/state x2, at location
-  x3, by calendar x4.
-Notes: (time units in $x_1$ are specified as numbers separated by pi'e or are unit
-  values massified with joi); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti},
-  {nanca}, {tcika}.
-Examples: None
+word: detri
+rafsi:
+- det
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the date [day,{week},{month},year] of event/state x2, at
+      location x3, by calendar x4.
+    notes:
+    - (time units in x1 are specified as numbers separated by pi'e or are unit values
+      massified with joi); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti},
+      {nanca}, {tcika}.
+    glosses:
+    - date
+  de:
+    place structure: x1 ist das Datum [Tag,{Woche},{Monat},Jahr] von Ereignis/Zustand
+      x2 in Ort x3 gemäß Kalender x4
+    notes:
+    - No notes.
+    glosses:
+    - Datum
+  es:
+    place structure: x1 es la fecha (día,{semana},{mes},año) de evento/estado x2,
+      en localidad x3, por calendario x4
+    notes:
+    - No notes.
+    glosses:
+    - fecha
+  ru:
+    place structure: x1 — дата (день, {неделя,} {месяц,} год) события/состояния x2,
+      в x3 (место), по календарю x4
+    notes:
+    - Единицы времени в x1 указываются как числа с разделителем {pi'e} или же описываются
+      явно, с указанием единиц измерения, и объединяются/складываются с помощью {joi}
+      {de'i}, {djedi} (сутки), {jeftu} (неделя), {masti} (месяц [промежуток времени]),
+      {nanca} (год), {tcika} (время [события])
+    glosses:
+    - дата
+  en-simple:
+    place structure: x1 is the date of event x2 at location x3 by calendar x4
+    notes:
+    - No notes.
+    glosses:
+    - a date
+    - x2=an event with a date
+    - x3=a location of a date
+    - x4=a calendar of a date
+  eo:
+    place structure: x1 estas la dato [tago,{semajno},{monato},jaro] de okazo/stato
+      x2, en loko x3, laŭ kalendaro x4
+    notes:
+    - (tempunuojn en x1 oni specifas kiel nombroj apartigitaj per pi'e); Vidu ankaŭ
+      cmavo {de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}.
+    glosses:
+    - dato
+  hu:
+    place structure: x1 a dátuma x2 eseménynek, x3 helyen, x4 naptár szerint
+    notes:
+    - 'x1 kifejezhető a pi’e {cmavo}-val elválasztott értékekkel (Lásd még: {djedi},
+      {jeftu}, {masti}, {nanca}, {tcika})'
+    glosses:
+    - dátum
+  ja:
+    place structure: x1 （数）は x2 （事）・ x3 （所）・ x4 （暦）の日付
+    notes:
+    - ・大意： 日付 ・読み方： デトリ  ・語呂合わせ： デート ・関連語： {de'i}, {djedi}, {jeftu}, {masti}, {nanca},
+      {tcika}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är datumet [dag, vecka, månad, år] för händelse/tillstånd
+      x2, på plats x3, enligt kalender x4.
+    notes:
+    - (tidsenheter i x1 är specificerade som nummer separerade med pi'e eller är enhetsvärden
+      som har gjorts om till massa med joi); Se även {de'i}, {djedi}, {jeftu}, {masti},
+      {nanca}, {tcika}.
+    glosses:
+    - datum
+  zh:
+    place structure: x1是事件/状态x2的时间（年月日），处于位置x3，基于历法x4
+    notes:
+    - x1位处用pi'e隔开用数字表示的时间单位，或用joi整体化单位值；参见：{de'i}, {djedi}, {jeftu}, {masti}, {nanca},
+      {tcika}.
+    glosses:
+    - No glosses.

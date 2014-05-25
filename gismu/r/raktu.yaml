@@ -1,8 +1,77 @@
-Word: raktu
-Rafsi: ra'u
-Definition: x1 (object/person/event/situation) troubles/disturbs x2 (person) causing
-  problem(s) x3.
-Notes: Also afflicts, is disruptive to, troublesome; $x_1$/$x_3$ are a care to $x_2$,
-  $x_2$ is troubled by/cares about $x_1$/$x_3$ (= {selra'u} for reordered places).  See
-  also {dicra}, {fanza}, {zunti}, {kurji}, {xanka}, {nabmi}.
-Examples: None
+word: raktu
+rafsi:
+- ra'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/person/event/situation) troubles/disturbs x2 (person)
+      causing problem(s) x3.
+    notes:
+    - Also afflicts, is disruptive to, troublesome; x1/x3 are a care to x2, x2 is
+      troubled by/cares about x1/x3 (= {selra'u} for reordered places).  See also
+      {dicra}, {fanza}, {zunti}, {kurji}, {xanka}, {nabmi}.
+    glosses:
+    - trouble
+  de:
+    place structure: x1 (Objekt/Person/Ereignis/Situation) stört/plagt/belästigt x2
+      (Person) und erzeugt Problem(e) x3
+    notes:
+    - No notes.
+    glosses:
+    - stören
+  es:
+    place structure: x1 aflige/perturba a x2 por propiedad/aspecto x3
+    notes:
+    - Ver también {dicra},  {fanza},  {zunti}.
+    glosses:
+    - afligir
+  ru:
+    place structure: x1 беспокоит/тревожит/затрудняет/заботит x2 (кого), вызывая проблемы/затруднения
+      x3
+    notes:
+    - 'Также: x1 мешает x2 (кому); x2 обеспокоен x1/x3: {selra''u} с переставленными
+      местами {dicra} (прерывать), {fanza} (раздражать [беспокоить]), {zunti} (мешать
+      [препятствовать]), {kurji} (заботиться), {xanka} (волноваться)'
+    glosses:
+    - беспокоить
+    - x1=беспокоящий
+    - x2=кого беспокоит
+  en-simple:
+    place structure: x1 disturbs person x2 causing problems x3
+    notes:
+    - No notes.
+    glosses:
+    - a disturber
+    - x2=something disturbed
+    - x3=a disturbance
+  eo:
+    place structure: x1 (objekto/homo/okazo/situacio) perturbas/maltrankviligas x2-on
+      (homo) kauzante problemon x3
+    notes:
+    - 'Ankaŭ: aflikti, ĝeni; x1/x3 estas zorgo por x2, x2 estas maltrankviligita de/zorgas
+      pri x1/x3 (= selra''u por reordigitaj {lokoj}).  Vidu ankaŭ {dicra}, {fanza},
+      {zunti}, {kurji}, {xanka}.'
+    glosses:
+    - perturbi
+  hu:
+    place structure: x1 tárgy/személy/esemény/helyzet zavaró/gondot okoz x2 számára,
+      x3 problémá(ka)t előidézve
+    notes:
+    - '(Lásd még: {dicra}, {fanza}, {zunti}, {kurji}, {xanka})'
+    glosses:
+    - zavar
+  ja:
+    place structure: x1 は x2 （者）にとって x3 （問題）を起こす厄介／迷惑／困難
+    notes:
+    - ・大意： 厄介 ・読み方： ラクトゥ  ・語呂合わせ： rau（擾）, trouble ・関連語： {dicra}, {fanza}, {zunti},
+      {kurji}, {xanka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人/事/物/情形）给x2带来麻烦/困扰，因为产生了困难/难题x3
+    notes:
+    - 也指：折磨/具有破坏性的/让人讨厌的；x1/x3是x2需要考虑的事/让x2感到困扰；参见 {dicra}, {fanza}, {zunti}, {kurji},
+      {xanka}, {nabmi}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,71 @@
-Word: terpa
-Rafsi: tep, te'a
-Definition: x1 fears x2; x1 is afraid/scared/frightened by/fearful of x2 (event/tu'a
-  object).
-Notes: 'Also: $x_1$ feels terror about $x_2$; $x_2$ is fearsome/fearful/frightening/scary
-  to $x_1$ (= {selte''a} to reorder places).  See also {snura}, {xalni}, {xanka},
-  {virnu}.'
-Examples: None
+word: terpa
+rafsi:
+- tep
+- te'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 fears x2; x1 is afraid/scared/frightened by/fearful of x2
+      (event/tu'a object).
+    notes:
+    - 'Also: x1 feels terror about x2; x2 is fearsome/fearful/frightening/scary to
+      x1 (= {selte''a} to reorder places).  See also {snura}, {xalni}, {xanka}, {virnu}.'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 fürchtet sich vor x2; x1 hat Angst/ist besorgt/erschrocken
+      vor/über x2 (Ereignis/tu'a Objekt)
+    notes:
+    - No notes.
+    glosses:
+    - fürchten
+  es:
+    place structure: x1 teme/tiene miedo/terror a/está asustado de x2
+    notes:
+    - Ver también {xanka}.
+    glosses:
+    - temer
+  ru:
+    place structure: x1 боится x2 (чего/кого); x1 испуган/испытывает страх перед x2
+      (событие/{tu'a} объект)
+    notes:
+    - 'Также: x1 в ужасе от x2; x2 страшен для/пугает/наводит страх на x1: {selte''a}
+      с переставленными местами) {snura} (защищенный [в безопасности]), {xalni} (паниковать),
+      {xanka} (волноваться), {virnu} (храбрый)'
+    glosses:
+    - бояться
+    - x1=боящийся
+    - x2=пугающий
+  en-simple:
+    place structure: x1 fears x2
+    notes:
+    - No notes.
+    glosses:
+    - something fearful
+    - x2=something causing fear
+  eo:
+    place structure: x1 timas x2-on (okazo/tu'a objekto)
+    notes:
+    - 'Ankaŭ: x1 sentas teruron pri x2; x2 estas timiga/teruriga al x1 (= selte''a
+      por reordigi {lokojn}).  Vidu ankaŭ {snura}, {xalni}, {xanka}, {virnu}.'
+    glosses:
+    - timi
+  hu:
+    place structure: x1 fél/retteg/rémült x2 eseménytől
+    notes:
+    - '(Lásd még: {snura}, {xalni}, {xanka}, {virnu})'
+    glosses:
+    - fél (félelmet érez)
+  ja:
+    place structure: x1 は x2 を恐れる／怖がる／に怯える；  x2 は x1 をぎょっとさせる／脅す
+    notes:
+    - ・大意： 恐怖 ・読み方： テルパ  ・関連語： {snura}, {xalni}, {xanka}, {virnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1害怕/恐惧/畏惧x2（事件/tu'a 物体）
+    notes:
+    - 也指：x1对x2感到恐惧；x2是可怕的/吓人的/让人畏惧的；参见 {snura}, {xalni}, {xanka}, {virnu}.
+    glosses:
+    - No glosses.

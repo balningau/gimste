@@ -1,5 +1,76 @@
-Word: dirce
-Rafsi: di'e
-Definition: x1 radiates/emits x2 under conditions x3.
-Notes: See also {gusni}.
-Examples: None
+word: dirce
+rafsi:
+- di'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 radiates/emits x2 under conditions x3.
+    notes:
+    - See also {gusni}.
+    glosses:
+    - radiate
+  de:
+    place structure: x1 strahlt x2 unter Umständen x3 aus
+    notes:
+    - No notes.
+    glosses:
+    - ausstrahlen
+  es:
+    place structure: x1 irradia/emite x2 bajo condiciones x3
+    notes:
+    - No notes.
+    glosses:
+    - irradiar
+  ru:
+    place structure: x1 излучает/испускает x2 в условиях x3
+    notes:
+    - '{gusni} (свет)'
+    glosses:
+    - x1=излучать
+  en-simple:
+    place structure: x1 radiates or emits x2
+    notes:
+    - No notes.
+    glosses:
+    - radiate
+    - x1=something radiating
+    - x2=something radiated
+    - x3=a condition for radiating
+  eo:
+    place structure: x1 radias/eligas x2-on sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {gusni}.
+    glosses:
+    - radii
+  hu:
+    place structure: x1 kibocsátja/sugározza x2-t x3 körülmények között
+    notes:
+    - '(Lásd még: {gusni})'
+    glosses:
+    - kibocsát
+  ja:
+    place structure: x1 は x2 を放射する
+    notes:
+    - ・大意： 放射 ・読み方： ディルシェ  ・関連語： {gusni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 strålar/utsänder/(avger energi)/(skiner)/utstrålar x2 under
+      villkor/omständigheter x3.
+    notes:
+    - No notes.
+    glosses:
+    - skina (emittera)
+    - stråla (emittera)
+    - utstråla (emittera)
+    - utsända (emittera)
+    - x1=strålningskälla
+    - x2=strålning
+    - x3=strålningsförutsättningar
+  zh:
+    place structure: x1辐射/放射/发射x2，在条件x3下
+    notes:
+    - 参见 {gusni}.
+    glosses:
+    - No glosses.

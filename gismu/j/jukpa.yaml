@@ -1,6 +1,72 @@
-Word: jukpa
-Rafsi: jup
-Definition: x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process).
-Notes: Cook with heat (= {glajukpa}, {glaterjukpa}), bake (= {tokyjukpa}); fry (=
-  {rasyjukpa}).  See also {cupra}, {bredi}.
-Examples: None
+word: jukpa
+rafsi:
+- jup
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process).
+    notes:
+    - Cook with heat (= {glajukpa}, {glaterjukpa}), bake (= {tokyjukpa}); fry (= {rasyjukpa}).  See
+      also {cupra}, {bredi}.
+    glosses:
+    - cook
+  de:
+    place structure: x1 kocht/gart/bereitet Essen x2 zu nach Rezept/Methode x3 (Prozess)
+    notes:
+    - No notes.
+    glosses:
+    - kochen
+  es:
+    place structure: x1 cocina/prepara comida/plato x2 según receta/método x3
+    notes:
+    - No notes.
+    glosses:
+    - cocinar
+  ru:
+    place structure: x1 стряпает/готовит пищу x2 по рецепту/методу x3 (процесс); x1
+      — повар/кок
+    notes:
+    - 'Тепловая обработка пищи: {glajukpa}, {glaterjukpa}; запекать/выпекать: {tokyjukpa};
+      жарить: {rasyjukpa} {cupra} (производить), {bredi} (готовый [к чему-либо])'
+    glosses:
+    - x1=готовить пищу
+    - x2=приготавливаемая пища
+    - x3=рецепт приготовления
+  en-simple:
+    place structure: x1 cooks or prepares food x2 by recipe x3
+    notes:
+    - No notes.
+    glosses:
+    - a cooker
+    - x2=a cooked food
+    - x3=a recipe for cooking
+  eo:
+    place structure: x1 kuiras/preparas manĝaĵon x2 per recepto/metodo x3 (procedo)
+    notes:
+    - Kuiri per varmo (= {glajukpa}, {glaterjukpa}), baki (= {tokyjukpa}); friti (=
+      {rasyjukpa}).  Vidu ankaŭ {cupra}, {bredi}.
+    glosses:
+    - kuiri
+  hu:
+    place structure: x1 elkészíti x2 ételt x3 módon
+    notes:
+    - '(Lásd még: {cupra}, {bredi})'
+    glosses:
+    - süt/főz
+  ja:
+    place structure: x1 は x2 （完成品）に x3 （方法）で料理する
+    notes:
+    - x3 はレシピなど。 素材・原材料は {sepu'e} で付け加えるか、 x3 内で説明する。  ・大意： 料理する ・読み方： ジュクパ  ・関連語：
+      {cupra}, {bredi}
+    glosses:
+    - 料理する
+    - x1=料理人
+    - x2=料理 (料理の結果、できたもの)
+    - x3=レシピ (料理)
+  zh:
+    place structure: x1准备/加工食物x2，使用加工/烹饪方法x3
+    notes:
+    - 热加工食物={glajukpa}/{glaterjukpa}；烘烤/烤={tokyjukpa}；油炸/油煎={rasyjukpa}；参见 {cupra},
+      {bredi}.
+    glosses:
+    - No glosses.

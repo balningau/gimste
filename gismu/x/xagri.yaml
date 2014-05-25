@@ -1,5 +1,67 @@
-Word: xagri
-Rafsi: ''
-Definition: x1 is a oboe/clarinet/saxophone [reed musical instrument] with reed x2.
-Notes: See also {zgike}.
-Examples: None
+word: xagri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a oboe/clarinet/saxophone [reed musical instrument] with
+      reed x2.
+    notes:
+    - See also {zgike}.
+    glosses:
+    - reed (instrument)
+  de:
+    place structure: x1 ist eine Oboe/Klarinette/ein Saxophon [Musikinstrument mit
+      Blatt/Zunge] mit Blatt/Zunge x2
+    notes:
+    - No notes.
+    glosses:
+    - Instrument mit Blatt
+  es:
+    place structure: x1 es un oboe/clarinete (instrumento musical de lengu:eta) con
+      lengu:eta x2
+    notes:
+    - No notes.
+    glosses:
+    - clarinete
+  ru:
+    place structure: x1 — свирель/гобой/кларнет/саксофон (духовой язычковый музыкальный
+      инструмент) с язычком/тростью x2
+    notes:
+    - '{zgike} (музыка)'
+    glosses:
+    - x1=свирель
+  en-simple:
+    place structure: x1 is a reed instrument with reed x2
+    notes:
+    - No notes.
+    glosses:
+    - a reed instrument
+    - x2=a reed of a reed instrument
+  eo:
+    place structure: x1 estas ŝalmo/hobojo/klarneto/saksofono [anĉa muzikinstrumento]
+      kun anĉo/langeto x2
+    notes:
+    - Vidu ankaŭ {zgike}.
+    glosses:
+    - ŝalmo
+  hu:
+    place structure: x1 egy oboa/klarinét/angolkürt/szaxofon/egyéb nádfúvós hangszer
+      x2 fúvókával
+    notes:
+    - '(Lásd még: {zgike})'
+    glosses:
+    - oboa
+  ja:
+    place structure: x1 は x2 （簧／リード）の木管楽器／金管楽器／オーボエ／クラリネット／サクソフォーン
+    notes:
+    - 「笙」「ハーモニカ」「アコーディオン」など。 ・大意： 簧楽器 ・読み方： クァグリ  ・関連語： {zgike}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是具有簧片x2的簧片乐器（如：单簧管/双簧管/萨克斯管等）
+    notes:
+    - 参见 {zgike}.
+    glosses:
+    - No glosses.

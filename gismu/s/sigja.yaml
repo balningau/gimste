@@ -1,6 +1,66 @@
-Word: sigja
-Rafsi: sig
-Definition: x1 is a cigar/cigarette/cigarillo made from tobacco/smokable substance
-  x2 by x3.
-Notes: See also {danmo}, {jelca}, {tanko}, {marna}.
-Examples: None
+word: sigja
+rafsi:
+- sig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cigar/cigarette/cigarillo made from tobacco/smokable
+      substance x2 by x3.
+    notes:
+    - See also {danmo}, {jelca}, {tanko}, {marna}.
+    glosses:
+    - cigar
+  de:
+    place structure: x1 ist eine Zigarre/Zigarette/Zigarillo aus Tabak/rauchbare Substanz
+      x2 von x3
+    notes:
+    - No notes.
+    glosses:
+    - Zigarette
+  es:
+    place structure: x1 es un cigarro de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - cigarro
+  ru:
+    place structure: x1 — сигара/сигарета/папироса, сделанная из табака/сырья x2 производителем
+      x3
+    notes:
+    - '{danmo} (дым), {jelca} (гореть), {tanko} (табак), {marna} (конопля)'
+    glosses:
+    - сигарета
+  en-simple:
+    place structure: x1 is a cigar or cigarette made of x2 by x3
+    notes:
+    - No notes.
+    glosses:
+    - a cigar
+    - x2=something a cigar is made of
+    - x3=a cigar maker
+  eo:
+    place structure: x1 estas cigaro/cigaredo farita el tabako/fumebla substanco x2
+      fare de x3
+    notes:
+    - Vidu ankaŭ {danmo}, {jelca}, {tanko}, {marna}.
+    glosses:
+    - cigaro
+  hu:
+    place structure: x1 egy cigaretta/szivar x2 dohányból/egyébből sodorva x3 által
+    notes:
+    - '(Lásd még: {danmo}, {jelca}, {tanko}, {marna})'
+    glosses:
+    - cigaretta
+  ja:
+    place structure: x1 は x2 （葉／物質）の巻きタバコ／葉巻／シガー
+    notes:
+    - ・大意： 葉巻 ・読み方： スィグジャ  ・関連語： {danmo}, {jelca}, {tanko}, {marna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是香烟/卷烟，由烟草/可吸燃物质x2制成，制造者为x3
+    notes:
+    - 参见 {danmo}, {jelca}, {tanko}, {marna}.
+    glosses:
+    - No glosses.

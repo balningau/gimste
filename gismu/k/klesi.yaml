@@ -1,7 +1,74 @@
-Word: klesi
-Rafsi: kle, lei
-Definition: x1 (mass/si'o) is a class/category/subgroup/subset within x2 with defining
-  property x3 (ka).
-Notes: Also taxon, type, kind, classification, species, genus, family, order, phylum.  See
-  also cmavo list {le'a}, {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}.
-Examples: None
+word: klesi
+rafsi:
+- kle
+- lei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass/si'o) is a class/category/subgroup/subset within x2
+      with defining property x3 (ka).
+    notes:
+    - Also taxon, type, kind, classification, species, genus, family, order, phylum.  See
+      also cmavo list {le'a}, {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}.
+    glosses:
+    - class
+    - type (class)
+  de:
+    place structure: x1 (Masse/si'o) ist eine Klasse/Kategorie/Gruppe/Untermenge innerhalb
+      von x2 mit bestimmender Eigenschaft x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - Klasse
+  es:
+    place structure: x1 es una clase/categoría/subgrupo/subconjunto de x2 con propiedad
+      definitoria x3
+    notes:
+    - No notes.
+    glosses:
+    - clase
+  ru:
+    place structure: x1 (масса/{si'o}) есть класс/категория/подгруппа/подмножество
+      в x2, определяемое свойством x3 ({ka})
+    notes:
+    - 'Также: в биологии: таксон, вид, род, семейство, отряд, тип {le''a}, {cmima}
+      (член), {jutsi} (вид [рода (биологического)]), {ciste} (система), {girzu} (группа),
+      {lanzu} (семья), {vrici} (разнообразный)'
+    glosses:
+    - x1=класс (подмножество)
+  en-simple:
+    place structure: x1 is a subset or class of x2 defined by property x3
+    notes:
+    - No notes.
+    glosses:
+    - a subset
+    - x2=something with a subset
+    - x3=a property of a subset
+  eo:
+    place structure: x1 (kolektivaĵo/si'o) estas klaso/kategorio/subgrupo/subaro de
+      x2 kun difina eco x3 (ka)
+    notes:
+    - 'Ankaŭ: tipo, specio, genro, familio, ordo, vario.  Vidu ankaŭ cmavo {le''a},
+      {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}.'
+    glosses:
+    - klaso
+  hu:
+    place structure: x1 (sokaság/si’o) egy kategóriája/alcsoportja/részhalmaza x2-nek,
+      x3 meghatározó tulajdonsággal
+    notes:
+    - '(Lásd még: {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici})'
+    glosses:
+    - kategória
+  ja:
+    place structure: x1 は x2 （上位の枠組）・ x3 （特質）の部門／カテゴリー／クラス／組／派／種類／タイプ
+    notes:
+    - ・大意： 部門 ・読み方： クルェスィ  ・語呂合わせ： klas クラス ・関連語： {le'a}, {cmima}, {jutsi}, {ciste},
+      {girzu}, {lanzu}, {vrici}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（整体/si'o）是x2中的一个分类/子集，具有性质x3(ka)
+    notes:
+    - 也指“类/组/属/集”，参见：{le'a}, {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}
+    glosses:
+    - No glosses.

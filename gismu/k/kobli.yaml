@@ -1,6 +1,67 @@
-Word: kobli
-Rafsi: kob, ko'i
-Definition: x1 is a quantity of cabbage/lettuce/leafy vegetable of species/strain
-  x2.
-Notes: See also {stagi}.
-Examples: None
+word: kobli
+rafsi:
+- kob
+- ko'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of cabbage/lettuce/leafy vegetable of species/strain
+      x2.
+    notes:
+    - See also {stagi}.
+    glosses:
+    - cabbage
+  de:
+    place structure: x1 ist eine Menge an Kohl/Kopfsalat/Blattgemüse von Spezies/Art
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Kohl
+  es:
+    place structure: x1 es un repollo/lechuga/acelga de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - repollo
+  ru:
+    place structure: x1 — капуста/салат/аналогичный кочанный овощ вида/сорта x2
+    notes:
+    - '{stagi} (овощ)'
+    glosses:
+    - x1=капуста
+    - x2=вид капусты
+  en-simple:
+    place structure: x1 is a cabbage or lettuce of species x3
+    notes:
+    - No notes.
+    glosses:
+    - a cabbage
+    - x2=a species of cabbage
+  eo:
+    place structure: x1 estas kvanto da brasiko/laktuko/folia legomo de speco/raso
+      x2
+    notes:
+    - Vidu ankaŭ {stagi}.
+    glosses:
+    - brasiko
+  hu:
+    place structure: x1 bizonyos mennyiségű káposzta/saláta/zeller[/zöldség, amelynek
+      a leveleit fogyasztjuk] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {stagi})'
+    glosses:
+    - káposzta
+  ja:
+    place structure: x1 は x2 （種類）の葉菜
+    notes:
+    - 「キャベツ」「レタス」など。 ・大意： 葉菜 ・読み方： コブルィ  ・関連語： {stagi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是卷心菜/甘蓝菜，属于品种/种类x2
+    notes:
+    - 参见 {stagi}.
+    glosses:
+    - No glosses.

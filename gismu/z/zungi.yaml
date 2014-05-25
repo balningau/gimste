@@ -1,5 +1,66 @@
-Word: zungi
-Rafsi: zug
-Definition: x1 feels guilt/remorse about x2 (abstraction).
-Notes: (cf. cmavo list {u'u}, {cinmo}, {xenru}, {zekri})
-Examples: None
+word: zungi
+rafsi:
+- zug
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels guilt/remorse about x2 (abstraction).
+    notes:
+    - (cf. cmavo list {u'u}, {cinmo}, {xenru}, {zekri})
+    glosses:
+    - guilt
+  de:
+    place structure: x1 fühlt Schuld/Reue über/wegen x2 (Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - Schuld
+  es:
+    place structure: x1 se culpa/siente culpa/remordimiento por x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - culparse
+  ru:
+    place structure: x1 раскаивается/винит себя/испытывает угрызения совести по поводу
+      x2
+    notes:
+    - '{u''u}, {cinmo} - ''испытывать эмоции'', {xenru} - ''сожалеть'', {zekri} -
+      ''преступление'''
+    glosses:
+    - раскаиваться в
+    - x1=раскаивающийся в
+    - x2=в чём раскаиваются
+  en-simple:
+    place structure: x1 feels guilt about x2
+    notes:
+    - No notes.
+    glosses:
+    - a feeler of  guilt
+    - x2=a cause of guilt
+  eo:
+    place structure: x1 sentas kulpon/memriproĉon pri x2 (abstraktaĵo)
+    notes:
+    - (kp. cmavo .u'u, cinmo, xenru, zekri)
+    glosses:
+    - senti kulpon
+  hu:
+    place structure: x1 bűntudatos/bűntudatot érez x2 miatt
+    notes:
+    - '(Lásd még: {cinmo}, {xenru}, {zekri})'
+    glosses:
+    - bűntudatot érez
+  ja:
+    place structure: x1 は x2 （事）について良心の呵責／罪悪を感じる
+    notes:
+    - ・大意： 罪を感じる ・読み方： ズンギ  ・語呂合わせ： ＜ずんずんギルティに＞,懺悔 ・関連語： {u'u}, {cinmo}, {xenru},
+      {zekri}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1感到负罪/悔恨，对于x2(抽象)
+    notes:
+    - 参考cmavo list {u'u}, {cinmo}, {xenru}, {zekri}
+    glosses:
+    - 悔恨
+    - 负罪感

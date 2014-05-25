@@ -1,6 +1,74 @@
-Word: jikru
-Rafsi: ''
-Definition: x1 is made of/contains/is a quantity of liquor/spirits distilled from
-  x2.
-Notes: See also {barja}, {vanju}, {birje}, {xalka}.
-Examples: None
+word: jikru
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of liquor/spirits distilled
+      from x2.
+    notes:
+    - See also {barja}, {vanju}, {birje}, {xalka}.
+    glosses:
+    - liquor
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Spirituosen/Hochprozentigem
+      destilliert von x2
+    notes:
+    - No notes.
+    glosses:
+    - Spirituose
+  es:
+    place structure: x1 es una cantidad de licor/bebida espirituosa destilada de x2
+    notes:
+    - Ver también {birje},  {xalka}.
+    glosses:
+    - licor
+  ru:
+    place structure: x1 — (крепкий) спиртной/алкогольный напиток {водка/виски/бренди/коньяк/ликер},
+      полученный перегонкой сырья x2
+    notes:
+    - '{barja} (бар), {vanju} (вино), {birje} (пиво), {xalka} (алкоголь)'
+    glosses:
+    - спиртной напиток
+  en-simple:
+    place structure: x1 is a quantity of liquor distilled from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of liquor
+    - x2=a source of liquor
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el alkoholaĵo/likvoro distilita
+      el x2
+    notes:
+    - Vidu ankaŭ {barja}, {vanju}, {birje}, {xalka}.
+    glosses:
+    - alkoholaĵo
+  hu:
+    place structure: x1 bizonyos mennyiségű szeszes ital (-t tartalmaz/-ból készült)
+      x2-ből főzve
+    notes:
+    - '(Lásd még: {barja}, {vanju}, {birje}, {xalka})'
+    glosses:
+    - alkohol (szeszes ital)
+    - szeszes ital
+  ja:
+    place structure: x1 は x2 （原料）の蒸留から出来た酒／アルコール飲料
+    notes:
+    - ・大意： 蒸留酒 ・読み方： ジクル  ・関連語： {barja}, {vanju}, {birje}, {xalka}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är gjord av/innehåller/är en kvantitet med sprit destillerad
+      från x2.
+    notes:
+    - No notes.
+    glosses:
+    - sprit
+  zh:
+    place structure: x1是/含有的烈酒，蒸馏自x2
+    notes:
+    - 参见 {barja}, {vanju}, {birje}, {xalka}.
+    glosses:
+    - No glosses.

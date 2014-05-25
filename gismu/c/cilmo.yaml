@@ -1,5 +1,72 @@
-Word: cilmo
-Rafsi: cim
-Definition: x1 is moist/wet/damp with liquid x2.
-Notes: See also {litki}, {lunsa}, {sudga}.
-Examples: None
+word: cilmo
+rafsi:
+- cim
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is moist/wet/damp with liquid x2.
+    notes:
+    - See also {litki}, {lunsa}, {sudga}.
+    glosses:
+    - moist
+    - wet
+  de:
+    place structure: x1 ist feucht/nass/getränkt mit Feuchtigkeit/Flüssigkeit x2
+    notes:
+    - No notes.
+    glosses:
+    - feucht
+  es:
+    place structure: x1 está mojado/húmedo con líquido x2
+    notes:
+    - Ver también {sudga}.
+    glosses:
+    - mojado
+  ru:
+    place structure: x1 увлажнен жидкостью x2; x1 — влажный/мокрый
+    notes:
+    - '{litki} (жидкость), {lunsa} (конденсироваться), {sudga} (сухой)'
+    glosses:
+    - мокрый
+    - x2=увлажняющий
+  en-simple:
+    place structure: x1 is moist or damp with liquid x2
+    notes:
+    - No notes.
+    glosses:
+    - something moist
+    - x2=a moistening liquid
+  eo:
+    place structure: x1 estas malseka /humida kun likvaĵo x2
+    notes:
+    - Vidu ankaŭ {litki}, {lunsa}, {sudga}.
+    glosses:
+    - malseka
+  hu:
+    place structure: x1 nedves/nyirkos/ázott x2 folyadéktól
+    notes:
+    - '(Lásd még: {litki}, {lunsa}, {sudga})'
+    glosses:
+    - nedves
+  ja:
+    place structure: x1 は x2 （液体）で湿っている／濡れている／じめじめしている；  x1 はしけている
+    notes:
+    - ・大意： 濡れる ・読み方： シルゥモ  ・語呂合わせ： 汁 ・関連語： {litki}, {lunsa}, {sudga}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är fuktig/blöt/våt med vätska x2.
+    notes:
+    - No notes.
+    glosses:
+    - fuktig
+    - våt
+    - x1=blöt
+    - x2=blötvätska
+  zh:
+    place structure: x1是湿润的/潮湿的，带有液体x2
+    notes:
+    - 参见 {litki}, {lunsa}, {sudga}.
+    glosses:
+    - No glosses.

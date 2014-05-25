@@ -1,11 +1,117 @@
-Word: dunda
-Rafsi: dud, du'a
-Definition: x1 [donor] gives/donates gift/present x2 to recipient/beneficiary x3 [without
-  payment/exchange].
-Notes: Also grants; $x_3$ is a receiver (= {terdu'a} for reordered places); the Lojban
-  doesn't distinguish between or imply possession transfer or sharing; $x_2$ may be
-  a specific object, a commodity (mass), an event, or a property; pedantically, for
-  objects/commodities, this is sumti-raising from ownership of the object/commodity
-  (= {posydu'a}, {posyseldu'a} for unambiguous semantics).  See also {benji}, {muvdu},
-  {canja}, {pleji}, {vecnu}, {friti}, {sfasa}, {dapma}, {cnemu}, {prali}.
-Examples: None
+word: dunda
+rafsi:
+- dud
+- du'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [donor] gives/donates gift/present x2 to recipient/beneficiary
+      x3 [without payment/exchange].
+    notes:
+    - Also grants; x3 is a receiver (= {terdu'a} for reordered places); the Lojban
+      doesn't distinguish between or imply possession transfer or sharing; x2 may
+      be a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {posydu'a}, {posyseldu'a} for unambiguous semantics).  See also {benji},
+      {muvdu}, {canja}, {pleji}, {vecnu}, {friti}, {sfasa}, {dapma}, {cnemu}, {prali}.
+    glosses:
+    - give
+  jbo:
+    place structure: x1 noi tolcau x2 cu gasnu lo nu x3 co'a tolcau x2
+    notes:
+    - No notes.
+    glosses:
+    - dunda
+  de:
+    place structure: x1 [Geber] gibt Gabe/Geschenk x2 dem Empfänger/Begünstigten x3
+      [ohne Bezahlung/Gegenleistung]
+    notes:
+    - No notes.
+    glosses:
+    - geben
+  es:
+    place structure: x1 da/dona/regala/obsequia x2 a x3
+    notes:
+    - Ver también {lebna}.
+    glosses:
+    - dar
+  ru:
+    place structure: x1 дает/дарит/передает/отдает (безвозмездно) дар/подарок x2 (что)
+      x3 (кому)
+    notes:
+    - 'Также: жалует; x3 — получатель: terdu''a с переставленными местами); может
+      относиться как к полной, так и частичной передаче собственности; x2 м.б. конкретным
+      объектом, товаром (масса), событием или свойством; строго говоря, для объектов/товаров
+      мы имеем дело с подъемом sumti от владения объектом/товаром: posydu''a, posyseldu''a
+      для однозначной семантики) {benji} (передавать [сигнал]), {muvdu} (двигаться),
+      {canja} (обменивать), {pleji} (платить), {vecnu} (продавать), {friti} (предлагать),
+      {sfasa} (наказывать), {dapma} (проклинать), {cnemu} (воздавать), {prali} (прибыль)'
+    glosses:
+    - дарить
+    - x1=дарящий
+    - x2=подарок
+  en-simple:
+    place structure: x1 gives or donates x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a giver
+    - x2=a gift
+    - x3=a receiver of a gift
+  eo:
+    place structure: x1 [donanto] donas/donacas donitaĵon x2 al ricevanto/profitanto
+      x3 [sen pago/interŝanĝo]
+    notes:
+    - x3 ricevas x2-on de x1 (= terdu'a por reordigitaj {lokoj}); la loĵbana versio
+      ne distingas aŭ implicas transigon de posedo aŭ dividon; x2 povas esti specifa
+      objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj, ĉi
+      tio estas sumti-levado el posedo de la objekto/varo (= {posydu'a}, posyseldu'a
+      por neambigua {semantiko}).  Vidu ankaŭ {benji}, {muvdu}, {canja}, {pleji},
+      {vecnu}, {friti}, {sfasa}, {dapma}, {cnemu}, {prali}.
+    glosses:
+    - doni
+  hu:
+    place structure: x1 oda-/átadja x2-t x3-nak [ingyen]
+    notes:
+    - '(Lásd még: {benji}, {muvdu}, {canja}, {pleji}, {vecnu}, {friti}, {sfasa}, {dapma},
+      {cnemu}, {prali})'
+    glosses:
+    - ad
+  ja:
+    place structure: x1 は x2 を x3 （者）に与える／贈る／授ける
+    notes:
+    - 支払いや返済の無い授与行為。 x2 は物だけでなく事や性質も。 ・大意： 与える
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 [dawca] daje/darowuje dar/prezent x2 biorcy/beneficjentowi
+      x3 [bez płatności/wymiany].
+    notes:
+    - No notes.
+    glosses:
+    - dawać
+    - x1=dawca
+    - x2=prezent
+    - x3=biorca
+  sv:
+    place structure: x1 [donator] ger/skänker/donerar gåva/present x2 till gåvomottagare/förmånstagare
+      x3 [utan betalning/utbyte].
+    notes:
+    - No notes.
+    glosses:
+    - donator
+    - donera
+    - ge
+    - skänka
+    - x1=givare
+    - x2=gåva
+    - x3=gåvomottagare
+  zh:
+    place structure: x1给出/献出x2给接收者x3
+    notes:
+    - 也指：补助/补贴；不暗示所有权的转移； x3可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {posydu'a},
+      {posyseldu'a} 以示区别；参见 {benji}, {muvdu}, {canja}, {pleji}, {vecnu}, {friti},
+      {sfasa}, {dapma}, {cnemu}, {prali}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,84 @@
-Word: mrilu
-Rafsi: mri
-Definition: x1 mails/posts [transfer via intermediary service] x2 to recipient address
-  x3 from mailbox/post office/sender address x4 by carrier/network/system x5.
-Notes: Also $x_4$ post office, mailbox.  (cf. {benji} In which the medium need not
-  be a 3rd party service/system, and $x_2$ need not consist of discrete units.  {notci},
-  {xatra}, {tcana})
-Examples: None
+word: mrilu
+rafsi:
+- mri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 mails/posts [transfer via intermediary service] x2 to recipient
+      address x3 from mailbox/post office/sender address x4 by carrier/network/system
+      x5.
+    notes:
+    - Also x4 post office, mailbox.  (cf. {benji} In which the medium need not be
+      a 3rd party service/system, and x2 need not consist of discrete units.  {notci},
+      {xatra}, {tcana})
+    glosses:
+    - mail
+    - mail (send mail)
+    - post (send mail)
+    - x1=mailer (agent)
+    - x2=mail (object)
+  de:
+    place structure: x1 schickt/sendet [Überbringung durch Mittelsmann] x2 an x3 von
+      x4 über Träger/Netzwerk/System x5
+    notes:
+    - No notes.
+    glosses:
+    - verschicken
+  es:
+    place structure: x1 envía/manda/transfiere x2 a x3 desde x4 por correo/chasqui/intermediario
+      x5
+    notes:
+    - Ver también {benji}.
+    glosses:
+    - enviar
+  ru:
+    place structure: x1 посылает/отправляет (пользуясь услугами посредника) x2 (что)
+      к/в x3 (кому/куда) из x4 (откуда) посредством службы/курьера/сети/системы x5
+    notes:
+    - 'x4 Также: почтовое отделение, почтовый ящик; x2 — посылка, корреспонденция
+      {benji} (передавать [сигнал]), где носитель не обязательно посредническая служба/система,
+      а x2 не обязательно состоит из дискретных единиц; {notci} (статья), {xatra}
+      (письмо), {tcana} (станция)'
+    glosses:
+    - отправлять почтой
+    - x1=отправитель почты
+    - x2=почта (посылка)
+    - x5=почтовая служба
+  en-simple:
+    place structure: x1 mails or posts x2 to x3 from x4 by x5
+    notes:
+    - No notes.
+    glosses:
+    - a mailer
+    - x2=something mailed
+    - x3=a destination of a mail
+    - x4=an origin of a mail
+    - x5=a mailing system
+  eo:
+    place structure: x1 poŝtas [transigo tra peranta servo] x2-on al x3 de x4 per
+      portanto/reto/sistemo x5
+    notes:
+    - 'Ankaŭ: x4 poŝtejo, poŝtujo.  (kp. benji ĉe kiu la medio ne nepre estas 3a partoprenanto/servo/sistemo,
+      kaj x2 ne nepre konsistigas el unuopaj unuoj.  notci, xatra, tcana)'
+    glosses:
+    - poŝti
+  hu:
+    place structure: x1 elküldi/postázza x2-t x3-nak/-ba, x4-ből, x5 üzenet-/csomagtovábbító
+      rendszeren/hálózaton
+    notes:
+    - '(Lásd még: {benji}, {notci}, {xatra}, {tcana})'
+    glosses:
+    - küld
+  ja:
+    place structure: x1 は x2 （郵便物／手紙／Eメール）を x3 （終点）に x4 （始点）から x5 （ネットワーク／システム）によって送達する
+    notes:
+    - ・大意： 郵便 ・読み方： ムリルゥ  ・関連語： {benji}, {notci}, {xatra}, {tcana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1邮寄x2给接受者x3/到地址x3，从邮局/地址x4发出，由网络/系统/运输者x5运送
+    notes:
+    - 也指：x4邮局/邮箱；参见 {benji},{notci}, {xatra}, {tcana}
+    glosses:
+    - No glosses.

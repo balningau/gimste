@@ -1,9 +1,80 @@
-Word: jalge
-Rafsi: jag, ja'e
-Definition: x1 (action/event/state) is a result/outcome/conclusion of antecedent x2
-  (event/state/process).
-Notes: 'Also: $x_2$ gives rise to $x_1$ (= selja''e for reordered places); total (general
-  meaning, but also = mekyja''e, pi''irja''e, sujyja''e).  See also se {mukti}, te
-  {zukte}, se {rinka}, se {krinu}, se {nibli}, {mulno}, {sumji}, {pilji}, {mekso},
-  cmavo list {ja''e}, {ciksi}.'
-Examples: None
+word: jalge
+rafsi:
+- jag
+- ja'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (action/event/state) is a result/outcome/conclusion of antecedent
+      x2 (event/state/process).
+    notes:
+    - 'Also: x2 gives rise to x1 (= selja''e for reordered places); total (general
+      meaning, but also = mekyja''e, pi''irja''e, sujyja''e).  See also se {mukti},
+      te {zukte}, se {rinka}, se {krinu}, se {nibli}, {mulno}, {sumji}, {pilji}, {mekso},
+      cmavo list {ja''e}, {ciksi}.'
+    glosses:
+    - result
+  de:
+    place structure: x1 (Aktion/Ereignis/Zustand) ist das Ergebnis/Resultat/die Folgerung
+      von x2 (Ereignis/Zustand/Prozess)
+    notes:
+    - No notes.
+    glosses:
+    - Ergebnis
+  es:
+    place structure: x1 (evento) es un resultado/conclusión/efecto de x2 (evento)
+    notes:
+    - Ver también se {mukti},  te {zukte},  se {rinka},  se {krinu},  se {nibli}.
+    glosses:
+    - resultado
+  ru:
+    place structure: 'x1 (действие/событие/состояние) есть результат/итог/исход x2
+      (чего: событие/состояние/процесс)'
+    notes:
+    - 'Также: x2 приводит к x1: {selja''e} с переставленными аргументами; результат/итог
+      в специальном смысле: {mekyja''e}, {pi''irja''e}, {sujyja''e} {se} {mukti} (повод),
+      {te} {zukte} (действовать), {se} {rinka} (причина [физическая]), {se} {krinu}
+      (резон), {se} {nibli} (влечь [логически]), {mulno} (законченный), {sumji} (сумма
+      [результат сложения]), {pilji} (произведение [арифметическое]), {mekso} (формула),
+      {ja''e}, {ciksi} (объяснять)'
+    glosses:
+    - результат
+  en-simple:
+    place structure: x1 is the result or outcome of x2
+    notes:
+    - No notes.
+    glosses:
+    - an outcome
+    - x2=something causing an outcome
+  eo:
+    place structure: x1 (ago/okazo/stato) rezultas/sekvas el x2 (okazo/stato/procedo)
+    notes:
+    - 'Ankaŭ: x2 kaŭzas/okazigas x1-on (= selja''e por reordigitaj {lokoj}); rezulto
+      de operacio (mekyja''e, pi''irja''e, sujyja''e).  Vidu ankaŭ se {mukti}, te
+      {zukte}, se {rinka}, se {krinu}, se {nibli}, {mulno}, {sumji}, {pilji}, {mekso},
+      {cmavoja''e}, {ciksi}.'
+    glosses:
+    - rezulti
+  hu:
+    place structure: x1 cselekedet/esemény/állapot egy eredménye/következménye/kimenetele
+      x2 előzménynek
+    notes:
+    - '(Lásd még: {mukti}, {zukte}, {rinka}, {krinu}, {nibli}, {mulno}, {sumji}, {pilji},
+      {mekso}, {ciksi})'
+    glosses:
+    - eredmény
+  ja:
+    place structure: x1 （事）は x2 （事）の結果／結末；  x2 は x1 に終結する
+    notes:
+    - ・大意： 結果 ・読み方： ジャルゥゲ  ・関連語： {se} {mukti}, {te} {zukte}, {se} {rinka}, {se} {krinu},
+      {se} {nibli}, {mulno}, {sumji}, {pilji}, {mekso}, {ja'e}, {ciksi}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（行为/事件/状态）是由前提x2（事件/状态/进程）导致的成果/结果/后果/输出
+    notes:
+    - 也指：x2引起x1；求和 = {pi'irja'e}, {sujyja'e}；{mekyja'e}；参见 se {mukti}, te {zukte},
+      se {rinka}, se {krinu}, se {nibli}, {mulno}, {sumji}, {pilji}, {mekso}, {ja'e},
+      {ciksi}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: tengu
-Rafsi: teg, te'u
-Definition: x1 (property-ka) is a texture of x2.
-Notes: See also {rufsu}, {xutla}.
-Examples: None
+word: tengu
+rafsi:
+- teg
+- te'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (property-ka) is a texture of x2.
+    notes:
+    - See also {rufsu}, {xutla}.
+    glosses:
+    - texture
+  jbo:
+    place structure: x1 se krasi x2 gi'e ka'e se pencu
+    notes:
+    - '{pencu}; {jvinu}; {sance}; {panci}; {vrusi}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Eigenschaft-ka) ist eine Textur/Oberflächenstruktur von x2
+    notes:
+    - No notes.
+    glosses:
+    - Textur
+  es:
+    place structure: x1 es una textura de x2
+    notes:
+    - No notes.
+    glosses:
+    - textura
+  ru:
+    place structure: x1 — текстура x2 (чего)
+    notes:
+    - '{rufsu} (шероховатый), {xutla} (гладкий)'
+    glosses:
+    - x1=текстура
+  en-simple:
+    place structure: x1 is a texture of x2
+    notes:
+    - No notes.
+    glosses:
+    - a texture
+    - x2=something textured
+  eo:
+    place structure: x1 (eco-ka) estas tekseco de x2
+    notes:
+    - Vidu ankaŭ {rufsu}, {xutla}.
+    glosses:
+    - tekseco
+  hu:
+    place structure: x1 tulajdonság jellemzi x2 felületének minőségét
+    notes:
+    - '(Lásd még: {rufsu}, {xutla})'
+    glosses:
+    - felület
+  ja:
+    place structure: x1 （性質）は x2 の（視覚と触覚上の）質感／手ざわり／舌ざわり
+    notes:
+    - 「でこぼこ」「ざらざら」などの類。 ・大意： 質感 ・読み方： テング  ・語呂合わせ： 天狗の質感 ・関連語： {rufsu} (下位概念), {xutla}
+      (下位概念)
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（ka）是x2的结构
+    notes:
+    - 参见 {rufsu}, {xutla}.
+    glosses:
+    - No glosses.

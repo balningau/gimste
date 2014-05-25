@@ -1,6 +1,75 @@
-Word: jgina
-Rafsi: gin
-Definition: x1 is a gene of creature [or locus on creature] x2 determining trait/process
-  x3.
-Notes: Also chromosome = ({gincilta}, {ginpoi}).  See also {cerda}.
-Examples: None
+word: jgina
+rafsi:
+- gin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a gene of creature [or locus on creature] x2 determining
+      trait/process x3.
+    notes:
+    - Also chromosome = ({gincilta}, {ginpoi}).  See also {cerda}.
+    glosses:
+    - gene
+  de:
+    place structure: x1 ist ein Gen von Lebewesen [oder an Körperstelle von Lebewesen]
+      x2 und bestimmt Merkmal/Prozess x3
+    notes:
+    - No notes.
+    glosses:
+    - Gen
+  es:
+    place structure: x1 es un gen de criatura x2 que determina rasgo/cualidad x3
+    notes:
+    - No notes.
+    glosses:
+    - gen
+  ru:
+    place structure: x1 — ген существа (или участка тела) x2, определяющий признак/процесс
+      x3
+    notes:
+    - 'Хромосома: {gincilta}, {ginpoi} {cerda} (наследовать)'
+    glosses:
+    - ген
+    - x3=признак, определяемый геном
+  en-simple:
+    place structure: x1 is a gene of x2 determining trait x3
+    notes:
+    - No notes.
+    glosses:
+    - a gene
+    - x2=something described by gene
+    - x3=a gene trait
+  eo:
+    place structure: x1 estas geno de estaĵo [aŭ loko en estaĵo] x2 determinanta trajton/procedon
+      x3
+    notes:
+    - 'Ankaŭ: kromosomo = (gincilta, ginpoi).  Vidu ankaŭ {cerda}.'
+    glosses:
+    - geno
+  hu:
+    place structure: x1 egy génje x2-nek, amely x3 tulajdonságot/folyamatot határozza
+      meg
+    notes:
+    - '(Lásd még: {cerda})'
+    glosses:
+    - gén
+  ja:
+    place structure: x1 は x2 （有機体）の x3 （性質）に関わる遺伝子
+    notes:
+    - 「染色体」も。 ・大意： 遺伝子 ・読み方： ジギナ  ・語呂合わせ： gene ・関連語： {cerda}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en gen av varelse [eller specifikt ställe på varelse] x2
+      som bestämmer karaktärsdrag/process x3.
+    notes:
+    - Även kromosom = ({gincilta}, {ginpoi}).
+    glosses:
+    - gen
+  zh:
+    place structure: x1是生物x2的基因/遗传因子，定义性状/行为x3
+    notes:
+    - 也指：染色体={gincilta}/{ginpoi}；参见 {cerda}.
+    glosses:
+    - No glosses.

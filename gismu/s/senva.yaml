@@ -1,6 +1,70 @@
-Word: senva
-Rafsi: sev, sne
-Definition: x1 dreams about/that x2 (fact/idea/event/state); x2 is a dream/reverie
-  of x1.
-Notes: Dream/reverie (= {selsne}).  See also {sipna}, {xanri}.
-Examples: None
+word: senva
+rafsi:
+- sev
+- sne
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 dreams about/that x2 (fact/idea/event/state); x2 is a dream/reverie
+      of x1.
+    notes:
+    - Dream/reverie (= {selsne}).  See also {sipna}, {xanri}.
+    glosses:
+    - dream
+  de:
+    place structure: x1 träumt über/dass x2 (Tatsache/Idee/Ereignis/Zustand); x2 ist
+      ein Traum/eine Träumerei von x1.
+    notes:
+    - Traum/Träumerei (= {selsne}). Siehe auch {sipna}, {xanri}.
+    glosses:
+    - träumen
+    - x1=Träumer
+    - x2=Traum
+  es:
+    place structure: x1 sueña/ensueña con/sobre/acerca de x2
+    notes:
+    - No notes.
+    glosses:
+    - soñar
+  ru:
+    place structure: x1 грезит/мечтает о x2 (факт/идея/событие/состояние); x2 — мечта/грезы
+      x1 (кого)
+    notes:
+    - 'Также: мечта/грезы: {selsne}; видеть сны: {sipsne} {sipna} (спать), {xanri}
+      (воображаемый)'
+    glosses:
+    - грезить о
+    - x1=грезящий о
+  en-simple:
+    place structure: x1 dreams about x2
+    notes:
+    - No notes.
+    glosses:
+    - a dreamer
+    - x2=something dreamed
+  eo:
+    place structure: x1 sonĝas/revas pri x2 (fakto/ideo/okazo/stato); x2 estas sonĝo/revo
+      de x1
+    notes:
+    - Sonĝo/revo (= {selsne}).  Vidu ankaŭ {sipna}, {xanri}.
+    glosses:
+    - sonĝi
+  hu:
+    place structure: x1 álmodik x2 eseményről/tényről/fogalomról/állapotról
+    notes:
+    - '(Lásd még: {sipna}, {xanri})'
+    glosses:
+    - álmodik
+  ja:
+    place structure: x1 は x2 （事）を夢見る；  x2 は夢想／幻想
+    notes:
+    - ・大意： 夢 ・読み方： センヴァ  ・関連語： {sipna}, {xanri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1梦到x2（事实/想法/事件/状态）；x2是x1的梦/幻想
+    notes:
+    - 幻梦/梦境= {selsne}；参见 {sipna}, {xanri}.
+    glosses:
+    - No glosses.

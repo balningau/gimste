@@ -1,7 +1,78 @@
-Word: xlali
-Rafsi: xla
-Definition: x1 is bad for x2 by standard x3; x1 is poor/unacceptable to x2.
-Notes: 'Be careful to distinguish between a bad/unacceptable event, and a bad/unacceptable
-  agent: $x_1$ does poorly (= lenu ko''a gasnu cu xlali and not normally ko''a {xlali}).  See
-  also {palci}, {mabla}, {xamgu}, {betri}.'
-Examples: None
+word: xlali
+rafsi:
+- xla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is bad for x2 by standard x3; x1 is poor/unacceptable to x2.
+    notes:
+    - 'Be careful to distinguish between a bad/unacceptable event, and a bad/unacceptable
+      agent: x1 does poorly (= lenu ko''a gasnu cu xlali and not normally ko''a {xlali}).  See
+      also {palci}, {mabla}, {xamgu}, {betri}.'
+    glosses:
+    - bad
+  de:
+    place structure: x1 ist schlecht für x2 gemäß Standard x3; x1 ist mangelhaft/unannehmbar
+      für x2
+    notes:
+    - No notes.
+    glosses:
+    - schlecht
+  es:
+    place structure: x1 es malo/perjudicial para x2 según estándar x3
+    notes:
+    - Ver también {xamgu},  {palci},  {mabla}.
+    glosses:
+    - malo
+  ru:
+    place structure: x1 плох/неприемлем для x2 по стандарту x3
+    notes:
+    - 'Необходимо различать плохое/неприемлемое событие и плохого/неприемлемого деятеля,
+      напр., о неудачном действии субъекта x1: {[lo nu ko''a gasnu cu xlali]}, но
+      не {[ko''a xlali]}) {palci} (дурной), {mabla} (негативный [о значении/смысле
+      слова]), {xamgu} (хороший), {betri} (беда)'
+    glosses:
+    - плохой
+  en-simple:
+    place structure: x1 is bad for x2 by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something bad
+    - x2=something for which something is bad
+    - x3=a standard of badness
+  eo:
+    place structure: x1 estas malbona por x2 laŭ normo x3; x1 estas neakceptebla por
+      x2
+    notes:
+    - 'Zorge distingu malbona/neakcepteblan okazon disde malbona/neakceptebla aganto:
+      x1 faras malbone (= lenu ko''a gasnu cu xlali kaj ne ĝenerale ko''a xlali).  Vidu
+      ankaŭ {palci}, {mabla}, xamgu,{betri}.'
+    glosses:
+    - malbona
+  hu:
+    place structure: x1 rossz/előnytelen/hátrányos x2 számára, x3 mérce szerint
+    notes:
+    - '(Lásd még: {palci}, {mabla}, {xamgu}, {betri})'
+    glosses:
+    - rossz
+  ja:
+    place structure: x1 は x2 にとって、 x3 （基準）で悪い／粗末
+    notes:
+    - ・大意： 悪い ・読み方： クゥルァルィ  ・語呂合わせ： フラリと悪い道に ・関連語： {palci}, {mabla}, {xamgu}, {betri}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest złe/niekorzystne dla x2 według standardu x3.
+    notes:
+    - Cf. {palci}, {mabla}, {xamgu}, {betri}.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2坏/不好，基于标准x3；对x2来说，x1是卑鄙的/不可接受的
+    notes:
+    - 注意区别坏人和让人感觉坏的事件，如lenu ko'a gasnu cu xlali并不是等价于 ko'a {xlali}；参见 {palci}, {mabla},
+      {xamgu}, {betri}.
+    glosses:
+    - No glosses.

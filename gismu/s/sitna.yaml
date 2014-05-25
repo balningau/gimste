@@ -1,6 +1,71 @@
-Word: sitna
-Rafsi: sit
-Definition: x1 cites/quotes/refers to/makes reference to source x2 for information/statement
-  x3 (du'u).
-Notes: See also {krasi}.
-Examples: None
+word: sitna
+rafsi:
+- sit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 cites/quotes/refers to/makes reference to source x2 for information/statement
+      x3 (du'u).
+    notes:
+    - See also {krasi}.
+    glosses:
+    - cite
+    - refer (make reference to)
+    - x1=referrer
+    - x2=referent (that which is referred)
+  de:
+    place structure: x1 zitiert/führt an/verweist auf Quelle x2 wegen Information/Aussage
+      x3 (du'u)
+    notes:
+    - No notes.
+    glosses:
+    - zitieren
+  es:
+    place structure: x1 cita a fuente x2 con información x3
+    notes:
+    - No notes.
+    glosses:
+    - citar
+  ru:
+    place structure: x1 цитирует/ссылается на источник x2, делая сообщение/высказывание
+      x3 ({du'u}); x2 цитируется в x3 (где) x1 (кем)
+    notes:
+    - '{krasi} (источник [начало])'
+    glosses:
+    - цитировать
+    - x1=цитирующий
+    - x2=цитируемый источник
+  en-simple:
+    place structure: x1 quotes or cites source x2 for statement x3
+    notes:
+    - No notes.
+    glosses:
+    - a quoter
+    - x2=something quoted
+    - x3=a purpose of a quotation
+  eo:
+    place structure: x1 citas/aludas al/referencas fonton x2 por informo/frazo x3
+      (du'u)
+    notes:
+    - Vidu ankaŭ {krasi}.
+    glosses:
+    - citi
+  hu:
+    place structure: x1 (fel)idézi x2 forrást / hivatkozik x2 forrásra x3 információért/állításért
+    notes:
+    - '(Lásd még: {krasi})'
+    glosses:
+    - idéz
+  ja:
+    place structure: x1 は x2 を x3 （情報／発言）のために引用／参照する
+    notes:
+    - ・大意： 引用 ・読み方： スィトナ ・語呂合わせ： 引用すいすいっとな, cite, citar ・関連語： {krasi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1引用/引述x2（来源）中的信息/陈诉x3（du'u）
+    notes:
+    - 参见 {krasi}.
+    glosses:
+    - No glosses.

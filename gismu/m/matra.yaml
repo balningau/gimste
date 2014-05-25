@@ -1,5 +1,62 @@
-Word: matra
-Rafsi: ''
-Definition: x1 is a motor/engine, driving/propelling/providing power to x2.
-Notes: See also {marce}, {minji}, {carce}.
-Examples: None
+word: matra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a motor/engine, driving/propelling/providing power to x2.
+    notes:
+    - See also {marce}, {minji}, {carce}.
+    glosses:
+    - motor
+  de:
+    place structure: x1 ist ein Motor/Triebwerk und treibt x2 an
+    notes:
+    - No notes.
+    glosses:
+    - Motor
+  es:
+    place structure: x1 es un motor que propele/da potencia/impulsa a x2
+    notes:
+    - No notes.
+    glosses:
+    - motor
+  ru:
+    place structure: x1 — мотор/двигатель, приводящий в движение/снабжающий энергией
+      x2
+    notes:
+    - '{marce} (транспорт), {minji} (машина [автомат, механизм]), {carce} (повозка)'
+    glosses:
+    - двигатель
+  en-simple:
+    place structure: x1 is an engine driving x2
+    notes:
+    - No notes.
+    glosses:
+    - an engine
+    - x2=something powered by engine
+  eo:
+    place structure: x1 estas motoro/maŝino funkciiganta/pelanta/potenciganta x2-on
+    notes:
+    - Vidu ankaŭ {marce}, {minji}, {carce}.
+    glosses:
+    - motoro
+  hu:
+    place structure: x1 egy motor x2 meghajtására
+    notes:
+    - '(Lásd még: {marce}, {minji}, {carce})'
+    glosses:
+    - motor
+  ja:
+    place structure: x1 は x2 に出力する／を動かすモーター／エンジン／原動機／発動機
+    notes:
+    - 機械仕掛の原動力全般。 ・大意： モーター ・読み方： マトラ  ・関連語： {marce}, {minji}, {carce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是发动机/马达，为驱动x2/为x2提供能量
+    notes:
+    - 参见 {marce}, {minji}, {carce}.
+    glosses:
+    - No glosses.

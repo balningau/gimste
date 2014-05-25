@@ -1,9 +1,81 @@
-Word: sepli
-Rafsi: sep, sei
-Definition: x1 is apart/separate from x2, separated by partition/wall/gap/interval/separating
-  medium x3.
-Notes: Also aloof (= {jiksei}); alone (= {rolsmisei} meaning apart or unlike all others
-  of its kind; {pavysei}, {seirpavmei} meaning "only" or "one alone" - do not use
-  when talking about, for example, two people who are alone); $x_3$ space.  See also
-  {bitmu}, {snuji}, {senta}, {fendi}, {curve}, {jinsa}, {bitmu}, {marbi}.
-Examples: None
+word: sepli
+rafsi:
+- sep
+- sei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is apart/separate from x2, separated by partition/wall/gap/interval/separating
+      medium x3.
+    notes:
+    - Also aloof (= {jiksei}); alone (= {rolsmisei} meaning apart or unlike all others
+      of its kind; {pavysei}, {seirpavmei} meaning "only" or "one alone" - do not
+      use when talking about, for example, two people who are alone); x3 space.  See
+      also {bitmu}, {snuji}, {senta}, {fendi}, {curve}, {jinsa}, {bitmu}, {marbi}.
+    glosses:
+    - apart
+    - spaced (be separated to a distance)
+  de:
+    place structure: x1 ist getrennt/abgesondert von x2 getrennt durch Abtrennung/Mauer/Lücke/Intervall/Trennmedium
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - getrennt
+  es:
+    place structure: x1 está apartado/separado de x2, por partición/pared/abismo/brecha/intervalo/medio
+      x3
+    notes:
+    - Ver también {bitmu},  {snuji},  {senta}.
+    glosses:
+    - separado
+  ru:
+    place structure: x1 отделен от x2 преградой/дистанцией x3
+    notes:
+    - 'Нелюдим/отшельник/отчужденный: {jiksei}; одинокий: {rolsmisei}, т.е. не такой
+      как все, единственный в своем роде; {pavysei}, {seirpavmei} в смысле «в одиночестве/уединении»
+      — не употреблять по отношению напр. к двум уединившимся людям {bitmu} (стена),
+      {snuji} (прослойка), {senta} (слой), {fendi} (делить [разделять]), {curve} (чистый
+      [100%]), {jinsa} (чистый [очищенный]), {bitmu} (стена), {marbi} (убежище)'
+    glosses:
+    - x1=отделённый от
+    - x2=отделённое
+  en-simple:
+    place structure: x1 is separate from x2, separated by x3
+    notes:
+    - No notes.
+    glosses:
+    - something kept separate
+    - x2=something kept separate from
+    - x3=a separating partition
+  eo:
+    place structure: x1 estas aparta de x2, apartigitaj de vando/muro/breĉo/intervalo/apartiga
+      medio x3
+    notes:
+    - 'Ankaŭ: malkune (= {jiksei}); sola (= rolsmisei signifas apartan aŭ malkiel
+      ĉiu alia de sia speco; pavysei, seirpavmei signifas unu sola - ne uzu ekzemple
+      kiam parolante pri du homoj kiuj estas solaj); x3 spaco.  (kp.bitmu, snuji,
+      senta, fendi, curve, jinsa, bitmu, marbi)'
+    glosses:
+    - aparta
+  hu:
+    place structure: x1 el van választva x2-től, x3 fal/rés/szakasz/egyéb által
+    notes:
+    - '(Lásd még: {bitmu}, {snuji}, {senta}, {fendi}, {curve}, {jinsa}, {bitmu}, {marbi})'
+    glosses:
+    - elválasztva
+  ja:
+    place structure: x1 は x2 から x3 （区分／壁／間）によって離れている
+    notes:
+    - ・大意： 分離 ・読み方： セプルィ  ・語呂合わせ： セパレート分離 ・関連語： {bitmu}, {snuji}, {senta}, {fendi},
+      {curve}, {jinsa}, {bitmu}, {marbi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2是分开的/隔离的，被隔离物x3（如：墙/沟等）隔开
+    notes:
+    - 也指：冷漠的/冷淡的= {jiksei}；孤单/单独= {rolsmisei} 意味着与其所有的同类都不同；{pavysei}只有一个的孤单（不能用于谈论多个都孤单的人）；参见
+      {bitmu}, {snuji}, {senta}, {fendi}, {curve}, {jinsa}, {bitmu}, {marbi}.
+    glosses:
+    - No glosses.

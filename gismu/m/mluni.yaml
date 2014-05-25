@@ -1,6 +1,71 @@
-Word: mluni
-Rafsi: lun
-Definition: x1 is a satellite/moon orbiting x2 with characteristics x3, orbital parameters
-  x4.
-Notes: See also {plini}, {solri}, {lunra}.
-Examples: None
+word: mluni
+rafsi:
+- lun
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a satellite/moon orbiting x2 with characteristics x3, orbital
+      parameters x4.
+    notes:
+    - See also {plini}, {solri}, {lunra}.
+    glosses:
+    - satellite
+  de:
+    place structure: x1 ist ein Satellit/Trabant/Mond und umkreist x2 mit Eigenschaften
+      x3 und Umlaufbahn-Parametern x4
+    notes:
+    - No notes.
+    glosses:
+    - Trabant
+  es:
+    place structure: x1 es un satélite/luna en órbita alrededor de x2 con características
+      x3, parámetros de órbita x4
+    notes:
+    - Ver también {lunra}.
+    glosses:
+    - satélite
+  ru:
+    place structure: x1 — спутник/луна, обращающийся вокруг x2, с характеристиками
+      x3, орбитальными параметрами x4
+    notes:
+    - '{plini} (планета), {solri} (солнце), {lunra} (луна)'
+    glosses:
+    - спутник планеты
+    - x2=планета, вокруг которой вращается спутник
+    - x3=характеристики спутника планеты
+    - x4=орбитальные параметры спутника планеты
+  en-simple:
+    place structure: x1 is a satellite orbiting x2 with characteristics x3 and orbital
+      parameters x4
+    notes:
+    - No notes.
+    glosses:
+    - x2=something orbited by a moon
+    - x3=a characteristic of a moon
+    - x4=an orbital parameter of a moon
+  eo:
+    place structure: x1 estas satelito/luno orbitanta x2 kun karakterizaj ecoj x3,
+      orbitaj parametroj x4
+    notes:
+    - Vidu ankaŭ {plini}, {solri}, {lunra}.
+    glosses:
+    - satelito
+  hu:
+    place structure: x1 [a világűrben] kering x2 körül, x3 fizikai és x4 pályatulajdonságokkal
+    notes:
+    - '(Lásd még: {plini}, {solri}, {lunra})'
+    glosses:
+    - kering
+  ja:
+    place structure: x1 は x2 を周回する、 x3 （衛星特性）・ x4 （軌道特性）の衛星
+    notes:
+    - 「月」や「人工衛星」などの上位概念。 ・大意： 衛星 ・読み方： ムルゥニ  ・関連語： {plini}, {solri}, {lunra} (下位概念)
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是环绕x2的卫星，具有特征x3，环绕参数为x4
+    notes:
+    - 参见 {plini}, {solri}, {lunra}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,86 @@
-Word: lanzu
-Rafsi: laz
-Definition: x1 (mass) is a family with members including x2 bonded/tied/joined according
-  to standard x3.
-Notes: Also clan, tribe; $x_2$ is in $x_1$, a member of $x_1$ ({selylanzu} for reordered
-  places); relative (= {lazmi'u} - xy mintu y'y leka cmima da poi lanzu).  See also
-  {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
-Examples: None
+word: lanzu
+rafsi:
+- laz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass) is a family with members including x2 bonded/tied/joined
+      according to standard x3.
+    notes:
+    - Also clan, tribe; x2 is in x1, a member of x1 ({selylanzu} for reordered places);
+      relative (= {lazmi'u} - xy mintu y'y leka cmima da poi lanzu).  See also {natmi},
+      {cmima}, {girzu}, {jutsi}, {klesi}.
+    glosses:
+    - family
+  de:
+    place structure: x1 (Masse) ist eine Familie mit Mitgliedern unter anderem x2
+      verbunden gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Familie
+  es:
+    place structure: x1 es una familia/clan/tribu con miembros x2 unidos por lazo/relación
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - familia
+  ru:
+    place structure: x1 (масса) есть семья/род/клан/племя, включающая членов x2, связанных
+      узами x3 (родство/вид связи)
+    notes:
+    - 'x2 — член x1 ({selylanzu} с перестановкой мест; родственник: {lazmi''u} — {xy}
+      {mintu} {y''y} {le}{ka} {cmima} {da} {poi} [lanzu]) {natmi} (народ), {cmima}
+      (член), {girzu} (группа), {jutsi} (вид [рода (биологического)]), {klesi} (класс)'
+    glosses:
+    - x1=семья
+    - x2=член семьи
+    - x3=вид семейных уз
+  en-simple:
+    place structure: x1 is a family including x2 bonded by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - a family
+    - x2=a family member
+    - x3=a standard defining a family
+  eo:
+    place structure: x1 (kolektivaĵo) estas familio kun membro(j) x2 ligitaj laŭ normo
+      x3
+    notes:
+    - 'Ankaŭ: klano, tribo; x2 estas en x1, ano/membro de x1 (selylanzu por reordigitaj
+      lokoj); parenco (= lazmi''u - xy mintu y''y leka cmima da poi lanzu).  Vidu
+      ankaŭ {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.'
+    glosses:
+    - familio
+  hu:
+    place structure: x1 egy család/klán/törzs x2 tagokkal, akik x3 minta szerinti
+      kapcsolatban állnak egymással
+    notes:
+    - '(Lásd még: {natmi}, {cmima}, {girzu}, {jutsi}, {klesi})'
+    glosses:
+    - család
+  ja:
+    place structure: x1 （群）は x2 （成員）の、 x3 （基準）において結ばれている家族／部族
+    notes:
+    - ・大意： 家族 ・読み方： ルァンズ  ・語呂合わせ： clan, zu(族) ・関連語： {natmi}, {cmima}, {girzu}, {jutsi},
+      {klesi}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 (masa) to rodzina/klan z członkami składającymi się z x2 związani
+      z sobą według standardu x3. .
+    notes:
+    - Cf. {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
+    glosses:
+    - klan
+    - x1=rodzina
+  zh:
+    place structure: x1（团）是一家/一族的，成员包括x2，由标准x3联接/维系而成
+    notes:
+    - 也指：帮派/部落； x2是x1中的一个成员；亲戚= lazmi'u - xy mintu y'y leka cmima da poi lanzu；参见
+      {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
+    glosses:
+    - No glosses.

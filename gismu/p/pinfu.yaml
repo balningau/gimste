@@ -1,6 +1,69 @@
-Word: pinfu
-Rafsi: pif
-Definition: x1 is a prisoner/captive of x2, restrained/held/confined by means/force
-  x3.
-Notes: See also {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}.
-Examples: None
+word: pinfu
+rafsi:
+- pif
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a prisoner/captive of x2, restrained/held/confined by means/force
+      x3.
+    notes:
+    - See also {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}.
+    glosses:
+    - prisoner
+  de:
+    place structure: x1 ist ein Gefangener/Häftling von x2, festgehalten/gefesselt
+      mit Mittel/Kraft x3
+    notes:
+    - No notes.
+    glosses:
+    - Gefangener
+  es:
+    place structure: x1 es un prisionero/captivo de x2, sujeto por medio de fuerza
+      x3
+    notes:
+    - Ver también {kavbu},  {rinju},  {ralte},  {fanta}.
+    glosses:
+    - prisionero
+  ru:
+    place structure: x1 — пленник/заключенный/арестант x2 (чей), задерживаемый посредством/силой
+      x3
+    notes:
+    - '{zifre} (свободный), {kavbu} (ловить), {rinju} (удерживаться [от чего-либо]),
+      {ralte} (удерживать), {fanta} (препятствовать [не давать произойти]), {cilce}
+      (дикий)'
+    glosses:
+    - x1=пленник
+  en-simple:
+    place structure: x1 is a prisoner of x2 restrained by x3
+    notes:
+    - No notes.
+    glosses:
+    - a prisoner
+    - x2=something with a prisoner
+    - x3=a means of imprisonment
+  eo:
+    place structure: x1 estas malliberulo/kaptito de x2, retenita/enfermita per rimedo/forto
+      x3
+    notes:
+    - Vidu ankaŭ {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}.
+    glosses:
+    - malliberulo
+  hu:
+    place structure: x1 foglya x2-nek, x3 módon/erővel fogvatartva
+    notes:
+    - '(Lásd még: {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce})'
+    glosses:
+    - fogoly
+  ja:
+    place structure: x1 は x2 （拘束者）の x3 （収容方法）による囚人；  x1 は囚われの身
+    notes:
+    - ・大意： 囚人 ・読み方： ピンフゥ ・関連語： {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的囚犯/俘虏，被以方式/力量x3控制/囚禁/限制
+    notes:
+    - 参见 {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}.
+    glosses:
+    - No glosses.

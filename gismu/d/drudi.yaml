@@ -1,6 +1,82 @@
-Word: drudi
-Rafsi: rud, dru
-Definition: x1 is a roof/top/ceiling/lid of x2.
-Notes: (cf. bitmu, stedu, galtu, gapru, loldi, marbi, gacri, mapku; a drudi is (designed
-  to be) over/above something and shelters it from other things above the drudi, mapku)
-Examples: None
+word: drudi
+rafsi:
+- rud
+- dru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a roof/top/ceiling/lid of x2.
+    notes:
+    - (cf. bitmu, stedu, galtu, gapru, loldi, marbi, gacri, mapku; a drudi is (designed
+      to be) over/above something and shelters it from other things above the drudi,
+      mapku)
+    glosses:
+    - roof
+  de:
+    place structure: x1 ist ein Dach/Oberteil/Deckel/eine Decke von x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es un techo de x2
+    notes:
+    - No notes.
+    glosses:
+    - techo
+  ru:
+    place structure: x1 — крыша/потолок/крышка x2 (чего)
+    notes:
+    - Предназначено прикрывать нечто от других объектов сверху {bitmu} (стена), {stedu}
+      (голова), {galtu} (высокий), {gapru} (над), {loldi} (пол [дно]), {marbi} (убежище),
+      {gacri} (покрывать [в качестве крышки]), {mapku} (шапка)
+    glosses:
+    - крышка
+  en-simple:
+    place structure: x1 is a roof or lid of x2
+    notes:
+    - No notes.
+    glosses:
+    - a lid
+    - x2=something with a lid
+  eo:
+    place structure: x1 estas tegmento/supro/plafono/kovrilo de x2
+    notes:
+    - (kp. bitmu, stedu, galtu, gapru, loldi, marbi, gacri, mapku; drudi estas super
+      io kaj ŝirmas ĝin de aĵoj super la drudi, mapku)
+    glosses:
+    - tegmento
+  hu:
+    place structure: x1 a teteje/fedele x2-nek
+    notes:
+    - '(Lásd még: {bitmu}, {stedu}, {galtu}, {gapru}, {loldi}, {marbi}, {gacri}, {mapku})'
+    glosses:
+    - tető
+  ja:
+    place structure: x1 は x2 （本体）の屋根／天井／屋上／蓋
+    notes:
+    - ・大意： 屋根 ・読み方： ドルディ  ・関連語： {bitmu}, {stedu}, {galtu}, {gapru}, {loldi}, {marbi},
+      {gacri}, {mapku}; {drudi}, {mapku}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een dak/bovenkant/plafond van x2.
+    notes:
+    - Een 'drudi' is (gemaakt) over iets en beschermt het tegen andere dingen boven
+      de 'drudi'.
+    glosses:
+    - dak
+  sv:
+    place structure: x1 är ett tak/[övertäckande skydd/lock] för x2.
+    notes:
+    - en drudi är designad för att vara över/ovanför något och skydda det från det
+      som är ovanför (kyla, regn etc). Även innertak.
+    glosses:
+    - tak
+  zh:
+    place structure: x1是x2的顶部/上顶/顶端/上端部位
+    notes:
+    - 参见 {bitmu}, {stedu}, {galtu}, {gapru}, {loldi}, {marbi}, {gacri}, {mapku}
+    glosses:
+    - No glosses.

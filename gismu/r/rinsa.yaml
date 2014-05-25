@@ -1,6 +1,73 @@
-Word: rinsa
-Rafsi: ''
-Definition: x1 (agent) greets/hails/[welcomes/says hello to]/responds to arrival of
-  x2 in manner x3 (action).
-Notes: (cf. {friti} for welcome/hospitality, cmavo list {coi}, cmavo list {co'o})
-Examples: None
+word: rinsa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) greets/hails/[welcomes/says hello to]/responds to
+      arrival of x2 in manner x3 (action).
+    notes:
+    - (cf. {friti} for welcome/hospitality, cmavo list {coi}, cmavo list {co'o})
+    glosses:
+    - greet
+  jbo:
+    place structure: x1 frati x3 le nu x2 tolcliva
+    notes:
+    - '{frati}, {tolcliva}, {coi}'
+    glosses:
+    - rinsa
+  de:
+    place structure: x1 (Handelnder) grüßt/heißt x2 willkommen/reagiert auf Ankunft
+      von x2 durch Verhalten x3 (Handlung)
+    notes:
+    - No notes.
+    glosses:
+    - grüßen
+  es:
+    place structure: x1 saluda/recibe/da la bienvenida a x2 con acción x3
+    notes:
+    - No notes.
+    glosses:
+    - saludar
+  ru:
+    place structure: x1 приветствует/салютует/реагирует на прибытие x2 способом x3
+      (действие)
+    notes:
+    - '{friti} (предлагать), {coi}, {co''o}'
+    glosses:
+    - приветствовать
+    - x1=приветствующий
+  en-simple:
+    place structure: x1 welcomes or greets x2 in manner x3
+    notes:
+    - See also {friti} for welcome and hospitality, {coi}, {co'o}
+    glosses:
+    - x1=a welcomer
+    - x2=something welcomed
+    - x3=a manner of welcome
+  eo:
+    place structure: x1 (aganto) salutas/[bonvenigas]/respondas al alveno de x2 en
+      maniero x3 (ago)
+    notes:
+    - (kp. friti por bonveno/gastameco, cmavo coi, cmavo co'o)
+    glosses:
+    - saluti
+  hu:
+    place structure: x1 (cselekvő) üdvözli/köszön/reagál az érkezésére x2-nek, x3
+      formában (cselekedet)
+    notes:
+    - '(Lásd még: {friti})'
+    glosses:
+    - üdvözöl
+  ja:
+    place structure: x1 は x2 の到着／出発に際して x3 （動作）で挨拶する
+    notes:
+    - ・大意： 挨拶 ・読み方： リンサ  ・語呂合わせ： 挨拶やりんさい ・関連語： {friti}, {coi}, {co'o}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1问候/问好/欢迎x2，以礼节x3（行为）
+    notes:
+    - 参见 {friti}, {coi}, {co'o}
+    glosses:
+    - No glosses.

@@ -1,7 +1,72 @@
-Word: porsi
-Rafsi: por, poi
-Definition: x1 [ordered set] is sequenced/ordered/listed by comparison/rules x2 on
-  unordered set x3.
-Notes: Also (adjective:) $x_1$ is serial.  (sets are completely specified); See also
-  cmavo list {po'i}, {lidne}, {liste}, {cmima}.
-Examples: None
+word: porsi
+rafsi:
+- por
+- poi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [ordered set] is sequenced/ordered/listed by comparison/rules
+      x2 on unordered set x3.
+    notes:
+    - Also (adjective:) x1 is serial.  (sets are completely specified); See also cmavo
+      list {po'i}, {lidne}, {liste}, {cmima}.
+    glosses:
+    - sequence
+  de:
+    place structure: x1 [geordnete Menge] ist geordnet durch Regeln x2 auf der ungeordneten
+      Menge x3
+    notes:
+    - No notes.
+    glosses:
+    - Folge
+  es:
+    place structure: x1 es una secuencia ordenada segun reglas x2 aplicadas al conjunto
+      x3
+    notes:
+    - Ver también {lidne}.
+    glosses:
+    - secuencia
+  ru:
+    place structure: x1 — последовательность, полученная упорядочением по правилам
+      x2 множества x3
+    notes:
+    - 'Прилагательное: x1 — сериальный, (линейно) упорядоченный; множества x1 и x3
+      д.б. заданы полностью {po''i}, {lidne} (предшествовать), {liste} (список), {cmima}
+      (член)'
+    glosses:
+    - последовательность
+  en-simple:
+    place structure: x1 is ordered by rules x2 on unordered set x3
+    notes:
+    - No notes.
+    glosses:
+    - something ordered
+    - x2=a rule of ordering
+    - x3=something unordered
+  eo:
+    place structure: x1 estas vico/sinsekvo/ordigita/listigita per apliko de komparo/reguloj
+      x2 al neordigita aro x3
+    notes:
+    - 'Ankaŭ: (adjektivo:) x1 estas seria.  (aroj komplete specifitaj); Vidu ankaŭ
+      cmavo {po''i}, {lidne}, {liste}, {cmima}.'
+    glosses:
+    - sinsekvo
+  hu:
+    place structure: x1 egy sorozat/rendezett lista x2 összehasonlítás/szabályok szerint
+      rendezve, x3 halmaz elemeiből
+    notes:
+    - '(Lásd még: {lidne}, {liste}, {cmima})'
+    glosses:
+    - sorozat
+  ja:
+    place structure: x1 （並んだ集合）は x2 （規則／基準）に従って x3 （不整理の集合）を序列／順番化したもの；  x1 は列／連続体
+    notes:
+    - 「連載」や「シリーズ」も。 ・大意： 序列 ・読み方： ポルスィ  ・関連語： {po'i}, {lidne}, {liste}, {cmima}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（有序集合）以规则/参照x2排序，在无序集合x3中
+    notes:
+    - x1是有序的（集合需全部指明）；参见 {po'i}, {lidne}, {liste}, {cmima}.
+    glosses:
+    - No glosses.

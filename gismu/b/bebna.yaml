@@ -1,6 +1,102 @@
-Word: bebna
-Rafsi: beb
-Definition: x1 is foolish/silly in event/action/property [folly] (ka) x2; x1 is a
-  boob.
-Notes: See also {fenki}, {xajmi}, {prije}, {fliba}.
-Examples: None
+word: bebna
+rafsi:
+- beb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is foolish/silly in event/action/property [folly] (ka) x2;
+      x1 is a boob.
+    notes:
+    - See also {fenki}, {xajmi}, {prije}, {fliba}.
+    glosses:
+    - foolish
+  de:
+    place structure: x1 ist dumm/töricht/dämlich/albern/blöd in Ereignis/Aktion/Eigenschaft
+      [Dummheit/Torheit] (ka) x2; x1 ist ein Dummkopf/Idiot/Tor
+    notes:
+    - No notes.
+    glosses:
+    - dumm
+  es:
+    place structure: x1 es tonto/bobo/idiota/estúpido sobre asunto x2
+    notes:
+    - Ver también {prije}.
+    glosses:
+    - tonto
+  fr:
+    place structure: x1 est bête/stupide/ridicule dans l'aspect/la propriété x2 (ka).
+    notes:
+    - Il n'y a pas de place "selon xN", il faudrait alors penser à utiliser ma'i lorsque
+      nécessaire, car être bête n'est pas absolu. Voir également {fenki}, {xajmi},
+      {prije}, {fliba}.
+    glosses:
+    - bête (idiot)
+    - idiot
+  ru:
+    place structure: x1 поступает/ведет себя/выглядит глупо в событии/действии/свойстве
+      ({ka}) x2; x1 — дурак/глупец
+    notes:
+    - '{fenki} (сумасшедший), {xajmi} (смешной), {prije} (умный), {fliba} (терпеть
+      неудачу)'
+    glosses:
+    - x1=дурак
+  en-simple:
+    place structure: x1 is foolish in action or property x2
+    notes:
+    - No notes.
+    glosses:
+    - something foolish
+    - x2=a foolish action or property
+  eo:
+    place structure: x1 estas stulta/malsaĝa/malsprita en okazo/ago/eco [stultaĵo]
+      (ka) x2; x1 estas stultulo
+    notes:
+    - Vidu ankaŭ {fenki}, {xajmi}, {prije}, {fliba}.
+    glosses:
+    - stulta
+  hu:
+    place structure: x1 hülye/ostoba/bolond x2 helyzetben/cselekedetben/tulajdonságban
+    notes:
+    - '(Lásd még: {fenki}, {xajmi}, {prije}, {fliba})'
+    glosses:
+    - ostoba
+  ja:
+    place structure: x1 は x2 （性質）に関して愚か／ばかげている／思慮が無い；  x1 は阿呆／馬鹿
+    notes:
+    - 「fi lo sevzi ka bebna cu klaku je klaku .ei／自分の愚劣に泣け、泣け」（山頭火『行乞記（二）』） ・大意： 愚か
+      ・読み方： ベブナ ・語呂合わせ： ＜ベビーない＞, boob ・関連語： {fenki}, {xajmi}, {prije}, {fliba}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er tullete/tåpelig/dum i hendelse/handling/egenskap [dårskap]
+      (ka) x2; x1 er et fjols
+    notes:
+    - Se også {fenki}, {xajmi}, {fliba}, og antonymet {prije}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är dåraktig/stupid/dum/löjlig vad gäller händelse/handling/egenskap
+      (ka) x2; x1 är en dåre/dumbom.
+    notes:
+    - Se även {fenki}, {xalbo}, motsatsord {prije}.
+    glosses:
+    - dumbom
+    - dumhuvud
+    - dumskalle
+    - dåraktig
+    - dåraktighet
+    - dåre
+    - fåne
+    - fåntratt
+    - korkad
+    - löjlig (dåraktig)
+    - stupid
+    - x1=dum (obegåvad)
+    - x2=dumhet (obegåvad företeelse)
+  zh:
+    place structure: x1是愚蠢的，在时间/行为/性质（ka）x2上；x1是个傻瓜/白痴/弱智
+    notes:
+    - 参见 {fenki}, {xajmi}, {prije}, {fliba}.
+    glosses:
+    - No glosses.

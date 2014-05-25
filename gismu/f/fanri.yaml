@@ -1,6 +1,75 @@
-Word: fanri
-Rafsi: ''
-Definition: x1 is a factory/foundry/industrial plant/mill producing x2 from materials
-  x3.
-Notes: See also {molki}, {gundi}.
-Examples: None
+word: fanri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a factory/foundry/industrial plant/mill producing x2 from
+      materials x3.
+    notes:
+    - See also {molki}, {gundi}.
+    glosses:
+    - factory
+  de:
+    place structure: x1 ist eine Fabrik/eine Gießerei/ein Werk/eine Mühle und stellt
+      x2 aus Rohmaterial x2 her
+    notes:
+    - No notes.
+    glosses:
+    - Fabrik
+  es:
+    place structure: x1 es una fábrica/planta industrial que produce x2 con materiales
+      x3 en localidad x4
+    notes:
+    - Ver también {molki}.
+    glosses:
+    - fábrica
+  ru:
+    place structure: x1 — фабрика/завод, производящая x2 из материалов x3
+    notes:
+    - '{molki} (мельница), {gundi} (промышленность)'
+    glosses:
+    - фабрика
+  en-simple:
+    place structure: x1 is a factory or mill producing x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a factory
+    - x2=a factory product
+    - x3=a raw material for a factory
+  eo:
+    place structure: x1 estas uzino/fabriko/muelejo produktanta x2-on el materialoj
+      x3
+    notes:
+    - Vidu ankaŭ {molki}, {gundi}.
+    glosses:
+    - uzino
+  hu:
+    place structure: x1 egy gyár/üzem/malom, amely x2 terméket gyárt, x3 alapanyagokból
+    notes:
+    - '(Lásd még: {molki}, {gundi})'
+    glosses:
+    - gyár
+  ja:
+    place structure: x1 は x2 を x3 （材料）から製造する
+    notes:
+    - ・大意： 工場 ・読み方： ファンリ  ・語呂合わせ： ＜ファンをリクルート＞factory ・関連語： {molki} (下位概念), {gundi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en fabrik/gjuteri/industrianläggning som producerar x2
+      från material/råvaror x3.
+    notes:
+    - No notes.
+    glosses:
+    - industrianläggning
+    - x1=fabrik
+    - x3=industriråvara
+  zh:
+    place structure: x1是制造x2的工厂/制造厂，使用制造材料x3
+    notes:
+    - 参见 {molki}, {gundi}.
+    glosses:
+    - No glosses.

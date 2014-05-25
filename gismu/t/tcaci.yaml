@@ -1,6 +1,82 @@
-Word: tcaci
-Rafsi: cac
-Definition: x1 is a custom/habit/[ritual/rut] of x2 under conditions x3.
-Notes: 'Also: $x_1$ is customary/usual/the practice.  See also {fadni}, {kampu}, {lakne},
-  {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli}, {javni}, {zekri}.'
-Examples: None
+word: tcaci
+rafsi:
+- cac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a custom/habit/[ritual/rut] of x2 under conditions x3.
+    notes:
+    - 'Also: x1 is customary/usual/the practice.  See also {fadni}, {kampu}, {lakne},
+      {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli}, {javni}, {zekri}.'
+    glosses:
+    - custom (habit)
+  de:
+    place structure: x1 ist ein Brauch/eine Gewohnheit/Sitte/[Ritual] von x2 unter
+      Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - Brauch
+  es:
+    place structure: x1 (evento) es una costumbre/hábito de x2 bajo condiciones x3
+    notes:
+    - No notes.
+    glosses:
+    - costumbre
+  ru:
+    place structure: x1 — обычай/привычка/традиция/принятая практика/{ритуал}/{рутина}
+      для x2 в условиях x3
+    notes:
+    - 'x1 привычно/принято {fadni} (типичный), {kampu} (общий [о свойстве]), {lakne}
+      (вероятный), {jinzi} (присущий), {ckaji} (характеризоваться), {cnano} (нормальный),
+      {tarti} (вести [себя: поведение]), {ritli} (ритуал), {javni} (правило [предписание]),
+      {zekri} (преступление)'
+    glosses:
+    - x1=обычай
+  en-simple:
+    place structure: x1 is a custom or habit of x2
+    notes:
+    - No notes.
+    glosses:
+    - custom (habit)
+    - x1=a custom
+    - x2=something with a custom
+    - x3=a condition of a custom
+  eo:
+    place structure: x1 estas kutimo/[rito/rutino] de x2 sub kondiĉoj x3
+    notes:
+    - 'Ankaŭ: x1 estas kutima/ordinara.  Vidu ankaŭ {fadni}, {kampu}, {lakne}, {jinzi},
+      {ckaji}, {cnano}, {tarti}, {ritli}, {javni}, {zekri}.'
+    glosses:
+    - kutimo
+  hu:
+    place structure: x1 egy szokása/hagyománya x2-nek, x3 alkalommal/körülmények között
+    notes:
+    - '(Lásd még: {fadni}, {kampu}, {lakne}, {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli},
+      {javni}, {zekri})'
+    glosses:
+    - szokás
+  ja:
+    place structure: x1 は x2 の、 x3 （条件）における習慣／慣習／風習／慣行／習性／性癖／慣わし
+    notes:
+    - x3は「時代」など。 ・大意： 習慣 ・読み方： チャシ  ・語呂合わせ： narawaci 慣わし, お茶しよう, ci（習）, custom,habit
+      ・関連語： {fadni}, {kampu}, {lakne}, {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli},
+      {javni}, {zekri}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest zwyczajem/rytuałem praktykowanym przez x2 w warunkach
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - rytuał
+    - zwyczaj
+  zh:
+    place structure: x1是x2的习俗/习惯，在条件x3下
+    notes:
+    - 也指：x1是常见的/司空见惯的；参见 {fadni}, {kampu}, {lakne}, {jinzi}, {ckaji}, {cnano}, {tarti},
+      {ritli}, {javni}, {zekri}.
+    glosses:
+    - No glosses.

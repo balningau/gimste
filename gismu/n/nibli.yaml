@@ -1,6 +1,77 @@
-Word: nibli
-Rafsi: nib, ni'i
-Definition: x1 logically necessitates/entails/implies action/event/state x2 under
-  rules/logic system x3.
-Notes: See also {natfe}, {rinka}, {mukti}, {krinu}, cmavo list {ni'i}, {jalge}, {logji}.
-Examples: None
+word: nibli
+rafsi:
+- nib
+- ni'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 logically necessitates/entails/implies action/event/state
+      x2 under rules/logic system x3.
+    notes:
+    - See also {natfe}, {rinka}, {mukti}, {krinu}, cmavo list {ni'i}, {jalge}, {logji}.
+    glosses:
+    - necessitate
+  jbo:
+    place structure: x3 logji le du'u x2 sarcu x1 zi'o
+    notes:
+    - '{ni''i}; {sarcu}'
+    glosses:
+    - nibli
+  de:
+    place structure: x1 erfordert logisch/führt zu/hat zur Folge/impliziert Handlung/Ereignis/Zustand
+      x2 unter Regeln/Logik x3
+    notes:
+    - No notes.
+    glosses:
+    - logisch erfordern
+  es:
+    place structure: x1 implica x2 según reglas/logica x3
+    notes:
+    - Ver también {natfe},  {rinka},  {mukti},  {krinu}.
+    glosses:
+    - implicar
+  ru:
+    place structure: x1 с (логической) необходимостью влечет за собой x2 согласно
+      правилам/логической системе x3; x2 неизбежно следует из x1
+    notes:
+    - '{natfe} (опровергать), {rinka} (причина [физическая]), {mukti} (повод), {krinu}
+      (резон), {ni''i}, {jalge} (результат), {logji} (логика)'
+    glosses:
+    - влечь за собой
+    - x1=влекущий за собой
+    - x2=неизбежно следуемое
+  en-simple:
+    place structure: x1 implies x2 under rules x3
+    notes:
+    - No notes.
+    glosses:
+    - an implier
+    - x2=an implication
+    - x3=a rule of an implication
+  eo:
+    place structure: x1 logike implicas/necesigas agon/okazon/staton x2 laŭ reguloj/logiko
+      x3
+    notes:
+    - Vidu ankaŭ {natfe}, {rinka}, {mukti}, {krinu}, cmavo {ni'i}, {jalge}, {logji}.
+    glosses:
+    - implici
+  hu:
+    place structure: x1 logikailag maga után vonja x2 eseményt/állapotot x3 logika
+      szerint
+    notes:
+    - '(Lásd még: {natfe}, {rinka}, {mukti}, {krinu}, {jalge}, {logji})'
+    glosses:
+    - maga után von
+  ja:
+    place structure: x1 は x2 （事）を x3 （法則／論理／体系）において余儀なく含意する／もたらす；  x1 によって x2 は絶対／まちがいなく起こる
+    notes:
+    - ・大意： 必然 ・読み方： ニブルィ  ・語呂合わせ： 必然なのはにぶりだ ・関連語： {natfe}, {rinka}, {mukti}, {krinu},
+      {ni'i}, {jalge}, {logji}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是行为/事件/状态x2的必要条件，基于规则/逻辑系统x3
+    notes:
+    - 参见 {natfe}, {rinka}, {mukti}, {krinu},{ni'i}, {jalge}, {logji}.
+    glosses:
+    - No glosses.

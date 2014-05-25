@@ -1,5 +1,55 @@
-Word: brodu
-Rafsi: ''
-Definition: 5th assignable variable predicate (context determines place structure).
-Notes: No notes available.
-Examples: None
+word: brodu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 5th assignable variable predicate (context determines place structure).
+    notes:
+    - No notes.
+    glosses:
+    - predicate var 5
+  jbo:
+    place structure: mumoi brika'i .i ka'e se snigau sepi'o zo cei
+    notes:
+    - '{snigau} {brika''i}; {cei}'
+    glosses:
+    - brodu
+  de:
+    place structure: x1 ist fünftes zuweisbares variables Prädikat (der Kontext bestimmt
+      die Platzstruktur)
+    notes:
+    - No notes.
+    glosses:
+    - Prädikatvar 5
+  es:
+    place structure: 5to predicado variable asignable
+    notes:
+    - No notes.
+    glosses:
+    - predicado var 5
+  en-simple:
+    place structure: x1 is the predicate variable 5
+    notes:
+    - No notes.
+    glosses:
+    - predicate variable 5
+  eo:
+    place structure: 5a asignebla predikata varianto (kunteksto determinas la argumentostrukturon)
+    notes:
+    - No notes.
+    glosses:
+    - predikata varianto 5
+  ja:
+    place structure: 代ブリディその5［x1を始めとするPS全体が文脈次第］
+    notes:
+    - '{cei} を使って {selbri} を代入できる。 ・大意： 第五 selbri 変数 ・読み方： ブロドゥ  ・関連語： {bu''a}, {bu''e},
+      {bu''i}'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是第五个可被分配的谓词变量（上下文决定位置结构）
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.

@@ -1,6 +1,80 @@
-Word: ckeji
-Rafsi: kej, cke
-Definition: x1 feels ashamed/mortified/humiliated under conditions x2 before community/audience
-  x3.
-Notes: See also {cinmo}.
-Examples: None
+word: ckeji
+rafsi:
+- kej
+- cke
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels ashamed/mortified/humiliated under conditions x2 before
+      community/audience x3.
+    notes:
+    - See also {cinmo}.
+    glosses:
+    - ashamed
+  de:
+    place structure: x1 schämt sich/fühlt sich gedemütigt/beschämt unter Umständen
+      x2 vor Gemeinschaft/Publikum x3
+    notes:
+    - No notes.
+    glosses:
+    - schämen
+  es:
+    place structure: x1 siente vergu:enza/humillación/mortificación bajo condiciones
+      x2 ante comunidad/audiencia x3
+    notes:
+    - No notes.
+    glosses:
+    - avergonzarse
+  ru:
+    place structure: x1 чувствует стыд/унижение в условиях x2 перед коллективом/аудиторией
+      x3; x1 (кому) стыдно
+    notes:
+    - '{cinmo} (эмоциональный)'
+    glosses:
+    - стыдиться
+    - x1=стыдящийся
+  en-simple:
+    place structure: x1 feels ashamed under conditions x2 before audience x3
+    notes:
+    - No notes.
+    glosses:
+    - something ashamed
+    - x2=a condition of shame
+    - x3=an audience of something ashamed
+  eo:
+    place structure: x1 hontas/sentas honton/ĉagrenon/humiligon sub kondiĉoj x2 antaŭ
+      komunumo/ĉeestantaro x3
+    notes:
+    - Vidu ankaŭ {cinmo}.
+    glosses:
+    - honti
+  hu:
+    place structure: x1 szégyelli magát x2 körülmények között, x3 közösség/közönség
+      előtt
+    notes:
+    - '(Lásd még: {cinmo})'
+    glosses:
+    - szégyenkezik
+  ja:
+    place structure: x1 は x2 （事）について x3 （公衆）にたいする恥ずかしさ／引け目を感じる
+    notes:
+    - ・大意： 恥じる ・読み方： シケジ  ・関連語： {cinmo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 skäms/känner sig förödmjukad/kränkt under omständigheter x2
+      inför gemenskap/publik x3.
+    notes:
+    - No notes.
+    glosses:
+    - skäms
+    - x1=förödmjukad
+    - x2=skämmigt (omständighet att känna skam inför)
+    - x3=skamgemenskap (gemenskap som en skäms inför)
+  zh:
+    place structure: x1感觉耻辱/羞耻，在环境/条件/情形x2下，在x3面前
+    notes:
+    - 参见 {cinmo}.
+    glosses:
+    - No glosses.

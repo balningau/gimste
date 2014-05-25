@@ -1,5 +1,77 @@
-Word: jdice
-Rafsi: jdi
-Definition: x1 (person) decides/makes decision x2 (du'u) about matter x3 (event/state).
-Notes: See also {pajni}, {cuxna}, {kanji}, {manri}.
-Examples: None
+word: jdice
+rafsi:
+- jdi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) decides/makes decision x2 (du'u) about matter x3
+      (event/state).
+    notes:
+    - See also {pajni}, {cuxna}, {kanji}, {manri}.
+    glosses:
+    - decide
+    - determine (ascertain definitely)
+  de:
+    place structure: x1 (Person) entscheidet/trifft Entscheidung x2 (du'u) in Bezug
+      auf Angelegenheit x3 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - entscheiden
+  es:
+    place structure: x1 decide/toma decisión x2 (du'u) acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - decidir
+  ru:
+    place structure: x1 решает/принимает решение x2 ({du'u}) насчет x3 (событие/состояние);
+      x1 решает, что x2 ({du'u})
+    notes:
+    - '{pajni} (судить), {cuxna} (выбирать), {kanji} (вычислять), {manri} (эталон)'
+    glosses:
+    - принимать решение
+    - x1=принимающий решение
+    - x2=принимаемое решение
+  en-simple:
+    place structure: x1 makes decision x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - a decider
+    - x2=a decision
+    - x3=a matter of decision
+  eo:
+    place structure: x1 (homo) decidas x2-on (du'u) pri afero x3 (okazo/stato)
+    notes:
+    - (kp. pajni, cŭna, kanji, manri)
+    glosses:
+    - decidi
+  hu:
+    place structure: x1 (személy) meghozza x2 döntést x3 ügyben
+    notes:
+    - '(Lásd még: {pajni}, {cuxna}, {kanji}, {manri})'
+    glosses:
+    - döntést hoz
+  ja:
+    place structure: x1 （者）は x2 （命題）であると x3 （題目／事）について決める／定める
+    notes:
+    - ・大意： 決める ・読み方： ジディシェ  ・関連語： {pajni}, {cuxna}, {kanji}, {manri}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (person) bestämmer sig för/beslutar/fattar beslut x2 (du'u)
+      about matter x3 (event/state).
+    notes:
+    - No notes.
+    glosses:
+    - besluta
+    - bestämma sig för
+    - fatta beslut
+  zh:
+    place structure: x1做决定x2（du'u），关于x3（事件/状态）
+    notes:
+    - 参见 {pajni}, {cuxna}, {kanji}, {manri}.
+    glosses:
+    - No glosses.

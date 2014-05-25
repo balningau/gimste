@@ -1,5 +1,74 @@
-Word: vrici
-Rafsi: ''
-Definition: x1 (set/mass/ind.) is miscellaneous/various/assorted in property x2 (ka).
-Notes: See also {klesi}, {girzu}, {frica}, {simsa}, {panra}.
-Examples: None
+word: vrici
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (set/mass/ind.) is miscellaneous/various/assorted in property
+      x2 (ka).
+    notes:
+    - See also {klesi}, {girzu}, {frica}, {simsa}, {panra}.
+    glosses:
+    - miscellaneous
+  jbo:
+    place structure: x1 ckaji x2 ije lo pagbu be x1 cu simxu lo ka ce'u ce'u frica
+      x2 i x1 to'e manfo x2
+    notes:
+    - '{frica}, {manfo}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Menge/Masse/Einzelne/r/s) ist gemischt/divers/verschieden
+      in Eigenschaft x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - gemischt
+  es:
+    place structure: x1 es misceláneo/vario/diverso/heterogéneo en propiedad x2
+    notes:
+    - Ver también {manfo}.
+    glosses:
+    - misceláneo
+  ru:
+    place structure: x1 — разнообразный/смешанный/неоднородный/гетерогенный в отношении
+      свойства x2 ({ka})
+    notes:
+    - '{klesi} (класс), {girzu} (группа), {frica} (отличаться), {simsa} (похожий),
+      {panra} (подобный)'
+    glosses:
+    - разнообразный
+  en-simple:
+    place structure: x1 is miscellaneous or assorted in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something miscellaneous
+    - x2=a property of being miscellaneous
+  eo:
+    place structure: x1 (set/mass/ind.) estas diversa/multspeca/sortimenta en eco
+      x2 (ka)
+    notes:
+    - Vidu ankaŭ {klesi}, {girzu}, {frica}, {simsa}, {panra}.
+    glosses:
+    - diversa
+  hu:
+    place structure: x1 halmaz/sokaság/egyének összessége vegyes/változó x2 tulajdonságban
+    notes:
+    - '(Lásd még: {klesi}, {girzu}, {frica}, {simsa}, {panra})'
+    glosses:
+    - vegyes
+  ja:
+    place structure: x1 （集合／群／個）は x2 （性質）の点で種々雑多／様々／色とりどり
+    notes:
+    - 「ro da vrici ke kampre mutce／みんなとり／″＼に人間味たつぷりだ」（山頭火『行乞記（二）』） ・大意： 様々 ・読み方： ヴリシ  ・関連語：
+      {klesi}, {girzu}, {frica}, {simsa}, {panra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（集合/团体/个体）是各种各样的/混杂的/多样的，在性质x2（ka）上
+    notes:
+    - 参见 {klesi}, {girzu}, {frica}, {simsa}, {panra}.
+    glosses:
+    - No glosses.

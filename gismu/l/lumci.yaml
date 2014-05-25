@@ -1,7 +1,81 @@
-Word: lumci
-Rafsi: lum, lu'i
-Definition: x1 (agent) washes/cleanses x2 of soil/contaminant x3 in/with cleaning
-  material(s) x4.
-Notes: Agentless washing/cleansing (= {cuvbi'o}, {jisybi'o}).  See also {djacu}, {jinru},
-  {litki}, {zbabu}, {jinsa}, {curve}.
-Examples: None
+word: lumci
+rafsi:
+- lum
+- lu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) washes/cleanses x2 of soil/contaminant x3 in/with
+      cleaning material(s) x4.
+    notes:
+    - Agentless washing/cleansing (= {cuvbi'o}, {jisybi'o}).  See also {djacu}, {jinru},
+      {litki}, {zbabu}, {jinsa}, {curve}.
+    glosses:
+    - wash
+  de:
+    place structure: x1 (Handelnder) wäscht/spült/reinigt x2 von Schmutz/Verunreinigungen
+      x3 mit Putzmittel(n) x4
+    notes:
+    - No notes.
+    glosses:
+    - waschen
+  es:
+    place structure: x1 lava/limpia/friega x2 en la suciedad x3 con material de limpieza
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - lavar
+  ru:
+    place structure: x1 моет/чистит x2 от грязи/загрязнения x3 с помощью моющих средств
+      x4
+    notes:
+    - 'Cамоочищение, в отсутствие внешнего агента: {cuvbi''o}, {jisybi''o} {djacu}
+      (вода), {jinru} (погруженный [в жидкость]), {litki} (жидкость), {zbabu} (мыло),
+      {jinsa} (чистый [очищенный]), {curve} (чистый [100%])'
+    glosses:
+    - x1=мыть
+    - x2=то, что моют
+    - x3=отмываемая грязь
+    - x4=моющее средство
+  en-simple:
+    place structure: x1 washes x2 of contaminant x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a washer
+    - x2=something washed
+    - x3=a contaminant removed by washing
+    - x4=a cleaning material for washing
+  eo:
+    place structure: x1 (aganto) lavas/purigas x2-on de malpuraĵo x3 en/per lavmaterialo(j)
+      x4
+    notes:
+    - Senaganta laviĝo/puriĝo (= {cuvbi'o}, {jisybi'o}).  Vidu ankaŭ {djacu}, {jinru},
+      {litki}, {zbabu}, {jinsa}, {curve}.
+    glosses:
+    - lavi
+  hu:
+    place structure: x1 (cselekvő) mossa/tiszítja x2-t x3 szennyeződéstől/szennyezőanyag(ok)tól,
+      x4 tisztítószer(ek)kel/-ben
+    notes:
+    - '(Lásd még: {djacu}, {jinru}, {litki}, {zbabu}, {jinsa}, {curve})'
+    glosses:
+    - mos
+  ja:
+    place structure: x1 は x2 の汚れ x3 を洗浄剤／用具 x4 で洗う
+    notes:
+    - ・大意： 洗う ・読み方： ルゥムシ  ・語呂合わせ： 洗い汚れる無視 ・関連語： {djacu}, {jinru}, {litki}, {zbabu},
+      {jinsa}, {curve}
+    - ''
+    glosses:
+    - x1=洗う
+    - x2=汚れもの (洗う対象)
+    - x3=汚れ (洗い落とされるもの)
+  zh:
+    place structure: x1清洗/清洁x2上的秽物/污物x3，使用清洁材料x4
+    notes:
+    - 变得清洁/干净={cuvbi'o}/{jisybi'o}；参见 {djacu}, {jinru}, {litki}, {zbabu}, {jinsa},
+      {curve}.
+    glosses:
+    - No glosses.

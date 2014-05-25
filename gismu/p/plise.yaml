@@ -1,5 +1,69 @@
-Word: plise
-Rafsi: ''
-Definition: x1 is an apple [fruit] of species/strain x2.
-Notes: See also {grute}.
-Examples: None
+word: plise
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an apple [fruit] of species/strain x2.
+    notes:
+    - See also {grute}.
+    glosses:
+    - apple
+  de:
+    place structure: x1 ist ein Apfel [Frucht] der Spezies/des Stammes x2.
+    notes:
+    - Siehe auch {grute}
+    glosses:
+    - Apfel
+  es:
+    place structure: x1 es una manzana (fruta) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - manzana
+  ru:
+    place structure: x1 — яблоко (фрукт) вида/сорта x2
+    notes:
+    - '{grute} (плод [фрукт])'
+    glosses:
+    - яблоко
+    - x2=вид яблок
+  en-simple:
+    place structure: x1 is an apple of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an apple
+    - x2=a species of apple
+  eo:
+    place structure: x1 estas pomo [frukto] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {grute}.
+    glosses:
+    - pomo
+  hu:
+    place structure: x1 egy alma [a Malus sieversii/sylvestris/domestica gyümölcse]
+      az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute})'
+    glosses:
+    - alma
+  ja:
+    place structure: x1 は x2 （種類）のリンゴ属植物
+    notes:
+    - 通常は果実を指す。 ・大意： 林檎 ・読み方： プルィセ  ・関連語： {grute}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest jabłkiem [owoc] gatunku/odmiany x2.
+    notes:
+    - No notes.
+    glosses:
+    - jabłko
+  zh:
+    place structure: x1是苹果，属于品种/种类x2
+    notes:
+    - 参见 {grute}.
+    glosses:
+    - No glosses.

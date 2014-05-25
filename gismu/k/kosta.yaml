@@ -1,6 +1,69 @@
-Word: kosta
-Rafsi: kos
-Definition: x1 is a coat/jacket/sweater/cloak/[cape/shawl/pullover] [extra outer garment]
-  of material x2.
-Notes: See also {pastu}, {sunla}, {taxfu}.
-Examples: None
+word: kosta
+rafsi:
+- kos
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a coat/jacket/sweater/cloak/[cape/shawl/pullover] [extra
+      outer garment] of material x2.
+    notes:
+    - See also {pastu}, {sunla}, {taxfu}.
+    glosses:
+    - coat
+  de:
+    place structure: x1 ist ein Mantel/Umhang/eine Jacke/Strickjacke/[ein Pullover]
+      [zusätzliche äußere Kleidung] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Mantel
+  es:
+    place structure: x1 es un abrigo/chaqueta/casaca/tricota/sweater/capa/mantilla/pulover/saco/poncho
+      (prenda de vestir) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - abrigo
+  ru:
+    place structure: x1 — пальто/куртка/свитер/пиджак/плащ/{накидка/шаль} (дополнительная
+      верхняя одежда) из материала x2
+    notes:
+    - 'Шуба: {sirsunla} {kosta} {pastu} (платье), {sunla} (шерсть), {taxfu} (одежда)'
+    glosses:
+    - куртка
+    - x2=материал куртки
+  en-simple:
+    place structure: x1 is a jacket or sweater of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a jacket
+    - x2=a material of a jacket
+  eo:
+    place structure: x1 estas jako/ĵako/frako/redingoto/trikoto/mantelo/kapoto [kroma
+      ekstera vesto] el materialo x2
+    notes:
+    - Vidu ankaŭ {pastu}, {sunla}, {taxfu}.
+    glosses:
+    - jako
+  hu:
+    place structure: x1 egy kabát/dzseki/köpeny/mellény/pulóver [extra külső ruharéteg]
+      x2 anyagból
+    notes:
+    - '(Lásd még: {pastu}, {sunla}, {taxfu})'
+    glosses:
+    - kabát
+  ja:
+    place structure: x1 は x2 （素材）のコート／ジャケット／マント
+    notes:
+    - 屋外向けに追加的に着る上着全般。 ・大意： コート ・読み方： コスタ  ・語呂合わせ： コートこすった ・関連語： {pastu}, {sunla},
+      {taxfu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由材料x2制成的外套/夹克/披风（主要指穿在最外面的衣服）
+    notes:
+    - 参见 {pastu}, {sunla}, {taxfu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,61 @@
-Word: zbani
-Rafsi: ''
-Definition: x1 is a bay in/of coast/shoreline x2.
-Notes: See also {lalxu}, {xamsi}.
-Examples: None
+word: zbani
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bay in/of coast/shoreline x2.
+    notes:
+    - See also {lalxu}, {xamsi}.
+    glosses:
+    - bay
+  de:
+    place structure: x1 ist eine Bucht von/in Küste x2
+    notes:
+    - No notes.
+    glosses:
+    - Bucht
+  es:
+    place structure: x1 es una bahía en costa x2
+    notes:
+    - No notes.
+    glosses:
+    - bahía
+  ru:
+    place structure: x1 — залив/бухта в береговой линии x2
+    notes:
+    - '{lalxu} (озеро), {xamsi} (море)'
+    glosses:
+    - залив
+  en-simple:
+    place structure: x1 is a bay of coast x2
+    notes:
+    - No notes.
+    glosses:
+    - a bay
+    - x2=a shoreline with bay
+  eo:
+    place structure: x1 estas golfo en/de marbordo x2
+    notes:
+    - Vidu ankaŭ {lalxu}, {xamsi}.
+    glosses:
+    - golfo
+  hu:
+    place structure: x1 egy öböl x2 partvonalon
+    notes:
+    - '(Lásd még: {lalxu}, {xamsi})'
+    glosses:
+    - öböl
+  ja:
+    place structure: x1 は x2 （所）の沿岸／海岸／湖岸／入江／湾
+    notes:
+    - ・大意： 沿岸 ・読み方： ズバニ  ・語呂合わせ： ＜ずっと馬肉食う＞ ・関連語： {lalxu}, {xamsi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是海岸线/海滨线x2上的海湾
+    notes:
+    - 参见 {lalxu}, {xamsi}.
+    glosses:
+    - No glosses.

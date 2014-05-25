@@ -1,5 +1,71 @@
-Word: claxu
-Rafsi: cau
-Definition: x1 is without/lacking/free of/lacks x2; x1 is x2-less.
-Notes: See also cmavo list {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.
-Examples: None
+word: claxu
+rafsi:
+- cau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is without/lacking/free of/lacks x2; x1 is x2-less.
+    notes:
+    - See also cmavo list {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 mangelt es an/ist ohne/frei von x2; x1 ist x2-los.
+    notes:
+    - Siehe auch Cmavo-Liste {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.
+    glosses:
+    - ohne
+  es:
+    place structure: x1 es carece de/no tiene/está sin x2
+    notes:
+    - Ver también {nitcu},  {pindi},  {banzu}.
+    glosses:
+    - carecer
+  ru:
+    place structure: x1 лишен x2; x1 (кому/чему) не хватает x2 (чего); у x1 отсутствует
+      x2; x1 — без x2
+    notes:
+    - '{cau}, {cirko} (терять), {kunti} (пустой), {nitcu} (нуждаться), {pindi} (бедный),
+      {banzu} (достаточный)'
+    glosses:
+    - x1=лишённый
+  en-simple:
+    place structure: x1 lacks x2
+    notes:
+    - No notes.
+    glosses:
+    - a lacker
+    - x2=something lacked
+  eo:
+    place structure: x1 estas sen x2; x2 mankas al x1
+    notes:
+    - Vidu ankaŭ cmavo {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.
+    glosses:
+    - sen
+  hu:
+    place structure: x1-ból hiányzik x2 / x1 mentes x2-től
+    notes:
+    - '(Lásd még: {cirko}, {kunti}, {nitcu}, {pindi}, {banzu})'
+    glosses:
+    - mentes
+  ja:
+    place structure: x1 は x2 を欠く；  x1 は x2 無し
+    notes:
+    - 「足りない」も。 ・大意： 欠く ・読み方： シルァクゥ  ・語呂合わせ： 面白み欠く素面 ・関連語： {cau}, {cirko}, {kunti},
+      {nitcu}, {pindi}, {banzu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är utan/saknar x2; x1 är x2-lös.
+    notes:
+    - No notes.
+    glosses:
+    - sakna (vara utan)
+    - utan (vara utan)
+  zh:
+    place structure: x1缺少/不含有/缺乏x2
+    notes:
+    - 参见 {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.
+    glosses:
+    - No glosses.

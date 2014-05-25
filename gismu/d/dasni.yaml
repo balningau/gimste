@@ -1,5 +1,79 @@
-Word: dasni
-Rafsi: das
-Definition: x1 wears/is robed/garbed in x2 as a garment of type x3.
-Notes: $x_2$ need not be intended for use as a garment (unlike taxfu).  See also {taxfu}.
-Examples: None
+word: dasni
+rafsi:
+- das
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 wears/is robed/garbed in x2 as a garment of type x3.
+    notes:
+    - x2 need not be intended for use as a garment (unlike taxfu).  See also {taxfu}.
+    glosses:
+    - wear
+  de:
+    place structure: x1 trägt x2/hat x2 an/ist bekleidet mit x2 als Kleidungsstück
+      vom Typ x3
+    notes:
+    - No notes.
+    glosses:
+    - Kleidung tragen
+  es:
+    place structure: x1 viste/lleva x2 como vestimenta de tipo x3
+    notes:
+    - Ver también {taxfu}.
+    glosses:
+    - vestir
+  ru:
+    place structure: x1 носит x2 как одежду вида x3; x1 одет в x2
+    notes:
+    - x2 не обязательно предназначено для ношения в качестве одежды (в отличие от
+      {taxfu}) {taxfu} (одежда)
+    glosses:
+    - носить (одежду)
+    - x1=носящий (одежду)
+  en-simple:
+    place structure: x1 wears x2 as garment of type x3
+    notes:
+    - No notes.
+    glosses:
+    - a wearer
+    - x2=something worn
+    - x3=a type of worn garment
+  eo:
+    place structure: x1 portas/estas envestiĝinta/enrobiĝinta en x2 kiel vesto de
+      speco x3
+    notes:
+    - x2 ne necese estas destinita por uzado kiel vesto (malkiel taxfu).  Vidu ankaŭ
+      {taxfu}.
+    glosses:
+    - porti
+  hu:
+    place structure: x1 hordja/viseli x2-t [ami nem feltétlenül ruha], x3 ruhadarabként/helyett
+    notes:
+    - '(Lásd még: {taxfu})'
+    glosses:
+    - visel (hord)
+  ja:
+    place structure: x1 は x2 を x3 （着用様式）で着ている／履いている／被っている／身に付けている
+    notes:
+    - 身に着けている状態を表す。 「{co'a} {dasni}／着る」「{co'u} {dasni}／脱ぐ」 x2 は、 {taxfu} と違って、着用目的で作られたものでなくても構わない。
+      ・大意： 着用 ・読み方： ダスニ  ・語呂合わせ： ＜ダサいニット＞ ・関連語： {taxfu}
+    glosses:
+    - 着る (着ている)
+  sv:
+    place structure: x1 är (ut)klädd i/bär/har på sig/utstyrd i x2 som är en utstyrsel
+      av typ x3.
+    notes:
+    - No notes.
+    glosses:
+    - ha på sig (kläder etc)
+    - klä ut sig
+    - utstyrd (klädsel)
+    - x1=utstyrd
+    - x2=utstyrsel
+    - x3=utstyrsel sort
+  zh:
+    place structure: x1穿戴x2，作为x3类型的服饰
+    notes:
+    - x2不必要是服饰（与taxfu不同）；参见 {taxfu}.
+    glosses:
+    - No glosses.

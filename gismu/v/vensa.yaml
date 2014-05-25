@@ -1,6 +1,67 @@
-Word: vensa
-Rafsi: ves
-Definition: x1 is spring/springtime [warming season] of year x2 at location x3; (adjective:)
-  x1 is vernal.
-Notes: See also {citsi}, {crisa}, {critu}, {dunra}.
-Examples: None
+word: vensa
+rafsi:
+- ves
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is spring/springtime [warming season] of year x2 at location
+      x3; (adjective:) x1 is vernal.
+    notes:
+    - See also {citsi}, {crisa}, {critu}, {dunra}.
+    glosses:
+    - spring
+  de:
+    place structure: x1 ist Frühling [erwärmende Jahreszeit] von Jahr x2 an Ort x3;
+      (Adjektiv:) x1 ist frühlingshaft
+    notes:
+    - No notes.
+    glosses:
+    - Frühling
+  es:
+    place structure: x1 es la primavera/estación de florecimiento del año x2 en localidad
+      x3
+    notes:
+    - Ver también {crisa},  {critu},  {dunra}.
+    glosses:
+    - primavera
+  ru:
+    place structure: x1 — весна (сезон потепления) года x2 в местности x3
+    notes:
+    - '{citsi} (сезон), {crisa} (лето), {critu} (осень), {dunra} (зима)'
+    glosses:
+    - весна
+  en-simple:
+    place structure: x1 is spring of year x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a springtime
+    - x2=a year of springtime
+    - x3=a location of spring
+  eo:
+    place structure: x1 estas printempo [varmiĝanta sezono] de jaro x2 en loko x3;
+      (adjektivo:) x1 estas printempa
+    notes:
+    - Vidu ankaŭ {citsi}, {crisa}, {critu}, {dunra}.
+    glosses:
+    - printempo
+  hu:
+    place structure: x1 a tavasz [kikeleti évszak] x2 évben, x3 helyen
+    notes:
+    - '(Lásd még: {citsi}, {crisa}, {critu}, {dunra})'
+    glosses:
+    - tavasz
+  ja:
+    place structure: x1 は x2 （年）・ x3 （所）の春季
+    notes:
+    - ・大意： 春 ・読み方： ヴェンサ  ・語呂合わせ： vernal, cuen(春) ・関連語： {citsi}, {crisa}, {critu},
+      {dunra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 是 x2 年在地点 x3 的春天; (adjective:) x1 如春
+    notes:
+    - 参见 {citsi}, {crisa}, {critu}, {dunra}.
+    glosses:
+    - 春 (季节)

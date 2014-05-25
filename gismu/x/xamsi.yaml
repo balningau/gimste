@@ -1,7 +1,71 @@
-Word: xamsi
-Rafsi: xas
-Definition: x1 is a sea/ocean/gulf/[atmosphere] of planet x2, of fluid x3; (adjective:)
-  x1 is marine.
-Notes: Also atmosphere (= {varxamsi}, {varsenta}).  See also {daplu}, {djacu}, {lalxu},
-  {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru}.
-Examples: None
+word: xamsi
+rafsi:
+- xas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sea/ocean/gulf/[atmosphere] of planet x2, of fluid x3;
+      (adjective:) x1 is marine.
+    notes:
+    - Also atmosphere (= {varxamsi}, {varsenta}).  See also {daplu}, {djacu}, {lalxu},
+      {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru}.
+    glosses:
+    - sea
+  de:
+    place structure: x1 ist das Meer/die See/ein/der Ozean/Golf/[die Atmosphäre] von
+      Planet x2 mit Flüssigkeit x3; (Adjektiv:) x1 ist marin
+    notes:
+    - No notes.
+    glosses:
+    - Meer
+  es:
+    place structure: x1 es un mar/océano/atmósfera de planeta x2, de fluido x3
+    notes:
+    - No notes.
+    glosses:
+    - mar
+  ru:
+    place structure: x1 — море/океан/{атмосфера} планеты x2, из жидкости x3
+    notes:
+    - 'Также: атмосфера: {varxamsi}, {varsenta} {daplu} (остров), {djacu} (вода),
+      {lalxu} (озеро), {rirxe} (река), {tumla} (суша), {vacri} (воздух), {zbani} (залив),
+      {ctaru} (прилив)'
+    glosses:
+    - x1=море
+  en-simple:
+    place structure: x1 is a sea or ocean on planet x2 of fluid x3
+    notes:
+    - No notes.
+    glosses:
+    - a sea
+    - x2=a planet with a sea
+    - x3=a fluid of a sea
+  eo:
+    place structure: x1 estas maro/oceano/golfo/[atmosfero] de planedo x2, el fluido
+      x3
+    notes:
+    - 'Ankaŭ: atmosfero (= {varxamsi}, {varsenta}).  Vidu ankaŭ {daplu}, {djacu},
+      {lalxu}, {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru}.'
+    glosses:
+    - maro
+  hu:
+    place structure: x1 egy tenger/óceán/öböl/[légkör] az x2 bolygón, x3 folyadékból/gázból
+    notes:
+    - '(Lásd még: {daplu}, {djacu}, {lalxu}, {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru})'
+    glosses:
+    - tenger
+  ja:
+    place structure: x1 は x2 （領域／惑星）・ x3 （液体成分）の海／海洋
+    notes:
+    - 拡張すれば「大気／varxamsi」も。 ・大意： 海 ・読み方： クァムスィ  ・語呂合わせ： xai(海),sea ・関連語： {daplu}, {djacu},
+      {lalxu}, {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是海/洋/大气层，位于星球x2上，是由流体x3构成；x1是关于海的
+    notes:
+    - 大气层= {varxamsi}/{varsenta}；参见 {daplu}, {djacu}, {lalxu}, {rirxe}, {tumla}, {vacri},
+      {zbani}, {ctaru}.
+    glosses:
+    - No glosses.

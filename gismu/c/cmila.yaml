@@ -1,5 +1,69 @@
-Word: cmila
-Rafsi: mi'a
-Definition: x1 laughs (emotional expression).
-Notes: $x_1$ laughs at $x_2$ (= {mi'afra}).  See also {ckasu}, {frumu}, {xajmi}, {cisma}.
-Examples: None
+word: cmila
+rafsi:
+- mi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 laughs (emotional expression).
+    notes:
+    - x1 laughs at x2 (= {mi'afra}).  See also {ckasu}, {frumu}, {xajmi}, {cisma}.
+    glosses:
+    - laugh
+  de:
+    place structure: x1 lacht (Gefühlsausdruck)
+    notes:
+    - No notes.
+    glosses:
+    - lachen
+  es:
+    place structure: x1 ríe
+    notes:
+    - Ver también {cisma}.
+    glosses:
+    - reír
+  ru:
+    place structure: x1 смеется/хохочет
+    notes:
+    - 'x1 смеется над x2: {mi''afra} {ckasu} (насмехаться), {frumu} (хмуриться), {xajmi}
+      (смешной), {cisma} (улыбаться)'
+    glosses:
+    - смеяться
+    - x1=смеющийся
+  en-simple:
+    place structure: x1 laughs
+    notes:
+    - No notes.
+    glosses:
+    - a laugher
+  eo:
+    place structure: x1 ridas (emocia esprimo)
+    notes:
+    - x1 ridas je x2 (= {mi'afra}).  Vidu ankaŭ {ckasu}, {frumu}, {xajmi}, {cisma}.
+    glosses:
+    - ridi
+  hu:
+    place structure: x1 nevet
+    notes:
+    - '(Lásd még: {ckasu}, {frumu}, {xajmi}, {cisma})'
+    glosses:
+    - nevet
+  ja:
+    place structure: x1 は笑う／笑い声をあげる
+    notes:
+    - 原因や対象として x2 の追加も。 ・大意： 笑う ・読み方： シミルァ  ・関連語： {ckasu}, {frumu}, {xajmi}, {cisma}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 skrattar (emotionellt uttryck).
+    notes:
+    - x1 laughs at x2 (= {mi'afra}).
+    glosses:
+    - skratta
+    - x1=skrattare
+  zh:
+    place structure: x1笑（情感表达）
+    notes:
+    - x1笑x2={mi'afra}；参见 {ckasu}, {frumu}, {xajmi}, {cisma}.
+    glosses:
+    - No glosses.

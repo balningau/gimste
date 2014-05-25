@@ -1,6 +1,92 @@
-Word: boxfo
-Rafsi: bof, bo'o
-Definition: x1 is a sheet/foil/blanket [2-dimensional shape/form flexible in 3 dimensions]
-  of material x2.
-Notes: See also {plita}, {cinje}, {polje}, {slasi}, {tinci}.
-Examples: None
+word: boxfo
+rafsi:
+- bof
+- bo'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sheet/foil/blanket [2-dimensional shape/form flexible
+      in 3 dimensions] of material x2.
+    notes:
+    - See also {plita}, {cinje}, {polje}, {slasi}, {tinci}.
+    glosses:
+    - sheet
+  de:
+    place structure: x1 ist ein Blatt/eine Folie/Decke [zweidimensionale Form, die
+      in drei Dimensionen flexibel ist] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Folie
+  es:
+    place structure: x1 es una hoja/lámina/plancha (forma bidimensional flexible)
+      de material x2
+    notes:
+    - Ver también {bukpu}.
+    glosses:
+    - lámina
+  ru:
+    place structure: x1 — пластина/пленка/мембрана/фольга/лист (2-мерная форма, гибкая
+      в трех измерениях) из материала x2
+    notes:
+    - '{plita} (плоскость), {cinje} (складка), {polje} (морщить), {slasi} (пластмасса),
+      {tinci} (олово)'
+    glosses:
+    - плёнка
+    - x2=материал пленки
+  en-simple:
+    place structure: x1 is a sheet or blanket made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a sheet
+    - x2=a material of a sheet
+  eo:
+    place structure: x1 estas folio/tuko/litkovrilo/tapiŝo [2-dimensia formo fleksebla
+      en 3 d.] el materialo x2
+    notes:
+    - Vidu ankaŭ {plita}, {cinje}, {polje}, {slasi}, {tinci}.
+    glosses:
+    - tuko
+  hu:
+    place structure: x1 egy lepedő/(papír)lap/fólia [térben hajlékony síklap] x2 anyagból
+    notes:
+    - '(Lásd még: {plita}, {cinje}, {polje}, {slasi}, {tinci})'
+    glosses:
+    - lepedő
+  ja:
+    place structure: x1 は材質 x2 のシート状のもの；3次元空間内の、ほぼ2次元の柔軟な物体；枚
+    notes:
+    - 的確な日本語訳は存在しない。「枚」で数えられる形状のもの。「紙」「箔」「敷物」「毛布」「アルミホイル」「サランラップ」などの上位概念。 ・大意： シーツ
+      ・読み方： ボクゥフォ  ・語呂合わせ： ＜坊主の不法＞, bo(箔), foil ・関連語： {plita}, {cinje}, {polje}, {slasi},
+      {tinci}
+    - ''
+    glosses:
+    - シーツ
+    - シート
+    - 枚
+  'no':
+    place structure: x1 er folie/flate/plate/laken/ark/blad av materiale x2; x1 er
+      et bredt og fleksibelt tynt stykke av x2
+    notes:
+    - Se óg {plita}, {cinje}, {polje}, {slasi}, {tinci}, {bukpu}, {papri}, {falnu},
+      {senta}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett lakan/täcke/filt/skynke/pläd/folie/hölje av material
+      x2; x1 är ett brett och flexibelt tunt stycke av x2.
+    notes:
+    - No notes.
+    glosses:
+    - filt
+    - folie
+    - lakan
+    - x1=skynke
+    - x2=skynke material
+  zh:
+    place structure: x1是薄片/片状的（二维的，易折叠弯曲），由材料x2构成
+    notes:
+    - 参见 {plita}, {cinje}, {polje}, {slasi}, {tinci}.
+    glosses:
+    - No glosses.

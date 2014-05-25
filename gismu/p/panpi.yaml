@@ -1,6 +1,65 @@
-Word: panpi
-Rafsi: pap
-Definition: x1 is at peace with x2.
-Notes: (cf. {jamna}; use {sarxe}, {smaji}, {tugni} for most metaphorical extensions,
-  {cilce}, {jamna})
-Examples: None
+word: panpi
+rafsi:
+- pap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is at peace with x2.
+    notes:
+    - (cf. {jamna}; use {sarxe}, {smaji}, {tugni} for most metaphorical extensions,
+      {cilce}, {jamna})
+    glosses:
+    - peace
+  de:
+    place structure: x1 ist friedlich gegenüber x2
+    notes:
+    - No notes.
+    glosses:
+    - friedlich
+  es:
+    place structure: x1 está en paz con x2
+    notes:
+    - Ver también {jamna}.
+    glosses:
+    - paz
+  ru:
+    place structure: x1 находится в мире с x2
+    notes:
+    - '{cilce} (дикий), {jamna} (воевать); для большинства метафорических употреблений:
+      {sarxe} (гармонировать), {smaji} (молчать), {tugni} (соглашаться)'
+    glosses:
+    - x1=мир (согласие)
+  en-simple:
+    place structure: x1 is at peace with x2
+    notes:
+    - No notes.
+    glosses:
+    - something at peace
+    - x2=something at peace with
+  eo:
+    place structure: x1 estas en paco kun x2
+    notes:
+    - (kp. jamna; uzu je sarxe, smaji, tugni por plejmultaj metaforaj etendoj, cilce,
+      jamna)
+    glosses:
+    - paca
+  hu:
+    place structure: x1 békében van x2-vel
+    notes:
+    - '(Lásd még: {jamna}, {sarxe}, {smaji}, {tugni}, {cilce})'
+    glosses:
+    - békés
+  ja:
+    place structure: x1 は x2 と平和／和平の関係にある；  x1 は平和な状態にある
+    notes:
+    - ・大意： 平和 ・読み方： パンピ  ・語呂合わせ： パンピーの平和 ・関連語： {jamna}; {sarxe}, {smaji}, {tugni},
+      {cilce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2和平相处
+    notes:
+    - 参见 {jamna}, {sarxe}, {smaji}, {tugni}, {cilce}, {jamna}
+    glosses:
+    - No glosses.

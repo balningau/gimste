@@ -1,6 +1,77 @@
-Word: jmive
-Rafsi: miv, ji'e
-Definition: x1 lives/is alive by standard x2; x1 is an organism/living thing.
-Notes: (adjective:) $x_1$ is vital, organic.  See also {lifri}, {morsi}, {stuzi},
-  {zvati}, {xabju}.
-Examples: None
+word: jmive
+rafsi:
+- miv
+- ji'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 lives/is alive by standard x2; x1 is an organism/living thing.
+    notes:
+    - (adjective:) x1 is vital, organic.  See also {lifri}, {morsi}, {stuzi}, {zvati},
+      {xabju}.
+    glosses:
+    - live
+  de:
+    place structure: x1 lebt/ist lebendig gemäß Standard x2; x1 ist ein Organismus/Lebewesen
+    notes:
+    - No notes.
+    glosses:
+    - leben
+  es:
+    place structure: x1 vive/está vivo segun estandar x2
+    notes:
+    - Ver también {xabju}.
+    glosses:
+    - vivir
+  ru:
+    place structure: x1 живет/жив, относительно критерия x2; x1 — организм, живое
+      сушество
+    notes:
+    - '{lifri} (испытывать [о жизненном опыте]), {morsi} (мертвый), {stuzi} (место
+      [постоянное]), {zvati} (находиться), {xabju} (проживать)'
+    glosses:
+    - x1=живой
+  en-simple:
+    place structure: x1 is alive in that it does x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something alive
+    - x2=a standard of living
+  eo:
+    place structure: x1 vivas/estas viva laŭ normo x2; x1 estas organismo/vivaĵo
+    notes:
+    - (adjektivo:) x1 estas viva, organika.  Vidu ankaŭ {lifri}, {morsi}, {stuzi},
+      {zvati}, {xabju}.
+    glosses:
+    - vivi
+  hu:
+    place structure: x1 él(etben van) x2 mérce szerint; x1 egy élőlény
+    notes:
+    - '(Lásd még: {lifri}, {morsi}, {stuzi}, {zvati}, {xabju})'
+    glosses:
+    - életben van
+  ja:
+    place structure: x1 は x2 （観点／基準）において生きている；  x1 は生物／生体／有機体
+    notes:
+    - ・大意： 生きている ・読み方： ジミヴェ  ・語呂合わせ： live,生命は地味ヴェールに包まれている ・関連語： {lifri}, {morsi},
+      {stuzi}, {zvati}, {xabju}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 lever/är levande enligt standard x2; x1 är en organism/levande
+      sak.
+    notes:
+    - x1 är vital, organisk.
+    glosses:
+    - leva
+    - levande
+    - organisk (levande)
+    - vital (levande)
+  zh:
+    place structure: x1活着/生存着，基于标准x2；x1是生物
+    notes:
+    - x1是活的/生物的；参见 {lifri}, {morsi}, {stuzi}, {zvati}, {xabju}.
+    glosses:
+    - No glosses.

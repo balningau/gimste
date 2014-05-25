@@ -1,5 +1,64 @@
-Word: stapa
-Rafsi: tap
-Definition: x1 steps/treads on/in surface x2 using limbs x3.
-Notes: See also {bajra}, {plipe}, {cadzu}, {serti}.
-Examples: None
+word: stapa
+rafsi:
+- tap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 steps/treads on/in surface x2 using limbs x3.
+    notes:
+    - See also {bajra}, {plipe}, {cadzu}, {serti}.
+    glosses:
+    - step
+  de:
+    place structure: x1 (be)tritt/schreitet auf Oberfläche x2 mit Gliedmaßen x3
+    notes:
+    - No notes.
+    glosses:
+    - betreten
+  es:
+    place structure: x1 camina/da pasos/anda sobre superficie x2 usando miembros x3
+    notes:
+    - Ver también {cadzu}.
+    glosses:
+    - caminar
+  ru:
+    place structure: x1 ступает по поверхности x2, используя конечности x3; x1 наступает
+      на/топчет x2
+    notes:
+    - '{bajra} (бежать), {plipe} (прыгать), {cadzu} (идти), {serti} (лестница)'
+    glosses:
+    - ступать по
+    - x1=ступающий по
+  en-simple:
+    place structure: x1 steps on surface x2 using limbs x3
+    notes:
+    - No notes.
+    glosses:
+    - a treader
+    - x2=a surface treaded on
+    - x3=a treading limb
+  eo:
+    place structure: x1 paŝas sur surfaco x2 per membroj x3
+    notes:
+    - Vidu ankaŭ {bajra}, {plipe}, {cadzu}, {serti}.
+    glosses:
+    - paŝi
+  hu:
+    place structure: x1 (rá)lép/tapos x2 felületre, x3 végtaggal
+    notes:
+    - '(Lásd még: {bajra}, {plipe}, {cadzu}, {serti})'
+    glosses:
+    - lép
+  ja:
+    place structure: x1 は x2 を x3 で踏む
+    notes:
+    - ・大意： 踏む ・読み方： スタパ  ・語呂合わせ： スタンプ ・関連語： {bajra}, {plipe}, {cadzu}, {serti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在表面x2上行走/踩踏，使用肢体x3
+    notes:
+    - 参见 {bajra}, {plipe}, {cadzu}, {serti}.
+    glosses:
+    - No glosses.

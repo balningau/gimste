@@ -1,9 +1,82 @@
-Word: kargu
-Rafsi: ''
-Definition: x1 (object/commodity/property/event) is costly/expensive/dear to x2 by
-  standard x3.
-Notes: $x_1$ may be a specific object, a commodity (mass), an event, or a property;
-  pedantically, for objects/commodities, this is sumti-raising from ownership of the
-  object/commodity (= {poskargu} for unambiguous semantics).  See also {vamji}, {dirba},
-  {vajni}, {jdima}, {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}.
-Examples: None
+word: kargu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/commodity/property/event) is costly/expensive/dear
+      to x2 by standard x3.
+    notes:
+    - x1 may be a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {poskargu} for unambiguous semantics).  See also {vamji}, {dirba}, {vajni},
+      {jdima}, {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}.
+    glosses:
+    - costly
+  de:
+    place structure: x1 (Objekt/Produkt/Eigenschaft/Ereignis) ist teuer/kostspielig
+      für x2 gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - teuer
+  es:
+    place structure: x1 es caro/costoso para x2 según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - caro
+  ru:
+    place structure: x1 (объект/товар/собственность/событие) — дорогостоящий/дорогой/ценный
+      для x2 относительно стандарта/критерия x3
+    notes:
+    - 'x1 м.б. конкретным объектом, товаром (масса), событием, или свойством; строго
+      говоря, для объектов/товаров мы имеем дело с подъемом sumti от владения объектом/товаром:
+      {poskargu} для однозначной семантики; «дорогой» в эмоциональном смысле — {dirba}
+      {vamji} (ценность [стоимость]), {dirba} (милый), {vajni} (важный [имеющий значение]),
+      {jdima} (цена), {pleji} (платить), {canja} (обменивать), {jerna} (зарабатывать),
+      {jinga} (выигрывать [побеждать]), {jemna} (самоцвет), {sfasa} (наказывать),
+      {vecnu} (продавать)'
+    glosses:
+    - x1=дорогой (дорогостоящий)
+  en-simple:
+    place structure: x1 is expensive to x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something expensive
+    - x2=something to which something is expensive
+    - x3=a standard of expensiveness
+  eo:
+    place structure: x1 (objekto/varo/eco/okazo) estas multekosta/altpreza/kara por
+      x2 laŭ normo x3
+    notes:
+    - 5     x1 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante,
+      por objektoj/varoj, ĉi tio estas sumti-levado el posedo de la objekto/varo (=
+      poskargu por neambigua {semantiko}). Vidu ankaŭ {vamji}, {dirba}, {vajni}, {jdima},
+      {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}.
+    glosses:
+    - multekosta
+  hu:
+    place structure: x1 (tárgy/áru/tulajdonság/esemény) drága/költséges x2 számára,
+      x3 mérce szerint
+    notes:
+    - '(Lásd még: {vamji}, {dirba}, {vajni}, {jdima}, {pleji}, {canja}, {jerna}, {jinga},
+      {jemna}, {sfasa}, {vecnu})'
+    glosses:
+    - drága
+  ja:
+    place structure: x1 （物／性質／事）は x2 （者）・ x3 （基準）にとって高価／高額／高級
+    notes:
+    - ・大意： 高価 ・読み方： カルグ  ・語呂合わせ： caro, costly, guei(貴) ・関連語： {vamji}, {dirba}, {vajni},
+      {jdima}, {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体/性质/事件/货物）是昂贵的/花费大的，对x2来说，基于标准x3
+    notes:
+    - x1可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用={poskargu}； 参见 {vamji}, {dirba},
+      {vajni}, {jdima}, {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}.
+    glosses:
+    - No glosses.

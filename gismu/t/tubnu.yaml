@@ -1,6 +1,68 @@
-Word: tubnu
-Rafsi: tu'u
-Definition: x1 is a length of tubing/pipe/hollow cylinder [shape/form] of material
-  x2, hollow of material x3.
-Notes: Also tube, sleeve, leg, hose, (adjective:) tubular.  See also {kevna}, {canlu}.
-Examples: None
+word: tubnu
+rafsi:
+- tu'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a length of tubing/pipe/hollow cylinder [shape/form] of
+      material x2, hollow of material x3.
+    notes:
+    - Also tube, sleeve, leg, hose, (adjective:) tubular.  See also {kevna}, {canlu}.
+    glosses:
+    - tube
+  de:
+    place structure: x1 ist eine Länge an Rohr/Kanal/Pfeife/hohler Zylinder [Form]
+      aus Material x2, mit Hohlraum aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Rohr
+  es:
+    place structure: x1 es un tubo/caño/cilindro hueco (forma) de material x2, con
+      relleno de material x3
+    notes:
+    - No notes.
+    glosses:
+    - tubo
+  ru:
+    place structure: x1 — трубка/труба/полый цилиндр (форма) из материала x2 с полостью,
+      заполненной материалом x3
+    notes:
+    - 'Также: рукав, шланг; прилагательное: трубчатый {kevna} (впадина), {canlu} (объем)'
+    glosses:
+    - x1=труба
+    - x2=материал трубы
+  en-simple:
+    place structure: x1 is tubing of material x2 hollow of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a tube
+    - x2=a material of a tube
+    - x3=a content of a tube
+  eo:
+    place structure: x1 estas tubo/kava cilindro [formo] el materialo x2, kavo el
+      materialo x3
+    notes:
+    - 'Ankaŭ: maniko, ŝtrumpo.  Vidu ankaŭ {kevna}, {canlu}.'
+    glosses:
+    - tubo
+  hu:
+    place structure: x1 egy darab cső/tömlő/üres henger x2 anyagból, x3 tartalommal
+    notes:
+    - '(Lásd még: {kevna}, {canlu})'
+    glosses:
+    - cső
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （内容）の管／筒／パイプ／シリンダー／チューブ
+    notes:
+    - 「スリーブ」「ホース」も。 ・大意： 管 ・読み方： トゥブヌ  ・関連語： {kevna}, {canlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是管/管道，由材料x2制成，空心材料为x3
+    notes:
+    - 也指：管状物；参见 {kevna}, {canlu}.
+    glosses:
+    - No glosses.

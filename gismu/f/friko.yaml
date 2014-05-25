@@ -1,5 +1,71 @@
-Word: friko
-Rafsi: fi'o
-Definition: x1 reflects African culture/nationality/geography in aspect x2.
-Notes: See also {ropno}, {xazdo}.
-Examples: None
+word: friko
+rafsi:
+- fi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects African culture/nationality/geography in aspect x2.
+    notes:
+    - See also {ropno}, {xazdo}.
+    glosses:
+    - African
+  de:
+    place structure: x1 repräsentiert afrikanische Kultur/Nationalität/Geographie
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - afrikanisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/geografía africana en aspecto
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - africano
+  ru:
+    place structure: x1 — африканский в аспекте x2
+    notes:
+    - '{ropno} (европейский), {xazdo} (азиатский)'
+    glosses:
+    - африканский
+  en-simple:
+    place structure: x1 is African in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something African
+    - x2=an African aspect
+  eo:
+    place structure: x1 montras afrikan kulturon/naciecon/geografion laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {ropno}, {xazdo}.
+    glosses:
+    - afrika
+  hu:
+    place structure: x1 afrikai kultúrát/nemzetiséget/földrajzot tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {ropno}, {xazdo})'
+    glosses:
+    - afrikai
+  ja:
+    place structure: x1 は x2 （性質面）に関してアフリカ系（言語／文化／民族／地理）
+    notes:
+    - ・大意： アフリカ ・読み方： フゥリコ  ・関連語： {ropno}, {xazdo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar afrikansk kultur/nationalitet/geografi i aspekt
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=afrikansk
+    - x2=afrikansk aspekt
+  zh:
+    place structure: x1是关于非洲文化/所在地/地理特性等的事物，在x2方面
+    notes:
+    - 参见 {ropno}, {xazdo}.
+    glosses:
+    - No glosses.

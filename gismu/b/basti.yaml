@@ -1,6 +1,99 @@
-Word: basti
-Rafsi: bas
-Definition: x1 replaces/substitutes for/instead of x2 in circumstance x3; x1 is a
-  replacement/substitute.
-Notes: 'Also: $x_1$ trades places with $x_2$.  See also cmavo list {ba''i}, {binra}.'
-Examples: None
+word: basti
+rafsi:
+- bas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 replaces/substitutes for/instead of x2 in circumstance x3;
+      x1 is a replacement/substitute.
+    notes:
+    - 'Also: x1 trades places with x2.  See also cmavo list {ba''i}, {binra}.'
+    glosses:
+    - replace
+  de:
+    place structure: x1 ersetzt/steht ein für x2 unter Umständen x3; x1 ist ein Ersatz
+    notes:
+    - No notes.
+    glosses:
+    - ersetzen
+  es:
+    place structure: x1 reemplaza/sustituye/toma el lugar de x2 en circunstancia x3
+    notes:
+    - No notes.
+    glosses:
+    - reemplazar
+  fr:
+    place structure: x1 remplace/est un substitut pour/au lieu de x2, lorsque x3 (circonstance).
+    notes:
+    - Aussi, "x1 échange de place avec x2". Voir également {binra}, {ba'i}.
+    glosses:
+    - remplacer
+    - se substituer
+    - échanger (mutuellement)
+  ru:
+    place structure: x1 заменяет/замещает/является заменой x2 в условиях x3; x1 —
+      заменитель x2
+    notes:
+    - 'Также: x1 меняется местами с x2 {ba''i}, {binra} (страховать)'
+    glosses:
+    - заменять
+    - x1=заменяющий
+    - x2=замещаемый
+    - x3=условие замены
+  en-simple:
+    place structure: x1 replaces x2 in circumstance x3
+    notes:
+    - No notes.
+    glosses:
+    - a replacement
+    - x2=something replaced
+    - x3=a circumstance for replacement
+  eo:
+    place structure: x1 anstataŭas x2-on en cirkonstanco x3; x1 estas anstataŭulo/anstataŭaĵo/surogato
+    notes:
+    - 'Ankaŭ: x1 interŝanĝas lokojn kun x2.  Vidu ankaŭ cmavo {ba''i}, {binra}.'
+    glosses:
+    - anstataŭi
+  hu:
+    place structure: x1 helyettesíti/pótolja x2-t / helyet cserél x2-vel x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {binra})'
+    glosses:
+    - helyettesít
+  ja:
+    place structure: x1 は x2 （対象）と、 x3 （状況）において交替する；  x2 を x1 が代理する
+    notes:
+    - '元々あるのが x2 で、これと置き換わるのがx1 「.e''u ra citka lo brioco sei basti be lo nanba noi
+      na zvati／パンが無ければブリオッシュを食べればいいじゃない」 (Jean-Jacques Rousseau: Les Confessions,
+      Livre VI; 試験的 cmavo の ko''oi の例文も参照) ・大意： 交替 ・読み方： バスティ  ・語呂合わせ： ＜バスでティー＞, substitute
+      ・関連語： {ba''i}, {binra}'
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 overtar plassen til/er substitutt for/i stedet for x2 under
+      forhold/situasjon x3; x1 er et substitutt
+    notes:
+    - Se også cmavo-liste {ba'i}, {binra}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 ersätter/är substitut/istället för x2 under omständighet x3;
+      x1 byter plats med x2.
+    notes:
+    - Se även  {ba'i}, {binra}, {canja}.
+    glosses:
+    - ersätta (vara istället för)
+    - ersättare (vara istället för)
+    - ersättning (substitut)
+    - istället
+    - remplacera
+    - x1=substitut
+    - x2=ersatt
+    - x3=ersätta omständigheter (vara istället för)
+  zh:
+    place structure: x1取代/替代x2，在环境/条件/场景x3中；x1是替代品
+    notes:
+    - 也指：x1与x2交换位置；参见 {ba'i}, {binra}
+    glosses:
+    - No glosses.

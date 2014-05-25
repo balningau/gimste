@@ -1,8 +1,97 @@
-Word: zepti
-Rafsi: zep
-Definition: x1 is $10^{-21}$ of x2 in dimension/aspect x3 (default is units).
-Notes: (cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
-  {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
-  {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
-  {xatsi}, {xecto}, {xexso}, {zetro})
-Examples: None
+word: zepti
+rafsi:
+- zep
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is $10^{-21}$ of x2 in dimension/aspect x3 (default is units).
+    notes:
+    - (cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zetro})
+    glosses:
+    - 1E-21
+  de:
+    place structure: 'x1 ist $10^{-21}$ von x2 in Dimension/Aspekt x3 (Standard: Einheiten)'
+    notes:
+    - No notes.
+    glosses:
+    - 1E-21
+  es:
+    place structure: x1 es una miltrillonésima (1E-21) de x2 en dimensión/aspecto
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - zepto
+  ru:
+    place structure: x1 составляет $10^{-21}$ долю x2 (чего) в аспекте/измерении x3
+      (по умолчанию единицы)
+    notes:
+    - '{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno}
+      (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин),
+      {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi}
+      (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo}
+      (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri}
+      (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико), {terto}
+      (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zetro} (зетта)'
+    glosses:
+    - x1=1E-21
+  en-simple:
+    place structure: x1 is 10 to the negative twenty-first of x2 in dimension or aspect
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - a 10 to the negative twenty-first
+    - x2=something with 10 to the negative twenty-firsts
+    - x3=a 10 to the negative twenty-first aspect
+  eo:
+    place structure: x1 estas miltrilionono [1x10**-21] de x2 laŭ dimensio/aspekto
+      x3 (defaŭlte unuoj)
+    notes:
+    - (kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti,
+      nanvi, petso,picti, terto, xatsi,xecto, xexso, zetro)
+    glosses:
+    - 1E-21 zepto-
+  hu:
+    place structure: x1 a trilliárdod ($10^{-21}$) része x2-nek x3 méretében/szempontból
+    notes:
+    - '(Lásd még: {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zetro})'
+    glosses:
+    - zepto-
+  ja:
+    place structure: x1 は x2 の、 x3 （性質）におけるゼプト／十垓分の一 ［1 x1 0**-21］
+    notes:
+    - ・大意： ゼプト ・読み方： ゼプティ  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro},
+      {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en triljardedel [$10^{-21}$] av x2 i dimension/aspekt x3
+      (enheter om inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - 1E-21
+    - sextiljontedel (korta skalan (ej Sverige; USA/modern England ))
+    - triljardedel (långa skalan (Sverige m.fl.))
+    - zepto- (SI prefix)
+    - zepto- (SI-prefix)
+  zh:
+    place structure: x1是十的负二十一次方个/份 [$10^{-21}$]x2，在x3方面（默认为计量单位）
+    notes:
+    - 参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu},
+      {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zetro}
+    glosses:
+    - No glosses.

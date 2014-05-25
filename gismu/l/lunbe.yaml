@@ -1,5 +1,62 @@
-Word: lunbe
-Rafsi: lub
-Definition: x1 is bare/naked/nude; x1 is without cover/clothes/[protection].
-Notes: See also {taxfu}, {bandu}.
-Examples: None
+word: lunbe
+rafsi:
+- lub
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is bare/naked/nude; x1 is without cover/clothes/[protection].
+    notes:
+    - See also {taxfu}, {bandu}.
+    glosses:
+    - bare
+    - naked
+  de:
+    place structure: x1 ist nackt/unbekleidet/kahl/entblößt; x1 ist ohne Abdeckung/Kleidung/[Schutz]
+    notes:
+    - No notes.
+    glosses:
+    - nackt
+  es:
+    place structure: x1 está desnudo/descubierto/sin ropa
+    notes:
+    - No notes.
+    glosses:
+    - desnudo
+  ru:
+    place structure: x1 — голый/нагой/обнаженный/неприкрытый
+    notes:
+    - '{taxfu} (одежда), {bandu} (защищать)'
+    glosses:
+    - x1=голый
+  en-simple:
+    place structure: x1 is naked or bare
+    notes:
+    - No notes.
+    glosses:
+    - something naked
+  eo:
+    place structure: x1 estas nuda/sen kovrilo/vestoj/[protekto]
+    notes:
+    - Vidu ankaŭ {taxfu}, {bandu}.
+    glosses:
+    - nuda
+  hu:
+    place structure: x1 csupasz/meztelen/puszta/kopasz / takarás/ruha/szigetelés/védelem
+      nélküli
+    notes:
+    - '(Lásd még: {taxfu}, {bandu})'
+    glosses:
+    - csupasz
+  ja:
+    place structure: x1 は裸／服無し
+    notes:
+    - ・大意： 裸 ・読み方： ルゥンベ  ・関連語： {taxfu}, {bandu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是裸露的/裸体的/赤裸的；x1是没有遮蔽的
+    notes:
+    - 参见 {taxfu}, {bandu}.
+    glosses:
+    - No glosses.

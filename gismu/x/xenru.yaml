@@ -1,7 +1,67 @@
-Word: xenru
-Rafsi: xer, xe'u
-Definition: x1 regrets/rues (abstraction) x2; x1 is regretful/rueful/sorry/[remorseful]
-  about x2.
-Notes: 'Also: $x_1$ feels remorse about $x_2$ (= {zugyxe''u}).  (cf. cmavo list {u''u},
-  {zungi})'
-Examples: None
+word: xenru
+rafsi:
+- xer
+- xe'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 regrets/rues (abstraction) x2; x1 is regretful/rueful/sorry/[remorseful]
+      about x2.
+    notes:
+    - 'Also: x1 feels remorse about x2 (= {zugyxe''u}).  (cf. cmavo list {u''u}, {zungi})'
+    glosses:
+    - regret
+  de:
+    place structure: x1 bereut/bedauert (Abstraktion) x2; x1 ist reumütig/[reuevoll]
+      über x2
+    notes:
+    - No notes.
+    glosses:
+    - bereuen
+  es:
+    place structure: x1 lamenta/siente remordimientos sobre x2
+    notes:
+    - Ver también {zanru}.
+    glosses:
+    - lamentar
+  ru:
+    place structure: x1 сожалеет/грустит/горюет о x2 (абстракция)
+    notes:
+    - См. {zungi} - 'раскаиваться, чувствовать угрызения совести', {.u'u} - 'Извините!'
+    glosses:
+    - горевать
+    - сожалеть
+    - x1=сожалеющий
+  en-simple:
+    place structure: x1 regrets x2
+    notes:
+    - No notes.
+    glosses:
+    - a regretter
+    - x2=something regretted
+  eo:
+    place structure: x1 bedaŭras (abstraktaĵon) x2-on
+    notes:
+    - 'Ankaŭ: x1 sentas rimorson/memriproĉon pri x2 (= {zugyxe''u}).  (kp. cmavo .u''u,
+      zungi)'
+    glosses:
+    - bedaŭri
+  hu:
+    place structure: x1 (meg)bánja/sajnálja x2 eseményt/tulajdonságot/tényt
+    notes:
+    - '(Lásd még: {zungi})'
+    glosses:
+    - megbán
+  ja:
+    place structure: x1 は x2 （事）を後悔する；  x1 は x2 を残念に思う
+    notes:
+    - 既に起こった事を悔やむのが「xenru」。時を問わず自分の行為について「罪」を感じるのは「zungi」。 ・大意： 悔やむ ・読み方： クェンル  ・関連語：
+      {u'u}, {zungi}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1后悔/懊悔x2（谓词子句）；x1对于x2是充满悔意的
+    notes:
+    - x1对x2感到懊悔= {zugyxe'u}；参见 {u'u}, {zungi}
+    glosses:
+    - No glosses.

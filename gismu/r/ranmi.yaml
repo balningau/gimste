@@ -1,8 +1,77 @@
-Word: ranmi
-Rafsi: ram
-Definition: x1 is a myth/legend, a culturally significant story about x2 in mythos
-  x3 of culture x4.
-Notes: 'Also: $x_1$ is mythical/fairy tale; used adjectivally for non-humanoid creatures
-  (= {ramda''u}) of story/myth/legend/religion, e.g. dragon; fairy tale (= {veryranmi}).  See
-  also {lijda}, {lisri}, {crida}.'
-Examples: None
+word: ranmi
+rafsi:
+- ram
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a myth/legend, a culturally significant story about x2
+      in mythos x3 of culture x4.
+    notes:
+    - 'Also: x1 is mythical/fairy tale; used adjectivally for non-humanoid creatures
+      (= {ramda''u}) of story/myth/legend/religion, e.g. dragon; fairy tale (= {veryranmi}).  See
+      also {lijda}, {lisri}, {crida}.'
+    glosses:
+    - myth
+  de:
+    place structure: x1 ist ein Mythos/eine Legende, eine kulturell bedeutsame Erzählung
+      über x2 innerhalb der Mythologie x3 von Kultur x4
+    notes:
+    - No notes.
+    glosses:
+    - Mythos
+  es:
+    place structure: x1 es un mito/leyenda/historia significativa sobre x2 en mythos
+      x3 de cultura x4
+    notes:
+    - No notes.
+    glosses:
+    - mito
+  ru:
+    place structure: x1 — миф/легенда, культурно значимое повествование о x2 в мифологии
+      x3 культуры x4
+    notes:
+    - 'Также: x1 — волшебная сказка; как прилагательное, используется для мифических
+      негуманоидных существ: {ramda''u}, напр., драконов; волшебная сказка: {veryranmi}
+      {lijda} (религия), {lisri} (рассказ), {crida} (леший)'
+    glosses:
+    - легенда (миф)
+    - x2=то, о чем миф
+    - x3=мифология
+  en-simple:
+    place structure: x1 is a myth about x3 in mythos x3 of culture x4
+    notes:
+    - No notes.
+    glosses:
+    - a myth
+    - x2=a subject of a myth
+    - x3=a mythos of a myth
+    - x4=a culture of a myth
+  eo:
+    place structure: x1 estas mito/legendo, kulture signifa rakonto pri x2 en mitologio
+      x3 de kulturo x4
+    notes:
+    - 'Ankaŭ: x1 estas mita/fea rakonto; uzata adjektive por ne-homaj estaĵoj (= {ramda''u})
+      de rakonto/mito/legendo/religio, ekz. dragono; ferakonto (= {veryranmi}).  Vidu
+      ankaŭ {lijda}, {lisri}, {crida}.'
+    glosses:
+    - mito
+  hu:
+    place structure: x1 egy mítosz/legenda/monda/rege x2-ről, x3 mondakörben, x4 kultúrában
+    notes:
+    - '(Lásd még: {lijda}, {lisri}, {crida})'
+    glosses:
+    - mítosz
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （価値観／文化）の神話／伝説
+    notes:
+    - ・大意： 神話 ・読み方： ランミ  ・関連語： {lijda}, {lisri}, {crida}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是神话/传说/具有象征意义的文化故事，关于x2（内容/事件/主人公等），在神话主题x3下，属于文化x4
+    notes:
+    - 也指：x1童话/关于神话的用于形容传说/故事中的非人形生物= {ramda'u}；童话= {veryranmi}；参见 {lijda}, {lisri},
+      {crida}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,70 @@
-Word: rafsi
-Rafsi: raf
-Definition: x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties
-  x3, language x4.
-Notes: See also {valsi}, {lujvo}, {pagbu}.
-Examples: None
+word: rafsi
+rafsi:
+- raf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an affix/suffix/prefix/combining-form for word/concept
+      x2, form/properties x3, language x4.
+    notes:
+    - See also {valsi}, {lujvo}, {pagbu}.
+    glosses:
+    - affix
+  de:
+    place structure: x1 ist ein Affix/Suffix/Präfix von Wort/Konzept x2 mit Form/Eigenschaften
+      x3 in Sprache x4
+    notes:
+    - No notes.
+    glosses:
+    - Affix
+  es:
+    place structure: x1 es un afijo/sufijo/prefijo/forma combinatoria de palabra/concepto
+      x2 con forma/propiedades x3, en idioma x4
+    notes:
+    - No notes.
+    glosses:
+    - afijo
+  ru:
+    place structure: x1 — аффикс/суффикс/префикс/rafsi (словообразующая форма) от
+      слова/концепции/gismu/cmavo x2, со свойством x3, языка x4
+    notes:
+    - Для языков, отличных от Ложбана, может означать аффикс/префикс/суффикс, т. е.
+      любой словообразующий элемент {valsi} (слово), {lujvo} (), {pagbu} (часть)
+    glosses:
+    - аффикс
+  en-simple:
+    place structure: x1 is an affix for word x2 with form x3 in language x4
+    notes:
+    - No notes.
+    glosses:
+    - an affix
+    - x2=a word with an affix
+    - x3=a property of an affix
+    - x4=a language with an affix
+  eo:
+    place structure: x1 estas afikso/prefikso/sufikso/kunmeta-formo por vorto/koncepto
+      x2, formo/ecoj x3, lingvo x4
+    notes:
+    - Vidu ankaŭ {valsi}, {lujvo}, {pagbu}.
+    glosses:
+    - afikso
+  hu:
+    place structure: x1 a kötött alakja x2 szónak / toldalék x2 jelentéssel, x3 alakban/tulajdonságokkal,
+      x4 nyelvben
+    notes:
+    - '(Lásd még: {valsi}, {lujvo}, {pagbu})'
+    glosses:
+    - kötött alak
+  ja:
+    place structure: x1 （文字列）は x2 （語）の x3 （部位／性質）に由来する、 x4 （言語）の形態素／語基／語幹／接辞
+    notes:
+    - ・大意： 形態素 ・読み方： ラフゥスィ  ・関連語： {valsi}, {lujvo}, {pagbu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是前缀/后缀/缀词/组合结构，用以构成词/内容x2，结构/性质为x3，在语言x4中
+    notes:
+    - 参见 {valsi}, {lujvo}, {pagbu}.
+    glosses:
+    - No glosses.

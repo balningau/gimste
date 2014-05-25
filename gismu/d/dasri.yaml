@@ -1,5 +1,71 @@
-Word: dasri
-Rafsi: sri
-Definition: x1 is a ribbon/tape/strip/band/stripe of material x2.
-Notes: See also {djine}.
-Examples: None
+word: dasri
+rafsi:
+- sri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a ribbon/tape/strip/band/stripe of material x2.
+    notes:
+    - See also {djine}.
+    glosses:
+    - ribbon
+  de:
+    place structure: x1 ist ein Band/Streifen aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Band
+  es:
+    place structure: x1 es una cinta/banda/jirón/tira (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - cinta
+  ru:
+    place structure: x1 — лента/полоса из материала x2
+    notes:
+    - '{djine} (кольцо)'
+    glosses:
+    - лента
+  en-simple:
+    place structure: x1 is a ribbon or strip of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a ribbon
+    - x2=a material of a ribbon
+  eo:
+    place structure: x1 estas strio/rubando/bendo/zono/vindo el materialo x2
+    notes:
+    - Vidu ankaŭ {djine}.
+    glosses:
+    - strio
+  hu:
+    place structure: x1 egy szalag/csík/sáv x2 anyagból
+    notes:
+    - '(Lásd még: {djine})'
+    glosses:
+    - szalag
+  ja:
+    place structure: x1 は x2 （素材）のリボン／テープ／帯
+    notes:
+    - 「セロハンテープ」も。 ・大意： 帯（おび） ・読み方： ダスリ  ・語呂合わせ： ＜ダサいリボン＞ ・関連語： {djine}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett band/remsa/linjer/rand/strimma av material x2.
+    notes:
+    - Även strip (= ; remsa m tecknad serie).
+    glosses:
+    - linje (rand (tvådimensionell))
+    - rand
+    - remsa
+    - x1=band (remsa)
+    - x2=bandmaterial
+  zh:
+    place structure: x1是带/条状物，由材料x2构成
+    notes:
+    - 参见 {djine}.
+    glosses:
+    - No glosses.

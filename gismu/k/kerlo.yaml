@@ -1,7 +1,65 @@
-Word: kerlo
-Rafsi: ker
-Definition: 'x1 is a/the ear [body-part] of x2; [metaphor: sensory apparatus, information
-  gathering].'
-Notes: (adjective:) $x_1$ is aural.  See also {kanla}, {savru}, {smaji}, {tirna},
-  {ractu}.
-Examples: None
+word: kerlo
+rafsi:
+- ker
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the ear [body-part] of x2; [metaphor: sensory apparatus,
+      information gathering].'
+    notes:
+    - (adjective:) x1 is aural.  See also {kanla}, {savru}, {smaji}, {tirna}, {ractu}.
+    glosses:
+    - ear
+  de:
+    place structure: 'x1 ist ein Ohr [Körperteil] von x2; [im übertragenen Sinne:
+      Sinnesapparat, Informationserfassung]'
+    notes:
+    - No notes.
+    glosses:
+    - Ohr
+  es:
+    place structure: x1 es una oreja (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - oreja
+  ru:
+    place structure: x1 — ухо (часть тела) x2
+    notes:
+    - 'Метафора: сенсорный аппарат, сбор информации {kanla} (глаз), {savru} (шум),
+      {smaji} (молчать), {tirna} (слышать), {ractu} (заяц)'
+    glosses:
+    - ухо
+  en-simple:
+    place structure: x1 is an ear of x2
+    notes:
+    - No notes.
+    glosses:
+    - an ear
+    - x2=something with an ear
+  eo:
+    place structure: 'x1 estas orelo [korpoparto] de x2; [metafore: sensa aparato,
+      kolekto de informo]'
+    notes:
+    - Vidu ankaŭ {kanla}, {savru}, {smaji}, {tirna}, {ractu}.
+    glosses:
+    - orelo
+  hu:
+    place structure: x1 egy/a füle x2-nek
+    notes:
+    - '(Lásd még: {kanla}, {savru}, {smaji}, {tirna}, {ractu})'
+    glosses:
+    - fül
+  ja:
+    place structure: x1 は x2 （本体）の耳／聴覚器官；  x1 は聴覚者
+    notes:
+    - ・大意： 耳 ・読み方： ケルルォ  ・関連語： {kanla}, {savru}, {smaji}, {tirna}, {ractu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的耳/听觉器官
+    notes:
+    - x1是关于听觉的；参见 {kanla}, {savru}, {smaji}, {tirna}, {ractu}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,85 @@
-Word: pinxe
-Rafsi: pix
-Definition: x1 (agent) drinks/imbibes beverage/drink/liquid refreshment x2 from/out-of
-  container/source x3.
-Notes: See also {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
-Examples: None
+word: pinxe
+rafsi:
+- pix
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) drinks/imbibes beverage/drink/liquid refreshment x2
+      from/out-of container/source x3.
+    notes:
+    - See also {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+    glosses:
+    - drink
+  de:
+    place structure: x1 (Handelnder) trinkt Getränk/flüssige Erfrischung x2 aus Behälter/Quelle
+      x3.
+    notes:
+    - Siehe auch {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+    glosses:
+    - trinken
+  es:
+    place structure: x1 bebe/toma bebida x2 de recipiente/fuente x3
+    notes:
+    - Ver también {sputu}.
+    glosses:
+    - beber
+  ru:
+    place structure: x1 пьет напиток/жидкость x2 из сосуда/источника x3
+    notes:
+    - '{cidja} (пища), {citka} (есть), {taske} (жаждать), {tunlo} (глотать), {xaksu}
+      (расходовать), {barja} (бар), {birje} (пиво)'
+    glosses:
+    - x1=пить
+    - x2=жидкость, которую пьют
+  en-simple:
+    place structure: x1 drinks x2 out of x3
+    notes:
+    - No notes.
+    glosses:
+    - a drinker
+    - x2=something drunk
+    - x3=a drinking vessel
+  eo:
+    place structure: x1 (aganto) trinkas trinkaĵon/likvan refreŝigaĵon x2 el ujo/fonto
+      x3
+    notes:
+    - Vidu ankaŭ {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+    glosses:
+    - trinki
+  hu:
+    place structure: x1 issza x2 italt x3 edényből/forrásból
+    notes:
+    - '(Lásd még: {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje})'
+    glosses:
+    - iszik
+  ja:
+    place structure: x1 は x2 （液体）を x3 （容器／起源）から飲む
+    notes:
+    - ・大意： 飲む ・読み方： ピンクェ  ・語呂合わせ： xe (喝) ・関連語： {cidja}, {citka}, {taske}, {tunlo},
+      {xaksu}, {barja}, {birje}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 drinkt fris/drank/vloeibare stof x2 uit container/bron x3.
+    notes:
+    - 'Zie ook : {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.'
+    glosses:
+    - drink
+    - drinken
+    - x1=drinker
+    - x2=vloeibare stof
+    - x3=container van vloeibare stof (hersluitbare fles, wijnglas)
+  'no':
+    place structure: x1 (agent) drikker drikke/væske x2 ut av/fra x3
+    notes:
+    - Se også {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+    glosses:
+    - drikke (ta til seg væske)
+    - x2=drikke (væske)
+  zh:
+    place structure: x1喝/饮/吸入饮料x2，从容器/来源x3中
+    notes:
+    - 参见 {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+    glosses:
+    - No glosses.

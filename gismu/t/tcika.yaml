@@ -1,9 +1,83 @@
-Word: tcika
-Rafsi: ''
-Definition: x1 [hours, minutes, seconds] is the time/hour of state/event x2 on day
-  x3 at location x4.
-Notes: Also o'clock, time-of-day.  (time units in $x_1$ are specified as numbers separated
-  by pi'e or are unit values massified with joi); See also cmavo list {ti'u}, {cacra},
-  {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu}, {temci},
-  {vanci}, {dirba}, {mokca}.
-Examples: None
+word: tcika
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [hours, minutes, seconds] is the time/hour of state/event
+      x2 on day x3 at location x4.
+    notes:
+    - Also o'clock, time-of-day.  (time units in x1 are specified as numbers separated
+      by pi'e or are unit values massified with joi); See also cmavo list {ti'u},
+      {cacra}, {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu},
+      {temci}, {vanci}, {dirba}, {mokca}.
+    glosses:
+    - time of day
+  de:
+    place structure: x1 [Stunden, {Minuten}, {Sekunden}] ist der Zeitpunkt/die Tageszeit/Stunde
+      von Zustand/Ereignis x2 an Tag x3 und Ort x4
+    notes:
+    - No notes.
+    glosses:
+    - Tageszeit
+  es:
+    place structure: x1 (horas, {minutos}, {segundos}) es la hora/horario de evento
+      x2 el día x3 en lugar x4
+    notes:
+    - No notes.
+    glosses:
+    - horario
+  ru:
+    place structure: x1 (часы,{минуты},{секунды}) есть время (координата момента времени)
+      состояния/события x2 дня x3, в x4 (место)
+    notes:
+    - Единицы времени в x1 указываются как числа с разделителем {pi'e} или же описываются
+      явно, с указанием единиц измерения, и объединяются/складываются с помощью {joi};
+      время как длительность — {temci} {ti'u}, {cacra} (час), {cerni} (утро), {detri}
+      (дата), {donri} (день [время суток]), {djedi} (сутки), {junla} (часы [механизм]),
+      {nicte} (ночь), {mentu} (минута), {snidu} (секунда), {temci} (время [промежуток]),
+      {vanci} (вечер), {dirba} (милый), {mokca} (точка)
+    glosses:
+    - x1=время суток
+  en-simple:
+    place structure: x1 is the time of x2 happening on day x3 at x4
+    notes:
+    - No notes.
+    glosses:
+    - a time
+    - x2=something with a time
+    - x3=a day of time
+    - x4=a location of time
+  eo:
+    place structure: x1 [horoj, {minutoj}, {sekundoj}] estas la horo de stato/okazo
+      x2 en tago x3 ĉe loko x4
+    notes:
+    - (tempaj unuoj en x1 estas specifitaj kiel nombroj apartigitaj per pi'e); Vidu
+      ankaŭ cmavo {ti'u}, {cacra}, {cerni}, {detri}, {donri}, {djedi}, junla,nicte,mentu,{snidu},
+      temci,{vanci}, {dirba}, {mokca}.
+    glosses:
+    - horo [kioma]
+  hu:
+    place structure: x1 [óra, (perc, (másodperc))] az időpontja x2 eseménynek x3 napon,
+      x4 helyen
+    notes:
+    - '(Lásd még: {cacra}, {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu},
+      {snidu}, {temci}, {vanci}, {dirba}, {mokca})'
+    glosses:
+    - időpont
+  ja:
+    place structure: x1 （時／分／秒）は x2 （事）の、 x3 （日）・ x4 （所）における時刻
+    notes:
+    - x1は、「pi'e」で区切られた数や「joi」で繋がれた単位など。 ・大意： 時刻 ・読み方： チカ  ・語呂合わせ： 地下鉄の時刻, cike（時刻）,
+      time ・関連語： {ti'u}, {cacra}, {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte},
+      {mentu}, {snidu}, {temci}, {vanci}, {dirba}, {mokca}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（时分秒）是事件/状态x2的时,刻，在日期x3，在位置x4
+    notes:
+    - x1位的时间单位可由由pi'e连接的数字构成，也可由由joi连接的各单位值连接而成；参见 {ti'u}, {cacra}, {cerni}, {detri},
+      {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu}, {temci}, {vanci}, {dirba},
+      {mokca}.
+    glosses:
+    - No glosses.

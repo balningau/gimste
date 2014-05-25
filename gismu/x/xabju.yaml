@@ -1,6 +1,75 @@
-Word: xabju
-Rafsi: xa'u
-Definition: x1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode
-  x2.
-Notes: See also {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}.
-Examples: None
+word: xabju
+rafsi:
+- xa'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode
+      x2.
+    notes:
+    - See also {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}.
+    glosses:
+    - dwell
+  de:
+    place structure: x1 wohnt/lebt/haust/bleibt in/bewohnt/ist ein Bewohner/Ansässiger
+      von Ort/Lebensraum/Nest/Heimat/Wohnsitz
+    notes:
+    - No notes.
+    glosses:
+    - wohnen
+  es:
+    place structure: x1 habita/vive/reside en localidad x2
+    notes:
+    - Ver también {zvati},  {stuzi},  {jmive}.
+    glosses:
+    - habitar
+  fr:
+    place structure: x1 habite / réside / demeure au domicile / foyer / nid x2
+    notes:
+    - No notes.
+    glosses:
+    - habiter
+    - résider
+  ru:
+    place structure: x1 обитает/живет/проживает в местности/жилище/гнезде/доме/убежище
+      x2
+    notes:
+    - '{ginka} (лагерь [стоянка]), {zdani} (дом), {zvati} (находиться), {stuzi} (место
+      [постоянное]), {jmive} (живой), {stali} (оставаться), {vitke} (гостить)'
+    glosses:
+    - обитать
+    - x2=в чём обитают
+  en-simple:
+    place structure: x1 dwells or lives in x2
+    notes:
+    - No notes.
+    glosses:
+    - a dweller
+    - x2=a dwelling
+  eo:
+    place structure: x1 loĝas en loko/loĝejo/nesto/hejmo x2
+    notes:
+    - Vidu ankaŭ {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}.
+    glosses:
+    - loĝi
+  hu:
+    place structure: x1 a lakója/lakosa x2 szállásnak/lakóhelynek/háznak/otthonnak
+    notes:
+    - '(Lásd még: {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke})'
+    glosses:
+    - lakik
+  ja:
+    place structure: x1 は x2 （所）に住む／暮らす／棲息／生息する
+    notes:
+    - 「.ausai mi xabju lo stuzi be lo glajau jinto／私はどうでも温泉所在地に草庵を結びたい」（山頭火『行乞記（二）』）
+      ・大意： 住む ・読み方： クァブジュ ・語呂合わせ： juu 住 ,habit, ju(住) ・関連語： {ginka}, {zdani}, {zvati},
+      {stuzi}, {jmive}, {stali}, {vitke}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1居住在位置/巢穴/住所/栖息地x2；x1是居住地x2处的居民
+    notes:
+    - 参见 {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}.
+    glosses:
+    - No glosses.

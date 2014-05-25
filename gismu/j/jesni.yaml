@@ -1,5 +1,69 @@
-Word: jesni
-Rafsi: jes
-Definition: x1 is a needle [pointed shape/form, not tool] of material x2.
-Notes: See also {konju}, {pijne}, {jipno}, {kinli}.
-Examples: None
+word: jesni
+rafsi:
+- jes
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a needle [pointed shape/form, not tool] of material x2.
+    notes:
+    - See also {konju}, {pijne}, {jipno}, {kinli}.
+    glosses:
+    - needle
+  de:
+    place structure: x1 ist eine Nadel/ein Zeiger [zeigende Form, kein Werkzeug] aus
+      Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Zeiger
+  es:
+    place structure: x1 es una aguja (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - aguja
+  ru:
+    place structure: x1 — игла (заостренная форма, не орудие) из материала x2
+    notes:
+    - '{konju} (конус), {pijne} (булавка), {jipno} (кончик), {kinli} (острый)'
+    glosses:
+    - игла
+  en-simple:
+    place structure: x1 is a needle of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a needle
+    - x2=a material of a needle
+  eo:
+    place structure: x1 estas nadlo/kudrilo/montrilo/pinglo [pintoformo, ne ilo] el
+      materialo x2
+    notes:
+    - Vidu ankaŭ {konju}, {pijne}, {jipno}, {kinli}.
+    glosses:
+    - nadlo
+  hu:
+    place structure: x1 egy tű x2 anyagból
+    notes:
+    - 'Nem feltétlenül eszköz (Lásd még: {konju}, {pijne}, {jipno}, {kinli})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は x2 （素材）の針
+    notes:
+    - ・大意： 針 ・読み方： ジェスニ  ・関連語： {konju}, {pijne}, {jipno}, {kinli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är nålformig [spetsig form, ej verktyg] av material x2.
+    notes:
+    - No notes.
+    glosses:
+    - nålformig
+  zh:
+    place structure: x1是针/针状物，由材料x2构成
+    notes:
+    - 参见 {konju}, {pijne}, {jipno}, {kinli}.
+    glosses:
+    - No glosses.

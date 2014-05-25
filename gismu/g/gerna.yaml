@@ -1,6 +1,84 @@
-Word: gerna
-Rafsi: gen, ge'a
-Definition: x1 is the grammar/rules/defining form of language x2 for structure/text
-  x3.
-Notes: See also {bangu}, {stura}, {cmavo}, {jufra}.
-Examples: None
+word: gerna
+rafsi:
+- gen
+- ge'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the grammar/rules/defining form of language x2 for structure/text
+      x3.
+    notes:
+    - See also {bangu}, {stura}, {cmavo}, {jufra}.
+    glosses:
+    - grammar
+  de:
+    place structure: x1 ist die Grammatik/der Regelsatz der Sprache x2 für Struktur/Text
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Grammatik
+  es:
+    place structure: x1 es una gramática/reglas de idioma x2 para estructura/texto
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - gramatica
+  ru:
+    place structure: x1 - грамматика/правила языка x2 для структуры/текста x3
+    notes:
+    - '{bangu} - ''язык (лингвистический)'', {stura} - структура (чего-либо), {cmavo}
+      - ''грамматическая частица'', {jufra} - ''высказывание'''
+    glosses:
+    - грамматика
+  en-simple:
+    place structure: x1 is the grammar of language x2 for text x3
+    notes:
+    - No notes.
+    glosses:
+    - a grammar
+    - x2=something defined by a grammar
+    - x3=a grammatical structure
+  eo:
+    place structure: x1 estas gramatiko/regularo/difina formo de lingvo x2 por strukturo/teksto
+      x3
+    notes:
+    - Vidu ankaŭ {bangu}, {stura}, {cmavo}, {jufra}.
+    glosses:
+    - gramatiko
+  hu:
+    place structure: x1 a nyelvtana/szabályai x2 nyelvnek, x3 szövegben
+    notes:
+    - '(Lásd még: {bangu}, {stura}, {cmavo}, {jufra})'
+    glosses:
+    - nyelvtan
+  ja:
+    place structure: x1 は x2 （言語）の x3 （性質）に関する文法
+    notes:
+    - 「係り結び（x1）は古典日本語（ x2 ）の係助詞（ x3 ）に関する文法」。 ・大意： 文法 ・読み方： ゲルナ  ・語呂合わせ： ＜下痢になる＞ ・関連語：
+      {bangu}, {stura}, {cmavo}, {jufra}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 zijn de regels/gramatica van taal x2 voor structuur/tekst
+      x3.
+    notes:
+    - 'Zie ook : {bangu}, {stura}, {cmavo}, {jufra}.'
+    glosses:
+    - gramatica
+    - x2=taal
+  sv:
+    place structure: x1 är grammatik/regler/definierande former av språk x2 för struktur/text
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - grammatik
+  zh:
+    place structure: x1是语言x2的语法规则，对于具体句型/文本x3而言
+    notes:
+    - 参见 {bangu}, {stura}, {cmavo}, {jufra}.
+    glosses:
+    - No glosses.

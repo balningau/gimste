@@ -1,6 +1,86 @@
-Word: cteki
-Rafsi: tek, ce'i
-Definition: x1 is a tax/levy/duty on goods/services/event x2 levied against x3 by
-  authority/collector x4.
-Notes: Also custom, toll, tariff, tribute. See also {pleji}, {flalu}, {turni}.
-Examples: None
+word: cteki
+rafsi:
+- tek
+- ce'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tax/levy/duty on goods/services/event x2 levied against
+      x3 by authority/collector x4.
+    notes:
+    - Also custom, toll, tariff, tribute. See also {pleji}, {flalu}, {turni}.
+    glosses:
+    - tax
+  de:
+    place structure: x1 ist eine Steuer/Abgabe auf Güter/Diensleistungen/Ereignis
+      x2, Steuerpflichtiger x3, Steuererheber x4
+    notes:
+    - No notes.
+    glosses:
+    - Steuer
+  es:
+    place structure: x1 es un impuesto/exacción/tasa a bienes/servicios x2 impuesto/exigido
+      a x3 por autoridad/recaudador x4
+    notes:
+    - No notes.
+    glosses:
+    - impuesto
+  ru:
+    place structure: x1 — налог/пошлина на товары/услуги/событие x2, взимаемый с x3
+      органом власти/сборщиком x4; x2/x3 облагается налогом
+    notes:
+    - 'Также: дань/поборы {pleji} (платить), {flalu} (закон), {turni} (править)'
+    glosses:
+    - x1=налог
+    - x2=облагаемое налогом
+    - x3=налогоплательщик
+    - x4=сборщик налогов
+  en-simple:
+    place structure: x1 is a tax on x2 levied against x3 by authority or collector
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a tax
+    - x2=something taxed
+    - x3=a person taxed
+    - x4=a collector of a tax
+  eo:
+    place structure: x1 estas imposto/tributo je varoj/servoj/okazo x2 pagata de x3
+      al aŭtoritato/kolektanto x4
+    notes:
+    - 'Ankaŭ: doganimposto, vojimposto, tarifo. Vidu ankaŭ {pleji}, {flalu}, {turni}.'
+    glosses:
+    - imposto
+  hu:
+    place structure: x1 egy adó/dézsma/sarc x2 vagyonból/szolgáltatásból, x3-tól behajtandó,
+      x4 által
+    notes:
+    - 'Továbbá: vám/hűbér/díj (Lásd még: {pleji}, {flalu}, {turni})'
+    glosses:
+    - adó (közteher)
+  ja:
+    place structure: x1 は x2 （事）に関して x3 （者）に x4 （権威）が掛ける税
+    notes:
+    - 「消費税」「関税」など。 ・大意： 税 ・読み方： シテキ  ・語呂合わせ： 脱税を指摘, tax ・関連語： {pleji}, {flalu}, {turni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är skatt/pålaga/tullavgift på gods/tjänster/händelser x2  som
+      är ålagd x3 att betala av auktoritet/myndighet/indrivare x4.
+    notes:
+    - Även tribut, gärd, utskyld.
+    glosses:
+    - pålaga
+    - tribut (pålaga)
+    - x1=skatt (pålaga)
+    - x2=beskattad
+    - x3=skattebetalare
+    - x4=skattemyndighet
+  zh:
+    place structure: x1是税，针对货物/行为x2征收，向x3征收，征收者为x4
+    notes:
+    - 也指：关税，供奉，朝贡等；参见 {pleji}, {flalu}, {turni}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,67 @@
-Word: clira
-Rafsi: lir
-Definition: x1 (event) is early by standard x2.
-Notes: See also {lerci}.
-Examples: None
+word: clira
+rafsi:
+- lir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) is early by standard x2.
+    notes:
+    - See also {lerci}.
+    glosses:
+    - early
+  de:
+    place structure: x1 (Ereignis) ist früh gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - früh
+  es:
+    place structure: x1 (evento) es temprano según estándar x2
+    notes:
+    - Ver también {lerci}.
+    glosses:
+    - temprano
+  ru:
+    place structure: x1 (событие) происходит рано по стандарту x2
+    notes:
+    - '{lerci} (поздний)'
+    glosses:
+    - ранний
+  en-simple:
+    place structure: x1 (nu) is early by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something early
+    - x2=a standard for earliness
+  eo:
+    place structure: x1 (okazo) estas frua laŭ normo x2
+    notes:
+    - Vidu ankaŭ {lerci}.
+    glosses:
+    - frua
+  hu:
+    place structure: x1 esemény korai x2 mérce szerint
+    notes:
+    - '(Lásd még: {lerci})'
+    glosses:
+    - korai
+  ja:
+    place structure: x1 （事）は x2 （照合枠）において早い
+    notes:
+    - ・大意： 早い ・読み方： シルィラ  ・関連語： {lerci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är tidig enligt standard x2.
+    notes:
+    - No notes.
+    glosses:
+    - tidig
+  zh:
+    place structure: x1（事件）是早的，依据标准x2
+    notes:
+    - 参见 {lerci}.
+    glosses:
+    - No glosses.

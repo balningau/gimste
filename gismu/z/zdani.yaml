@@ -1,6 +1,86 @@
-Word: zdani
-Rafsi: zda
-Definition: x1 is a nest/house/lair/den/[home] of/for x2.
-Notes: Home (= {tercnizda}), house (constructed building) (= {zdadi'u}).  See also
-  {dinju}, {ginka}, {kumfa}, se {xabju}.
-Examples: None
+word: zdani
+rafsi:
+- zda
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a nest/house/lair/den/[home] of/for x2.
+    notes:
+    - Home (= {tercnizda}), house (constructed building) (= {zdadi'u}).  See also
+      {dinju}, {ginka}, {kumfa}, se {xabju}.
+    glosses:
+    - nest
+  de:
+    place structure: x1 ist ein Nest/ein Haus/ein Bau/[ein Zuhause] von/für x2
+    notes:
+    - Zuhause (= {tercnizda}), Haus (Gebäude) (={zdadi'u}). Siehe auch {dinju}, {ginka},
+      {kumfa}, {xabju}
+    glosses:
+    - Heimat
+    - Nest
+    - zu Hause
+    - x2=Bewohner
+  es:
+    place structure: x1 es un nido/casa/hogar/guarida/madriguera de x2
+    notes:
+    - No notes.
+    glosses:
+    - nido
+  fr:
+    place structure: x1 est le lieu de résidence (maison, tanière, nid, abri…) de
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - domicile
+    - maison
+    - nid
+    - résidance
+  ru:
+    place structure: x1 — гнездо/жилище/дом/логово/берлога/нора/прибежище для x2
+    notes:
+    - '«Домашний очаг»: {tercnizda}, жилой дом: {zdadi''u} {dinju} (здание), {ginka}
+      (лагерь [стоянка]), {kumfa} (комната), {se} {xabju} (проживать)'
+    glosses:
+    - дом (гнездо, берлога, прибежище)
+    - x2=обитающий
+  en-simple:
+    place structure: x1 is a home of x2
+    notes:
+    - No notes.
+    glosses:
+    - a home
+    - x2=something with a home
+  eo:
+    place structure: x1 estas nesto/domo/kuŝejo/[hejmo] de/por x2
+    notes:
+    - Hejmo (= {tercnizda}), domo (konstruaĵo) (= {zdadi'u}).  Vidu ankaŭ {dinju},
+      {ginka}, {kumfa}, se {xabju}.
+    glosses:
+    - nesto
+  hu:
+    place structure: x1 egy ház/fészek/odú/vacok/[lakóhely] x2 számára
+    notes:
+    - '(Lásd még: {dinju}, {ginka}, {kumfa}, {xabju})'
+    glosses:
+    - ház
+  ja:
+    place structure: x1 は x2 の（ための）巣／家／ねぐら／アジト
+    notes:
+    - 拡張すれば「家庭」も。 ・大意： 家 ・読み方： ズダニ ・関連語： {dinju}, {ginka}, {kumfa}, {se} {xabju}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to dom/gniazdo/miejsce stałego pobytu dla/zamieszkałe przez
+      x2.
+    notes:
+    - Cf. {dinju}, {ginka}, {kumfa}, {selxa'u}.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的巢穴/洞府/房子/窝
+    notes:
+    - 家= {tercnizda}；家/房子= {zdadi'u}；参见 {dinju}, {ginka}, {kumfa}, se {xabju}.
+    glosses:
+    - No glosses.

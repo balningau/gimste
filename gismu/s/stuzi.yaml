@@ -1,8 +1,82 @@
-Word: stuzi
-Rafsi: tuz, stu
-Definition: x1 is an inherent/inalienable site/place/position/situation/spot/location
-  of x2 (object/event).
-Notes: Generally used for normally stationary objects/events, to give their 'permanent'
-  location.  See also cmavo list {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju},
-  {jibni}, {judri}, {lamji}, {mokca}, {stali}.
-Examples: None
+word: stuzi
+rafsi:
+- tuz
+- stu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an inherent/inalienable site/place/position/situation/spot/location
+      of x2 (object/event).
+    notes:
+    - Generally used for normally stationary objects/events, to give their 'permanent'
+      location.  See also cmavo list {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju},
+      {jibni}, {judri}, {lamji}, {mokca}, {stali}.
+    glosses:
+    - location
+    - place (location)
+    - site
+  jbo:
+    place structure: x1 vitno lo ka x2 zvati ce'u
+    notes:
+    - No notes.
+    glosses:
+    - stuzi
+  de:
+    place structure: x1 ist ständige(r)/feste(r) Platz/Stelle/Position/Ort von x2
+      (Objekt/Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - Ort
+  es:
+    place structure: x1 es un sitio/lugar/localidad/ubicación de x2
+    notes:
+    - Ver también {diklo},  {zvati},  {tcini},  {xabju}.
+    glosses:
+    - lugar
+  ru:
+    place structure: x1 - неизменное местонахождение/место x2
+    notes:
+    - Употребляется для описания местонахождения стационарных объектов. См. также
+      список cmavo {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju}, {jibni}, {judri},
+      {lamji}, {mokca}, {stali}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is an inherent site of x2
+    notes:
+    - No notes.
+    glosses:
+    - a site
+    - x2=something with a site
+  eo:
+    place structure: x1 estas esenca/neforigebla pozicio/sidloko de x2 (objekto/okazo)
+    notes:
+    - ĝenerale uzita por kutime senmovaj objektoj/okazoj, por doni iliaj 'konstantaj'
+      lokoj.  Vidu ankaŭ cmavo {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju},
+      {jibni}, {judri}, {lamji}, {mokca}, {stali}.
+    glosses:
+    - pozicio
+  hu:
+    place structure: x1 egy/az elidegeníthetetlen/vele járó/hozzá tartozó helye/helyszíne
+      x2-nek
+    notes:
+    - '(Lásd még: {jmive}, {diklo}, {zvati}, {tcini}, {xabju}, {jibni}, {judri}, {lamji},
+      {mokca}, {stali})'
+    glosses:
+    - hely
+  ja:
+    place structure: x1 は x2 （物／事）の本質的／恒久的な場所／現場
+    notes:
+    - 「.ausai mi xabju lo stuzi be lo glajau jinto／私はどうでも温泉所在地に草庵を結びたい」（山頭火『行乞記（二）』）
+      ・大意： 場所 ・読み方： ストゥズィ  ・関連語： {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju},
+      {jibni}, {judri}, {lamji}, {mokca}, {stali}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2（物/事）的固有的位置/地点
+    notes:
+    - 通常用于形容那些位置固定的事物；参见 {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju}, {jibni},
+      {judri}, {lamji}, {mokca}, {stali}.
+    glosses:
+    - No glosses.

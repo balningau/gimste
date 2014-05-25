@@ -1,9 +1,96 @@
-Word: xecto
-Rafsi: xet, cto
-Definition: x1 is a hundred [100; $10^2$] of x2 in dimension/aspect x3 (default is
-  units).
-Notes: Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
-  {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
-  {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
-  {xatsi}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: xecto
+rafsi:
+- xet
+- cto
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a hundred [100; $10^2$] of x2 in dimension/aspect x3 (default
+      is units).
+    notes:
+    - Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: 'x1 ist hundert [100; $1^2$] von x2 in Dimension/Aspekt x3 (Default:
+      Einheiten)'
+    notes:
+    - No notes.
+    glosses:
+    - '100'
+  es:
+    place structure: x1 es una centena cien (1E2) de x2 en dimensión/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - hecto
+  ru:
+    place structure: x1 составляет сто [100; $10^2$] раз/крат x2 (чего) в аспекте/измерении
+      x3 (по умолчанию, единицы)
+    notes:
+    - '{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno}
+      (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин),
+      {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi}
+      (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo}
+      (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri}
+      (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико), {terto}
+      (тера), {xatsi} (атто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a hundred of x2 in dimension or aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - a hundred
+    - x2=something with hundreds
+    - x3=a hundreds aspect
+  eo:
+    place structure: x1 estas cento [100; 1x10**2] da x2 laŭ dimensio/aspekto x3 (defaŭlte
+      unuoj)
+    notes:
+    - (kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti,
+      nanvi, petso, picti, terto, xatsi,xexso,zepti,zetro)
+    glosses:
+    - 100 hekto-
+  hu:
+    place structure: x1 a százszorosa x2-nek x3 méretében/szempontból
+    notes:
+    - '(Lásd még: {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - hekto-
+  ja:
+    place structure: x1 は x2 の、 x3 （性質）におけるヘクト／百 ［1 x1 0**2］
+    notes:
+    - ・大意： ヘクト ・読み方： クェシト  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro},
+      {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är hundra [$10^{2}$] av x2 i dimension/aspekt x3 (enheter
+      om inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - '100'
+    - hekto- (SI-prefix)
+    - hundra
+  zh:
+    place structure: x1是一百/十的二次方个/份[$10^{2}$]x2，在x3方面（默认为计量单位）
+    notes:
+    - 参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu},
+      {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

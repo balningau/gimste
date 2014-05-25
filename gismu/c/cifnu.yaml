@@ -1,6 +1,82 @@
-Word: cifnu
-Rafsi: cif
-Definition: x1 is an infant/baby [helpless through youth/incomplete development] of
-  species x2.
-Notes: Also infantile.  See also {makcu}, {verba}.
-Examples: None
+word: cifnu
+rafsi:
+- cif
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an infant/baby [helpless through youth/incomplete development]
+      of species x2.
+    notes:
+    - Also infantile.  See also {makcu}, {verba}.
+    glosses:
+    - baby (infant)
+    - infant
+  de:
+    place structure: x1 ist ein Kleinkind/Säugling/Baby [hilflos durch niedriges Alter
+      oder unvollständige Entwicklung] von Rasse/Spezies/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Kleinkind
+  es:
+    place structure: x1 es un infante/bebé de especie/raza x2
+    notes:
+    - Ver también {verba}.
+    glosses:
+    - infante
+  ru:
+    place structure: x1 — младенец/детеныш (беспомощный в силу незаконченного развития)
+      животного x2
+    notes:
+    - '{makcu} (зрелый), {verba} (ребенок)'
+    glosses:
+    - x1=младенец
+  en-simple:
+    place structure: x1 is an infant or baby of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an infant
+    - x2=a species of an infant
+  eo:
+    place structure: x1 estas bebo/infano [ekde senhelpa ĝis junaĝo/nematura] de speco
+      x2
+    notes:
+    - 'Ankaŭ: infaneca.  Vidu ankaŭ {makcu}, {verba}.'
+    glosses:
+    - bebo
+  hu:
+    place structure: x1 egy csecsemő/újszülött [fiatalságánál/fejletlenségénél fogva
+      gyámoltalan egyed] az x2 fajból
+    notes:
+    - '(Lásd még: {makcu}, {verba})'
+    glosses:
+    - csecsemő
+  ja:
+    place structure: x1 は x2 （生物種）の幼児／赤ちゃん
+    notes:
+    - 「fi'o cifnu cismyku'o ku co'a tavla／幼い靨で話しかけるよ」（山頭火『行乞記（二）』） ・大意： 幼児 ・読み方： シフゥヌ
+      ・関連語： {makcu}, {verba}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en baby/bäbis/spädbarn/[unge] [hjälplös genom dess ringa
+      ålder/ofullständig utveckling] av art x2.
+    notes:
+    - Även infantil/barnslig/omogen.
+    glosses:
+    - baby (hjälplös genom dess ringa ålder)
+    - barnslig (omogen/hjälplös)
+    - bäbis (hjälplös genom dess ringa ålder)
+    - infantil (omogen/hjälplös)
+    - omogen (barnslig/hjälplös)
+    - spädbarn (hjälplös genom dess ringa ålder)
+    - x1=unge (hjälplös genom dess ringa ålder)
+    - x2=art (med ungar x1)
+  zh:
+    place structure: x1是婴儿/幼崽，属于物种x2
+    notes:
+    - 也指幼稚的； 参见 {makcu}, {verba}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,88 @@
-Word: farna
-Rafsi: far, fa'a
-Definition: x1 is the direction of x2 (object/event) from origin/in frame of reference
-  x3.
-Notes: $x_2$ is towards $x_1$ from $x_3$ (= {selfa'a} for reordered places).  See
-  also {zunle}, {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu}, {stuna},
-  {stici}, {purci}, {balvi}, {lidne}.
-Examples: None
+word: farna
+rafsi:
+- far
+- fa'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the direction of x2 (object/event) from origin/in frame
+      of reference x3.
+    notes:
+    - x2 is towards x1 from x3 (= {selfa'a} for reordered places).  See also {zunle},
+      {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu}, {stuna}, {stici},
+      {purci}, {balvi}, {lidne}.
+    glosses:
+    - direction
+  de:
+    place structure: x1 ist die Richtung von x2 (Objekt/Ereignis) relativ zu Ausgangspunkt/in
+      Bezugssystem x3
+    notes:
+    - No notes.
+    glosses:
+    - Richtung
+  es:
+    place structure: x1 es la dirección hacia x2 desde origen/en marco de referencia
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — направление на x2 от/в системе отсчета x3
+    notes:
+    - 'x2 находится в направлении x1 от x3: {selfa''a} с переставленными местами {zunle}
+      (слева), {pritu} (справа), {galtu} (высокий), {gapru} (над), {cnita} (под),
+      {dizlo} (низкий), {berti} (север), {snanu} (юг), {stuna} (восток), {stici} (запад),
+      {purci} (раньше), {balvi} (позже), {lidne} (предшествовать)'
+    glosses:
+    - x1=направление
+  en-simple:
+    place structure: x1 is the direction of x2 from origin x3
+    notes:
+    - No notes.
+    glosses:
+    - a direction
+    - x2=something found in a direction
+    - x3=an origin of a direction
+  eo:
+    place structure: x1 estas la direkto de x2 (objekto/okazo) de/en referenckadro
+      x3
+    notes:
+    - x2 estas direkte al x1 de x3 (= selfa'a por reordigitaj {lokoj}).  Vidu ankaŭ
+      {zunle}, {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu}, {stuna},
+      {stici}, {purci}, {balvi}, {lidne}.
+    glosses:
+    - direkto
+  hu:
+    place structure: x1 az iránya x2 tárgynak/eseménynek, x3 kiindulási pontból/vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {zunle}, {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu},
+      {stuna}, {stici}, {purci}, {balvi}, {lidne})'
+    glosses:
+    - irány
+  ja:
+    place structure: x1 は x2 （物／事）・ x3 （照合枠）の向き／方向／方角；  x3 から観て x2 は x1 のほうにある
+    notes:
+    - ・大意： 方向 ・読み方： ファルナ  ・語呂合わせ： ＜ファーをなくす方向＞,fan(方), direction ・関連語： {zunle}, {pritu},
+      {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu}, {stuna}, {stici}, {purci},
+      {balvi}, {lidne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är riktningen för x2 (objekt/händelse) från ursprung/i referensram
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - håll (riktning)
+    - kurs (riktning)
+    - riktning
+  zh:
+    place structure: x1是x2（物体/事件）的方向，基于参考系x3
+    notes:
+    - x2由x3朝向x1;参见 {zunle}, {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti},
+      {snanu}, {stuna}, {stici}, {purci}, {balvi}, {lidne}.
+    glosses:
+    - No glosses.

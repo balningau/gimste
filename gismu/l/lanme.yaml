@@ -1,5 +1,66 @@
-Word: lanme
-Rafsi: lan
-Definition: x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3.
-Notes: See also {kanba}, {sunla}.
-Examples: None
+word: lanme
+rafsi:
+- lan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3.
+    notes:
+    - See also {kanba}, {sunla}.
+    glosses:
+    - sheep
+  de:
+    place structure: x1 ist ein Schaf von Art/Gattung x2 von Herde x3
+    notes:
+    - No notes.
+    glosses:
+    - Schaf
+  es:
+    place structure: x1 es una oveja/carnero/cordero de especie/raza x2 de rebaño
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - oveja
+  ru:
+    place structure: x1 — овца/{баран/ягненок} вида/породы x2, принадлежащая стаду/отаре
+      x3
+    notes:
+    - '{kanba} (коза), {sunla} (шерсть)'
+    glosses:
+    - овца
+    - x2=вид овцы
+    - x3=стадо овец
+  en-simple:
+    place structure: x1 is a sheep of species x2 and flock x3
+    notes:
+    - No notes.
+    glosses:
+    - a sheep
+    - x2=a species of sheep
+    - x3=a sheep's flock
+  eo:
+    place structure: x1 estas shafo de speco/raso x2 el aro x3
+    notes:
+    - Vidu ankaŭ {kanba}, {sunla}.
+    glosses:
+    - ŝafo
+  hu:
+    place structure: x1 egy birka/juh az x2 fajból/fajtából, az x3 nyájból
+    notes:
+    - '(Lásd még: {kanba}, {sunla})'
+    glosses:
+    - birka
+  ja:
+    place structure: x1 は x2 （種類）の x3 （群れ）のヒツジ属動物
+    notes:
+    - ・大意： 羊 ・読み方： ルァンメ  ・語呂合わせ： ラム メェ ・関連語： {kanba}, {sunla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是羊，属于品种/种类x2
+    notes:
+    - 参见 {kanba}, {sunla}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,69 @@
-Word: jadni
-Rafsi: jad, ja'i
-Definition: x1 (object) adorns/decorates x2; x1 is an adornment/decoration of x2;
-  x2 is fancy/decorated.
-Notes: Fancy/decorated (= {selja'i}).  See also {jemna}, {dirba}, {batke}.
-Examples: None
+word: jadni
+rafsi:
+- jad
+- ja'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object) adorns/decorates x2; x1 is an adornment/decoration
+      of x2; x2 is fancy/decorated.
+    notes:
+    - Fancy/decorated (= {selja'i}).  See also {jemna}, {dirba}, {batke}.
+    glosses:
+    - adorn
+  de:
+    place structure: x1 (Gegenstand) schmückt/dekoriert x2; x1 ist Schmuck/Dekoration
+      auf x2; x2 ist geschmückt/dekoriert
+    notes:
+    - No notes.
+    glosses:
+    - schmücken
+  es:
+    place structure: x1 es un adorno/decoración/ornamento de x2
+    notes:
+    - No notes.
+    glosses:
+    - adorno
+  ru:
+    place structure: x1 — украшение/орнамент/отделка x2 (чье/чего); x1 (объект) украшает/декорирует/отделывает
+      x2; x2 разукрашен/отделан
+    notes:
+    - 'разукрашен/отделан: {selja''i}. См. также {jemna} (самоцвет), {dirba} (милый),
+      {batke} (кнопка)'
+    glosses:
+    - украшать
+    - украшение
+    - x1=украшающий
+  en-simple:
+    place structure: x1 adorns or decorates x2
+    notes:
+    - No notes.
+    glosses:
+    - something that adorns
+    - x2=something adorned
+  eo:
+    place structure: x1 (objekto) ornamas/dekoracias x2-on; x1 estas ornamaĵo/decoracio/galanterio
+      de x2
+    notes:
+    - Ornamita/dekoraciita (= {selja'i}).  Vidu ankaŭ {jemna}, {dirba}, {batke}.
+    glosses:
+    - ornami
+  hu:
+    place structure: x1 tárgy díszíti x2-t / x1 egy díszítése x2-nek
+    notes:
+    - '(Lásd még: {jemna}, {dirba}, {batke})'
+    glosses:
+    - dísz
+  ja:
+    place structure: x1 （物）は x2 を装飾する；  x1 は x2 の飾り；
+    notes:
+    - ・大意： 飾る ・読み方： ジャドニ  ・関連語： {jemna}, {dirba}, {batke}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体）装饰/修饰x2；x1是装饰x2的装饰品；x2是经x1装饰/修饰过的
+    notes:
+    - 装饰过的/装饰一新的= {selja'i}；参见 {jemna}, {dirba}, {batke}.
+    glosses:
+    - No glosses.

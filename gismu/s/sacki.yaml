@@ -1,5 +1,62 @@
-Word: sacki
-Rafsi: ''
-Definition: x1 is a match [incendiary device] made of x2.
-Notes: See also {fagri}, {jelca}.
-Examples: None
+word: sacki
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a match [incendiary device] made of x2.
+    notes:
+    - See also {fagri}, {jelca}.
+    glosses:
+    - match (incendiary device)
+  de:
+    place structure: x1 ist ein Streichholz/Zündholz [Zündgerät] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Streichholz
+  es:
+    place structure: x1 es un fósforo/cerilla hecho de x2
+    notes:
+    - No notes.
+    glosses:
+    - fósforo
+  ru:
+    place structure: x1 — спичка/зажигалка/огниво (зажигательное устройство), сделанная
+      из x2
+    notes:
+    - '{fagri} (огонь), {jelca} (гореть)'
+    glosses:
+    - спичка
+  en-simple:
+    place structure: x1 is a match made of x2
+    notes:
+    - No notes.
+    glosses:
+    - a match
+    - x2=a material of a match
+  eo:
+    place structure: x1 estas alumeto [brulig-rimedo] farita el x2
+    notes:
+    - Vidu ankaŭ {fagri}, {jelca}.
+    glosses:
+    - alumeto
+  hu:
+    place structure: x1 egy gyufa/öngyújtó [gyújtószerkezet] x2-ből
+    notes:
+    - '(Lásd még: {fagri}, {jelca})'
+    glosses:
+    - gyufa
+  ja:
+    place structure: x1 は x2 （素材／仕組）による発火装置
+    notes:
+    - マッチ、ライターなど。 ・大意： 発火装置 ・読み方： サシキ  ・語呂合わせ： 発火装置は挿木 ・関連語： {fagri}, {jelca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是火柴，由原料x2制成
+    notes:
+    - 参见 {fagri}, {jelca}.
+    glosses:
+    - No glosses.

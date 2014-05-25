@@ -1,7 +1,74 @@
-Word: staku
-Rafsi: tak
-Definition: x1 is a quantity of/contains/is made of ceramic made by x2, of composition
-  x3, in form/shape x4.
-Notes: 'Made of baked clay or other non-metallic solid; $x_3$: composition including
-  $x_3$, which need not be complete specification.  See also {kliti}.'
-Examples: None
+word: staku
+rafsi:
+- tak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of ceramic made by x2, of
+      composition x3, in form/shape x4.
+    notes:
+    - 'Made of baked clay or other non-metallic solid; x3: composition including x3,
+      which need not be complete specification.  See also {kliti}.'
+    glosses:
+    - ceramic
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Keramik, hergestellt
+      von x2 mit Zusammensetzung x3 in Form x4
+    notes:
+    - No notes.
+    glosses:
+    - Keramik
+  es:
+    place structure: x1 es una cantidad de cerámica hecha por x2 de composición x3
+      con forma x4
+    notes:
+    - No notes.
+    glosses:
+    - cerámica
+  ru:
+    place structure: x1 — керамика, изготовленная x2 (кем/где), состава x3, в форме
+      x4
+    notes:
+    - 'Обожженная глина или иной неметаллический твердый материал; x3: не обязательно
+      полное описание состава {kliti} (глина)'
+    glosses:
+    - x1=керамика
+    - x3=состав керамики
+  en-simple:
+    place structure: x1 is a quantity of ceramic made by x2 of composition x3 in form
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of ceramic
+    - x2=a maker of ceramic
+    - x3=a composition of ceramic
+    - x4=a form of ceramic
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el keramiko fare de x2,
+      de konsisto x3, en formo x4
+    notes:
+    - 'Farita el bakita argilo aŭ alia nemetala solido; x3: konsisto inkluzivanta
+      x3-on, kiu ne nepre estas kompleta specifado.  Vidu ankaŭ {kliti}.'
+    glosses:
+    - keramiko
+  hu:
+    place structure: x1 bizonyos mennyiségű kerámia (-t tartalmaz/-ból készült) x2
+      által készítve, x3 összetétellel, x4 alakban
+    notes:
+    - '(Lásd még: {kliti})'
+    glosses:
+    - kerámia
+  ja:
+    place structure: x1 は x2 （成分）・ x3 （形状）のセラミックス／陶磁器
+    notes:
+    - ・大意： セラミックス ・読み方： スタク  ・関連語： {kliti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2制作的陶瓷，具有组分x3，形式/结构x4
+    notes:
+    - 由烤粘土或其它非金属固体制成；物质构成中需包含x3，但x3位不需要指明全部构成；参见 {kliti}.
+    glosses:
+    - No glosses.

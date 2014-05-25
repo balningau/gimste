@@ -1,5 +1,64 @@
-Word: kruca
-Rafsi: kuc
-Definition: x1 intersects/crosses/traverses x2 at locus x3.
-Notes: See also {cripu}, {ragve}.
-Examples: None
+word: kruca
+rafsi:
+- kuc
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 intersects/crosses/traverses x2 at locus x3.
+    notes:
+    - See also {cripu}, {ragve}.
+    glosses:
+    - cross (intersect)
+    - intersect
+  de:
+    place structure: x1 kreuzt/schneidet/durchquert x2 an Stelle x3
+    notes:
+    - No notes.
+    glosses:
+    - kreuzen
+  es:
+    place structure: x1 intersecta/cruza x2 en punto/posición x3
+    notes:
+    - No notes.
+    glosses:
+    - intersectar
+  ru:
+    place structure: x1 пересекает x2 в точке/месте/участке x3
+    notes:
+    - '{cripu} (мост), {ragve} (напротив [по ту сторону])'
+    glosses:
+    - x1=пересекать
+    - x2=место пересечения
+  en-simple:
+    place structure: x1 intersects x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - something intersecting
+    - x2=something intersected
+    - x3=an intersection
+  eo:
+    place structure: x1 kruciĝas kun x2/transiras x2-on je loko x3
+    notes:
+    - Vidu ankaŭ {cripu}, {ragve}.
+    glosses:
+    - kruciĝi
+  hu:
+    place structure: x1 keresztezi/metszi x2-t x3 helyen
+    notes:
+    - '(Lásd még: {cripu}, {ragve})'
+    glosses:
+    - metsz
+  ja:
+    place structure: x1 は x2 と、 x3 （箇所）で交差する；  x1 は x2 を渡る
+    notes:
+    - ・大意： 交差 ・読み方： クルシャ  ・関連語： {cripu}, {ragve}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1横越过/跨越过/交叉过x2，在位置x3处
+    notes:
+    - 参见 {cripu}, {ragve}.
+    glosses:
+    - No glosses.

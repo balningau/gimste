@@ -1,5 +1,76 @@
-Word: fange
-Rafsi: ''
-Definition: x1 is alien/foreign/[exotic]/unfamiliar to x2 in property x3 (ka).
-Notes: See also {cizra}, {jbena}, {ckini}.
-Examples: None
+word: fange
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is alien/foreign/[exotic]/unfamiliar to x2 in property x3
+      (ka).
+    notes:
+    - See also {cizra}, {jbena}, {ckini}.
+    glosses:
+    - alien
+    - foreign (alien)
+  de:
+    place structure: x1 ist ausländisch/fremd/fremdartig/[exotisch] für x2 in Eigenschaft
+      x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - ausländisch
+  es:
+    place structure: x1 es extranjero/extraño/desconocido para x2 en propiedad x3
+    notes:
+    - Ver también {cizra}.
+    glosses:
+    - extranjero
+  ru:
+    place structure: x1 — чужой/чуждый/{экзотический}/незнакомый для x2 по свойству
+      x3 ({ka})
+    notes:
+    - '{cizra} (странный), {jbena} (рожденный), {ckini} (иметь отношение)'
+    glosses:
+    - чужой
+  en-simple:
+    place structure: x1 is alien or unfamiliar to x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something alien
+    - x2=something to which something is alien
+    - x3=an alien property
+  eo:
+    place structure: x1 estas fremda/[alilanda]/[ekzota]/malbone konata al x2 en eco
+      x3 (ka)
+    notes:
+    - Vidu ankaŭ {cizra}, {jbena}, {ckini}.
+    glosses:
+    - fremda
+  hu:
+    place structure: x1 idegen/ismeretlen x2 számára, x3 tulajdonságban
+    notes:
+    - '(Lásd még: {cizra}, {jbena}, {ckini})'
+    glosses:
+    - idegen
+  ja:
+    place structure: x1 は x2 にたいして x3 （性質）の点で異質／外来／別世界的／風変わり
+    notes:
+    - ・大意： 異質 ・読み方： ファンゲ  ・語呂合わせ： ＜ファンの元気＞ ・関連語： {cizra}, {jbena}, {ckini}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är främmande/utifrån kommande/utländsk/obekant för x2 i egenskap
+      x3 (ka).
+    notes:
+    - No notes.
+    glosses:
+    - främmande
+    - obekant
+    - utländsk (främmande)
+  zh:
+    place structure: x1是外来的/异域的/不熟悉的，对x2来说，在性质x3（ka）方面
+    notes:
+    - 参见 {cizra}, {jbena}, {ckini}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,124 @@
-Word: bangu
-Rafsi: ban, bau
-Definition: x1 is a/the language/dialect used by x2 to express/communicate x3 (si'o/du'u,
-  not quote).
-Notes: Also tongue.  See also {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra},
-  {natmi}, {slaka}.
-Examples: None
+word: bangu
+rafsi:
+- ban
+- bau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the language/dialect used by x2 to express/communicate
+      x3 (si'o/du'u, not quote).
+    notes:
+    - Also tongue.  See also {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra},
+      {natmi}, {slaka}.
+    glosses:
+    - language
+  de:
+    place structure: x1 ist eine/die Sprache/ein Dialekt, die/den x2 benutzt, um x3
+      auszudrücken (si'o/du'u, kein Zitat)
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es un idioma/dialecto/lengua/lenguaje de gente/pueblo/hablante
+      x2 usado para comunicar x3
+    notes:
+    - No notes.
+    glosses:
+    - idioma
+  fr:
+    place structure: x1 est une langue/un langage/un dialecte utilisé par le peuple/les
+      personnes/le êtres capables de la parole x2 afin d'exprimer l'idée/le fait/l'information
+      x3 (pas une citation).
+    notes:
+    - Voir également {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra}, {natmi},
+      {slaka}.
+    glosses:
+    - dialecte
+    - langage
+    - langue
+  ru:
+    place structure: 'x1 - язык/диалект, используемый x2 (кем: группа людей, народ
+      и пр.) для выражения x3 (si''o / du''u)'
+    notes:
+    - 'язык в анатомическом смысле: см. {tance}; см. {cusku} (высказывать, сообщать),
+      {ve} {tavla} (язык общения), {valsi} (слово), {gerna} (грамматика), {jufra}
+      (фраза, предложение), {natmi} (народ, нация), {slaka} (слог).'
+    glosses:
+    - диалект
+    - x1=язык (речь)
+    - x2=языковое сообщество
+    - x3=содержание, выражаемое на языке
+  en-simple:
+    place structure: x1 is a language used by x2 to communicate x3
+    notes:
+    - No notes.
+    glosses:
+    - a language
+    - x2=a user of a language
+    - x3=something expressed in a language
+  eo:
+    place structure: x1 estas lingvo/dialekto uzata de x2 por esprimi/komuniki x3-on
+      (si'o/du'u, ne citaĵo)
+    notes:
+    - Vidu ankaŭ {tance}, {cusku}, ve {tavla}, {valsi}, {gerna}, {jufra}, {natmi},
+      {slaka}.
+    glosses:
+    - lingvo
+  hu:
+    place structure: x1 egy/a nyelv(járás), amelyet x2 használ x3 gondolat kifejezésére
+    notes:
+    - '(Lásd még: {tance}, {cusku}, ve {tavla}, {valsi}, {gerna}, {jufra}, {natmi},
+      {slaka})'
+    glosses:
+    - nyelv (kommunikáció módja)
+  ja:
+    place structure: x1 は x2 （使用者）が x3 （概念／命題／文字列）を表すのに用いる言語；  x2 は x1 語を話す
+    notes:
+    - 「.e'o lo jbobau ko bangu／ロジバンを使ってください」 ・大意： 言語 ・読み方： バング  ・語呂合わせ： ＜晩の愚行＞. language
+      ・関連語： {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra}, {natmi}, {slaka}
+    - ''
+    glosses:
+    - No glosses.
+  la:
+    place structure: x1 lingua populi x2 est ut x2 x3 ({si'o} aut {du'u}, non locum
+      adlatum) dicat
+    notes:
+    - Confer {tance} et {cusku} et {ve tavla} et {valsi} et {gerna} et {jufra} et
+      {natmi} et {slaka}
+    glosses:
+    - x1=lingua
+  nl:
+    place structure: x1 is een taal/dialect gebruikt door x2 om zich uit te drukken/communiceren
+      x3 (si'o/du'u, geen quote).
+    notes:
+    - 'Zie ook : {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra}, {natmi}
+      en {slaka}.'
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er et språk/en dialekt/språket/dialekten brukt av x2 for å
+      uttrykke/kommunisere x3 (si'o/du'u, ingen sitering)
+    notes:
+    - Brukes også om språk. Se også {cusku}, {gerna}, {jufra}, {natmi}, {slaka}, {tance},
+      ve {tavla}, {valsi}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett språk/dialekt som används av x2 för att uttrycka/kommunicera
+      x3 (si'o/du'u, ej citat).
+    notes:
+    - Även tungomål.
+    glosses:
+    - dialekt
+    - mål (språk)
+    - tungomål
+    - x1=språk
+    - x2=språkgemenskap
+    - x3=idé överförd via språk
+  zh:
+    place structure: x1 是语言/方言, 被x2 使用, 用于表达/交流x3 .
+    notes:
+    - No notes.
+    glosses:
+    - 语言

@@ -1,11 +1,99 @@
-Word: cmavo
-Rafsi: ma'o
-Definition: x1 is a structure word of grammatical class x2, with meaning/function
-  x3 in usage (language) x4.
-Notes: $x_4$ may be a specific usage (with an embedded language place) or a massified
-  language description; $x_3$ and $x_4$ may be merely an example of cmavo usage or
-  refer to an actual expression; cmavo list, if physical object (= (loi) {ma'oste});
-  referring to the mental construct (e.g. propose adding a new cmavo to the cmavo
-  list = {ma'orpoi}, {ma'orselcmi}, {ma'orselste}).  See also {gismu}, {lujvo}, {gerna},
-  {smuni}, {valsi}.
-Examples: None
+word: cmavo
+rafsi:
+- ma'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a structure word of grammatical class x2, with meaning/function
+      x3 in usage (language) x4.
+    notes:
+    - x4 may be a specific usage (with an embedded language place) or a massified
+      language description; x3 and x4 may be merely an example of cmavo usage or refer
+      to an actual expression; cmavo list, if physical object (= (loi) {ma'oste});
+      referring to the mental construct (e.g. propose adding a new cmavo to the cmavo
+      list = {ma'orpoi}, {ma'orselcmi}, {ma'orselste}).  See also {gismu}, {lujvo},
+      {gerna}, {smuni}, {valsi}.
+    glosses:
+    - structure word
+  de:
+    place structure: x1 ist ein Strukturwort von grammatikalischer Klasse x2 mit Bedeutung/Funktion
+      x3 in Gebrauch/Sprache x4
+    notes:
+    - No notes.
+    glosses:
+    - Strukturwort
+  es:
+    place structure: x1 es una partícula/palabra estructural de tipo x2 con significado/función
+      x3 en idioma x4
+    notes:
+    - No notes.
+    glosses:
+    - partícula
+  ru:
+    place structure: x1 — cmavo (служебное слово) грамматического класса x2 со значением/функцией
+      x3 в конструкции/языке x4
+    notes:
+    - 'Также: частица; x4 м.б. конкретный случай/пример употребления (конструкция/оборот,
+      возможно, со ссылкой на язык) или описание языка; x3 и x4 м.б. также просто
+      пример употребления cmavo или ссылка на конкретное выражение; список cmavo:
+      как физический объект: ({loi}) {ma''oste}, как мысленный конструкт (напр. при
+      предложении добавить новое cmavo к списку cmavo): {ma''orpoi}, {ma''orselcmi},
+      {ma''orselste} {gismu} (), {lujvo} (), {gerna} (грамматика), {smuni} (значение
+      [смысл]), {valsi} (слово)'
+    glosses:
+    - структурное слово
+  en-simple:
+    place structure: x1 is a structure word of group x2, meaning x3, used in language
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a structure word
+    - x2=a structure word's grammatical class
+    - x3=a meaning of a structure word
+    - x4=a language of a structure word
+  eo:
+    place structure: x1 estas strukturvorto de gramatika klaso x2, kun signifo/funkcio
+      x3 en uzo (lingvo) x4
+    notes:
+    - x4 povas esti specifa uzo (kun interna lingvoloko) aŭ lingvo priskribo; x3 kaj
+      x4 povas esti nura ekzemplo de uzo de la cmavo aŭ efektiva esprimo; cmavo-listo,
+      se fizika objekto (= (loi) ma'oste); se temas pri la mensa konstruaĵo (ekz.
+      proponi aldoni novan cmavo al la cmavo-listo = ma'orpoi, ma'orselcmi, ma'orselste).  Vidu
+      ankaŭ {gismu}, {lujvo}, {gerna}, {smuni}, {valsi}.
+    glosses:
+    - strukturvorto
+  hu:
+    place structure: x1 egy, a viszonyszavakhoz hasonló szerepet betöltő szó az x2
+      nyelvtani csoportból, x3 szereppel/jelentéssel, x4 használatban/nyelvben
+    notes:
+    - '(Lásd még: {gismu}, {lujvo}, {gerna}, {smuni}, {valsi})'
+    glosses:
+    - viszonyszó
+  ja:
+    place structure: x1 （文字列）は x2 （品詞）・ x3 （意味／機能）・ x4 （言語）の機能語
+    notes:
+    - ・大意： 機能語 ・読み方： シマヴォ  ・関連語： {ma'oste}, {gismu}, {lujvo}, {gerna}, {smuni}, {sumti},
+      {valsi}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett strukturord av grammatisk klass x2, med betydelse/funktion
+      x3 används i (språk) x4.
+    notes:
+    - x4 kan vara en specifik användning (med en inbäddad språkplats) eller en massifierad
+      språkbeskrivning; x3 och x4 kan vara endast ett exempel av användning av cmavo
+      eller syfta på ett aktuellt uttryck; cmavo-lista, om det är ett fysiskt objekt
+      (= (loi) ma'oste); med hänsyftning till den mentala konstruktionen (eg. föreslår
+      att lägga till ett nytt cmavo till cmavo-listan = ma'orpoi, ma'orselcmi, ma'orselste).
+      Se även {gismu}, {lujvo}, {gerna}, {smuni}, {valsi}.
+    glosses:
+    - strukturord
+  zh:
+    place structure: x1是结构词，属于类x2，具有意义/功能x3，用于用途/语言x4
+    notes:
+    - x4可能指特定的用法（嵌入语言中某位置）或一个语言的整体化描述；x3和x4可能只是指特定表达中的结构词用法的例证； 表示物体对象的结构词列表= {loi}
+      {ma'oste}； 指示内涵结构结构词列表= {ma'orpoi}/ {ma'orselcmi}/{ma'orselste}；参见 {gismu},
+      {lujvo}, {gerna}, {smuni}, {valsi}.
+    glosses:
+    - No glosses.

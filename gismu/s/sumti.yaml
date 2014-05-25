@@ -1,5 +1,71 @@
-Word: sumti
-Rafsi: sum, su'i
-Definition: x1 is a/the argument of predicate/function x2 filling place x3 (kind/number).
-Notes: ($x_1$ and $x_2$ are text); See also {bridi}, {darlu}, {gismu}.
-Examples: None
+word: sumti
+rafsi:
+- sum
+- su'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the argument of predicate/function x2 filling place x3
+      (kind/number).
+    notes:
+    - (x1 and x2 are text); See also {bridi}, {darlu}, {gismu}.
+    glosses:
+    - argument
+  de:
+    place structure: x1 ist ein/das Argument von Prädikat/Funktion x2 und nimmt den
+      Platz x3 (Typ/Zahl) ein
+    notes:
+    - No notes.
+    glosses:
+    - Argument
+  es:
+    place structure: x1 es un argumento del predicado/función x2 en posición x3
+    notes:
+    - Ver también {bridi},  {darlu}.
+    glosses:
+    - argumento
+  ru:
+    place structure: x1 (текст) — это sumti (аргумент, имя существительное/местоимение/имя
+      собственное) от сказуемого-selbri x2 (текст), заполняющее место/падеж x3
+    notes:
+    - См. {bridi} - 'глагольная фраза', {darlu} - 'отстаивать позицию', {gismu} -
+      'корневое слово'
+    glosses:
+    - существительное  / местоимение  / имя собственное
+    - x1=аргумент предиката
+    - x1=аргумент сказуемого
+  en-simple:
+    place structure: x1 is an argument of predicate x2 filling place x3
+    notes:
+    - No notes.
+    glosses:
+    - an argument
+    - x2=a predicate of an argument
+    - x3=a place of an argument
+  eo:
+    place structure: x1 estas argumento de predikato/funkcio x2 plenigante loko x3
+      (tipo/nombro)
+    notes:
+    - (x1 kaj x2 estas tekstoj); Vidu ankaŭ {bridi}, {darlu}, {gismu}.
+    glosses:
+    - argumento
+  hu:
+    place structure: x1 egy/az argumentuma/változója/paramétere x2 állításnak/függvénynek,
+      x3 helyet/valenciát betöltve
+    notes:
+    - '(Lásd még: {bridi}, {darlu}, {gismu})'
+    glosses:
+    - argumentum
+  ja:
+    place structure: 'x1 は x2 （述語／関数）の場所 x3 （種類／番号）を占める項 '
+    notes:
+    - ・大意： 項 ・読み方： スムティ  ・関連語： {bridi}, {gismu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是谓词x2的项，填入位x3（种类/数字）
+    notes:
+    - x1位与x2位均为文本；参见 {bridi}, {darlu}, {gismu}.
+    glosses:
+    - No glosses.

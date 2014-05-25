@@ -1,8 +1,83 @@
-Word: minli
-Rafsi: ''
-Definition: x1 is x2 (default 1) long local distance unit(s) [non-metric], x3 subunits,
-  standard x4.
-Notes: (additional subunit places may be added as $x_5$, $x_6$, ...); See also {mitre},
-  {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {gutci},
-  {minli}, {merli}, {bunda}, {kramu}.
-Examples: None
+word: minli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 (default 1) long local distance unit(s) [non-metric],
+      x3 subunits, standard x4.
+    notes:
+    - (additional subunit places may be added as x5, x6, ...); See also {mitre}, {kilto},
+      {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu}.
+    glosses:
+    - mile
+  de:
+    place structure: 'x1 ist x2 (Default: 1) lange lokale Abstandseinheit(en)/Längeneinheiten
+      [nicht-metrisch] mit x2 Untereinheiten gemäß Standard x4'
+    notes:
+    - No notes.
+    glosses:
+    - Meile
+  es:
+    place structure: x1 mide x2 unidades locales de distancia larga (1 por defecto),
+      estándar x3, x4 subunidades
+    notes:
+    - No notes.
+    glosses:
+    - milla
+  ru:
+    place structure: длина x1 составляет x2 (по умолчанию 1) местных (неметрических)
+      единиц измерения больших расстояний, по стандарту x3, x4 дробных единиц
+    notes:
+    - Дополнительные места для дробных единиц могут быть добавлены как x5, x6,… {mitre}
+      (метр), {kilto} (кило), {clani} (длинный), {ganra} (широкий), {condi} (глубокий),
+      {rotsu} (толстый), {rupnu} (денежная единица), {fepni} (стоить [в копейках/центах
+      и пр.]), {dekpu} (иметь объем [неметрический]), {gutci} (измеряться [в футах/дюймах
+      и пр.]), {minli} (миля), {merli} (измерять), {bunda} (весить [в неметрических
+      единицах]), {kramu} (акр)
+    glosses:
+    - миля
+  en-simple:
+    place structure: x1 is x2 non-metric long distance units with subunits x3 in standard
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - something measured in non-metric long distance
+    - x2=an amount of non-metric long distance
+    - x3=a subunit of a non-metric long distance
+    - x4=a non-metric long distance standard
+  eo:
+    place structure: x1 estas x2 (defaŭlte 1) longaj lokaj unuoj de distanco [ne-metra],
+      x3 subunuoj, normo x4
+    notes:
+    - (pliajn subunuajn lokojn oni povas aldoni kiel x5, x6, ...); Vidu ankaŭ {mitre},
+      {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {gutci},
+      {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - mejlo
+  hu:
+    place structure: x1 hossza x2 helyi [nem metrikus] hosszú hosszúságegység, x3
+      rendszerben, x4 (x5, x6, stb.) alegységekkel
+    notes:
+    - '(Lásd még: {mitre}, {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni},
+      {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu})'
+    glosses:
+    - mérföld
+  ja:
+    place structure: x1 は x2 （数）の、 x3 を下位単位とする、 x4 （規格圏）の里／マイル（非メートル法／土着的な距離単位）
+    notes:
+    - x3は「丈」や「ヤード」など。x4は「中国」「アメリカ」など。 ・大意： 里（り） ・読み方： ミンルィ  ・語呂合わせ： ＜みんなをリード、何里＞ ・関連語：
+      {mitre}, {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu},
+      {gutci}, {minli}, {merli}, {bunda}, {kramu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的当地距离单位的（非公制单位），x3是亚单位/子单位，基于标准x4
+    notes:
+    - 后可继续添加子单位x5,x6……； 参见 {mitre}, {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu},
+      {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - No glosses.

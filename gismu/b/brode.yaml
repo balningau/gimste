@@ -1,5 +1,55 @@
-Word: brode
-Rafsi: bo'e
-Definition: 2nd assignable variable predicate (context determines place structure).
-Notes: No notes available.
-Examples: None
+word: brode
+rafsi:
+- bo'e
+examples: No examples.
+definitions:
+  en:
+    place structure: 2nd assignable variable predicate (context determines place structure).
+    notes:
+    - No notes.
+    glosses:
+    - predicate var 2
+  jbo:
+    place structure: remoi brika'i .i ka'e se snigau sepi'o zo cei
+    notes:
+    - '{snigau} {brika''i}'
+    glosses:
+    - brode
+  de:
+    place structure: x1 ist zweites zuweisbares variables Prädikat (der Kontext bestimmt
+      die Platzstruktur)
+    notes:
+    - No notes.
+    glosses:
+    - Prädikatvar 2
+  es:
+    place structure: 2do predicado variable asignable
+    notes:
+    - No notes.
+    glosses:
+    - predicado var 2
+  en-simple:
+    place structure: x1 is the predicate variable 2
+    notes:
+    - No notes.
+    glosses:
+    - predicate variable 2
+  eo:
+    place structure: 2a asignebla predikata varianto (kunteksto determinas la argumentostrukturon)
+    notes:
+    - No notes.
+    glosses:
+    - predikata varianto 2
+  ja:
+    place structure: 代ブリディその2［x1を始めとするPS全体が文脈次第］
+    notes:
+    - '{cei} を使って {selbri} を代入できる。 ・大意： 第二 selbri 変数 ・読み方： ブロデ  ・関連語： {bu''a}, {bu''e},
+      {bu''i}'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是第二个可被分配的谓词变量（上下文决定位置结构）
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.

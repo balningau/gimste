@@ -1,6 +1,69 @@
-Word: sinma
-Rafsi: si'a
-Definition: x1 esteems/respects/venerates/highly regards x2 [object of respect].
-Notes: 'Also: $x_2$ is respected/esteemed/celebrated (= {selsi''a} for reordered places).  See
-  also {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.'
-Examples: None
+word: sinma
+rafsi:
+- si'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 esteems/respects/venerates/highly regards x2 [object of respect].
+    notes:
+    - 'Also: x2 is respected/esteemed/celebrated (= {selsi''a} for reordered places).  See
+      also {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.'
+    glosses:
+    - esteem
+    - respect (have respect for)
+  de:
+    place structure: x1 schätzt/achtet/ehrt/hochachtet x2 [Objekt der Achtung]
+    notes:
+    - No notes.
+    glosses:
+    - schätzen
+  es:
+    place structure: x1 estima/respeta/venera a x2
+    notes:
+    - Ver también {salci}.
+    glosses:
+    - estimar
+  ru:
+    place structure: x1 уважает/почитает/высоко ценит x2 (кого/что)
+    notes:
+    - 'Также: x2 — уважаемый/почитаемый: {selsi''a} с переставленными местами) {banli}
+      (великий), {censa} (священный), {misno} (известный), {nelci} (любить [предпочитать]),
+      {prami} (любить [кого-либо]), {salci} (праздновать), {jgira} (гордиться)'
+    glosses:
+    - уважать
+    - x1=уважающий
+    - x2=уважаемый
+  en-simple:
+    place structure: x1 respects or venerates x2
+    notes:
+    - No notes.
+    glosses:
+    - a respecter
+    - x2=something respected
+  eo:
+    place structure: x1 estimas/respektas/adoras x2-on [objekto de respekto]
+    notes:
+    - 'Ankaŭ: x2 estas respektata/estimata/celebrata (= selsi''a por reordigitaj {lokoj}).  Vidu
+      ankaŭ {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.'
+    glosses:
+    - estimi
+  hu:
+    place structure: x1 megbecsüli/értékeli/tiszteli/méltányolja x2-t
+    notes:
+    - '(Lásd még: {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira})'
+    glosses:
+    - nagyra becsül
+  ja:
+    place structure: x1 は x2 を尊重・尊敬する；  x2 は尊い
+    notes:
+    - ・大意： 尊敬 ・読み方： スィンマ  ・語呂合わせ： スィンマセン、尊敬してます ・関連語： {banli}, {censa}, {misno}, {nelci},
+      {prami}, {salci}, {jgira}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1尊敬/高规格的对待x2（受尊重的对象）
+    notes:
+    - x2是受人尊敬的；参见 {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.
+    glosses:
+    - No glosses.

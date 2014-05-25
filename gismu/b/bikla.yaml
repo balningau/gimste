@@ -1,5 +1,83 @@
-Word: bikla
-Rafsi: bik
-Definition: x1 whips/lashes/snaps [a sudden violent motion].
-Notes: See also {skori}, {darxi}.
-Examples: None
+word: bikla
+rafsi:
+- bik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 whips/lashes/snaps [a sudden violent motion].
+    notes:
+    - See also {skori}, {darxi}.
+    glosses:
+    - whip
+  jbo:
+    place structure: x1 vlile je suksa fi lo ka muvdu
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 peitscht/schnappt [plötzliche starke Bewegung]
+    notes:
+    - No notes.
+    glosses:
+    - peitschen
+  es:
+    place structure: x1 es un látigo/latiguea (movimiento rápido y violento)
+    notes:
+    - No notes.
+    glosses:
+    - látigo
+  ru:
+    place structure: x1 дергается/бьется/трепещет (внезапное резкое движение)
+    notes:
+    - '{skori} (веревка), {darxi} (ударять)'
+    glosses:
+    - дергаться
+    - x1=дергающийся
+  en-simple:
+    place structure: x1 whips or lashes
+    notes:
+    - No notes.
+    glosses:
+    - a lasher
+  eo:
+    place structure: x1 agas kiel vipo/faras klakon/krakon [subita fortega movo]
+    notes:
+    - Vidu ankaŭ {skori}, {darxi}.
+    glosses:
+    - vipo
+  hu:
+    place structure: x1 csap/rándul egyet [hirtelen heves mozdulatot tesz]
+    notes:
+    - '(Lásd még: {skori}, {darxi})'
+    glosses:
+    - megrándul
+  ja:
+    place structure: x1 はビュッと動く／パチッとする
+    notes:
+    - 鞭の動き、泡立て器の動きなど、急激な動きを表す。 ・大意： 鞭 ・読み方： ビクルァ  ・語呂合わせ： ＜びっくりライオン＞,　bian(鞭), lash  ・関連語：
+      {skori}, {darxi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 pisker/slår/smekker/sveiper (plutselig voldelig bevegelse)
+    notes:
+    - Se også {skori}, {darxi}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 rycker (till)/piskar/snärtar (en plötslig häftig rörelse).
+    notes:
+    - Se även {skori}, {darxi}.
+    glosses:
+    - rycka (en plötslig häftig rörelse)
+    - snärt (en plötslig häftig rörelse)
+    - snärta (en plötslig häftig rörelse)
+    - x1=ryck (en plötslig häftig rörelse)
+  zh:
+    place structure: x1抽打（突然的暴力行为）
+    notes:
+    - 参见 {skori}, {darxi}.
+    glosses:
+    - No glosses.

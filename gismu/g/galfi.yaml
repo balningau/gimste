@@ -1,7 +1,97 @@
-Word: galfi
-Rafsi: gaf, ga'i
-Definition: x1 (event) modifies/alters/changes/transforms/converts x2 into x3.
-Notes: Causal, resultative change; agentive modification (= {gafygau}, {gafyzu'e}).  (cf.
-  {stika} for non-resultative, {binxo} for not-necessarily causal change, {cenba}
-  for non-resultative change; {zasni})
-Examples: None
+word: galfi
+rafsi:
+- gaf
+- ga'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) modifies/alters/changes/transforms/converts x2 into
+      x3.
+    notes:
+    - Causal, resultative change; agentive modification (= {gafygau}, {gafyzu'e}).  (cf.
+      {stika} for non-resultative, {binxo} for not-necessarily causal change, {cenba}
+      for non-resultative change; {zasni})
+    glosses:
+    - modify
+  jbo:
+    place structure: x1 gasnu lo nu x2 binxo x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Ereignis) verändert/ändert/modifiziert/wandelt x2 in/nach
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - verändern
+  es:
+    place structure: x1 convierte/transforma/modifica/altera/cambia/torna x2 en x3
+    notes:
+    - Ver también {stika},  {binxo},  {cenba},  {zasni}.
+    glosses:
+    - convertir
+  ru:
+    place structure: x1 изменяет/трансформирует/преобразует/модифицирует x2 в x3
+    notes:
+    - Деятельное, результативное изменение {stika} (регулировать) для нерезультативного,
+      {binxo} (становиться) для не обязательно деятельного, но результативного, {cenba}
+      (изменчивый [в свойстве]) для недеятельного и нерезультативного изменения; {zasni}
+      (временный)
+    glosses:
+    - изменять
+    - x1=изменяющий
+    - x2=изменяемое
+    - x3=во что изменяется
+  en-simple:
+    place structure: x1 modifies or changes x2 into x3
+    notes:
+    - No notes.
+    glosses:
+    - a modifyer
+    - x2=a modified
+    - x3=a modification result
+  eo:
+    place structure: x1 (okazo) modifas/ŝanĝas/variigas/transformas x2-on en x3
+    notes:
+    - Kaŭza, rezulta ŝanĝo; agenta modifo (= {gafygau}, {gafyzu'e}).  (kp. stika por
+      nerezulta ŝanĝo, binxo por ne nepre kaŭza ŝanĝiĝo, cenba por nerezulta ŝanĝiĝo;
+      zasni)
+    glosses:
+    - modifi
+  hu:
+    place structure: x1 esemény átváltoztatja x2-t x3-má
+    notes:
+    - '(Lásd még: {stika}, {binxo}, {cenba}, {zasni})'
+    glosses:
+    - átváltoztat
+  ja:
+    place structure: x1 は x2 を x3 に改変する／変える
+    notes:
+    - 「cenba」と違い、他動的で、結果が含意される。 ・大意： 改変 ・読み方： ガルゥフィ  ・関連語： {stika}, {binxo}, {cenba};
+      {zasni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse) modifierar/(för)ändrar/transformerar/förvandlar/omvandlar
+      x2 till x3.
+    notes:
+    - Kausal, resultativ förändring; agentiv modififiering (= {gafygau}). jfr {stika}
+      för icke-resultativ, {binxo} för icke-nödvändigtvis kausal förändring, {cenba}
+      för icke-resultativ förändring; {zasni})
+    glosses:
+    - förvandla (Kausal, resultativ förändring)
+    - förändra (Kausal, resultativ förändring)
+    - modifiera (Kausal, resultativ förändring)
+    - omvandla (Kausal, resultativ förändring)
+    - transformera (Kausal, resultativ förändring)
+    - ändra (Kausal, resultativ förändring)
+  zh:
+    place structure: 事件x1改变/转化x2至x3
+    notes:
+    - 导致，表示有原因和结果的变化； （施事的）改变= {gafygau}/{gafyzu'e}；参见 {stika}无结果, {binxo} 无原因, {cenba}
+      无结果; {zasni}
+    glosses:
+    - No glosses.

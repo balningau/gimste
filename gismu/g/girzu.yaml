@@ -1,9 +1,95 @@
-Word: girzu
-Rafsi: gir, gri
-Definition: x1 is group/cluster/team showing common property (ka) x2 due to set x3
-  linked by relations x4.
-Notes: Also collection, team, comprised of, comprising; members $x_3$ (a specification
-  of the complete membership) comprise group $x_1$; cluster (= {kangri}).  See also
-  {bende}, {ciste}, {cmima}, {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi},
-  {lanzu}, {liste}, {vrici}.
-Examples: None
+word: girzu
+rafsi:
+- gir
+- gri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is group/cluster/team showing common property (ka) x2 due
+      to set x3 linked by relations x4.
+    notes:
+    - Also collection, team, comprised of, comprising; members x3 (a specification
+      of the complete membership) comprise group x1; cluster (= {kangri}).  See also
+      {bende}, {ciste}, {cmima}, {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi},
+      {lanzu}, {liste}, {vrici}.
+    glosses:
+    - group
+  de:
+    place structure: x1 ist eine Gruppe/ein Haufen/ein Schwarm mit gemeinsamer Eigenschaft
+      (ka) x2 aufgrund von Menge x3 verbunden durch Beziehung x4
+    notes:
+    - No notes.
+    glosses:
+    - Gruppe
+  es:
+    place structure: x1 es un grupo/conjunto/equipo definido por propiedad x2 debido
+      a conjunto x3 con relaciones x4
+    notes:
+    - No notes.
+    glosses:
+    - grupo
+  ru:
+    place structure: x1 — группа/коллекция/коллектив с общим свойством x2 ({ka}),
+      объединяющая членов множества x3, связанных отношениями x4
+    notes:
+    - 'Скопление: {kangri} {bende} (команда), {ciste} (система), {cmima} (член), {gunma}
+      (масса [единое целое]), {panra} (подобный), {cabra} (аппарат [механизм]), {cecmu}
+      (сообщество [организмов]), {kansa} (вместе), {klesi} (класс), {lanzu} (семья),
+      {liste} (список), {vrici} (разнообразный)'
+    glosses:
+    - x1=группа
+  en-simple:
+    place structure: x1 is a group with common property x2 due to set x3 linked by
+      relations x4
+    notes:
+    - No notes.
+    glosses:
+    - a group
+    - x2=a group property
+    - x3=a set containing group
+    - x4=a group relation
+  eo:
+    place structure: x1 estas grupo/amaso/teamo elmontrante komunan econ (ka) x2 el
+      aro x3 kunigitaj per rilatoj x4
+    notes:
+    - 'Ankaŭ: kolekto, teamo, konsisto el; membroj x3 (specifado de la kompleta membraro)
+      konsistigas grupon x1; amaso (= {kangri}).  Vidu ankaŭ {bende}, {ciste}, {cmima},
+      {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi}, lanzu,{liste}, {vrici}.'
+    glosses:
+    - grupo
+  hu:
+    place structure: x1 egy csoport/csapat x2 közös tulajdonságokkal, amelynek tagjai
+      x3 halmaz elemei és x4 viszonyban állnak egymással
+    notes:
+    - '(Lásd még: {bende}, {ciste}, {cmima}, {gunma}, {panra}, {cabra}, {cecmu}, {kansa},
+      {klesi}, {lanzu}, {liste}, {vrici})'
+    glosses:
+    - csoport
+  ja:
+    place structure: x1 は x2 （共通性質）・ x3 （集合）・ x4 （関係）の組／チーム
+    notes:
+    - 「房」「コレクション」「クラス」なども。「gunma」が動作主体としての群を焦点とするのにたいして、「girzu」は関係体としての組を表す。x3は要素／成員の並列記述となる。
+      ・大意： 組 ・読み方： ギルズ  ・語呂合わせ： ギルド ・関連語： {bende}, {ciste}, {cmima}, {gunma}, {panra},
+      {cabra}, {cecmu}, {kansa}, {klesi}, {lanzu}, {liste}, {vrici}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en grupp/kluster/lag som uppvisar gemensam egenskap (ka)
+      x2 i enlighet med set x3 länkad genom relationer x4.
+    notes:
+    - Även samling, lag/team innefattande/bestående av/inkluderande; medlemmar x3
+      (specificering av det fullständiga medlemskapet) inkluderad i grupp x1; kluster
+      (= Word kangri not found in database.).
+    glosses:
+    - x1=grupp (samling)
+    - x2=gruppegenskap
+    - x3=gruppmedlem
+    - x4=grupprelation (internt)
+  zh:
+    place structure: x1是串/组/簇/群，具有共同性质x2，由于集合x3，集合由关系x4相互联系
+    notes:
+    - 也指：团队，由……组成/构成； 成员集x3（成员的完整集合）中包含了组x1； 群/簇= {kangri}；参见 {bende}, {ciste}, {cmima},
+      {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi}, {lanzu}, {liste}, {vrici}.
+    glosses:
+    - No glosses.

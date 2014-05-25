@@ -1,8 +1,74 @@
-Word: nobli
-Rafsi: nol, no'i
-Definition: x1 is noble/aristocratic/elite/high-born/titled in/under culture/society/standard
-  x2.
-Notes: Also upper-class; high/low, upper/lower are poor Lojban metaphors; note $x_2$
-  standard applies when the title/nobility is not recognized culture/society wide;
-  this would include self-assumed titles.  See also {banli}.
-Examples: None
+word: nobli
+rafsi:
+- nol
+- no'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is noble/aristocratic/elite/high-born/titled in/under culture/society/standard
+      x2.
+    notes:
+    - Also upper-class; high/low, upper/lower are poor Lojban metaphors; note x2 standard
+      applies when the title/nobility is not recognized culture/society wide; this
+      would include self-assumed titles.  See also {banli}.
+    glosses:
+    - noble
+  de:
+    place structure: x1 ist adlig/aristokratisch/Elite in Kultur/Gesellschaft/gemäß
+      Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - adlig
+  es:
+    place structure: x1 es noble/aristocrático/élite/clase alta en cultura/sociedad/según
+      estándar x2
+    notes:
+    - Ver también {banli}.
+    glosses:
+    - noble
+  ru:
+    place structure: x1 — дворянин/аристократ/член элиты в культуре/обществе x2 (в
+      соответствии с критерием x2)
+    notes:
+    - 'Также: верхи общества; метафора «верхи/низы» не соотвестствует духу Ложбана;
+      x2 Также: критерий элитарности в случае, когда титул не общепризнан в данной
+      культуре/обществе, напр. для самозванцев {banli} (великий)'
+    glosses:
+    - x1=член элиты
+    - x2=элитарное общество
+  en-simple:
+    place structure: x1 is noble by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - a noble
+    - x2=a standard of nobility
+  eo:
+    place structure: x1 estas nobela/aristokrata/elita/titolhava en/laŭ kulturo/socio/normo
+      x2
+    notes:
+    - 'Ankaŭ: altklasa; alta/malalta loĵbane estas malbonaj metaforoj; rimarku ke
+      normo x2 aplikiĝas kiam la titolo/nobeleco estas ne vaste rekonita an la kulturo/socio;
+      ĉi tio inkluzivus memalprenitajn titolojn. Vidu ankaŭ {banli}.'
+    glosses:
+    - nobela
+  hu:
+    place structure: x1 nemes/arisztokrata az x2 kultúra/társadalom/norma szerint
+    notes:
+    - '(Lásd még: {banli})'
+    glosses:
+    - nemes
+  ja:
+    place structure: x1 は x2 （基準）において高貴／高潔／気高い／上流階級／貴族／エリート
+    notes:
+    - ・大意： 高貴 ・読み方： ノブルィ  ・語呂合わせ： noble, nobleで立派 ・関連語： {banli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是神圣的/高贵的/精华的，处于文化/社会x2下/基于标准x2
+    notes:
+    - 也指：上层阶级；默认为x2是社会/文化基础，当是其它基础时（如：自认为高贵），需要指明；参见 {banli}.
+    glosses:
+    - No glosses.

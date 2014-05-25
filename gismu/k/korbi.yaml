@@ -1,5 +1,70 @@
-Word: korbi
-Rafsi: kor, koi
-Definition: x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on x3.
-Notes: See also cmavo list {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
-Examples: None
+word: korbi
+rafsi:
+- kor
+- koi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on
+      x3.
+    notes:
+    - See also cmavo list {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
+    glosses:
+    - edge
+  de:
+    place structure: x1 ist eine Kante/ein Rand/eine Grenze von x2 neben/angrenzend
+      an x3.
+    notes:
+    - Siehe auch Cmavo-Liste {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
+    glosses:
+    - Begrenzung
+    - Kante
+    - Rand
+  es:
+    place structure: x1 es una orilla/borde/márgen/límite de x2 junto a/tocando x3
+    notes:
+    - Ver también {jimte},  {ctebi}.
+    glosses:
+    - orilla
+  ru:
+    place structure: x1 — кромка/грань x2 (чего) граничащая с/прилегающая к/соприкасающаяся
+      с x3; x1 — край x2
+    notes:
+    - 'Также: берег, бордюр, кайма, поле (напр. тетради) {koi}, {greku} (каркас),
+      {mlana} (сбоку), {jimte} (граница), {ctebi} (губа), {bartu} (вне)'
+    glosses:
+    - грань
+  en-simple:
+    place structure: x1 is an edge or border between x2 and x3
+    notes:
+    - No notes.
+    glosses:
+    - an edge
+    - x2=something with an edge
+    - x3=something bordered by an edge
+  eo:
+    place structure: x1 estas rando/marĝeno/bordo/limo de x2 apud/kontraŭ x3
+    notes:
+    - Vidu ankaŭ cmavo {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
+    glosses:
+    - rando
+  hu:
+    place structure: x1 egy/a széle/szegélye/pereme/margója/határa x2-nek, ami elválasztja
+      x3-tól
+    notes:
+    - '(Lásd még: {greku}, {mlana}, {jimte}, {ctebi}, {bartu})'
+    glosses:
+    - szél (perem)
+  ja:
+    place structure: x1 は x2 の、 x3 に接する端／へり／縁／境界
+    notes:
+    - ・大意： 端 ・読み方： コルビ  ・関連語： {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的边界/边沿/边缘，紧邻着x3
+    notes:
+    - 参见：{koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
+    glosses:
+    - No glosses.

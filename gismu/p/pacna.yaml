@@ -1,13 +1,87 @@
-Word: pacna
-Rafsi: pa'a
-Definition: x1 hopes/wishes for/desires x2 (event), expected likelihood x3 (0-1);
-  x1 hopes that x2 happens.
-Notes: 'Also: $x_1$ is hopeful of $x_2$; $x_2$ will hopefully occur, as hoped for
-  by $x_1$; the value of $x_3$ is a subjective estimate of likeliness according to
-  $x_1$, and is the basic determinant of whether pacna means ''hope'' or ''wish''
-  or ''expect'': hoping for objects/states with negligible expectation is "wishing";
-  if the state is plausibly likely, it is "hoping"; when the probability is subjectively
-  near 1, the attitude is described as "expecting"; the value will usually be expressed
-  using inexact numbers ("{li} {piso''u}" to "{li} {piro}"); wish (= {sotpa''a}),
-  hope (= {sorpa''a}), expect (= {sojypa''a}).  See also {djica}.'
-Examples: None
+word: pacna
+rafsi:
+- pa'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hopes/wishes for/desires x2 (event), expected likelihood x3
+      (0-1); x1 hopes that x2 happens.
+    notes:
+    - 'Also: x1 is hopeful of x2; x2 will hopefully occur, as hoped for by x1; the
+      value of x3 is a subjective estimate of likeliness according to x1, and is the
+      basic determinant of whether pacna means ''hope'' or ''wish'' or ''expect'':
+      hoping for objects/states with negligible expectation is "wishing"; if the state
+      is plausibly likely, it is "hoping"; when the probability is subjectively near
+      1, the attitude is described as "expecting"; the value will usually be expressed
+      using inexact numbers ("{li} {piso''u}" to "{li} {piro}"); wish (= {sotpa''a}),
+      hope (= {sorpa''a}), expect (= {sojypa''a}).  See also {djica}.'
+    glosses:
+    - wish (hope, expect)
+  de:
+    place structure: x1 hofft auf/wünscht sich/ersehnt x2 (Ereignis), mit einer voraussichtlichen
+      Wahrscheinlichkeit x3 (0-1); x1 hofft, dass x2 geschieht
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 espera/desea que ocurra x2 con expectativa x3 (0-1)
+    notes:
+    - No notes.
+    glosses:
+    - esperar
+  ru:
+    place structure: x1 надеется/рассчитывает/полагается на x2 (событие) с ожидаемой
+      вероятностью x3 (0–1); x1 ожидает/надеется/уповает, что произойдет x2
+    notes:
+    - 'Значение x3 есть субъективная оценка вероятности с точки зрения x1, определяющая
+      перевод: «мечтает/надеется/ожидает»; «мечта» соответствует пренебрежимо малой
+      вероятности, «надежда» — достаточно вероятному событию, «ожидание» — вероятности,
+      близкой к 1; значение x3 обычно выражается неточными числительными (от «{li}
+      {pi}{so''u}» до «{li} {pi}{ro}»); мечтать: {sotpa''a}, надеяться: {sorpa''a},
+      ожидать: {sojypa''a} {djica} (хотеть)'
+    glosses:
+    - надеяться
+    - x1=надеющийся
+    - x2=на что надеются
+  en-simple:
+    place structure: x1 hopes for x2 with likelihood x3
+    notes:
+    - No notes.
+    glosses:
+    - a hoper
+    - x2=something hoped for
+    - x3=a likelihood of something hoped for
+  eo:
+    place structure: x1 esperas/deziras x2-on (okazo), kun atendita probableco x3
+      (0-1); x1 esperas ke x2 okazu
+    notes:
+    - 'Ankaŭ: x2 espereble okazos, laŭ espero de x1; la valoro de x3 estas subjektiva
+      takso pri verŝajno laŭ x1, kaj estas la baza determinanto de tio, ĉu pacna signifas
+      ''esperi'' aŭ ''deziri'' aŭ ''atendi'': espero pri objektoj/statoj kun neglektebla
+      atendo estas deziro; se la stato estas plausibly verŝajna, temas pri espero;
+      kiam la probablo estas subjektive proksima al 1, la sinteno estas atendo; la
+      valoro ĝenerale esprimiĝas per neprecizaj nombroj (li piso''u ĝis piro); deziri
+      (= {sotpa''a}), esperi (= {sorpa''a}), atendi (= {sojypa''a}).  Vidu ankaŭ {djica}.'
+    glosses:
+    - esperi
+  hu:
+    place structure: x1 reménykedik x2 esemény megtörténtében, amelyre x3 esélyt lát
+    notes:
+    - '(Lásd még: {djica})'
+    glosses:
+    - remél
+  ja:
+    place structure: x1 は x2 （事）を x3 （見込み）で希望する／願う；  x2 は望まれている
+    notes:
+    - ・大意： 希望 ・読み方： パシナ  ・関連語： {djica}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1期望/希望/盼望x2（事件），期望值为x3（在0-1之间）；x1希望x2发生
+    notes:
+    - x1对x2抱有希望； x2被x1所希望发生；x3的值是x1所认为的主观可能值；也可使用不精确的值来表示：{li} {piso'u}' 至 '{li} {piro}'
+      或者 {sotpa'a}至{sorpa'a}至{sojypa'a}；参见 {djica}.
+    glosses:
+    - No glosses.

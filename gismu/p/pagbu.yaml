@@ -1,7 +1,69 @@
-Word: pagbu
-Rafsi: pag, pau
-Definition: x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass];
-  x2 is partly x1.
-Notes: Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa},
-  {gunma}, {rafsi}.
-Examples: None
+word: pagbu
+rafsi:
+- pag
+- pau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a part/component/piece/portion/segment of x2 [where x2
+      is a whole/mass]; x2 is partly x1.
+    notes:
+    - Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa},
+      {gunma}, {rafsi}.
+    glosses:
+    - part
+  de:
+    place structure: x1 ist ein Teil/Stück/Segment/eine Komponente/Portion von x2
+      [wobei x2 das Ganze/die Masse ist]; x2 ist zum Teil x1;
+    notes:
+    - No notes.
+    glosses:
+    - Teil
+  es:
+    place structure: x1 es una parte/componente/pieza de x2
+    notes:
+    - Ver también {spisa}.
+    glosses:
+    - parte
+  ru:
+    place structure: 'x1 — часть/компонент/кусок/порция/сегмент x2 (чего: целое/масса)'
+    notes:
+    - 'Частично: {selpau} {pa''u}, {mulno} (законченный), {xadba} (половина), {spisa}
+      (кусок [вещества/объекта]), {gunma} (масса [единое целое]), {rafsi} (аффикс)'
+    glosses:
+    - часть
+    - x2=имеющее часть
+  en-simple:
+    place structure: x1 is a part or piece of x2
+    notes:
+    - No notes.
+    glosses:
+    - a part
+    - x2=something with a part
+  eo:
+    place structure: x1 estas parto/peco/porcio/segmento de x2 [kie x2 estas tuto/kolektivaĵo];
+      x2 estas parte x1
+    notes:
+    - En parto (= {selpau}).  Vidu ankaŭ cmavo {pa'u}, {mulno}, {xadba}, {spisa},
+      {gunma}, {rafsi}.
+    glosses:
+    - parto
+  hu:
+    place structure: x1 egy része/összetevője/darabja x2 egésznek
+    notes:
+    - '(Lásd még: {mulno}, {xadba}, {spisa}, {gunma}, {rafsi})'
+    glosses:
+    - rész
+  ja:
+    place structure: x1 は x2 （本体）の部分／部品／要素；  x2 は部分的に x1
+    notes:
+    - 「spisa」と違い、本体からの分離は含意されない。 ・大意： 部分 ・読み方： パグブ ・関連語： {pa'u}, {mulno}, {xadba},
+      {spisa}, {gunma}, {rafsi}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的部分/组分（整体/团体）；x2有部分是x1
+    notes:
+    - 部分的= {selpau}；参见 {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}.
+    glosses:
+    - No glosses.

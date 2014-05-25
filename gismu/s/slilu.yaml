@@ -1,8 +1,77 @@
-Word: slilu
-Rafsi: sli
-Definition: x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete
-  specification).
-Notes: 'Also (expressible either with desku or slilu): side to side, to and fro, back
-  and forth, reciprocal (motion), rotates, revolves.  See also {dikni}, {rilti}, {morna},
-  {desku}, {janbe}, {boxna}.'
-Examples: None
+word: slilu
+rafsi:
+- sli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 oscillates at rate/frequency x2 through set/sequence-of-states
+      x3 (complete specification).
+    notes:
+    - 'Also (expressible either with desku or slilu): side to side, to and fro, back
+      and forth, reciprocal (motion), rotates, revolves.  See also {dikni}, {rilti},
+      {morna}, {desku}, {janbe}, {boxna}.'
+    glosses:
+    - oscillate
+  de:
+    place structure: x1 oszilliert/schwingt/pendelt mit Rate/Frequenz x2 durch/zwischen
+      Menge/Folge an Zuständen x3 (vollständige Angabe)
+    notes:
+    - No notes.
+    glosses:
+    - oszillieren
+  es:
+    place structure: x1 oscila con frequencia x2 pasando por conjunto/secuencia de
+      estados x3
+    notes:
+    - Ver también {dikni},  {rilti},  {morna}.
+    glosses:
+    - oscilar
+  ru:
+    place structure: x1 колеблется/осциллирует с частотой x2, проходя через последовательность
+      состояний x3 (полное описание)
+    notes:
+    - 'Также: качается; Также: с использованием как [slilu], так и {desku}: туда-сюда,
+      туда и обратно {dikni} (регулярный [циклический]), {rilti} (ритм), {morna} (узор),
+      {desku} (трястись), {janbe} (гонг), {boxna} (волна)'
+    glosses:
+    - осциллировать
+    - x1=колеблющийся
+    - x2=частота колебания
+  en-simple:
+    place structure: x1 oscillates at frequency x2 through states x3
+    notes:
+    - No notes.
+    glosses:
+    - something oscillating
+    - x2=a frequency of oscillation
+    - x3=an state of oscillation
+  eo:
+    place structure: x1 oscilas/vibras je frekvenco x2 tra aro/sinsekvo de statoj
+      x3 (kompleta specifo)
+    notes:
+    - 'Ankaŭ: (esprimebla jen per desku jen per slilu): tien kaj reen, reciproka (movo),
+      rotacias, turniĝas.  Vidu ankaŭ {dikni}, {rilti}, {morna}, {desku}, {janbe},
+      {boxna}.'
+    glosses:
+    - oscili
+  hu:
+    place structure: x1 ingadozik/rezeg/oszcillál x2 frekvencián x3 állapotokon keresztül
+      (halmaz/sorozat)
+    notes:
+    - '(Lásd még: {dikni}, {rilti}, {morna}, {desku}, {janbe}, {boxna})'
+    glosses:
+    - ingadozik
+  ja:
+    place structure: x1 は x2 （歩度）で x3 （集合）の間を振動する／揺れ渡る
+    notes:
+    - 時計の振り子などにみられる動き。 ・大意： 振動 ・読み方： スルィルゥ  ・語呂合わせ： スリルある振動, oscillate ・関連語： {dikni},
+      {rilti}, {morna}, {desku}, {janbe}, {boxna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1以速率/频率x2，在集合/状态序列x3（完整集合）之间来回振荡/摇摆
+    notes:
+    - 也指：往复运动；参见 {dikni}, {rilti}, {morna}, {desku}, {slilu}, {janbe}, {boxna}.
+    glosses:
+    - No glosses.

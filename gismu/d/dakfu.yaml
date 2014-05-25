@@ -1,5 +1,75 @@
-Word: dakfu
-Rafsi: dak
-Definition: x1 is a knife (tool) for cutting x2, with blade of material x3.
-Notes: See also {denci}, {balre}, {katna}, {tunta}, {forca}, {smuci}, {kinli}.
-Examples: None
+word: dakfu
+rafsi:
+- dak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a knife (tool) for cutting x2, with blade of material x3.
+    notes:
+    - See also {denci}, {balre}, {katna}, {tunta}, {forca}, {smuci}, {kinli}.
+    glosses:
+    - knife
+  de:
+    place structure: x1 ist ein Messer (Werkzeug) zum Schneiden von x2 mit Klinge
+      aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Messer
+  es:
+    place structure: x1 es un cuchillo para cortar x2, con hoja de material x3
+    notes:
+    - No notes.
+    glosses:
+    - cuchillo
+  ru:
+    place structure: x1 — нож для разрезания x2 (чего), с лезвием из материала x3
+    notes:
+    - '{denci} (зуб), {balre} (клинок), {katna} (разрезать), {tunta} (колоть), {forca}
+      (вилка), {smuci} (ложка), {kinli} (острый)'
+    glosses:
+    - x1=нож
+  en-simple:
+    place structure: x1 is a knife for cutting x2 with blade material x3
+    notes:
+    - No notes.
+    glosses:
+    - a knife
+    - x2=something cut with a knife
+    - x3=a material of a knife's blade
+  eo:
+    place structure: x1 estas tranĉilo/ponardo (ilo) por tranĉi x2-on, kun klingo
+      el materialo x3
+    notes:
+    - Vidu ankaŭ {denci}, {balre}, {katna}, {tunta}, {forca}, {smuci}, {kinli}.
+    glosses:
+    - tranĉilo
+  hu:
+    place structure: x1 egy kés [vágóeszköz] x2 vágására, x3 anyagból készült pengével
+    notes:
+    - '(Lásd még: {denci}, {balre}, {katna}, {tunta}, {forca}, {smuci}, {kinli})'
+    glosses:
+    - kés
+  ja:
+    place structure: x1 は x2 （用途）・ x3 （素材）のナイフ／包丁／刀／剣
+    notes:
+    - ・大意： ナイフ ・読み方： ダクフゥ ・語呂合わせ： naifu, dau（刀） ,knife ・関連語： {denci}, {balre}, {katna},
+      {tunta}, {forca}, {smuci}, {kinli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kniv (verktyg) för att skära x2, med blad av material
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=kniv
+    - x2=knivsort (vad som avses att skäras med kniv)
+    - x3=knivbladsmaterial
+  zh:
+    place structure: x1是刀，为了切/割x2，由材料x3构成
+    notes:
+    - 参见 {denci}, {balre}, {katna}, {tunta}, {forca}, {smuci}, {kinli}.
+    glosses:
+    - No glosses.

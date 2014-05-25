@@ -1,5 +1,65 @@
-Word: mentu
-Rafsi: met, me'u
-Definition: x1 is x2 minutes in duration (default is 1 minute) by standard x3.
-Notes: See also {junla}, {cacra}, {snidu}, {tcika}.
-Examples: None
+word: mentu
+rafsi:
+- met
+- me'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 minutes in duration (default is 1 minute) by standard
+      x3.
+    notes:
+    - See also {junla}, {cacra}, {snidu}, {tcika}.
+    glosses:
+    - minute
+  de:
+    place structure: 'x1 dauert x2 Minuten (Default: 1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Minute
+  es:
+    place structure: x1 dura x2 minutos (1 por defecto) según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - minuto
+  ru:
+    place structure: x1 длится x2 минут (по умолчанию 1 минуту) по стандарту x3
+    notes:
+    - '{junla} (часы [механизм]), {cacra} (час), {snidu} (секунда), {tcika} (время
+      [события])'
+    glosses:
+    - x1=минута
+  en-simple:
+    place structure: x1 is x2 minutes long
+    notes:
+    - No notes.
+    glosses:
+    - x1=something with a duration in minutes
+    - x2=a number of minutes
+    - x3=a standard of minutes
+  eo:
+    place structure: x1 daŭras x2 minutojn (defaŭlte 1 minuto) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {junla}, {cacra}, {snidu}, {tcika}.
+    glosses:
+    - minuto
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] perc, x3 mérce szerint
+    notes:
+    - '(Lásd még: {junla}, {cacra}, {snidu}, {tcika})'
+    glosses:
+    - perc
+  ja:
+    place structure: x1 は x2 （数）分の時間間隔、 x3 （基準）において
+    notes:
+    - ・大意： 分 ・読み方： メントゥ  ・関連語： {junla}, {cacra}, {snidu}, {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在持续时间长度上，x1是x2个分钟（默认为1）的，基于标准x3
+    notes:
+    - 参见 {junla}, {cacra}, {snidu}, {tcika}.
+    glosses:
+    - No glosses.

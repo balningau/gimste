@@ -1,6 +1,93 @@
-Word: besna
-Rafsi: ben
-Definition: 'x1 is a/the brain [body-part] of x2; [metaphor: intelligence, mental
-  control].'
-Notes: Also cerebral.  See also {menli}, {stedu}, {rango}, {pensi}.
-Examples: None
+word: besna
+rafsi:
+- ben
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the brain [body-part] of x2; [metaphor: intelligence,
+      mental control].'
+    notes:
+    - Also cerebral.  See also {menli}, {stedu}, {rango}, {pensi}.
+    glosses:
+    - brain
+  de:
+    place structure: x1 ist ein/das Gehirn von x2
+    notes:
+    - See also {menli}, {stedu}, {rango}, {pensi}.
+    glosses:
+    - Gehirn
+  es:
+    place structure: x1 es un cerebro/seso (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - cerebro
+  fr:
+    place structure: x1 est le cerveau (partie du corps) de x2.
+    notes:
+    - Peut référer métaphoriquement à l'intelligence et au contrôle mental.
+    glosses:
+    - cerveau
+  ru:
+    place structure: x1 — мозг (часть тела) x2
+    notes:
+    - 'Метафора: разум, центр управления {menli} (разум), {stedu} (голова), {rango}
+      (орган [тела]), {pensi} (думать)'
+    glosses:
+    - мозг
+  en-simple:
+    place structure: x1 is a brain of x2
+    notes:
+    - No notes.
+    glosses:
+    - a brain
+    - x2=something with a brain
+  eo:
+    place structure: 'x1 estas (la) cerbo [korpoparto] de x2; [metafore: inteligento,
+      mensa kontrolo]'
+    notes:
+    - Vidu ankaŭ {menli}, {stedu}, {rango}, {pensi}.
+    glosses:
+    - cerbo
+  hu:
+    place structure: x1 egy/az agya/esze x2-nek
+    notes:
+    - '(Lásd még: {menli}, {stedu}, {rango}, {pensi})'
+    glosses:
+    - agy
+  ja:
+    place structure: x1 は x2 （本体）の脳
+    notes:
+    - ・大意： 脳 ・読み方： ベスナ  ・語呂合わせ： ＜別荘ない＞,　brain,  nau(脳) ・関連語： {menli}, {stedu}, {rango},
+      {pensi}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: 'x1 zijn de hersenen van x2; [metafoor: intelligentie].'
+    notes:
+    - 'Ook cerebus.  Zie ook : {menli}, {stedu}, {rango} en {pensi}.'
+    glosses:
+    - brein
+    - hersenen
+  'no':
+    place structure: 'x1 er en hjerne [kroppsdel] for x2; [metafor: intelligens, mental
+      kontroll]'
+    notes:
+    - Se også {menli}, {stedu}, {rango}, {pensi}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en hjärna av kropp x2
+    notes:
+    - Se även {menli}, {stedu}, {rango}, {pensi}.
+    glosses:
+    - cerebral
+    - x1=hjärna
+    - x2=hjärnförsedd
+  zh:
+    place structure: x1是x2的大脑/脑组织；（可喻为：智力，意志力等）
+    notes:
+    - 参见 {menli}, {stedu}, {rango}, {pensi}
+    glosses:
+    - No glosses.

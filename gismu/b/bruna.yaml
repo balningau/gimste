@@ -1,6 +1,102 @@
-Word: bruna
-Rafsi: bun, bu'a
-Definition: x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not
-  necess. biological].
-Notes: See also {mensi}, {tunba}, {tamne}, {famti}, {bersa}.
-Examples: None
+word: bruna
+rafsi:
+- bun
+- bu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s)
+      x3; [not necess. biological].
+    notes:
+    - See also {mensi}, {tunba}, {tamne}, {famti}, {bersa}.
+    glosses:
+    - brother
+  jbo:
+    place structure: x1 nakni gi'e tunba x2 boi x3
+    notes:
+    - No notes.
+    glosses:
+    - bruna
+  de:
+    place structure: x1 ist ein Bruder von x2 mit/durch Beziehung/Standard/Eltern
+      x3; [nicht unbedingt biologisch]
+    notes:
+    - No notes.
+    glosses:
+    - Bruder
+  es:
+    place structure: x1 es hermano (varón) de x2 por lazo/relación x3 (no necesariamente
+      biológica)
+    notes:
+    - Ver también {mensi},  {tunba},  {tamne}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — брат x2 (чей) по виду родства/критерию/родител(ю/ям) x3
+      (не обязательно биологический)
+    notes:
+    - '{mensi} (сестра), {tunba} (брат или сестра), {tamne} (двоюродный), {famti}
+      (тетя), {bersa} (сын)'
+    glosses:
+    - x1=брат
+  en-simple:
+    place structure: x1 is a brother of x2 by bond x3
+    notes:
+    - No notes.
+    glosses:
+    - a brother
+    - x2=something with a brother
+    - x3=a bond of brotherhood
+  eo:
+    place structure: x1 estas frato de x2 laŭ ligilo/normo/gepatro(j) x3; [ne nepre
+      biologiaj]
+    notes:
+    - Vidu ankaŭ {mensi}, {tunba}, {tamne}, {famti}, {bersa}.
+    glosses:
+    - frato
+  hu:
+    place structure: x1 fivére x2-nek, x3 szülő(k)/kötelék/hagyomány által
+    notes:
+    - 'Nem feltétlenül utal biológiai rokonságra (Lásd még: {mensi}, {tunba}, {tamne},
+      {famti}, {bersa})'
+    glosses:
+    - fivér
+  ja:
+    place structure: x1 は x2 の、 x3 （血縁関係）による兄／弟
+    notes:
+    - ・大意： 兄弟 ・読み方： ブルナ  ・語呂合わせ： ＜ブルート殴る＞, ブルーな兄弟, brother ・関連語： {mensi}, {tunba},
+      {tamne}, {famti}, {bersa}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er bror/broderlig til x2 gjennom bånd/tilknyning/forelder
+      x3
+    notes:
+    - x3 er ikke nødvendigvis biologisk. Se og {mensi}, {tunba}, {tamne}, {famti},
+      {bersa}, {pendo}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to brat x2 poprzez więzi x3; [nie konicznie biologiczny].
+    notes:
+    - Cf. {mensi}, {tunba}, {tamne}, {famti}, {lanzu}.
+    glosses:
+    - x1=brat
+  sv:
+    place structure: x1 är bror/broderlig till x2 genom band/standard/förälder x3.
+    notes:
+    - x3 är inte nödvändigtvis biologisk.
+    glosses:
+    - broderlig
+    - bror
+    - brorsa
+    - x1=broder
+    - x2=broder referens
+    - x3=brodersband
+  zh:
+    place structure: x1是x2的兄弟，依据标准/关系x3（不必要是生理学上的兄弟关系）
+    notes:
+    - 参见 {mensi}, {tunba}, {tamne}, {famti}, {bersa}.
+    glosses:
+    - No glosses.

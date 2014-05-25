@@ -1,8 +1,71 @@
-Word: kulnu
-Rafsi: klu
-Definition: x1 [mass of ideas, customs, skills, arts] is culture of nation/ethos x2
-  (mass); x1 is ethnic.
-Notes: (note that $x_2$ is NOT individual; culture is what is shared among people
-  and is not an individual trait).  See also cmavo list {ka'u}, cmavo list {ku'u},
-  {natmi}, {cecmu}.
-Examples: None
+word: kulnu
+rafsi:
+- klu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [mass of ideas, customs, skills, arts] is culture of nation/ethos
+      x2 (mass); x1 is ethnic.
+    notes:
+    - (note that x2 is NOT individual; culture is what is shared among people and
+      is not an individual trait).  See also cmavo list {ka'u}, cmavo list {ku'u},
+      {natmi}, {cecmu}.
+    glosses:
+    - culture
+  de:
+    place structure: x1 [Masse von Ideen, Bräuchen, Fertigkeiten, Künsten] ist eine
+      Kultur von Nation/Ethos x2 (Masse); x1 ist ethnisch
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es parte de la cultura de nación/etnia/gente/pueblo x2
+    notes:
+    - Ver también {natmi}.
+    glosses:
+    - cultura
+  ru:
+    place structure: x1 (масса идей, обычаев, умений, искусств) есть культура нации/этоса
+      x2 (масса)
+    notes:
+    - 'Прилагательное: x1 — этнический; x2 — *не* лицо: культура есть общее достояние
+      людей, а не свойство индивидуума {ka''u}, {ku''u}, {natmi} (народ), {cecmu}
+      (сообщество [организмов])'
+    glosses:
+    - x1=культура
+  en-simple:
+    place structure: x1 is culture of x2
+    notes:
+    - No notes.
+    glosses:
+    - a culture
+    - x2=something with a culture
+  eo:
+    place structure: x1 [ideoj, kutimoj, lertoj, artoj] estas kulturo de nacio/etoso
+      x2 (kolektivaĵo); x1 estas etna
+    notes:
+    - (rimarku ke x2 NE estas individuo; kulturo estas io dividita inter homoj kaj
+      ne estas individua trajto).  Vidu ankaŭ cmavo {ka'u}, cmavo {ku'u}, {natmi},
+      {cecmu}.
+    glosses:
+    - kulturo
+  hu:
+    place structure: x1 [eszmék, hiedelmek, szokások, hagyományok, művészetek sokasága]
+      a kultúrája x2 nemzetnek/népnek
+    notes:
+    - '(Lásd még: {natmi}, {cecmu})'
+    glosses:
+    - kultúra
+  ja:
+    place structure: x1 は x2 （国／エトス）の文化；  x1 は文化的；  x2 は文化民族
+    notes:
+    - x1は概念／慣習／技術／芸術などの集合。 ・大意： 文化 ・読み方： クルゥヌ  ・関連語： {ka'u}, {ku'u}, {natmi}, {cecmu}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（思想/风俗/技艺）是民族/国家x2（团体）的文化；x1是民族的/人种的
+    notes:
+    - 注意x2并非个体，文化是由人群所共有，而非来自于个体；参见：{ka'u}, {ku'u}, {natmi}, {cecmu}.
+    glosses:
+    - No glosses.

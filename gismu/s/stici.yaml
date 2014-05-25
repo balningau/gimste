@@ -1,5 +1,66 @@
-Word: stici
-Rafsi: sic
-Definition: x1 is to the west/western side of x2 according to frame of reference x3.
-Notes: See also {stuna}, {berti}, {snanu}, {farna}.
-Examples: None
+word: stici
+rafsi:
+- sic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the west/western side of x2 according to frame of reference
+      x3.
+    notes:
+    - See also {stuna}, {berti}, {snanu}, {farna}.
+    glosses:
+    - west
+    - western (pertaining to the west)
+  de:
+    place structure: x1 ist westlich/der Westen von x2 gemäß Referenzrahmen x3
+    notes:
+    - No notes.
+    glosses:
+    - Westen
+  es:
+    place structure: x1 está al oeste/occidental/poniente de x2 según marco de referencia
+      x3
+    notes:
+    - Ver también {stuna},  {berti},  {snanu}.
+    glosses:
+    - oeste
+  ru:
+    place structure: x1 находится к западу от x2 согласно системе отсчета x3
+    notes:
+    - '{stuna} (восток), {berti} (север), {snanu} (юг), {farna} (направление)'
+    glosses:
+    - западный
+  en-simple:
+    place structure: x1 is to the west of x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something which is west of something
+    - x2=something to which something is west
+    - x3=a reference frame of westness
+  eo:
+    place structure: x1 estas okcidente de x2 laŭ referenckadro x3
+    notes:
+    - Vidu ankaŭ {stuna}, {berti}, {snanu}, {farna}.
+    glosses:
+    - okcidento
+  hu:
+    place structure: x1 a nyugati oldala x2-nek / nyugatra van x2-től x3 vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {stuna}, {berti}, {snanu}, {farna})'
+    glosses:
+    - nyugat
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における西方／西側
+    notes:
+    - ・大意： 西 ・読み方： スティシ  ・語呂合わせ： シー ・関連語： {stuna}, {berti}, {snanu}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是在x2西方/x1是西方，方向的参考系为x3
+    notes:
+    - 参见 {stuna}, {berti}, {snanu}, {farna}.
+    glosses:
+    - No glosses.

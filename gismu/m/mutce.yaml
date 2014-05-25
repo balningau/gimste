@@ -1,7 +1,120 @@
-Word: mutce
-Rafsi: tce
-Definition: x1 is much/extreme in property x2 (ka), towards x3 extreme/direction;
-  x1 is, in x2, very x3.
-Notes: Also very, pretty, a lot, immoderate/immoderately, intense, quite, extremely.  See
-  also {milxe}, {traji}, {banli}, {carmi}, {nutli}.
-Examples: None
+word: mutce
+rafsi:
+- tce
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is much/extreme in property x2 (ka), towards x3 extreme/direction;
+      x1 is, in x2, very x3.
+    notes:
+    - Also very, pretty, a lot, immoderate/immoderately, intense, quite, extremely.  See
+      also {milxe}, {traji}, {banli}, {carmi}, {nutli}.
+    glosses:
+    - extreme (in the greatest degree)
+    - much
+    - very (to a great extent)
+  jbo:
+    place structure: x1 klani lo barda be fi x3 be'o x2
+    notes:
+    - '{toltce}, {milxe}; {so''i}'
+    glosses:
+    - mutce
+  de:
+    place structure: x1 ist in x2 sehr x3; die Eigenschaft x2 von x1 tendiert stark
+      in Richtung x3.
+    notes:
+    - 'Auch: viel, sehr, extrem (Adverb), ziemlich, ungewöhnlich (Adverb), stark.'
+    glosses:
+    - 'sehr (Adverb: beschriebene Eigenschaft ist in großer Menge vorhanden)'
+    - 'viel (Adverb: beschriebene Eigenschaft ist in großer Menge vorhanden)'
+  es:
+    place structure: x1 es muy/mucho/bastante en propiedad x2, hacia extremo x3
+    notes:
+    - Ver también {milxe},  {traji}.
+    glosses:
+    - mucho
+  fr:
+    place structure: x1 est beaucoup/très x2 (ka) [une propriété], en direction x3
+    notes:
+    - x3 est peut utilisé car considéré comme positif par défaut. Voir également {milxe},
+      {traji}, {banli}, {carmi}, {nutli}, {traji}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 проявляет высокую/значительную/{крайнюю} выраженность/интенсивность
+      свойства x2 ({ka}) в направлении/пределе x3; x1, что касается x2, очень x3
+    notes:
+    - 'Также: очень, весьма, крайне, вполне {milxe} (умеренный), {traji} (самый),
+      {banli} (великий), {carmi} (интенсивный), {nutli} (нейтральный), {traji} (самый)'
+    glosses:
+    - x1=очень
+  art-guaspi:
+    place structure: \x1 /fto \x2
+    notes:
+    - No notes.
+    glosses:
+    - fto
+  en-simple:
+    place structure: x1 is extreme in x2 towards extreme x3
+    notes:
+    - No notes.
+    glosses:
+    - something extreme
+    - x2=a property of extremeness
+    - x3=an extreme
+  eo:
+    place structure: x1 estas multa/ekstrema en eco x2 (ka), direkte al ekstremo x3;
+      x1 estas, en x2, tre x3
+    notes:
+    - Vidu ankaŭ {milxe}, {traji}, {banli}, {carmi}, {nutli}, {traji}.
+    glosses:
+    - multa
+  hu:
+    place structure: x1 rendkívüli/erős x2 tulajdonságban, x3 véglet felé
+    notes:
+    - '(Lásd még: {milxe}, {traji}, {banli}, {carmi}, {nutli}, {traji})'
+    glosses:
+    - sok
+  ja:
+    place structure: x1はx2の点でとてもx3[極端性の方向]である
+    notes:
+    - 'もしくは、大変、かなり、大いに、尋常でなく、激しく、並外れて、きわめて． 参照: {milxe}, {traji}, {banli}, {carmi},
+      {nutli}, {traji}.'
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is veel/extreem in de eigenschap x2 (ka), richting x3
+    notes:
+    - 'Ook : erg mooi, een hoop, intens en extreem.'
+    - 'zie ook : {milxe}, {traji}, {banli}, {carmi}, {nutli} en {traji}.'
+    glosses:
+    - een hoop
+    - erg (erg veel)
+    - extreem
+    - hartstikke
+    - intens
+    - veel
+  'no':
+    place structure: x1 er svært/veldig/særdeles i egenskap x2 (ka), i retning av
+      ytterpunkt x3; x1 er svært x3 i x2
+    notes:
+    - No notes.
+    glosses:
+    - meget (i stor grad)
+    - svært (i stor grad)
+    - særdeles
+    - veldig
+  pl:
+    place structure: x1 jest wybitne w cechach/wymiarach x2 (ka) ku skrajności x3.
+    notes:
+    - Cf. {rai}, {jimte}, {milxe}, {traji}, {zmadu}, {mleca}.
+    glosses:
+    - bardzo
+    - wybitne
+  zh:
+    place structure: x1 在属性x2(ka),趋向x3方面超出平常; x1 在x2上非常x3.
+    notes:
+    - No notes.
+    glosses:
+    - 十分
+    - 非常

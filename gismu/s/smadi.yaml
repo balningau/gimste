@@ -1,7 +1,74 @@
-Word: smadi
-Rafsi: ''
-Definition: x1 guesses/conjectures/surmises x2 (du'u) is true about subject x3; [epistemology].
-Notes: 'Also: $x_1$ has a hunch that $x_2$ is true; $x_1$ imagines $x_2$ is true;
-  words usable for epistemology typically have a du''u place.  See also {djuno}, {facki},
-  {jijnu}, {sruma}.'
-Examples: None
+word: smadi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 guesses/conjectures/surmises x2 (du'u) is true about subject
+      x3; [epistemology].
+    notes:
+    - 'Also: x1 has a hunch that x2 is true; x1 imagines x2 is true; words usable
+      for epistemology typically have a du''u place.  See also {djuno}, {facki}, {jijnu},
+      {sruma}.'
+    glosses:
+    - guess
+  de:
+    place structure: x1 rät/vermutet/spekuliert/mutmaßt x2 (du'u) ist wahr über Thema
+      x3; [Erkenntnistheorie]
+    notes:
+    - No notes.
+    glosses:
+    - vermuten
+  es:
+    place structure: x1 adivina/conjetura/supone que x2 (du'u) es cierto acerca de
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - adivinar
+  ru:
+    place structure: x1 имеет/строит догадки/гипотезы/предположения, что верно/истинно
+      x2 ({du'u}) в отношении предмета x3
+    notes:
+    - 'Также: x1 догадывается, подозревает, {предполагает}, что x2; x1 (кому) кажется,
+      что x2; x2 — догадка, гипотеза, {предположение}; слова, описывающие эпистемологию,
+      обычно имеют место типа {du''u} {djuno} (знать), {facki} (открывать [узнавать,
+      находить]), {jijnu} (постигать [интуитивно]), {sruma} (допускать [предполагать])'
+    glosses:
+    - строить догадки
+    - x1=строящий догадки
+    - x2=то, о чём строят догадки
+  en-simple:
+    place structure: x1 guesses x2 is true about x3
+    notes:
+    - No notes.
+    glosses:
+    - a guess
+    - x2=something guessed
+    - x3=a subject of a guess
+  eo:
+    place structure: x1 divenas/konjektas x2-on (du'u) vera pri temo x3; [epistemologio]
+    notes:
+    - 'Ankaŭ: x1 imagas ke x2 estas vera; vortoj uzeblaj por epistemologio tipe havas
+      du''u-argumenton.  Vidu ankaŭ {djuno}, {facki}, {jijnu}, {sruma}.'
+    glosses:
+    - diveni
+  hu:
+    place structure: x1 feltételezi x2 tényt x3 tárgyban/-ról
+    notes:
+    - '(Lásd még: {djuno}, {facki}, {jijnu}, {sruma})'
+    glosses:
+    - feltételez
+  ja:
+    place structure: x1 は x2 （命題）を、 x3 （題目）について推測する
+    notes:
+    - 「勘」や「虫の知らせ」なども。 ・大意： 推測 ・読み方： スマディ  ・関連語： {djuno}, {facki}, {jijnu}, {sruma}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1推测/猜测x2（du'u）为真，关于主题x3
+    notes:
+    - 也指：x1预料x2为真；x1假想x2为真；关于认知论的词都含有du'u位；参见 {djuno}, {facki}, {jijnu}, {sruma}.
+    glosses:
+    - No glosses.

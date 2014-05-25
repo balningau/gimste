@@ -1,9 +1,82 @@
-Word: katna
-Rafsi: ka'a
-Definition: x1 (tool/blade/force) cuts [through]/splits/divides x2 (object) into pieces
-  x3.
-Notes: For $x_1$ force, it is a force acting as a blade, not acting upon a blade;
-  agentive cutting (= {ka'argau}, {ka'arzu'e}).  (cf. {kakpa}, {sraku} for cutting
-  into without division; {plixa}, {dakfu}, {jinci}, {porpi}, {spofu}, {tunta}, {xrani},
-  {fatri}, {fendi}, {balre}, {dilcu})
-Examples: None
+word: katna
+rafsi:
+- ka'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (tool/blade/force) cuts [through]/splits/divides x2 (object)
+      into pieces x3.
+    notes:
+    - For x1 force, it is a force acting as a blade, not acting upon a blade; agentive
+      cutting (= {ka'argau}, {ka'arzu'e}).  (cf. {kakpa}, {sraku} for cutting into
+      without division; {plixa}, {dakfu}, {jinci}, {porpi}, {spofu}, {tunta}, {xrani},
+      {fatri}, {fendi}, {balre}, {dilcu})
+    glosses:
+    - cut
+  de:
+    place structure: x1 (Werkzeug/Klinge/Kraft) schneidet/teilt x2 (Objekt) in Teile/Stücke
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - schneiden
+  es:
+    place structure: x1 (hoja/cuchillo) corta/parte/divide a x2 en pedazos x3
+    notes:
+    - Ver también {kakpa},  {sraku},  {plixa}.
+    glosses:
+    - cortar
+  ru:
+    place structure: x1 (орудие/лезвие/сила) разрезает объект x2 на части/куски x3
+    notes:
+    - 'В случае x1 – силы — это сила, действующая *как* лезвие, а не *на* лезвие;
+      деятельное разрезание: {ka''argau}, {ka''arzu''e} {kakpa} (выкапывать), {sraku}
+      (царапать) для резания без разделения на части; {plixa} (пахать), {dakfu} (нож),
+      {jinci} (ножницы), {porpi} (разваливаться), {spofu} (сломанный [испорченный,
+      негодный]), {tunta} (колоть), {xrani} (вредить), {fatri} (распределяться), {fendi}
+      (делить [разделять]), {balre} (клинок), {dilcu} (частное [от деления])'
+    glosses:
+    - разрезать
+    - x1=разрезающий
+    - x2=разрезаемый
+    - x3=разрезаемые куски
+  en-simple:
+    place structure: x1 cuts x2 into pieces x3
+    notes:
+    - No notes.
+    glosses:
+    - a cutter
+    - x2=something cut
+    - x3=a piece resulting from a cut
+  eo:
+    place structure: x1 (ilo/klingo/forto) (el)tranĉas/fendas/dividas x2-on (objekto)
+      en pecojn x3
+    notes:
+    - Forto x1 agas kiel klingo, ne sur klingo; agenta tranĉado (= {ka'argau}, {ka'arzu'e}).  (kp.
+      kakpa, sraku por tranĉado sen divido; plixa, dakfu, jinci, porpi, spofu, tunta,
+      xrani, fatri, fendi, balre, dilcu)
+    glosses:
+    - tranĉi
+  hu:
+    place structure: x1 (eszköz/penge/erő) elvágja/elnyírja x2-t x3 darabokra
+    notes:
+    - '(Lásd még: {kakpa}, {sraku}, {plixa}, {dakfu}, {jinci}, {porpi}, {spofu}, {tunta},
+      {xrani}, {fatri}, {fendi}, {balre}, {dilcu})'
+    glosses:
+    - vág
+  ja:
+    place structure: x1 （用具／刃／力）は x2 を切って x3 （部分）にする
+    notes:
+    - ・大意： 切る ・読み方： カトナ  ・語呂合わせ： カットな！ ・関連語： {kakpa}, {sraku}; {plixa}, {dakfu}, {jinci},
+      {porpi}, {spofu}, {tunta}, {xrani}, {fatri}, {fendi}, {balre}, {dilcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（工具/刃/力）切/切割x2（物体）成为碎片x3
+    notes:
+    - x1指某种力时，它是指作为切割刃的力，而不是切割刃的作用力；（施事的）切割= {ka'argau}/{ka'arzu'e}；参见 {kakpa}, {sraku}非侵入式切割;
+      {plixa}, {dakfu}, {jinci}, {porpi}, {spofu}, {tunta}, {xrani}, {fatri}, {fendi},
+      {balre}, {dilcu}
+    glosses:
+    - No glosses.

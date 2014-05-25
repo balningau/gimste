@@ -1,9 +1,95 @@
-Word: friti
-Rafsi: fit
-Definition: x1 offers/proffers x2 [offering] to x3 with conditions x4.
-Notes: ($x_4$ may be nu canja, nu pleji, etc.; an unconditional offering has the 'condition'
-  of acceptance); $x_2$ may be a specific object, a commodity (mass), an event, or
-  a property; pedantically, for objects/commodities, this is sumti-raising from ownership
-  of the object/commodity (= {posfriti}, {posyselfriti} for unambiguous semantics).  See
-  also {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke}.
-Examples: None
+word: friti
+rafsi:
+- fit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 offers/proffers x2 [offering] to x3 with conditions x4.
+    notes:
+    - (x4 may be nu canja, nu pleji, etc.; an unconditional offering has the 'condition'
+      of acceptance); x2 may be a specific object, a commodity (mass), an event, or
+      a property; pedantically, for objects/commodities, this is sumti-raising from
+      ownership of the object/commodity (= {posfriti}, {posyselfriti} for unambiguous
+      semantics).  See also {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu},
+      {pleji}, {vitke}.
+    glosses:
+    - offer
+  de:
+    place structure: x1 bietet x2 [Gabe/Angebot] x3 (Empfänger) an mit Bedingungen
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - anbieten
+  es:
+    place structure: x1 ofrece x2 a x3 con condiciones x4
+    notes:
+    - Ver también {cpedu}.
+    glosses:
+    - ofrecer
+  ru:
+    place structure: x1 предлагает x2 (что) x3 (кому) на условиях x4
+    notes:
+    - 'x4 м.б. {nu} {canja}, {nu} {pleji} и т.п.; даже «безусловное» предложение имеет
+      условием согласие принять; x2 м.б. конкретный объект, товар (масса), событие
+      или свойство; строго говоря, для объектов/товаров мы имеем дело с подъемом sumti
+      от владения объектом/товаром: {posfriti}, {posyselfriti} для однозначной семантики
+      {canja} (обменивать), {dunda} (давать), {rinsa} (приветствовать), {vecnu} (продавать),
+      {jdima} (цена), {cnemu} (воздавать), {pleji} (платить), {vitke} (гостить)'
+    glosses:
+    - предлагать
+    - x1=предлагающий
+    - x2=предлагаемый
+    - x4=условия предложения
+  en-simple:
+    place structure: x1 offers x2 to x3 with conditions x4
+    notes:
+    - No notes.
+    glosses:
+    - an offerer
+    - x2=an offering
+    - x3=something receiving offering
+    - x4=an offer conditions
+  eo:
+    place structure: x1 oferas/disponigas/proponas x2-on [ofero] al x3 kun kondiĉoj
+      x4
+    notes:
+    - (x4 povas esti nu canja, nu pleji, ktp.; senkondiĉa ofero havas la 'kondiĉo'
+      de akceptado); x2 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ
+      eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de la
+      objekto/varo (= {posfriti}, posyselfriti por neambigua {semantiko}).  Vidu ankaŭ
+      {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke}.
+    glosses:
+    - oferi
+  hu:
+    place structure: x1 felajánlja x2-t x3-nak, x4 feltétellel
+    notes:
+    - '(Lásd még: {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke})'
+    glosses:
+    - felajánl
+  ja:
+    place structure: x1 は x2 （物／事）を x3 に x4 （条件）で進呈する／オファーする
+    notes:
+    - 見返りを求めない進呈の場合、x4は「受託」となる。 ・大意： 進呈 ・読み方： フゥリティ  ・関連語： {canja}, {dunda}, {rinsa},
+      {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 erbjuder (sig)/offererar/utbjuder/framräcker x2 [erbjudande]
+      till x3 på villkor x4.
+    notes:
+    - (x4 kan vara nu canja, nu pleji, etc.; ett ovillkorligt erbjudande har villkor
+      av acceptans); x2 kan vara ett specifikt objekt, en mängdvara (massa), en händelse,
+      eller en egenskap; för att vara pedantisk så är detta sumtihöjande för objekt/mängdvaror
+      från ägarskap av objektet/mängdvaran (= {posfriti}, {posyselfriti} för att otvetydighet).
+    glosses:
+    - erbjuda
+  zh:
+    place structure: x1提供x2给x3，在条件x4下
+    notes:
+    - x4可能是nu canja, nu pleji 等等； 无条件的给予存在接受的“条件”； x2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用
+      {posfriti}, {posyselfriti； 参见 {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu},
+      {pleji}, {vitke}.
+    glosses:
+    - No glosses.

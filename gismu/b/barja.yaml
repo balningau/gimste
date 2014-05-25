@@ -1,6 +1,104 @@
-Word: barja
-Rafsi: ''
-Definition: x1 is a tavern/bar/pub serving x2 to audience/patrons x3.
-Notes: See also {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, {se}
-  {pinxe}.
-Examples: None
+word: barja
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tavern/bar/pub serving x2 to audience/patrons x3.
+    notes:
+    - See also {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, {se}
+      {pinxe}.
+    glosses:
+    - bar (place)
+  de:
+    place structure: x1 ist eine Taverne/Bar/Kneipe, die x2 an Publikum/(Stamm)gäste
+      x3 ausschenkt
+    notes:
+    - No notes.
+    glosses:
+    - Bar
+  es:
+    place structure: x1 es una taberna/bar en localidad x2 que sirve x3 a clientes
+      x4
+    notes:
+    - Ver también {gusta}.
+    glosses:
+    - bar
+  fr:
+    place structure: x1 est une taverne/un bar servant boissons (nourriture) x2 au
+      public x3.
+    notes:
+    - Voir également {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi},
+      {se} {pinxe}.
+    glosses:
+    - bar (restaurant)
+    - taverne
+  ru:
+    place structure: x1 — таверна/бар/кабак, где подают x2 (что) клиентам/посетителям
+      x3 (кому)
+    notes:
+    - '{gusta} (ресторан), {birje} (пиво), {jikru} (крепкий спиртной напиток), {sanmi}
+      (трапеза), {vanju} (вино), {xotli} (гостиница), {ckafi} (кофе), {se} {pinxe}
+      (пить)'
+    glosses:
+    - x1=кабак
+    - x3=посетитель кабака
+  en-simple:
+    place structure: x1 is a bar serving x2 to customers x3
+    notes:
+    - No notes.
+    glosses:
+    - a bar
+    - x2=something served at a bar
+    - x3=a customer of a bar
+  eo:
+    place structure: x1 estas taverno/drinkejo prezentante x2-on al klientaro x3
+    notes:
+    - Vidu ankaŭ {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, se
+      {pinxe}.
+    glosses:
+    - trinkejo
+  hu:
+    place structure: x1 egy kocsma/vendéglő/bisztró x2 kínálattal, x3 vendégeknek
+    notes:
+    - '(Lásd még: {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, {pinxe})'
+    glosses:
+    - kocsma
+  ja:
+    place structure: x1 は x2 （品）を x3 （客）に提供する酒場／居酒屋／バー／パブ
+    notes:
+    - 「ko jo'u mi bu'u lo barja cu pinxe／一緒に酒場で飲もう」 ・大意： 酒場 ・読み方： バルジャ  ・語呂合わせ： ＜バー邪魔＞,
+      bar, jian（間） ・関連語： {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi},
+      {se} {pinxe}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en bar/pub/kro som serverer x2 til gjester/klientell x3
+    notes:
+    - Se også {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, og {pinxe}.
+    glosses:
+    - bar
+    - kro
+    - pub
+    - x2=drikke (objekt)
+  sv:
+    place structure: x1 är en taverna/bar/pub som serverar x2 till gäster/kunder x3
+    notes:
+    - Se även {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, se {pinxe}.
+    glosses:
+    - förfriskning (utbud av alkoholhaltiga drycker och snacks)
+    - pub (lokal)
+    - pubbesökare
+    - pubgäst
+    - taverna
+    - utskänkning (alkoholservering)
+    - x1=bar (lokal)
+    - x2=barutbud
+    - x3=bargäst
+  zh:
+    place structure: x1是酒馆/酒吧，提供x2服务给顾客x3
+    notes:
+    - 参见 {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, {se} {pinxe}.
+    glosses:
+    - No glosses.

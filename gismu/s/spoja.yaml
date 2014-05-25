@@ -1,6 +1,68 @@
-Word: spoja
-Rafsi: poj, po'a
-Definition: x1 bursts/explodes/violently breaks up/decomposes/combusts into pieces/energy/fragments
-  x2.
-Notes: See also {cecla}, {jakne}, {jbama}.
-Examples: None
+word: spoja
+rafsi:
+- poj
+- po'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 bursts/explodes/violently breaks up/decomposes/combusts into
+      pieces/energy/fragments x2.
+    notes:
+    - See also {cecla}, {jakne}, {jbama}.
+    glosses:
+    - explode
+  de:
+    place structure: x1 explodiert/zerberstet/zerbricht gewaltsam/zersetzt sich/verbrennt
+      in Teile/Energie x2
+    notes:
+    - No notes.
+    glosses:
+    - explodieren
+  es:
+    place structure: x1 explota/estalla en pedazos/energía x2
+    notes:
+    - Ver también {porpi}.
+    glosses:
+    - explotar
+  ru:
+    place structure: x1 взрывается/лопается (внезапно, энергично распадается/воспламеняется),
+      образуя/выделяя/выбрасывая куски/фрагменты/энергию x2
+    notes:
+    - '{cecla} (стрелять), {jakne} (ракета), {jbama} (бомба)'
+    glosses:
+    - взрываться
+    - x1=взрывающийся
+    - x2=куски от взрыва
+  en-simple:
+    place structure: x1 explodes or bursts into pieces x2
+    notes:
+    - No notes.
+    glosses:
+    - something exploding
+    - x2=a fragment of an explosion
+  eo:
+    place structure: x1 eksplodas/perforte rompiĝas/diskreviĝas en pecojn/energion/fragmentojn
+      x2
+    notes:
+    - Vidu ankaŭ {cecla}, {jakne}, {jbama}.
+    glosses:
+    - eksplodi
+  hu:
+    place structure: x1 felrobban/kipukkad/hevesen felbomlik x2 energiává/törmelékké
+    notes:
+    - '(Lásd még: {cecla}, {jakne}, {jbama})'
+    glosses:
+    - felrobban
+  ja:
+    place structure: x1 は爆発／破裂して x2 （残骸）になる
+    notes:
+    - x2 は破片や煙など。 ・大意： 爆発 ・読み方： スポジャ  ・関連語： {cecla}, {jakne}, {jbama}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1分解/破裂/燃烧/衰变成碎片/组件/能量x2
+    notes:
+    - 参见 {cecla}, {jakne}, {jbama}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,79 @@
-Word: fonmo
-Rafsi: fom, fo'o
-Definition: x1 is a quantity of foam/froth/suds of material x2, with bubbles/vacuoles
-  of material x3.
-Notes: See also {zbabu}.
-Examples: None
+word: fonmo
+rafsi:
+- fom
+- fo'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of foam/froth/suds of material x2, with bubbles/vacuoles
+      of material x3.
+    notes:
+    - See also {zbabu}.
+    glosses:
+    - foam
+  de:
+    place structure: x1 ist eine gewisse Menge an Schaum/Lauge aus Material x2 mit
+      Blasen aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Schaum
+  es:
+    place structure: x1 es una cantidad de espuma de material x2, con burbujas de
+      material x3
+    notes:
+    - No notes.
+    glosses:
+    - espuma
+  ru:
+    place structure: x1 — пена из вещества x2 с пузырьками/вакуолями из вещества x3
+    notes:
+    - '{zbabu} (мыло)'
+    glosses:
+    - x1=пена
+    - x3=пузырь
+  en-simple:
+    place structure: x1 is a quantity of  foam or froth of material x2 with bubbles
+      of x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of foam
+    - x2=a material of a foam
+    - x3=a bubble in foam
+  eo:
+    place structure: x1 estas kvanto da ŝaŭmo/sapakvo el materialo x2, kun bobeloj/vezikoj
+      el materialo x3
+    notes:
+    - Vidu ankaŭ {zbabu}.
+    glosses:
+    - ŝaŭmo
+  hu:
+    place structure: x1 bizonyos mennyiségű hab/tajték x2 anyagból, x3 anyagú buborékokkal
+    notes:
+    - '(Lásd még: {zbabu})'
+    glosses:
+    - hab
+  ja:
+    place structure: x1 は x2 （成分）の泡
+    notes:
+    - 口から吹く「泡つばき」も。 ・大意： 泡 ・読み方： フォンモ  ・語呂合わせ： form ・関連語： {zbabu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av/innehåller skum/lödder/fradga av material
+      x2 med bubblor/vakuoler x3.
+    notes:
+    - Även x1 fradga.
+    glosses:
+    - skum
+    - x1=lödder
+    - x2=löddermaterial
+    - x3=bubbla (från lödder/skum etc)
+  zh:
+    place structure: x1是由物质x2上形成的泡沫/水沫，带有物质x3形成的泡/水沫
+    notes:
+    - 参见 {zbabu}.
+    glosses:
+    - No glosses.

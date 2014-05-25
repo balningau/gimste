@@ -1,7 +1,73 @@
-Word: trixe
-Rafsi: rix, ti'e
-Definition: x1 is posterior/behind/back/in the rear of x2 which faces/in-frame-of-reference
-  x3.
-Notes: 'Also: $x_3$ is the standard of orientation for $x_2$; spine (= {rixybo''u},
-  {rixybo''ukamju}).  See also {crane}, {rebla}, {mlana}, {pritu}, {zunle}.'
-Examples: None
+word: trixe
+rafsi:
+- rix
+- ti'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is posterior/behind/back/in the rear of x2 which faces/in-frame-of-reference
+      x3.
+    notes:
+    - 'Also: x3 is the standard of orientation for x2; spine (= {rixybo''u}, {rixybo''ukamju}).  See
+      also {crane}, {rebla}, {mlana}, {pritu}, {zunle}.'
+    glosses:
+    - back (behind)
+  de:
+    place structure: x1 ist hinter/nachfolgend/später/im Rücken von x2, das x3 gegenübersteht/in
+      Referenzrahmen x3
+    notes:
+    - No notes.
+    glosses:
+    - hinter
+  es:
+    place structure: x1 esta atrás/detrás de x2 que mira hacia x3
+    notes:
+    - Ver también {crane}.
+    glosses:
+    - atrás
+  ru:
+    place structure: x1 находится сзади/позади/за x2 для (воображаемого) наблюдателя,
+      смотрящего от x2 в сторону/в системе отсчета x3
+    notes:
+    - 'x3 задает ориентацию x2; позвоночник/хребет: {rixybo''u}, {rixybo''ukamju}
+      {crane} (перед), {rebla} (хвост), {mlana} (сбоку), {pritu} (справа), {zunle}
+      (слева)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is behind x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something behind something
+    - x2=something to which something is behind
+    - x3=a reference frame for being behind
+  eo:
+    place structure: x1 estas malantaŭ x2 kiu frontas al/en referenckadro x3
+    notes:
+    - 'Ankaŭ: x3 estas la normo pri orientiĝo por x2; spino (= {rixybo''u}, {rixybo''ukamju}).  Vidu
+      ankaŭ {crane}, {rebla}, {mlana}, {pritu}, {zunle}.'
+    glosses:
+    - malantaŭ
+  hu:
+    place structure: x1 térben mögötte/a hátulján van x2-nek, x3 irányban/vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {crane}, {rebla}, {mlana}, {pritu}, {zunle})'
+    glosses:
+    - hátulsó
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における後ろ／後方／後側／裏側／背後／リア
+    notes:
+    - 「背中」も。x3は顔の向きなど。 ・大意： 後ろ ・読み方： トリクェ  ・関連語： {crane}, {rebla}, {mlana}, {pritu},
+      {zunle}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在x2背后/后面，基于参考系x3 （x2面对x3）
+    notes:
+    - 也指：x3是x2取向的标准；脊柱= {rixybo'u}/{rixybo'ukamju}；参见 {crane}, {rebla}, {mlana}, {pritu},
+      {zunle}.
+    glosses:
+    - No glosses.

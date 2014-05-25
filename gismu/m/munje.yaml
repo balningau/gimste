@@ -1,9 +1,79 @@
-Word: munje
-Rafsi: muj, mu'e
-Definition: x1 is a universe/cosmos [complete and ordered entirety] of domain/sphere
-  x2 defined by rules x3.
-Notes: Also world; a universe is a kind of system, one which comprehensively encompasses
-  its domain; e.g. 'universe of discourse', or 'world of birds'; $x_3$ are the rules/defining
-  principles which distinguish the universe from other universes, or from non-universe.  See
-  also {ciste}, {plini}, {kensa}, {mulno}.
-Examples: None
+word: munje
+rafsi:
+- muj
+- mu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a universe/cosmos [complete and ordered entirety] of domain/sphere
+      x2 defined by rules x3.
+    notes:
+    - Also world; a universe is a kind of system, one which comprehensively encompasses
+      its domain; e.g. 'universe of discourse', or 'world of birds'; x3 are the rules/defining
+      principles which distinguish the universe from other universes, or from non-universe.  See
+      also {ciste}, {plini}, {kensa}, {mulno}.
+    glosses:
+    - universe
+  de:
+    place structure: x1 ist ein Universum/Kosmos [vollständige und geordnete Gesamtheit]
+      von Domäne/Sphäre x2 bestimmt durch Regeln/Gesetze x3
+    notes:
+    - No notes.
+    glosses:
+    - Universum
+  es:
+    place structure: x1 es un universo/cosmos/orden de dominio/esfera x2 gobernado
+      por reglas x3
+    notes:
+    - No notes.
+    glosses:
+    - universo
+  ru:
+    place structure: x1 — мир/вселенная/универсум (полная и упорядоченная целостность),
+      охватывающая область/сферу x2 и управляемая законами x3
+    notes:
+    - Мир — это система, которая целиком охватывает соответствующую область, напр.
+      «мир птиц»; x3 — правила/определяющие принципы, которые отличают данный мир
+      от других миров, или не-миров {ciste} (система), {plini} (планета), {kensa}
+      (космос), {mulno} (законченный)
+    glosses:
+    - x1=мир
+  en-simple:
+    place structure: x1 is a universe of x2 defined by x3
+    notes:
+    - No notes.
+    glosses:
+    - a universe
+    - x2=a domain of a universe
+    - x3=a definition of a universe
+  eo:
+    place structure: x1 estas universo/kosmo [kompleta kaj orda tutaĵo] de kampo/sfero
+      x2 difinita laŭ reguloj x3
+    notes:
+    - 'Ankaŭ: mondo; universo estas speco de sistemo, kiu plene ampleksas sian kampon;
+      ekz. ''universo de parolo'', aŭ ''mondo de birdoj''; x3 estas la reguloj/difinaj
+      principoj kiuj distingas la universon disde aliaj universoj, aŭ disde ne-universo.  Vidu
+      ankaŭ {ciste}, {plini}, {kensa}, {mulno}.'
+    glosses:
+    - universo
+  hu:
+    place structure: x1 egy/a világa/univerzuma/kozmosza x2 területnek/környezetnek
+      x3 törvények által meghatározva
+    notes:
+    - '(Lásd még: {ciste}, {plini}, {kensa}, {mulno})'
+    glosses:
+    - világ
+  ja:
+    place structure: x1 は x2 （領域／分野）・ x3 （法則・原理）の世界
+    notes:
+    - ・大意： 世界 ・読み方： ムンジェ  ・関連語： {ciste}, {plini}, {kensa}, {mulno}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是宇宙（一切/所有），具有范围/领域x2，由规则/定理x3定义
+    notes:
+    - 也指：世界；宇宙是指能够涵盖所有领域的系统；如：论域（在特定论述中使用全部术语的完整集合），鸟类世界，动物世界； x3 是定义了宇宙的基本规则，借此以区分其它宇宙或非宇宙；参见
+      {ciste}, {plini}, {kensa}, {mulno}.
+    glosses:
+    - No glosses.

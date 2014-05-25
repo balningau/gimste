@@ -1,5 +1,67 @@
-Word: xalni
-Rafsi: ''
-Definition: x1 (person) is panicked by crisis x2 (event/state).
-Notes: See also {ckape}, {snura}, {terpa}, {xanka}.
-Examples: None
+word: xalni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) is panicked by crisis x2 (event/state).
+    notes:
+    - See also {ckape}, {snura}, {terpa}, {xanka}.
+    glosses:
+    - panic
+  de:
+    place structure: x1 (Person) gerät in Panik/ist bestürzt/dreht durch wegen Krise
+      x2 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - Panik
+  es:
+    place structure: x1 se asusta/aterroriza/entra en pánico por x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - asustarse
+  ru:
+    place structure: x1 — паникует из-за x2 (событие/состояние); x2 повергает x1 в
+      панику; x2 наводит панику на x1
+    notes:
+    - 'Также: переполох {ckape} (опасный), {snura} (защищенный [в безопасности]),
+      {terpa} (бояться), {xanka} (волноваться)'
+    glosses:
+    - паниковать
+    - x1=паникующий
+    - x2=повергающее в панику
+  en-simple:
+    place structure: x1 panics about x2
+    notes:
+    - No notes.
+    glosses:
+    - something panicking
+    - x2=something panicked about
+  eo:
+    place structure: x1 (homo) panikas pro krizo x2 (okazo/stato)
+    notes:
+    - Vidu ankaŭ {ckape}, {snura}, {terpa}, {xanka}.
+    glosses:
+    - paniki
+  hu:
+    place structure: x1 pánikba esik x2 esemény/állapot miatt
+    notes:
+    - '(Lásd még: {ckape}, {snura}, {terpa}, {xanka})'
+    glosses:
+    - pánikba esik
+  ja:
+    place structure: x1 （者）は x2 （事）に関して慌てる／恐慌する／狼狽する／パニック状態にある
+    notes:
+    - ・大意： 慌てる ・読み方： クァルゥニ  ・語呂合わせ： xuan（慌）, panic ・関連語： {ckape}, {snura}, {terpa},
+      {xanka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（人）对x2（事件/状态）感到恐慌/惶恐
+    notes:
+    - 参见 {ckape}, {snura}, {terpa}, {xanka}.
+    glosses:
+    - No glosses.

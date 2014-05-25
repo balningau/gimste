@@ -1,5 +1,74 @@
-Word: voksa
-Rafsi: vok, vo'a
-Definition: x1 is a voice/speech sound of individual x2.
-Notes: See also {sance}, {tirna}, {bacru}.
-Examples: None
+word: voksa
+rafsi:
+- vok
+- vo'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a voice/speech sound of individual x2.
+    notes:
+    - See also {sance}, {tirna}, {bacru}.
+    glosses:
+    - voice
+  jbo:
+    place structure: x1 sance x2 gi'e se cupra sepi'o lo'e fepri be x2 noi kamjyterbo'u
+    notes:
+    - '{sance}; {fepri}; {bacru}; {krixa}; {cmoni}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Stimme/ein Sprechgeräusch von Individuum x2
+    notes:
+    - No notes.
+    glosses:
+    - Stimme
+  es:
+    place structure: x1 es una voz de individuo x2
+    notes:
+    - No notes.
+    glosses:
+    - voz
+  ru:
+    place structure: x1 — голос/звук речи индивида x2
+    notes:
+    - '{sance} (звук), {tirna} (слышать), {bacru} (произносить)'
+    glosses:
+    - x1=голос
+  en-simple:
+    place structure: x1 is the voice of x2
+    notes:
+    - No notes.
+    glosses:
+    - a voice
+    - x2=something with a voice
+  eo:
+    place structure: x1 estas voĉo/parolsono de individuo x2
+    notes:
+    - Vidu ankaŭ {sance}, {tirna}, {bacru}.
+    glosses:
+    - voĉo
+  hu:
+    place structure: x1 a beszéd-/énekhangja/orgánuma x2-nek
+    notes:
+    - '(Lásd még: {sance}, {tirna}, {bacru})'
+    glosses:
+    - beszédhang
+    - hang (beszédhang)
+  ja:
+    place structure: x1はx2の声/話す時の音である
+    notes:
+    - '参照: {sance}, {tirna}, {bacru}, {fepri}, {krixa}, {cmoni}'
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een stem van individu x2.
+    notes:
+    - 'Zie ook : {sance}, {tirna}, {bacru}.'
+    glosses:
+    - stem
+  zh:
+    place structure: x1是个体x2的声音
+    notes:
+    - 参见 {sance}, {tirna}, {bacru}.
+    glosses:
+    - No glosses.

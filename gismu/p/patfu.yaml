@@ -1,7 +1,85 @@
-Word: patfu
-Rafsi: paf, pa'u
-Definition: x1 is a father of x2; x1 begets/sires/acts paternal towards x2; [not necessarily
-  biological].
-Notes: See also {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa},
-  {sovda}.
-Examples: None
+word: patfu
+rafsi:
+- paf
+- pa'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a father of x2; x1 begets/sires/acts paternal towards x2;
+      [not necessarily biological].
+    notes:
+    - See also {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa},
+      {sovda}.
+    glosses:
+    - father
+  jbo:
+    place structure: x1 nakni gi'e rirni x2
+    notes:
+    - No notes.
+    glosses:
+    - patfu
+  de:
+    place structure: x1 ist ein Vater von x2; x1 zeugt/handelt väterlich gegenüber
+      x2; [nicht zwingend biologisch]
+    notes:
+    - No notes.
+    glosses:
+    - Vater
+  es:
+    place structure: x1 es padre (varón) de x2
+    notes:
+    - (no necesariamente biológico) Ver tambiÃ©n {mamta},  {rirni},  {rorci},  {tarbi}.
+    glosses:
+    - padre
+  ru:
+    place structure: x1 — отец x2 (не обязательно биологический); x1 ведет себя по-отцовски
+      по отношению к x2
+    notes:
+    - '{mamta} (мать), {rirni} (родитель), {rorci} (порождать), {tarbi} (эмбрион),
+      {dzena} (предок), {famti} (тетя), {panzi} (потомок), {bersa} (сын), {sovda}
+      (яйцо)'
+    glosses:
+    - x1=отец
+  en-simple:
+    place structure: x1 is a father of x2
+    notes:
+    - No notes.
+    glosses:
+    - a father
+    - x2=something with a father
+  eo:
+    place structure: x1 estas patro de x2; x1 naskigas x2-on; x1 agas patre al x2;
+      [ne nepre biologia]
+    notes:
+    - Vidu ankaŭ {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa},
+      {sovda}.
+    glosses:
+    - patro
+  hu:
+    place structure: x1 az apja x2-nek
+    notes:
+    - 'Nem feltétlenül utal biológiai rokonságra (Lásd még: {mamta}, {rirni}, {rorci},
+      {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda})'
+    glosses:
+    - apa
+  ja:
+    place structure: x1はx2の父である; x1はx2をもうける/を生ませる/に対して父らしく振舞う; [必ずしも生物学上の父とは限らない]
+    notes:
+    - '参照: {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa},
+      {sovda}.'
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to ojciec x2; x1 płodzi/ojcuje/zachowuje się jak ojciec wobec
+      x2; [nie koniecznie biologiczny].
+    notes:
+    - Cf. {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa},
+      {sovda}.
+    glosses:
+    - ojciec
+  zh:
+    place structure: x1是x2的父亲（不必要是生理学上的父亲）
+    notes:
+    - 参见 {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda}.
+    glosses:
+    - No glosses.

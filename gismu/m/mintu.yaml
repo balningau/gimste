@@ -1,6 +1,79 @@
-Word: mintu
-Rafsi: mit, mi'u
-Definition: x1 is the same/identical thing as x2 by standard x3; (x1 and x2 interchangeable).
-Notes: (cf. {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, cmavo list {du}
-  - which has no standard place, {simxu})
-Examples: None
+word: mintu
+rafsi:
+- mit
+- mi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the same/identical thing as x2 by standard x3; (x1 and
+      x2 interchangeable).
+    notes:
+    - (cf. {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, cmavo list {du} -
+      which has no standard place, {simxu})
+    glosses:
+    - same
+  jbo:
+    place structure: x1 dunli x2 lo ka ce'u du makau ma'i x3 i x1 to'e drata x2 boi
+      x3 i x1 joi x2 simxu lo ka ce'u ce'u basti x3
+    notes:
+    - '{dunli}, {drata}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist gleich/identisch mit/dasselbe wie x2 gemäß Standard x3;
+      (x1 und x2 sind austauschbar)
+    notes:
+    - No notes.
+    glosses:
+    - identisch
+  es:
+    place structure: x1 es el mismo/idéntico a x2 según estándar x3
+    notes:
+    - Ver también {drata},  {dunli},  {du}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 идентичен x2 (чему) по критерию/стандарту x3; x1 и x2 — одинаковые/взаимозаменяемые
+    notes:
+    - 'антоним: {drata} {panra} (подобный), {satci} (точный [об измерении]), {mapti}
+      (подходить), {simsa} (похожий), {drata} (другой), {dunli} (равный), {du} — не
+      имеет x3, {simxu} (взаимный)'
+    glosses:
+    - идентичный
+    - x3=критерий идентичности
+  en-simple:
+    place structure: x1 is identical to x2 by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something identical
+    - x2=something to which something is identical
+    - x3=a standard for being identical
+  eo:
+    place structure: x1 estas sama/identa al x2 laŭ normo x3; (x1 kaj x2 interŝanĝeblaj)
+    notes:
+    - (kp. panra, satci, mapti, simsa, drata, dunli, cmavo du - kiu ne havas lokon
+      por normo, simxu)
+    glosses:
+    - sama
+  hu:
+    place structure: x1 azonos x2-vel / ugyanaz, mint x2, x3 szempontból
+    notes:
+    - '(Lásd még: {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, {simxu})'
+    glosses:
+    - azonos
+  ja:
+    place structure: x1 は x2 と、 x3 （基準）において同種
+    notes:
+    - 「du」と違い、x1と x2 は実体が別個。「この花は（x1）ウチで飾っているもの（ x2 ）と同じです」。 ・大意： 同種 ・読み方： ミントゥ  ・語呂合わせ：
+      <みんなツール＞,同種のミントぅ ・関連語： {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli},
+      {du}, {simxu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2是相同的/等同的/一样的，基于标准x3；x1与x2是可互易的
+    notes:
+    - 参见 {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, {du}, {simxu}
+    glosses:
+    - No glosses.

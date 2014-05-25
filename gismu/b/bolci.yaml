@@ -1,6 +1,89 @@
-Word: bolci
-Rafsi: bol, boi
-Definition: x1 is a ball/sphere/orb/globe [shape/form] of material x2; x1 is a spherical
-  object [made of x2].
-Notes: Also round.  See also {bliku}, {cukla}, {bidju}, {gunro}.
-Examples: None
+word: bolci
+rafsi:
+- bol
+- boi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a ball/sphere/orb/globe [shape/form] of material x2; x1
+      is a spherical object [made of x2].
+    notes:
+    - Also round.  See also {bliku}, {cukla}, {bidju}, {gunro}.
+    glosses:
+    - ball
+  de:
+    place structure: x1 ist ein Ball/Globus/eine Kugel [Form] aus Material x2; x1
+      ist kugelförmig [und besteht aus x2]
+    notes:
+    - No notes.
+    glosses:
+    - Ball
+  es:
+    place structure: x1 es una pelota/bola/esfera/globo (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - bola
+  ru:
+    place structure: x1 — шар/сфера (форма) из материала x2; x1 — сферический объект
+      (сделанный из x2)
+    notes:
+    - 'Также: круглый {bliku} (блок [глыба]), {cukla} (круг), {bidju} (бисер), {gunro}
+      (катиться)'
+    glosses:
+    - шар
+    - x2=материал шара
+  en-simple:
+    place structure: x1 is a ball or sphere made of x2
+    notes:
+    - No notes.
+    glosses:
+    - a ball
+    - x2=a material of a ball
+  eo:
+    place structure: x1 estas pilko/sfero/globo [formo] el materialo x2; x1 estas
+      spherical objekto [farita el x2]
+    notes:
+    - 'Ankaŭ: ronda.  Vidu ankaŭ {bliku}, {cukla}, {bidju}, {gunro}.'
+    glosses:
+    - pilko
+  hu:
+    place structure: x1 egy labda/golyó/gömb [kerek tárgy] x2 anyagból
+    notes:
+    - '(Lásd még: {bliku}, {cukla}, {bidju}, {gunro})'
+    glosses:
+    - labda
+  ja:
+    place structure: x1 は x2 （素材）の球体／ボール；  x1 は丸い
+    notes:
+    - ・大意： 球 ・読み方： ボルゥシ  ・語呂合わせ： ＜ボールは白い＞, ball,cieu(球)  ・関連語： {bliku}, {cukla}, {bidju},
+      {gunro}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en ball/kule/globe av materiale x2
+    notes:
+    - Se óg {bliku}, {cukla}, {bidju}, {gunro}, {slanu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en boll/sfär/glob/kula/klot av material x2.
+    notes:
+    - No notes.
+    glosses:
+    - glob (klotformigt föremål)
+    - klot
+    - klotformig
+    - kula (klotformigt föremål)
+    - rund (sfärisk)
+    - sfär (klotformigt föremål)
+    - sfärisk
+    - x1=boll
+    - x2=bollmaterial
+  zh:
+    place structure: x1是球，由材料x2构成；x1是由x2构成的球状物体
+    notes:
+    - 参见 {bliku}, {cukla}, {bidju}, {gunro}.
+    glosses:
+    - No glosses.

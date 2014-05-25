@@ -1,7 +1,79 @@
-Word: kurji
-Rafsi: kuj, ku'i
-Definition: x1 takes-care-of/looks after/attends to/provides for/is caretaker for
-  x2 (object/event/person).
-Notes: Also tends, cares for, keeps; $x_1$ is a keeper/custodian of $x_2$.  See also
-  {jundi}, {cinri}, {prami}, {raktu}, {zgana}.
-Examples: None
+word: kurji
+rafsi:
+- kuj
+- ku'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 takes-care-of/looks after/attends to/provides for/is caretaker
+      for x2 (object/event/person).
+    notes:
+    - Also tends, cares for, keeps; x1 is a keeper/custodian of x2.  See also {jundi},
+      {cinri}, {prami}, {raktu}, {zgana}.
+    glosses:
+    - take care of
+  de:
+    place structure: x1 kümmert sich/betreut/sorgt für/ist ein Pfleger von x2 (Objekt/Ereignis/Person)
+    notes:
+    - No notes.
+    glosses:
+    - sich kümmern um
+  es:
+    place structure: x1 cuida/atiende a x2
+    notes:
+    - No notes.
+    glosses:
+    - cuidar
+  ru:
+    place structure: x1 заботится о/присматривает за/ухаживает за/следит за/опекает
+      x2 (объект/событие/лицо)
+    notes:
+    - 'Также: нянчится, обслуживает, печется о, радеет; x1 — смотритель/хранитель/куратор/попечитель/опекун
+      x2 (чего/кого); напр. сторож, санитар, лесник {jundi} (внимательный), {cinri}
+      (интересный), {prami} (любить [кого-либо]), {raktu} (беспокоить), {zgana} (наблюдать)'
+    glosses:
+    - заботиться о
+    - x1=заботящийся о
+    - x2=опекаемый
+  en-simple:
+    place structure: x1 takes care of x2
+    notes:
+    - No notes.
+    glosses:
+    - a caretaker
+    - x2=something taken care of
+  eo:
+    place structure: x1 zorgas pri x2 (objekto/okazo/homo)
+    notes:
+    - 'Ankaŭ: prizorgi, flegi, varti, gardi; x1 estas gardisto de x2.  Vidu ankaŭ
+      {jundi}, {cinri}, {prami}, {raktu}, {zgana}.'
+    glosses:
+    - prizorgi
+  hu:
+    place structure: x1 törődik/foglalkozik x2-vel / gondoskodik x2-ről / vigyáz x2-re
+    notes:
+    - '(Lásd még: {jundi}, {cinri}, {prami}, {raktu}, {zgana})'
+    glosses:
+    - törődik
+  ja:
+    place structure: x1 は x2 （物／者／事）を世話する／面倒みる
+    notes:
+    - 「後見人」「養護者」なども。 ・大意： 世話 ・読み方： クルジ  ・語呂合わせ： 来る爺さんの世話 ・関連語： {jundi}, {cinri}, {prami},
+      {raktu}, {zgana}
+    - ''
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 chăm sóc x2
+    notes:
+    - No notes.
+    glosses:
+    - chăm sóc
+    - x1=người chăm sóc
+    - x2=người được chăm sóc
+  zh:
+    place structure: x1照顾/照看x2（人/物/事）
+    notes:
+    - 也指：照料/保管/看管；x1是x2的监护人/照看者；参见 {jundi}, {cinri}, {prami}, {raktu}, {zgana}.
+    glosses:
+    - No glosses.

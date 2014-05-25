@@ -1,9 +1,96 @@
-Word: ponse
-Rafsi: pos, po'e
-Definition: x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor of
-  x2 under x3.
-Notes: ($x_3$ is generally more important to the concept than commonly accepted for
-  the English equivalent, since the concept is broader when unconstrained, and the
-  nature/interpretation of possession/ownership is very culturally dependent); See
-  also {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle}.
-Examples: None
+word: ponse
+rafsi:
+- pos
+- po'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor
+      of x2 under x3.
+    notes:
+    - (x3 is generally more important to the concept than commonly accepted for the
+      English equivalent, since the concept is broader when unconstrained, and the
+      nature/interpretation of possession/ownership is very culturally dependent);
+      See also {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle}.
+    glosses:
+    - possess
+    - x1=ownership rights
+    - x2=property (something that is owned)
+  de:
+    place structure: x1 besitzt/hat/verfügt über x2 gemäß Gesetz/Brauch x3; x1 ist
+      Eigner/Besitzer von x2 gemäß x3
+    notes:
+    - No notes.
+    glosses:
+    - besitzen
+  es:
+    place structure: x1 posee/tiene/es dueño de x2 según ley/costumbre x3
+    notes:
+    - No notes.
+    glosses:
+    - tener
+  fr:
+    place structure: x1 possède x2 selon la loi / les coutumes x3
+    notes:
+    - No notes.
+    glosses:
+    - posséder
+  ru:
+    place structure: x1 владеет/обладает/{имеет} x2 по закону/обычаю x3; x1 — владелец/обладатель/собственник
+      x2 (чего)
+    notes:
+    - x3 здесь имеет больший вес, и спектр значений, соответственно, уже, чем в русском
+      эквиваленте; кроме того, природа/интерпретация обладания/собственности сильно
+      зависит от культурных традиций {ckini} (иметь отношение), {ralte} (удерживать),
+      {jitro} (контролировать), {steci} (специфика), {srana} (иметь отношение [к чему-либо]),
+      {tutra} (территория), {turni} (править), {zivle} (инвестировать)
+    glosses:
+    - владеть
+    - x1=владеющий
+    - x2=обладаемое
+  en-simple:
+    place structure: x1 possesses or owns x2 under law x3
+    notes:
+    - No notes.
+    glosses:
+    - a possesser
+    - x2=something possessed
+    - x3=a law defining possession
+  eo:
+    place structure: x1 posedas/havas x2-on laŭ leĝo/kutimo x3; x1 estas posedanto
+      de x2 laŭ x3
+    notes:
+    - (x3 ĝenerale estas grava; la koncepto estas tre vasta kiam ne limigita, kaj
+      la naturo/interpreto de posedo estas tre kulturdependa); Vidu ankaŭ {ckini},
+      {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle}.
+    glosses:
+    - posedi
+  hu:
+    place structure: x1 birtokolja/bírja x2-t, x3 törvény/szokás szerint
+    notes:
+    - '(Lásd még: {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle})'
+    glosses:
+    - birtokol
+  ja:
+    place structure: x1 は x2 を x3 （法／慣習）のもと所有する
+    notes:
+    - ・大意： 所有 ・読み方： ポンセ  ・語呂合わせ： 所有ニッポン占有 ・関連語： {ckini}, {ralte}, {jitro}, {steci},
+      {srana}, {tutra}, {turni}, {zivle}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 bezit/heeft x2 volgens wet/traditie x3
+    notes:
+    - 'Zie ook : {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni} en
+      {zivle}.'
+    glosses:
+    - x1=bezit
+    - x2=eigendom
+  zh:
+    place structure: x1拥有x2，基于法律/传统x3；x1是x2的所有者/主人
+    notes:
+    - （注：基于不同的文化和法律，人们对所有权的理解可能不尽相同）；参见 {ckini}, {ralte}, {jitro}, {steci}, {srana},
+      {tutra}, {turni}, {zivle}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,82 @@
-Word: ganti
-Rafsi: ''
-Definition: x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil [body-part]
-  of x2, gender x3.
-Notes: Egg/sperm/pollen/gamete producing/bearing organ.  See also {plibu}, {sovda},
-  {pinji}, {gutra}, {mabla}.
-Examples: None
+word: ganti
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil
+      [body-part] of x2, gender x3.
+    notes:
+    - Egg/sperm/pollen/gamete producing/bearing organ.  See also {plibu}, {sovda},
+      {pinji}, {gutra}, {mabla}.
+    glosses:
+    - gonad
+  de:
+    place structure: x1 ist/sind Hoden/Eierstock/Staubblatt/Stempel [Körperteil] von
+      x2, Geschlecht x3
+    notes:
+    - No notes.
+    glosses:
+    - Keimdrüse
+  es:
+    place structure: x1 es un testículo/gónada/ovario (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - testículo
+  ru:
+    place structure: x1 — яичко/яичник/мошонка/гонада/тычинка/пестик x2 (кого/чего),
+      пола x3
+    notes:
+    - Орган, производящий/содержащий яйцеклетки/сперму/пыльцу/гаметы {plibu} (лобок),
+      {sovda} (яйцо), {pinji} (пенис), {gutra} (матка [анатомия]), {mabla} (негативный
+      [о значении/смысле слова])
+    glosses:
+    - x1=яичник
+  en-simple:
+    place structure: x1 is a gonad, ovary, or equivalent of x2 of gender x3
+    notes:
+    - No notes.
+    glosses:
+    - a gonad
+    - x2=something with a gonad
+    - x3=a gonad gender
+  eo:
+    place structure: x1 estas testiko/ovujo/skroto/stameno/pistilo [korpoparto] de
+      x2, sekso x3
+    notes:
+    - Ovo/spermo/poleno/gameto produktanta/naskanta organo.  Vidu ankaŭ {plibu}, {sovda},
+      {pinji}, {gutra}, {mabla}.
+    glosses:
+    - testiko
+  hu:
+    place structure: x1 egy/az ivarmirigye/heréje/petefészke/porzója/termője x2-nek,
+      x3 ivarú
+    notes:
+    - '(Lásd még: {plibu}, {sovda}, {pinji}, {gutra}, {mabla})'
+    glosses:
+    - ivarmirigy
+  ja:
+    place structure: x1 は x2 （本体）・ x3 （性別）の睾丸／精巣／卵巣／子房／陰嚢（いんのう）／生殖腺／性腺／雄ずい／雄しべ／雌ずい／雌しべ
+    notes:
+    - ・大意： 生殖腺 ・読み方： ガンティ  ・語呂合わせ： 睾丸 ・関連語： {plibu}, {sovda}, {pinji}, {gutra}, {mabla}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är äggstock/testiklar/pung/könskörtel/gonad/ovarium/fruktämne/pistill/ståndare
+      [kroppsdel] av x2 av kön x3 enligt könsstandard x4.
+    notes:
+    - Ägg/sperma/pollen/könscellsproducerande/bärande organ.
+    glosses:
+    - gonad
+    - x1=könskörtel
+    - x2=könskörtelförsedd
+    - x3=kön (biologiskt definierat)
+    - x3=könskörtelgenus
+  zh:
+    place structure: x1是x2的生殖腺（如：卵巢/睾丸/花蕊等）
+    notes:
+    - 产生配偶子（卵子/精子/花粉等）的器官；参见 {plibu}, {sovda}, {pinji}, {gutra}, {mabla}.
+    glosses:
+    - No glosses.

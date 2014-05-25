@@ -1,8 +1,74 @@
-Word: salci
-Rafsi: sla
-Definition: x1 celebrates/recognizes/honors x2 (event/abstract) with activity/[party]
-  x3.
-Notes: '$x_3$ (and nunsla) festival/fiesta/celebration/occasion/fair/Holiday (some
-  senses).  not limited to the ameliorative interpretation of ''celebrate'': funeral
-  (= {mrobixsla}).  See also {sinma}, {jbena}.'
-Examples: None
+word: salci
+rafsi:
+- sla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 celebrates/recognizes/honors x2 (event/abstract) with activity/[party]
+      x3.
+    notes:
+    - 'x3 (and nunsla) festival/fiesta/celebration/occasion/fair/Holiday (some senses).  not
+      limited to the ameliorative interpretation of ''celebrate'': funeral (= {mrobixsla}).  See
+      also {sinma}, {jbena}.'
+    glosses:
+    - celebrate
+  de:
+    place structure: x1 feiert/zelebriert/würdigt/ehrt x2 (Ereignis/Abstraktion) mit
+      Aktivität/[Party] x3
+    notes:
+    - No notes.
+    glosses:
+    - feiern
+  es:
+    place structure: x1 celebra/festeja x2 con actividad/fiesta x3
+    notes:
+    - No notes.
+    glosses:
+    - celebrar
+  ru:
+    place structure: x1 отмечает/справляет/чтит/почитает/{празднует} x2 (событие/абстракция)
+      действиями x3
+    notes:
+    - 'x3 также: {nunsla} — церемония/мероприятие/{праздник/торжества}; «праздник»
+      не только в положительном смысле: напр. похороны: {mrobixsla} {sinma} (уважать),
+      {jbena} (рожденный)'
+    glosses:
+    - праздновать
+    - x1=празднующий
+    - x2=праздник
+  en-simple:
+    place structure: x1 celebrates x2 with activity x3
+    notes:
+    - No notes.
+    glosses:
+    - a celebrator
+    - x2=something celebrated
+    - x3=a celebration
+  eo:
+    place structure: x1 festas/celebras/solenas/honorigas x2-on (okazo/abstraktaĵo)
+      per ago/[festo] x3
+    notes:
+    - '(x3 (kaj nunsla) festivalo/festo/celebrado/okazo/foiro/Ferio (iuj sencoj).  ne
+      limigita al la festeca interpreto de ''celebri'': funebro (= {mrobixsla}));
+      Vidu ankaŭ sinma,{jbena}.'
+    glosses:
+    - festi
+  hu:
+    place structure: x1 megünnepli/megtiszteli x2 eseményt/absztrakciót x3 tevékenységgel
+    notes:
+    - '(Lásd még: {sinma}, {jbena})'
+    glosses:
+    - ünnepel
+  ja:
+    place structure: x1 は x2 （事）を x3 （行動）で祝う／礼拝する
+    notes:
+    - x3は「祝典」など。 ・大意： 祝賀 ・読み方： サルゥシ ・語呂合わせ： 祝って去るし ・関連語： {sinma}, {jbena}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1庆祝/庆贺x2（事件/谓词子句），通过行为/活动/聚会x3
+    notes:
+    - x3（与nunsla）纪念活动/祭典/庆典；并不限于表示“庆祝”的场合，葬礼={mrobixsla}；参见 {sinma}, {jbena}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,71 @@
-Word: cortu
-Rafsi: cor, cro
-Definition: x1 hurts/feels pain/hurt at locus x2.
-Notes: See also {cinmo}, {xrani}.
-Examples: None
+word: cortu
+rafsi:
+- cor
+- cro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hurts/feels pain/hurt at locus x2.
+    notes:
+    - See also {cinmo}, {xrani}.
+    glosses:
+    - pain
+  de:
+    place structure: x1 hat Schmerzen an Stelle x2.
+    notes:
+    - Siehe auch {cinmo}, {xrani}.
+    glosses:
+    - Schmerz
+  es:
+    place structure: x1 siente dolor/le duele en parte x2
+    notes:
+    - Ver también {xrani}.
+    glosses:
+    - doler
+  ru:
+    place structure: x1 чувствует боль в x2 (место); у x1 болит x2
+    notes:
+    - '{cinmo} (эмоциональный), {xrani} (вредить)'
+    glosses:
+    - x1=чувствующий боль
+  en-simple:
+    place structure: x1 feels pain at x2
+    notes:
+    - No notes.
+    glosses:
+    - a feeler of pain
+    - x2=a location of pain
+  eo:
+    place structure: x1 doloriĝas/sentas doloron je x2; x2 doloras al x1
+    notes:
+    - Vidu ankaŭ {cinmo}, {xrani}.
+    glosses:
+    - doloriĝi
+  hu:
+    place structure: x1 fájdalmat érez x2 ponton
+    notes:
+    - '(Lásd még: {cinmo}, {xrani})'
+    glosses:
+    - fáj
+  ja:
+    place structure: x1 （者）は x2 （箇所）に痛みを感じる；  x2 が痛い
+    notes:
+    - ・大意： 痛い ・読み方： ショルトゥ  ・語呂合わせ： hurt, tu(痛) ・関連語： {cinmo}, {xrani}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 har ont/känner smärta på ställe x2.
+    notes:
+    - No notes.
+    glosses:
+    - ont (känner smärta)
+    - smärta (känner smärta)
+    - x1=lider smärta
+    - x2=smärtställe
+  zh:
+    place structure: x1在x2位置感觉疼痛
+    notes:
+    - 参见 {cinmo}, {xrani}.
+    glosses:
+    - No glosses.

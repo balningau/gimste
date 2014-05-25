@@ -1,6 +1,78 @@
-Word: carvi
-Rafsi: cav
-Definition: x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not
-  limited to 'rain'].
-Notes: See also {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}.
-Examples: None
+word: carvi
+rafsi:
+- cav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation
+      [not limited to 'rain'].
+    notes:
+    - See also {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}.
+    glosses:
+    - rain
+  de:
+    place structure: x1 regnet [Niederschlag] auf x2 von x3; x1 ist Niederschlag [nicht
+      beschränkt auf Regen]
+    notes:
+    - No notes.
+    glosses:
+    - Regen
+  es:
+    place structure: x1 llueve/se precipita sobre x2 desde x3
+    notes:
+    - No notes.
+    glosses:
+    - llover
+  ru:
+    place structure: x1 (осадки) выпадает на x2 из/с x3 (откуда)
+    notes:
+    - '{bratu} (град [осадок]), {dilnu} (облако), {santa} (зонт), {snime} (снег),
+      {tcima} (погода), {bisli} (лед), {bumru} (туман)'
+    glosses:
+    - осадки
+  en-simple:
+    place structure: x1 rains or showers to x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - something that rains
+    - x2=somewhere rain falls
+    - x3=somewhere rain falls from
+  eo:
+    place structure: x1 pluvas/verŝiĝas/[precipitiĝas] al x2 el x3; x1 estas precipitato
+      [ne limigita al 'pluvo']
+    notes:
+    - Vidu ankaŭ {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}.
+    glosses:
+    - pluvi
+  hu:
+    place structure: x1 esik/szakad/zuhog/lecsapódik x2-re x3-ból; x1 csapadék
+    notes:
+    - '(Lásd még: {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru})'
+    glosses:
+    - eső
+  ja:
+    place structure: x1 は x2 （終点）に x3 （始点）から降る／降り注ぐ；  x1 はシャワー状
+    notes:
+    - 或る総体から分離／分散して落ちること。 ・大意： 降る（ふる） ・読み方： シャルヴィ  ・語呂合わせ： rain,lluvia ・関連語： {sicpi}
+      (下位概念), {farlu} (上位概念), {bratu} (雹), {snime} (雪), {bumru} (霧), {tcima} (気象),
+      {dilnu} (雲), {santa} (傘)
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 regnar/duschar/[sprayar] [ger nederbörd] till x2 från x3.
+    notes:
+    - x1 är nederbörd (inte enbart regn).
+    glosses:
+    - regn
+    - regna
+    - x1=nederbörd
+    - x2=nederbördsplats
+    - x3=nederbördskälla
+  zh:
+    place structure: x1落雨/洒水至x2，水来自x3；x1是坠落物（不限定为雨）
+    notes:
+    - 参见 {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}.
+    glosses:
+    - No glosses.

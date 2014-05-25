@@ -1,6 +1,70 @@
-Word: tsina
-Rafsi: sin
-Definition: x1 is a stage/platform/dais/[scaffold] at/in x2 supporting x3, made of
-  material x4.
-Notes: ($x_3$ object/event); See also {greku}, {jubme}.
-Examples: None
+word: tsina
+rafsi:
+- sin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a stage/platform/dais/[scaffold] at/in x2 supporting x3,
+      made of material x4.
+    notes:
+    - (x3 object/event); See also {greku}, {jubme}.
+    glosses:
+    - stage
+  de:
+    place structure: x1 ist eine Bühne/Gestell/Podium/ein Schauplatz/[Gerüst] bei/in
+      x2 und unterstützt x3, gemacht aus Material x4
+    notes:
+    - No notes.
+    glosses:
+    - Bühne
+  es:
+    place structure: x1 es un escenario/plataforma en x2 que soporta x3, hecho de
+      material x4
+    notes:
+    - Ver también {jubme}.
+    glosses:
+    - plataforma
+  ru:
+    place structure: x1 — подмостки/платформа/{сцена}/леса на/в x2, поддерживающие
+      x3, сделанные из материала x4
+    notes:
+    - x3 — объект/событие {greku} (каркас), {jubme} (стол)
+    glosses:
+    - x1=сцена (платформа)
+  en-simple:
+    place structure: x1 is a platform or stage at x2 supporting x3 made of material
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a platform
+    - x2=a location of a platform
+    - x3=something supported by a platform
+    - x4=a material of a platform
+  eo:
+    place structure: x1 estas estrado/scenejo/platformo/kajo/[eŝafodo] ĉe x2 subtenanta
+      x3-on, el materialo x4
+    notes:
+    - 0     x3 objekto/okazo.  Vidu ankaŭ {greku}, {jubme}.
+    glosses:
+    - estrado
+  hu:
+    place structure: x1 egy dobogó/emelvény/pódium x2 helyen, x3 számára (tárgy/esemény),
+      x4 anyagból
+    notes:
+    - '(Lásd még: {greku}, {jubme})'
+    glosses:
+    - dobogó
+  ja:
+    place structure: x1 は x2 （所）・ x3 （支持対象）・ x4 （素材）の壇／ステージ
+    notes:
+    - x3は物体だけでなく事／イベントなども。 ・大意： 壇（だん） ・読み方： ツィナ  ・関連語： {greku}, {jubme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是位于x2处/上的平台，以支撑x3，由材料x4做成
+    notes:
+    - x3物体/事件；参见 {greku}, {jubme}.
+    glosses:
+    - No glosses.

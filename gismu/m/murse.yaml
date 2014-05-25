@@ -1,7 +1,69 @@
-Word: murse
-Rafsi: ''
-Definition: x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day
-  x2 at location x3.
-Notes: Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See
-  also {cerni}, {kandi}, {vanci}.
-Examples: None
+word: murse
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering
+      of day x2 at location x3.
+    notes:
+    - Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See
+      also {cerni}, {kandi}, {vanci}.
+    glosses:
+    - glimmering
+  de:
+    place structure: x1 ist die [astronomische] Dämmerung/Sonnenauf-/untergang/Morgenröte/Abendrot
+      von Tag x2 an Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Dämmerung
+  es:
+    place structure: x1 es el crepúsculo/madrugada/amanecer/atardecer/medialuz de
+      día x2 en localidad x3
+    notes:
+    - Ver también {donri},  {nicte}.
+    glosses:
+    - crepúsculo
+  ru:
+    place structure: x1 — (астрономическая) заря/сумерки суток x2 в местности x3
+    notes:
+    - 'Утренняя заря, восход: {cermurse}; вечерняя заря, закат: {vacmurse} {cerni}
+      (утро), {kandi} (тусклый), {vanci} (вечер)'
+    glosses:
+    - x1=заря / сумерки
+  en-simple:
+    place structure: x1 is the twilight, dawn, or dusk of day x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - twilight
+    - x2=a day with twilight
+    - x3=a location of twilight
+  eo:
+    place structure: x1 estas [astronoma] krepusko/eklumiĝo/tagiĝo/vesperiĝo/duonlumo
+      de tago x2 en loko x3
+    notes:
+    - Matena krepusko, sunleviĝo (= {cermurse}); vespera krepusko, vesperiĝo (= {vacmurse}).  Vidu
+      ankaŭ {cerni}, {kandi}, {vanci}.
+    glosses:
+    - krepusko
+  hu:
+    place structure: x1 a szürkület/hajnal/alkonyat/félhomály x2 napon, x3 helyen
+    notes:
+    - '(Lásd még: {cerni}, {kandi}, {vanci})'
+    glosses:
+    - szürkület
+  ja:
+    place structure: x1 は x2 （日）・ x3 （所）の日の出／日没／黎明
+    notes:
+    - 基本は天文学上の意味だが、比喩として「黎明期」なども可能。 ・大意： 黎明 ・読み方： ムルセ  ・関連語： {cerni}, {kandi}, {vanci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是曙暮光/破晓时分/黄昏，,处于日期x2，地点x3
+    notes:
+    - 晨影/破晓= {cermurse}；暮光/黄昏= {vacmurse}；参见 {cerni}, {kandi}, {vanci}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,71 @@
-Word: fonxa
-Rafsi: fon
-Definition: x1 is a telephone transceiver/modem attached to system/network x2.
-Notes: See also {tcana}.
-Examples: None
+word: fonxa
+rafsi:
+- fon
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a telephone transceiver/modem attached to system/network
+      x2.
+    notes:
+    - See also {tcana}.
+    glosses:
+    - telephone (device)
+  de:
+    place structure: x1 ist ein Telefon/Modem/Sender-Empfänger, verbunden mit System/Netz
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Telefon
+  es:
+    place structure: x1 es un teléfono/módem conectado a red/sistema x2
+    notes:
+    - No notes.
+    glosses:
+    - teléfono
+  ru:
+    place structure: x1 — телефон/модем, подсоединенный к системе/сети x2
+    notes:
+    - '{tcana} (станция)'
+    glosses:
+    - телефон
+  en-simple:
+    place structure: x1 is a phone or modem in network x2
+    notes:
+    - No notes.
+    glosses:
+    - a telephone
+    - x2=a telephone system
+  eo:
+    place structure: x1 estas telefona transsendilo/modemo ligita al sistemo/retaĵo
+      x2
+    notes:
+    - Vidu ankaŭ {tcana}.
+    glosses:
+    - telefono
+  hu:
+    place structure: x1 egy telefonkészülék/modem x2 rendszerhez/hálózathoz csatlakoztatva
+    notes:
+    - '(Lásd még: {tcana})'
+    glosses:
+    - telefon
+  ja:
+    place structure: x1 は x2 （システム／ネットワーク）の電話端末／モデム
+    notes:
+    - ・大意： 電話 ・読み方： フォンクァ ・語呂合わせ： phone ・関連語： {tcana}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en telefon/modem kopplad till system/nätverk x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=telefon
+    - x2=nätverk (telefon/modem)
+  zh:
+    place structure: x1是移动电话收发器/调制解调器，与系统/网络x2连接
+    notes:
+    - 参见 {tcana}.
+    glosses:
+    - No glosses.

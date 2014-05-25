@@ -1,7 +1,80 @@
-Word: rotsu
-Rafsi: rot, tsu, ro'u
-Definition: x1 is thick in dimension/direction x2 by standard x3; [relatively long
-  in smallest dimension].
-Notes: Also stout.  See also {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana},
-  {gutci}, {minli}.
-Examples: None
+word: rotsu
+rafsi:
+- rot
+- tsu
+- ro'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is thick in dimension/direction x2 by standard x3; [relatively
+      long in smallest dimension].
+    notes:
+    - Also stout.  See also {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana},
+      {gutci}, {minli}.
+    glosses:
+    - thick
+  jbo:
+    place structure: x1 barda x2 noi cmarai cimde x1 ku'o x3
+    notes:
+    - No notes.
+    glosses:
+    - rotsu
+  de:
+    place structure: x1 ist dick in Dimension/Richtung x2 gemäß Standard x3; [relativ
+      lang in kürzester Dimension]
+    notes:
+    - No notes.
+    glosses:
+    - dick
+  es:
+    place structure: x1 es grueso/de gran espesor en dimensión/dirección x2 (la menor)
+      según estándar x3
+    notes:
+    - Ver también {cinla},  {clani},  {ganra},  {condi}.
+    glosses:
+    - grueso
+  ru:
+    place structure: x1 — толстый в направлении/измерении x2 относительно стандарта
+      x3 (относительно длинный в наименьшем измерении)
+    notes:
+    - 'Также: полный/тучный/дородный (о человеке) {barda} (большой), {cinla} (тонкий),
+      {ganra} (широкий), {clani} (длинный), {condi} (глубокий), {plana} (пухлый),
+      {gutci} (измеряться [в футах/дюймах и пр.]), {minli} (миля)'
+    glosses:
+    - x1=толстый
+  en-simple:
+    place structure: x1 is thick in dimension x2
+    notes:
+    - No notes.
+    glosses:
+    - x2=a dimension of thickness
+    - x2=the dimension of thickness
+    - x3=a standard of thickness
+  eo:
+    place structure: x1 estas dika laŭ dimensio/direkto x2 laŭ normo x3; [iom longa
+      laŭ plej malgranda dimensio]
+    notes:
+    - 'Ankaŭ: korpulenta.  Vidu ankaŭ {barda}, {cinla}, {ganra}, {clani}, {condi},
+      {plana}, {gutci}, {minli}.'
+    glosses:
+    - dika
+  hu:
+    place structure: x1 vastag x2 méretében/irányban x3 mérce szerint
+    notes:
+    - '(Lásd még: {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli})'
+    glosses:
+    - vastag
+  ja:
+    place structure: x1 は x2 （次元／方向）・ x3 （基準）において厚い
+    notes:
+    - ・大意： 厚い ・読み方： ロツ ・関連語： {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana},
+      {gutci}, {minli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是厚的，在规格/方向x2上，基于标准x3
+    notes:
+    - 也指：矮胖的；参见 {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}.
+    glosses:
+    - No glosses.

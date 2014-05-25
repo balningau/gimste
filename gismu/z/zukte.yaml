@@ -1,9 +1,98 @@
-Word: zukte
-Rafsi: zuk, zu'e
-Definition: x1 is a volitional entity employing means/taking action x2 for purpose/goal
-  x3/to end x3.
-Notes: Also acting at, undertaking, doing; agentive cause with volition/purpose; also
-  $x_3$ objective, end.  See also cmavo list {zu'e}, {bapli}, {gunka}, {jalge}, {krinu},
-  {mukti}, {rinka}, {snuti}, {gasnu}, {fasnu}, {minji}, {prenu}, {ciksi}, {jibri},
-  {pilno}, {pluta}, {tadji}, {tutci}.
-Examples: None
+word: zukte
+rafsi:
+- zuk
+- zu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a volitional entity employing means/taking action x2 for
+      purpose/goal x3/to end x3.
+    notes:
+    - Also acting at, undertaking, doing; agentive cause with volition/purpose; also
+      x3 objective, end.  See also cmavo list {zu'e}, {bapli}, {gunka}, {jalge}, {krinu},
+      {mukti}, {rinka}, {snuti}, {gasnu}, {fasnu}, {minji}, {prenu}, {ciksi}, {jibri},
+      {pilno}, {pluta}, {tadji}, {tutci}.
+    glosses:
+    - act
+    - x1=actor (purposeful entity)
+  jbo:
+    place structure: x1 gasnu lo nu x1 ckaji x2 kei mu'i lo nu x1 kanpe lo nu lo nu
+      x1 ckaji x2 cu se jalge x3
+    notes:
+    - No notes.
+    glosses:
+    - zukte
+  de:
+    place structure: x1 ist ein willensmäßiges Wesen/Wesen mit freiem Willen und verwendet
+      Mittel/unternimmt Handlung x2 für Zweck/Ziel x3
+    notes:
+    - No notes.
+    glosses:
+    - handeln
+  es:
+    place structure: x1 actúa/realiza acción x2 con propósito/meta/fines x3
+    notes:
+    - Ver también {gasnu},  {fasnu},  {minji},  {prenu}.
+    glosses:
+    - actuar
+  fr:
+    place structure: x1 [entité capable d'exercer un choix librement] fait (une action)
+      x2 dans le but d'obtenir / faire x3
+    notes:
+    - No notes.
+    glosses:
+    - Faire
+  ru:
+    place structure: x1 (существо/организация) своей волей принимает меры/совершает
+      действие x2 с целью x3
+    notes:
+    - '{zu''e}, {bapli} (заставлять), {gunka} (работать), {jalge} (результат), {krinu}
+      (резон), {mukti} (повод), {rinka} (причина [физическая]), {snuti} (случайный
+      [непреднамеренный]), {gasnu} (делать), {fasnu} (происходить [случаться]), {minji}
+      (машина [автомат, механизм]), {prenu} (персона), {ciksi} (объяснять), {jibri}
+      (профессия), {pilno} (использовать), {pluta} (путь), {tadji} (метод), {tutci}
+      (инструмент)'
+    glosses:
+    - действовать
+    - x1=действующий
+    - x2=принимаемое действие
+    - x3=цель принимаемого действия
+  en-simple:
+    place structure: x1 takes action x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - a taker of action
+    - x2=an action taken
+    - x3=a purpose of an action taken
+  eo:
+    place structure: x1 estas vola estulo faranta agon x2 kun celo x3
+    notes:
+    - 'Ankaŭ: entrepreni, fari; agenta kaŭzo kun volo/celo.  Vidu ankaŭ cmavo {zu''e},
+      {bapli}, {gunka}, {jalge}, {krinu}, {mukti}, {rinka}, {snuti}, {gasnu}, {fasnu},
+      {minji}, {prenu}, {ciksi}, {jibri}, pilno,pluta,tadji,{tutci}.'
+    glosses:
+    - agi
+  hu:
+    place structure: x1 tudatosan megcselekszi x2-t x3 cél (elérése) érdekében
+    notes:
+    - '(Lásd még: {bapli}, {gunka}, {jalge}, {krinu}, {mukti}, {rinka}, {snuti}, {gasnu},
+      {fasnu}, {minji}, {prenu}, {ciksi}, {jibri}, {pilno}, {pluta}, {tadji}, {tutci})'
+    glosses:
+    - cselekszik
+  ja:
+    place structure: x1 は x2 （行動内容）を x3 （目的／目標）のために行為／実行する
+    notes:
+    - ・大意： 行為 ・読み方： ズクテ  ・語呂合わせ： ＜ズックの手入れ＞,力づくって悪い行為 ・関連語： {zu'e}, {bapli}, {gunka},
+      {jalge}, {krinu}, {mukti}, {rinka}, {snuti}, {gasnu}, {fasnu}, {minji}, {prenu},
+      {ciksi}, {jibri}, {pilno}, {pluta}, {tadji}, {tutci}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1采取行动x2，以达到/完成目的/目标x3
+    notes:
+    - 也指：施事的/在意志作用下干某事；参见 {zu'e}, {bapli}, {gunka}, {jalge}, {krinu}, {mukti}, {rinka},
+      {snuti}, {gasnu}, {fasnu}, {minji}, {prenu}, {ciksi}, {jibri}, {pilno}, {pluta},
+      {tadji}, {tutci}.
+    glosses:
+    - No glosses.

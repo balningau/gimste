@@ -1,6 +1,71 @@
-Word: sisti
-Rafsi: sti
-Definition: x1 [agent] ceases/stops/halts/ends activity/process/state x2 [not necessarily
-  completing it].
-Notes: See also {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.
-Examples: None
+word: sisti
+rafsi:
+- sti
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [agent] ceases/stops/halts/ends activity/process/state x2
+      [not necessarily completing it].
+    notes:
+    - See also {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.
+    glosses:
+    - cease (agentive)
+    - end (terminate)
+    - halt (cause something to stop)
+    - stop (cause something to halt)
+  de:
+    place structure: x1 [Handelnder] hört auf/stoppt/beendet Tätigkeit/Prozess/Zustand
+      x2 [nicht zwingend abschließend]
+    notes:
+    - No notes.
+    glosses:
+    - aufhören
+  es:
+    place structure: x1 se para/detiene/cesa en actividad/proceso/estado x2
+    notes:
+    - No notes.
+    glosses:
+    - pararse
+  ru:
+    place structure: x1 останавливает/прекращает/прерывает деятельность/процесс/состояние
+      x2 (завершение/окончание не предполагается)
+    notes:
+    - '{fanmo} (конец), {mulno} (законченный), {cfari} (начинаться), {denpa} (ждать),
+      {fliba} (терпеть неудачу)'
+    glosses:
+    - останавливать
+    - x1=останавливающий
+  en-simple:
+    place structure: x1 ceases or stops x2
+    notes:
+    - No notes.
+    glosses:
+    - a ceaseer
+    - x2=something ceased
+  eo:
+    place structure: x1 [aganto] ĉesas/haltas/finas agon/procedon/staton x2 [ne nepre
+      ĝin kompletiganta]
+    notes:
+    - Vidu ankaŭ {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.
+    glosses:
+    - ĉesi
+  hu:
+    place structure: x1 abba-/félbehagyja/megszakítja x2 cselekedetet/folyamatot/állapotot
+    notes:
+    - '(Lásd még: {fanmo}, {mulno}, {cfari}, {denpa}, {fliba})'
+    glosses:
+    - abbahagy
+  ja:
+    place structure: x1 （者）は x2 （動作／過程／状態）をやめる／中止／終了する
+    notes:
+    - x2 は完了しているとは限らない。 ・大意： 終了 ・読み方： スィスティ  ・関連語： {fanmo}, {mulno}, {cfari}, {denpa},
+      {fliba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1停止/终止/停下活动/进程/状态x2（不一定完成）
+    notes:
+    - 参见 {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,78 @@
-Word: zunti
-Rafsi: zun, zu'i
-Definition: x1 (evt./state) interferes with/hinders/disrupts x2 (evt./state/process)
-  due to quality x3 (ka).
-Notes: Also blocks, obstructs, baffles; not necessarily forcing cessation. See also
-  {fanta}, {dicra}, {fliba}, {fanza}, {raktu}, {klina}, {bandu}, {cfipu}, {ganlo}.
-Examples: None
+word: zunti
+rafsi:
+- zun
+- zu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (evt./state) interferes with/hinders/disrupts x2 (evt./state/process)
+      due to quality x3 (ka).
+    notes:
+    - Also blocks, obstructs, baffles; not necessarily forcing cessation. See also
+      {fanta}, {dicra}, {fliba}, {fanza}, {raktu}, {klina}, {bandu}, {cfipu}, {ganlo}.
+    glosses:
+    - interfere
+  de:
+    place structure: x1 (Ereignis/Zustand) stört/behindert/beeinträchtigt/unterbricht
+      x2 (Ereignis/Zustand/Prozess) auf Grund von Qualität x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - behindern
+  es:
+    place structure: x1 (evento) interfiere con/obstruye/refrena x2 (evento) debido
+      a cualidad x3
+    notes:
+    - Ver también {dicra},  {fanza},  {raktu}.
+    glosses:
+    - interferir
+  ru:
+    place structure: x1 (событие/состояние) мешает/вмешивается в/задерживает/препятствует
+      x2 (событие/состояние/процесс) в силу свойства x3 ({ka})
+    notes:
+    - 'Также: затрудняет, нарушает; x1 — помеха; не обязательно приводит к срыву/прекращению
+      (ср. {dicra}) {fanta} (препятствовать [не давать произойти]), {dicra} (прерывать),
+      {fliba} (терпеть неудачу), {fanza} (раздражать [беспокоить]), {raktu} (беспокоить),
+      {klina} (прозрачный), {bandu} (защищать), {cfipu} (морочить), {ganlo} (закрытый)'
+    glosses:
+    - вмешиваться в
+    - x1=вмешивающийся в
+  en-simple:
+    place structure: x1 interferes with or disrupts x2 due to quality x3
+    notes:
+    - No notes.
+    glosses:
+    - a hinderer
+    - x2=something hindered
+    - x3=a quality in which something hinders
+  eo:
+    place structure: x1 (okazo/stato) malhelpas/blokas/obstrukcas x2-on (okazo/stato/procedo)
+      pro kvalito x3 (ka)
+    notes:
+    - a   39     Ne nepre kaŭzanta ĉeson. Vidu ankaŭ {fanta}, {dicra}, {fliba}, {fanza},
+      {raktu}, {klina}, {bandu}, {cfipu}, {ganlo}.
+    glosses:
+    - malhelpi
+  hu:
+    place structure: x1 esemény/állapot akadályozza/hátráltatja/zavarja x2 eseményt/állapotot/folyamatot,
+      x3 tulajdonság következtében
+    notes:
+    - '(Lásd még: {fanta}, {dicra}, {fliba}, {fanza}, {raktu}, {klina}, {bandu}, {cfipu},
+      {ganlo})'
+    glosses:
+    - akadályoz
+  ja:
+    place structure: x1 （事）は x2 （事）に、 x3 （性質）に関して干渉する／わりこむ
+    notes:
+    - x2 の停止は含意されない。 ・大意： 干渉 ・読み方： ズンティ  ・語呂合わせ： ＜ずんずんティーチャ干渉＞ ・関連語： {fanta}, {dicra},
+      {fliba}, {fanza}, {raktu}, {klina}, {bandu}, {cfipu}, {ganlo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）干扰x2（事件/状态/过程），归因于性质x3（ka）；x1由于其性质x3而对x2产生干扰
+    notes:
+    - 也指：阻碍/妨碍/阻塞；不必要产生中断；参见 {fanta}, {dicra}, {fliba}, {fanza}, {raktu}, {klina},
+      {bandu}, {cfipu}, {ganlo}.
+    glosses:
+    - No glosses.

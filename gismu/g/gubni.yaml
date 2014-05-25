@@ -1,6 +1,75 @@
-Word: gubni
-Rafsi: gub
-Definition: x1 is public/un-hidden/open/jointly available to/owned by all among community
-  x2 (mass).
-Notes: See also {sivni}.
-Examples: None
+word: gubni
+rafsi:
+- gub
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is public/un-hidden/open/jointly available to/owned by all
+      among community x2 (mass).
+    notes:
+    - See also {sivni}.
+    glosses:
+    - public
+  de:
+    place structure: x1 ist öffentlich/offen/nicht versteckt/gehört allen aus Gemeinschaft
+      x2 (Masse)
+    notes:
+    - No notes.
+    glosses:
+    - öffentlich
+  es:
+    place structure: x1 es público/abierto/accesible/de todos para comunidad x2
+    notes:
+    - No notes.
+    glosses:
+    - publico
+  ru:
+    place structure: x1 — публичный/общественный; x1 доступен для/общее достояние
+      общины x2 (масса)
+    notes:
+    - '{sivni} (частный [персональный])'
+    glosses:
+    - публичный
+  en-simple:
+    place structure: x1 is public to community x2
+    notes:
+    - No notes.
+    glosses:
+    - something public
+    - x2=a community with something public
+  eo:
+    place structure: x1 estas publika/nekaŝita/malferma/kune uzebla/posedata de ĉiuj
+      en komunumo x2 (kolektivaĵo)
+    notes:
+    - Vidu ankaŭ {sivni}.
+    glosses:
+    - publika
+  hu:
+    place structure: x1 nyilvános / mindenki számára használható/elérhető/nyitott
+      x2 közösségben
+    notes:
+    - '(Lásd még: {sivni})'
+    glosses:
+    - nyilvános
+  ja:
+    place structure: x1 は x2 （群／共同体）のあいだで共有されている；  x1 は公共
+    notes:
+    - ・大意： 公共 ・読み方： グブニ  ・関連語： {sivni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är offentlig/allmän/icke-gömd/öppen/gemensamt tillgänglig
+      för/ägd av alla inom samhälle x2 (mass).
+    notes:
+    - No notes.
+    glosses:
+    - allmän (offentlig/tillgänglig för alla/ägd av alla)
+    - offentlig
+    - öppen (offentlig)
+  zh:
+    place structure: x1是团体x2全体所公开的/公共的/公有的
+    notes:
+    - 参见 {sivni}.
+    glosses:
+    - No glosses.

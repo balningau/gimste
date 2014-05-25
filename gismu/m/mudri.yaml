@@ -1,6 +1,66 @@
-Word: mudri
-Rafsi: mud
-Definition: x1 is a quantity of/is made of/contains wood/lumber from tree(s) of type/species
-  x2.
-Notes: See also {tricu}, {stani}.
-Examples: None
+word: mudri
+rafsi:
+- mud
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/is made of/contains wood/lumber from tree(s)
+      of type/species x2.
+    notes:
+    - See also {tricu}, {stani}.
+    glosses:
+    - wood (the material)
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Holz/Nutzholz von Baum/Bäumen
+      von Typ/Art x2
+    notes:
+    - No notes.
+    glosses:
+    - Holz
+  es:
+    place structure: x1 es una cantidad de madera/leña de árbol de tipo/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - madera
+  ru:
+    place structure: x1 — древесина деревьев типа/вида x2; x1 — деревянный
+    notes:
+    - '{tricu} (дерево), {stani} (стебель)'
+    glosses:
+    - x1=древесина
+  en-simple:
+    place structure: x1 is a quantity of wood of type x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of wood
+    - x2=a species of wood
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el ligno el arbo(j) de tipo/speco
+      x2
+    notes:
+    - Vidu ankaŭ {tricu}, {stani}.
+    glosses:
+    - ligno
+  hu:
+    place structure: x1 bizonyos mennyiségű faanyag (-ot tartalmaz/-ból készült) x2
+      fajú/fajta fá(k)ból
+    notes:
+    - '(Lásd még: {tricu}, {stani})'
+    glosses:
+    - faanyag
+  ja:
+    place structure: x1 は x2 （種類）の木／木材
+    notes:
+    - 素材としての木。「lo vi jubme genai tricu gi mudri／ここにある机は、樹木ではないが木材でできている。」 ・大意： 木材
+      ・読み方： ムドリ  ・語呂合わせ： mu（木）, madera,wood　木にムクドリ ・関連語： {tricu}, {stani}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是木材/木制品，来自树/树种x2
+    notes:
+    - 参见 {tricu}, {stani}.
+    glosses:
+    - No glosses.

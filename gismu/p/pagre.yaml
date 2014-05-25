@@ -1,8 +1,75 @@
-Word: pagre
-Rafsi: gre
-Definition: x1 passes through/penetrates barrier/medium/portal x2 to destination side
-  x3 from origin side x4.
-Notes: Passing through in both directions (= rolfargre, pagre ... .i so'ivo'ivo'u
-  (and vice versa)).  See also {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta},
-  {canko}, {ragve}.
-Examples: None
+word: pagre
+rafsi:
+- gre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 passes through/penetrates barrier/medium/portal x2 to destination
+      side x3 from origin side x4.
+    notes:
+    - Passing through in both directions (= rolfargre, pagre ... .i so'ivo'ivo'u (and
+      vice versa)).  See also {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta},
+      {canko}, {ragve}.
+    glosses:
+    - pass through
+  de:
+    place structure: x1 durchdringt/durchtritt/durchläuft Barriere/Medium/Portal x2
+      zur Zielseite x3 von Ursprungsseite x4
+    notes:
+    - No notes.
+    glosses:
+    - durchdringen
+  es:
+    place structure: x1 atraviesa/penetra/traspasa barrera/medio/portal x2 a lado
+      x3 de lado x4
+    notes:
+    - No notes.
+    glosses:
+    - atravesar
+  ru:
+    place structure: x1 проходит/проникает/просачивается через барьер/среду/портал
+      x2 в/на/к x3 (сторона) из/с/от x4 (сторона)
+    notes:
+    - '{bitmu} (стена), {denci} (зуб), {ganlo} (закрытый), {kalri} (открытый), {vorme}
+      (дверь), {pluta} (путь), {canko} (окно), {ragve} (напротив [по ту сторону])'
+    glosses:
+    - проникать
+    - x1=проникающий
+  en-simple:
+    place structure: x1 penetrates barrier x2 to x3 from x4
+    notes:
+    - No notes.
+    glosses:
+    - a penetrater
+    - x2=something penetrated
+    - x3=a destination of penetration
+    - x4=an origin of penetration
+  eo:
+    place structure: x1 trapasas/penetras barilon/medion/pordon x2 al celita flanko
+      x3 el deirflanko x4
+    notes:
+    - Trapasi en ambaŭ direktoj (= rolfargre, pagre ... soivo'ivo'o (kaj inverse)).  Vidu
+      ankaŭ {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta}, {canko}, {ragve}.
+    glosses:
+    - trapasi
+  hu:
+    place structure: x1 áthalad x2 korláton/nyíláson/közegen x3 oldalra x4 oldal felől
+    notes:
+    - '(Lásd még: {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta}, {canko}, {ragve})'
+    glosses:
+    - átmegy
+  ja:
+    place structure: x1 は x2 （対象）を x3 （側）へ x4 （側）から通過する／貫通する／通り抜ける
+    notes:
+    - ・大意： 通過 ・読み方： パグレ  ・語呂合わせ： 通過食いっぱぐれ ・関連語： {bitmu}, {denci}, {ganlo}, {kalri},
+      {vorme}, {pluta}, {canko}, {ragve}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1通过/穿过通道/介质/障碍物x2，到达目的地一侧x3，来源处一侧为x4
+    notes:
+    - 两个方向都通过= {rolfargre}或 pagre ... .i so'ivo'ivo'u；参见 {bitmu}, {denci}, {ganlo},
+      {kalri}, {vorme}, {pluta}, {canko}, {ragve}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,75 @@
-Word: cinri
-Rafsi: ci'i
-Definition: x1 (abstraction) interests/is interesting to x2; x2 is interested in x1.
-Notes: Use $x_1$ tu'a for non-specific interest in an object; interested in (= {selci'i}).  See
-  also {zdile}, {kucli}, {manci}, {kurji}.
-Examples: None
+word: cinri
+rafsi:
+- ci'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (abstraction) interests/is interesting to x2; x2 is interested
+      in x1.
+    notes:
+    - Use x1 tu'a for non-specific interest in an object; interested in (= {selci'i}).  See
+      also {zdile}, {kucli}, {manci}, {kurji}.
+    glosses:
+    - interesting
+  de:
+    place structure: x1 (Abstraktion) interessiert/ist interessant für x2; x2 interessiert
+      sich für x1
+    notes:
+    - No notes.
+    glosses:
+    - interessant
+  es:
+    place structure: x1 (evento) interesa a x2
+    notes:
+    - Ver también {zdile}.
+    glosses:
+    - interesar
+  ru:
+    place structure: x1 (абстракция) интересует/интересно x2 (кого/кому); x2 интересуется
+      x1 (чем); x2 (кому) интересно x1 (что)
+    notes:
+    - 'x1: {tu''a} для неспецифической/косвенной заинтересованности объектом; интересоваться
+      чем: {selci''i} {zdile} (развлекать), {kucli} (любопытный [испытывающий любопытство]),
+      {manci} (изумленный), {kurji} (заботиться)'
+    glosses:
+    - интересный
+  en-simple:
+    place structure: x1 interests x2
+    notes:
+    - No notes.
+    glosses:
+    - something interesting
+    - x2=something interested
+  eo:
+    place structure: x1 (abstraktaĵo) interesas x2-on; x2 interesiĝas pri x1
+    notes:
+    - Uzu tu'a en x1 por nespecifa intereso pri objekto; interesiĝi (= {selci'i}).  Vidu
+      ankaŭ {zdile}, {kucli}, {manci}, {kurji}.
+    glosses:
+    - interesi
+  hu:
+    place structure: x1 érdekli x2-t/érdekes x2 számára
+    notes:
+    - '(Lásd még: {zdile}, {kucli}, {manci}, {kurji})'
+    glosses:
+    - érdekes
+  ja:
+    place structure: x1 （事）は x2 の関心を惹く；  x2 は x1 に関心がある
+    notes:
+    - ・大意： 関心 ・読み方： シンリ  ・語呂合わせ： 心理 ・関連語： {zdile}, {kucli}, {manci}, {kurji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (abstraktion) intresserar/är intressant för x2.
+    notes:
+    - Använd x1 tu'a ett icke-specifikt intresse för ett objekt.
+    glosses:
+    - x1=intressant
+    - x2=intresserad
+  zh:
+    place structure: x1是有趣的/对x2来说；x1引起x2的兴趣；x2对x1感兴趣
+    notes:
+    - 在x1位使用tu'a来表示物体中被特指的有趣处；对……感兴趣= {selci'i}；参见 {zdile}, {kucli}, {manci}, {kurji}.
+    glosses:
+    - No glosses.

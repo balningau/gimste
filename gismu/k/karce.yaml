@@ -1,6 +1,85 @@
-Word: karce
-Rafsi: ''
-Definition: x1 is a car/automobile/truck/van [a wheeled motor vehicle] for carrying
-  x2, propelled by x3
-Notes: See also {carce}, {xislu}, {marce}, {sabnu}.
-Examples: None
+word: karce
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a car/automobile/truck/van [a wheeled motor vehicle] for
+      carrying x2, propelled by x3
+    notes:
+    - See also {carce}, {xislu}, {marce}, {sabnu}.
+    glosses:
+    - automobile
+    - car
+  de:
+    place structure: x1 ist ein Auto/Wagen/Lastwagen [ein Motorfahrzeug mit Rädern]
+      zum Transport von x2, angetrieben von x3
+    notes:
+    - No notes.
+    glosses:
+    - Auto
+  es:
+    place structure: x1 es un auto/automóvil/coche/camión/camioneta (vehículo con
+      ruedas motorizado) para pasajeros/carga x2, propelido/impulsado por x3
+    notes:
+    - No notes.
+    glosses:
+    - auto
+  ru:
+    place structure: x1 — автомобиль/грузовик (колесный моторизованный экипаж), для
+      перевозки x2 (чего), приводимый в движение x3 (чем)
+    notes:
+    - '{carce} (повозка), {xislu} (колесо), {marce} (транспорт), {sabnu} (кабина)'
+    glosses:
+    - автомобиль
+  en-simple:
+    place structure: x1 is a car or other vehicle for carrying x2 propelled by x3
+    notes:
+    - No notes.
+    glosses:
+    - a car
+    - x2=something carried in a car
+    - x3=a car engine
+  eo:
+    place structure: x1 estas aŭto/kamiono/kamioneto [rada motora veturilo] por porti
+      x2-on, pelita de x3
+    notes:
+    - Vidu ankaŭ {carce}, {xislu}, {marce}, {sabnu}.
+    glosses:
+    - aŭto
+  hu:
+    place structure: x1 egy autó/furgon [kerekeken közlekedő motoros jármű] x2 szállítására,
+      x3 üzemanyaggal
+    notes:
+    - '(Lásd még: {carce}, {xislu}, {marce}, {sabnu})'
+    glosses:
+    - autó
+  ja:
+    place structure: x1 は x2 （客／荷）・ x3 （原動力）の車
+    notes:
+    - x2 は運転手なども。 ・大意： 車 ・読み方： カルシェ  ・語呂合わせ： カーポルシェ ・関連語： {carce}, {xislu}, {marce},
+      {sabnu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en bil/automobil/kjøretøy [et behjulet motorkjøretøy] for
+      å frakte x2, som drives på x3
+    notes:
+    - Se også {carce}, {marce}, {sabnu} og {xislu}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to samochód/ciężarówka/ furgonetka [pojazd napędzany silnikiem]
+      do transportu x2, napędzany przez x3.
+    notes:
+    - Cf. {carce}, {xislu}, {marce}, {sabnu}, {sorprekarce}, {bevma'e}.
+    glosses:
+    - pojazd
+    - samochód
+  zh:
+    place structure: x1是汽车（轿车/卡车/房车等），用以运载x2，由x3驱动
+    notes:
+    - 参见 {carce}, {xislu}, {marce}, {sabnu}.
+    glosses:
+    - No glosses.

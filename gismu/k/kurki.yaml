@@ -1,5 +1,64 @@
-Word: kurki
-Rafsi: ''
-Definition: x1 is bitter/acrid/sharply disagreeable to observer/sense x2.
-Notes: See also {titla}, {slari}.
-Examples: None
+word: kurki
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is bitter/acrid/sharply disagreeable to observer/sense x2.
+    notes:
+    - See also {titla}, {slari}.
+    glosses:
+    - bitter
+  de:
+    place structure: x1 ist bitter/beißend/ätzend/scharf/unangenehm für Betrachter/Sinn
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - bitter
+  es:
+    place structure: x1 es amargo/acre para x2
+    notes:
+    - No notes.
+    glosses:
+    - amargo
+  ru:
+    place structure: x1 — горький/едкий/остро неприятный для наблюдателя/чувства x2
+    notes:
+    - '{titla} (сладкий), {slari} (кислый)'
+    glosses:
+    - горький
+    - x2=испытывающий вкус горечи
+  en-simple:
+    place structure: x1 is bitter or acrid to x2
+    notes:
+    - No notes.
+    glosses:
+    - something bitter
+    - x2=something to which something is bitter
+  eo:
+    place structure: x1 estas amara/akra/neagrabla por observanto/sento x2
+    notes:
+    - Vidu ankaŭ {titla}, {slari}.
+    glosses:
+    - amara
+  hu:
+    place structure: x1 keserű/fanyar/csípős/szúrós/erősen kellemetlen x2 megfigyelő/érzék
+      számára
+    notes:
+    - '(Lásd még: {titla}, {slari})'
+    glosses:
+    - keserű
+  ja:
+    place structure: x1 は x2 （者）にたいして苦い／ビター
+    notes:
+    - ・大意： 苦い（にがい） ・読み方： クルキ ・語呂合わせ： 苦 ・関連語： {titla}, {slari}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是苦的/苦涩的，对观测者/感官x2来说
+    notes:
+    - 参见 {titla}, {slari}.
+    glosses:
+    - No glosses.

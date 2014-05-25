@@ -1,6 +1,68 @@
-Word: pulni
-Rafsi: ''
-Definition: x1 is a pulley [tool] for performing action/function x2 rotating on axle
-  x3.
-Notes: See also {tutci}, {xislu}, {vraga}.
-Examples: None
+word: pulni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pulley [tool] for performing action/function x2 rotating
+      on axle x3.
+    notes:
+    - See also {tutci}, {xislu}, {vraga}.
+    glosses:
+    - pulley
+  de:
+    place structure: x1 ist ein Flaschenzug [Werkzeug] für Aktion/Funktion x2 und
+      dreht sich auf Achse x3
+    notes:
+    - No notes.
+    glosses:
+    - Flaschenzug
+  es:
+    place structure: x1 es una polea (herramienta) para acción/función x2 que rota
+      alrededor de eje x3
+    notes:
+    - No notes.
+    glosses:
+    - polea
+  ru:
+    place structure: x1 — блок/шкив/ворот/барабан, служащий/предназначенный для x2,
+      вращающийся на оси x3
+    notes:
+    - '{tutci} (инструмент), {xislu} (колесо), {vraga} (рычаг)'
+    glosses:
+    - x1=блок (устройство)
+  en-simple:
+    place structure: x1 is a pulley used for x2 rotating on x3
+    notes:
+    - No notes.
+    glosses:
+    - a pulley
+    - x2=a function of a pulley
+    - x3=an axle of a pulley
+  eo:
+    place structure: x1 estas pulio [ilo] por plenumi agon/funkcion x2 turniĝanta
+      ĉirkaŭ akso x3
+    notes:
+    - Vidu ankaŭ {tutci}, {xislu}, {vraga}.
+    glosses:
+    - pulio
+  hu:
+    place structure: x1 egy csiga x2 rendeltetéssel, x3 tengelyen
+    notes:
+    - '(Lásd még: {tutci}, {xislu}, {vraga})'
+    glosses:
+    - csiga (emelőcsiga)
+  ja:
+    place structure: x1 は x2 （機能／動作）の、 x3 （軸）を回る滑車装置
+    notes:
+    - ・大意： 滑車装置 ・読み方： プルゥニ  ・語呂合わせ： pulley, lun（車）　滑車、プールに ・関連語： {tutci}, {xislu},
+      {vraga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是滑轮，用以实现功能/作用x2，绕轴x3转动
+    notes:
+    - 参见 {tutci}, {xislu}, {vraga}.
+    glosses:
+    - No glosses.

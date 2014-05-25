@@ -1,7 +1,72 @@
-Word: terdi
-Rafsi: ted
-Definition: x1 is the Earth/the home planet of race x2; (adjective:) x1 is terrestrial/earthbound.
-Notes: (cf. {lunra}, {plini}, {solri}, {kensa}, {tsani}; {dertu} for ground, dirt,
-  except when used to express physical relative frame of reference E.g. on the ground,
-  the ground beneath us.  {tsani})
-Examples: None
+word: terdi
+rafsi:
+- ted
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the Earth/the home planet of race x2; (adjective:) x1 is
+      terrestrial/earthbound.
+    notes:
+    - (cf. {lunra}, {plini}, {solri}, {kensa}, {tsani}; {dertu} for ground, dirt,
+      except when used to express physical relative frame of reference E.g. on the
+      ground, the ground beneath us.  {tsani})
+    glosses:
+    - earth
+    - x1=terrestrial
+  de:
+    place structure: x1 ist die Erde/der Heimatplanet von Rasse x2; (Adjektiv:) x1
+      ist irdisch/terrestrisch
+    notes:
+    - No notes.
+    glosses:
+    - Erde
+  es:
+    place structure: x1 es la tierra/el planeta de raza x2
+    notes:
+    - Ver también {plini},  {solri}.
+    glosses:
+    - tierra
+  ru:
+    place structure: x1 — Земля/планета, принадлежащая разумным существам вида x2
+    notes:
+    - '{lunra} (луна), {plini} (планета), {solri} (солнце), {kensa} (космос), {tsani}
+      (небо); {dertu} (почва) для почвы, грунта, за исключением указания на физическую
+      систему отсчета (напр. «на земле», «земля под нами»), {tsani} (небо)'
+    glosses:
+    - x1=Земля (планета)
+  en-simple:
+    place structure: x1 is the home planet of x2
+    notes:
+    - No notes.
+    glosses:
+    - a home planet
+    - x2=a race of a home planet
+  eo:
+    place structure: x1 estas la tero/hejma planedo de raso x2; (adjektivo:) x1 estas
+      tera
+    notes:
+    - (kp. lunra, plini, solri, kensa, tsani; dertu por grundo, koto, krom kiam uzita
+      por esprimi fizika relativa referenckadro Ekz. sur la grundo, la grundo sub
+      niaj piedoj.  tsani)
+    glosses:
+    - tero
+  hu:
+    place structure: x1 a Föld / az anyabolygója x2 fajnak
+    notes:
+    - '(Lásd még: {lunra}, {plini}, {solri}, {kensa}, {tsani}, {dertu})'
+    glosses:
+    - Föld (bolygó)
+  ja:
+    place structure: x1 は x2 （生物種）の地球／主要惑星／母星
+    notes:
+    - 形容詞的に「地球外」にたいする「地球内」も。 ・大意： 地球 ・読み方： テルディ  ・関連語： {lunra}, {plini}, {solri},
+      {kensa}, {tsani}; {dertu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是种族x2的母星（默认为地球）；x1是关于地球的
+    notes:
+    - 参见 {lunra}, {plini}, {solri}, {kensa}, {tsani}, {dertu}.
+    glosses:
+    - No glosses.

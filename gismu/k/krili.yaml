@@ -1,7 +1,71 @@
-Word: krili
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of crystal of composition x2 in form/arrangement
-  x3.
-Notes: '$x_2$: composition including $x_2$, which need not be complete specification.  See
-  also {jemna}, {bisli}.'
-Examples: None
+word: krili
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of crystal of composition
+      x2 in form/arrangement x3.
+    notes:
+    - 'x2: composition including x2, which need not be complete specification.  See
+      also {jemna}, {bisli}.'
+    glosses:
+    - crystal
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Kristall der Zusammensetzung
+      x2 in Form/Anordnung x3
+    notes:
+    - No notes.
+    glosses:
+    - Kristall
+  es:
+    place structure: x1 es una cantidad de cristal de composición x2 en forma/arreglo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cristal
+  ru:
+    place structure: x1 — кристалл(ы) состава x2 в форме x3
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава) {jemna} (самоцвет),
+      {bisli} (лед)'
+    glosses:
+    - x1=кристалл
+    - x3=форма кристалла
+  en-simple:
+    place structure: x1 is quantity of crystal of composition x2 in arrangement x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of crystal
+    - x2=a composition of crystal
+    - x3=an arrangement of crystal
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el kristalo de konsisto
+      x2 en formo/aranĝo x3
+    notes:
+    - 'x2: konsisto inkluzivanta x2-on, kiu ne nepre estas kompleta specifado.  Vidu
+      ankaŭ {jemna}, {bisli}.'
+    glosses:
+    - kristalo
+  hu:
+    place structure: x1 bizonyos mennyiségű kristályos anyag (-ot tartalmaz/-ból készült),
+      x2 összetétellel, x3 alakban
+    notes:
+    - '(Lásd még: {jemna}, {bisli})'
+    glosses:
+    - kristály
+  ja:
+    place structure: x1 は x2 （成分）・ x3 （形状）の水晶／クリスタル
+    notes:
+    - ・大意： 水晶 ・読み方： クリルィ  ・語呂合わせ： kristal ・関連語： {jemna}, {bisli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是晶体，由物质x2构成，在形式/结构/排列x3上
+    notes:
+    - 物质构成中需包含x2，但x2位不需要指明全部构成；参见 {jemna}, {bisli}.
+    glosses:
+    - No glosses.

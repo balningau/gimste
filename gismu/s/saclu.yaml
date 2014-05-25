@@ -1,7 +1,70 @@
-Word: saclu
-Rafsi: ''
-Definition: x1 (me'o) is the [decimal/binary] equivalent of fractional x2 (me'o) in
-  base x3 (quantity).
-Notes: Conversion from fractions to decimal-point based notation. See also {namcu},
-  {frinu}.
-Examples: None
+word: saclu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (me'o) is the [decimal/binary] equivalent of fractional x2
+      (me'o) in base x3 (quantity).
+    notes:
+    - Conversion from fractions to decimal-point based notation. See also {namcu},
+      {frinu}.
+    glosses:
+    - decimal
+  de:
+    place structure: x1 (me'o) ist die [dezimale/binäre] Entsprechung des Bruches
+      x2 (me'o) bezüglich Basis x3 (Größe)
+    notes:
+    - No notes.
+    glosses:
+    - Dezimalzahl
+  es:
+    place structure: x1 es el equivalente (decimal/binario) de fracción x2 en base
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - decimal
+  ru:
+    place structure: x1 ({me'o}) есть (десятичный/двоичный/…) эквивалент дроби x2
+      ({me'o}) по основанию системы счисления x3 (число)
+    notes:
+    - Преобразование дробей в позиционную систему счисления {namcu} (число), {frinu}
+      (дробь)
+    glosses:
+    - x1=десятичный
+  en-simple:
+    place structure: x1 is the decimal equivalent of fraction x2 in base x3
+    notes:
+    - No notes.
+    glosses:
+    - a decimal value
+    - x2=a fraction equal to a decimal value
+    - x3=a base of a decimal value
+  eo:
+    place structure: x1 (me'o) estas [decimala/binara] ekvivalento de frakcio x2 (me'o)
+      en bazo x3 (kvanto)
+    notes:
+    - ŝanĝo de frakcioj al decimala notacio. Vidu ankaŭ {namcu}, {frinu}.
+    glosses:
+    - decimala
+  hu:
+    place structure: x1 kifejezés a számrendszer alapú tört megfelelője x2 tört alakú
+      kifejezésnek, x3 alapú számrendszerben
+    notes:
+    - '(Lásd még: {namcu}, {frinu})'
+    glosses:
+    - tizedestört
+  ja:
+    place structure: x1 （数）は x2 （分数）・ x3 （底）の小数
+    notes:
+    - ・大意： 小数 ・読み方： サシルゥ  ・語呂合わせ： decimal, ciaucu（小数） ・関連語： {namcu}, {frinu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（me'o，十进制/二进制数）是分数x2（me'o）的等值小数形式（具有相同的数值），以进制x3（数量）计数
+    notes:
+    - 将分数转换为等值的小数；参见 {namcu}, {frinu}.
+    glosses:
+    - No glosses.

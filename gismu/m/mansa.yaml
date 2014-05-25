@@ -1,5 +1,66 @@
-Word: mansa
-Rafsi: ''
-Definition: x1 satisfies evaluator x2 in property (ka)/state x3.
-Notes: See also {pajni}.
-Examples: None
+word: mansa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 satisfies evaluator x2 in property (ka)/state x3.
+    notes:
+    - See also {pajni}.
+    glosses:
+    - satisfy
+  de:
+    place structure: x1 befriedigt/genügt x2/stellt x2 zufrieden in Eigenschaft (ka)/Zustand
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - zufriedenstellen
+  es:
+    place structure: x1 satisface a x2 en propiedad x3
+    notes:
+    - No notes.
+    glosses:
+    - satisfacer
+  ru:
+    place structure: x1 удовлетворяет x2 (кого) в отношении свойства/состояния x3;
+      x2 удовлетворен/доволен x1/x3 (чем)
+    notes:
+    - '{pajni} (судить)'
+    glosses:
+    - x1=довольный
+    - x2=удовлетворяемый
+  en-simple:
+    place structure: x1 satisfies x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something satisfying
+    - x2=something satisfied
+    - x3=a property of satisfaction
+  eo:
+    place structure: x1 kontentigas/satigas taksanton x2 en eco (ka)/stato x3; x2
+      taksas x1-on kontentiga en eco x3
+    notes:
+    - Vidu ankaŭ {pajni}.
+    glosses:
+    - kontentigi
+  hu:
+    place structure: x1 teljesíti x2 feltételt x3 tulajdonságban/állapotban
+    notes:
+    - '(Lásd még: {pajni})'
+    glosses:
+    - teljesít
+  ja:
+    place structure: x1 は x2 （者）を x3 （性質）に関して満足させる；  x2 は x1 に満足している
+    notes:
+    - ・大意： 満足 ・読み方： マンサ  ・語呂合わせ： 満足満載 ・関連語： {pajni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1满足/具有估值x2，在性质（ka）/状态x3上
+    notes:
+    - 参见 {pajni}.
+    glosses:
+    - No glosses.

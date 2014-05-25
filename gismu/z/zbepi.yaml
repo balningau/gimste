@@ -1,7 +1,73 @@
-Word: zbepi
-Rafsi: zbe
-Definition: x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties
-  x3.
-Notes: Pallet (= {lafyzbe}).  See also {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana},
-  {cpana}, {loldi}, {sanli}.
-Examples: None
+word: zbepi
+rafsi:
+- zbe
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pedestal/base/stand/pallet supporting x2 (object/event),
+      of materials/properties x3.
+    notes:
+    - Pallet (= {lafyzbe}).  See also {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana},
+      {cpana}, {loldi}, {sanli}.
+    glosses:
+    - pedestal
+  de:
+    place structure: x1 ist ein Podest/Sockel/Ständer/Fundament und stützt/trägt x2
+      (Objekt/Ereignis), aus Materialien/mit Eigenschaften x3
+    notes:
+    - No notes.
+    glosses:
+    - Podest
+  es:
+    place structure: x1 es un pedestal/base/soporte de x2, de material x3
+    notes:
+    - No notes.
+    glosses:
+    - pedestal
+  ru:
+    place structure: x1 — подставка/пьедестал/стойка, поддерживающая x2, из материала/со
+      свойствами x3
+    notes:
+    - '{jamfu} (ступня), {jicmu} (основа), {jubme} (стол), {tuple} (нога), {ckana}
+      (кровать), {cpana} (на), {loldi} (пол [дно]), {sanli} (стоять)'
+    glosses:
+    - x1=подставка
+    - x2=кто поддерживается подставкой
+  en-simple:
+    place structure: x1 is a pedestal supporting x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a pedestal
+    - x2=something supported by pedestal
+    - x3=a material of a pedestal
+  eo:
+    place structure: x1 estas piedestalo/bazo/podio subtenanta x2-on (objekto/okazo),
+      el materialoj/ecoj x3
+    notes:
+    - Pallet (= {lafyzbe}).  Vidu ankaŭ {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana},
+      {cpana}, {loldi}, {sanli}.
+    glosses:
+    - piedestalo
+  hu:
+    place structure: x1 egy talapzat/piedesztál/állvány/raklap x2 tárgy/esemény számára,
+      x3 anyagból/tulajdonságokkal
+    notes:
+    - '(Lásd még: {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli})'
+    glosses:
+    - talapzat
+  ja:
+    place structure: x1 は x2 （対象／事象）を支える、材質／性質 x3 の土台／基礎／スタンド／台座
+    notes:
+    - 「tsani」と違い、とくに個別のものを支える台。 ・大意： 台座 ・読み方： ズベピ  ・語呂合わせ： ＜ずっとベッピンの台座＞ ・関連語： {jamfu},
+      {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是支撑x2（物/事）的支架/底座/基座/基础，由材料x3构成/具有性质x3
+    notes:
+    - 托盘= {lafyzbe}；参见 {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi},
+      {sanli}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,91 @@
-Word: cizra
-Rafsi: ciz
-Definition: x1 is strange/weird/deviant/bizarre/odd to x2 in property x3 (ka).
-Notes: Also alien, mysterious, deviant, queer, unusual, exotic.  See also {ranxi},
-  {rirci}, {fange}, {banli}.
-Examples: None
+word: cizra
+rafsi:
+- ciz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is strange/weird/deviant/bizarre/odd to x2 in property x3
+      (ka).
+    notes:
+    - Also alien, mysterious, deviant, queer, unusual, exotic.  See also {ranxi},
+      {rirci}, {fange}, {banli}.
+    glosses:
+    - strange
+  de:
+    place structure: x1 ist für x2 (Beobachter) seltsam/merkwürdig/eigenartig/abnormal/ungewöhnlich
+      in Eigenschaft x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - seltsam
+  es:
+    place structure: x1 es extraño/raro/bizarro para x2 en propiedad/aspecto x3
+    notes:
+    - Ver también {fange}.
+    glosses:
+    - extraño
+  fr:
+    place structure: x1 est étrange/bizarre/déviant/ selon x2 à propos de x3 (ka).
+    notes:
+    - Également étranger, mystérieux, louche, inhabituel, exotique. Voir aussi {ranxi},
+      {rirci}, {fange}, {banli}.
+    glosses:
+    - étrange
+  ru:
+    place structure: x1 — странный/необычный/ненормальный с точки зрения x2 в свойстве
+      x3 ({ka})
+    notes:
+    - 'Также: причудливый/чудной/экзотический/эксцентричный {ranxi} (парадоксальный),
+      {rirci} (нетипичный), {fange} (чужой [неродной]), {banli} (великий)'
+    glosses:
+    - странный
+  en-simple:
+    place structure: x1 is strange to x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something strange
+    - x2=something to which something is strange
+    - x3=a property of strangeness
+  eo:
+    place structure: x1 estas stranga/devia/bizara por x2 en eco x3 (ka)
+    notes:
+    - 'Ankaŭ: alieca, mistera, nekutima, ekzota.  Vidu ankaŭ {ranxi}, {rirci}, {fange},
+      {banli}.'
+    glosses:
+    - stranga
+  hu:
+    place structure: x1 furcsa/szokatlan/bizarr x2 számára, x3 tulajdonsága miatt
+    notes:
+    - '(Lásd még: {ranxi}, {rirci}, {fange}, {banli})'
+    glosses:
+    - furcsa
+  ja:
+    place structure: x1 は x2 にとって x3 （性質）に関して怪しい／おかしい／風変わり／不思議
+    notes:
+    - ・大意： 怪しい ・読み方： シズラ  ・語呂合わせ： 犯罪しづらい ・関連語： {ranxi}, {rirci}, {fange}, {banli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är konstig/egendomlig/besynnerlig/mysko/avvikande/bisarr/udda
+      för x2 i egenskap x3 (ka).
+    notes:
+    - Även främmande/exotisk/ovanlig; queer [sexualitet] (=cizra cinse).
+    glosses:
+    - avvikande (konstig)
+    - besynnerlig
+    - bisarr (konstig)
+    - egendomlig
+    - konstig
+    - mysko (vard. konstig)
+    - udda (konstig)
+    - x1=original (besynnerlig typ)
+    - x2=inskränkt (som tycker saker är konstiga/främmande)
+    - x3=sätt att vara besynnerlig
+  zh:
+    place structure: x1对x2来说是陌生的/奇怪的/怪异的，在性质x3（ka）上
+    notes:
+    - 也指神秘的/古怪的/变异的/诡异的/非同寻常的/与众不同的/外星球的/异域风情的等；参见 {ranxi}, {rirci}, {fange}, {banli}.
+    glosses:
+    - No glosses.

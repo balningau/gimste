@@ -1,6 +1,75 @@
-Word: denmi
-Rafsi: dem
-Definition: x1 is dense/concentrated/packed/intense in property x2 (ka) at location/locus
-  x3.
-Notes: See also {carmi}, {midju}, {viknu}.
-Examples: None
+word: denmi
+rafsi:
+- dem
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dense/concentrated/packed/intense in property x2 (ka) at
+      location/locus x3.
+    notes:
+    - See also {carmi}, {midju}, {viknu}.
+    glosses:
+    - dense
+  de:
+    place structure: x1 ist dicht/dicht gepackt/konzentriert in Eigenschaft x2 (ka)
+      an Ort/Stelle x3
+    notes:
+    - No notes.
+    glosses:
+    - dicht
+  es:
+    place structure: x1 es denso/concentrado/espeso en propiedad x2 en parte/región
+      x3
+    notes:
+    - Ver también {carmi}.
+    glosses:
+    - denso
+  ru:
+    place structure: x1 — плотный/густой/концентрированный/насыщенный/интенсивный
+      в отношении свойства x2 ({ka}) в точке/месте/участке x3
+    notes:
+    - '{carmi} (интенсивный), {midju} (середина), {viknu} (вязкий)'
+    glosses:
+    - x1=плотный
+  en-simple:
+    place structure: x1 is dense in property x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - something dense
+    - x2=a property of denseness
+    - x3=a location of density
+  eo:
+    place structure: x1 estas densa/koncentrita/pakita/intensa en eco x2 (ka) je loko
+      x3
+    notes:
+    - Vidu ankaŭ {carmi}, {midju}, {viknu}.
+    glosses:
+    - densa
+  hu:
+    place structure: x1 sűrű/tömény/erős/zsúfolt x2 tulajdonságában, x3 ponton/helyen
+    notes:
+    - '(Lásd még: {carmi}, {midju}, {viknu})'
+    glosses:
+    - sűrű
+  ja:
+    place structure: x1 は x2 （性質）に関して濃厚／高密度
+    notes:
+    - 「密集」も。その場合、箇所としてx3の追加も。また、「晦渋」も。 ・大意： 濃厚 ・読み方： デンミ  ・関連語： {carmi}, {midju},
+      {viknu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är tät/koncentrerad/(samman)packad/intensiv i egenskap x2
+      (ka) på plats/punkt x3.
+    notes:
+    - No notes.
+    glosses:
+    - tät (hög densitet)
+  zh:
+    place structure: x1是浓缩的/集中的，在性质x2（ka）上，处于位置/中心x3
+    notes:
+    - 参见 {carmi}, {midju}, {viknu}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,89 @@
-Word: cpedu
-Rafsi: cpe
-Definition: x1 requests/asks/petitions/solicits for x2 of/from x3 in manner/form x4.
-Notes: 'Also demand (= {mi''ecpe}); $x_4$ is a means of expression See also ve {cusku}.:
-  a request may be indicated in speech, in writing, or by an action (e.g. petitions
-  are often in writing, while begging/panhandling may be indicated by an action or
-  even demeanor).  (cf. {pikci}, te {preti}, te {frati}, se {spuda}, {danfu})'
-Examples: None
+word: cpedu
+rafsi:
+- cpe
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 requests/asks/petitions/solicits for x2 of/from x3 in manner/form
+      x4.
+    notes:
+    - 'Also demand (= {mi''ecpe}); x4 is a means of expression See also ve {cusku}.:
+      a request may be indicated in speech, in writing, or by an action (e.g. petitions
+      are often in writing, while begging/panhandling may be indicated by an action
+      or even demeanor).  (cf. {pikci}, te {preti}, te {frati}, se {spuda}, {danfu})'
+    glosses:
+    - ask (make a request)
+  de:
+    place structure: x1 erbittet/erbettelt x2 von x3 auf Art/in Form x4; x1 bittet
+      x3 um x2
+    notes:
+    - No notes.
+    glosses:
+    - erbitten
+  es:
+    place structure: x1 pide x2 a x3 en manera/forma x4
+    notes:
+    - Ver también {friti}.
+    glosses:
+    - pedir
+  ru:
+    place structure: x1 просит (о)/ходатайствует о/заказывает x2 (что) у x3 (кого)
+      в форме x4
+    notes:
+    - 'Также: требует: {mi''ecpe}; x4 есть способ выражения (ср. {ve} {cusku}): напр.
+      просьба м.б. выражена устно, письменно или действием (например, петиции чаще
+      всего подаются письменно, тогда как мольба или попрошайничество могут выражаться
+      поведением/взглядом) {pikci} (молить), {te} {preti} (вопрос), {te} {frati} (реагировать),
+      {se} {spuda} (отвечать [реагировать]), {danfu} (ответ)'
+    glosses:
+    - просить
+    - x1=просящий
+  en-simple:
+    place structure: x1 requests or asks for x2 from x3 in manner x4
+    notes:
+    - No notes.
+    glosses:
+    - a requester
+    - x2=something requested
+    - x3=a receiver of a request
+    - x4=a manner of requesting
+  eo:
+    place structure: x1 petas x2-on de x3 en maniero x4
+    notes:
+    - 'Ankaŭ: postuli (= {mi''ecpe}); x4 estas esprimrimedo Vidu ankaŭ ve {cusku}.:
+      peto povas esti indikita per parolo, skribo, aŭ ago (ekz. peticioj ofte estas
+      skribaj, dum almozpeto povas esti indikita per ago aŭ eĉ kondutmaniero/sinteno).  (kp.
+      pikci, te preti, te frati, se spuda, danfu)'
+    glosses:
+    - peti
+  hu:
+    place structure: x1 kéri/kérelmezi x2-t x3-tól, x4 modorban/formában
+    notes:
+    - '(Lásd még: {pikci}, {preti}, {frati}, {spuda}, {danfu})'
+    glosses:
+    - kér
+  ja:
+    place structure: x1 は x2 （事）を x3 （者）に x4 （態度／方法）で頼む
+    notes:
+    - 「依頼」「懇願」「注文」「呼ぶ」など。 ・大意： 頼む ・読み方： シペドゥ  ・関連語： {pikci}, {te} {preti}, {te} {frati},
+      {se} {spuda}, {danfu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 anhåller/ansöker/ber om/begär x2 av/från x3 på sätt/beteende/manér
+      x4.
+    notes:
+    - No notes.
+    glosses:
+    - anhålla (om något)
+    - ansöka
+    - be om
+    - begära (be om något)
+  zh:
+    place structure: x1请求/诉求/要求得到/发生x2，来自x3，使用方式x4
+    notes:
+    - 命令= {mi'ecpe}；x4是被使用的表达方式，参见 ve {cusku}；要求可能暗含在谈话/文本/行为之中（如：诉状/情愿通常是用文本，乞求则通常是行为甚至神态；参见
+      {pikci}, te {preti}, te {frati}, se {spuda}, {danfu}
+    glosses:
+    - No glosses.

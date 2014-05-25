@@ -1,5 +1,77 @@
-Word: fanta
-Rafsi: ''
-Definition: x1 prevents/keeps/stops/restrains/constrains event x2 from occurring.
-Notes: See also {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi}.
-Examples: None
+word: fanta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 prevents/keeps/stops/restrains/constrains event x2 from occurring.
+    notes:
+    - See also {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi}.
+    glosses:
+    - block (prevent from happening)
+    - prevent
+  de:
+    place structure: x1 verhindert, dass Ereignis x2 eintritt
+    notes:
+    - No notes.
+    glosses:
+    - verhindern
+  es:
+    place structure: x1 impide/evita que ocurra x2
+    notes:
+    - Ver también {gasnu},  {curmi},  {bandu},  {zunti}.
+    glosses:
+    - impedir
+  ru:
+    place structure: x1 не дает/препятствует/{мешает} произойти событию x2; x1 предотвращает
+      x2
+    notes:
+    - '{pinfu} (пленник), {bandu} (защищать), {zunti} (мешать [препятствовать]), {rinju}
+      (удерживаться [от чего-либо]), {jimte} (граница), {bapli} (заставлять), {rivbi}
+      (избегать [участи])'
+    glosses:
+    - мешать
+    - x1=мешающий
+  en-simple:
+    place structure: x1 prevents x2 from occurring
+    notes:
+    - No notes.
+    glosses:
+    - a preventer
+    - x2=a prevented event
+  eo:
+    place structure: x1 malhelpas/malebligas/evitigas okazon x2
+    notes:
+    - Vidu ankaŭ {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi}.
+    glosses:
+    - malebligi
+  hu:
+    place structure: x1 megakadályozza x2 esemény megtörténtét
+    notes:
+    - '(Lásd még: {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi})'
+    glosses:
+    - megakadályoz
+  ja:
+    place structure: x1 は x2 （事）の発生を防ぐ／抑える
+    notes:
+    - ・大意： 防ぐ ・読み方： ファンタ  ・語呂合わせ： ＜ファンたくさん＞ ・関連語： {pinfu}, {bandu}, {zunti}, {rinju},
+      {jimte}, {bapli}, {rivbi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 förhindrar/förekommer/förebygger/stoppar/stävjar/tyglar/hindrar
+      x2 från att hända/inträffa.
+    notes:
+    - No notes.
+    glosses:
+    - förekomma (från att hända/inträffa)
+    - stoppa (från att hända/inträffa)
+    - x1=förhindra (från att hända/inträffa)
+    - x2=förhindrad (från att hända/inträffa)
+  zh:
+    place structure: x1阻止/停止/抑制/束缚事件x2发生
+    notes:
+    - 参见 {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,71 @@
-Word: cutne
-Rafsi: cut
-Definition: x1 is a/the chest/thorax/upper trunk/[rib cage/breast] [body-part] of
-  x2.
-Notes: See also {cnebo}, {betfu}, {xadni}, {tanxe}.
-Examples: None
+word: cutne
+rafsi:
+- cut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the chest/thorax/upper trunk/[rib cage/breast] [body-part]
+      of x2.
+    notes:
+    - See also {cnebo}, {betfu}, {xadni}, {tanxe}.
+    glosses:
+    - chest
+  de:
+    place structure: x1 ist eine/die Brust/der Brustkorb/Oberkörper [Körperteil] von
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Brust
+  es:
+    place structure: x1 es un pecho/tórax (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — торс/верхняя часть туловища/грудная клетка/грудь (часть
+      тела) x2
+    notes:
+    - '{cnebo} (шея), {betfu} (живот), {xadni} (тело), {tanxe} (коробка)'
+    glosses:
+    - x1=торс
+  en-simple:
+    place structure: x1 is the chest of x2
+    notes:
+    - No notes.
+    glosses:
+    - a chest
+    - x2=something with a chest
+  eo:
+    place structure: x1 estas (la) brusto/torako/[ripo/mamo] [korpoparto] de x2
+    notes:
+    - Vidu ankaŭ {cnebo}, {betfu}, {xadni}, {tanxe}.
+    glosses:
+    - brusto
+  hu:
+    place structure: x1 egy/a mellkasa/tora [törzs felső fele] x2-nek
+    notes:
+    - '(Lásd még: {cnebo}, {betfu}, {xadni}, {tanxe})'
+    glosses:
+    - mellkas
+  ja:
+    place structure: x1 は x2 （本体）の胸／胸腔
+    notes:
+    - ・大意： 胸 ・読み方： シュトネ  ・関連語： {cnebo}, {betfu}, {xadni}, {tanxe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är bröst(korg)/thorax/övre del av bål [kroppsdel] av kropp
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - bröst (thorax)
+  zh:
+    place structure: x1是x2的胸膛/胸腔/胸部/上肢体干
+    notes:
+    - 参见 {cnebo}, {betfu}, {xadni}, {tanxe}.
+    glosses:
+    - No glosses.

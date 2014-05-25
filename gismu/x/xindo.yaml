@@ -1,6 +1,66 @@
-Word: xindo
-Rafsi: xin
-Definition: x1 reflects Hindi language/culture/religion in aspect x2.
-Notes: Defaults to not include Urdu; Indian (Bharat) nationality may be implied (when
-  constrained by {xingu'e}).  See also {srito}, {xurdo}, {bengo}.
-Examples: None
+word: xindo
+rafsi:
+- xin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Hindi language/culture/religion in aspect x2.
+    notes:
+    - Defaults to not include Urdu; Indian (Bharat) nationality may be implied (when
+      constrained by {xingu'e}).  See also {srito}, {xurdo}, {bengo}.
+    glosses:
+    - Hindi
+  de:
+    place structure: x1 repräsentiert Hindi-Sprache/-Kultur/-Religion in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - Hindi
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma/religión hindú en aspecto
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - hindú
+  ru:
+    place structure: x1 — хинди в аспекте x2
+    notes:
+    - По умолчанию не включает урду; может неявно предполагаться индийская (бхарат)
+      национальность (когда речь идет о [xingu'e]) {srito} (санскрит), {xurdo} (урду),
+      {bengo} (бенгальский)
+    glosses:
+    - x1=хинди
+  en-simple:
+    place structure: x1 is Hindi in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Hindi
+    - x2=a Hindi aspect
+  eo:
+    place structure: x1 montras hindan lingvon/kulturon/religion laŭ aspekto x2
+    notes:
+    - Defaŭlte ne inkluzivas la urduan; bharata naciecon povas esti implicita (kiam
+      limigita per xingu'e).  Vidu ankaŭ {srito}, {xurdo}, {bengo}.
+    glosses:
+    - hinda
+  hu:
+    place structure: x1 hindu/indiai kultúrát/nyelvet/vallást tükröz x2 tekintetben
+    notes:
+    - 'Alapesetben nem tartalmazza az urdu kultúrát (Lásd még: {srito}, {xurdo}, {bengo})'
+    glosses:
+    - hindu
+  ja:
+    place structure: x1 は x2 （性質面）に関してヒンディー／ヒンドゥー系（言語／文化／民族）
+    notes:
+    - ・大意： ヒンディー ・読み方： クィンド  ・関連語： {srito}, {xurdo}, {bengo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于印地语的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 默认不包括乌尔都；{xingu'e}暗示了印度（巴拉特）国籍；参见 {srito}, {xurdo}, {bengo}.
+    glosses:
+    - No glosses.

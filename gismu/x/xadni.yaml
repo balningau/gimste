@@ -1,5 +1,63 @@
-Word: xadni
-Rafsi: xad
-Definition: x1 is a/the body/corpus/corpse of x2; (adjective:) x1 is corporal/corporeal.
-Notes: See also {menli}, {pruxi}, {sluji}, {mulno}, {cutne}.
-Examples: None
+word: xadni
+rafsi:
+- xad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the body/corpus/corpse of x2; (adjective:) x1 is corporal/corporeal.
+    notes:
+    - See also {menli}, {pruxi}, {sluji}, {mulno}, {cutne}.
+    glosses:
+    - body
+  de:
+    place structure: x1 ist der Körper/Leichnam von x2; (Adjektiv:) x1 ist körperlich/leiblich
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es un cuerpo/cadaver de x2
+    notes:
+    - No notes.
+    glosses:
+    - cuerpo
+  ru:
+    place structure: x1 — тело/корпус x2
+    notes:
+    - '{menli} (разум), {pruxi} (дух), {sluji} (мышца), {mulno} (законченный), {cutne}
+      (торс)'
+    glosses:
+    - тело
+  en-simple:
+    place structure: x1 is the body or corpse of x2
+    notes:
+    - No notes.
+    glosses:
+    - a body
+    - x2=something with a body
+  eo:
+    place structure: x1 estas (la) korpo/kadavro de x2; (adjektivo:) x1 estas korpa
+    notes:
+    - (kp. menli, prŭi, sluji, mulno, cutne)
+    glosses:
+    - korpo
+  hu:
+    place structure: x1 egy/a teste x2-nek
+    notes:
+    - '(Lásd még: {menli}, {pruxi}, {sluji}, {mulno}, {cutne})'
+    glosses:
+    - test (élőlényé)
+  ja:
+    place structure: x1 は x2 の肉体；  x1 は身体的
+    notes:
+    - ・大意： 肉体 ・読み方： クァドニ  ・語呂合わせ： 過度に肉体を使う ・関連語： {menli}, {pruxi}, {sluji}, {mulno},
+      {cutne}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的身体/肉体/尸身；x1是关于肉体的
+    notes:
+    - 参见 {menli}, {pruxi}, {sluji}, {mulno}, {cutne}.
+    glosses:
+    - No glosses.

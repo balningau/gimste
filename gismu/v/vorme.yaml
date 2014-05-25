@@ -1,6 +1,73 @@
-Word: vorme
-Rafsi: vor, vro
-Definition: x1 is a doorway/gateway/access way between x2 and x3 of structure x4.
-Notes: 'Note: emphasis on route nature; solid door (= {vrogai}/{vrobi''u}/{vrozu''itci}).  See
-  also {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu}, {kuspe}.'
-Examples: None
+word: vorme
+rafsi:
+- vor
+- vro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a doorway/gateway/access way between x2 and x3 of structure
+      x4.
+    notes:
+    - 'Note: emphasis on route nature; solid door (= {vrogai}/{vrobi''u}/{vrozu''itci}).  See
+      also {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu}, {kuspe}.'
+    glosses:
+    - door
+  de:
+    place structure: x1 ist ein Eingang/Zugang(sweg) zwischen x2 und x3 von Struktur
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - Tür
+  es:
+    place structure: x1 es una puerta/entrada/salida entre x2 y x3 de estructura x4
+    notes:
+    - Ver también {bitmu}.
+    glosses:
+    - puerta
+  ru:
+    place structure: x1 — ворота/проход/дверной пролет между x2 и x3 в сооружении
+      x4
+    notes:
+    - 'Акцент на соединении, а не разъединении; дверь как преграда/перегородка: {vrogai}/{vrobi''u}/{vrozu''itci}
+      {canko} (окно), {ganlo} (закрытый), {kalri} (открытый), {murta} (занавес), {pagre}
+      (проникать [проходить сквозь]), {bitmu} (стена), {kuspe} (простираться)'
+    glosses:
+    - x1=дверь
+  en-simple:
+    place structure: x1 is a doorway between x2 and x3 in structure x4
+    notes:
+    - No notes.
+    glosses:
+    - a doorway
+    - x2=something divided by a doorway
+    - x3=something a doorway is between
+    - x4=a structure with a doorway
+  eo:
+    place structure: x1 estas pordo/enirejo inter x2 kaj x3 de strukturo x4
+    notes:
+    - 'Rimarku: emfazo sur vojeco; solida pordo (= vrogai/vrobi''u/vrozu''itci).  Vidu
+      ankaŭ {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu}, {kuspe}.'
+    glosses:
+    - pordo
+  hu:
+    place structure: x1 egy ajtó/kapu [-nyílás] x2 és x3 között, x4 épületszerkezetben
+    notes:
+    - '(Lásd még: {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu}, {kuspe})'
+    glosses:
+    - ajtó
+  ja:
+    place structure: x1 は x2 ・ x3 間の、 x4 （構造体）の扉／戸口／出入口／門戸／ドア
+    notes:
+    - ・大意： 扉 ・読み方： ヴォルメ  ・関連語： {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu},
+      {kuspe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2与x3之间的门，属于结构/建筑物x4
+    notes:
+    - 实心门={vrogai}/{vrobi'u}/{vrozu'itci}；参见 {canko}, {ganlo}, {kalri}, {murta}, {pagre},
+      {bitmu}, {kuspe}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: dadjo
-Rafsi: daj
-Definition: x1 pertains to the Taoist culture/ethos/religion in aspect x2.
-Notes: See also {lijda}, {jegvo}.
-Examples: None
+word: dadjo
+rafsi:
+- daj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pertains to the Taoist culture/ethos/religion in aspect x2.
+    notes:
+    - See also {lijda}, {jegvo}.
+    glosses:
+    - Taoist
+  de:
+    place structure: x1 repräsentiert taoistische Kultur/Ethos/Religion in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Tao
+  es:
+    place structure: x1 refleja cultura/religión taoísta en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - taoísta
+  ru:
+    place structure: x1 — даоистский в аспекте x2
+    notes:
+    - '{lijda} (религия), {jegvo} (иеговистский)'
+    glosses:
+    - даоистский
+  en-simple:
+    place structure: x1 is Taoist in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Taoist
+    - x2=a Taoist aspect
+  eo:
+    place structure: x1 apartenas al la taoisma kulturo/etoso/religio en aspekto x2
+    notes:
+    - Vidu ankaŭ {lijda}, {jegvo}.
+    glosses:
+    - taoisma
+  hu:
+    place structure: x1 a taoista kultúrát/vallást/szellemiséget tükrözi x2 tekintetben
+    notes:
+    - '(Lásd még: {lijda}, {jegvo})'
+    glosses:
+    - taoista
+  ja:
+    place structure: x1 は x2 （性質面）に関して道教／タオイズム系
+    notes:
+    - ・大意： 道教 ・読み方： ダヂョ ・関連語： {lijda}, {jegvo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 tillhör taoistisk religion/kultur/ethos i aspekt x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=taoist
+    - x2=taoistisk kulturell aspekt
+  zh:
+    place structure: x1是跟道教/道家/道文化相关的，在x2方面
+    notes:
+    - 参见 {lijda}, {jegvo}.
+    glosses:
+    - No glosses.

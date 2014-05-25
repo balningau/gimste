@@ -1,5 +1,60 @@
-Word: mapni
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of cotton [type of fabric/material].
-Notes: See also {bukpu}.
-Examples: None
+word: mapni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of cotton [type of fabric/material].
+    notes:
+    - See also {bukpu}.
+    glosses:
+    - cotton
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Baumwolle/Watte [Materialstruktur]
+    notes:
+    - No notes.
+    glosses:
+    - Baumwolle
+  es:
+    place structure: x1 es una cantidad de algodón
+    notes:
+    - No notes.
+    glosses:
+    - algodón
+  ru:
+    place structure: x1 — хлопок (материал ткани); x1 содержит хлопок
+    notes:
+    - '{bukpu} (ткань [текстиль])'
+    glosses:
+    - x1=хлопок (волокно)
+  en-simple:
+    place structure: x1 is a quantity of cotton
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of cotton
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el kotono [tipo de ŝtofo/materialo]
+    notes:
+    - Vidu ankaŭ {bukpu}.
+    glosses:
+    - kotono
+  hu:
+    place structure: x1 bizonyos mennyiségű gyapjú/pamut (-ot tartalmaaz/-ból készült)
+    notes:
+    - '(Lásd még: {bukpu})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は綿／コットン
+    notes:
+    - ・大意： 綿 ・読み方： マプニ  ・関連語： {bukpu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是棉/棉制的
+    notes:
+    - 参见 {bukpu}.
+    glosses:
+    - No glosses.

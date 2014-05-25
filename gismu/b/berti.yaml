@@ -1,6 +1,94 @@
-Word: berti
-Rafsi: ber
-Definition: x1 is to the north/northern side [right-hand-rule pole] of x2 according
-  to frame of reference x3.
-Notes: See also {snanu}, {stici}, {stuna}, {farna}.
-Examples: None
+word: berti
+rafsi:
+- ber
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the north/northern side [right-hand-rule pole] of x2
+      according to frame of reference x3.
+    notes:
+    - See also {snanu}, {stici}, {stuna}, {farna}.
+    glosses:
+    - north
+  de:
+    place structure: x1 ist im Norden/auf der nördlichen Seite/liegt nördlich von
+      x2 gemäß Bezugssystem x3
+    notes:
+    - No notes.
+    glosses:
+    - Norden
+  es:
+    place structure: x1 está al norte/septentrional de x2 según marco de referencia
+      x3
+    notes:
+    - Ver también {snanu},  {stuna},  {stici}.
+    glosses:
+    - norte
+  fr:
+    place structure: x1 est au nord de/septentional à x2 selon le référentiel x3.
+    notes:
+    - Voir également {snanu}, {stici}, {stuna}, {farna}.
+    glosses:
+    - nord
+    - septentional
+  ru:
+    place structure: x1 находится к северу (полюс, определяемый по правилу буравчика/правой
+      руки) от x2 согласно системе отсчета x3
+    notes:
+    - '{snanu} (юг), {stici} (запад), {stuna} (восток), {farna} (направление)'
+    glosses:
+    - x1=северный
+  en-simple:
+    place structure: x1 is to the northern side of x2 in reference frame x3
+    notes:
+    - No notes.
+    glosses:
+    - something north
+    - x2=something to which something is north
+    - x3=a northness reference frame
+  eo:
+    place structure: x1 estas norde de [poluso laŭ dekstramana regulo] x2 laŭ referenckadro
+      x3
+    notes:
+    - Vidu ankaŭ {snanu}, {stici}, {stuna}, {farna}.
+    glosses:
+    - nordo
+  hu:
+    place structure: x1 az északi oldala x2-nek/északra van x2-től x3 viszonyítási
+      rendszerben
+    notes:
+    - '(Lásd még: {snanu}, {stici}, {stuna}, {farna})'
+    glosses:
+    - észak
+  ja:
+    place structure: x1 は x2 にたいして x3 （照合枠）で北方／北側
+    notes:
+    - ・大意： 北 ・読み方： ベルティ  ・語呂合わせ：  bei(北), north ・関連語： {snanu}, {stici}, {stuna}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er nordlig/nord for/på den nordlige siden av x2 i følge referansepunkt
+      x3
+    notes:
+    - Se også {snanu}, {stici}, {stuna}, {farna}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är norr om/norrpå/på norra sidan av x2 enligt referensram
+      x3.
+    notes:
+    - Se även {snanu}, {stici}, {stuna}, {farna}, {be'a}, {mo'ibe'a}.
+    glosses:
+    - nordlig
+    - norr
+    - norrpå
+    - x1=nord
+    - x2=har till norr
+    - x3=norr referensram
+  zh:
+    place structure: x1是在x2北方/x1是北方，方向的参考系为x3
+    notes:
+    - 参见 {snanu}, {stici}, {stuna}, {farna}
+    glosses:
+    - No glosses.

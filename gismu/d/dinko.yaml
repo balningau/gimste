@@ -1,6 +1,79 @@
-Word: dinko
-Rafsi: di'o
-Definition: x1 is a nail/tack [pointed driven/frictional fastener] of type/size x2
-  (ka), made of material x3.
-Notes: ($x_2$ also can be ni abstraction); See also {pijne}, {lasna}.
-Examples: None
+word: dinko
+rafsi:
+- di'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a nail/tack [pointed driven/frictional fastener] of type/size
+      x2 (ka), made of material x3.
+    notes:
+    - (x2 also can be ni abstraction); See also {pijne}, {lasna}.
+    glosses:
+    - nail
+  de:
+    place structure: x1 ist ein Nagel/eine Reißzwecke [spitze, eingetriebene oder
+      mit Reibung arbeitende Halterung] von Typ/Größe x2 (ka) und besteht aus Material
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Nagel
+  es:
+    place structure: x1 es un clavo de tipo/tamaño x2, hecho de material x3
+    notes:
+    - No notes.
+    glosses:
+    - clavo
+  ru:
+    place structure: x1 — гвоздь/канцелярская кнопка (заостренное крепежное приспособление)
+      типа/размера x2 ({ka}), сделанный из материала x3
+    notes:
+    - x2 также м.б. абстракцией типа {ni} {pijne} (булавка), {lasna} (прикреплять)
+    glosses:
+    - x1=гвоздь
+  en-simple:
+    place structure: x1 is a nail or tack of type x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a nail
+    - x2=a type of nail
+    - x3=a material of a nail
+  eo:
+    place structure: x1 estas najlo [pinta pelita/frikcia fiksilo] de tipo/grando
+      x2 (ka), el materialo x3
+    notes:
+    - (x2 povas esti ankaŭ abstraktaĵo ni); Vidu ankaŭ {pijne}, {lasna}.
+    glosses:
+    - najlo
+  hu:
+    place structure: x1 egy szög/szegecs [hegyes, a súrlódást kihasználó kötőelem]
+      az x2 típusból/méretből
+    notes:
+    - '(Lásd még: {pijne}, {lasna})'
+    glosses:
+    - szög (kötőelem)
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （特性）の鋲／釘
+    notes:
+    - 打ち込む留め具全般。「画鋲」も。 ・大意： 鋲 ・読み方： ディンコ  ・関連語： {pijne}, {lasna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är spik/nubb/(häft)stift [spetsig friktionsbaserad fästanordning]
+      av typ/storlek x2 (ka), gjord av material x3.
+    notes:
+    - No notes.
+    glosses:
+    - nubb
+    - stift (såsom häftstift)
+    - x1=spik
+    - x2=spiksort (storlek/form etc)
+    - x3=spikmaterial
+  zh:
+    place structure: x1是钉，具有大小/尺寸x2（ka），由材料x3构成
+    notes:
+    - x2也可能是ni的谓词子句；参见 {pijne}, {lasna}.
+    glosses:
+    - No glosses.

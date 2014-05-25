@@ -1,9 +1,99 @@
-Word: cabra
-Rafsi: ca'a
-Definition: x1 is apparatus/mechanism/device/equipment for function x2 controlled/[triggered]
-  by x3 (agent).
-Notes: Form determined by/from function; does not imply automated/automatic action
-  - requires an external agent/trigger (a minji may be a zmiku cabra if it requires
-  an external agent to trigger or control the functions that it performs automatically).  (cf.
-  {tutci}, {minji}, {finti}; {girzu}, {ganzu} for organizational apparatus, {pilno})
-Examples: None
+word: cabra
+rafsi:
+- ca'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is apparatus/mechanism/device/equipment for function x2 controlled/[triggered]
+      by x3 (agent).
+    notes:
+    - Form determined by/from function; does not imply automated/automatic action
+      - requires an external agent/trigger (a minji may be a zmiku cabra if it requires
+      an external agent to trigger or control the functions that it performs automatically).  (cf.
+      {tutci}, {minji}, {finti}; {girzu}, {ganzu} for organizational apparatus, {pilno})
+    glosses:
+    - apparatus
+  de:
+    place structure: x1 ist ein Gerät/Mechanismus/Apparat/eine Vorrichtung für Funktion
+      x2, kontrolliert/[ausgelöst] von x3 (Handelnder)
+    notes:
+    - No notes.
+    glosses:
+    - Gerät
+  es:
+    place structure: x1 es un aparato/mecanismo/artefacto/ingenio con función x2 controlado
+      por x3
+    notes:
+    - Ver también {tutci},  {minji}.
+    glosses:
+    - aparato
+  ru:
+    place structure: x1 — аппарат/механизм/оборудование/устройство, выполняющий функцию
+      x2 и управляемый/{запускаемый} x3 (кем)
+    notes:
+    - Форма определяется функцией; автоматическое действие не предполагается — нуждается
+      в воздействии извне ({minji} можно назвать {zmiku} {cabra}, если необходимо
+      внешнее воздействие для запуска или контроля за функциями, которые выполняются
+      автоматически) {tutci} (инструмент), {minji} (машина [автомат, механизм]), {finti}
+      (сочинять); {girzu} (группа), {ganzu} (организовывать [упорядочивать]) для организационного
+      аппарата, {pilno} (использовать)
+    glosses:
+    - x1=аппарат
+    - x2=функция аппарата
+  en-simple:
+    place structure: x1 is apparatus for function x2 controlled by x3
+    notes:
+    - No notes.
+    glosses:
+    - an apparatus
+    - x2=a function of an apparatus
+    - x3=a controller of an apparatus
+  eo:
+    place structure: x1 estas aparato/mehhanismo/ekipaĵo por funkcio x2 kontrolata/[lanĉita]
+      de x3 (aganto)
+    notes:
+    - Formon determinas funkcio; ne implicas aŭtomatan agon - bezonas eksteran aganton/lanĉanton
+      (minji povas esti zmiku cabra se ĝi bezonas eksteran aganton por lanĉi aŭ regi
+      la funkciojn kiujn ĝi plenumas aŭtomate).  (kp. tutci, minji, finti; girzu,
+      ganzu por organiza aparato, pilno)
+    glosses:
+    - aparato
+  hu:
+    place structure: x1 egy gépezet/készülék/berendezés/felszerelés/műszer x2 célra,
+      x3 [cselekvő] által vezérelve
+    notes:
+    - 'Nem feltétlenül utal automatikára (Lásd még: {tutci}, {minji}, {finti}; {girzu},
+      {ganzu}, {pilno})'
+    glosses:
+    - gépezet
+  ja:
+    place structure: x1 は x2 （機能）・ x3 （操縦者）の装置／デバイス
+    notes:
+    - 「minji」と違い、自動性が含意されない。 ・大意： 装置 ・読み方： シャブラ  ・語呂合わせ： ＜社のブランド＞, apparatus ・関連語：
+      {tutci}, {minji}, {finti}; {girzu}, {ganzu}, {pilno}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en apparat/mekanism/anordning/utrustning/[manick]med funktion
+      x2 kontrollerad/[utlöst] av x3 (agent).
+    notes:
+    - Form bestäms utifrån funktion; förutsätter inte automatiserad funktion (en {minji}
+      kan vara en zmiku cabra om det kräver en extern agent för att utlösa eller kontrollera
+      de funktioner som den utför automatiskt).
+    glosses:
+    - apparat
+    - apparatur
+    - mackapär
+    - manick
+    - mekanism
+    - utrustning (artefakt som krävs för ett visst ändamål)
+    - x1=anordning (mekanism/apparat)
+    - x2=anordningsfunktion
+    - x3=operatör (för mekanism/apparat)
+  zh:
+    place structure: x1是机械装置/设备/装备，为了功能x2，由x3控制
+    notes:
+    - 参见 {tutci}, {minji}, {finti}; {girzu}, {ganzu}，{pilno}
+    glosses:
+    - No glosses.

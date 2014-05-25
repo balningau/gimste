@@ -1,6 +1,70 @@
-Word: fepri
-Rafsi: ''
-Definition: 'x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory
-  apparatus/bellows].'
-Notes: Also (adjective:) $x_1$ is pulmonary.  See also {pambe}, {vasxu}.
-Examples: None
+word: fepri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory
+      apparatus/bellows].'
+    notes:
+    - Also (adjective:) x1 is pulmonary.  See also {pambe}, {vasxu}.
+    glosses:
+    - lung
+  de:
+    place structure: 'x1 ist eine/die Lunge [Körperteil] von x2; [im übertragenen
+      Sinne: Atmung/Blasebalg]'
+    notes:
+    - No notes.
+    glosses:
+    - Lunge
+  es:
+    place structure: x1 es un pulmón (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - pulmón
+  ru:
+    place structure: x1 — легкое (часть тела) x2 (кого)
+    notes:
+    - 'Метафора: дыхательный аппарат/мехи {pambe} (насос), {vasxu} (дышать)'
+    glosses:
+    - лёгкое (орган)
+  en-simple:
+    place structure: x1 is the lung of x2
+    notes:
+    - No notes.
+    glosses:
+    - a lung
+    - x2=something with a lung
+  eo:
+    place structure: 'x1 estas pulmo [korpoparto] de x2; [metafore: spira aparato/blovilo]'
+    notes:
+    - (kp. pambe, vaŝu)
+    glosses:
+    - pulmo
+  hu:
+    place structure: x1 egy/a tüdeje x2-nek
+    notes:
+    - '(Lásd még: {pambe}, {vasxu})'
+    glosses:
+    - tüdő
+  ja:
+    place structure: x1 は x2 （本体）の肺／呼吸器官
+    notes:
+    - ・大意： 肺 ・読み方： フェプリ  ・関連語： {pambe}, {vasxu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en lunga/lungan [kroppsdel] av x2.
+    notes:
+    - x1 är lung-.
+    glosses:
+    - x1=lunga
+    - x2=lungförsedd
+  zh:
+    place structure: x1是x2的肺
+    notes:
+    - 也指：x1是有关于肺的；参见 {pambe}, {vasxu}.
+    glosses:
+    - No glosses.

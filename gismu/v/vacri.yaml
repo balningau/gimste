@@ -1,6 +1,78 @@
-Word: vacri
-Rafsi: var
-Definition: x1 is a quantity of air/normally-gaseous atmosphere of planet x2, of composition
-  including x3.
-Notes: See also {gapci}, {kijno}, {trano}, {tumla}, {vasxu}, {xamsi}.
-Examples: None
+word: vacri
+rafsi:
+- var
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of air/normally-gaseous atmosphere of planet
+      x2, of composition including x3.
+    notes:
+    - See also {gapci}, {kijno}, {trano}, {tumla}, {vasxu}, {xamsi}.
+    glosses:
+    - air
+  de:
+    place structure: x1 ist eine Menge an Luft/gewöhnliche Atmosphäre von Planet x2,
+      mit Zusammensetzung unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Luft
+  es:
+    place structure: x1 es una cantidad de aire/atmósfera gaseosa de planeta x2, de
+      composición x3
+    notes:
+    - Ver también {gapci}.
+    glosses:
+    - aire
+  ru:
+    place structure: x1 — воздух/атмосфера планеты x2, состава x3 (не обязательно
+      полное описание состава)
+    notes:
+    - 'Атмосфера планеты: {varxamsi} {gapci} (газ), {kijno} (кислород), {trano} (азот),
+      {tumla} (суша), {vasxu} (дышать), {xamsi} (море)'
+    glosses:
+    - воздух
+    - x3=состав воздуха
+  en-simple:
+    place structure: x1 is a quantity of air of planet x2 composed of x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of air
+    - x2=a planet with air
+    - x3=a composition of air
+  eo:
+    place structure: x1 estas kvanto da aero/ĝenerale gasa atmosfero de planedo x2,
+      de konsisto enhavanta x3-on
+    notes:
+    - (kp. gapci, kijno, trano, tumla, vaŝu, xamsi)
+    glosses:
+    - aero
+  hu:
+    place structure: x1 bizonyos mennyiségű levegő/gáznemű atmoszférája x2 bolygónak,
+      x3 összetétellel
+    notes:
+    - '(Lásd még: {gapci}, {kijno}, {trano}, {tumla}, {vasxu}, {xamsi})'
+    glosses:
+    - levegő
+  ja:
+    place structure: x1 は x2 （領域／惑星）・ x3 （成分）の空気／大気
+    notes:
+    - ・大意： 空気 ・読み方： ヴァシリ  ・語呂合わせ： taiki 大気 ・関連語： {gapci}, {kijno}, {trano}, {tumla},
+      {vasxu}, {xamsi}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een hoeveelheid lucht uit x2, van samenstelling inclusief
+      x3.
+    notes:
+    - 'Zie ook : {gapci}, {kijno}, {trano}, {tumla}, {vasxu} en {xamsi}.'
+    glosses:
+    - lucht
+  zh:
+    place structure: x1是行星x2上的空气/大气层，具有组分x3
+    notes:
+    - 参见 {gapci}, {kijno}, {trano}, {tumla}, {vasxu}, {xamsi}.
+    glosses:
+    - No glosses.

@@ -1,9 +1,98 @@
-Word: nanvi
-Rafsi: nav
-Definition: x1 is a billionth/thousand-millionth [$10^{-9}$] of x2 in dimension/aspect
-  x3 (default is units).
-Notes: See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
-  {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
-  {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi},
-  {xecto}, {xexso}, {zepti}, {zetro}
-Examples: None
+word: nanvi
+rafsi:
+- nav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a billionth/thousand-millionth [$10^{-9}$] of x2 in dimension/aspect
+      x3 (default is units).
+    notes:
+    - See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro}
+    glosses:
+    - 1E-9
+    - nano
+  de:
+    place structure: 'x1 ist ein Milliardstel [$10^{-9}$] von x2 in Dimension/Aspekt
+      x3 (Standard: Einheiten)'
+    notes:
+    - No notes.
+    glosses:
+    - 1E-9
+  es:
+    place structure: x1 es una milmillonésima (1E-9) de x2 en dimensión/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - nano
+  ru:
+    place structure: x1 составляет миллиардную долю [$10^{-9}$] x2 в аспекте/измерении
+      x3 (по умолчанию единицы)
+    notes:
+    - '{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno}
+      (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин),
+      {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi}
+      (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo}
+      (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri}
+      (микро), {milti} (милли), {petso} (пета), {picti} (пико), {terto} (тера), {xatsi}
+      (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - x1=1E-9
+  en-simple:
+    place structure: x1 is a billionth or 10 to the negative ninth of x2 in dimension
+      or aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - a billionth
+    - x2=something with billionths
+    - x3=a billionth aspect
+  eo:
+    place structure: x1 estas miliardono [1x10**-9] de x2 laŭ dimensio/aspekto x3
+      (defaŭlte unuoj)
+    notes:
+    - (kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli,
+      centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti,
+      petso, picti, terto, xatsi, xecto, xexso, zepti, zetro)
+    glosses:
+    - 1E-9 nano-
+  hu:
+    place structure: x1 a milliárdod ($10^{-9}$) része x2-nek x3 méretében/szempontból
+    notes:
+    - '(Lásd még: {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo},
+      {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi},
+      {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - nano-
+  ja:
+    place structure: x1 は x2 の、 x3 （性質）におけるナノ／十億分の一 ［1 x1 0**-9］
+    notes:
+    - ・大意： ナノ ・読み方： ナンヴィ  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro},
+      {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en miljardedel [$10^{-9}$] av x2 i dimension/aspekt x3
+      (enheter om inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - 1E-9
+    - biljontedel (korta skalan (ej Sverige; USA/modern England))
+    - miljardedel (långa skalan (Sverige m.fl.))
+    - nano- (SI-prefix)
+  zh:
+    place structure: x1是百万分之一/十的负九次方个/份[$10^{-9}$]的x2，在x3方面（默认为计量单位）
+    notes:
+    - 参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu},
+      {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}
+    glosses:
+    - No glosses.

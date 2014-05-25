@@ -1,6 +1,65 @@
-Word: snanu
-Rafsi: nan
-Definition: x1 is to the south/southern side of x2 according to frame of reference
-  x3.
-Notes: See also {berti}, {stuna}, {stici}, {farna}.
-Examples: None
+word: snanu
+rafsi:
+- nan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the south/southern side of x2 according to frame of
+      reference x3.
+    notes:
+    - See also {berti}, {stuna}, {stici}, {farna}.
+    glosses:
+    - south
+  de:
+    place structure: x1 ist südlich/auf der Südseite von x2 gemäß Bezugsrahmen x3
+    notes:
+    - No notes.
+    glosses:
+    - Süden
+  es:
+    place structure: x1 esta al sur/meridional de x2 según marco de referencia x3
+    notes:
+    - Ver también {berti},  {stuna},  {stici}.
+    glosses:
+    - sur
+  ru:
+    place structure: x1 находится к югу от x2 согласно системе отсчета x3
+    notes:
+    - '{berti} (север), {stuna} (восток), {stici} (запад), {farna} (направление)'
+    glosses:
+    - x1=юг
+  en-simple:
+    place structure: x1 is to the south of x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something that is south of something
+    - x2=something to which something is south
+    - x3=a reference frame of southness
+  eo:
+    place structure: x1 estas sude de x2 laŭ referenckadro x3
+    notes:
+    - Vidu ankaŭ {berti}, {stuna}, {stici}, {farna}.
+    glosses:
+    - sudo
+  hu:
+    place structure: x1 a déli oldala x2-nek / délre van x2-től x3 vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {berti}, {stuna}, {stici}, {farna})'
+    glosses:
+    - dél (égtáj)
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における南方／南側
+    notes:
+    - ・大意： 南 ・読み方： スナヌ  ・語呂合わせ： minami, nan(南),sud ・関連語： {berti}, {stuna}, {stici},
+      {farna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是在x2南方/x1是南方，方向的参考系为x3
+    notes:
+    - 参见 {berti}, {stuna}, {stici}, {farna}.
+    glosses:
+    - No glosses.

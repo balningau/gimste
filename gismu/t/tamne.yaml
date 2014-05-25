@@ -1,7 +1,79 @@
-Word: tamne
-Rafsi: ''
-Definition: x1 is cousin to x2 by bond/tie x3; [non-immediate family member, default
-  same generation].
-Notes: Probably preferred for metaphorical siblings (over bruna). See also {dzena},
-  {famti}, {mensi}, {bruna}, {tunba}.
-Examples: None
+word: tamne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is cousin to x2 by bond/tie x3; [non-immediate family member,
+      default same generation].
+    notes:
+    - Probably preferred for metaphorical siblings (over bruna). See also {dzena},
+      {famti}, {mensi}, {bruna}, {tunba}.
+    glosses:
+    - cousin
+  jbo:
+    place structure: x1 dunli x2 lo ka makau lanzu ce'u x3 kei e lo ka ce'u cmima
+      lo mokau rorlei i x1 no'e tunba x2
+    notes:
+    - No notes.
+    glosses:
+    - tamne
+  de:
+    place structure: 'x1 ist ein(e) Cousin(e) von x2 über Verbindung x3; [nicht-direktes
+      Familienmitglied, default: gleiche Generation]'
+    notes:
+    - No notes.
+    glosses:
+    - Cousin
+  es:
+    place structure: x1 es primo/prima de x2 por lazo/relación x3
+    notes:
+    - Ver también {famti},  {mensi},  {bruna}.
+    glosses:
+    - primo
+  ru:
+    place structure: x1 состоит в двоюродном/троюродном и т.п. родстве/свойстве (кузен/кузина)
+      с x2 по виду родства x3
+    notes:
+    - Не ближайший родственник, по умолчанию того же поколения; вероятно, больше подходит
+      для употребления в переносном смысле, чем {bruna} {dzena} (предок), {famti}
+      (тетя), {mensi} (сестра), {bruna} (брат), {tunba} (брат или сестра)
+    glosses:
+    - x1=кузен
+  en-simple:
+    place structure: x1 is a cousin to x2 by bond x3
+    notes:
+    - No notes.
+    glosses:
+    - a cousin
+    - x2=something with a cousin
+    - x3=a bond of cousinhood
+  eo:
+    place structure: x1 estas kuzo de x2 laŭ ligilo/rilato x3; [netuja familia membro,
+      defaŭlte sama generacio]
+    notes:
+    - Probable preferinda por metaforaj gefratoj (super bruna). Vidu ankaŭ {dzena},
+      {famti}, {mensi}, {bruna}, {tunba}.
+    glosses:
+    - kuzo
+  hu:
+    place structure: x1 az unokatestvére [nem közvetlen rokona, alapesetben azonos
+      generációból] x2-nek x3 fokon/kötelék által
+    notes:
+    - '(Lásd még: {dzena}, {famti}, {mensi}, {bruna}, {tunba})'
+    glosses:
+    - unokatestvér
+  ja:
+    place structure: x1 は x2 の、 x3 （血縁）による従兄弟／従姉妹
+    notes:
+    - ・大意： いとこ ・読み方： タムネ  ・語呂合わせ： いとこ見た胸 ・関連語： {dzena}, {famti}, {mensi}, {bruna},
+      {tunba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的堂/表兄弟姐妹，依据标准/关系x3（不一定是家庭成员，默认为同一代人）
+    notes:
+    - 也可能是具有比喻性质的兄弟姐妹；参见 {dzena}, {famti}, {mensi}, {bruna}, {tunba}.
+    glosses:
+    - No glosses.

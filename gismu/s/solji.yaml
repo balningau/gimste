@@ -1,6 +1,65 @@
-Word: solji
-Rafsi: slo
-Definition: 'x1 is a quantity of/contains/is made of gold (Au); [metaphor: valuable,
-  heavy, non-reactive].'
-Notes: See also {ricfu}, {rijno}, {narju}, {pelxu}.
-Examples: None
+word: solji
+rafsi:
+- slo
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of gold (Au); [metaphor:
+      valuable, heavy, non-reactive].'
+    notes:
+    - See also {ricfu}, {rijno}, {narju}, {pelxu}.
+    glosses:
+    - gold
+    - golden (made of gold (Au))
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Gold (Au); [Im übertragenen
+      Sinn: wertvoll, schwer, reaktionsarm]'
+    notes:
+    - No notes.
+    glosses:
+    - Gold
+  es:
+    place structure: x1 es una cantidad de oro (Au)
+    notes:
+    - No notes.
+    glosses:
+    - oro
+  ru:
+    place structure: x1 — золото (Au); x1 содержит золото
+    notes:
+    - 'Метафора: драгоценный, тяжелый, химически инертный {ricfu} (богатый), {rijno}
+      (серебро), {narju} (оранжевый), {pelxu} (желтый)'
+    glosses:
+    - x1=золото
+  en-simple:
+    place structure: x1 is a quantity of gold
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of gold
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el oro (Au); [metafore:
+      valora, peza, nereaga]'
+    notes:
+    - Vidu ankaŭ {ricfu}, {rijno}, {narju}, {pelxu}.
+    glosses:
+    - oro
+  hu:
+    place structure: x1 bizonyos mennyiségű arany (-at tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {ricfu}, {rijno}, {narju}, {pelxu})'
+    glosses:
+    - arany
+  ja:
+    place structure: x1 は金物質（Au）
+    notes:
+    - ・大意： 金（きん） ・読み方： ソルゥジ  ・関連語： {ricfu}, {rijno}, {narju}, {pelxu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是金（Au）/金制品
+    notes:
+    - 参见 {ricfu}, {rijno}, {narju}, {pelxu}.
+    glosses:
+    - No glosses.

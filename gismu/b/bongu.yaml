@@ -1,9 +1,98 @@
-Word: bongu
-Rafsi: bog, bo'u
-Definition: 'x1 is a/the bone/ivory [body-part], performing function x2 in body of
-  x3; [metaphor: calcium].'
-Notes: '$x_2$ is likely an abstract: may be structure/support for some body part,
-  but others as well such as the eardrum bones; the former can be expressed as (tu''a
-  le <body-part>); cartilage/gristle (= {ranbo''u}), skeleton (= {bogygreku}).  See
-  also {greku}, {denci}, {jirna}, {sarji}.'
-Examples: None
+word: bongu
+rafsi:
+- bog
+- bo'u
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the bone/ivory [body-part], performing function x2 in
+      body of x3; [metaphor: calcium].'
+    notes:
+    - 'x2 is likely an abstract: may be structure/support for some body part, but
+      others as well such as the eardrum bones; the former can be expressed as (tu''a
+      le <body-part>); cartilage/gristle (= {ranbo''u}), skeleton (= {bogygreku}).  See
+      also {greku}, {denci}, {jirna}, {sarji}.'
+    glosses:
+    - bone
+  de:
+    place structure: 'x1 ist Knochen/Elfenbein [Körperteil] und verrichtet Funktion
+      x2 im Körper von x3; [im übertragenen Sinne: Kalzium]'
+    notes:
+    - No notes.
+    glosses:
+    - Knochen
+  es:
+    place structure: x1 es un hueso/marfil (parte del cuerpo) que realiza función
+      x2 en el cuerpo de x3
+    notes:
+    - No notes.
+    glosses:
+    - hueso
+  ru:
+    place structure: x1 — кость (часть тела), исполняющая функцию x2 в теле x3
+    notes:
+    - 'В большинстве случаев x2 — абстракция: напр. опора/каркас для части тела ({tu''a}
+      {le} «часть тела»); возможны и другие функции кости, как для косточек внутреннего
+      уха; хрящ: {ranbo''u}; скелет: {bogygreku} {greku} (каркас), {denci} (зуб),
+      {jirna} (рог [у животных]), {sarji} (поддерживать [помогать])'
+    glosses:
+    - кость
+    - x2=функция кости
+  en-simple:
+    place structure: x1 is a bone performing function x2 in the body of x3
+    notes:
+    - No notes.
+    glosses:
+    - a bone
+    - x2=a function of a bone
+    - x3=something with a bone
+  eo:
+    place structure: 'x1 estas osto/eburo [korpoparto], plenumanta funkcion x2 en
+      korpo x3; [metafore: kalcio]'
+    notes:
+    - 'x2 verŝajne estas abstraktaĵo: ĝi povas esti strukturo/subteno por iu korpoparto,
+      sed ankaŭ aliaj kiel la timpano; la unua povas esprimiĝi kiel (tu''a le<korpoparto>);
+      kartilago (= {ranbo''u}), skeleto (= {bogygreku}).  Vidu ankaŭ {greku}, {denci},
+      {jirna}, {sarji}.'
+    glosses:
+    - osto
+  hu:
+    place structure: x1 egy csont, amely x2 feladatot lát el x3 testében
+    notes:
+    - '(Lásd még: {greku}, {denci}, {jirna}, {sarji})'
+    glosses:
+    - csont
+  ja:
+    place structure: x1 は x2 （機能）・ x3 （肉体）の骨
+    notes:
+    - ・大意： 骨 ・読み方： ボング  ・語呂合わせ： ＜ボーンはグッド＞、bone good ,gu(骨) ・関連語： {greku}, {denci},
+      {jirna}, {sarji}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: 'x1 er et beindel/skjelett [[kroppsdel] som utfører funksjon
+      x2 i organisme x3; [metafor: kalsium]'
+    notes:
+    - x2 er sannsynligvis abstrakt, kan være struktur/støtte for en kroppsdel. Se
+      óg {greku}, {denci}, {jirna}, {sarji}, {calku}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ben (skelett) som utför (abstrakt) funktion x2 i organism
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - benknota (skelettdel)
+    - knota (skelettdel)
+    - skelettdel
+    - x1=ben (skelettdel)
+    - x2=ben funktion (skelettfunktion)
+    - x3=ryggradsdjur (organism med ben (skelettdel))
+  zh:
+    place structure: x1是骨，功能是x2，在身体x3中
+    notes:
+    - 软骨={ranbo'u}；骷髅骨={bogygreku}；参见{greku}, {denci}, {jirna}, {sarji}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,84 @@
-Word: cilre
-Rafsi: cli
-Definition: x1 learns x2 (du'u) about subject x3 from source x4 (obj./event) by method
-  x5 (event/process).
-Notes: See also {ctuca}, {tadni}, {djuno}, {ckule}.
-Examples: None
+word: cilre
+rafsi:
+- cli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 learns x2 (du'u) about subject x3 from source x4 (obj./event)
+      by method x5 (event/process).
+    notes:
+    - See also {ctuca}, {tadni}, {djuno}, {ckule}.
+    glosses:
+    - learn
+  de:
+    place structure: x1 lernt x2 (du'u) über Thema/Fach x3 von Quelle x4 (Objekt/Ereignis)
+      durch Methode x5 (Ereignis/Prozess)
+    notes:
+    - No notes.
+    glosses:
+    - lernen
+  es:
+    place structure: x1 aprende que x2 (du'u) es cierto acerca de x3 de origen x4
+      por método/instrucción x5
+    notes:
+    - Ver también {ctuca},  {tadni},  {djuno}.
+    glosses:
+    - aprender
+  ru:
+    place structure: x1 узнает x2 (фaкт — {du'u}) о предмете x3 из источника x4 методом
+      x5 (событие/процесс); x1 учится ({fi}) x3 (чему) от/из x4 (кого/чего)
+    notes:
+    - '{ctuca} (преподавать), {tadni} (изучать), {djuno} (знать), {ckule} (школа)'
+    glosses:
+    - узнавать
+    - x1=узнающий
+    - x2=узнаваемый факт
+  en-simple:
+    place structure: x1 learns x2 about x3 from x4 by method x5
+    notes:
+    - No notes.
+    glosses:
+    - a learner
+    - x2=something learned
+    - x3=a subject learned
+    - x4=a source of learning
+    - x5=a learning method
+  eo:
+    place structure: x1 lernas x2-on (du'u) pri temo x3 el fonto x4 (obj./okazo) per
+      metodo x5 (okazo/procedo)
+    notes:
+    - Vidu ankaŭ {ctuca}, {tadni}, {djuno}, {ckule}.
+    glosses:
+    - lerni
+  hu:
+    place structure: x1 tanul/megtud x2 tényt x3 tárgyról, x4 forrásból/tapasztalat
+      által, x5 tanulási módszerrel
+    notes:
+    - '(Lásd még: {ctuca}, {tadni}, {djuno}, {ckule})'
+    glosses:
+    - tanul
+  ja:
+    place structure: x1 は x2 （命題）・ x3 （題目）を x4 （情報源）から x5 （方法）によって習う
+    notes:
+    - 「ctuca」と違い、教師がかならずしも含意されず、主体性が強調される。 ・大意： 習う ・読み方： シルゥレ  ・語呂合わせ： 知る練習, ciue（学）,
+      learn ・関連語： {ctuca}, {tadni}, {djuno}, {ckule}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 lär sig x2 (du'u) om ämne x3 från källa x4 (objekt/händelse)
+      genom metod x5 (händelse/process).
+    notes:
+    - No notes.
+    glosses:
+    - lära sig
+    - x1=lärdomsinhämtare (lär sig något om något)
+    - x2=lärdom (vunnen kunskap)
+    - x3=lärdomsobjekt (det en får kunskap om)
+    - x4=inlärningsmetod (det sätt på vilket en får kunskap om något)
+  zh:
+    place structure: x1学习/了解x2（du'u），关于主题/科目x3，资源x4（物/事），方法是x5（事件/进程）
+    notes:
+    - 参见 {ctuca}, {tadni}, {djuno}, {ckule}.
+    glosses:
+    - No glosses.

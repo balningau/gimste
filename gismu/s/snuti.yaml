@@ -1,6 +1,70 @@
-Word: snuti
-Rafsi: nut
-Definition: x1 (event/state) is an accident/unintentional on the part of x2; x1 is
-  an accident.
-Notes: See also {zukte}, {cunso}.
-Examples: None
+word: snuti
+rafsi:
+- nut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) is an accident/unintentional on the part of
+      x2; x1 is an accident.
+    notes:
+    - See also {zukte}, {cunso}.
+    glosses:
+    - accidental
+  jbo:
+    place structure: x1 to'e se zukte x2 zi'o zi'o
+    notes:
+    - '{zukte}; {cunso}'
+    glosses:
+    - snuti
+  de:
+    place structure: x1 (Ereignis/Zustand) ist ein Unfall/ist unbeabsichtigt von x2;
+      x1 ist ein Unfall
+    notes:
+    - No notes.
+    glosses:
+    - unbeabsichtigt
+  es:
+    place structure: x1 (evento) es accidental/no intencional por parte de x2
+    notes:
+    - No notes.
+    glosses:
+    - accidental
+  ru:
+    place structure: x1 — непреднамеренно/случайно со стороны x2; x1 — случайность
+    notes:
+    - '{zukte} (действовать), {cunso} (случайный)'
+    glosses:
+    - x1=непреднамеренный
+  en-simple:
+    place structure: x1 is an accident caused by x2
+    notes:
+    - No notes.
+    glosses:
+    - an accident
+    - x2=a cause of an accident
+  eo:
+    place structure: x1 (okazo/stato) estas akcidenta/neintenca je parto de x2; x1
+      estas akcidento
+    notes:
+    - Vidu ankaŭ {zukte}, {cunso}.
+    glosses:
+    - akcidenta
+  hu:
+    place structure: x1 esemény/állapot akaratlan/véletlen/nem szándékos x2 részéről
+    notes:
+    - '(Lásd még: {zukte}, {cunso})'
+    glosses:
+    - akaratlan
+  ja:
+    place structure: x1 （事／状態）は x2 （観点）にとって事故／偶然
+    notes:
+    - ・大意： 事故 ・読み方： スヌティ  ・関連語： {zukte}, {cunso}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）是偶然发生的/不是刻意的/意外的，由其中x2部分表现出；x1是意外/突发事件
+    notes:
+    - 参见 {zukte}, {cunso}.
+    glosses:
+    - No glosses.

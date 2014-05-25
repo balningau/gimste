@@ -1,5 +1,61 @@
-Word: slanu
-Rafsi: ''
-Definition: x1 is a cylinder [shape/form] of material x2.
-Notes: See also {kamju}, {gunro}.
-Examples: None
+word: slanu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cylinder [shape/form] of material x2.
+    notes:
+    - See also {kamju}, {gunro}.
+    glosses:
+    - cylinder
+  de:
+    place structure: x1 ist ein Zylinder [Form] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Zylinder
+  es:
+    place structure: x1 es un cilindro (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - cilindro
+  ru:
+    place structure: x1 — цилиндр (форма) из материала x2
+    notes:
+    - '{kamju} (колонна [столб]), {gunro} (катиться)'
+    glosses:
+    - цилиндр
+  en-simple:
+    place structure: x1 is a cylinder of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a cylinder
+    - x2=a material of a cylinder
+  eo:
+    place structure: x1 estas cilindro [formo] el materialo x2
+    notes:
+    - Vidu ankaŭ {kamju}, {gunro}.
+    glosses:
+    - cilindro
+  hu:
+    place structure: x1 egy henger x2 anyagból
+    notes:
+    - '(Lásd még: {kamju}, {gunro})'
+    glosses:
+    - henger
+  ja:
+    place structure: x1 は x2 （素材）の筒／円柱
+    notes:
+    - ・大意： 筒 ・読み方： スルァヌ  ・語呂合わせ： cylinder 筒すら抜く ・関連語： {kamju}, {gunro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是圆柱状的，构成材料为x2
+    notes:
+    - 参见 {kamju}, {gunro}.
+    glosses:
+    - No glosses.

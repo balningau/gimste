@@ -1,5 +1,76 @@
-Word: zabna
-Rafsi: zan, za'a
-Definition: x1 is a favorable connotation/sense/way-of-looking-at x2 used by x3.
-Notes: See also {funca}, {mabla}, {xamgu}, {vrude}.
-Examples: None
+word: zabna
+rafsi:
+- zan
+- za'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a favorable connotation/sense/way-of-looking-at x2 used
+      by x3.
+    notes:
+    - See also {funca}, {mabla}, {xamgu}, {vrude}.
+    glosses:
+    - favorable
+  de:
+    place structure: x1 hat eine(n) positive(n) Nebenbedeutung/Bedeutungsumfang/Assoziation/Sinn
+      x2, verwendet von x3
+    notes:
+    - No notes.
+    glosses:
+    - positiv
+  es:
+    place structure: x1 es una manera favorable de mirar a x2 usada por x3
+    notes:
+    - Ver también {mabla},  {xamgu},  {vrude}.
+    glosses:
+    - favorable
+  ru:
+    place structure: x1 is благоприятный/великолепный/'классный'/превосходный/первоклассный/выдающийся/отличный/замечательный/славный/похвальный/очаровательный/симпатичный/достойный
+      похвал/высококачественный/высокого качества/'клёвый'/крутой в свойстве x2 согласно
+      стандарту x3; x1 - потрясный в аспекте x2 согласно x3 (кому/чему)
+    notes:
+    - 'См. {banli} - ''роскошный'', {funca} - ''зависеть от удачи'', {mabla} - ''негативный
+      (о значении/смысле слова), {xamgu} - ''хороший'', {vrude} - ''праведный''. Старое
+      определение слова: x1 — позитивное/одобрительное/благоприятное значение/употребление/коннотация
+      (слов) x2, используемое x3 (кем)'
+    glosses:
+    - '''классное'''
+    - благоприятное
+    - первоклассный
+    - превосходный
+  en-simple:
+    place structure: x1 is likable, cool in property x2 by standard x3
+    notes:
+    - See also {mabla}, {xamgu}, {funca}, {vrude}, {banli}.
+    glosses:
+    - a favourable sense
+    - x1=favorable
+    - x2=property of coolness
+    - x2=something with a favourable sense
+    - x3=something using a favourable sense
+    - x3=standard of coolness
+  eo:
+    place structure: x1 estas favora/estimiga senco de x2 uzita de x3
+    notes:
+    - Vidu ankaŭ {funca}, {mabla}, {xamgu}, {vrude}.
+    glosses:
+    - favora
+  hu:
+    place structure: x1 egy kedvező/jó értelmű kifejezés/szemlélet x2-re, x3 használatában
+    notes:
+    - '(Lásd még: {funca}, {mabla}, {xamgu}, {vrude})'
+    glosses:
+    - kedvező
+  ja:
+    place structure: x1 は x2 （対象）にたいする x3 （意識者）の好意的な見方／意味合
+    notes:
+    - 「mabla」の対義。 ・大意： 好意的 ・読み方： ザブナ  ・関連語： {funca}, {mabla}, {xamgu}, {vrude}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是好的/优秀的/出色的/杰出的/极佳的/突出的，在性质x2方面，基于标准x3
+    notes:
+    - 参见 {mabla}, {xamgu}, {funca}, {vrude}, {banli}.
+    glosses:
+    - No glosses.

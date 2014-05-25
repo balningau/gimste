@@ -1,5 +1,65 @@
-Word: stuna
-Rafsi: sun
-Definition: x1 is to the east/eastern side of x2 according to frame of reference x3.
-Notes: See also {stici}, {berti}, {snanu}, {farna}.
-Examples: None
+word: stuna
+rafsi:
+- sun
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the east/eastern side of x2 according to frame of reference
+      x3.
+    notes:
+    - See also {stici}, {berti}, {snanu}, {farna}.
+    glosses:
+    - east
+  de:
+    place structure: x1 ist östlich/der Osten von x2 gemäß Referenzrahmen x3
+    notes:
+    - No notes.
+    glosses:
+    - Osten
+  es:
+    place structure: x1 esta al este/oriental/levante de x2 según marco de referencia
+      x3
+    notes:
+    - Ver también {stici},  {berti},  {snanu}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 находится к востоку от x2 согласно системе отсчета x3
+    notes:
+    - '{stici} (запад), {berti} (север), {snanu} (юг), {farna} (направление)'
+    glosses:
+    - восточный
+  en-simple:
+    place structure: x1 is to the east of x2 in frame of reference x3
+    notes:
+    - No notes.
+    glosses:
+    - something which is east of something
+    - x2=something to which something is east
+    - x3=a reference frame of eastness
+  eo:
+    place structure: x1 estas oriente de x2 laŭ referenckadro x3
+    notes:
+    - Vidu ankaŭ {stici}, {berti}, {snanu}, {farna}.
+    glosses:
+    - oriento
+  hu:
+    place structure: x1 a keleti oldala x2-nek / keletre van x2-től x3 vonatkoztatási
+      rendszerben
+    notes:
+    - '(Lásd még: {stici}, {berti}, {snanu}, {farna})'
+    glosses:
+    - kelet
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における東方／東側
+    notes:
+    - ・大意： 東 ・読み方： ストゥナ  ・関連語： {stici}, {berti}, {snanu}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是在x2东方/x1是东方，方向的参考系为x3
+    notes:
+    - 参见 {stici}, {berti}, {snanu}, {farna}.
+    glosses:
+    - No glosses.

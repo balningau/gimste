@@ -1,6 +1,77 @@
-Word: forca
-Rafsi: fro
-Definition: x1 is a fork/fork-type tool/utensil for purpose x2 with tines/prongs x3
-  on base/support x4.
-Notes: See also {dakfu}, {smuci}, {komcu}, {tutci}.
-Examples: None
+word: forca
+rafsi:
+- fro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fork/fork-type tool/utensil for purpose x2 with tines/prongs
+      x3 on base/support x4.
+    notes:
+    - See also {dakfu}, {smuci}, {komcu}, {tutci}.
+    glosses:
+    - fork
+  de:
+    place structure: x1 ist eine Gabel/ein gabelartiges Werkzeug/Gerät für Zweck x2
+      mit Zinken x3 auf Basis x4
+    notes:
+    - No notes.
+    glosses:
+    - Gabel
+  es:
+    place structure: x1 es un tenedor/tridente con propósito x2
+    notes:
+    - No notes.
+    glosses:
+    - tenedor
+  ru:
+    place structure: x1 — вилка/вилы/трезубец/{аналогичное орудие} с назначением x2,
+      зубцами/остриями x3, на черенке/рукояти/основе/опоре x4
+    notes:
+    - '{dakfu} (нож), {smuci} (ложка), {komcu} (гребень), {tutci} (инструмент)'
+    glosses:
+    - вилка
+  en-simple:
+    place structure: x1 is a fork for x2 with tines x3 on base x4
+    notes:
+    - No notes.
+    glosses:
+    - a fork
+    - x2=a purpose of a fork
+    - x3=a prong of a fork
+    - x4=a fork base
+  eo:
+    place structure: x1 estas forko/forkeca ilo por celo x2 kun dentoj x3 sur bazo/subteno
+      x4
+    notes:
+    - Vidu ankaŭ {dakfu}, {smuci}, {komcu}, {tutci}.
+    glosses:
+    - forko
+  hu:
+    place structure: x1 egy villa x2 célra, x3 fogakkal, x4 nyéllel
+    notes:
+    - '(Lásd még: {dakfu}, {smuci}, {komcu}, {tutci})'
+    glosses:
+    - villa
+  ja:
+    place structure: x1 は x2 （目的）・ x3 （分岐物／歯）のフォーク／くま手／またぐわ
+    notes:
+    - ・大意： フォーク ・読み方： フォルシャ  ・関連語： {dakfu}, {smuci}, {komcu}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en gaffel/gaffelliknande verktyg/köksredskap för ändamål
+      x2 med tänder/uddar x3 på bas/skaft x4.
+    notes:
+    - No notes.
+    glosses:
+    - x1=gaffel
+    - x2=gaffelfunktion
+    - x3=gaffeludd
+    - x4=gaffelskaft
+  zh:
+    place structure: x1是叉子/叉状工具，为了目的/功能x2，带有齿x3在基座x4上
+    notes:
+    - 参见 {dakfu}, {smuci}, {komcu}, {tutci}.
+    glosses:
+    - No glosses.

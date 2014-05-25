@@ -1,5 +1,61 @@
-Word: slaka
-Rafsi: ''
-Definition: x1 is a syllable in language x2.
-Notes: See also {sance}, {valsi}, {bangu}.
-Examples: None
+word: slaka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a syllable in language x2.
+    notes:
+    - See also {sance}, {valsi}, {bangu}.
+    glosses:
+    - syllable
+  de:
+    place structure: x1 ist eine Silbe in Sprache x2
+    notes:
+    - No notes.
+    glosses:
+    - Silbe
+  es:
+    place structure: x1 es una sílaba de palabra x2 en idioma x3
+    notes:
+    - No notes.
+    glosses:
+    - sílaba
+  ru:
+    place structure: x1 — слог в языке x2
+    notes:
+    - '{sance} (звук), {valsi} (слово), {bangu} (язык [лингвистический])'
+    glosses:
+    - слог
+  en-simple:
+    place structure: x1 is a syllable in language x2
+    notes:
+    - No notes.
+    glosses:
+    - a syllable
+    - x2=a language with a syllable
+  eo:
+    place structure: x1 estas silabo en lingvo x2
+    notes:
+    - Vidu ankaŭ {sance}, {valsi}, {bangu}.
+    glosses:
+    - silabo
+  hu:
+    place structure: x1 egy szótag x2 nyelvben
+    notes:
+    - '(Lásd még: {sance}, {valsi}, {bangu})'
+    glosses:
+    - szótag
+  ja:
+    place structure: x1 は x2 （言語）における音節
+    notes:
+    - ・大意： 音節 ・読み方： スルァカ  ・関連語： {sance}, {valsi}, {bangu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是语言x2的音节
+    notes:
+    - 参见 {sance}, {valsi}, {bangu}.
+    glosses:
+    - No glosses.

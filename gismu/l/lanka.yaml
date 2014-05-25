@@ -1,5 +1,65 @@
-Word: lanka
-Rafsi: ''
-Definition: x1 is a basket with contents x2, woven from material x3.
-Notes: See also {vasru}, {baktu}.
-Examples: None
+word: lanka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a basket with contents x2, woven from material x3.
+    notes:
+    - See also {vasru}, {baktu}.
+    glosses:
+    - basket
+  de:
+    place structure: x1 ist ein Korb mit Inhalt x2, gewoben aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Korb
+  es:
+    place structure: x1 es un canasto/cesto/canasta/cesta para contenido x2, tejido
+      de material x3
+    notes:
+    - No notes.
+    glosses:
+    - canasto
+  ru:
+    place structure: x1 — корзина с содержимым x2, сплетенная из материала x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2» {vasru} (содержать), {baktu} (ведро)'
+    glosses:
+    - корзина
+    - x2=содержимое корзины
+    - x3=материал корзины
+  en-simple:
+    place structure: x1 is a basket containing x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a basket
+    - x2=a content of a basket
+    - x3=a material of a basket
+  eo:
+    place structure: x1 estas korbo enhavanta x2-on, teksita el materialo x3
+    notes:
+    - Vidu ankaŭ {vasru}, {baktu}.
+    glosses:
+    - korbo
+  hu:
+    place structure: x1 egy kosár x2 tartalommal, x3 anyagból szőve
+    notes:
+    - '(Lásd még: {vasru}, {baktu})'
+    glosses:
+    - kosár
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）のかご／ざる
+    notes:
+    - ・大意： かご ・読み方： ルァンカ  ・語呂合わせ： らんらんかごいっぱい ・関連語： {vasru}, {baktu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是篮子，装有x2，由材料x3做成/编织成
+    notes:
+    - 参见 {vasru}, {baktu}.
+    glosses:
+    - No glosses.

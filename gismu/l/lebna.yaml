@@ -1,9 +1,90 @@
-Word: lebna
-Rafsi: leb, le'a
-Definition: x1 takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from
-  x3 (possessor).
-Notes: Also confiscate, appropriate.  Acquire with volition such that $x_1$ gains
-  possession; $x_3$ is possessor and not merely source, alienation is implied.  (cf.
-  {punji}, {cpacu} where volition or previous possession is not necessarily implied,
-  {vimcu} for alienation where $x_1$ need not gain possession, {canci}, {cliva})
-Examples: None
+word: lebna
+rafsi:
+- leb
+- le'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 takes/gets/gains/obtains/seizes/[removes] x2 (object/property)
+      from x3 (possessor).
+    notes:
+    - Also confiscate, appropriate.  Acquire with volition such that x1 gains possession;
+      x3 is possessor and not merely source, alienation is implied.  (cf. {punji},
+      {cpacu} where volition or previous possession is not necessarily implied, {vimcu}
+      for alienation where x1 need not gain possession, {canci}, {cliva})
+    glosses:
+    - gain (get)
+    - take
+  jbo:
+    place structure: x1 gasnu lo nu x2 sisti lo nu x2 zvati x3 i x1 gasnu lo nu ge
+      x1 co'a ponse x2  gi x3 co'u ponse x2
+    notes:
+    - '{vimcu}, {cpacu}'
+    glosses:
+    - lebna
+  de:
+    place structure: x1 nimmt/bekommt x2 (Objekt/Eigenschaft) von x3 (Besitzer)
+    notes:
+    - No notes.
+    glosses:
+    - nehmen
+  es:
+    place structure: x1 quita/saca x2 a x3
+    notes:
+    - Ver también {dunda},  {cpacu},  {vimcu}.
+    glosses:
+    - quitar
+  ru:
+    place structure: x1 забирает/отбирает/берет x2 (объект/собственность) у x3 (обладатель)
+    notes:
+    - 'Также: конфискует, присваивает; речь идет о сознательном приобретении с переходом
+      объекта в собственность x1; x3 — прежний обладатель, а не просто источник, существен
+      факт отчуждения {punji} (класть); {cpacu} (добывать) — не подразумевается сознательное
+      действие или наличие прежнего обладателя; {vimcu} (отнимать) для отчуждения,
+      при котором x1 не обязательно становится новым обладателем; {canci} (исчезать),
+      {cliva} (уходить)'
+    glosses:
+    - отбирать
+    - x1=отбирающий
+    - x2=отбираемое
+    - x3=собственник, у которого отбирают
+  en-simple:
+    place structure: x1 takes or seizes x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a taker
+    - x2=something taken
+    - x3=something from which something is taken
+  eo:
+    place structure: x1 prenas/akiras/gajnas/obtenas/kaptas/[forigas] x2-on (objekto/eco)
+      de x3 (posedanto)
+    notes:
+    - 'Ankaŭ: konfiski, alproprigi.  Vole akiri tiel ke x1 gajnas posedon; x3 estas
+      posedanto kaj ne nur fonto, forproprigo estas implicita.  (kp. punji, cpacu
+      kie volo aŭ antaŭa posedo ne nepre estas implicitaj, vimcu por forigo kie x1
+      ne nepre gajnas posedon, canci, cliva)'
+    glosses:
+    - preni
+  hu:
+    place structure: x1 elveszi/elkobozza/eltulajdonítja [véglegesen] x2-t (tárgy/tulajdonság)
+      x3-tól (birtokos)
+    notes:
+    - '(Lásd még: {punji}, {cpacu}, {vimcu}, {canci}, {cliva})'
+    glosses:
+    - elvesz
+  ja:
+    place structure: x1 は x2 （物／性質）を x3 （者）から取る／得る／奪う／盗む／取り除く／没収／着服する
+    notes:
+    - 所有権の転移が含意される。 ・大意： 取る ・読み方： ルェブナ  ・語呂合わせ：  na (拿) ・関連語： {punji}, {cpacu}, {vimcu},
+      {canci}, {cliva}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1获得/得到x2（物/性质），从原有者x3处
+    notes:
+    - 也指：没收/占有；x1获得了物品x2的所有权，x3是原所有人，而不仅仅是来源；参见 {punji}, {cpacu}不暗示所有权的转移, {vimcu}
+      指转让时不必要有所有权的转移,{canci}, {cliva}
+    glosses:
+    - No glosses.

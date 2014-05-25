@@ -1,5 +1,66 @@
-Word: larcu
-Rafsi: lar
-Definition: x1 (process) is an art [creative application] of craft/skill x2 (idea/activity).
-Notes: (adjective:) $x_1$ is artistic.  See also {finti}, {zbasu}, {stati}.
-Examples: None
+word: larcu
+rafsi:
+- lar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (process) is an art [creative application] of craft/skill
+      x2 (idea/activity).
+    notes:
+    - (adjective:) x1 is artistic.  See also {finti}, {zbasu}, {stati}.
+    glosses:
+    - art
+  de:
+    place structure: x1 (Prozess) ist eine Kunst [kreative Anwendung] von Handwerk/Fertigkeit
+      x2 (Idee/Aktivität)
+    notes:
+    - No notes.
+    glosses:
+    - Kunst
+  es:
+    place structure: x1 es un arte/aplicación creativa de habilidad x2
+    notes:
+    - No notes.
+    glosses:
+    - arte
+  ru:
+    place structure: x1 (процесс) есть искусство — творческое применение умения/ремесла
+      x2 (идея/деятельность)
+    notes:
+    - 'Прилагательное: x1 — артистический {finti} (сочинять), {zbasu} (изготавливать),
+      {stati} (талант)'
+    glosses:
+    - x1=искусство
+    - x2=умение (в искусстве)
+  en-simple:
+    place structure: x1 is an art of craft or skill x2
+    notes:
+    - No notes.
+    glosses:
+    - an art
+    - x2=a craft of art
+  eo:
+    place structure: x1 (procedo) estas arto [kreema apliko] de metio/lerteco x2 (ideo/ago)
+    notes:
+    - Vidu ankaŭ {finti}, {zbasu}, {stati}.
+    glosses:
+    - arto
+  hu:
+    place structure: x1 (folyamat) egy művészi alkalmazása x2 mesterségnek/készségnek
+    notes:
+    - '(Lásd még: {finti}, {zbasu}, {stati})'
+    glosses:
+    - művészet
+  ja:
+    place structure: x1 （創作物／創作過程）は x2 （芸術様式／芸術流派）の実践／応用；  x1 は芸術的
+    notes:
+    - ・大意： 芸術 ・読み方： ルァルシュ  ・語呂合わせ： ある種の芸術 ・関連語： {finti}, {zbasu}, {stati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（过程）是艺术（创造性的应用），关于手艺/技艺x2（行为/想法）
+    notes:
+    - x1是艺术的；参见 {finti}, {zbasu}, {stati}.
+    glosses:
+    - No glosses.

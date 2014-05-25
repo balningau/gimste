@@ -1,5 +1,64 @@
-Word: vofli
-Rafsi: vol, voi
-Definition: x1 flies [in air/atmosphere] using lifting/propulsion means x2.
-Notes: See also {cipni}, {klama}, {vinji}.
-Examples: None
+word: vofli
+rafsi:
+- vol
+- voi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 flies [in air/atmosphere] using lifting/propulsion means x2.
+    notes:
+    - See also {cipni}, {klama}, {vinji}.
+    glosses:
+    - flight
+  de:
+    place structure: x1 fliegt [in Luft/Atomsphäre] mit Auftrieb/Antrieb x2
+    notes:
+    - No notes.
+    glosses:
+    - fliegen
+  es:
+    place structure: x1 vuela con medio de propulsión x2
+    notes:
+    - No notes.
+    glosses:
+    - volar
+  ru:
+    place structure: x1 летит (в воздухе/атмосфере), используя средства x2
+    notes:
+    - '{cipni} (птица), {klama} (перемещаться), {vinji} (самолет)'
+    glosses:
+    - лететь
+    - x1=летящий
+    - x2=средства полёта
+  en-simple:
+    place structure: x1 flies using means x2
+    notes:
+    - No notes.
+    glosses:
+    - a flyer
+    - x2=a means of flying
+  eo:
+    place structure: x1 flugas [en aero/atmosfero] per leva/pela rimedo x2
+    notes:
+    - Vidu ankaŭ {cipni}, {klama}, {vinji}.
+    glosses:
+    - flugi
+  hu:
+    place structure: x1 repül/száll [a légkörben] x2 (felhajtó)erő/meghajtás felhasználásával
+    notes:
+    - '(Lásd még: {cipni}, {klama}, {vinji})'
+    glosses:
+    - repül
+  ja:
+    place structure: x1 は x2 （原動力）で飛ぶ／飛行する
+    notes:
+    - ・大意： 飛ぶ ・読み方： ヴォフゥルィ  ・語呂合わせ： ｆｌｙ ・関連語： {cipni}, {klama}, {vinji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1飞/飞行，使用抬升/推进方式x2
+    notes:
+    - 参见 {cipni}, {klama}, {vinji}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,70 @@
-Word: sluji
-Rafsi: slu
-Definition: 'x1 is a/the muscle [body-part] controlling x2, of body x3; [metaphor:
-  tools of physical power].'
-Notes: (adjective:) $x_1$/$x_2$/$x_3$ is muscular (different senses).  See also {rectu},
-  {xadni}, {zajba}.
-Examples: None
+word: sluji
+rafsi:
+- slu
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the muscle [body-part] controlling x2, of body x3; [metaphor:
+      tools of physical power].'
+    notes:
+    - (adjective:) x1/x2/x3 is muscular (different senses).  See also {rectu}, {xadni},
+      {zajba}.
+    glosses:
+    - muscle
+  de:
+    place structure: 'x1 ist ein Muskel [Körperteil] und steuert x2, von Körper x3;
+      [Im übertragenen Sinn: Werkzeug von körperlicher Kraft]'
+    notes:
+    - No notes.
+    glosses:
+    - Muskel
+  es:
+    place structure: x1 es un músculo (parte del cuerpo) que controla x2, de cuerpo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - músculo
+  ru:
+    place structure: x1 — мышца/мускул (часть тела), управляющая x2 (чем), в составе
+      тела x3
+    notes:
+    - 'Метафора: источник физической силы {rectu} (мясо), {xadni} (тело), {zajba}
+      (атлет)'
+    glosses:
+    - x1=мышца
+  en-simple:
+    place structure: x1 is a muscle controlling x2 of body x3
+    notes:
+    - No notes.
+    glosses:
+    - a muscle
+    - x2=something controlled by a muscle
+    - x3=something with a muscle
+  eo:
+    place structure: 'x1 estas muskolo [korpoparto] kontrolanta x2-on, de korpo x3;
+      [metafore: iloj de fizika potenco]'
+    notes:
+    - (adjektivo:) x1/x2/x3 estas muskola (malsamaj sencoj).  Vidu ankaŭ {rectu},
+      {xadni}, {zajba}.
+    glosses:
+    - muskolo
+  hu:
+    place structure: x1 egy/az izom x2 funkcióval, x3 testben
+    notes:
+    - '(Lásd még: {rectu}, {xadni}, {zajba})'
+    glosses:
+    - izom
+  ja:
+    place structure: x1 は x2 （機能対象）・ x3 （本体）の筋肉
+    notes:
+    - ・大意： 筋肉 ・読み方： スルゥジ  ・語呂合わせ： マッスル爺さん ・関連語： {rectu}, {xadni}, {zajba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是肌肉，用以控制x2，属于身体x3
+    notes:
+    - 参见 {rectu}, {xadni}, {zajba}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,77 @@
-Word: litki
-Rafsi: lik
-Definition: x1 is liquid/fluid, of composition/material including x2, under conditions
-  x3.
-Notes: Conditions include temperature and pressure.  See also {cilmo}, {djacu}, {lumci},
-  {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}.
-Examples: None
+word: litki
+rafsi:
+- lik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is liquid/fluid, of composition/material including x2, under
+      conditions x3.
+    notes:
+    - Conditions include temperature and pressure.  See also {cilmo}, {djacu}, {lumci},
+      {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}.
+    glosses:
+    - liquid
+  de:
+    place structure: x1 ist eine Flüssigkeit mit Zusammensetzung/Material unter anderem
+      x2, unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - Flüssigkeit
+  es:
+    place structure: x1 es líquido/fluído de composición/material x2, bajo condiciones
+      x3
+    notes:
+    - Ver también {gapci},  {sligu}.
+    glosses:
+    - líquido
+  ru:
+    place structure: x1 — жидкость состава/вещества x2 в условиях x3; x1 — жидкий
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава); условия x3
+      включают температуру и давление {cilmo} (мокрый), {djacu} (вода), {lumci} (мыть),
+      {runta} (растворяться), {pambe} (насос), {sudga} (сухой), {gapci} (газ), {sligu}
+      (твердый [состояние вещества]), {flecu} (поток), {jduli} (желе)'
+    glosses:
+    - x1=жидкость
+    - x2=состав жидкости
+  en-simple:
+    place structure: x1 is liquid of material x2
+    notes:
+    - No notes.
+    glosses:
+    - liquid
+    - x1=a liquid
+    - x2=a material of a liquid
+    - x2=the material of a liquid
+    - x3=a condition of liquidity
+  eo:
+    place structure: x1 estas likva/fluida, el kompozicio/materialo enhavanta x2-on,
+      sub kondiĉoj x3
+    notes:
+    - Kondiĉoj inkluzivas temperaturon kaj premon.  Vidu ankaŭ {cilmo}, {djacu}, {lumci},
+      {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}.
+    glosses:
+    - likva
+  hu:
+    place structure: x1 folyékony anyag x2 összetétellel, x3 körülmények között
+    notes:
+    - '(Lásd még: {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci}, {sligu},
+      {flecu}, {jduli})'
+    glosses:
+    - folyadék
+  ja:
+    place structure: x1 は x2 （成分／物質）の、 x3 （条件）における液体／流動体
+    notes:
+    - x3は温度や圧力など。 ・大意： 液体 ・読み方： ルィトキ  ・語呂合わせ： 流体力学 ・関連語： {cilmo}, {djacu}, {lumci},
+      {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是液体，由物质x2构成，在x3条件下
+    notes:
+    - 条件包括温度/压力；参见 {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci},
+      {sligu}, {flecu}, {jduli}.
+    glosses:
+    - No glosses.

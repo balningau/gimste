@@ -1,6 +1,75 @@
-Word: jikca
-Rafsi: jik
-Definition: x1 interacts/behaves socially with x2; x1 socializes with/is sociable
-  towards x2.
-Notes: See also {tarti}, {penmi}.
-Examples: None
+word: jikca
+rafsi:
+- jik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 interacts/behaves socially with x2; x1 socializes with/is
+      sociable towards x2.
+    notes:
+    - See also {tarti}, {penmi}.
+    glosses:
+    - social (being extroverted/outgoing)
+    - socialize
+  de:
+    place structure: x1 kommuniziert/pflegt den Umgang/zeigt gesellschaftliches Verhalten
+      mit x2; x1 knüpft Kontakt mit x2/ist gesellig/kontaktfreudig gegenüber x2
+    notes:
+    - No notes.
+    glosses:
+    - gesellig
+  es:
+    place structure: x1 interactúa socialmente/es sociable con x2
+    notes:
+    - No notes.
+    glosses:
+    - socializar
+  ru:
+    place structure: x1 социально взаимодействует с x2; x1 общается с x2
+    notes:
+    - 'Прилагательное: общественный/социальный {tarti} (вести [себя: поведение]),
+      {penmi} (встречать)'
+    glosses:
+    - социально взаимодействовать
+    - x1=социально взаимодействовующий
+  en-simple:
+    place structure: x1 interacts socially with x2
+    notes:
+    - No notes.
+    glosses:
+    - an interacter
+    - x2=something interacted with
+  eo:
+    place structure: x1 societumas/interagas/umas/kondutas socie kun x2; x1 estas
+      societema/amikema al x2
+    notes:
+    - Vidu ankaŭ {tarti}, {penmi}.
+    glosses:
+    - interagi
+  hu:
+    place structure: x1 társadalmilag érintkezik x2-vel
+    notes:
+    - '(Lásd még: {tarti}, {penmi})'
+    glosses:
+    - szocializál
+  ja:
+    place structure: x1 は x2 と社交／交際する；  x1 は x2 にたいして社会的に振舞う；  x1 は社会人
+    notes:
+    - ・大意： 社交 ・読み方： ジクシャ  ・語呂合わせ： 社会の軸、社交 ・関連語： {tarti}, {penmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 interagerar/beter sig socialt med x2; x1 socialiserar sig
+      med/är social gentemot x2.
+    notes:
+    - No notes.
+    glosses:
+    - social (vara social)
+    - socialisera (uppträda/bete sig socialt)
+  zh:
+    place structure: x1与x2进行一些社交行为/x1对x2进行交际活动
+    notes:
+    - 参见 {tarti}, {penmi}.
+    glosses:
+    - No glosses.

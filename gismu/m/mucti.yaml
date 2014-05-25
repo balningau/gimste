@@ -1,5 +1,61 @@
-Word: mucti
-Rafsi: mut
-Definition: x1 is immaterial/not physical/without material form.
-Notes: See also {marji}, {menli}, {pruxi}, {sidbo}.
-Examples: None
+word: mucti
+rafsi:
+- mut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is immaterial/not physical/without material form.
+    notes:
+    - See also {marji}, {menli}, {pruxi}, {sidbo}.
+    glosses:
+    - immaterial
+  de:
+    place structure: x1 ist nicht materiell/nicht physikalisch/ohne materielle Form
+    notes:
+    - No notes.
+    glosses:
+    - immateriell
+  es:
+    place structure: x1 es etéreo/inmaterial/no físico/sin forma material
+    notes:
+    - Ver también {dacti}.
+    glosses:
+    - etéreo
+  ru:
+    place structure: x1 — нематериальный/невещественный/нефизический/бестелесный/бесплотный
+    notes:
+    - '{marji} (материя [вещество]), {menli} (разум), {pruxi} (дух), {sidbo} (концепция)'
+    glosses:
+    - нематериальный
+  en-simple:
+    place structure: x1 is immaterial or not physical
+    notes:
+    - No notes.
+    glosses:
+    - something immaterial
+  eo:
+    place structure: x1 estas nemateria/nefizika/sen materia formo
+    notes:
+    - (kp. marji, menli, prŭi, sidbo)
+    glosses:
+    - nemateria
+  hu:
+    place structure: x1 anyagtalan/nem fizikai
+    notes:
+    - '(Lásd még: {marji}, {menli}, {pruxi}, {sidbo})'
+    glosses:
+    - anyagtalan
+  ja:
+    place structure: x1 は非物質的／無形／形而上的
+    notes:
+    - ・大意： 形而上 ・読み方： ムシティ  ・語呂合わせ： immaterial, uucin（無形） ・関連語： {marji}, {menli}, {pruxi},
+      {sidbo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是非物质的/无形的
+    notes:
+    - 参见 {marji}, {menli}, {pruxi}, {sidbo}.
+    glosses:
+    - No glosses.

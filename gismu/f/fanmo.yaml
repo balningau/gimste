@@ -1,9 +1,93 @@
-Word: fanmo
-Rafsi: fam, fa'o
-Definition: x1 is an end/finish/termination of thing/process x2; [not necessarily
-  implying completeness].
-Notes: $x_1$ is final/last/at the last; $x_1$ is a terminal/terminus of $x_2$; $x_1$
-  is the final/terminated state of terminated process $x_2$; $x_2$ terminates/ceases/stops/halts
-  at $x_1$ (= selfa'o for reordered places).  See also {krasi}, {cfari}, {mulno},
-  {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}.
-Examples: None
+word: fanmo
+rafsi:
+- fam
+- fa'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an end/finish/termination of thing/process x2; [not necessarily
+      implying completeness].
+    notes:
+    - x1 is final/last/at the last; x1 is a terminal/terminus of x2; x1 is the final/terminated
+      state of terminated process x2; x2 terminates/ceases/stops/halts at x1 (= selfa'o
+      for reordered places).  See also {krasi}, {cfari}, {mulno}, {sisti}, {denpa},
+      {jipno}, {kojna}, {traji}, {krasi}.
+    glosses:
+    - end
+  de:
+    place structure: x1 ist ein Ende/Abschluss von Gegenstand/Prozess x2; [bedingt
+      nicht unbedingt Vollständigkeit]
+    notes:
+    - No notes.
+    glosses:
+    - Ende
+  es:
+    place structure: x1 es un fin/final/terminación/culminación/extremo de objeto/proceso
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - fin
+  ru:
+    place structure: x1 — конец/окончание вещи/процесса x2 (завершение не подразумевается)
+    notes:
+    - 'x1 — конечный, окончательный, последний; x1 — конечное состояние остановленного/прерванного
+      процесса x2; x2 заканчивается/останавливается на/в (состоянии) x1: {selfa''o}
+      с переставленными местами) {krasi} (источник [начало]), {cfari} (начинаться),
+      {mulno} (законченный), {sisti} (останавливать), {denpa} (ждать), {jipno} (кончик),
+      {kojna} (угол [телесный]), {traji} (самый), {krasi} (источник [начало])'
+    glosses:
+    - x1=конец
+  en-simple:
+    place structure: x1 is an end or finish of or process x2
+    notes:
+    - No notes.
+    glosses:
+    - a finish
+    - x2=a finished process
+  eo:
+    place structure: x1 estas fino/finaĵo de aĵo/procedo x2; [ne nepre implicas kompleteco]
+    notes:
+    - x1 estas fina/lasta; x1 estas finaĵo/finstacio de x2; x1 estas la fino/fina
+      stato de finita procedo x2; x2 finiĝas/ĉesiĝas/haltas je x1 (= selfa'o por reordigitaj
+      {lokoj}).  Vidu ankaŭ {krasi}, {cfari}, {mulno}, {sisti}, {denpa}, {jipno},
+      {kojna}, {traji}, {krasi}.
+    glosses:
+    - fino
+  hu:
+    place structure: x1 (hely/esemény) a befejezése/vége/végállapota x2 folyamatnak/dolognak
+    notes:
+    - 'Nem feltétlenül utal befejezettségre (Lásd még: {krasi}, {cfari}, {mulno},
+      {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi})'
+    glosses:
+    - befejezés
+  ja:
+    place structure: x1 は x2 （物／過程）の終わり
+    notes:
+    - 終了状態全般。達成／完了しているとはかぎらない。 ・大意： 終わり ・読み方： ファンモ  ・語呂合わせ： ＜ファン燃え尽きて＞ ・関連語： {krasi},
+      {cfari}, {mulno}, {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett slut/ände/avslutning av sak/process x2; [förutsätter
+      inte nödvändigtvis fullständighet].
+    notes:
+    - x1 är final/den sista/till sist; x1 är slutstation/slutlig för x2; x1 är slutskedet/avslutande
+      tillståndet av avslutad process x2; x2 avbryts/upphör/stoppar/gör halt vid x1
+      (= selfa'o for reordered places).
+    glosses:
+    - avslutning
+    - final (slut)
+    - slutlig
+    - till sist
+    - ände (slut)
+    - x1=slut
+    - x2=avslutad
+  zh:
+    place structure: x1是进程/事件x2的终结/终点/结束；（不暗示进程/事件的完整度）
+    notes:
+    - x1是最终的/最后的/终点； x1是x2的末端/终点站； x1是进程x2的终止状态/最终状态；x2止步于/终止于/被终结于x1处 (= selfa'o)；参见
+      {krasi}, {cfari}, {mulno}, {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}.
+    glosses:
+    - No glosses.

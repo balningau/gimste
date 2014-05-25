@@ -1,6 +1,64 @@
-Word: tinci
-Rafsi: ''
-Definition: 'x1 is a quantity of/contains/is made of tin (Sn); [metaphor: cheap or
-  base metal].'
-Notes: See also {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}.
-Examples: None
+word: tinci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of tin (Sn); [metaphor:
+      cheap or base metal].'
+    notes:
+    - See also {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}.
+    glosses:
+    - tin
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Zinn (Sn); [Im übertragenen
+      Sinn: billiges oder unedles Metall]'
+    notes:
+    - No notes.
+    glosses:
+    - Zinn
+  es:
+    place structure: x1 es una cantidad de estaño (Sn)
+    notes:
+    - No notes.
+    glosses:
+    - estaño
+  ru:
+    place structure: x1 — олово (Sn); x1 содержит олово
+    notes:
+    - 'Метафора: дешевый металл {gunma} (масса [единое целое]), {lante} (банка [консервная]),
+      {boxfo} (пластина), {cnisa} (свинец), {jinme} (металл)'
+    glosses:
+    - x1=олово
+  en-simple:
+    place structure: x1 is a quantity of tin
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of tin
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el stano (Sn); [metafore:
+      malmultekosta aŭ falsa metalo]'
+    notes:
+    - Vidu ankaŭ {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}.
+    glosses:
+    - stano
+  hu:
+    place structure: x1 bizonyos mennyiségű ón (-t tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {gunma}, {lante}, {boxfo}, {cnisa}, {jinme})'
+    glosses:
+    - ón
+  ja:
+    place structure: x1 はスズ（Sn）
+    notes:
+    - ・大意： スズ（物質） ・読み方： ティンシ  ・関連語： {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是锡/由锡构成[Sn]
+    notes:
+    - 参见 {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}.
+    glosses:
+    - No glosses.

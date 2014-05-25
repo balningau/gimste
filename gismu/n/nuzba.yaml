@@ -1,6 +1,70 @@
-Word: nuzba
-Rafsi: nuz
-Definition: x1 (du'u) is news/tidings/new information about subject x2 from source
-  x3, to observer x4.
-Notes: See also {cnino}, {notci}.
-Examples: None
+word: nuzba
+rafsi:
+- nuz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (du'u) is news/tidings/new information about subject x2 from
+      source x3, to observer x4.
+    notes:
+    - See also {cnino}, {notci}.
+    glosses:
+    - news
+  de:
+    place structure: x1 (du'u) ist eine Neuigkeit/eine neue Information über Thema
+      x2 aus Quelle x3 für Betrachter x4
+    notes:
+    - No notes.
+    glosses:
+    - Neuigkeit
+  es:
+    place structure: x1 es una noticia/información acerca de x2 de origen x3, según
+      observador x4
+    notes:
+    - No notes.
+    glosses:
+    - noticia
+  ru:
+    place structure: x1 ({du'u}) — новости/вести/известия о предмете x2 из источника
+      x3, с точки зрения наблюдателя x4
+    notes:
+    - '{cnino} (новый), {notci} (статья)'
+    glosses:
+    - x1=новости
+    - x2=предмет новостей
+    - x3=источник новостей
+  en-simple:
+    place structure: x1 is news about x2 from x3 to x4
+    notes:
+    - No notes.
+    glosses:
+    - news
+    - x2=a subject of news
+    - x3=a source of news
+    - x4=a observer of news
+  eo:
+    place structure: x1 (du'u) estas novaĵo/nova informo pri temo x2 el fonto x3,
+      por observanto x4
+    notes:
+    - Vidu ankaŭ {cnino}, {notci}.
+    glosses:
+    - novaĵo
+  hu:
+    place structure: x1 egy hír/újság x2-ről, x3 forrásból, x4 számára
+    notes:
+    - '(Lásd még: {cnino}, {notci})'
+    glosses:
+    - hír
+  ja:
+    place structure: x1 は x2 （題目）・ x3 （情報源）の、 x4 （聴衆）へのニュース／新報
+    notes:
+    - ・大意： ニュース ・読み方： ヌズバ  ・語呂合わせ： ニュース朝（ぬ）ズバ ・関連語： {cnino}, {notci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（du'u）是新闻/新资讯，关于主题x2，来源于x3，给接收者x4
+    notes:
+    - 参见 {cnino}, {notci}.
+    glosses:
+    - No glosses.

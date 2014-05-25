@@ -1,6 +1,70 @@
-Word: loldi
-Rafsi: lol, loi
-Definition: x1 is a floor/bottom/ground of x2.
-Notes: Floor/level/story of a building/edifice (= {setloi}, {dijysenta}).  See also
-  {bitmu}, {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi}, {sarji}, {serti}.
-Examples: None
+word: loldi
+rafsi:
+- lol
+- loi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a floor/bottom/ground of x2.
+    notes:
+    - Floor/level/story of a building/edifice (= {setloi}, {dijysenta}).  See also
+      {bitmu}, {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi}, {sarji}, {serti}.
+    glosses:
+    - bottom (ground)
+    - floor
+  de:
+    place structure: x1 ist der Boden/Grund von x2
+    notes:
+    - No notes.
+    glosses:
+    - Boden
+  es:
+    place structure: x1 es un piso/suelo de x2
+    notes:
+    - Ver también {bitmu},  {drudi},  {dertu},  {dizlo},  {cnita},  {zbepi},  {sarji},  {serti}.
+    glosses:
+    - piso
+  ru:
+    place structure: x1 — пол/дно x2 (чего)
+    notes:
+    - 'Этаж/уровень здания: {setloi}, {dijysenta} {bitmu} (стена), {drudi} (крыша),
+      {dertu} (почва), {dizlo} (низкий), {cnita} (под), {zbepi} (подставка), {sarji}
+      (поддерживать [помогать]), {serti} (лестница)'
+    glosses:
+    - x1=пол (дно)
+  en-simple:
+    place structure: x1 is a floor or ground of x2
+    notes:
+    - No notes.
+    glosses:
+    - a floor
+    - x2=something with a floor
+  eo:
+    place structure: x1 estas planko/fundo/malsupro/grundo de x2
+    notes:
+    - Etaĝo/nivelo de konstruaĵo/edifico (= {setloi}, {dijysenta}).  Vidu ankaŭ {bitmu},
+      {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi}, {sarji}, {serti}.
+    glosses:
+    - planko
+  hu:
+    place structure: x1 a padlója/alja/feneke x2-nek
+    notes:
+    - '(Lásd még: {bitmu}, {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi}, {sarji}, {serti})'
+    glosses:
+    - padló
+  ja:
+    place structure: x1 は x2 の床／底面
+    notes:
+    - ・大意： 床 ・読み方： ルォルゥディ  ・関連語： {bitmu}, {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi},
+      {sarji}, {serti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的地板/底/地.
+    notes:
+    - 参考：{bitmu}, {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi}, {sarji}, {serti}.
+    glosses:
+    - 地
+    - 地板
+    - 底

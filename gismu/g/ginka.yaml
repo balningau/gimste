@@ -1,5 +1,75 @@
-Word: ginka
-Rafsi: gik
-Definition: x1 is a camp/encampment/temporary residence of x2 at location x3.
-Notes: See also {dinju}, {xabju}, {zdani}.
-Examples: None
+word: ginka
+rafsi:
+- gik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a camp/encampment/temporary residence of x2 at location
+      x3.
+    notes:
+    - See also {dinju}, {xabju}, {zdani}.
+    glosses:
+    - camp
+  de:
+    place structure: x1 ist ein (Feld-)Lager von x2 an Ort x3.
+    notes:
+    - Siehe auch {dinju}, {xabju}, {zdani}.
+    glosses:
+    - Lager
+    - Lager (vorübergehender Wohnort)
+  es:
+    place structure: x1 es un campamento/residencia temporaria/estacional de x2 en
+      localidad x3
+    notes:
+    - No notes.
+    glosses:
+    - campamento
+  ru:
+    place structure: x1 — лагерь/стоянка/временное пристанище/{табор/стойбище} для
+      x2 в x3 (где)
+    notes:
+    - '{dinju} (здание), {xabju} (проживать), {zdani} (дом)'
+    glosses:
+    - x1=лагерь
+  en-simple:
+    place structure: x1 is a camp of x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - a camp
+    - x2=something with a camp
+    - x3=a camp location
+  eo:
+    place structure: x1 estas tendaro/tendejo/provizora loĝejo de x2 en loko x3
+    notes:
+    - Vidu ankaŭ {dinju}, {xabju}, {zdani}.
+    glosses:
+    - tendaro
+  hu:
+    place structure: x1 egy tábora/ideiglenes szállása x2-nek, x3 helyen
+    notes:
+    - '(Lásd még: {dinju}, {xabju}, {zdani})'
+    glosses:
+    - tábor
+  ja:
+    place structure: x1 は x2 （居住者）・ x3 （所）の野営／キャンプ／仮設住居
+    notes:
+    - 一時的な住居全般。 ・大意： キャンプ ・読み方： ギンカ  ・語呂合わせ： 銀貨でキャンプ貸し切り ・関連語： {dinju}, {xabju}, {zdani}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett läger/camping/kollo/tillfällig bostad för x2 på plats
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - camping
+    - läger
+    - tillfällig bostad
+  zh:
+    place structure: x1是x2的营地/帐篷/临时住处，处于地点x3
+    notes:
+    - 参见 {dinju}, {xabju}, {zdani}.
+    glosses:
+    - No glosses.

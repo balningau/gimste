@@ -1,5 +1,88 @@
-Word: gleki
-Rafsi: gek, gei
-Definition: x1 is happy/merry/glad/gleeful about x2 (event/state).
-Notes: Adversity (= {kamnalgei}).  See also {badri}, {cinmo}.
-Examples: None
+word: gleki
+rafsi:
+- gek
+- gei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is happy/merry/glad/gleeful about x2 (event/state).
+    notes:
+    - Adversity (= {kamnalgei}).  See also {badri}, {cinmo}.
+    glosses:
+    - happy
+  de:
+    place structure: x1 ist glücklich/fröhlich/froh/freut sich über x2 (Ereignis/Zustand).
+    notes:
+    - Siehe auch {badri}, {cinmo}.
+    glosses:
+    - glücklich
+  es:
+    place structure: x1 está feliz/alegre/contento/dichoso por x2 (evento)
+    notes:
+    - Ver también {badri}.
+    glosses:
+    - feliz
+  fr:
+    place structure: x1 est  heureux / joyeux / content / allègre à propos de x2 (évènement/état).
+    notes:
+    - Voir aussi {badri}, {cinmo}.
+    glosses:
+    - heureux
+  ru:
+    place structure: x1 рад/весел/доволен/ликует по поводу x2 (событие/состояние)
+    notes:
+    - 'несчастье/неприятность: {kamnalgei} {badri} (грустный), {cinmo} (эмоциональный)'
+    glosses:
+    - радоваться
+    - x1=рад (радующийся)
+    - x1=счастливый
+    - x2=причина радости
+  en-simple:
+    place structure: x1 is happy about x2 (nu)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something happy
+    - x2=a subject of happiness
+  eo:
+    place structure: x1 estas gaja/feliĉa/ĝoja pri x2 (okazo/stato)
+    notes:
+    - Malfeliĉo (= {kamnalgei}).  Vidu ankaŭ {badri}, {cinmo}.
+    glosses:
+    - gaja
+  hu:
+    place structure: x1 boldog x2 esemény/állapot miatt / örül x2 eseménynek/állapotnak
+    notes:
+    - '(Lásd még: {badri}, {cinmo})'
+    glosses:
+    - boldog
+  ja:
+    place structure: x1 は x2 （事）に関して嬉しい／幸せ／幸福／上機嫌
+    notes:
+    - ・大意： 嬉しい ・読み方： グルェキ  ・語呂合わせ： 嬉 ・関連語： {badri}, {cinmo}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest szczęśliwy/wesoły/radosny z powodu x2 (zdarzenie/stan).
+    notes:
+    - No notes.
+    glosses:
+    - szczęśliwy
+  sv:
+    place structure: x1 är glad/lycklig/förtjust/munter över x2 (händelse/tillstånd).
+    notes:
+    - No notes.
+    glosses:
+    - lycklig
+    - munter
+    - x1=glad
+    - x2=glädjeämne
+  zh:
+    place structure: x1 乐 x2 (事件/状态).
+    notes:
+    - No notes.
+    glosses:
+    - 乐
+    - 快乐
+    - 高兴

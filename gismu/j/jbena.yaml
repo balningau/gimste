@@ -1,7 +1,88 @@
-Word: jbena
-Rafsi: jbe
-Definition: x1 is born to x2 at time x3 [birthday] and place x4 [birthplace]; x1 is
-  native to (fo) x4.
-Notes: '$x_2$ bears/gives birth to $x_1$; also $x_3$: natal day.  See also {fange},
-  {gutra}, {rorci}, {mamta}, {salci}, {citsi}.'
-Examples: None
+word: jbena
+rafsi:
+- jbe
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is born to x2 at time x3 [birthday] and place x4 [birthplace];
+      x1 is native to (fo) x4.
+    notes:
+    - 'x2 bears/gives birth to x1; also x3: natal day.  See also {fange}, {gutra},
+      {rorci}, {mamta}, {salci}, {citsi}.'
+    glosses:
+    - born
+  de:
+    place structure: x1 wird (den Eltern) x2 geboren am/um x3 [Zeit/Geburtstag] in
+      Ort x4 [Geburtsort]; x1 stammt aus (fo) x4
+    notes:
+    - No notes.
+    glosses:
+    - geboren
+  es:
+    place structure: x1 nace de x2 en fecha/hora x3 y lugar x4
+    notes:
+    - No notes.
+    glosses:
+    - nacer
+  ru:
+    place structure: x1 рожден от x2, x3=время рождения, x4=место рождения; x1 — уроженец
+      ({fo}) x4
+    notes:
+    - '{fange} (чужой [неродной]), {gutra} (матка [анатомия]), {rorci} (порождать),
+      {mamta} (мать), {salci} (праздновать), {citsi} (сезон)'
+    glosses:
+    - рождённый
+    - x2=от кого рождён
+  en-simple:
+    place structure: x1 is born to x2 at time x3 and place x4
+    notes:
+    - No notes.
+    glosses:
+    - something born
+    - x2=something that gives birth
+    - x3=a time of birth
+    - x4=a place of birth
+  eo:
+    place structure: x1 estas naskita de x2 je dato x3 [naskotago] kaj loko x4 [naskoloko]
+    notes:
+    - x1 estas indiĝena de (fo) x4; x2 naskas x1-on.  Vidu ankaŭ {fange}, {gutra},
+      {rorci}, {mamta}, {salci}, {citsi}.
+    glosses:
+    - naskiĝi
+  hu:
+    place structure: x1 megszületik/megszületett x2 szülőtől, x3 időben, x4 helyen
+    notes:
+    - '(Lásd még: {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi})'
+    glosses:
+    - születik
+  ja:
+    place structure: x1 は x2 （産主）による x3 （日時）・ x4 （所）の生まれである；  x2 は x1 の産みの親
+    notes:
+    - ・大意： 生まれ ・読み方： ジベナ  ・関連語： {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}
+    - ''
+    glosses:
+    - 出生
+    - 生まれ
+    - x1=生まれたもの
+    - x2=産みの親
+    - x3=生年月日
+    - x3=生年月日 (誕生日)
+    - x4=出生時刻 (誕生時刻)
+    - x5=出生地 (出身地)
+  sv:
+    place structure: x1 är född av x2 på tid x3 [födelsedag] och plats x4 [födelseort];
+      x1 är en inföding/infödd till (fo) x4.
+    notes:
+    - x2 ger börd åt/föder x1.
+    glosses:
+    - infödd
+    - x1=födas
+    - x2=föda (att föda ett barn)
+    - x3=födelsedag  (tid för födelse)
+    - x4=födelseort
+  zh:
+    place structure: x1是由x2生出的/产出的，在时间x3（生日），地点x4（出生地）
+    notes:
+    - x2生出x1；x3：诞生日；参见 {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}.
+    glosses:
+    - No glosses.

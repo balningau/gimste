@@ -1,5 +1,79 @@
-Word: cupra
-Rafsi: pra
-Definition: x1 produces x2 [product] by process x3.
-Notes: See also {zbasu}, {farvi}, {gundi}, {jukpa}.
-Examples: None
+word: cupra
+rafsi:
+- pra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 produces x2 [product] by process x3.
+    notes:
+    - See also {zbasu}, {farvi}, {gundi}, {jukpa}.
+    glosses:
+    - produce
+    - x1=producer
+    - x2=product (amount created by a process)
+  de:
+    place structure: x1 stellt x2 [Produkt] durch Verfahren x3 her; x1 erzeugt x2
+      auf Weise x3
+    notes:
+    - No notes.
+    glosses:
+    - produzieren
+  es:
+    place structure: x1 produce x2 con proceso x3
+    notes:
+    - Ver también {zbasu}.
+    glosses:
+    - producir
+  ru:
+    place structure: x1 производит x2 (продукт) посредством процесса x3
+    notes:
+    - '{zbasu} (изготавливать), {farvi} (развиваться), {gundi} (промышленность), {jukpa}
+      (повар)'
+    glosses:
+    - производить
+    - x1=производящий
+    - x2=производимый продукт
+    - x3=процесс производства
+  en-simple:
+    place structure: x1 produces x2 by process x3
+    notes:
+    - No notes.
+    glosses:
+    - a producer
+    - x2=a product
+    - x3=a process of production
+  eo:
+    place structure: x1 produktas x2-on [produkto] per procedo x3
+    notes:
+    - Vidu ankaŭ {zbasu}, {farvi}, {gundi}, {jukpa}.
+    glosses:
+    - produkti
+  hu:
+    place structure: x1 termeli x2 terméket x3 módszerrel
+    notes:
+    - '(Lásd még: {zbasu}, {farvi}, {gundi}, {jukpa})'
+    glosses:
+    - termel
+  ja:
+    place structure: x1 は x2 （物）を x3 （過程）によって生産／産出／製造する
+    notes:
+    - ・大意： 生産 ・読み方： シュプラ  ・関連語： {zbasu}, {farvi}, {gundi}, {jukpa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 producerar/tillverkar x2 [produkt] genom process x3.
+    notes:
+    - No notes.
+    glosses:
+    - producera
+    - tillverka
+    - x1=tillverkare
+    - x2=produkt
+    - x3=tillverkningsprocess
+  zh:
+    place structure: x1生产产品x2；通过过程x3
+    notes:
+    - 参见 {zbasu}, {farvi}, {gundi}, {jukpa}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,63 @@
-Word: ricfu
-Rafsi: rif, cfu
-Definition: x1 is rich/wealthy in goods/possessions/property/aspect x2.
-Notes: See also {solji}, {banzu}, {dukse}, {pindi}.
-Examples: None
+word: ricfu
+rafsi:
+- rif
+- cfu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is rich/wealthy in goods/possessions/property/aspect x2.
+    notes:
+    - See also {solji}, {banzu}, {dukse}, {pindi}.
+    glosses:
+    - rich
+  de:
+    place structure: x1 ist reich/wohlhabend an/in Gütern/Besitz/Eigenschaft/Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - reich
+  es:
+    place structure: x1 es rico en bienes/posesiones/riqueza/propiedad/aspecto x2
+    notes:
+    - Ver también {pindi},  {banzu},  {dukse}.
+    glosses:
+    - rico
+  ru:
+    place structure: x1 богат/обилен ресурсами x2 (деньги/имущество/собственность/свойство/аспект)
+    notes:
+    - '{solji} (золото), {banzu} (достаточный), {dukse} (избыток), {pindi} (бедный)'
+    glosses:
+    - богатый
+  en-simple:
+    place structure: x1 is rich in x2
+    notes:
+    - No notes.
+    glosses:
+    - something rich
+    - x2=something in which something is rich
+  eo:
+    place structure: x1 estas riĉa je varoj/posedaĵoj/aspekto x2
+    notes:
+    - Vidu ankaŭ {solji}, {banzu}, {dukse}, {pindi}.
+    glosses:
+    - riĉa
+  hu:
+    place structure: x1 gazdag/vagyonos x2 javakban/birtokokban/tulajdonságban/tekintetben
+    notes:
+    - '(Lásd még: {solji}, {banzu}, {dukse}, {pindi})'
+    glosses:
+    - gazdag
+  ja:
+    place structure: x1 は x2 （性質）に関して裕福／豊か
+    notes:
+    - ・大意： 裕福 ・読み方： リシフゥ  ・語呂合わせ： 裕福、利子増える ・関連語： {solji}, {banzu}, {dukse}, {pindi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1富有/饱含/拥有大量x2（财富/物品/所有物等）
+    notes:
+    - 参见 {solji}, {banzu}, {dukse}, {pindi}.
+    glosses:
+    - No glosses.

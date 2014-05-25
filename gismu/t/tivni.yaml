@@ -1,7 +1,77 @@
-Word: tivni
-Rafsi: tiv
-Definition: x1 broadcasts/televises programming x2 via medium/channel x3 to television
-  receiver x4.
-Notes: Also $x_1$ is a broadcaster; $x_2$ programming (mass), program/show (ind.).  See
-  also {cradi}, {skina}, {vidni}, {benji}, {tcana}.
-Examples: None
+word: tivni
+rafsi:
+- tiv
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 broadcasts/televises programming x2 via medium/channel x3
+      to television receiver x4.
+    notes:
+    - Also x1 is a broadcaster; x2 programming (mass), program/show (ind.).  See also
+      {cradi}, {skina}, {vidni}, {benji}, {tcana}.
+    glosses:
+    - television
+  de:
+    place structure: x1 überträgt das Programm x2 über Medium/Kanal x3 zu Fernsehempfänger
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - Fernsehen
+  es:
+    place structure: x1 transmite programación x2 por medio/canal x3 a receptor de
+      televisión x4
+    notes:
+    - No notes.
+    glosses:
+    - transmitir (TV)
+  ru:
+    place structure: x1 передает/вещает телепрограмму x2 по каналу/среде x3 на телеприемник
+      x4
+    notes:
+    - x2 м.б. как индивидуальные телепередачи, так и взятые в массе {cradi} (радио),
+      {skina} (фильм), {vidni} (экран [монитор]), {benji} (передавать [сигнал]), {tcana}
+      (станция)
+    glosses:
+    - телевидение
+    - x1=телевещающий
+    - x2=телепрограмма
+    - x3=телеканал
+    - x4=телевизор
+  en-simple:
+    place structure: x1 broadcasts x2 via medium x3 to receiver x4
+    notes:
+    - No notes.
+    glosses:
+    - x3=a medium of broadcasting
+    - x4=a receiver of a braodcast
+  eo:
+    place structure: x1 brodkastas/elsendas televidan programon x2 per medio/stacio/kanalo
+      x3 al televidilo x4
+    notes:
+    - 'Ankaŭ: x1 estas brodkastanto; x2 programo (kolektivaĵo), programero/spektaklo
+      (ind.).  Vidu ankaŭ {cradi}, {skina}, {vidni}, {benji}, {tcana}.'
+    glosses:
+    - televido
+  hu:
+    place structure: x1 televízión küldi/közvetíti x2-t, x3 csatornán, x4 televízióvevőnek
+    notes:
+    - '(Lásd még: {cradi}, {skina}, {vidni}, {benji}, {tcana})'
+    glosses:
+    - televízión közvetít
+  ja:
+    place structure: x1 は x2 （番組／放送内容） を x3 （媒体／チャンネル）で x4 （受信機）にテレビ放送／映像通信する放送送信所／放送局
+    notes:
+    - インターネット経由の動画配信も。間連語： {cradi}, {skina}, {vidni}, {benji}, {tcana}
+    glosses:
+    - 放送 (映像通信)
+    - x1=放送局 (映像通信)
+    - x2=番組 (映像通信)
+    - x3=チャンネル (映像通信)
+    - x4=テレビ (受信機)
+  zh:
+    place structure: x1广播节目x2，通过信道/媒介x3，给节目接收者x4；（可指广播广播和电视节目）
+    notes:
+    - 也指：x1广播者/广播公司/广播员；x2节目安排（团体）/节目（个体）；参见 {cradi}, {skina}, {vidni}, {benji}, {tcana}.
+    glosses:
+    - No glosses.

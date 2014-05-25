@@ -1,10 +1,120 @@
-Word: tavla
-Rafsi: tav, ta'a
-Definition: x1 talks/speaks to x2 about subject x3 in language x4.
-Notes: Not limited to vocal speech, but this is implied by the $x_4$ without context
-  of some other medium of conversation (use {cusku}, {casnu}, {skicu}, {ciksi} for
-  weaker implication of vocal communication); converse/discuss/chat (= {simta'a},
-  {simsku}, {vricysimta'a} for a conversation not clearly delimited by subject).  See
-  also {bacru}, {cusku} for actual expression, {casnu}, {darlu}, {skicu}, {ciksi},
-  {bangu}.
-Examples: None
+word: tavla
+rafsi:
+- tav
+- ta'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 talks/speaks to x2 about subject x3 in language x4.
+    notes:
+    - Not limited to vocal speech, but this is implied by the x4 without context of
+      some other medium of conversation (use {cusku}, {casnu}, {skicu}, {ciksi} for
+      weaker implication of vocal communication); converse/discuss/chat (= {simta'a},
+      {simsku}, {vricysimta'a} for a conversation not clearly delimited by subject).  See
+      also {bacru}, {cusku} for actual expression, {casnu}, {darlu}, {skicu}, {ciksi},
+      {bangu}.
+    glosses:
+    - talk (any speech)
+  de:
+    place structure: x1 redet/spricht mit/vor x2 über das Thema x3 in der Sprache
+      x4
+    notes:
+    - Sofern nicht anders angegeben, nicht auf Sprache beschränkt, auch wenn dies
+      durch x4 impliziert ist. Andere gismu, wie {cusku}, {casnu}, {skicu} oder {ciksi},
+      implizieren die Verwendung von Sprache weniger stark.
+    glosses:
+    - reden
+    - sprechen
+    - x1=Sprecher
+    - x2=Publikum (der durch den Sprecher Angesprochene)
+    - x3=Thema (einer sprachlichen Ausführung)
+    - x4=Sprache
+  es:
+    place structure: x1 habla a x2 sobre tema x3 en idioma x4
+    notes:
+    - Ver también {cusku},  {casnu}.
+    glosses:
+    - hablar
+  ru:
+    place structure: x1 говорит x2 (кому) об x3 (предмет) на языке x4; x1 обращается
+      к x2 по поводу x3
+    notes:
+    - 'Не ограничивается звуковой речью, однако таковая подразумевается, если x4 не
+      указывает на какое-то другое средство общения (ср. {cusku}, {casnu}, {skicu},
+      {ciksi}, которые в меньшей степени подразумевают устное общение); беседовать/общаться/болтать:
+      {simta''a}, {simsku}, {vricysimta''a} для разговора в отсутствие четко обозначенной
+      темы) {bacru} (произносить), {cusku} (говорить [кому-либо]) (акцент на конкретном
+      сообщении), {casnu} (обсуждать), {darlu} (отстаивать [позицию]), {skicu} (описывать),
+      {ciksi} (объяснять), {bangu} (язык [лингвистический])'
+    glosses:
+    - разговаривать (любой тип речи)
+    - x1=разговаривающий (любой тип речи)
+  art-guaspi:
+    place structure: \x1 /kuo \x2 ^x3 ^ve quo \se x4
+    notes:
+    - No notes.
+    glosses:
+    - kuo
+  en-simple:
+    place structure: x1 talks to x2 about x3 in language x4
+    notes:
+    - No notes.
+    glosses:
+    - a talker
+    - x2=something talked to
+    - x3=a subject of a talk
+    - x4=a language of a talk
+  eo:
+    place structure: x1 parolas al x2 pri temo x3 en lingvo x4
+    notes:
+    - Ne limigita al voĉa parolo, sed tio estas implicita de x4 sen konteksto pri
+      alia konversacirimedo (uzu je cusku, casnu, skicu, ciksi por pli malforta implico
+      de voĉa komunikado); konversacii/diskuti/babili(=simta'a,simsku,vricysimta'a
+      por konversacio ne klare limigita per temo).  Vidu ankaŭ {bacru}, cusku por
+      efektiva {esprimo}, {casnu}, {darlu}, {skicu}, {ciksi}, {bangu}.
+    glosses:
+    - paroli
+  hu:
+    place structure: x1 beszél x2-hez x3 témáról, x4 nyelven
+    notes:
+    - 'Nem feltétlenül utal szóbeli kommunikációra (Lásd még: {bacru}, {cusku}, {casnu},
+      {darlu}, {skicu}, {ciksi}, {bangu})'
+    glosses:
+    - beszél
+  ja:
+    place structure: x1 （者）は x2 （者）に x3 （題目）について x4 （言語）で話す／語る
+    notes:
+    - 音声的とは限らず、「手話」も。 ・大意： 語る ・読み方： タヴルァ  ・関連語： {bacru}, {cusku}, {casnu}, {darlu},
+      {skicu}, {ciksi}, {bangu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 snakker/taler til x2 om x3 på språk x4
+    notes:
+    - No notes.
+    glosses:
+    - fortelle
+    - snakke
+    - tale (snakke)
+    - x1=taler
+    - x3=tema
+  vi:
+    place structure: x1 nói với x2 về x3 bằng ngôn ngữ x4
+    notes:
+    - No notes.
+    glosses:
+    - nói
+    - x1=người nói
+    - x2=người nghe
+    - x3=chủ đề
+    - x4=ngôn ngữ
+  zh:
+    place structure: x1 用 x4（语言）来说 x3这件事给 x2 听
+    notes:
+    - 并不限于口头演讲
+    - ''
+    - 参见：{bacru}, cusku for actual expression, {casnu}, {darlu}, {skicu}, {ciksi},
+      {bangu}.
+    glosses:
+    - 说 (告诉)

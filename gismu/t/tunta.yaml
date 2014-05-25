@@ -1,6 +1,77 @@
-Word: tunta
-Rafsi: tun
-Definition: x1 (object, usually pointed) pokes/jabs/stabs/prods x2 (experiencer).
-Notes: Agentive (= {tungau}, {tunzu'e}).  See also {balre}, {dakfu}, {darxi}, {fanza},
-  {jicla}, {katna}, {tikpa}.
-Examples: None
+word: tunta
+rafsi:
+- tun
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object, usually pointed) pokes/jabs/stabs/prods x2 (experiencer).
+    notes:
+    - Agentive (= {tungau}, {tunzu'e}).  See also {balre}, {dakfu}, {darxi}, {fanza},
+      {jicla}, {katna}, {tikpa}.
+    glosses:
+    - poke
+  jbo:
+    place structure: lo jipno be x1 cu danre x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Objekt, gewöhnlich spitz) sticht/stößt x2 (Opfer)
+    notes:
+    - No notes.
+    glosses:
+    - stechen
+  es:
+    place structure: x1 (objeto puntiagudo) estimula/pincha a x2
+    notes:
+    - No notes.
+    glosses:
+    - pinchar
+  ru:
+    place structure: x1 (заостренный объект) колет/давит/тыкает/упирается в x2 (ощущающий
+      субъект)
+    notes:
+    - 'Активное действие (тычет, пихает, колет): {tungau}, {tunzu''e} {balre} (клинок),
+      {dakfu} (нож), {darxi} (ударять), {fanza} (раздражать [беспокоить]), {jicla}
+      (перемешивать), {katna} (разрезать), {tikpa} (пинать)'
+    glosses:
+    - тыкать
+    - x1=тыкающий
+    - x2=во что упирается
+  en-simple:
+    place structure: x1 pokes or prods x2
+    notes:
+    - No notes.
+    glosses:
+    - a poker
+    - x2=something poked
+  eo:
+    place structure: x1 (objekto, ĝenerale pinta) pikas/pikfrapas/pintpuŝas x2-on
+      (spertanto)
+    notes:
+    - Agenta (= {tungau}, {tunzu'e}).  Vidu ankaŭ {balre}, {dakfu}, {darxi}, {fanza},
+      {jicla}, {katna}, {tikpa}.
+    glosses:
+    - piki
+  hu:
+    place structure: x1 megböki/megszúrja x2-t
+    notes:
+    - '(Lásd még: {balre}, {dakfu}, {darxi}, {fanza}, {jicla}, {katna}, {tikpa})'
+    glosses:
+    - bök
+  ja:
+    place structure: x1 （物）は x2 を刺す／突く／突き刺す／つつく；  x2 は x1 に刺される
+    notes:
+    - ・大意： 突く ・読み方： トゥンタ  ・関連語： {balre}, {dakfu}, {darxi}, {fanza}, {jicla}, {katna},
+      {tikpa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体）刺/戳x2
+    notes:
+    - （施事的）刺/戳= {tungau}/{tunzu'e}；参见 {balre}, {dakfu}, {darxi}, {fanza}, {jicla},
+      {katna}, {tikpa}.
+    glosses:
+    - No glosses.

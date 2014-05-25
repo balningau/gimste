@@ -1,7 +1,68 @@
-Word: stasu
-Rafsi: ''
-Definition: x1 is a quantity of soup/stew/olla/olio [food] of ingredients including
-  x2.
-Notes: $x_2$ is in $x_1$, an ingredient/part/component of $x_1$.  See also {sanmi},
-  {mixre}, {salta}, {sanso}.
-Examples: None
+word: stasu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of soup/stew/olla/olio [food] of ingredients
+      including x2.
+    notes:
+    - x2 is in x1, an ingredient/part/component of x1.  See also {sanmi}, {mixre},
+      {salta}, {sanso}.
+    glosses:
+    - soup
+  de:
+    place structure: x1 ist eine Menge an Suppe/Eintopf [Nahrung] mit Zutaten unter
+      anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Suppe
+  es:
+    place structure: x1 es una cantidad de sopa/estofado de ingredientes x2
+    notes:
+    - No notes.
+    glosses:
+    - sopa
+  ru:
+    place structure: x1 — суп/похлебка из/с x2
+    notes:
+    - x2 входит в x1, есть компонент/ингредиент супа x1 {sanmi} (трапеза), {mixre}
+      (смесь), {salta} (салат [блюдо]), {sanso} (соус)
+    glosses:
+    - суп
+    - x2=состав супа
+  en-simple:
+    place structure: x1 is a quantity of soup with ingredients x2
+    notes:
+    - No notes.
+    glosses:
+    - a soup
+    - x2=a soup ingredient
+  eo:
+    place structure: x1 estas kvanto da supo/stufaĵo [manĝaĵo] kun ingrediencoj incluzivantaj
+      x2-on
+    notes:
+    - x2 estas en x1, ingredienco/parto/ero de x1.  Vidu ankaŭ {sanmi}, {mixre}, {salta},
+      {sanso}.
+    glosses:
+    - supo
+  hu:
+    place structure: x1 bizonyos mennyiségű leves/ragu x2 összetevőkből
+    notes:
+    - '(Lásd még: {sanmi}, {mixre}, {salta}, {sanso})'
+    glosses:
+    - leves
+  ja:
+    place structure: x1 は x2 （食材）のスープ／シチュー／煮物
+    notes:
+    - 料理としての「鍋」も。 ・大意： スープ ・読み方： スタス  ・関連語： {sanmi}, {mixre}, {salta}, {sanso}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是汤/什锦菜/杂烩，配料包括x2
+    notes:
+    - x2是x1的配方/组分/配料；参见 {sanmi}, {mixre}, {salta}, {sanso}.
+    glosses:
+    - No glosses.

@@ -1,12 +1,107 @@
-Word: jinga
-Rafsi: jig, ji'a
-Definition: x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers]
-  in competition x4.
-Notes: 'Also: $x_1$ is a victor; $x_2$ reward; $x_3$ competitors here are opponents
-  and in many situations, defeated/losers, vs. the set of those competing for a goal;
-  $x_2$ may be a specific object, a commodity (mass), an event, or a property; pedantically,
-  for objects/commodities, this is sumti-raising from ownership of the object/commodity
-  (= {posyji''a}, {posyselji''a} for unambiguous semantics).   See also {cirko}, {jivna},
-  {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi}, {kargu},
-  {kelci}.'
-Examples: None
+word: jinga
+rafsi:
+- jig
+- ji'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers]
+      in competition x4.
+    notes:
+    - 'Also: x1 is a victor; x2 reward; x3 competitors here are opponents and in many
+      situations, defeated/losers, vs. the set of those competing for a goal; x2 may
+      be a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {posyji''a}, {posyselji''a} for unambiguous semantics).   See also {cirko},
+      {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi},
+      {kargu}, {kelci}.'
+    glosses:
+    - win
+  de:
+    place structure: x1 (Person/Team) gewinnt/erhält den Preis/Gewinn x2 gegen/anstatt
+      x3 [Konkurrent/Verlierer] in Wettkampf x4
+    notes:
+    - No notes.
+    glosses:
+    - gewinnen
+  es:
+    place structure: x1 gana premio x2 entre competidores x3 en competición x4
+    notes:
+    - Ver también {cnemu},  {prali},  {pleji}.
+    glosses:
+    - ganar
+  ru:
+    place structure: x1 (лицо/команда) выигрывает награду/приз x2 у x3 (соперники/проигравшие)
+      в соревновании/состязании x4
+    notes:
+    - 'x1 — победитель; x2 Также: премия/добыча; соперники x3 во многих случаях Также:
+      проигравшие/побежденные; x2 м.б. конкретным объектом, товаром (масса), событием
+      или свойством; строго говоря, для объектов/товаров мы имеем дело с подъемом
+      sumti от владения объектом/товаром: {posyji''a}, {posyselji''a} для однозначной
+      семантики) {cirko} (терять), {jivna} (соревноваться), {talsa} (оспаривать),
+      {cnemu} (воздавать), {prali} (прибыль), {pleji} (платить), {sfasa} (наказывать),
+      {jdima} (цена), {jerna} (зарабатывать), {bradi} (враг), {kargu} (дорогой [дорогостоящий]),
+      {kelci} (играть [в игру/игрушку])'
+    glosses:
+    - выигрывать
+    - x1=выигрывающий
+    - x2=приз
+    - x3=проигравший
+  en-simple:
+    place structure: x1 wins prize x2 from x3 in competition x4
+    notes:
+    - No notes.
+    glosses:
+    - a winner
+    - x2=a prize won
+    - x3=something a prize is won from
+    - x4=a competition with a winner
+  eo:
+    place structure: x1 (homo/teamo) gajnas premion x2 venkante x3-on [konkurantoj/perdantoj]
+      en konkuro/konkurso x4
+    notes:
+    - 'Ankaŭ: x1 triumfas/estas venkinto; x2 rekompenco; x3 konkurantoj ĉi tie estas
+      kontraŭantoj kaj en multaj situacioj, venkitoj/perdintoj, kontraŭ la aro de
+      tiuj konkurantaj por celo; x2 povas esti specifa objekto, varo (kolektivaĵo),
+      okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo
+      de la objekto/varo (= {posyji''a}, posyselji''a por neambigua {semantiko}).  Vidu
+      ankaŭ {cirko}, {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima},
+      {jerna}, {bradi}, {kargu}, {kelci}.'
+    glosses:
+    - gajni
+  hu:
+    place structure: x1 elnyeri x2 díjat x3 ellen, x4 versenyben
+    notes:
+    - '(Lásd még: {cirko}, {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima},
+      {jerna}, {bradi}, {kargu}, {kelci})'
+    glosses:
+    - nyer
+  ja:
+    place structure: x1 は x2 （利益）を x3 （競合相手）から x4 （試合）において勝ち取る；  x1 は x3 に勝利する
+    notes:
+    - ・大意： 勝つ ・読み方： ジンガ  ・語呂合わせ： 現地人が勝つ ・関連語： {cirko}, {jivna}, {talsa}, {cnemu},
+      {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi}, {kargu}, {kelci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (person/lag) vinner/tilldelas pris x2 från/över x3 [medtävlande/förlorare]
+      i tävling/match x4.
+    notes:
+    - 'Även: x2 belöning; x3 tävlande här är motståndare och i många olika situationer,
+      besegrade/förlorare, mot det set av dem som tävlar mot ett mål; x2 kan vara
+      ett specifikt föremål, en mängdvara (massa), en händelse, eller en egenskap;
+      för att vara pedantisk, så är detta sumti-höjande för föremål/mängdvaror, genom
+      ägandeskap av detsamma (= {posyji''a}, {posyselji''a} för otvetydig semantik).'
+    glosses:
+    - vinna
+    - vinnare
+  zh:
+    place structure: x1 (人/团队) 赢得/获胜/获(奖) x2 从(对手) x3  手中 在竞争 x4.
+    notes:
+    - x1 是胜利者/获胜者; $_x2$ 奖品/战利品（物质或精神上或象征）; $_x3$ 是对手，可以是任何与$_x1$争夺$_x2$的; $_x2$ 可以是特别的物品，一件事，一场比赛，又或者是女朋友，等等。
+    - 参见： {cirko}, {jivna}, {talsa}, {cnemu},{prali}, {pleji},{sfasa}, {jdima}, {jerna},
+      {bradi}, {kargu},{kelci}.
+    - ''
+    glosses:
+    - 赢

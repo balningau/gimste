@@ -1,5 +1,77 @@
-Word: dunja
-Rafsi: duj
-Definition: x1 freezes/jells/solidifies at temperature x2 and pressure x3.
-Notes: See also {febvi}, {lunsa}, {runme}, {sligu}.
-Examples: None
+word: dunja
+rafsi:
+- duj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 freezes/jells/solidifies at temperature x2 and pressure x3.
+    notes:
+    - See also {febvi}, {lunsa}, {runme}, {sligu}.
+    glosses:
+    - freeze
+  de:
+    place structure: x1 friert/stockt/verfestigt sich bei Temperatur x2 und Druck
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - frieren
+  es:
+    place structure: x1 se congela/solidifica a temperatura x2, presión x3
+    notes:
+    - Ver también {runme},  {febvi},  {lunsa}.
+    glosses:
+    - congelarse
+  ru:
+    place structure: x1 замерзает/затвердевает/загустевает при температуре x2 и давлении
+      x3
+    notes:
+    - '{febvi} (кипеть), {lunsa} (конденсироваться), {runme} (плавиться), {sligu}
+      (твердый [состояние вещества])'
+    glosses:
+    - замерзать
+    - x1=замерзающий
+    - x2=температура замерзания
+  en-simple:
+    place structure: x1 freezes at temperature x2 and pressure x3
+    notes:
+    - No notes.
+    glosses:
+    - something freezing
+    - x2=a freezing temperature
+    - x3=a freezing pressure
+  eo:
+    place structure: x1 frostiĝas/ĝeliĝas/solidiĝas je temperaturo x2 kaj premo x3
+    notes:
+    - Vidu ankaŭ {febvi}, {lunsa}, {runme}, {sligu}.
+    glosses:
+    - frostiĝi
+  hu:
+    place structure: x1 megfagy/megszilárdul x2 hőmérsékleten, x3 nyomás alatt
+    notes:
+    - '(Lásd még: {febvi}, {lunsa}, {runme}, {sligu})'
+    glosses:
+    - megfagy
+  ja:
+    place structure: x1 は x2 （温度）・ x3 （圧力）で凍る；  x1 は凍っている
+    notes:
+    - ・大意： 凍る ・読み方： ドゥンジャ  ・関連語： {febvi}, {lunsa}, {runme}, {sligu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 fryser/blir gelé/stelnar vid temperatur x2 och tryck x3.
+    notes:
+    - No notes.
+    glosses:
+    - frysa (stelna vid viss temperatur)
+    - stelna (vid viss temperatur)
+    - x1=djupfryst (stelnad)
+    - x2=frystemperatur (temperatur när något stelnar)
+    - x3=frystryck (tryck när något stelnar)
+  zh:
+    place structure: x1冻结/凝结/固化/凝固，在温度x2下，压强x3下
+    notes:
+    - 参见 {febvi}, {lunsa}, {runme}, {sligu}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,94 @@
-Word: zvati
-Rafsi: zva
-Definition: x1 (object/event) is at/attending/present at x2 (event/location).
-Notes: Atemporal; location equivalent of {cabna}.  Refers to a nonce location for
-  an object/activity that is mobile.  (cf. especially {stuzi} for an inherent/inalienable
-  location, {jbini}, {nenri}, se {vasru}, {cpana}, {diklo}, {jibni}, {cabna}, {lamji},
-  {tcini}, {xabju}, {jmive}, {jundi}, {vitke})
-Examples: None
+word: zvati
+rafsi:
+- zva
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/event) is at/attending/present at x2 (event/location).
+    notes:
+    - Atemporal; location equivalent of {cabna}.  Refers to a nonce location for an
+      object/activity that is mobile.  (cf. especially {stuzi} for an inherent/inalienable
+      location, {jbini}, {nenri}, se {vasru}, {cpana}, {diklo}, {jibni}, {cabna},
+      {lamji}, {tcini}, {xabju}, {jmive}, {jundi}, {vitke})
+    glosses:
+    - at
+    - x1=position (place/location)
+  jbo:
+    place structure: x1 dunli x2 le ka ce'u fasnu bu'u makau
+    notes:
+    - '{bu''u}'
+    glosses:
+    - zvati
+  de:
+    place structure: x1 (Objekt/Ereignis) ist an x2 (Ort)/auf x2 (Veranstaltung)
+    notes:
+    - No notes.
+    glosses:
+    - an (an einem Ort sein/stattfinden)
+    - auf (auf einer Veranstaltung sein/stattfinden)
+    - x2=Ort ; Veranstaltung (räumliche Positionsbestimmung)
+  es:
+    place structure: x1 está/está presente en/asiste a evento x2
+    notes:
+    - Ver también {stuzi},  {diklo}.
+    glosses:
+    - estar
+  ru:
+    place structure: x1 (объект/событие) находится в,на/присутствует на x2 (событе/место)
+    notes:
+    - '[текущее местонахождение мобильного объекта/события]; (ср. в частности {stuzi}
+      - постоянное/неизменное местонахождение, {jbini}, {nenri}, se vasru, {cpana},
+      {diklo}, {jibni}, {cabna}, {lamji}, {tcini}, {xabju}, {jmive}, {jundi}, {vitke})'
+    glosses:
+    - No glosses.
+  art-guaspi:
+    place structure: \x1 /jir \x2
+    notes:
+    - No notes.
+    glosses:
+    - jir
+  en-simple:
+    place structure: x1 is present at x2
+    notes:
+    - No notes.
+    glosses:
+    - something which is present
+    - x2=a location something is present at
+  eo:
+    place structure: x1 (objekto/okazo) ĉeestas je x2 (okazo/loko)
+    notes:
+    - Momenta pozicio de movebla objekto/ago.  (kp. precipe stuzi por esenca/nealiigebla
+      loko, jbini, nenri, se vasru, cpana, diklo, jibni, cabna, lamji, tcini, xabju,
+      jmive, jundi, vitke)
+    glosses:
+    - ĉeesti
+  hu:
+    place structure: x1 tárgy/esemény jelen van x2 helyen/esemény helyén
+    notes:
+    - '(Lásd még: {stuzi}, {jbini}, {nenri}, {vasru}, {cpana}, {diklo}, {jibni}, {cabna},
+      {lamji}, {tcini}, {xabju}, {jmive}, {jundi}, {vitke})'
+    glosses:
+    - jelen van
+  ja:
+    place structure: x1 （物／事）が x2 （事／所）に居る／在る
+    notes:
+    - 本質的な所在でなく、一時的な所在。 ・大意： 居る ・読み方： ズヴァティ  ・語呂合わせ： ＜ずっとバチカンに居る＞, zai 在 ・関連語： {stuzi}
+      (本来・固有の場所), {jbini}, {nenri}, {se} {vasru}, {cpana}, {diklo}, {jibni}, {cabna},
+      {lamji}, {tcini}, {xabju}, {jmive}, {jundi}, {vitke}
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er til stede/foregår i/ved/på x2 (hendelse/sted)
+    notes:
+    - No notes.
+    glosses:
+    - foregå
+    - fremmøtt
+    - til stede
+    - x2=sted
+  zh:
+    place structure: x1(事/物)存在/附着/出现于(事/物)x2
+    notes:
+    - No notes.
+    glosses:
+    - 在

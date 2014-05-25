@@ -1,5 +1,61 @@
-Word: titla
-Rafsi: tit
-Definition: x1 is sweet/sugary/saccharine to observer x2.
-Notes: See also {sakta}, {slari}, {kurki}.
-Examples: None
+word: titla
+rafsi:
+- tit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is sweet/sugary/saccharine to observer x2.
+    notes:
+    - See also {sakta}, {slari}, {kurki}.
+    glosses:
+    - sweet
+  de:
+    place structure: x1 ist süß/zuckrig/zuckersüß für Wahrnehmenden x2
+    notes:
+    - No notes.
+    glosses:
+    - süß
+  es:
+    place structure: x1 es dulce para x2
+    notes:
+    - No notes.
+    glosses:
+    - dulce
+  ru:
+    place structure: x1 имеет сладкий/сахарный вкус для наблюдателя x2
+    notes:
+    - '{sakta} (сахар), {slari} (кислый), {kurki} (горький)'
+    glosses:
+    - x1=сладкий
+  en-simple:
+    place structure: x1 is sweet or sugary to x2
+    notes:
+    - No notes.
+    glosses:
+    - something sweet
+    - x2=something to which something is sweet
+  eo:
+    place structure: x1 estas dolĉa/sukera por observanto x2
+    notes:
+    - Vidu ankaŭ {sakta}, {slari}, {kurki}.
+    glosses:
+    - dolĉa
+  hu:
+    place structure: x1 édes ízű x2 megfigyelő számára
+    notes:
+    - '(Lásd még: {sakta}, {slari}, {kurki})'
+    glosses:
+    - édes
+  ja:
+    place structure: x1 は x2 にとって甘い
+    notes:
+    - 比喩的に「甘ったるい」も。 ・大意： 甘い ・読み方： ティトルァ  ・関連語： {sakta}, {slari}, {kurki}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是甜的，对于观察者x2来说
+    notes:
+    - 参见 {sakta}, {slari}, {kurki}.
+    glosses:
+    - No glosses.

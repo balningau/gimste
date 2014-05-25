@@ -1,5 +1,64 @@
-Word: lanxe
-Rafsi: lax
-Definition: x1 is in balance/equilibrium under forces x2 (mass).
-Notes: (cf. {midju}, {nutli}; {fapro} for balancing/opposing forces, {nutli})
-Examples: None
+word: lanxe
+rafsi:
+- lax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is in balance/equilibrium under forces x2 (mass).
+    notes:
+    - (cf. {midju}, {nutli}; {fapro} for balancing/opposing forces, {nutli})
+    glosses:
+    - balance
+  de:
+    place structure: x1 ist in Balance/ausgeglichen/ein Gleichgewicht unter Kräften
+      x2 (Masse)
+    notes:
+    - No notes.
+    glosses:
+    - Balance
+  es:
+    place structure: x1 está en equilibrio/balanceado por fuerzas x2
+    notes:
+    - Ver también {fapro},  {midju},  {nutli}.
+    glosses:
+    - equilibrio
+  ru:
+    place structure: x1 находится в равновесии/уравновешен под действием сил x2 (масса)
+    notes:
+    - '{midju} (середина), {nutli} (нейтральный); {fapro} (противостоять) для «удерживать
+      равновесие под действием сил», {nutli} (нейтральный)'
+    glosses:
+    - уравновешен (в равновесии)
+    - x1=уравновешенный (в равновесии)
+  en-simple:
+    place structure: x1 is in balance under forces x2
+    notes:
+    - No notes.
+    glosses:
+    - something balanced
+    - x2=a balancing force
+  eo:
+    place structure: x1 estas en ekvilibro sub fortoj x2 (kolektivaĵo)
+    notes:
+    - (kp. midju, nutli; fapro por ekvilibrigaj/kontraŭaj fortoj, nutli)
+    glosses:
+    - ekvilibra
+  hu:
+    place structure: x1 egyensúlyban van x2 erők hatása alatt
+    notes:
+    - '(Lásd még: {midju}, {nutli}, {fapro}, {nutli})'
+    glosses:
+    - egyensúlyban van
+  ja:
+    place structure: x1 は x2 （量群）によってバランスがとれている／平衡／均衡状態にある
+    notes:
+    - ・大意： 均衡 ・読み方： ルァンクェ  ・関連語： {midju}, {nutli}; {fapro}, {nutli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是平衡的/保持着平衡，在力x2（团）的作用下
+    notes:
+    - 参见 {midju}, {nutli}，{fapro} ,{nutli}
+    glosses:
+    - No glosses.

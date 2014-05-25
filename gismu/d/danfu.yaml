@@ -1,6 +1,81 @@
-Word: danfu
-Rafsi: daf
-Definition: x1 is the answer/response/solution/[reply] to question/problem x2.
-Notes: (cf. {ciksi}, {frati}, {preti}, {nabmi}, {spuda} for agentive response/reply,
-  {cpedu})
-Examples: None
+word: danfu
+rafsi:
+- daf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the answer/response/solution/[reply] to question/problem
+      x2.
+    notes:
+    - (cf. {ciksi}, {frati}, {preti}, {nabmi}, {spuda} for agentive response/reply,
+      {cpedu})
+    glosses:
+    - answer
+  de:
+    place structure: x1 ist die Antwort/Lösung/Erwiderung/Reaktion auf Frage/Problem
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Antwort
+  es:
+    place structure: x1 es la respuesta/solución a pregunta/problema x2
+    notes:
+    - Ver también {preti},  {nabmi},  {spuda}.
+    glosses:
+    - respuesta
+  ru:
+    place structure: x1 — ответ на вопрос x2; x1 — решение проблемы x2
+    notes:
+    - '{ciksi} (объяснять), {frati} (реагировать), {preti} (вопрос), {nabmi} (проблема),
+      {spuda} (отвечать [реагировать]) для деятельного ответа, {cpedu} (просить)'
+    glosses:
+    - x1=ответ
+  en-simple:
+    place structure: x1 is the answer or solution to question or problem x2
+    notes:
+    - No notes.
+    glosses:
+    - an answer
+    - x2=a problem with an answer
+  eo:
+    place structure: x1 estas la respondo/solvo [repliko] al demando/problemo x2
+    notes:
+    - (kp. ciksi, frati, preti, nabmi, spuda por aganta respondo/repliko, cpedu)
+    glosses:
+    - respondo
+  hu:
+    place structure: x1 egy/a válasz/felelet/megoldás x2 kérdésre/problémára
+    notes:
+    - '(Lásd még: {ciksi}, {frati}, {preti}, {nabmi}, {spuda}, {cpedu})'
+    glosses:
+    - válasz
+  ja:
+    place structure: x1は、質問/問題x2に対する解答/返答である
+    notes:
+    - '参照: {ciksi}, {frati}, {preti}, {nabmi}, {spuda} (答える、動詞的な), {cpedu}'
+    glosses:
+    - 答え
+  pl:
+    place structure: x1 jest odpowiedzią/rozwiązaniem na pytanie/problem x2.
+    notes:
+    - No notes.
+    glosses:
+    - odpowiedź
+    - rozwiązanie
+  sv:
+    place structure: x1 är svaret/lösningen/responsen på fråga/problem x2.
+    notes:
+    - För agentiv respons/svara någon (={spuda}). Se även {ciksi}, {frati}, {preti},
+      {nabmi}, {cpedu}.
+    glosses:
+    - respons (på problem/fråga)
+    - svar (icke-agentiv; lösning)
+    - x1=lösning (på problem/fråga)
+    - x2=problem/fråga (p/f har lösning x1)
+  zh:
+    place structure: x1是答复/回答/回应，对于问题x2
+    notes:
+    - 参见 {ciksi}, {frati}, {preti}, {nabmi}, {spuda}施事动词的答复, {cpedu}
+    glosses:
+    - No glosses.

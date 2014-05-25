@@ -1,5 +1,61 @@
-Word: manku
-Rafsi: man
-Definition: x1 is dark/lacking in illumination.
-Notes: (cf. {blabi}, {gusni}, {ctino}; use {kandi} or {xekri} with colors, {ctino})
-Examples: None
+word: manku
+rafsi:
+- man
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dark/lacking in illumination.
+    notes:
+    - (cf. {blabi}, {gusni}, {ctino}; use {kandi} or {xekri} with colors, {ctino})
+    glosses:
+    - dark
+  de:
+    place structure: x1 ist dunkel/ohne Beleuchtung
+    notes:
+    - (vgl. blabi, gusni, ctino; benutze kandi oder xekri mit Farben, ctino)
+    glosses:
+    - dunkel
+  es:
+    place structure: x1 es oscuro/falto de iluminación
+    notes:
+    - Ver también {gusni},  {ctino}.
+    glosses:
+    - oscuro
+  ru:
+    place structure: x1 — темный/неосвещенный
+    notes:
+    - '{blabi} (белый), {gusni} (свет), {ctino} (тень); в применении к цвету: {kandi}
+      (тусклый) или {xekri} (черный)'
+    glosses:
+    - x1=тёмный
+  en-simple:
+    place structure: x1 is dark
+    notes:
+    - No notes.
+    glosses:
+    - something dark
+  eo:
+    place structure: x1 estas malhela/malmulte lumigita
+    notes:
+    - (kp. blabi, gusni, ctino; uzu je kandi aŭ xekri kun koloroj, ctino)
+    glosses:
+    - malhela
+  hu:
+    place structure: x1 sötét / nem megvilágított
+    notes:
+    - '(Lásd még: {blabi}, {gusni}, {ctino}, {kandi}, {xekri})'
+    glosses:
+    - sötét
+  ja:
+    place structure: x1 は暗い／闇
+    notes:
+    - ・大意： 暗い ・読み方： マンク  ・関連語： {blabi}, {gusni}, {ctino}; {kandi}, {xekri}, {ctino}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是黑暗的/缺少光照的
+    notes:
+    - 使用{kandi}或{xekri} 形容颜色；参见 {blabi}, {gusni}, {ctino}
+    glosses:
+    - No glosses.

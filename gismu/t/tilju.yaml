@@ -1,5 +1,65 @@
-Word: tilju
-Rafsi: tij
-Definition: x1 is heavy/weighty in mass/weight by standard x2.
-Notes: (cf. {linto}; {carmi}, se {junri} for metaphor, {bunda}, {junta})
-Examples: None
+word: tilju
+rafsi:
+- tij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is heavy/weighty in mass/weight by standard x2.
+    notes:
+    - (cf. {linto}; {carmi}, se {junri} for metaphor, {bunda}, {junta})
+    glosses:
+    - heavy
+  de:
+    place structure: x1 ist schwer/gewichtig an Masse/Gewicht gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - schwer
+  es:
+    place structure: x1 es pesado según estándar x2
+    notes:
+    - Ver también {linto}.
+    glosses:
+    - pesado
+  ru:
+    place structure: x1 — тяжелый/массивный/весомый (масса/вес) по стандарту x2
+    notes:
+    - «Тяжелый» в смысле «трудный» — {nandu} {linto} (легкий [масса/вес]); {carmi}
+      (интенсивный), {se} {junri} (серьезный) для метафор, {bunda} (весить [в неметрических
+      единицах]), {junta} (вес)
+    glosses:
+    - x1=тяжёлый
+  en-simple:
+    place structure: x1 is heavy or massive by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - something heavy
+    - x2=a standard of heaviness
+  eo:
+    place structure: x1 estas peza en maso/pezo laŭ normo x2
+    notes:
+    - (kp. linto; carmi, se junri por metaforo, bunda, junta)
+    glosses:
+    - peza
+  hu:
+    place structure: x1 nehéz/súlyos / nagy súlyú/tömegű x2 mérce szerint
+    notes:
+    - '(Lásd még: {linto}, {carmi}, {junri}, {bunda}, {junta})'
+    glosses:
+    - nehéz (súlyos)
+  ja:
+    place structure: x1 は x2 （基準／観点）において重い
+    notes:
+    - 「lo bakni ke tilju selbei zo'u viska je badri／牛の重荷は見てかなしい」（山頭火『行乞記（二）』） ・大意：
+      重い ・読み方： ティルゥジュ ・語呂合わせ： juu 重 ・関連語： {linto}; {carmi}, {se} {junri}, {bunda},
+      {junta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是重的/沉重的（在质量/重量上），基于标准x2
+    notes:
+    - 参见 {linto}, {carmi}, se {junri}用于比喻, {bunda}, {junta}
+    glosses:
+    - No glosses.

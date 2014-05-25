@@ -1,5 +1,68 @@
-Word: siclu
-Rafsi: sil
-Definition: x1 [sound source] whistles/makes whistling sound/note/tone/melody x2.
-Notes: See also {sance}, {tonga}, {sanga}, {zgike}, {savru}.
-Examples: None
+word: siclu
+rafsi:
+- sil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [sound source] whistles/makes whistling sound/note/tone/melody
+      x2.
+    notes:
+    - See also {sance}, {tonga}, {sanga}, {zgike}, {savru}.
+    glosses:
+    - whistle
+  de:
+    place structure: x1 [Geräuschquelle] pfeift/erzeugt einen Pfeifton/eine Note/Klang/Melodie
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - pfeifen
+  es:
+    place structure: x1 silba/hace sonido sibilante x2
+    notes:
+    - No notes.
+    glosses:
+    - silbar
+  ru:
+    place structure: x1 свистит, производя звук/ноту/тон/мелодию x2; x1 насвистывает
+      x2
+    notes:
+    - '{sance} (звук), {tonga} (тон), {sanga} (петь), {zgike} (музыка), {savru} (шум)'
+    glosses:
+    - свистеть
+    - x1=свистящий
+    - x2=свист
+  en-simple:
+    place structure: x1 whistles sound x2
+    notes:
+    - No notes.
+    glosses:
+    - a whistler
+    - x2=something whistled
+  eo:
+    place structure: x1 [sonfonto] siblas/fajfas/faras siblan sonon/noton/tonon/melodion
+      x2
+    notes:
+    - Vidu ankaŭ {sance}, {tonga}, {sanga}, {zgike}, {savru}.
+    glosses:
+    - sibli
+  hu:
+    place structure: x1 fütyüli/sípolja x2 hangot/dallamot
+    notes:
+    - '(Lásd még: {sance}, {tonga}, {sanga}, {zgike}, {savru})'
+    glosses:
+    - fütyül
+  ja:
+    place structure: x1 は x2 （音）をさえずる
+    notes:
+    - x2 は「口笛」「汽笛」なども。 ・大意： さえずる ・読み方： スィシルゥ  ・語呂合わせ： silbar, whistle ・関連語： {sance},
+      {tonga}, {sanga}, {zgike}, {savru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（声音来源）鸣笛/吹哨发出声音/韵律/调子x2
+    notes:
+    - 参见 {sance}, {tonga}, {sanga}, {zgike}, {savru}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,92 @@
-Word: bloti
-Rafsi: lot, blo, lo'i
-Definition: x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3.
-Notes: See also {falnu}, {fulta}, {marce}, {jatna}, {sabnu}.
-Examples: None
+word: bloti
+rafsi:
+- lot
+- blo
+- lo'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled
+      by x3.
+    notes:
+    - See also {falnu}, {fulta}, {marce}, {jatna}, {sabnu}.
+    glosses:
+    - boat
+  de:
+    place structure: x1 ist ein Boot/Schiff [Fahrzeug] für den Transport von x2, angetrieben
+      durch x3
+    notes:
+    - No notes.
+    glosses:
+    - Boot
+  es:
+    place structure: x1 es un bote/barco/embarcación/navío/nave (vehículo) para pasajeros/carga
+      x2, propelido/impulsado por x3
+    notes:
+    - No notes.
+    glosses:
+    - bote
+  ru:
+    place structure: x1 — лодка/корабль/судно (средство передвижения) для перевозки
+      x2 (чего), движимое x3 (чем)
+    notes:
+    - '{falnu} (парус), {fulta} (плавать [пассивно]), {marce} (транспорт), {jatna}
+      (лидер), {sabnu} (кабина)'
+    glosses:
+    - корабль
+  en-simple:
+    place structure: x1 is a boat or ship for carrying x2 propelled by x3
+    notes:
+    - No notes.
+    glosses:
+    - a boat
+    - x2=a cargo of a boat
+    - x3=a propulsion of a boat
+  eo:
+    place structure: x1 estas boato/ŝipo [veturilo] por porti x2-on, pelita de x3
+    notes:
+    - Vidu ankaŭ {falnu}, {fulta}, {marce}, {jatna}, {sabnu}.
+    glosses:
+    - boato
+  hu:
+    place structure: x1 egy hajó/bárka/csónak x2 szállítására, x3 meghajtással
+    notes:
+    - '(Lásd még: {falnu}, {fulta}, {marce}, {jatna}, {sabnu})'
+    glosses:
+    - hajó
+  ja:
+    place structure: x1 は x2 （客／荷）・ x3 （原動力）の船／ボート
+    notes:
+    - ・大意： 船 ・読み方： ブルォティ  ・語呂合わせ： ぼろっちい,  boat  ・関連語： {falnu}, {fulta}, {marce}, {jatna},
+      {sabnu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en båt/skip/vanngående fremkomstmiddel/fartøy med last
+      x2 drevet av x3
+    notes:
+    - Se òg {falnu}, {fulta}, {marce}, {jatna}, {sabnu}, {limna}, {bevri}.
+    glosses:
+    - båt
+    - vanngående fartøy
+    - x1=skip
+    - x2=skipslast
+    - x3=drivkraft for skip
+  sv:
+    place structure: x1 är en båt/fartyg/skepp/vattenburet fordon som transporterar
+      x2, som drivs med x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=båt
+    - x2=båtlast
+    - x3=båtdrivmedel
+  zh:
+    place structure: x1 是 艇/舟/船/载具 ,承载x2, 由 x3推进.
+    notes:
+    - 参考:{falnu}, {fulta}, {marce}, {jatna}, {sabnu}.
+    glosses:
+    - 舟
+    - 船
+    - x1= 艇

@@ -1,6 +1,66 @@
-Word: zbabu
-Rafsi: bab
-Definition: x1 is a quantity of/contains/is made of soap from source x2 of composition
-  including x3.
-Notes: See also {lumci}, {fonmo}.
-Examples: None
+word: zbabu
+rafsi:
+- bab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of soap from source x2 of
+      composition including x3.
+    notes:
+    - See also {lumci}, {fonmo}.
+    glosses:
+    - soap
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Seife aus Quelle x2
+      mit einer Zusammensetzung unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Seife
+  es:
+    place structure: x1 es una cantidad de jabón de origen x2 de composición x3
+    notes:
+    - No notes.
+    glosses:
+    - jabón
+  ru:
+    place structure: x1 — мыло из источника x2, в состав которого входит x3; x1 содержит
+      мыло
+    notes:
+    - '{lumci} (мыть), {fonmo} (пена)'
+    glosses:
+    - x1=мыло
+  en-simple:
+    place structure: x1 is a quantity of soap from x2 including composition x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of soap
+    - x2=a source of soap
+    - x3=a composition of soap
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el sapo el fonto x2 de konsisto
+      enhavanta x3-on
+    notes:
+    - Vidu ankaŭ {lumci}, {fonmo}.
+    glosses:
+    - sapo
+  hu:
+    place structure: x1 bizonyos mennyiségű szappan x2 forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {lumci}, {fonmo})'
+    glosses:
+    - szappan
+  ja:
+    place structure: x1 は x2 （起源）・ x3 （成分）の石鹸
+    notes:
+    - ・大意： 石鹸 ・読み方： ズバブ  ・語呂合わせ： ＜ずっとバブル石鹸＞,バブル ・関連語： {lumci}, {fonmo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是肥皂/香皂，来源于x2，具有组分x3
+    notes:
+    - 参见 {lumci}, {fonmo}.
+    glosses:
+    - No glosses.

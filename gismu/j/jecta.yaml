@@ -1,7 +1,77 @@
-Word: jecta
-Rafsi: jec, je'a
-Definition: x1 is a polity/state governing territory/domain x2; [government/territory
-  relationship].
-Notes: (adjective:) $x_1$ is civil/political.  See also {gugde}, {tutra}, {turni},
-  {natmi}, {jansu}, {lanci}, {cecmu}.
-Examples: None
+word: jecta
+rafsi:
+- jec
+- je'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a polity/state governing territory/domain x2; [government/territory
+      relationship].
+    notes:
+    - (adjective:) x1 is civil/political.  See also {gugde}, {tutra}, {turni}, {natmi},
+      {jansu}, {lanci}, {cecmu}.
+    glosses:
+    - polity
+  de:
+    place structure: x1 ist ein Staat/Gemeinwesen mit Herrschaft über Territorium/Domäne
+      x2 [Beziehung zwischen Regierung und Gebiet]
+    notes:
+    - No notes.
+    glosses:
+    - Staat
+  es:
+    place structure: x1 es un estado que gobierna territorio/dominio x2
+    notes:
+    - Ver también {gugde},  {tutra},  {turni},  {natmi}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — государство, управляющее территорией x2
+    notes:
+    - Связь правительство–территория {gugde} (страна), {tutra} (территория), {turni}
+      (править), {natmi} (народ), {jansu} (дипломат), {lanci} (флаг), {cecmu} (сообщество
+      [организмов])
+    glosses:
+    - государство
+    - x2=территория, управляемая государством
+  en-simple:
+    place structure: x1 is a polity or state governing x2
+    notes:
+    - No notes.
+    glosses:
+    - a polity
+    - x2=something governed by a polity
+  eo:
+    place structure: x1 estas ŝtato/civito reganta teritorion/regnon x2; [rilato registaro/teritorio]
+    notes:
+    - (adjektivo:) x1 estas civila/politika.  Vidu ankaŭ {gugde}, {tutra}, {turni},
+      {natmi}, {jansu}, {lanci}, {cecmu}.
+    glosses:
+    - ŝtato
+  hu:
+    place structure: x1 egy állam/közigazgatás x2 terület igazgatására
+    notes:
+    - '(Lásd még: {gugde}, {tutra}, {turni}, {natmi}, {jansu}, {lanci}, {cecmu})'
+    glosses:
+    - állam
+  ja:
+    place structure: x1 は x2 （領域）の政体／政府
+    notes:
+    - ・大意： 政体 ・読み方： ジェシタ  ・語呂合わせ： 政府じぇした ・関連語： {gugde}, {tutra}, {turni}, {natmi},
+      {jansu}, {lanci}, {cecmu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett statsskick/stat som styr över territorium/domän x2;
+      [styre/territoriellt förhållande].
+    notes:
+    - (adjektiv:) x1 är medborgerlig/politisk.
+    glosses:
+    - stat (territoriums politiska motsvarighet)
+  zh:
+    place structure: x1是政体/政府/政治组织，控制/统治土地/主权范围x2
+    notes:
+    - x1是关于政治的；参见 {gugde}, {tutra}, {turni}, {natmi}, {jansu}, {lanci}, {cecmu}.
+    glosses:
+    - No glosses.

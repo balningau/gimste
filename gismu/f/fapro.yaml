@@ -1,7 +1,87 @@
-Word: fapro
-Rafsi: fap, pro
-Definition: x1 opposes/balances/contends against opponent(s) x2 (person/force ind./mass)
-  about x3 (abstract).
-Notes: Also resists.  See also {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe},
-  {rivbi}, {sarji}, {xarnu}.
-Examples: None
+word: fapro
+rafsi:
+- fap
+- pro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 opposes/balances/contends against opponent(s) x2 (person/force
+      ind./mass) about x3 (abstract).
+    notes:
+    - Also resists.  See also {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe},
+      {rivbi}, {sarji}, {xarnu}.
+    glosses:
+    - oppose
+  de:
+    place structure: x1 stellt sich x2 entgegen/ist ein Gegengewicht für x2 (Person/Kraft/Masse)
+      in Bezug auf x3 (Abstrakt)
+    notes:
+    - No notes.
+    glosses:
+    - entgegenstellen
+  es:
+    place structure: x1 se opone/contiende contra oponente/contrincante/fuerza x2
+      en tema/cuestión x3
+    notes:
+    - No notes.
+    glosses:
+    - oponerse
+  ru:
+    place structure: x1 противостоит/находится в оппозиции к оппонент(у/ам) x2 (лицо/сила,
+      индивид/масса) по поводу/в аспекте x3 (абстракция)
+    notes:
+    - 'Также: сопротивляется, противится; x1 — против {bandu} (защищать), {bradi}
+      (враг), {darlu} (отстаивать [позицию]), {damba} (драться), {jivna} (соревноваться),
+      {lanxe} (равновесие), {rivbi} (избегать [участи]), {sarji} (поддерживать [помогать]),
+      {xarnu} (сопротивляться [противостоять])'
+    glosses:
+    - противостоять
+    - x1=противостоящий
+  en-simple:
+    place structure: x1 opposes x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - an opposeer
+    - x2=an opponent
+    - x3=an issue of opposition
+  eo:
+    place structure: x1 kontraŭas/oponas/opozicias/ekvilibrigas kontraŭanton x2 (homo/forto)
+      pri x3 (abstraktaĵo)
+    notes:
+    - 'Ankaŭ: kontraŭstari, batali, rezisti.  Vidu ankaŭ {bandu}, {bradi}, {darlu},
+      {damba}, {jivna}, {lanxe}, {rivbi}, {sarji}, {xarnu}.'
+    glosses:
+    - kontraŭi
+  hu:
+    place structure: x1 ellenkezik/ellenszegül/ellenáll x2 személy(ek)/erő(k) ellen,
+      x3 ügyben
+    notes:
+    - '(Lásd még: {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe}, {rivbi}, {sarji},
+      {xarnu})'
+    glosses:
+    - ellenszegül
+  ja:
+    place structure: x1 は x2 （者／物／力）に、 x3 （事）について対抗する
+    notes:
+    - ・大意： 対抗 ・読み方： ファプロ  ・関連語： {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe},
+      {rivbi}, {sarji}, {xarnu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 går emot/motsätter sig/motarbetar/hävdar sig/balanserar mot
+      x2 x3.
+    notes:
+    - Även göra motstånd/står emot.
+    glosses:
+    - balansera emot
+    - motsätta sig
+    - stå emot (resistera)
+  zh:
+    place structure: x1反抗对手x2/与对手x2（人/力量，个体/团体）争斗，关于x3
+    notes:
+    - 也指：抵抗；参见 {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe}, {rivbi}, {sarji},
+      {xarnu}.
+    glosses:
+    - No glosses.

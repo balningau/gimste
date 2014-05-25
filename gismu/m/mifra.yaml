@@ -1,6 +1,70 @@
-Word: mifra
-Rafsi: mif
-Definition: x1 is encoded/cipher text of plain-text x2 by code/coding system x3; x1
-  is in code; x3 is a code.
-Notes: Code (= {termifra}).  See also {mipri}, {lerfu}, {sinxa}.
-Examples: None
+word: mifra
+rafsi:
+- mif
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is encoded/cipher text of plain-text x2 by code/coding system
+      x3; x1 is in code; x3 is a code.
+    notes:
+    - Code (= {termifra}).  See also {mipri}, {lerfu}, {sinxa}.
+    glosses:
+    - code
+  de:
+    place structure: x1 ist verschlüsselter/codierter Text/Chiffre von Klartext x2
+      mit Code/Verschlüsselung x3; x1 ist verschlüsselt/kodiert; x3 ist ein Code
+    notes:
+    - No notes.
+    glosses:
+    - Code
+  es:
+    place structure: x1 es texto cifrado de texto llano x2 con código x3
+    notes:
+    - Ver también {mipri}.
+    glosses:
+    - código
+  ru:
+    place structure: x1 — зашифрованный/закодированный вариант исходного текста x2,
+      полученный применением кода/системы кодирования x3; x1 — шифрованный текст;
+      x3 — шифр/код
+    notes:
+    - 'Код/шифр: {termifra}; шифровать: {mifygau} {mipri} (скрывать), {lerfu} (буква),
+      {sinxa} (символ)'
+    glosses:
+    - зашифрованный
+    - x2=текст, который шифруется
+    - x3=система кодирования текста
+  en-simple:
+    place structure: x1 is an encryption of x2 made using cipher x3
+    notes:
+    - No notes.
+    glosses:
+    - something encrypted
+    - x2=something not encrypted
+    - x3=a method of ecryption
+  eo:
+    place structure: x1 estas ĉifraĵo/kriptaĵo/kodigita teksto el malkaŝa teksto x2
+      laŭ ĉifro x3
+    notes:
+    - x1 estas ĉifrita; kodo (= {termifra}).  Vidu ankaŭ {mipri}, {lerfu}, {sinxa}.
+    glosses:
+    - ĉifraĵo
+  hu:
+    place structure: x1 egy kódolása x2 szövegnek, x3 kódrendszerben
+    notes:
+    - '(Lásd még: {mipri}, {lerfu}, {sinxa})'
+    glosses:
+    - kód
+  ja:
+    place structure: x1 は x2 （元の文字列）が x3 （暗号体系）によって符号化されたもの；  x1 は暗号
+    notes:
+    - ・大意： 暗号 ・読み方： ミフゥラ ・語呂合わせ： 暗号意味ふらふら ・関連語： {mipri}, {lerfu}, {sinxa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是纯文本x2的编码/密文，基于编码/密码系统x3；x1在密码中；x3是密码
+    notes:
+    - 密码= {termifra}；参见 {mipri}, {lerfu}, {sinxa}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,61 @@
-Word: vindu
-Rafsi: vid
-Definition: x1 is poisonous/venomous/toxic/a toxin to x2.
-Notes: See also {since}.
-Examples: None
+word: vindu
+rafsi:
+- vid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is poisonous/venomous/toxic/a toxin to x2.
+    notes:
+    - See also {since}.
+    glosses:
+    - poison
+  de:
+    place structure: x1 ist giftig/schädlich/ein Gift/Schadstoff für x2
+    notes:
+    - No notes.
+    glosses:
+    - Gift
+  es:
+    place structure: x1 es venenoso/tóxico para x2
+    notes:
+    - No notes.
+    glosses:
+    - veneno
+  ru:
+    place structure: x1 ядовит/токсичен для x2; x1 — яд/токсин/отрава для x2
+    notes:
+    - '{since} (змея)'
+    glosses:
+    - x1=яд
+  en-simple:
+    place structure: x1 is poisonous or toxic to x2
+    notes:
+    - No notes.
+    glosses:
+    - something poisonous
+    - x2=something to which something is poisonous
+  eo:
+    place structure: x1 estas venena/toksa por x2
+    notes:
+    - Vidu ankaŭ {since}.
+    glosses:
+    - veneno
+  hu:
+    place structure: x1 mérgező/toxikus x2 számára
+    notes:
+    - '(Lásd még: {since})'
+    glosses:
+    - méreg
+  ja:
+    place structure: x1 は x2 にとって毒／中毒性がある
+    notes:
+    - ・大意： 毒 ・読み方： ヴィンドゥ  ・語呂合わせ： doku ・関連語： {since}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2来说是有毒的；x1是毒素/毒药
+    notes:
+    - 参见 {since}.
+    glosses:
+    - No glosses.

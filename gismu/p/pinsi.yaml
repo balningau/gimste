@@ -1,9 +1,76 @@
-Word: pinsi
-Rafsi: pis
-Definition: x1 is a pencil/crayon/stylus applying lead/marking material x2, frame/support
-  [of material] x3.
-Notes: Also writing brush; $x_1$ stimulates substrate medium $x_2$ to display marks;
-  explicitly denoting a standard lead pencil (= {tabypinsi}).  (cf. {ciska}, {penbi}
-  (unlike the English equivalents, pinsi is the more general term over penbi), {burcu},
-  {bakri})
-Examples: None
+word: pinsi
+rafsi:
+- pis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pencil/crayon/stylus applying lead/marking material x2,
+      frame/support [of material] x3.
+    notes:
+    - Also writing brush; x1 stimulates substrate medium x2 to display marks; explicitly
+      denoting a standard lead pencil (= {tabypinsi}).  (cf. {ciska}, {penbi} (unlike
+      the English equivalents, pinsi is the more general term over penbi), {burcu},
+      {bakri})
+    glosses:
+    - pencil
+  de:
+    place structure: x1 ist ein Stift/Bleistift/Buntstift/Griffel/x1 ist Kreide und
+      trägt Blei/Graphit/Malstoff x2, mit Schaft [aus Material] x3
+    notes:
+    - No notes.
+    glosses:
+    - Stift
+  es:
+    place structure: x1 es un lápiz con mina x2 en marco/soporte x3
+    notes:
+    - No notes.
+    glosses:
+    - lápiz
+  ru:
+    place structure: x1 — карандаш, с грифелем/пишущим материалом x2, корпусом x3;
+      ткж. общее слово для приспособления для письма
+    notes:
+    - 'Также: кисть для письма; x1 воздействует на субстрат x2, вызывая появление
+      знаков; графитный карандаш: {tabypinsi} {ciska} (писать), {penbi} (ручка [пишущая])
+      (в отличие от русского, {pinsi} (карандаш) — более общий термин, чем {penbi}
+      (ручка [пишущая])), {burcu} (щетка), {bakri} (мел)'
+    glosses:
+    - карандаш
+  en-simple:
+    place structure: x1 is a pencil or crayon with marking material x2 supported by
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - a pencil
+    - x2=a lead of a pencil
+    - x3=a material of a pencil
+  eo:
+    place structure: x1 estas krajono/skribilo aplikanta plumbon/markaĵon x2, kun
+      korpo/subteno [el materialo] x3
+    notes:
+    - 'Ankaŭ: skribopeniko; x1 stimulas substratan medion x2 elmontri markojn; eksplicite
+      signifante norman plumban krajonon (= {tabypinsi}).  (kp. ciska, penbi (pinsi
+      estas pli ĝenerala ol penbi), burcu, bakri)'
+    glosses:
+    - krajono
+  hu:
+    place structure: x1 egy ceruza/íróvessző x2 béllel, x3 borítással
+    notes:
+    - '(Lásd még: {ciska}, {penbi}, {burcu}, {bakri})'
+    glosses:
+    - ceruza
+  ja:
+    place structure: x1 は x2 （素材）の鉛筆／クレヨン
+    notes:
+    - 使っていて削れてくる筆記具全般 ・大意： 鉛筆 ・読み方： ピンスィ  ・語呂合わせ： ペンスィル ・関連語： {ciska}, {penbi} (unlike
+      the English equivalents}, {pinsi is the more general term over penbi}, {burcu},
+      {bakri}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是笔，使用书写/图画材料x2，具有结构/支撑材料x3
+    notes:
+    - 也指：毛笔/笔刷；铅笔/炭笔= {tabypinsi}；参见 {ciska}, {penbi}, {burcu}, {bakri}
+    glosses:
+    - No glosses.

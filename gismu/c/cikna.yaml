@@ -1,5 +1,68 @@
-Word: cikna
-Rafsi: cik
-Definition: (adjective:) x1 is awake/alert/conscious.
-Notes: See also {sanji}, {sipna}, {tatpi}.
-Examples: None
+word: cikna
+rafsi:
+- cik
+examples: No examples.
+definitions:
+  en:
+    place structure: (adjective:) x1 is awake/alert/conscious.
+    notes:
+    - See also {sanji}, {sipna}, {tatpi}.
+    glosses:
+    - awake
+  de:
+    place structure: x1 ist wach/munter/bei Bewusstsein
+    notes:
+    - No notes.
+    glosses:
+    - wach
+  es:
+    place structure: x1 está despierto/alerta/consciente
+    notes:
+    - Ver también {sipna},  {sanji}.
+    glosses:
+    - despierto
+  ru:
+    place structure: x1 бодрствует/не спит/в сознании
+    notes:
+    - 'Просыпаться: {cikybi''o} {sanji} (осознавать), {sipna} (спать), {tatpi} (уставший)'
+    glosses:
+    - бодрствовать
+    - x1=бодрствующий
+  en-simple:
+    place structure: x1 is awake
+    notes:
+    - No notes.
+    glosses:
+    - something awake
+  eo:
+    place structure: (adjektivo:) x1 estas vigla/maldorma/konscia
+    notes:
+    - Vidu ankaŭ {sanji}, {sipna}, {tatpi}.
+    glosses:
+    - vigla
+  hu:
+    place structure: x1 ébren/eszméleténél/tudatánál van / éber
+    notes:
+    - '(Lásd még: {sanji}, {sipna}, {tatpi})'
+    glosses:
+    - éber
+  ja:
+    place structure: x1 は目覚めている
+    notes:
+    - 「しらふ」「抜け目がない」も。 ・大意： 目覚め ・読み方： シクナ  ・語呂合わせ： 敷くな ・関連語： {sanji}, {sipna}, {tatpi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: '(adjektiv): x1 är vaken/medveten.'
+    notes:
+    - No notes.
+    glosses:
+    - medveten (vid medvetande)
+    - vaken (som inte sover)
+  zh:
+    place structure: x1是警惕的/警觉的
+    notes:
+    - 参见 {sanji}, {sipna}, {tatpi}.
+    glosses:
+    - No glosses.

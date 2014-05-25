@@ -1,5 +1,68 @@
-Word: skapi
-Rafsi: kap
-Definition: x1 is a pelt/skin/hide/leather from x2.
-Notes: See also {pilka}, {calku}, {kerfa}.
-Examples: None
+word: skapi
+rafsi:
+- kap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pelt/skin/hide/leather from x2.
+    notes:
+    - See also {pilka}, {calku}, {kerfa}.
+    glosses:
+    - pelt
+  jbo:
+    place structure: x1 marji lo pilka be x2 noi danlu
+    notes:
+    - '{marji}, {pilka}, {danlu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist das Fell/die Haut/das Leder von x2
+    notes:
+    - No notes.
+    glosses:
+    - Fell
+  es:
+    place structure: x1 es una piel/cuero de x2
+    notes:
+    - Ver también {pilka},  {calku}.
+    glosses:
+    - piel
+  ru:
+    place structure: x1 — кожа/шкура/мех животного x2
+    notes:
+    - '{pilka} (кожура), {calku} (панцирь), {kerfa} (волосы)'
+    glosses:
+    - кожа
+  en-simple:
+    place structure: x1 is a skin or pelt from x2
+    notes:
+    - No notes.
+    glosses:
+    - a skin
+    - x2=a source of a skin
+  eo:
+    place structure: x1 estas felo/ledo el x2
+    notes:
+    - Vidu ankaŭ {pilka}, {calku}, {kerfa}.
+    glosses:
+    - felo
+  hu:
+    place structure: x1 bizonyos mennyiségű bőr x2 forrásból
+    notes:
+    - '(Lásd még: {pilka}, {calku}, {kerfa})'
+    glosses:
+    - bőr
+  ja:
+    place structure: x1 は x2 （起源）の（特に動物性の）革／皮膚／肌
+    notes:
+    - x2 はx1の元／現の持ち主 ・大意： 肌 ・読み方： スカピ  ・語呂合わせ： スキン、革、皮（ぴ） ・関連語： {pilka} (上位概念), {calku},
+      {kerfa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是皮/毛皮/皮革，来自x2
+    notes:
+    - 参见 {pilka}, {calku}, {kerfa}.
+    glosses:
+    - No glosses.

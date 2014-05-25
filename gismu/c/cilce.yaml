@@ -1,5 +1,67 @@
-Word: cilce
-Rafsi: cic
-Definition: (adjective:) x1 is wild/untamed.
-Notes: Tame (= {tolcilce}).  See also {pinfu}, {panpi}, {tarti}.
-Examples: None
+word: cilce
+rafsi:
+- cic
+examples: No examples.
+definitions:
+  en:
+    place structure: (adjective:) x1 is wild/untamed.
+    notes:
+    - Tame (= {tolcilce}).  See also {pinfu}, {panpi}, {tarti}.
+    glosses:
+    - wild
+  de:
+    place structure: x1 ist wild/ungezähmt
+    notes:
+    - No notes.
+    glosses:
+    - wild
+  es:
+    place structure: x1 es salvaje/no domesticado/silvestre
+    notes:
+    - No notes.
+    glosses:
+    - salvaje
+  ru:
+    place structure: x1 — дикий/неприрученный
+    notes:
+    - 'Ручной/прирученный: {tolcilce} {pinfu} (пленник), {panpi} (в мире), {tarti}
+      (вести [себя: поведение])'
+    glosses:
+    - x1=дикий
+  en-simple:
+    place structure: x1 is wild or untamed
+    notes:
+    - No notes.
+    glosses:
+    - something wild
+  eo:
+    place structure: (adjektivo:) x1 estas sovaĝa
+    notes:
+    - Malsovaĝa, dresita (= {tolcilce}).  Vidu ankaŭ {pinfu}, {panpi}, {tarti}.
+    glosses:
+    - sovaĝa
+  hu:
+    place structure: x1 vad/betöretlen/szelídítetlen
+    notes:
+    - '(Lásd még: {pinfu}, {panpi}, {tarti})'
+    glosses:
+    - vad
+  ja:
+    place structure: x1 は野生
+    notes:
+    - ・大意： 野生 ・読み方： シルゥシェ  ・関連語： {pinfu}, {panpi}, {tarti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är vild/otämjd.
+    notes:
+    - No notes.
+    glosses:
+    - vild (otämjd/opåverkad av kultur)
+  zh:
+    place structure: x1是野性的/野蛮的/未开化的
+    notes:
+    - 驯服的= {tolcilce}； 参见 {pinfu}, {panpi}, {tarti}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,76 @@
-Word: xajmi
-Rafsi: xam
-Definition: x1 is funny/comical to x2 in property/aspect x3 (nu/ka); x3 is what is
-  funny about x1 to x2.
-Notes: 'Also: $x_1$ is a comedian (= {xampre}, {xamseljibri} for a professional comedian).  ($x_1$
-  can be a person/object or an abstraction; be careful about possible sumti-raising);
-  See also {bebna}, {cisma}, {cmila}, {fenki}, {zdile}.'
-Examples: None
+word: xajmi
+rafsi:
+- xam
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is funny/comical to x2 in property/aspect x3 (nu/ka); x3 is
+      what is funny about x1 to x2.
+    notes:
+    - 'Also: x1 is a comedian (= {xampre}, {xamseljibri} for a professional comedian).  (x1
+      can be a person/object or an abstraction; be careful about possible sumti-raising);
+      See also {bebna}, {cisma}, {cmila}, {fenki}, {zdile}.'
+    glosses:
+    - funny
+  de:
+    place structure: x1 ist lustig/komisch für x2 in Eigenschaft/Aspekt x3 (nu/ka);
+      x3 ist das Lustige an x1 für x2
+    notes:
+    - No notes.
+    glosses:
+    - komisch
+  es:
+    place structure: x1 es cómico/gracioso/divertido para x2 en propiedad/aspecto
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cómico
+  ru:
+    place structure: x1 представляется/кажется x2 (кому) комическим/смешным/забавным/потешным/смехотворным
+      по свойству/аспекте x3
+    notes:
+    - 'Также: x1 — комик: {xampre}, {xamseljibri} для профессионального комика; x1
+      м.б. лицо/объект или абстракция; возможен подъем sumti ({tu''a}) {bebna} (глупый),
+      {cisma} (улыбаться), {cmila} (смеяться), {fenki} (сумасшедший), {zdile} (развлекать)'
+    glosses:
+    - смешной
+    - x2=кому кажется смешным
+  en-simple:
+    place structure: x1 is funny to x2 in property or aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - something funny
+    - x2=something to which something is funny
+    - x3=an aspect of funniness
+  eo:
+    place structure: x1 estas komika/amuza al x2 en eco/aspekto x3 (nu/ka); x2 trovas
+      x3-on amuza pri x1
+    notes:
+    - 'Ankaŭ: x1 estas komikisto (= {xampre}, xamseljibri por profesia {komikisto}).  (x1
+      povas esti homo/objekto aŭ abstraktaĵo; estu singarda pri ebla sumti-levigo);
+      Vidu ankaŭ {bebna}, {cisma}, {cmila}, fenki,{zdile}.'
+    glosses:
+    - komika
+  hu:
+    place structure: x1 vicces/komikus x2 számára, x3 tulajdonságban/tekintetben
+    notes:
+    - '(Lásd még: {bebna}, {cisma}, {cmila}, {fenki}, {zdile})'
+    glosses:
+    - vicces
+  ja:
+    place structure: x1 は x2 （観察者）にとって x3 （性質）の点で滑稽／おどけている
+    notes:
+    - x1は芸人／コメディアンなど人の他、物や事も。 ・大意： 滑稽 ・読み方： クァジミ  ・関連語： {bebna}, {cisma}, {cmila},
+      {fenki}, {zdile}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是滑稽的/可笑的，对x2来说，在x3方面（nu/ka）；x3是x1上x2觉得可笑/滑稽的地方
+    notes:
+    - x1是喜剧演员/表演者= {xampre}/{xamseljibri}专业的喜剧演员；x1可以是人/物/谓词子句；参见 {bebna}, {cisma},
+      {cmila}, {fenki}, {zdile}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,64 @@
-Word: vidni
-Rafsi: ''
-Definition: x1 is a video monitor/CRT/screen [machine] serving function x2.
-Notes: See also {skina}, ve {tivni}.
-Examples: None
+word: vidni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a video monitor/CRT/screen [machine] serving function x2.
+    notes:
+    - See also {skina}, ve {tivni}.
+    glosses:
+    - video
+  de:
+    place structure: x1 ist ein Bildschirm/Monitor/eine Anzeige [Maschine] und erfüllt
+      Funktion x2
+    notes:
+    - No notes.
+    glosses:
+    - Bildschirm
+  es:
+    place structure: x1 es un monitor/pantalla de video con función x2
+    notes:
+    - Ver también ve {tivni}.
+    glosses:
+    - monitor
+  ru:
+    place structure: x1 — монитор/экран/дисплей, выполняющий функцию x2
+    notes:
+    - '{skina} (фильм), {ve} {tivni} (телевещание)'
+    glosses:
+    - экран (дисплей)
+    - x2=функция экрана (дисплея)
+  en-simple:
+    place structure: x1 is a screen or monitor for x2
+    notes:
+    - No notes.
+    glosses:
+    - a screen
+    - x2=a function of a screen
+  eo:
+    place structure: x1 estas ekrano/videomonitoro/katodradia tubo [maŝino] plenumanta
+      funkcion x2
+    notes:
+    - Vidu ankaŭ {skina}, ve {tivni}.
+    glosses:
+    - ekrano
+  hu:
+    place structure: x1 egy képernyő/kijelző x2 funkcióval
+    notes:
+    - '(Lásd még: {skina}, {tivni})'
+    glosses:
+    - képernyő
+  ja:
+    place structure: x1 は画面／映像モニター／スクリーン
+    notes:
+    - ・大意： 画面 ・読み方： ヴィドニ ・関連語： {skina}, {ve} {tivni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是显示器/屏幕，具有功能x2
+    notes:
+    - 参见 {skina}, ve {tivni}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,82 @@
-Word: birti
-Rafsi: bit
-Definition: x1 is certain/sure/positive/convinced that x2 is true.
-Notes: See also {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}.
-Examples: None
+word: birti
+rafsi:
+- bit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is certain/sure/positive/convinced that x2 is true.
+    notes:
+    - See also {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}.
+    glosses:
+    - certain
+  de:
+    place structure: x1 ist sich sicher/gewiss/überzeugt, dass x2 wahr ist
+    notes:
+    - No notes.
+    glosses:
+    - gewiss
+  es:
+    place structure: x1 está seguro/tiene la certeza/está convencido de que x2 (du'u)
+      es cierto
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 уверен/убежден, что x2 ({du'u}) верно
+    notes:
+    - '{jetnu} (истина), {jinvi} (считать [полагать]), {krici} (верить), {djuno} (знать),
+      {senpi} (сомневаться), {sruma} (допускать [предполагать])'
+    glosses:
+    - x1=убеждённый
+    - x2=то, в чём убеждены
+  en-simple:
+    place structure: x1 is convinced that x2 is true
+    notes:
+    - No notes.
+    glosses:
+    - something convinced
+    - x2=something convinced of
+  eo:
+    place structure: x1 estas certa/senduba/konvinkita ke x2 veras
+    notes:
+    - Vidu ankaŭ {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}.
+    glosses:
+    - certa
+  hu:
+    place structure: x1 biztos/bizonyos/meg van győződve x2 igazságában
+    notes:
+    - '(Lásd még: {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma})'
+    glosses:
+    - biztos (bizonyos)
+  ja:
+    place structure: x1 は x2 （命題）が真であると確信している
+    notes:
+    - ・大意： 確信 ・読み方： ビルティ  ・語呂合わせ： ＜ビールかティー＞,   bi(必), certain  ・関連語： {jetnu}, {jinvi},
+      {krici}, {djuno}, {senpi}, {sruma}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er sikker/overbevist om at x2 er sant.
+    notes:
+    - Se óg {jetnu}, {jinvi}, {krici}, {djuno}, {sruma}, {cilre}, {darlu}, {zgana},
+      {lifri}, {lacri}, {sitna}, na {smadi}, na {rivbi}, na {senpi}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är säker/förvissad/övertygad om att x2 är sant.
+    notes:
+    - Se även {jetnu}, {jinvi}, {krici}, {djuno}, {sruma}, {cilre}, {darlu}, {zgana},
+      {lifri}, {lacri}, {sitna}, na {smadi}, na {rivbi}, na {senpi}.
+    glosses:
+    - säker (övertygad)
+    - övertygad (säker på att något är sant)
+    - x1=förvissad
+    - x2=förvissning
+  zh:
+    place structure: x1 肯定 x2 成立。
+    notes:
+    - 参见： {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}。
+    glosses:
+    - 肯定

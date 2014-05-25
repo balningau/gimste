@@ -1,5 +1,64 @@
-Word: xelso
-Rafsi: xes
-Definition: x1 reflects Greek/Hellenic culture/nationality/language in aspect x2.
-Notes: See also {latmo}, {ropno}.
-Examples: None
+word: xelso
+rafsi:
+- xes
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Greek/Hellenic culture/nationality/language in aspect
+      x2.
+    notes:
+    - See also {latmo}, {ropno}.
+    glosses:
+    - Greek
+  de:
+    place structure: x1 repräsentiert griechische/hellenische Kultur/Nationalität/Sprache
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - griechisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma griego en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - griego
+  ru:
+    place structure: x1 — греческий/эллинский/эллинистический в аспекте x2
+    notes:
+    - '{latmo} (латинский), {ropno} (европейский)'
+    glosses:
+    - греческий
+  en-simple:
+    place structure: x1 is Greek in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Greek
+    - x2=a Greek aspect
+  eo:
+    place structure: x1 montras grekan/helenan kulturon/naciecon/lingvon laŭ aspekto
+      x2
+    notes:
+    - Vidu ankaŭ {latmo}, {ropno}.
+    glosses:
+    - greka
+  hu:
+    place structure: x1 görög/hellén kultúrát/nemzetiséget/nyelvet tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {latmo}, {ropno})'
+    glosses:
+    - görög
+  ja:
+    place structure: x1 は x2 （性質面）に関してギリシャ／ヘレン系（言語／文化／民族）
+    notes:
+    - ・大意： ギリシャ ・読み方： クェルゥソ  ・関連語： {latmo}, {ropno}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于希腊的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {latmo}, {ropno}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,92 @@
-Word: grute
-Rafsi: rut
-Definition: x1 is a fruit [body-part] of species x2.
-Notes: See also {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise},
-  {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari},
-  {nimre}.
-Examples: None
+word: grute
+rafsi:
+- rut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fruit [body-part] of species x2.
+    notes:
+    - See also {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise},
+      {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari},
+      {nimre}.
+    glosses:
+    - fruit
+  de:
+    place structure: x1 ist eine Frucht [Körperteil] der Spezies x2.
+    notes:
+    - Siehe auch {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise},
+      {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari},
+      {nimre}.
+    glosses:
+    - Frucht
+    - Obst
+  es:
+    place structure: x1 es una fruta/fruto de planta/especie x2
+    notes:
+    - Ver también {tarbi},  {panzi},  {rorci},  te {pruce}.
+    glosses:
+    - fruta
+  ru:
+    place structure: x1 — плод растения/вида x2; также фрукт
+    notes:
+    - '{badna} (банан), {dembi} (боб), {figre} (фига), {guzme} (арбуз), {narge} (орех
+      [плод]), {perli} (груша), {pilka} (кожура), {plise} (яблоко), {spati} (растение),
+      {stagi} (овощ), {tamca} (томат), {tsiju} (семя [зерно]), {tarbi} (эмбрион),
+      {panzi} (потомок), {rorci} (порождать), {te} {pruce} (процесс), {jbari} (ягода),
+      {nimre} (цитрус)'
+    glosses:
+    - плод (растения)
+  en-simple:
+    place structure: x1 is a fruit of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a fruit
+    - x2=a species of fruit
+  eo:
+    place structure: x1 estas frukto [korpoparto] de speco x2
+    notes:
+    - Vidu ankaŭ {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise},
+      {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari},
+      {nimre}.
+    glosses:
+    - frukto
+  hu:
+    place structure: x1 a gyümölcse x2 növényfajnak
+    notes:
+    - '(Lásd még: {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise},
+      {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, {pruce}, {jbari},
+      {nimre})'
+    glosses:
+    - gyümölcs
+  ja:
+    place structure: x1 は x2 （種類）の果実／フルーツ
+    notes:
+    - ・大意： 果実 ・読み方： グルテ  ・語呂合わせ： 果実グルテン ・関連語： {badna}, {dembi}, {figre}, {guzme},
+      {narge}, {perli}, {pilka}, {plise}, {spati}, {stagi}, {tamca}, {tsiju}, {tarbi},
+      {panzi}, {rorci}, {te} {pruce}, {jbari}, {nimre}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een fruit van de soort x2.
+    notes:
+    - 'Zie ook : {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise},
+      {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari}
+      en {nimre}.'
+    glosses:
+    - fruit
+  sv:
+    place structure: x1 är en frukt [kroppsdel] av art x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=frukt
+    - x2=fruktsort (av växtart)
+  zh:
+    place structure: x1是水果/果实，属于品种/种类x2
+    notes:
+    - 参见 {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise}, {spati},
+      {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari}, {nimre}.
+    glosses:
+    - No glosses.

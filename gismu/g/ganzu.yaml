@@ -1,8 +1,89 @@
-Word: ganzu
-Rafsi: gaz
-Definition: x1 organizes x2 [relative chaos] into x3 [ordered/organized result] by
-  system/principle(s) x4.
-Notes: $x_3$ is also a system; $x_4$ could be merely a function which inherently serves
-  to dictate the organizational structure of $x_3$.  See also {ciste}, {morna}, {stura},
-  {bilni}, {cabra}.
-Examples: None
+word: ganzu
+rafsi:
+- gaz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 organizes x2 [relative chaos] into x3 [ordered/organized result]
+      by system/principle(s) x4.
+    notes:
+    - x3 is also a system; x4 could be merely a function which inherently serves to
+      dictate the organizational structure of x3.  See also {ciste}, {morna}, {stura},
+      {bilni}, {cabra}.
+    glosses:
+    - arrange (organize)
+    - organize
+  de:
+    place structure: x1 organisiert x2 [relatives Chaos] in x3 [geordnetes/organisiertes
+      Ergebnis] gemäß System/Prinzipien x4
+    notes:
+    - No notes.
+    glosses:
+    - organisieren
+  es:
+    place structure: x1 organiza desorden/caos x2 en orden x3 por sistema/principio
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - organizar
+  ru:
+    place structure: x1 организует x2 (относительный хаос) в x3 (упорядоченный/организованный
+      результат) согласно системе/принципам x4
+    notes:
+    - 'x3 Также: система; x4 м.б. просто функция, которая диктует организационную
+      структуру x3 {ciste} (система), {morna} (узор), {stura} (структура [чего-либо]),
+      {bilni} (военный), {cabra} (аппарат [механизм])'
+    glosses:
+    - организовывать
+    - x1=организовывающий
+    - x2=хаос
+    - x3=порядок
+  en-simple:
+    place structure: x1 organizes x2 into x3 by system x4
+    notes:
+    - No notes.
+    glosses:
+    - an organizer
+    - x2=something not organized
+    - x3=something organized
+    - x4=an organisation method
+  eo:
+    place structure: x1 organizas x2-on [relativa hhaoso] en x3 [ordigita/organizita
+      rezulto] per sistemo/principo x4
+    notes:
+    - x3 estas ankaŭ sistemo; x4 povus esti nur funkcio kiu diktas la organizan strukturon
+      de x3.  Vidu ankaŭ {ciste}, {morna}, {stura}, {bilni}, {cabra}.
+    glosses:
+    - organizi
+  hu:
+    place structure: x1 rendezi/szervezi x2-t [relatív káosz] x3-má [rendezett/szervezett
+      eredmény], x4 rendszer szerint
+    notes:
+    - '(Lásd még: {ciste}, {morna}, {stura}, {bilni}, {cabra})'
+    glosses:
+    - rendez
+  ja:
+    place structure: x1 は x2 を x3 に、 x4 （原理）に基づいて組織／編成／整頓する
+    notes:
+    - x2 は組織化以前のばらばらなもの。 x3 は組織化以後の体系的なもの。 ・大意： 組織する ・読み方： ガンズ  ・語呂合わせ： organize,
+      zu(組) ・関連語： {ciste}, {morna}, {stura}, {bilni}, {cabra}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 organiserar x2 [relativt kaos/oordning] i/till x3 [ordnat/organiserat
+      resultat] efter system/princip x4.
+    notes:
+    - x3 är även ett system; x4 kan vara även endast en funktion som har en inneboende
+      drivkraft att diktera organisationsstrukturen för x3.
+    glosses:
+    - arrangera (organisera)
+    - ordna upp (organisera)
+    - organisera
+  zh:
+    place structure: x1组织x2（相对混乱）进入/成为x3，使用组织系统/原则x4
+    notes:
+    - x3也指系统； x4可能只是表示了x3组织结构的函数；参见 {ciste}, {morna}, {stura}, {bilni}, {cabra}.
+    glosses:
+    - No glosses.

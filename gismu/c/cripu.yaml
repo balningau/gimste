@@ -1,6 +1,75 @@
-Word: cripu
-Rafsi: rip
-Definition: x1 is a bridge/span over/across x2 between x3 and x4 [unordered, typically
-  destination first].
-Notes: See also {bargu}, {kruca}, {ragve}, {kuspe}.
-Examples: None
+word: cripu
+rafsi:
+- rip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bridge/span over/across x2 between x3 and x4 [unordered,
+      typically destination first].
+    notes:
+    - See also {bargu}, {kruca}, {ragve}, {kuspe}.
+    glosses:
+    - bridge
+  de:
+    place structure: x1 ist eine Brücke über x2 zwischen x3 und x4 [ungeordnet; typischerweise
+      zuerst das Ziel]
+    notes:
+    - No notes.
+    glosses:
+    - Brücke
+  es:
+    place structure: x1 es un puente sobre/a través de x2 entre x3 y x4
+    notes:
+    - No notes.
+    glosses:
+    - puente
+  ru:
+    place structure: x1 — мост через/над x2 между берегами x3 и x4 (x3/x4 неупорядочены,
+      обычно x3 — пункт назначения)
+    notes:
+    - '{bargu} (арка), {kruca} (пересекать), {ragve} (напротив [по ту сторону]), {kuspe}
+      (простираться)'
+    glosses:
+    - x1=мост
+  en-simple:
+    place structure: x1 is a bridge across x2 between x3 and x4
+    notes:
+    - No notes.
+    glosses:
+    - a bridge
+    - x2=something bridged across
+    - x3=something linked by bridge
+    - x4=something a bridge links
+  eo:
+    place structure: x1 estas ponto/etendo super/trans x2 inter x3 kaj x4 [ne ordigita,
+      kutime unue la celo]
+    notes:
+    - Vidu ankaŭ {bargu}, {kruca}, {ragve}, {kuspe}.
+    glosses:
+    - ponto
+  hu:
+    place structure: x1 egy híd x2-n át/fölött, x3-ba, x4-ből
+    notes:
+    - 'x3 és x4 felcserélhetők (Lásd még: {bargu}, {kruca}, {ragve}, {kuspe})'
+    glosses:
+    - híd
+  ja:
+    place structure: x1 は x2 をまたぐ、 x3 と x4 の間の橋／渡り間
+    notes:
+    - ・大意： 橋 ・読み方： シリプ  ・語呂合わせ： 橋でスリップ ・関連語： {bargu}, {kruca}, {ragve}, {kuspe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en bro/spann över/tvärsöver x2 mellan x3 och x4 [ingen
+      speciell ordning, typisk destination först].
+    notes:
+    - No notes.
+    glosses:
+    - bro
+  zh:
+    place structure: x1是桥/跨过式的通道通过/越过x2，位于x3和x4之间（x3和x4不存在顺序，一般将终点放在前面）
+    notes:
+    - 参见 {bargu}, {kruca}, {ragve}, {kuspe}.
+    glosses:
+    - No glosses.

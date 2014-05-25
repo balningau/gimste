@@ -1,8 +1,81 @@
-Word: molro
-Rafsi: mo'o
-Definition: x1 is x2 mole(s) [metric unit] in substance (default is 1) by standard
-  x3.
-Notes: See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
-  {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
-  {xexso}, {zepti}, {zetro}.
-Examples: None
+word: molro
+rafsi:
+- mo'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 mole(s) [metric unit] in substance (default is 1) by
+      standard x3.
+    notes:
+    - See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - mole
+  de:
+    place structure: 'x1 ist x2 Mol [metrische Einheit] an Stoffmenge (Default: 1)
+      gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Mol
+  es:
+    place structure: x1 es una cantidad de substancia de x2 moles (1 por defecto)
+      según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - mol
+  ru:
+    place structure: x1 — количество вещества, исчисляемое в x2 (по умолчанию 1) молей
+      (метрическая единица) по стандарту x4
+    notes:
+    - '{centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто),
+      {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега),
+      {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико),
+      {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто),
+      {zetro} (зетта)'
+    glosses:
+    - моль (количество вещества)
+  en-simple:
+    place structure: x1 is x2 moles
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in moles
+    - x2=a number of moles
+    - x3=a mole standard
+  eo:
+    place structure: x1 estas x2 grammolekuloj [metra unuo] en substanco (defaŭlte
+      1) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - grammolekulo
+  hu:
+    place structure: x1 anyagmennyisége x2 [alapesetben 1] mól x3 mérce szerint
+    notes:
+    - '(Lásd még: {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro})'
+    glosses:
+    - mól
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のモル
+    notes:
+    - 物質量。 ・大意： モル ・読み方： モルゥロ  ・関連語： {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在物质的量上面，x1是x2个摩尔单位的（公制单位，默认1），基于标准x3
+    notes:
+    - 参见 {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo},
+      {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso},
+      {zepti}, {zetro}.
+    glosses:
+    - No glosses.

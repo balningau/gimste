@@ -1,6 +1,78 @@
-Word: clika
-Rafsi: ''
-Definition: x1 is a moss/lichen of species/strain x2 growing on x3; (adjective:) x1
-  is mossy.
-Notes: See also {mledi}.
-Examples: None
+word: clika
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a moss/lichen of species/strain x2 growing on x3; (adjective:)
+      x1 is mossy.
+    notes:
+    - See also {mledi}.
+    glosses:
+    - mossy
+  de:
+    place structure: x1 ist Moos/eine Flechte von Art/Gattung x2 und wächst auf x3;
+      (Adjektiv:) x1 ist moosig/moosbewachsen
+    notes:
+    - No notes.
+    glosses:
+    - Moos
+  es:
+    place structure: x1 es un musgo/líquen de especie/variedad x2 que crece sobre
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - musgo
+  ru:
+    place structure: x1 — лишайник/мох (масса зеленых нецветковых растений) вида/разновидности
+      x2, растущий на субстрате x3
+    notes:
+    - 'Прилагательное: x1 — мшистый {mledi} (гриб)'
+    glosses:
+    - мох
+  en-simple:
+    place structure: x1 is lichen or moss of species x2 growing on x3
+    notes:
+    - No notes.
+    glosses:
+    - a lichen
+    - x2=a species of lichen
+    - x3=something lichen grows on
+  eo:
+    place structure: x1 estas musko/likeno de speco/raso x2 kreskanta sur x3; (adjektivo:)
+      x1 estas muska
+    notes:
+    - Vidu ankaŭ {mledi}.
+    glosses:
+    - musko
+  hu:
+    place structure: x1 egy moha [Bryophyta törzs]/zuzmó az x2 fajból, amely x3-on
+      nő
+    notes:
+    - '(Lásd még: {mledi})'
+    glosses:
+    - moha
+  ja:
+    place structure: x1 は x2 （類）の、 x3 （所）に生えるコケ；  x1 はコケで覆われている
+    notes:
+    - ・大意： コケ類 ・読み方： シルィカ  ・関連語： {mledi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en mossa av art/sort x2 som växer på x3.
+    notes:
+    - clika är inte lav (jfr engelsk definition). Lav är nämligen en symbios mellan
+      svamp och alg.
+    glosses:
+    - mossa
+    - x1=mossig (har egenskap som mossa)
+    - x2=mossart (art av mossa)
+    - x3=mossbevuxen
+  zh:
+    place structure: x1是苔/藓，属于品种/种类x2，生长在x3上；x1是长满苔藓的（形容词）
+    notes:
+    - 参见 {mledi}.
+    glosses:
+    - No glosses.

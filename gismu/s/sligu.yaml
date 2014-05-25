@@ -1,6 +1,76 @@
-Word: sligu
-Rafsi: lig
-Definition: x1 is solid, of composition/material including x2, under conditions x3.
-Notes: Conditions include temperature and pressure.  See also {runta}, {litki}, {gapci},
-  {jdari}, {dunja}, {pulce}, {jduli}.
-Examples: None
+word: sligu
+rafsi:
+- lig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is solid, of composition/material including x2, under conditions
+      x3.
+    notes:
+    - Conditions include temperature and pressure.  See also {runta}, {litki}, {gapci},
+      {jdari}, {dunja}, {pulce}, {jduli}.
+    glosses:
+    - solid
+    - solid (not liquid or gaseous)
+  de:
+    place structure: x1 ist fest/ein Feststoff von Zusammensetzung/Material unter
+      anderem x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - Feststoff
+  es:
+    place structure: x1 es sólido de composición/material x2, bajo condiciones x3
+    notes:
+    - Ver también {litki},  {gapci}.
+    glosses:
+    - sólido
+  ru:
+    place structure: x1 — твердое тело из вещества/состава x2, в условиях x3; x1 —
+      твердый (а не жидкий или газообразный)
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава); условия x3
+      включают температуру и давление {runta} (растворяться), {litki} (жидкость),
+      {gapci} (газ), {jdari} (крепкий), {dunja} (замерзать [затвердевать]), {pulce}
+      (пыль), {jduli} (желе)'
+    glosses:
+    - x1=твёрдый
+  en-simple:
+    place structure: x1 is solid of material x2
+    notes:
+    - No notes.
+    glosses:
+    - solid
+    - x1=something solid
+    - x2=a composition of a solid
+    - x2=the composition of something solid
+    - x3=a condition of solidity
+  eo:
+    place structure: x1 estas solida, el kompozicio/materialo enhavanta x2-on, sub
+      kondiĉoj x3
+    notes:
+    - Kondiĉoj inkluzivas temperaturon kaj premon.  Vidu ankaŭ {runta}, {litki}, {gapci},
+      {jdari}, {dunja}, {pulce}, {jduli}.
+    glosses:
+    - solida
+  hu:
+    place structure: x1 szilárd halmazállapotú, x2 anyagból/összetétellel, x3 feltételek
+      mellett
+    notes:
+    - '(Lásd még: {runta}, {litki}, {gapci}, {jdari}, {dunja}, {pulce}, {jduli})'
+    glosses:
+    - szilárd
+  ja:
+    place structure: x1 は x2 （成分／物質）の x3 （条件）における固体
+    notes:
+    - x3は「温度」や「圧力」など。 ・大意： 固体 ・読み方： スルィグ  ・語呂合わせ： solid, gu（固） ・関連語： {runta}, {litki},
+      {gapci}, {jdari}, {dunja}, {pulce}, {jduli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是固体，具有物质/组分x2，在条件x3下
+    notes:
+    - 条件包括温度和压强；参见 {runta}, {litki}, {gapci}, {jdari}, {dunja}, {pulce}, {jduli}.
+    glosses:
+    - No glosses.

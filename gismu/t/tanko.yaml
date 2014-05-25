@@ -1,5 +1,61 @@
-Word: tanko
-Rafsi: ''
-Definition: x1 is a quantity of tobacco [leaf] of species/strain x2.
-Notes: See also {sigja}, {marna}.
-Examples: None
+word: tanko
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of tobacco [leaf] of species/strain x2.
+    notes:
+    - See also {sigja}, {marna}.
+    glosses:
+    - tobacco
+  de:
+    place structure: x1 ist eine Menge an Tabak [Blatt] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Tabak
+  es:
+    place structure: x1 es una cantidad de tabaco (hoja) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - tabaco
+  ru:
+    place structure: x1 — табак (лист) вида/сорта x2
+    notes:
+    - '{sigja} (сигарета), {marna} (конопля)'
+    glosses:
+    - табак
+  en-simple:
+    place structure: x1 is a quantity of tobacco of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of tobacco
+    - x2=a species of tobacco
+  eo:
+    place structure: x1 estas kvanto da tabako [folio] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {sigja}, {marna}.
+    glosses:
+    - tabako
+  hu:
+    place structure: x1 bizonyos mennyiségű dohánylevél az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {sigja}, {marna})'
+    glosses:
+    - dohány
+  ja:
+    place structure: x1 は x2 （種類）のタバコ属植物／葉
+    notes:
+    - 植物原料であって製品ではない。 ・大意： タバコ（葉） ・読み方： タンコ  ・語呂合わせ： tabako ・関連語： {sigja}, {marna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是烟草，属于物种/种类x2
+    notes:
+    - 参见 {sigja}, {marna}.
+    glosses:
+    - No glosses.

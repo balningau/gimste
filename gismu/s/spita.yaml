@@ -1,7 +1,72 @@
-Word: spita
-Rafsi: ''
-Definition: x1 is a hospital treating patient(s) x2 for condition/injuries/disease/illness
-  x3.
-Notes: Hospice (a place where $x_2$ of spita is lenu {mrobi'o} = {mrospita}).  See
-  also {bilma}, {mikce}.
-Examples: None
+word: spita
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a hospital treating patient(s) x2 for condition/injuries/disease/illness
+      x3.
+    notes:
+    - Hospice (a place where x2 of spita is lenu {mrobi'o} = {mrospita}).  See also
+      {bilma}, {mikce}.
+    glosses:
+    - hospital
+  de:
+    place structure: x1 ist ein Krankenhaus für Patient(en) x2 mit Krankheit/Zustand/Verletzung
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Krankenhaus
+  es:
+    place structure: x1 es un hospital en localidad x2 para pacientes x3 con mal/condición
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - hospital
+  ru:
+    place structure: x1 — больница/лечебница/клиника/госпиталь для лечения пациентов
+      x2 от болезни/травм x3 (ухода за пациентами x2, находящимися в состоянии x3)
+    notes:
+    - 'Хоспис (место, где x2 в [spita] есть {le}{nu} {mrobi''o}): {mrospita} {bilma}
+      (больной), {mikce} (лечить)'
+    glosses:
+    - x1=больница
+    - x2=пациент
+    - x3=болезнь
+  en-simple:
+    place structure: x1 is a hospital treating patient x2 for condition x3
+    notes:
+    - No notes.
+    glosses:
+    - a hospital
+    - x2=a patient of a hospital
+    - x3=an ailment treated at a hospital
+  eo:
+    place structure: x1 estas hospitalo/malsanulejo/sanatorio traktanta pacientojn
+      x2 por kondiĉo/vundoj/malsano x3                                                 4c  20     [azilo
+      (loko kie x2 de spita estas lenu mrobi'o = mrospita)]; (kp. bilma, mikce
+    notes:
+    - )
+    glosses:
+    - hospitalo
+  hu:
+    place structure: x1 egy kórház x2 kezeltek számára x3 állapotban/sérüléssel/betegséggel
+    notes:
+    - '(Lásd még: {bilma}, {mikce})'
+    glosses:
+    - kórház
+  ja:
+    place structure: x1 は x2 （患者）・ x3 （病／疾患）のための病院；  x2 は x3 のために x1 に入院する
+    notes:
+    - ・大意： 病院 ・読み方： スピタ  ・語呂合わせ： ホ「スピタ」ル ・関連語： {bilma}, {mikce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是治疗病人x2的医院，病人患有疾病/带有伤口x3
+    notes:
+    - 收容所（特指在x2填入lenu mrobi'o ）= {mrospita}； 参见 {bilma}, {mikce}.
+    glosses:
+    - No glosses.

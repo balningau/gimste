@@ -1,7 +1,92 @@
-Word: gugde
-Rafsi: gug, gu'e
-Definition: x1 is the country of peoples x2 with land/territory x3; (people/territory
-  relationship).
-Notes: Also sovereignty, domestic (as opposed to foreign), nation (when not referring
-  to ethnos).  See also {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci}.
-Examples: None
+word: gugde
+rafsi:
+- gug
+- gu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the country of peoples x2 with land/territory x3; (people/territory
+      relationship).
+    notes:
+    - Also sovereignty, domestic (as opposed to foreign), nation (when not referring
+      to ethnos).  See also {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci}.
+    glosses:
+    - country
+  jbo:
+    place structure: x1 ciste lo nu turni kei lu'i x2 noi prenu ra'a x3 noi tutra
+      lu'u lo ka co'e
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist das Land von Völkern x2 mit Gebiet/Ausdehnung x3; (Beziehung
+      zwischen einem Volk und einem Gebiet)
+    notes:
+    - No notes.
+    glosses:
+    - Land
+  es:
+    place structure: x1 es el país de gentes x2 con territorio/soberanía sobre x3;
+      (natmi, jecta, tutra)
+    notes:
+    - No notes.
+    glosses:
+    - país
+  ru:
+    place structure: x1 — страна народа x2, занимающая территорию x3
+    notes:
+    - 'Отношение народ-территория; Также: суверенное государство, национальный/отечественный
+      (антоним: иностранный/заграничный), нация (безотносительно к этносу) {turni}
+      (править), {natmi} (народ), {jecta} (государство), {tumla} (суша), {tutra} (территория),
+      {lanci} (флаг)'
+    glosses:
+    - x1=страна
+    - x2=народ страны
+    - x3=территория страны
+  en-simple:
+    place structure: x1 is the country of x2 with territory x3
+    notes:
+    - No notes.
+    glosses:
+    - a country
+    - x2=a people of a country
+    - x3=a territory of a country
+  eo:
+    place structure: x1 estas la lando de popolo x2 kun lando/teritorio x3; (rilato
+      popolo/teritorio)
+    notes:
+    - 'Ankaŭ: suvereneco, hejma (kontraste al fremda), nacio (nerilata al etnoso).  Vidu
+      ankaŭ {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci}.'
+    glosses:
+    - lando
+  hu:
+    place structure: x1 az országa x2 nép(ek)nek, x3 területen
+    notes:
+    - '(Lásd még: {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci})'
+    glosses:
+    - ország
+  ja:
+    place structure: x1 は x2 （要素／成員）・ x3 （領域）の国
+    notes:
+    - ・大意： 国 ・読み方： ググデ  ・関連語： {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är landet av folken x2 med land/territorium x3; (folk/territoriellt
+      förhållande).
+    notes:
+    - Även självständighet, inhemsk (i motsats till utländsk), nation (då det inte
+      refererar till ethnos).
+    glosses:
+    - land (nation (ej etniskt definierad))
+    - x1=inhemsk
+    - x2=folk (med land/nation)
+    - x3=territorium (landyta som tillhör ett land)
+  zh:
+    place structure: x1是国家，由人民x2构成，具有土地/领地/主权区域x3
+    notes:
+    - 也指：国内的/国家的；参见 {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci}.
+    glosses:
+    - No glosses.

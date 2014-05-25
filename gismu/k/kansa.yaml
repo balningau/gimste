@@ -1,7 +1,76 @@
-Word: kansa
-Rafsi: kan
-Definition: x1 is with/accompanies/is a companion of x2, in state/condition/enterprise
-  x3 (event/state).
-Notes: $x_1$ is together with/along with $x_2$. See also {kagni}, {jorne}, {gunma},
-  {girzu}, {lasna}.
-Examples: None
+word: kansa
+rafsi:
+- kan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is with/accompanies/is a companion of x2, in state/condition/enterprise
+      x3 (event/state).
+    notes:
+    - x1 is together with/along with x2. See also {kagni}, {jorne}, {gunma}, {girzu},
+      {lasna}.
+    glosses:
+    - with
+  jbo:
+    place structure: x1 joi x2 lifri x3
+    notes:
+    - No notes.
+    glosses:
+    - kansa
+  de:
+    place structure: x1 ist mit/begleitet/ist ein Begleiter/Gefährte von x2 in Zustand/Bedingung/Vorhaben
+      x3 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - mit
+  es:
+    place structure: x1 acompaña/está junto con x2, en situación/condición/emprendimiento
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - acompañar
+  ru:
+    place structure: x1 сопровождает/соучаствует с/присоединяется к x2 в состоянии/предприятии/деле
+      x3 (событие/состояние)
+    notes:
+    - 'Также: x1 вместе/заодно с x2 {kagni} (фирма), {jorne} (соединенный), {gunma}
+      (масса [единое целое]), {girzu} (группа), {lasna} (прикреплять)'
+    glosses:
+    - соучаствовать
+    - x1=соучаствующий
+  en-simple:
+    place structure: x1 accompanies x2 in x3
+    notes:
+    - No notes.
+    glosses:
+    - an accompanier
+    - x2=something accompanied
+    - x3=a circumstance of accompaniment
+  eo:
+    place structure: x1 estas kun/akompanas x2-on, en stato/kondiĉo/entrepreno x3
+      (okazo/stato)
+    notes:
+    - x1 estas kune kun x2. Vidu ankaŭ {kagni}, {jorne}, {gunma}, {girzu}, {lasna}.
+    glosses:
+    - kun
+  hu:
+    place structure: x1 kíséri x2-t x3 esemény/vállalkozás során / körülmények között
+    notes:
+    - '(Lásd még: {kagni}, {jorne}, {gunma}, {girzu}, {lasna})'
+    glosses:
+    - kísér
+  ja:
+    place structure: x1 は x2 に、 x3 （事）において伴う／付き添う；  x1 と x2 は一緒
+    notes:
+    - ・大意： 伴う ・読み方： カンサ  ・語呂合わせ： 伴う監査 ・関連語： {kagni}, {jorne}, {gunma}, {girzu}, {lasna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1陪伴x2/与x2相伴/是x2的伙伴，在称述/条件/事业x3上
+    notes:
+    - x1与x2在一起/相伴；参见 {kagni}, {jorne}, {gunma}, {girzu}, {lasna}.
+    glosses:
+    - No glosses.

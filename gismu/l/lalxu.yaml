@@ -1,5 +1,69 @@
-Word: lalxu
-Rafsi: la'u
-Definition: x1 is a lake/lagoon/pool at site/within land mass x2.
-Notes: See also {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}.
-Examples: None
+word: lalxu
+rafsi:
+- la'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lake/lagoon/pool at site/within land mass x2.
+    notes:
+    - See also {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}.
+    glosses:
+    - lake
+  de:
+    place structure: x1 ist ein See/Teich/eine Lagune an Stelle/innerhalb von Landmasse
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - See
+  es:
+    place structure: x1 es un lago/laguna/estanque en territorio/terreno x2
+    notes:
+    - No notes.
+    glosses:
+    - lago
+  ru:
+    place structure: x1 — озеро/лагуна/пруд в местности/внутри массива суши x2
+    notes:
+    - '{daplu} (остров), {djacu} (вода), {rirxe} (река), {xamsi} (море), {zbani} (залив)'
+    glosses:
+    - x1=озеро
+  en-simple:
+    place structure: x1 is a lake or pool at site x2
+    notes:
+    - No notes.
+    glosses:
+    - a lake
+    - x2=a lake location
+  eo:
+    place structure: x1 estas lago/laguno ĉe loko/en tero/grundo x2
+    notes:
+    - Vidu ankaŭ {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}.
+    glosses:
+    - lago
+  hu:
+    place structure: x1 egy tó/lagúna/tengerszem/tócsa x2 helyen
+    notes:
+    - '(Lásd még: {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani})'
+    glosses:
+    - tó
+  ja:
+    place structure: x1は土地x2にある湖/沼/池である
+    notes:
+    - '参照: {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}.'
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een meer of lagune in geografish gebied x2.
+    notes:
+    - 'Zie ook : {daplu}, {djacu}, {rirxe}, {xamsi} en {zbani}.'
+    glosses:
+    - lagune (het meer)
+    - meer (het meer)
+  zh:
+    place structure: x1是湖泊/池塘，位于地点/位置x2
+    notes:
+    - 查看{daplu},{djacu},{rirxe},{xamsi},{zbani}
+    glosses:
+    - 池
+    - 湖

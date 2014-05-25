@@ -1,5 +1,66 @@
-Word: xagji
-Rafsi: ''
-Definition: x1 hungers for x2; x1 needs/wants food/fuel x2.
-Notes: See also {cidja}, {citka}, {djica}, {nitcu}, {taske}.
-Examples: None
+word: xagji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hungers for x2; x1 needs/wants food/fuel x2.
+    notes:
+    - See also {cidja}, {citka}, {djica}, {nitcu}, {taske}.
+    glosses:
+    - hunger
+  de:
+    place structure: x1 hungert nach/hat Hunger auf x2; x1 braucht/will Nahrung/Treibstoff
+      x2.
+    notes:
+    - Siehe auch {cidja}, {citka}, {djica}, {nitcu}, {taske}.
+    glosses:
+    - Hunger
+  es:
+    place structure: x1 tiene hambre de x2
+    notes:
+    - Ver también {taske},  {djica},  {nitcu}.
+    glosses:
+    - tener hambre
+  ru:
+    place structure: x1 голоден, нуждаясь в пище/топливе x2; x1 алчет x2
+    notes:
+    - '{cidja} (пища), {citka} (есть), {djica} (хотеть), {nitcu} (нуждаться), {taske}
+      (жаждать)'
+    glosses:
+    - голодный
+    - x2=то, чкго алчут
+  en-simple:
+    place structure: x1 is hungry for x2
+    notes:
+    - No notes.
+    glosses:
+    - something hungry
+    - x2=a subject of hunger
+  eo:
+    place structure: x1 estas malsata; x1 bezonas/volas manĝon/brulaĵon/energifonton
+      x2
+    notes:
+    - Vidu ankaŭ {cidja}, {citka}, {djica}, {nitcu}, {taske}.
+    glosses:
+    - malsata
+  hu:
+    place structure: x1 éhes/éhezik x2 táplálékra/üzemanyagra
+    notes:
+    - '(Lásd még: {cidja}, {citka}, {djica}, {nitcu}, {taske})'
+    glosses:
+    - éhes
+  ja:
+    place structure: x1 は x2 に飢える；  x1 は腹をすかしている／おなかがへっている；  x1 は x2 （燃料／栄養）の補充を必要としている
+    notes:
+    - x1は人だけでなく車など機械も。 ・大意： 飢える ・読み方： クァグジ  ・語呂合わせ： 各自飢えている ・関連語： {cidja}, {citka},
+      {djica}, {nitcu}, {taske}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1渴望x2；x1想要食物/燃料x2
+    notes:
+    - 参见 {cidja}, {citka}, {djica}, {nitcu}, {taske}.
+    glosses:
+    - No glosses.

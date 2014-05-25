@@ -1,5 +1,71 @@
-Word: janta
-Rafsi: jat
-Definition: x1 is an account/bill/invoice for goods/services x2, billed to x3 by x4.
-Notes: See also {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}.
-Examples: None
+word: janta
+rafsi:
+- jat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an account/bill/invoice for goods/services x2, billed to
+      x3 by x4.
+    notes:
+    - See also {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}.
+    glosses:
+    - account
+    - bill (invoice)
+  de:
+    place structure: x1 ist eine Rechnung für Güter/Dienstleistungen x2, ausgestellt
+      an x3 durch x4
+    notes:
+    - No notes.
+    glosses:
+    - Rechnung
+  es:
+    place structure: x1 es una factura/cuenta/recibo por bienes/servicios x2 extendida
+      a x3 por x4
+    notes:
+    - No notes.
+    glosses:
+    - factura
+  ru:
+    place structure: x1 — счет/квитанция/фактура за товары/услуги x2, предъявленный
+      x3 (кому) x4 (кем)
+    notes:
+    - '{jdima} (цена), {vamji} (ценность [стоимость]), {vecnu} (продавать), {canja}
+      (обменивать), {jerna} (зарабатывать), {dejni} (должник), {jbera} (заимствовать)'
+    glosses:
+    - x1=счёт (квитанция)
+  en-simple:
+    place structure: x1 is a bill for x2 billed to x3 by x4
+    notes:
+    - No notes.
+    glosses:
+    - a bill
+    - x2=something billed
+    - x3=something that receives a bill
+    - x4=something that sends a bill
+  eo:
+    place structure: x1 estas konto/kalkulo/fakturo por varoj/servoj x2, ŝarĝita al
+      x3 fare de x4
+    notes:
+    - Vidu ankaŭ {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}.
+    glosses:
+    - konto
+  hu:
+    place structure: x1 egy számla/váltó x2-ről, kiállítva x3-nak, x4 által
+    notes:
+    - '(Lásd még: {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera})'
+    glosses:
+    - számla
+  ja:
+    place structure: x1 は x2 （奉仕／サービス）に関する、 x3 （者）宛ての x4 （者）からの請求（書）／納品書
+    notes:
+    - ・大意： 請求 ・読み方： ジャンタ  ・語呂合わせ： 請求じゃんただの ・関連語： {jdima}, {vamji}, {vecnu}, {canja},
+      {jerna}, {dejni}, {jbera}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是账目/账单/发票，为了货物/服务x2，发票给予x3，由x4给出
+    notes:
+    - 参见 {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}.
+    glosses:
+    - No glosses.

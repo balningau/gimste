@@ -1,9 +1,76 @@
-Word: sanji
-Rafsi: saj
-Definition: x1 is conscious/aware of x2 (object/abstract); x1 discerns/recognizes
-  x2 (object/abstract).
-Notes: '[also: $x_1$ knows Of. $x_2$ (one sense); awareness implies some amount of
-  mental processing above and beyond mere sensory detection, and may also be applied
-  to mental relationships that are not detected by the senses]; See also {menli},
-  {morji}, {ganse}, {sipna}, {cikna}.'
-Examples: None
+word: sanji
+rafsi:
+- saj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is conscious/aware of x2 (object/abstract); x1 discerns/recognizes
+      x2 (object/abstract).
+    notes:
+    - '[also: x1 knows Of. x2 (one sense); awareness implies some amount of mental
+      processing above and beyond mere sensory detection, and may also be applied
+      to mental relationships that are not detected by the senses]; See also {menli},
+      {morji}, {ganse}, {sipna}, {cikna}.'
+    glosses:
+    - conscious
+    - recognize (discern)
+  de:
+    place structure: x1 ist sich x2 (Objekt/Abstraktion) bewusst; x1 erkennt/nimmt
+      x2 (Objekt/Abstraktion) wahr
+    notes:
+    - No notes.
+    glosses:
+    - bewusst
+  es:
+    place structure: x1 es consciente de/reconoce/se da cuenta de x2
+    notes:
+    - Ver también {ganse},  {sipna},  {cikna}.
+    glosses:
+    - consciente
+  ru:
+    place structure: x1 осознает x2 (объект/абстракция); x1 сознает, что x2 (абстракция)
+    notes:
+    - 'Также: x1 знает (о) x2, x1 дает себе полный отчет в x2; осознание подразумевает
+      определенную степень умственной работы, помимо простого чувственного восприятия
+      {menli} (разум), {morji} (помнить), {ganse} (чувствовать [ощущать]), {sipna}
+      (спать), {cikna} (бодрствовать)'
+    glosses:
+    - осознавать
+    - x1=осознающий
+    - x2=осознаваемое
+  en-simple:
+    place structure: x1 is aware or conscious of x2
+    notes:
+    - No notes.
+    glosses:
+    - something aware of something
+    - x2=something of which something is aware
+  eo:
+    place structure: x1 estas konscia pri/distingas/perceptas/rekonas x2-on (objekto/abstraktaĵo)
+    notes:
+    - 'Ankaŭ: x1 scias pri x2 (unu senco); konscio implicas iom da mensa ago preter
+      nura sensa detekto, kaj povas ankaŭ aplikiĝi al mensaj rilatoj ne detektitaj
+      de la sensoj.  Vidu ankaŭ {menli}, {morji}, {ganse}, {sipna}, {cikna}.'
+    glosses:
+    - konscia
+  hu:
+    place structure: x1 tudatában van x2 tárgynak/ténynek
+    notes:
+    - '(Lásd még: {menli}, {morji}, {ganse}, {sipna}, {cikna})'
+    glosses:
+    - tudatában van
+  ja:
+    place structure: x1 は x2 （物／事）について意識がある；  x1 は x2 を意識／認識している
+    notes:
+    - 単なる感覚ではなく、感覚したものを分析する過程が含意される。 ・大意： 意識 ・読み方： サンジ  ・語呂合わせ： 認識は三時, conscious,
+      ji（知） ・関連語： {menli}, {morji}, {ganse}, {sipna}, {cikna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2（物体/谓词子句）是有意识的；x1知晓/清楚x2（物体/谓词子句）
+    notes:
+    - 知晓暗示的是头脑中的某些过程，而不仅仅是感官探测，也可能指仅有头脑进程而无实际感知的“知晓”；参见 {menli}, {morji}, {ganse},
+      {sipna}, {cikna}.
+    glosses:
+    - No glosses.

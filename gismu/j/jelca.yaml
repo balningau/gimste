@@ -1,8 +1,80 @@
-Word: jelca
-Rafsi: jel
-Definition: x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere
-  x3.
-Notes: Default $x_2$/$x_3$ to normal temperatures in air; ignite (= {jelcfa}), flammable/inflammable
-  (usually = {jelka'e} or {jelfrili}).  See also {fagri}, {kijno}, {sigja}, {livla},
-  {sacki}.
-Examples: None
+word: jelca
+rafsi:
+- jel
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 burns/[ignites/is flammable/inflammable] at temperature x2
+      in atmosphere x3.
+    notes:
+    - Default x2/x3 to normal temperatures in air; ignite (= {jelcfa}), flammable/inflammable
+      (usually = {jelka'e} or {jelfrili}).  See also {fagri}, {kijno}, {sigja}, {livla},
+      {sacki}.
+    glosses:
+    - burn
+  de:
+    place structure: x1 brennt/[entzündet/ist entzündlich] bei Temperatur x2 in Atmosphäre
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - brennen
+  es:
+    place structure: x1 se quema/enciende a temperatura x2 en atmósfera x3
+    notes:
+    - No notes.
+    glosses:
+    - quemarse
+  ru:
+    place structure: x1 горит/воспламеняется при температуре x2 в атмосфере x3
+    notes:
+    - 'по умолчанию x2 — нормальная температура, x3 — воздух; загорается: {jelcfa};
+      горючий ({jelka''e} или {jelfrili} {fagri} (огонь), {kijno} (кислород), {sigja}
+      (сигарета), {livla} (топливо), {sacki} (спичка)'
+    glosses:
+    - x1=гореть
+  en-simple:
+    place structure: x1 burns at temperature x2 in atmosphere x3
+    notes:
+    - No notes.
+    glosses:
+    - something that burns
+    - x2=a temperature at which something burns
+    - x3=an atmosphere in which something burns
+  eo:
+    place structure: x1 brulas/[ekbrulas/estas flamigebla] je temperaturo x2 en atmosfero
+      x3
+    notes:
+    - Defaŭlte x2/x3 ordinara temperaturo en aero; ekbruli (= {jelcfa}), flamebla
+      (kutime = jelka'e aŭ jelfrili).  Vidu ankaŭ {fagri}, {kijno}, {sigja}, {livla},
+      {sacki}.
+    glosses:
+    - bruli
+  hu:
+    place structure: x1 ég(hető)/gyúlékony x2 hőmérsékleten, x3 közegben
+    notes:
+    - '(Lásd még: {fagri}, {kijno}, {sigja}, {livla}, {sacki})'
+    glosses:
+    - ég (lángol)
+  ja:
+    place structure: x1 は x2 （温度）・ x3 （気体）において燃える；  x1 には可燃性がある
+    notes:
+    - ・大意： 燃える ・読み方： ジェルゥシャ  ・関連語： {fagri}, {kijno}, {sigja}, {livla}, {sacki}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 brinner/[antänds/är lättantändlig/brandfarlig] vid temperatur
+      x2 i atmosfär x3.
+    notes:
+    - x2/x3 rumstemperatur i luft om inget annat anges; antändas (={jelcfa}), lättantändlig/eldfängd/brandfarlig
+      (vanligtvis = {jelka'e} eller {jelfrili}).
+    glosses:
+    - brinna
+  zh:
+    place structure: x1燃烧，在温度x2下，气体环境x3中
+    notes:
+    - 默认x2为常温，x3为空气；点燃= {jelcfa}；可燃物/易燃物= {jelka'e}/{jelfrili}；参见 {fagri}, {kijno},
+      {sigja}, {livla}, {sacki}.
+    glosses:
+    - No glosses.

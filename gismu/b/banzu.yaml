@@ -1,6 +1,105 @@
-Word: banzu
-Rafsi: baz
-Definition: x1 (object) suffices/is enough/sufficient for purpose x2 under conditions
-  x3.
-Notes: See also {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
-Examples: None
+word: banzu
+rafsi:
+- baz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object) suffices/is enough/sufficient for purpose x2 under
+      conditions x3.
+    notes:
+    - See also {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+    glosses:
+    - suffice
+  de:
+    place structure: x1 (Objekt) genügt/reicht/ist genug/ausreichend für Zweck x2
+      unter Bedingungen x3.
+    notes:
+    - Siehe auch {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+    glosses:
+    - ausreichen
+  es:
+    place structure: x1 alcanza/basta/es suficiente para propósito x2 bajo condiciones
+      x3
+    notes:
+    - Ver también {sarcu},  {dukse},  {claxu},  {nitcu}.
+    glosses:
+    - suficiente
+  fr:
+    place structure: x1 suffit à/est suffisant pour x2 dans les circonstances x3.
+    notes:
+    - Voir également {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+    glosses:
+    - suffire
+  ru:
+    place structure: x1 (объект) достаточен для цели x2 в условиях x3
+    notes:
+    - 'Также: хватает, довольно {dukse} (избыток), {claxu} (без), {nitcu} (нуждаться),
+      {ricfu} (богатый), {curmi} (разрешать [позволять])'
+    glosses:
+    - достаточный
+  en-simple:
+    place structure: x1 is enough for purpose x2
+    notes:
+    - No notes.
+    glosses:
+    - enough
+    - sufficient
+    - x1=a sufficient
+    - x2=a purpose something is sufficient for
+    - x3=a condition of sufficiency
+  eo:
+    place structure: x1 (objekto) sufiĉas por celo x2 sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+    glosses:
+    - sufiĉa
+  hu:
+    place structure: x1 elegendő/kielégítő x2 célra, x3 körülmények között
+    notes:
+    - '(Lásd még: {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi})'
+    glosses:
+    - elegendő
+  ja:
+    place structure: x1 は x2 （目的）に関して x3 （条件）において足りる／充分
+    notes:
+    - 「lo nanba na banzu lo nu lo remna cu jmive／人はパンのみにて生くるにあらず」 ・大意： 充分 ・読み方： バンズ  ・語呂合わせ：
+      ＜晩の頭脳＞, basta,　zu（足） ・関連語： {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 (object) voldoet aan de eisen voor zijn functie x2 onder de
+      omstandigheden x3.
+    notes:
+    - 'Zie ook : {dukse}, {claxu}, {nitcu}, {ricfu} en {curmi}.'
+    glosses:
+    - voldoen
+    - voldoet
+  'no':
+    place structure: x1 (objekt) er er nok/tilstrekkelig for formål x2, under forhold
+      x3
+    notes:
+    - Se også {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (objekt) räcker/förslår/är nog/tillräcklig/lagom/tillfyllest
+      för ändamål x2 under villkor x3
+    notes:
+    - Se även {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}, {mansa}, {rau}, {raumei},
+      {raumoi}.
+    glosses:
+    - förslå
+    - lagom (tillräcklig)
+    - nog (tillräcklig)
+    - räcka (tillräcklig)
+    - tillfyllest (tillräcklig)
+    - x1=lagom mängd
+    - x2=tillräckligt för ändamål
+    - x3=villkor för att vara tillräckligt
+  zh:
+    place structure: x1 (对象)是足够/充分的，为目的 x2 ,在境况 x3下.
+    notes:
+    - No notes.
+    glosses:
+    - ' 足 '

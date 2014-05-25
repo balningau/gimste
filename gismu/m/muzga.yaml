@@ -1,6 +1,67 @@
-Word: muzga
-Rafsi: muz
-Definition: x1 is a museum for preserving [and possibly exhibiting] x2 at location
-  x3.
-Notes: See also {citri}.
-Examples: None
+word: muzga
+rafsi:
+- muz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a museum for preserving [and possibly exhibiting] x2 at
+      location x3.
+    notes:
+    - See also {citri}.
+    glosses:
+    - museum
+  de:
+    place structure: x1 ist ein Museum und bewahrt [und stellt möglicherweise aus]
+      x2 an Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Museum
+  es:
+    place structure: x1 es un museo para conservar/exhibir x2 en localidad x3
+    notes:
+    - No notes.
+    glosses:
+    - museo
+  ru:
+    place structure: x1 — музей для сохранения (и, возможно, экспонирования) x2 (чего)
+      в x3 (где)
+    notes:
+    - '{citri} (история)'
+    glosses:
+    - музей
+  en-simple:
+    place structure: x1 is a museum for preserving x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a museum
+    - x2=something preserved at a museum
+    - x3=a location of a museum
+  eo:
+    place structure: x1 estas muzeo por konservi [kaj eble montranta] x2-on en loko
+      x3
+    notes:
+    - Vidu ankaŭ {citri}.
+    glosses:
+    - muzeo
+  hu:
+    place structure: x1 egy múzeum x2 megőrzésére x3 helyen
+    notes:
+    - '(Lásd még: {citri})'
+    glosses:
+    - múzeum
+  ja:
+    place structure: x1 は x2 を保存する（展示することもある） x3 （所）の博物館／美術館
+    notes:
+    - ・大意： 博物館 ・読み方： ムズガ  ・語呂合わせ： 博物館でむずがゆい, museum, guan(館) ・関連語： {citri}
+    - ''
+    glosses:
+    - 博物館
+    - 美術館
+  zh:
+    place structure: x1是博物馆/陈列馆，用以珍藏（可能会展览）x2，在位置x3处
+    notes:
+    - 参见 {citri}.
+    glosses:
+    - No glosses.

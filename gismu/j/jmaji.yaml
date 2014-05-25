@@ -1,5 +1,74 @@
-Word: jmaji
-Rafsi: jaj
-Definition: x1 (mass/jo'u) gathers/collects at location x2 from locations x3 (mass/jo'u).
-Notes: Also focus (= {seljmaji}).  See also {crepu}.
-Examples: None
+word: jmaji
+rafsi:
+- jaj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass/jo'u) gathers/collects at location x2 from locations
+      x3 (mass/jo'u).
+    notes:
+    - Also focus (= {seljmaji}).  See also {crepu}.
+    glosses:
+    - gather
+  de:
+    place structure: x1 (Masse/jo'u) versammelt sich an Ort x2 aus den Orten x3 (Masse/jo'u)
+    notes:
+    - No notes.
+    glosses:
+    - versammeln
+  es:
+    place structure: x1 se junta/amontona/amasa/reúne en localidad x2 desde localidades
+      x3
+    notes:
+    - Ver también {preja},  {crepu}.
+    glosses:
+    - juntarse
+  ru:
+    place structure: 'x1 (масса/{jo''u}) скапливается/собирается/консолидируется/концентрируется
+      в x2 (где) из x3 (откуда: масса/{jo''u})'
+    notes:
+    - 'Фокус/средоточие: {seljmaji} {crepu} (собирать [урожай])'
+    glosses:
+    - скапливаться
+    - x1=скапливающийся
+    - x2=место концентрации
+  en-simple:
+    place structure: x1 gathers at location x2 from locations x3
+    notes:
+    - No notes.
+    glosses:
+    - something gathering
+    - x2=a location of a gathering
+    - x3=an origin of a gathering
+  eo:
+    place structure: x1 (mass/jo'u) kolektiĝas/kunvenas en loko x2 el lokoj x3 (mass/jo'u)
+    notes:
+    - 'Ankaŭ: fokuso (= {seljmaji}).  Vidu ankaŭ {crepu}.'
+    glosses:
+    - kolektiĝi
+  hu:
+    place structure: x1 [sokaság] összegyűlik x2 helyre x3 helyekről [sokaság]
+    notes:
+    - '(Lásd még: {crepu})'
+    glosses:
+    - összegyűlik
+  ja:
+    place structure: x1 は x2 （所）に x3 （起源）から集まる／集結する
+    notes:
+    - ・大意： 集まる ・読み方： ジマジ  ・語呂合わせ： 何時まじで集まる？ ・関連語： {crepu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (massa/jo'u) plockar/samlar ihop på plats x2 från platser
+      x3 (massa/jo'u).
+    notes:
+    - Även fokusera (={seljmaji})
+    glosses:
+    - samla (samla ihop)
+  zh:
+    place structure: x1（团/jo'u）聚集在位置/地点x2，从位置/地点x3（团/jo'u）
+    notes:
+    - 也指：焦点/聚集点= {seljmaji}；参见 {crepu}.
+    glosses:
+    - No glosses.

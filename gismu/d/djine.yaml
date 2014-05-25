@@ -1,8 +1,91 @@
-Word: djine
-Rafsi: jin
-Definition: x1 is a ring/annulus/torus/circle [shape/form] of material x2, inside
-  diam. x3, outside diam. x4.
-Notes: Also ellipse, oval (= {jincla}); (usage has been for near-circles, such as
-  tight spirals, even if not closed loops).  Also band, belt, encircle (= {jinsru}).  See
-  also {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}.
-Examples: None
+word: djine
+rafsi:
+- jin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a ring/annulus/torus/circle [shape/form] of material x2,
+      inside diam. x3, outside diam. x4.
+    notes:
+    - Also ellipse, oval (= {jincla}); (usage has been for near-circles, such as tight
+      spirals, even if not closed loops).  Also band, belt, encircle (= {jinsru}).  See
+      also {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}.
+    glosses:
+    - ring
+  de:
+    place structure: x1 ist ein Ring/Torus/Kreisring/Kreis [Form] von Material x2
+      mit Innendurchmesser x3 und Außendurchmesser x4
+    notes:
+    - No notes.
+    glosses:
+    - Ring
+  es:
+    place structure: x1 es un anillo/aro/toro/círculo (forma) de material x2, con
+      diámetro interno x3, diámetro externo x4
+    notes:
+    - No notes.
+    glosses:
+    - anillo
+  ru:
+    place structure: x1 — кольцо/тор (форма) из материала x2, внутренний диаметр x3,
+      внешний диаметр x4
+    notes:
+    - 'Также: эллипс, овал: {jincla}; отмечено употребление и для неполного кольца,
+      напр. тугой спирали, даже с незамкнутыми витками; Также: опоясывать/охватывать/окружать:
+      {jinsru} {clupa} (петля), {cukla} (круг), {dasri} (лента), {karli} (пояс), {sovda}
+      (яйцо), {sruri} (оркужать), {konju} (конус)'
+    glosses:
+    - x1=кольцо
+  en-simple:
+    place structure: x1 is a ring of material x2 with inside, outside diameters x3,
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a ring
+    - x2=a material of a ring
+    - x3=an inside diameter of a ring
+    - x4=an outside diameter of a ring
+  eo:
+    place structure: x1 estas ringo/toruso/cirklo [formo] el materialo x2, ena diametro
+      x3, ekstera diametro x4
+    notes:
+    - 'Ankaŭ: elipso, ovalo (= {jincla}); (uzita por preskaŭcirkloj, kiel densa spiralo,
+      eĉ se ne fermita kurbo).  Ankaŭ: band, belt, encircle (= {jinsru}).  Vidu ankaŭ
+      {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}.'
+    glosses:
+    - ringo
+  hu:
+    place structure: x1 egy (kör)gyűrű/tórusz x2 anyagból, x3 belső és x4 külső átmérővel
+    notes:
+    - '(Lásd még: {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju})'
+    glosses:
+    - gyűrű
+  ja:
+    place structure: x1 は x2 （内直径）・ x3 （外直径）の環／輪／円；  x1 は環状／円環面状
+    notes:
+    - ・大意： 環 ・読み方： ヂネ  ・関連語： {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri},
+      {konju}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ring/ögla/torus/cirkel [form] av material x2, med innerdiameter
+      x3, ytterdiameter x4.
+    notes:
+    - Betonar den runda omkretsen hos en cirkel, till skillnad från {cukla} som betonar
+      en cirkelformad yta. Även ellips, oval (={jincla}); kan även användas om former
+      som är snarlika cirklar såsom täta spiraler (även om de inte är slutna). Även
+      band, bälte, omringa (forma en cirkel runt;= {jinsru}).
+    glosses:
+    - x1=ring
+    - x2=ringmaterial
+    - x3=innerdiameter  (ring/cirkel)
+    - x4=ytterdiameter (ring/cirkel)
+  zh:
+    place structure: x1是由材料x2构成的环，内径为x3，外径为x4
+    notes:
+    - 椭圆= {jincla}；用于各种近似圆的环状物体，甚至不必是闭合的，如：螺旋； 腰带/环带= {jinsru}；参见 {clupa}, {cukla},
+      {dasri}, {karli}, {sovda}, {sruri}, {konju}.
+    glosses:
+    - No glosses.

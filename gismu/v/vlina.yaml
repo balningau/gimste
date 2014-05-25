@@ -1,6 +1,67 @@
-Word: vlina
-Rafsi: ''
-Definition: x1 is a logical alternation/disjunction, stating that x2 (du'u) and/or
-  x3 (du'u) is/are true.
-Notes: See also {kanxe}, cmavo list {a}, {ja}, {gi'a}, {gu'a}.
-Examples: None
+word: vlina
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a logical alternation/disjunction, stating that x2 (du'u)
+      and/or x3 (du'u) is/are true.
+    notes:
+    - See also {kanxe}, cmavo list {a}, {ja}, {gi'a}, {gu'a}.
+    glosses:
+    - alternation
+  de:
+    place structure: x1 ist eine logische Disjunktion und sagt aus, dass x2 (du'u)
+      und/oder x3 (du'u) wahr ist/sind
+    notes:
+    - No notes.
+    glosses:
+    - Disjunktion
+  es:
+    place structure: 'x1 es una alternativa lógica: x2 (du''u) y/o x3 (du''u) son
+      ciertos'
+    notes:
+    - Ver también {kanxe},  {natfe}.
+    glosses:
+    - alternativa
+  ru:
+    place structure: 'x1 — дизъюнкция: утверждение, что либо x2 ({du''u}), либо x3
+      ({du''u}), либо оба сразу истинны'
+    notes:
+    - '{kanxe} (конъюнкция), {.a}, {ja}, {gi''a}, {gu''a}'
+    glosses:
+    - x1=дизъюнкция
+  en-simple:
+    place structure: x1 is a logical disjunction stating that x2 and or x3 are true
+    notes:
+    - No notes.
+    glosses:
+    - a logical disjunction
+    - x2=an alternative of a disjunction
+    - x3=another alternative of a disjunction
+  eo:
+    place structure: x1 estas logika disjunkcio/alterno, asertanta ke x2 (du'u) kaj/aŭ
+      x3 (du'u) estas veraj
+    notes:
+    - Vidu ankaŭ {kanxe}, cmavo {a}, {ja}, {gi'a}, {gu'a}.
+    glosses:
+    - disjunkcio
+  hu:
+    place structure: x1 egy logikai kapcsolat, amely szerint x2 és/vagy x3 [du’u]
+      állítás igaz
+    notes:
+    - '(Lásd még: {kanxe})'
+    glosses:
+    - diszjunkció
+  ja:
+    place structure: x1 は x2 （命題）・ x3 （命題）の論理的選言（離接）／選言的判断
+    notes:
+    - ・大意： 選言 ・読み方： ヴルィナ  ・関連語： {kanxe}, {a}, {ja}, {gi'a}, {gu'a}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是逻辑变换/分析，表示x2（du'u）和/或x3（du'u）为真
+    notes:
+    - 参见 {kanxe}, {a}, {ja}, {gi'a}, {gu'a}.
+    glosses:
+    - No glosses.

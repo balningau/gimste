@@ -1,6 +1,67 @@
-Word: speni
-Rafsi: spe
-Definition: x1 is married to x2; x1 is a spouse of x2 under law/custom/tradition/system/convention
-  x3.
-Notes: See also {prami}, {gletu}.
-Examples: None
+word: speni
+rafsi:
+- spe
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is married to x2; x1 is a spouse of x2 under law/custom/tradition/system/convention
+      x3.
+    notes:
+    - See also {prami}, {gletu}.
+    glosses:
+    - married
+  de:
+    place structure: x1 ist verheiratet mit x2; x1 ist ein Lebensgefährte/Ehegatte
+      von x2 nach Gesetz/Brauch/Tradition/System/Übereinkunft x3
+    notes:
+    - No notes.
+    glosses:
+    - Lebensgefährte
+  es:
+    place structure: x1 es cónyuge/esposo/esposa/marido/mujer de x2 por lazo/relación/ley/costumbre/tradición
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cónyuge
+  ru:
+    place structure: x1 женат на/замужем за x2; x1 — супруг x2 по закону/обычаю/традиции/соглашению
+      x3
+    notes:
+    - '{prami} (любить [кого-либо]), {gletu} (совокупляться)'
+    glosses:
+    - супруг
+  en-simple:
+    place structure: x1 is married to x2 under custom x3
+    notes:
+    - No notes.
+    glosses:
+    - something married
+    - x2=something married to
+    - x3=a marriage custom
+  eo:
+    place structure: x1 estas edz(in)o de x2 laŭ leĝo/kutimo/tradicio/sistemo/konvencio
+      x3
+    notes:
+    - Vidu ankaŭ {prami}, {gletu}.
+    glosses:
+    - edzo
+  hu:
+    place structure: x1 egy/a házastársa x2-nek x3 törvény/hagyomány/szokás szerint
+    notes:
+    - '(Lásd még: {prami}, {gletu})'
+    glosses:
+    - házas
+  ja:
+    place structure: x1 は x2 と結婚している／の配偶者、 x3 （法律／規則／慣習）のもと
+    notes:
+    - ・大意： 結婚 ・読み方： スペニ  ・関連語： {prami}, {gletu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2结婚；x1是x2的配偶，基于法律/习俗/传统/体系/协定x3
+    notes:
+    - 参见 {prami}, {gletu}.
+    glosses:
+    - No glosses.

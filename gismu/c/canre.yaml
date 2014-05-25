@@ -1,6 +1,79 @@
-Word: canre
-Rafsi: can
-Definition: x1 is a quantity of/contains/is made of sand/grit from source x2 of composition
-  including x3.
-Notes: Also abrasive (= {gukcanre}).  See also {bidju}, {rokci}, {zalvi}, {boxna}.
-Examples: None
+word: canre
+rafsi:
+- can
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of sand/grit from source
+      x2 of composition including x3.
+    notes:
+    - Also abrasive (= {gukcanre}).  See also {bidju}, {rokci}, {zalvi}, {boxna}.
+    glosses:
+    - sand
+  de:
+    place structure: x1 ist eine gewisse Menge/enthält/besteht aus Sand/Kies aus Quelle
+      x2 von Zusammensetzung unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Sand
+  es:
+    place structure: x1 es una cantidad de arena de origen x2 de composición x3
+    notes:
+    - No notes.
+    glosses:
+    - arena
+  ru:
+    place structure: x1 — песок/гравий/{опилки} из источника x2, состоящий из x3 (не
+      обязательно полное описание состава)
+    notes:
+    - 'Абразив: {gukcanre} {bidju} (бисер), {rokci} (камень), {zalvi} (размалывать),
+      {boxna} (волна)'
+    glosses:
+    - песок
+  en-simple:
+    place structure: x1 is a quantity of sand or grit from x2 of composition x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of sand
+    - x2=a source of sand
+    - x3=a composition of sand
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el sablo el fonto x2 de
+      konsisto enhavanta x3-on
+    notes:
+    - Vidu ankaŭ {bidju}, {rokci}, {zalvi}, {boxna}.
+    glosses:
+    - sablo
+  hu:
+    place structure: x1 bizonyos mennyiségű homok (-ot tartalmaz/-ból készült) x2
+      forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {bidju}, {rokci}, {zalvi}, {boxna})'
+    glosses:
+    - homok
+  ja:
+    place structure: x1 は x2 （起源）・ x3 （成分）の砂／砂利
+    notes:
+    - 「研磨剤」も。 ・大意： 砂 ・読み方： シャンレ  ・語呂合わせ： ca(沙), sand ・関連語： {bidju}, {rokci}, {zalvi},
+      {boxna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet/gjord av/innehåller sand från källa x2 av
+      sammansättning x3.
+    notes:
+    - No notes.
+    glosses:
+    - sandig
+    - x1=sand
+    - x2=sandkälla
+    - x3=sandsammansättning
+  zh:
+    place structure: x1是/含有沙子/由沙构成，来源于x2，物质构成为x3
+    notes:
+    - 砂轮= {gukcanre}；参见 {bidju}, {rokci}, {zalvi}, {boxna}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,90 @@
-Word: gasnu
-Rafsi: gau
-Definition: x1 [person/agent] is an agentive cause of event x2; x1 does/brings about
-  x2.
-Notes: (cf. cmavo list gau, gunka, zukte, rinka, fasnu for non-agentive events, jibri,
-  kakne, pilno)
-Examples: None
+word: gasnu
+rafsi:
+- gau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [person/agent] is an agentive cause of event x2; x1 does/brings
+      about x2.
+    notes:
+    - (cf. cmavo list gau, gunka, zukte, rinka, fasnu for non-agentive events, jibri,
+      kakne, pilno)
+    glosses:
+    - bring about
+    - do (bring about)
+    - x1=agent
+  de:
+    place structure: x1 [Person/Handelnder] ist die handelnde Ursache für Ereignis
+      x2; x1 tut/verursacht/bewirkt x2; x1 führt x2 herbei
+    notes:
+    - No notes.
+    glosses:
+    - tun
+  es:
+    place structure: x1 hace que ocurra x2
+    notes:
+    - Ver también {fanta},  {zukte},  {rinka},  {fasnu}.
+    glosses:
+    - No glosses.
+  fr:
+    place structure: x1 [entité capable d'exercer un choix librement] est la cause
+      de / fait en sorte que se produise x2
+    notes:
+    - No notes.
+    glosses:
+    - causer
+    - faire en sorte
+  ru:
+    place structure: x1 (лицо/агент) является деятельной причиной события x2; x1 делает
+      так, что происходит x2; x1 делает/вызывает/осуществляет x2
+    notes:
+    - '{gau}, {gunka} (работать), {zukte} (действовать), {rinka} (причина [физическая]);
+      {fasnu} (происходить [случаться]) для событий, не вызванных чьими-то действиями;
+      {jibri} (профессия), {kakne} (мочь), {pilno} (использовать)'
+    glosses:
+    - вызывать
+    - x1=агент
+  en-simple:
+    place structure: x1 causes x2 to happen
+    notes:
+    - No notes.
+    glosses:
+    - a cause
+    - x2=something caused
+  eo:
+    place structure: x1 [homo/aganto] estas aganta kauzo de okazo x2; x1 faras/okazigas/ekektivigas
+      x2-on
+    notes:
+    - Vidu ankaŭ cmavo {gau}, {gunka}, {zukte}, {rinka}, fasnu por neagentaj {okazoj},
+      {jibri}, {kakne}, {pilno}.
+    glosses:
+    - fari
+  hu:
+    place structure: x1 személy/cselekvő okozza x2 eseményt
+    notes:
+    - '(Lásd még: {gunka}, {zukte}, {rinka}, {fasnu}, {jibri}, {kakne}, {pilno})'
+    glosses:
+    - csinál
+  ja:
+    place structure: x1 （者）は x2 （事）をする
+    notes:
+    - 「zukte」が意志に基づき目的を見据えた振舞いであるのたいし、「gasnu」は単に行動の主体性を表す。 ・大意： する ・読み方： ガスヌ  ・語呂合わせ：
+      gan(干), hacer ・関連語： {gau}, {gunka}, {zukte}, {rinka}, {fasnu}, {jibri}, {kakne},
+      {pilno}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 [person/agent] är en agentiv orsak till händelse x2; x1 gör/åstadkommer
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - göra (åstadkomma; få att hända)
+    - åstadkomma (göra; få att hända)
+  zh:
+    place structure: x1是事件x2发生的施事原因；x1做x2
+    notes:
+    - 参见：{gau}, {gunka}, {zukte}, {rinka}, {fasnu}无施事者, {jibri}, {kakne}, {pilno}
+    glosses:
+    - No glosses.

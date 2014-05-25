@@ -1,5 +1,68 @@
-Word: stela
-Rafsi: tel
-Definition: x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism x3.
-Notes: See also {ckiku}.
-Examples: None
+word: stela
+rafsi:
+- tel
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism
+      x3.
+    notes:
+    - See also {ckiku}.
+    glosses:
+    - lock
+  de:
+    place structure: x1 ist ein Schloss/Siegel/eine Sperre zum Verschließen von x2
+      mit Verschlussmechanismus x3
+    notes:
+    - No notes.
+    glosses:
+    - Schloss
+  es:
+    place structure: x1 es una cerradura/candado/sello/cerrojo en x2 con mecanismo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cerradura
+  ru:
+    place structure: x1 — замок/защелка/запор для/запирающий x2 с механизмом x3
+    notes:
+    - 'Также: пломба/печать, запечатывает {ckiku} (ключ)'
+    glosses:
+    - замок
+    - x2=то, что запирается
+    - x3=запирающий механизм
+  en-simple:
+    place structure: x1 is a lock for sealing x2, with mechanism x3
+    notes:
+    - No notes.
+    glosses:
+    - a lock
+    - x2=something locked
+    - x3=a locking mechanism
+  eo:
+    place structure: x1 estas seruro/sigelo/riglilo por sigeli x2-on per serura mekanismo
+      x3
+    notes:
+    - Vidu ankaŭ {ckiku}.
+    glosses:
+    - seruro
+  hu:
+    place structure: x1 egy zár/lakat x2 lezárására, x3 működési elvvel
+    notes:
+    - '(Lásd még: {ckiku})'
+    glosses:
+    - zár
+  ja:
+    place structure: x1 は x2 を x3 （仕組）で封じる錠／ロック
+    notes:
+    - ・大意： 錠 ・読み方： ステルァ  ・関連語： {ckiku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是锁/封条/封印，用以锁住x2，使用上锁原理x3
+    notes:
+    - 参见 {ckiku}.
+    glosses:
+    - No glosses.

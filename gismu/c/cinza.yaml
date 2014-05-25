@@ -1,6 +1,80 @@
-Word: cinza
-Rafsi: ''
-Definition: x1 is a/are tong(s)/chopsticks/pincers/tweezers/pliers [tool/body-part]
-  for x2 to pinch x3.
-Notes: See also {tutci}.
-Examples: None
+word: cinza
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/are tong(s)/chopsticks/pincers/tweezers/pliers [tool/body-part]
+      for x2 to pinch x3.
+    notes:
+    - See also {tutci}.
+    glosses:
+    - pliers
+    - tongs
+    - tweezers
+  de:
+    place structure: x1 ist eine Zange/Pinzette/sind Stäbchen [Werkzeug/Körperteil]
+      für x2 zum Kneifen von x3
+    notes:
+    - No notes.
+    glosses:
+    - Zange
+  es:
+    place structure: x1 es una pinza (herramienta/parte del cuerpo) de x2 para pellizcar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - pinza
+  ru:
+    place structure: x1 — щипцы/клещи/плоскогубцы/пинцет/прищепка/клешня (инструмент/часть
+      тела), используемые x2 (кем), чтобы захватить/прищемить x3 (что)
+    notes:
+    - 'Также: китайские палочки для еды {tutci} (инструмент)'
+    glosses:
+    - x1=клещи
+  en-simple:
+    place structure: x1 is a pincer or tongs for x2 to pinch x3
+    notes:
+    - No notes.
+    glosses:
+    - tongs
+    - x2=something using tongs
+    - x3=something pinched with tongs
+  eo:
+    place structure: x1 estas prenilo/manĝvergo/tenajlo/pinĉilo [ilo/korpoparto] por
+      x2 por pinĉi x3-on
+    notes:
+    - Vidu ankaŭ {tutci}.
+    glosses:
+    - prenilo
+  hu:
+    place structure: x1 egy csipesz/fogó/egy pár evőpálcika x2 számára, x3 megfogására
+    notes:
+    - '(Lásd még: {tutci})'
+    glosses:
+    - csipesz
+  ja:
+    place structure: x1 （道具／部分）は x2 が x3 をつまむ／はさむためのつまみ具／はさみ具
+    notes:
+    - 「箸」「やっとこ」「ピンセット」「ペンチ」など。 ・大意： 箸 ・読み方： シンザ  ・語呂合わせ： 新参者 ・関連語： {tutci}
+    - ''
+    glosses:
+    - やっとこ
+    - ピンセット
+    - ペンチ
+    - 洗濯バサミ
+    - 箸
+  sv:
+    place structure: x1 är en tång/ätpinnar/gripklo/pincett/avbitare [verktyg/kroppsdel]
+      för x2 att klämma åt x3.
+    notes:
+    - No notes.
+    glosses:
+    - tång (verktyg)
+  zh:
+    place structure: x1是钳子/筷子状的工具，为了x2能够夹起/捏住x3
+    notes:
+    - 参见 {tutci}.
+    glosses:
+    - No glosses.

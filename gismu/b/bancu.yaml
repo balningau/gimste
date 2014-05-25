@@ -1,7 +1,115 @@
-Word: bancu
-Rafsi: bac
-Definition: x1 exceeds/is beyond limit/boundary x2 from x3 in property/amount x4 (ka/ni).
-Notes: On the other side of a bound, but not necessarily directly 'across' nor at
-  the shortest plausible distance (per {ragve}); also not limited to position in space.  See
-  also {dukse}, {ragve}, {zmadu}, {kuspe}.
-Examples: None
+word: bancu
+rafsi:
+- bac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 exceeds/is beyond limit/boundary x2 from x3 in property/amount
+      x4 (ka/ni).
+    notes:
+    - On the other side of a bound, but not necessarily directly 'across' nor at the
+      shortest plausible distance (per {ragve}); also not limited to position in space.  See
+      also {dukse}, {ragve}, {zmadu}, {kuspe}.
+    glosses:
+    - is beyond
+  de:
+    place structure: x1 übertrifft/übersteigt Grenze x2 mit Bezugspunkt x3 in Eigenschaft/Menge
+      x4 (ka/ni)
+    notes:
+    - No notes.
+    glosses:
+    - ferner
+  es:
+    place structure: x1 excede/sobrepasa/está más allá de/pasando x2 desde x3 en propiedad/cantidad
+      x4
+    notes:
+    - Ver también {dukse},  {ragve}.
+    glosses:
+    - exceder
+  fr:
+    place structure: x1 dépasse/est au-delà de la limite x2, de x3, selon la quantité/la
+      propriété x4 (ni/ka)
+    notes:
+    - De l'autre bord d'une limite, mais pas nécessairement directement, ni en ayant
+      la plus courte distance (tel que {ragve}); De plus, {bancu} n'est pas limité
+      à l'espace; Voir également {dukse}, {ragve}, {zmadu}, {kuspe}.
+    glosses:
+    - excéder
+  ru:
+    place structure: x1 находится за пределом/границей/рубежом x2, ограничивающим
+      x3 по свойству/величине x4 ({ka}/{ni})
+    notes:
+    - 'Также: по ту сторону, превышает, выходит за/через, переступает пределы; по
+      другую сторону границы, но не обязательно непосредственно «напротив» или на
+      кратчайшем (в каком-то смысле) расстоянии (ср. {ragve}); не обязательно также
+      речь идет о положении в пространстве {dukse} (избыток), {ragve} (напротив [по
+      ту сторону]), {zmadu} (превосходить), {kuspe} (простираться)'
+    glosses:
+    - заграничный
+  en-simple:
+    place structure: x1 is beyond boundary x2 from x3 in property or amount x4
+    notes:
+    - No notes.
+    glosses:
+    - an exceeder
+    - x2=an exceeded limit
+    - x3=something exceeded
+    - x4=a property exceeded
+  eo:
+    place structure: x1 superas/estas trans/preter/pli malproksime ol limo x2 de x3
+      en kvalito/kvanto x4 (ka/ni)
+    notes:
+    - Je la alia flanko de limo, sed ne nepre rekte 'trans' ĝi nek je la plej mallonga
+      supozebla distanco (per ragve); ankaŭ ne limigita al spaca pozicio.  Vidu ankaŭ
+      {dukse}, {ragve}, {zmadu}, {kuspe}.
+    glosses:
+    - superi
+  hu:
+    place structure: x1 túl van/túllóg x2 határon, x3-ból nézve, x4 tulajdonság tekintetében
+    notes:
+    - 'Nem feltétlenül teljesen (Lásd még: {dukse}, {ragve}, {zmadu}, {kuspe})'
+    glosses:
+    - túl
+  ja:
+    place structure: x1 は x2 （境界／限度）を  x3 （照合点）について  x4 （性質／数量）だけ越している／超えている
+    notes:
+    - 境界の向こう側に位置。境界にまたがっていたり「ragve」のように隣接しているとは限らない。また物理空間的な位置とは限らない。「le tcana cu
+      bancu le rirxe／駅は川の向こうにある」 ・大意： 超越 ・読み方： バンシュ  ・語呂合わせ： ＜万種＞, beyond, cu（出） ・関連語：
+      {dukse}, {ragve}, {zmadu}, {kuspe}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 strekker seg utenfor/utover grensen av x2 fra x3 i egenskap/mengde
+      x4 (ka/ni)
+    notes:
+    - På den andre senden av en grense, men ikke nødvendigvis direkte på andre siden
+      av eller den kortest mulige distansen over grensen. Heller ikke bundet til posisjon
+      i rom. Se og {dukse}, {ragve}, {zmadu}, {kuspe}, {korbi}, {jimte}, {fe'eba'o}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 överskrider/är bortom gräns x2 från x3 med egenskap/mängd
+      x4 (ka/ni).
+    notes:
+    - På andra sidan en gräns, men inte nödvändigtvis strax över; inte heller begränsad
+      till position i rummet. Se även {dukse}, {ragve}, {zmadu}, {kuspe}, {korbi},
+      {jimte}, {fe'eba'o}.
+    glosses:
+    - bortom
+    - gå över (över en gräns)
+    - hinsides (över en gräns)
+    - på andra sidan (över en gräns)
+    - övergå (över en gräns)
+    - överskrida (över en gräns)
+    - överträda (över en gräns)
+    - x1=överskridande (över en gräns)
+    - x2=gräns (något är bortom denna)
+    - x3=referensram för överskridande
+    - x4=överskridandets egenskap/mängd
+  zh:
+    place structure: x1超越/超过限制/界限x2，由原来的位置/水平x3，在数量/性质x4（ka/ni）上
+    notes:
+    - 不一定是物理上的超越；不一定超越过程中会交叉/相遇；参见 {dukse}, {ragve}, {zmadu}, {kuspe}
+    glosses:
+    - No glosses.

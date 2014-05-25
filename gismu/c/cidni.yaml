@@ -1,6 +1,81 @@
-Word: cidni
-Rafsi: cid
-Definition: x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb x2 of
-  body x3.
-Notes: 'Metaphor: a sharp bend/curve. See also {korcu}, {jarco}, {jganu}.'
-Examples: None
+word: cidni
+rafsi:
+- cid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb
+      x2 of body x3.
+    notes:
+    - 'Metaphor: a sharp bend/curve. See also {korcu}, {jarco}, {jganu}.'
+    glosses:
+    - knee
+  de:
+    place structure: x1 ist ein/das Knie/ein/der Ellenbogen/Knöchel [Gelenk, Körperteil]
+      von Glied x2 von Körper x3
+    notes:
+    - No notes.
+    glosses:
+    - Knie
+  es:
+    place structure: x1 es una rodilla/codo/nudillo/articulación (parte del cuerpo)
+      de miembro x2 de cuerpo x3
+    notes:
+    - No notes.
+    glosses:
+    - rodilla
+  ru:
+    place structure: x1 — колено/локоть/сустав (подвижное соединение, часть тела)
+      конечности x2 тела x3
+    notes:
+    - 'Метафора: резкий изгиб {korcu} (изогнутый), {jarco} (показывать [демонстрировать]),
+      {jganu} (угол)'
+    glosses:
+    - локоть
+  en-simple:
+    place structure: x1 is the knee, elbow, or other hinged joint of limb x2 of body
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - a hinged joint
+    - x2=a limb with a hinged joint
+    - x3=something with a hinged limb
+  eo:
+    place structure: x1 estas genuo/kubuto/fingrartiko [korpoparto] de membro x2 de
+      korpo x3
+    notes:
+    - 'Metafore: abrupta kurbo. Vidu ankaŭ {korcu}, {jarco}, {jganu}.'
+    glosses:
+    - genuo
+  hu:
+    place structure: x1 egy könyök/térd/csukló [mozgatható ízület] x2 végtagon, x3
+      testében
+    notes:
+    - '(Lásd még: {korcu}, {jarco}, {jganu})'
+    glosses:
+    - könyök
+  ja:
+    place structure: x1 は x2 （肢）・ x3 （本体）の関節（膝／肘／腰／手首／足首）
+    notes:
+    - ・大意： 関節 ・読み方： シドニ ・語呂合わせ： シドニー, knee ・関連語： {cnebo} (首；下位概念), {korcu}, {jarco},
+      {jganu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett knä/armbåge/knoge/[gångjärnsled eller kondylärled]
+      i kroppsdel x2 av organism/kropp x3.
+    notes:
+    - No notes.
+    glosses:
+    - gångjärnsled (anatomi)
+    - x1=led (gångjärnsled; anatomi)
+    - x2=kroppsdel (med gångjärnsled)
+    - x3=ledförsedd (organism/kropp)
+  zh:
+    place structure: x1是关节（如：手肘/膝盖/手指弯曲处），位于肢体x2上，身体x3上
+    notes:
+    - 可比喻：弯管；参见 {korcu}, {jarco}, {jganu}.
+    glosses:
+    - No glosses.

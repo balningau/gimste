@@ -1,7 +1,77 @@
-Word: renvi
-Rafsi: rev, re'i
-Definition: x1 survives/endures/undergoes/abides/lasts/persists through x2 for interval/duration
-  x3.
-Notes: Also lasts out, withstands; $x_1$ persists/lasts for duration $x_3$; (adjective:)
-  $x_1$ is tough/durable.  See also {ranji}, {kuspe}, {randa}, {lifri}, {stali}, {temci}.
-Examples: None
+word: renvi
+rafsi:
+- rev
+- re'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 survives/endures/undergoes/abides/lasts/persists through x2
+      for interval/duration x3.
+    notes:
+    - Also lasts out, withstands; x1 persists/lasts for duration x3; (adjective:)
+      x1 is tough/durable.  See also {ranji}, {kuspe}, {randa}, {lifri}, {stali},
+      {temci}.
+    glosses:
+    - survive
+  de:
+    place structure: x1 überlebt/überdauert x2 für Dauer/Interval x3
+    notes:
+    - No notes.
+    glosses:
+    - überleben
+  es:
+    place structure: x1 aguanta/dura/perdura/sobrevive/resiste a x2 por intervalo/duración
+      x3
+    notes:
+    - Ver también {ranji},  {kuspe},  {randa}.
+    glosses:
+    - aguantar
+  ru:
+    place structure: x1 выдерживает/переносит x2 (событие/воздействие) в течение x3
+      (длительность)
+    notes:
+    - 'Также: x1 устойчив к x2; x1 продержится в течение x3; x1 — устойчивый, стойкий,
+      прочный {ranji} (продолжаться), {kuspe} (простираться), {randa} (уступать),
+      {lifri} (испытывать [о жизненном опыте]), {stali} (оставаться), {temci} (время
+      [промежуток])'
+    glosses:
+    - выдерживать
+    - x1=выдерживающий
+    - x2=выдерживаемое
+  en-simple:
+    place structure: x1 survives or endures x2 for duration x3
+    notes:
+    - No notes.
+    glosses:
+    - a surviver
+    - x2=something survived
+    - x3=a survival interval
+  eo:
+    place structure: x1 eltenas/toleras/suferas/daŭras/travivas/persistas/rezistas
+      x2-on por intervalo/daŭro x3
+    notes:
+    - 'Ankaŭ: eldaŭri, resti; x1 persistas/daŭras por daŭro x3; (adjektivo:) x1 estas
+      rezistema/daŭrema.  Vidu ankaŭ {ranji}, {kuspe}, {randa}, {lifri}, {stali},
+      {temci}.'
+    glosses:
+    - elteni
+  hu:
+    place structure: x1 túléli/kibírja/elszenvedi/kiállja/eltűri x2-t x3 időtartamban/-intervallumban
+    notes:
+    - '(Lásd még: {ranji}, {kuspe}, {randa}, {lifri}, {stali}, {temci})'
+    glosses:
+    - túlél
+  ja:
+    place structure: x1 は x2 （事）を x3 （時間／期間）にわたって耐え抜く／辛抱する／我慢する；  x1 は長持ちする
+    notes:
+    - ・大意： 耐え抜く ・読み方： レンヴィ  ・語呂合わせ： 耐え抜く憐憫 ・関連語： {ranji}, {kuspe}, {randa}, {lifri},
+      {stali}, {temci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1经历/持续忍受/经受过x2，持续时间长度为x3；x1从经历x2中幸存下来，该经历的持续时间长度为x3
+    notes:
+    - x1是持久的/坚韧的；参见 {ranji}, {kuspe}, {randa}, {lifri}, {stali}, {temci}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,92 @@
-Word: prami
-Rafsi: pam, pa'i
-Definition: x1 loves/feels strong affectionate devotion towards x2 (object/state).
-Notes: 'Also: $x_1$ is loving towards $x_2$, $x_1$ is a lover of $x_2$ (one sense),
-  $x_2$ is beloved by $x_1$ (= {selpa''i} for reordered places).  See also {cinmo},
-  {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.'
-Examples: None
+word: prami
+rafsi:
+- pam
+- pa'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 loves/feels strong affectionate devotion towards x2 (object/state).
+    notes:
+    - 'Also: x1 is loving towards x2, x1 is a lover of x2 (one sense), x2 is beloved
+      by x1 (= {selpa''i} for reordered places).  See also {cinmo}, {xebni}, {nelci},
+      {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.'
+    glosses:
+    - No glosses.
+  jbo:
+    place structure: x1 prami ja gasfri be lo tsali cinmo nu sezypevdu'a do'e x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=prami
+  de:
+    place structure: x1 liebt/fühlt starke liebevolle Zuneigung zu x2
+    notes:
+    - Siehe auch {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo},
+      {speni}.
+    glosses:
+    - lieben
+  es:
+    place structure: x1 ama/quiere a x2
+    notes:
+    - Ver también {xebni},  {nelci},  {djica},  {sinma}.
+    glosses:
+    - amar
+  ru:
+    place structure: x1 влюблен в/любит/чувствует глубокую 'сердечную' привязанность
+      к x2 (объект/состояние)
+    notes:
+    - '{cinmo} - ''эмоциональный'', {xebni}  - ''ненавидеть'', {nelci}  - ''любить
+      (предпочитать)'', {djica}  - ''хотеть'', {sinma}  - ''уважать'', {pluka}  -
+      ''приятный'', {kurji}  - ''заботиться'', {pendo}  - ''друг'', {speni}  - ''супруг'''
+    glosses:
+    - любить
+    - x1=любящий
+    - x2=любимый
+  art-guaspi:
+    place structure: \x1 /vam \x2
+    notes:
+    - No notes.
+    glosses:
+    - vam
+  en-simple:
+    place structure: x1 loves x2
+    notes:
+    - No notes.
+    glosses:
+    - a lover
+    - x2=something loved
+  eo:
+    place structure: x1 amas x2-on (objekto/stato)
+    notes:
+    - 'Ankaŭ: x1 estas ama al x2, x1 estas amanto de x2 (unu senco), x2 estas amata
+      de x1 (= selpa''i por reordigitaj {lokoj}).  Vidu ankaŭ {cinmo}, {xebni}, {nelci},
+      {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.'
+    glosses:
+    - No glosses.
+  hu:
+    place structure: x1 szereti x2-t / szerelmes x2-be
+    notes:
+    - '(Lásd még: {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo},
+      {speni})'
+    glosses:
+    - szeret
+  ja:
+    place structure: x1はx2（もの/状態）に対して愛情/愛着を感じる
+    notes:
+    - '参照: {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo},
+      {speni}'
+    glosses:
+    - No glosses.
+  la:
+    place structure: aliquis x1 amat aliquid/aliquem x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1爱/强烈地喜欢x2（物体/状态）
+    notes:
+    - 也指：x1爱上了x2；x1是x2的爱人（某种意义上）；x2是x1所爱的；参见 {cinmo}, {xebni}, {nelci}, {djica}, {sinma},
+      {pluka}, {kurji}, {pendo}, {speni}.
+    glosses:
+    - No glosses.

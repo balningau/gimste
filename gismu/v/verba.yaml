@@ -1,7 +1,76 @@
-Word: verba
-Rafsi: ver, ve'a
-Definition: x1 is a child/kid/juvenile [a young person] of age x2, immature by standard
-  x3.
-Notes: Not necessarily human.  See also {cifnu}, {makcu}, {citno}, {panzi}, {nanla},
-  {nixli}, se {rirni}, {bersa}.
-Examples: None
+word: verba
+rafsi:
+- ver
+- ve'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a child/kid/juvenile [a young person] of age x2, immature
+      by standard x3.
+    notes:
+    - Not necessarily human.  See also {cifnu}, {makcu}, {citno}, {panzi}, {nanla},
+      {nixli}, se {rirni}, {bersa}.
+    glosses:
+    - child
+  de:
+    place structure: x1 ist ein Kind/Junges/Jugendlicher [eine junge Person] von Alter
+      x2, unreif gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Kind
+  es:
+    place structure: x1 es un niño/chico/muchacho/joven de edad x2 inmaduro según
+      estándar x3
+    notes:
+    - Ver también {makcu},  {citno},  {panzi},  {nanla},  {nixli},  se {rirni}.
+    glosses:
+    - niño
+  ru:
+    place structure: x1 — ребенок/подросток (молодая особь) возраста x2, незрелая
+      относительно критерия x3
+    notes:
+    - Не обязательно о человеке {cifnu} (младенец), {makcu} (зрелый), {citno} (молодой),
+      {panzi} (потомок), {nanla} (мальчик), {nixli} (девочка), {se} {rirni} (родитель),
+      {bersa} (сын)
+    glosses:
+    - ребёнок
+    - x2=возраст ребёнка
+  en-simple:
+    place structure: x1 is a child aged x2 immature by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - a child
+    - x2=an age of a child
+    - x3=a standard of childhood
+  eo:
+    place structure: x1 estas infano/junulo [juna homo] de aĝo x2, nematura laŭ normo
+      x3
+    notes:
+    - Ne nepre homa.  Vidu ankaŭ {cifnu}, {makcu}, {citno}, {panzi}, {nanla}, {nixli},
+      se {rirni}, {bersa}.
+    glosses:
+    - infano
+  hu:
+    place structure: x1 egy gyer(m)ek/kiskorú személy, aki x2 korú, és x3 norma szerint
+      kiskorú/éretlen
+    notes:
+    - '(Lásd még: {cifnu}, {makcu}, {citno}, {panzi}, {nanla}, {nixli}, {rirni}, {bersa})'
+    glosses:
+    - gyermek (kiskorú)
+  ja:
+    place structure: x1 は x2 （年齢）の、 x3 （観点）での子供
+    notes:
+    - 人間とは限らない。 ・大意： こども ・読み方： ヴェルバ  ・関連語： {cifnu} (乳児), {panzi} (生物学的子孫), {citno}
+      (若者), {nanla}, {nixli}, {se} {rirni}, {bersa}, {makcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是年纪/年龄为x2的孩子/幼崽，基于成熟标准x3
+    notes:
+    - 不必要是人类；参见 {cifnu}, {makcu}, {citno}, {panzi}, {nanla}, {nixli}, se {rirni},
+      {bersa}.
+    glosses:
+    - No glosses.

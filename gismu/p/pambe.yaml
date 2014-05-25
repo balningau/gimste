@@ -1,9 +1,81 @@
-Word: pambe
-Rafsi: ''
-Definition: x1 is a pump/injector [tool/apparatus] pumping/inserting fluid x2 to x3
-  from x4 by means x5.
-Notes: $x_2$ fluid may be liquid or gas; $x_5$ may be a force; a pump generally causes
-  a pressure gradient, such that $x_3$ is a place of lower pressure, $x_4$ a place
-  of higher pressure.  (cf. {gapci}, {litki}, {rinci}; metaphorical use of {fepri}
-  for gas, {risna} for liquid, {rinci}, {tutci})
-Examples: None
+word: pambe
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pump/injector [tool/apparatus] pumping/inserting fluid
+      x2 to x3 from x4 by means x5.
+    notes:
+    - x2 fluid may be liquid or gas; x5 may be a force; a pump generally causes a
+      pressure gradient, such that x3 is a place of lower pressure, x4 a place of
+      higher pressure.  (cf. {gapci}, {litki}, {rinci}; metaphorical use of {fepri}
+      for gas, {risna} for liquid, {rinci}, {tutci})
+    glosses:
+    - pump
+  de:
+    place structure: x1 ist eine Pumpe/Einspritzventil [Werkzeug/Gerät] und pumpt/injiziert
+      Flüssigkeit x2 nach x3 von x4 mit Mittel x5
+    notes:
+    - No notes.
+    glosses:
+    - Pumpe
+  es:
+    place structure: x1 es una bomba para bombear fluido/gas x2 hacia x3 desde x4
+      con motor x5
+    notes:
+    - Ver también {fepri},  {risna}.
+    glosses:
+    - bomba
+  ru:
+    place structure: x1 — насос/помпа/инжектор (устройство/аппарат), накачивающий/впрыскивающий
+      текучую среду x2 в x3 из x4 посредством x5
+    notes:
+    - 'x2 м.б. жидкостью или газом; x5 м.б. силой; насос обычно создает градиент давления,
+      так что x3 — зона низкого давления, x4 — высокого {gapci} (газ), {litki} (жидкость),
+      {rinci} (вытекать); метафорическое употребление: {fepri} (легкое [анатомия])
+      для газа, {risna} (сердце) для жидкости; {rinci} (вытекать), {tutci} (инструмент)'
+    glosses:
+    - насос
+  en-simple:
+    place structure: x1 is a pump inserting fluid x2 to x3 from x4 by means x5
+    notes:
+    - No notes.
+    glosses:
+    - a pump
+    - x2=something pumped
+    - x3=a pumping destination
+    - x4=a pumping origin
+    - x5=a pumping means
+  eo:
+    place structure: x1 estas pumpilo/injektilo [ilo/aparato] pumpanta/injektanta
+      fluidon x2 al x3 el x4 per rimedo x5
+    notes:
+    - Fluido x2 povas esti likvo aŭ gaso; x5 povas esti forto; pumpilo ĝenerale kaŭzas
+      premgradienton, tiel ke x3 estas loko de pli malalta premo, x4 loko de pli alta
+      premo.  (kp. gapci, litki, rinci; metafora uzo de fepri por gaso, risna por
+      likvaĵo, rinci, tutci)
+    glosses:
+    - pumpilo
+  hu:
+    place structure: x1 egy pumpa/szivattyú/fecskendő, ami x2 folyadékot/gázt juttatja
+      x3-ba, x4-ből, x5 módon
+    notes:
+    - '(Lásd még: {gapci}, {litki}, {rinci}, {fepri}, {risna}, {tutci})'
+    glosses:
+    - pumpa
+  ja:
+    place structure: x1 は x2 （内容）を x3 に x4 から x5 （方法）で送るポンプ／揚水器
+    notes:
+    - ・大意： ポンプ ・読み方： パムベ  ・関連語： {gapci}, {litki}, {rinci}; {fepri}, {risna}, {rinci},
+      {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是水泵/注射器/打气筒（工具/设备），泵压流体x2进入x3，来自x4，使用方式x5
+    notes:
+    - 流体x2可以气体或液体等；x5可能指某种力；泵通常会产生压强梯度，如x3是低压强区，x4是高压强区；参见 {gapci}, {litki}, {rinci},
+      {fepri} 可比喻为气泵, {risna}可比喻为液泵, {rinci}, {tutci})
+    glosses:
+    - No glosses.

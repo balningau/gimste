@@ -1,8 +1,91 @@
-Word: cenba
-Rafsi: cne
-Definition: x1 varies/changes in property/quantity x2 (ka/ni) in amount/degree x3
-  under conditions x4.
-Notes: Non-resultative, not-necessarily causal change.  (cf. cenba which is non-resultative,
-  galfi which is resultative and causal, stika which is non-resultative and causal;
-  stodi, zasni, binxo)
-Examples: None
+word: cenba
+rafsi:
+- cne
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 varies/changes in property/quantity x2 (ka/ni) in amount/degree
+      x3 under conditions x4.
+    notes:
+    - Non-resultative, not-necessarily causal change.  (cf. cenba which is non-resultative,
+      galfi which is resultative and causal, stika which is non-resultative and causal;
+      stodi, zasni, binxo)
+    glosses:
+    - vary
+  de:
+    place structure: x1 schwankt/variiert/ändert sich/weicht in Eigenschaft/Menge
+      x2 (ka/ni) in Betrag/Umfang/Ausmaß x3 unter Umständen x4 (ab)
+    notes:
+    - No notes.
+    glosses:
+    - schwanken
+  es:
+    place structure: x1 cambia/varía en propiedad x2 en cantidad/grado x3 bajo condiciones
+      x4
+    notes:
+    - Ver también {jdika},  {cenba},  {binxo}.
+    glosses:
+    - cambiar
+  ru:
+    place structure: x1 изменчив/варьирует в свойстве/количестве x2 ({ka}/{ni}) в
+      размере/степени x3 в условиях x4
+    notes:
+    - Отсутствует результат действия, наличие деятеля не обязательно {cenba} (изменчивый
+      [в свойстве]) (нет результата), {galfi} (изменять) (есть результат и есть деятель),
+      {stika} (регулировать) (есть деятель, нет результата); {stodi} (постоянный),
+      {zasni} (временный), {binxo} (становиться)
+    glosses:
+    - x1=изменчивый
+  en-simple:
+    place structure: x1 varies in property or quantity x2 in amount x3
+    notes:
+    - No notes.
+    glosses:
+    - vary
+    - x1=something varying
+    - x2=a property of variance
+    - x2=the property of variance
+    - x3=a degree of variation
+    - x3=the degree of variation
+    - x4=a condition of varying
+  eo:
+    place structure: x1 varias/ŝanĝiĝas laŭ eco/kvanto x2 (ka/ni) en kvanto/grado
+      x3 sub kondiĉoj x4
+    notes:
+    - Nerezulta, ne nepre kaŭza ŝanĝiĝo.  (kp. cenba kiu estas nerezulta, galfi kiu
+      estas rezulta kaj kaŭza, stika kiu estas nerezulta kaj kaŭza; stodi, zasni,
+      binxo)
+    glosses:
+    - varii
+  hu:
+    place structure: x1 változik/módosul x2 tulajdonságában/mennyiségében x3 mértékben,
+      x4 körülmények között
+    notes:
+    - '(Lásd még: {cenba}, {galfi}, {stika}, {stodi}, {zasni}, {binxo})'
+    glosses:
+    - változik
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （数量／度合）ほど x4 （環境条件）において変化／変質／変身する／変わる
+    notes:
+    - ・読み方： シェンバ  ・語呂合わせ： cen(参), change ・関連語： {cenba}, {galfi}, {stika}; {stodi},
+      {zasni}, {binxo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 varierar/ändrar sig i proportion/kvantitet x2 (ka/ni) i omfång/grad
+      x3 under omständigheter x4.
+    notes:
+    - Icke-resultativ, ej nödvändigtvis kausal ändring. (jfr {cenba} vilken är icke-resultativ,
+      {galfi} vilken resultativ och kausal, {stika} vilken är icke-resultativ och
+      kausal; {stodi}, {zasni}, {binxo})
+    glosses:
+    - skifta (variera)
+    - variera
+  zh:
+    place structure: x1改变/变化，在性质/数量x2（ka/ni）上，变化程度为x3，在环镜/条件x4下
+    notes:
+    - 不一定有结果，也不一定存在改变的诱因；参见{cenba}无结果的，{galfi}有结果和原因，{stika}无结果但有原因， {stodi}, {zasni},
+      {binxo}
+    glosses:
+    - No glosses.

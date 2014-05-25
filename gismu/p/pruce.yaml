@@ -1,8 +1,79 @@
-Word: pruce
-Rafsi: ruc, ru'e
-Definition: x1 is a process with inputs x2, outputs/results x3, passing through steps/stages
-  x4.
-Notes: $x_2$ resource (= {selru'e}, but also {ru'etci}, (ru'er-/ruc- or selru'e-/selruc-
-  modifying:) selxaksu, selsabji, livla).  See also cmavo list {pu'e}, {farvi}, {tadji},
-  {grute}, {tcini}.
-Examples: None
+word: pruce
+rafsi:
+- ruc
+- ru'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a process with inputs x2, outputs/results x3, passing through
+      steps/stages x4.
+    notes:
+    - x2 resource (= {selru'e}, but also {ru'etci}, (ru'er-/ruc- or selru'e-/selruc-
+      modifying:) selxaksu, selsabji, livla).  See also cmavo list {pu'e}, {farvi},
+      {tadji}, {grute}, {tcini}.
+    glosses:
+    - course (onward process)
+    - process (regulated series of steps)
+    - x1=stage (phase)
+  de:
+    place structure: x1 ist ein Prozess mit Eingabe/Einsatz x2, Ausgabe/Ergebnis x3
+      und durchläuft Schritte/Phasen x4
+    notes:
+    - No notes.
+    glosses:
+    - Prozess
+  es:
+    place structure: x1 es un proceso con entrada x2 salida/resultado x3 con etapas
+      intermedias x4
+    notes:
+    - Ver también {farvi},  {tadji}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — процесс со входом (ингредиентами) x2, выходом (продуктами/результатами)
+      x3, стадиями/шагами/этапами x4
+    notes:
+    - 'x2 — ресурс: {selru''e}, Также: {ru''etci}, или lujvo с компонентами {ru''e}/{ruc}
+      или {sel}{ru''e}/{sel}{ruc} модифицирующими {selxaksu}, {selsabji}, {livla})
+      {pu''e}, {farvi} (развиваться), {tadji} (метод), {grute} (плод [фрукт]), {tcini}
+      (обстоятельство)'
+    glosses:
+    - x1=поэтапный процесс
+  en-simple:
+    place structure: x1 is a process with input x2 and output x3 via stages x4
+    notes:
+    - No notes.
+    glosses:
+    - a process
+    - x2=a process input
+    - x3=a process output
+    - x4=a process stage
+  eo:
+    place structure: x1 estas procedo kun enigoj/rimedoj x2 eligoj/rezultoj/produktoj
+      x3 pasanta tra paŝoj/etapoj x4                                              8f  11     [x2
+      rimedo (= selru'e, sed ankaŭ ru'etci, (ru'er-/ruc- aŭ selru'e-/selruc- modifantaj:)
+      selxaksu, selsabji, livla)]; (kp. cmavo pu'e, farvi, tadji, grute, tcini
+    notes:
+    - )
+    glosses:
+    - procedo
+  hu:
+    place structure: x1 egy folyamat x2 alapanyagokkal, x3 termékekkel, x4 lépésekkel/fázisokkal
+    notes:
+    - '(Lásd még: {farvi}, {tadji}, {grute}, {tcini})'
+    glosses:
+    - folyamat
+  ja:
+    place structure: x1 は、 x2 （入力）・ x3 （出力）・ x4 （段階）の過程／プロセス
+    notes:
+    - ・大意： 過程 ・読み方： プルシェ  ・語呂合わせ： process ・関連語： {pu'e}, {farvi}, {tadji}, {grute},
+      {tcini}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是进程/加工过程，输入为x2，输出/结果为x3，经过步骤/阶段x4
+    notes:
+    - x2资源/来源 （={selru'e}, 但也可{ru'etci}，以及由（ru'er-/ruc- or selru'e-/selruc- ）所修饰的{selxaksu},
+      {selsabji}, {livla}；参见 {pu'e}, {farvi}, {tadji}, {grute}, {tcini}.
+    glosses:
+    - No glosses.

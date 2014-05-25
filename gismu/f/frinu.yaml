@@ -1,5 +1,73 @@
-Word: frinu
-Rafsi: ''
-Definition: x1 is a fraction, with numerator x2, denominator x3 (x2/x3).
-Notes: See also {parbi}, {dilcu}, {mekso}, {fendi}.
-Examples: None
+word: frinu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fraction, with numerator x2, denominator x3 (x2/x3).
+    notes:
+    - See also {parbi}, {dilcu}, {mekso}, {fendi}.
+    glosses:
+    - fraction
+  de:
+    place structure: x1 ist ein mathematischer Bruch mit Zähler x2 und Nenner x3 (x2/x3)
+    notes:
+    - No notes.
+    glosses:
+    - Bruch
+  es:
+    place structure: x1 es una fracción con numerador x2, denominador x3
+    notes:
+    - Ver también {dilcu}.
+    glosses:
+    - fracción
+  ru:
+    place structure: x1 — дробь с числителем x2 и знаменателем x3 («x2/x3»)
+    notes:
+    - '{parbi} (пропорция), {dilcu} (частное [от деления]), {mekso} (формула), {fendi}
+      (делить [разделять])'
+    glosses:
+    - x1=дробь
+    - x2=числитель
+    - x3=знаменатель
+  en-simple:
+    place structure: x1 is a fraction of x2 divided by x3
+    notes:
+    - No notes.
+    glosses:
+    - a fraction
+    - x2=a numerator of a fraction
+    - x3=a denominator of a fraction
+  eo:
+    place structure: x1 estas frakcio, kun numeratoro x2, denominatoro x3 (x2/x3)
+    notes:
+    - Vidu ankaŭ {parbi}, {dilcu}, {mekso}, {fendi}.
+    glosses:
+    - frakcio
+  hu:
+    place structure: x1 egy tört, x2 számlálóval és x3 nevezővel
+    notes:
+    - '(Lásd még: {parbi}, {dilcu}, {mekso}, {fendi})'
+    glosses:
+    - tört
+  ja:
+    place structure: x1 は x2 （分子）・ x3 （分母）の分数
+    notes:
+    - ・大意： 分数 ・読み方： フゥリヌ  ・関連語： {parbi}, {dilcu}, {mekso}, {fendi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: 'x1 är ett bråk (tal), med täljare x2 och nämnare x3 (x2/x3). '
+    notes:
+    - No notes.
+    glosses:
+    - x1=bråk (matematik)
+    - x2=täljare (matematik)
+    - x3=nämnare (matematik)
+  zh:
+    place structure: x1是分数（数学概念），分子是x2，分母是x3； (x2/x3)
+    notes:
+    - 参见 {parbi}, {dilcu}, {mekso}, {fendi}.
+    glosses:
+    - No glosses.

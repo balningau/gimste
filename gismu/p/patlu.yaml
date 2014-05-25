@@ -1,6 +1,66 @@
-Word: patlu
-Rafsi: ''
-Definition: x1 is a potato [an edible tuber] of variety/cultivar x2.
-Notes: (use samcu for starchy/tuberous roots that do not reproduce from eyes of tuber);
-  See also {genja}, {jalna}, {samcu}.
-Examples: None
+word: patlu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a potato [an edible tuber] of variety/cultivar x2.
+    notes:
+    - (use samcu for starchy/tuberous roots that do not reproduce from eyes of tuber);
+      See also {genja}, {jalna}, {samcu}.
+    glosses:
+    - potato
+  de:
+    place structure: x1 ist eine Kartoffel [eine essbare Knolle] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Kartoffel
+  es:
+    place structure: x1 es una papa/patata de especie/variedad x2
+    notes:
+    - Ver también {samcu}.
+    glosses:
+    - papa
+  ru:
+    place structure: x1 — картофель (съедобный клубень) разновидности/сорта x2
+    notes:
+    - '{samcu} для крахмалистых/клубневидных корней, которые не воспроизводятся из
+      глазков клубня {genja} (корень [растения]), {jalna} (крахмал), {samcu} (ямс)'
+    glosses:
+    - x1=картофель
+    - x2=вид картофеля
+  en-simple:
+    place structure: x1 is a potato of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a potato
+    - x2=a species of potato
+  eo:
+    place structure: x1 estas terpomo [manĝebla tubero] de variaĵo/kultivo x2
+    notes:
+    - (uzu je samcu por amelaj/tuberaj radikoj kiuj ne reproduktiĝas per tubereroj);
+      Vidu ankaŭ {genja}, {jalna}, {samcu}.
+    glosses:
+    - terpomo
+  hu:
+    place structure: x1 egy burgonya [Solanum tuberosum] az x2 fajtából
+    notes:
+    - '(Lásd még: {genja}, {jalna}, {samcu})'
+    glosses:
+    - burgonya
+  ja:
+    place structure: x1 は x2 （種類）のジャガイモ／サトイモ
+    notes:
+    - 食用のデンプン質球根のうち、芽から栽培できるもの。 ・大意： ジャガイモ ・読み方： パトルゥ  ・語呂合わせ： potato, malincu (馬鈴薯)
+      ・関連語： {genja}, {jalna}, {samcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是土豆/马铃薯（一种可食用块茎），属于种类/品种x2
+    notes:
+    - '{samcu}是指不用块茎的眼繁殖后代的块茎； 参见 {genja}, {jalna}, {samcu}.'
+    glosses:
+    - No glosses.

@@ -1,5 +1,71 @@
-Word: jenca
-Rafsi: jen
-Definition: x1 (event) shocks/stuns x2.
-Notes: See also {darxi}, {gunta}, {spaji}.
-Examples: None
+word: jenca
+rafsi:
+- jen
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) shocks/stuns x2.
+    notes:
+    - See also {darxi}, {gunta}, {spaji}.
+    glosses:
+    - shock
+  de:
+    place structure: x1 (Ereignis) schockt/lähmt x2
+    notes:
+    - No notes.
+    glosses:
+    - schocken
+  es:
+    place structure: x1 (evento) impresiona/sobresalta/conmociona a x2
+    notes:
+    - No notes.
+    glosses:
+    - impresionar
+  ru:
+    place structure: x1 (событие) потрясает/ошарашивает/шокирует/{поражает} x2
+    notes:
+    - 'Также: производит сильное впечатление {darxi} (ударять), {gunta} (нападать),
+      {spaji} (неожиданность)'
+    glosses:
+    - шокировать
+    - x1=шокирующий
+    - x2=шокированный
+  en-simple:
+    place structure: x1 shocks or stuns x2
+    notes:
+    - No notes.
+    glosses:
+    - something shocking
+    - x2=something shocked
+  eo:
+    place structure: x1 (okazo) ŝokas/paralizas/sensentigas/senkonsciigas x2-on
+    notes:
+    - Vidu ankaŭ {darxi}, {gunta}, {spaji}.
+    glosses:
+    - ŝoki
+  hu:
+    place structure: x1 esemény megdöbbenti x2-t
+    notes:
+    - '(Lásd még: {darxi}, {gunta}, {spaji})'
+    glosses:
+    - megdöbbent
+  ja:
+    place structure: x1 （事）は x2 を驚愕／動転／気絶させる
+    notes:
+    - 「spaji」と違い、心理的衝撃が含意される。 ・大意： 驚愕 ・読み方： ジェンシャ  ・関連語： {darxi}, {gunta}, {spaji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (event) chockar/chockera/bedövar x2.
+    notes:
+    - No notes.
+    glosses:
+    - bedöva
+    - chocka
+  zh:
+    place structure: x1（事件）震惊/惊呆了x2
+    notes:
+    - 参见 {darxi}, {gunta}, {spaji}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,82 @@
-Word: stero
-Rafsi: te'o
-Definition: x1 is x2 steradian(s) [metric unit] in solid angle (default is 1) by standard
-  x3.
-Notes: See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
-  {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
-  {xexso}, {zepti}, {zetro}.
-Examples: None
+word: stero
+rafsi:
+- te'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 steradian(s) [metric unit] in solid angle (default is
+      1) by standard x3.
+    notes:
+    - See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - steradian
+  de:
+    place structure: 'x1 ist x2 Steradiant [metrische Einheit] an Raumwinkel (Default:
+      1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Steradiant
+  es:
+    place structure: x1 es un ángulo sólido de x2 estereorradianes (1 por defecto)
+      según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - estereorradián
+  ru:
+    place structure: x1 (телесный угол) составляет x2 (по умолчанию 1) стерадиан (метрическая
+      единица) по стандарту x3
+    notes:
+    - '{centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто),
+      {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега),
+      {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико),
+      {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто),
+      {zetro} (зетта)'
+    glosses:
+    - x1=стерадиан
+  en-simple:
+    place structure: x1 is x2 steradians
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in steradian
+    - x2=a number of steradians
+    - x2=the number of steradians
+    - x3=a steradian standard
+  eo:
+    place structure: x1 estas x2 steradianoj [metra unuo] en solida angulo (defaŭlte
+      1) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - steradiano
+  hu:
+    place structure: x1 térszöge x2 [alapesetben 1] szteradián, x3 mérce szerint
+    notes:
+    - '(Lásd még: {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro})'
+    glosses:
+    - szteradián
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のステラジアン度
+    notes:
+    - 立体角の単位。 ・大意： ステラジアン ・読み方： ステロ  ・関連語： {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在立体角度量上，x1是x2个球面度（默认为1）的，基于标准x3
+    notes:
+    - 参见 {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo},
+      {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso},
+      {zepti}, {zetro}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,62 @@
-Word: respa
-Rafsi: res
-Definition: x1 is a reptile of species/breed x2.
-Notes: See also {danlu}, {banfi}, {since}.
-Examples: None
+word: respa
+rafsi:
+- res
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a reptile of species/breed x2.
+    notes:
+    - See also {danlu}, {banfi}, {since}.
+    glosses:
+    - reptile
+  de:
+    place structure: x1 ist ein Reptil von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Reptil
+  es:
+    place structure: x1 es un reptil de especie/raza x2
+    notes:
+    - Ver también {banfi},  {since}.
+    glosses:
+    - reptil
+  ru:
+    place structure: x1 — рептилия/пресмыкающееся вида/разновидности x2
+    notes:
+    - '{danlu} (животное), {banfi} (амфибия), {since} (змея)'
+    glosses:
+    - x1=рептилия
+    - x2=вид рептилии
+  en-simple:
+    place structure: x1 is a reptile of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a reptile
+    - x2=a species of reptile
+  eo:
+    place structure: x1 estas reptilio/rampulo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {danlu}, {banfi}, {since}.
+    glosses:
+    - reptilio
+  hu:
+    place structure: x1 egy hüllő [Reptilia osztály] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {danlu}, {banfi}, {since})'
+    glosses:
+    - hüllő
+  ja:
+    place structure: x1 は x2 （種類）の爬虫綱／爬虫類（カメ／トカゲ／ヘビ／ワニ）
+    notes:
+    - ・大意： 爬虫類 ・読み方： レスパ  ・関連語： {danlu}, {banfi}, {since}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是两栖类动物，属于品种/种类x2
+    notes:
+    - 参见 {danlu}, {banfi}, {since}.
+    glosses:
+    - No glosses.

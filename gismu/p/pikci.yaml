@@ -1,7 +1,71 @@
-Word: pikci
-Rafsi: ''
-Definition: x1 begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with
-  humility] x2 for x3.
-Notes: Also importune, petition, plea, solicit; $x_2$ benefactor, patron; $x_3$ boon,
-  favor, gift, alms. See also {cpedu} which is more general as to manner, {pindi}.
-Examples: None
+word: pikci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 begs/pleads/supplicates/entreats/implores/beseeches/prays
+      [asks with humility] x2 for x3.
+    notes:
+    - Also importune, petition, plea, solicit; x2 benefactor, patron; x3 boon, favor,
+      gift, alms. See also {cpedu} which is more general as to manner, {pindi}.
+    glosses:
+    - beg
+  de:
+    place structure: x1 bettelt/fleht/bittet demütig/ersucht [fragt mit Demut] x2
+      um/für x3
+    notes:
+    - No notes.
+    glosses:
+    - betteln
+  es:
+    place structure: x1 ruega/suplica/implora/reza/pide a x2, x3
+    notes:
+    - Ver también {cpedu}.
+    glosses:
+    - rogar
+  ru:
+    place structure: x1 молит/умоляет/упрашивает/ходатайствует (смиренно просит) x2
+      (кого) о x3 (о чем)
+    notes:
+    - 'Также: выпрашивает, домогается; x2 — благодетель, патрон; x3 — одолжение, подаяние,
+      подарок {cpedu} (просить) как более общий термин, {pindi} (бедный)'
+    glosses:
+    - молить
+    - x1=молящий
+    - x2=кого умоляют
+    - x3=то, о чем умоляют
+  en-simple:
+    place structure: x1 pleads or begs x2 for x3
+    notes:
+    - No notes.
+    glosses:
+    - a pleader
+    - x2=something receiving a plea
+    - x3=a reason for a plea
+  eo:
+    place structure: x1 petegas/pledas [petas kun humilo] al x2 por ricevi x3-on
+    notes:
+    - 'Ankaŭ: petegadi; x2 bonfaranto, patrono; x3 beno, favoraĵo, donaĵo, donaco.
+      (kp. cpedu kiu estas pli ĝenerala pri maniero, pindi)'
+    glosses:
+    - petegi
+  hu:
+    place structure: x1 könyörög/esedezik/imádkozik x2-hez, x3-ért
+    notes:
+    - '(Lásd még: {cpedu}, {pindi})'
+    glosses:
+    - könyörög
+  ja:
+    place structure: x1 は x2 （者）に x3 （事／物）を請う／せがむ／懇願する／嘆願する
+    notes:
+    - ・大意： 請う ・読み方： ピクシ  ・語呂合わせ： supplicate, ci（請） ・関連語： {cpedu}, {pindi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1祈求/乞求/恳求/哀求（谦卑/谦逊的请求）x2，为了x3
+    notes:
+    - x2是被求助者/恩人/施主/保护人； x3是恩惠/支持/礼物/救济品；参见 {cpedu}, {pindi}.
+    glosses:
+    - No glosses.

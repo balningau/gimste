@@ -1,5 +1,72 @@
-Word: cnebo
-Rafsi: neb, ne'o
-Definition: 'x1 is a/the neck [body-part] of x2; [metaphor: a relatively narrow point].'
-Notes: See also {galxe}, {cutne}.
-Examples: None
+word: cnebo
+rafsi:
+- neb
+- ne'o
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the neck [body-part] of x2; [metaphor: a relatively
+      narrow point].'
+    notes:
+    - See also {galxe}, {cutne}.
+    glosses:
+    - neck
+  de:
+    place structure: 'x1 ist das Genick [Körperteil] von x2; [im übertragenen Sinne:
+      ein relativ enger/schmaler Punkt]'
+    notes:
+    - No notes.
+    glosses:
+    - Genick
+  es:
+    place structure: x1 es un cuello/cogote (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - cuello
+  ru:
+    place structure: x1 — шея x2 (кого)
+    notes:
+    - 'Метафора: узкое место, перешеек {galxe} (горло), {cutne} (торс)'
+    glosses:
+    - шея
+  en-simple:
+    place structure: x1 is the neck of x2
+    notes:
+    - No notes.
+    glosses:
+    - a neck
+    - x2=something with a neck
+  eo:
+    place structure: 'x1 estas (la) kolo [korpoparto] de x2; [metafore: relative mallarĝa
+      punkto]'
+    notes:
+    - Vidu ankaŭ {galxe}, {cutne}.
+    glosses:
+    - kolo
+  hu:
+    place structure: x1 egy/a nyaka [mint testrész] x2-nek
+    notes:
+    - '(Lásd még: {galxe}, {cutne})'
+    glosses:
+    - nyak
+  ja:
+    place structure: x1 は x2 （本体）の首
+    notes:
+    - ・大意： 首 ・読み方： シネボ  ・関連語： {galxe}, {cutne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en hals av x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=hals
+    - x2=halsförsedd
+  zh:
+    place structure: x1是x2的颈/项/脖子
+    notes:
+    - 参见 {galxe}, {cutne}.
+    glosses:
+    - No glosses.

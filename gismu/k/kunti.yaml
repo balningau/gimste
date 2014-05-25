@@ -1,6 +1,69 @@
-Word: kunti
-Rafsi: kut
-Definition: x1 [container] is empty/vacant of x2 [material]; x1 is hollow.
-Notes: Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu},
-  {canlu}, {kevna}, {setca}.
-Examples: None
+word: kunti
+rafsi:
+- kut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [container] is empty/vacant of x2 [material]; x1 is hollow.
+    notes:
+    - Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu}, {canlu},
+      {kevna}, {setca}.
+    glosses:
+    - empty
+    - vacant (empty)
+  de:
+    place structure: x1 ist leer/enthält kein x2 [Material]; x1 ist hohl
+    notes:
+    - No notes.
+    glosses:
+    - leer
+  es:
+    place structure: x1 esta vacío/vacante de x2
+    notes:
+    - Ver también {culno},  {claxu}.
+    glosses:
+    - vacío
+  ru:
+    place structure: x1 (сосуд/вместилище) не содержит/свободен от x2 (материал);
+      x1 пуст/полый
+    notes:
+    - 'Также: вакуум: [kunti] {be} {ro}{da}/{so''a}{da}) {culno} (полный [чего-либо]),
+      {tisna} (наполняться), {claxu} (без), {canlu} (объем), {kevna} (впадина), {setca}
+      (вставлять)'
+    glosses:
+    - пустой
+    - x2=то, от чего пуст
+  en-simple:
+    place structure: x1 is empty of x2
+    notes:
+    - No notes.
+    glosses:
+    - something empty
+    - x2=something that something is empty of
+  eo:
+    place structure: x1 [ujo] estas malplena/vakua de x2 [materialo]; x1 estas vakanta
+    notes:
+    - 'Ankaŭ: vakuo (= kunti be roda/so''ada).  Vidu ankaŭ {culno}, {tisna}, {claxu},
+      {canlu}, {kevna}, {setca}.'
+    glosses:
+    - malplena
+  hu:
+    place structure: x1 [tartály/edény] üres/üreges / nem tartalmazza x2-t
+    notes:
+    - '(Lásd még: {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca})'
+    glosses:
+    - üres
+  ja:
+    place structure: x1 は x2 （内容）が無い；  x1 は空っぽ
+    notes:
+    - 「席（x1）が空いている」も。 ・大意： 空（から） ・読み方： クンティ  ・語呂合わせ： kuu 空 ・関連語： {culno}, {tisna},
+      {claxu}, {canlu}, {kevna}, {setca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 容器x1是空的，不装有x2；x1是中空的
+    notes:
+    - 真空= kunti be roda/so'ada；参见 {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}.
+    glosses:
+    - No glosses.

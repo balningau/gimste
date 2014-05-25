@@ -1,7 +1,91 @@
-Word: ferti
-Rafsi: fre
-Definition: x1 is fertile/conducive for supporting the growth/development of x2; x1
-  is fruitful/prolific.
-Notes: Also fecund (note that the Lojban covers both potential and actual/realized
-  fertility).  See also {vanbi}, {sidju}, {rorci}, {farvi}, {banro}, {cange}.
-Examples: None
+word: ferti
+rafsi:
+- fre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is fertile/conducive for supporting the growth/development
+      of x2; x1 is fruitful/prolific.
+    notes:
+    - Also fecund (note that the Lojban covers both potential and actual/realized
+      fertility).  See also {vanbi}, {sidju}, {rorci}, {farvi}, {banro}, {cange}.
+    glosses:
+    - fertile
+  jbo:
+    place structure: .i lo si'o ce'u goi x1 ferti ce'u goi x2 cu si'o ce'u goi x1
+      kakne lo ka ce'u jai si'u farvi fai ce'uxire goi x2 kei zo'e
+    notes:
+    - .i .e'u do catlu zo'e pe zo {kakne} .e zo {cupra} .e zo {rirni} .e zo {farvi}
+      .e zo {zbasu} .e zo {jbena}
+    glosses:
+    - kakne (lo ka jai si'u farvi)
+  de:
+    place structure: x1 ist dem Wachsen/der Entwicklung von x2 förderlich; x1 ist
+      fruchtbar/ergiebig/ertragreich
+    notes:
+    - No notes.
+    glosses:
+    - fruchtbar
+  es:
+    place structure: x1 es fértil para sustentar el crecimiento/desarrollo de x2
+    notes:
+    - No notes.
+    glosses:
+    - fértil
+  ru:
+    place structure: x1 плодотворен для/способствует росту/развитию x2 (чего); x1
+      плодороден, плодовит
+    notes:
+    - Включает в себя как потенциальную, так и актуальную/реализованную плодотворность
+      {vanbi} (окружающий), {sidju} (помогать), {rorci} (порождать), {farvi} (развиваться),
+      {banro} (расти), {cange} (ферма)
+    glosses:
+    - плодотворный
+  en-simple:
+    place structure: x1 is fertile for growing x2
+    notes:
+    - No notes.
+    glosses:
+    - something fertile
+    - x2=something to which something is fertile
+  eo:
+    place structure: x1 estas fekunda/produkta/fruktodona/favora al subteno de kresko/evoluo
+      de x2
+    notes:
+    - (potenciala aŭ efektiva fekundeco).  Vidu ankaŭ {vanbi}, {sidju}, {rorci}, {farvi},
+      {banro}, {cange}.
+    glosses:
+    - fekunda
+  hu:
+    place structure: x1 termékeny/szaporodóképes/megtermékenyített, elősegíti x2 növekedését/fejlődését
+    notes:
+    - 'Továbbá: ígéretes/gyümölcsöző (átvitt értelemben) (Lásd még: {vanbi}, {sidju},
+      {rorci}, {farvi}, {banro}, {cange})'
+    glosses:
+    - termékeny
+  ja:
+    place structure: x1 は x2 の成長／発達に関して肥沃／豊穣／多産／多作
+    notes:
+    - 「彼女（x1）は推理小説（ x2 ）の多作家だ」。 ・大意： 肥沃 ・読み方： フェルティ  ・語呂合わせ： fertile ・関連語： {vanbi},
+      {sidju}, {rorci}, {farvi}, {banro}, {cange}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är fertil/fruktsam/fruktbar/bördig/befrämjande/tjänlig för
+      att stödja växandet/utvecklingen av x2; x1 är fruktbar/fruktsam/avelsamx2.
+    notes:
+    - Även kapabel att producera avkomma/vegetation (lägg märke till att Lojbanordet
+      täcker både potentiell och faktisk/förverkligad fertilitet).
+    glosses:
+    - avelsam
+    - bördig
+    - fertil
+    - fruktbar
+    - fruktsam
+  zh:
+    place structure: x1对x2的生长/发展是肥沃的/丰饶的/有益的；x1是富有成效的/多产的
+    notes:
+    - 也指：多产的（包括潜在的或已经表现出的生产力）；参见 {vanbi}, {sidju}, {rorci}, {farvi}, {banro}, {cange}.
+    glosses:
+    - No glosses.

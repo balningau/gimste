@@ -1,5 +1,75 @@
-Word: farvi
-Rafsi: fav
-Definition: x1 develops/evolves towards/into x2 from x3 through stages x4.
-Notes: See also {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}.
-Examples: None
+word: farvi
+rafsi:
+- fav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 develops/evolves towards/into x2 from x3 through stages x4.
+    notes:
+    - See also {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}.
+    glosses:
+    - develop (to change progressively)
+  de:
+    place structure: x1 entwickelt/entfaltet sich zu x2 aus x3 durch Zwischenschritte/Stufen
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - entwickeln
+  es:
+    place structure: x1 se desarrolla/evoluciona hacia x2 desde x3 con etapas x4
+    notes:
+    - Ver también {pruce},  {banro}.
+    glosses:
+    - desarrollarse
+  ru:
+    place structure: x1 развивается в сторону/направлении x2 из исходного состояния
+      x3 через стадии x4
+    notes:
+    - '{pruce} (процесс), {banro} (расти), {makcu} (зрелый), {ciste} (система), {cupra}
+      (производить), {ferti} (плодородный)'
+    glosses:
+    - развиваться
+    - x1=развивающийся
+  en-simple:
+    place structure: x1 evolves or develops into x2 from x3 through stages x4
+    notes:
+    - No notes.
+    glosses:
+    - an evolver
+    - x2=an evolved
+    - x3=something that evolves
+    - x4=an evolution stage
+  eo:
+    place structure: x1 evoluas al x2 el/de x3 tra etapoj x4
+    notes:
+    - Vidu ankaŭ {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}.
+    glosses:
+    - evolui
+  hu:
+    place structure: x1 fejlődik/alakul x2-vé, x3-ból, x4 állapotokon keresztül
+    notes:
+    - '(Lásd még: {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti})'
+    glosses:
+    - fejlődik
+  ja:
+    place structure: x1 は x2 に x3 から x4 （過程）を通じて発達／発展／進化する
+    notes:
+    - ・大意： 発達 ・読み方： ファルヴィ  ・語呂合わせ： ＜ファーのヴィジョン＞, fa(発), evolve ・関連語： {pruce}, {banro},
+      {makcu}, {ciste}, {cupra}, {ferti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 utvecklas/genomgår en evolution till (att bli) x2 från (att
+      ha varit) x3 genom utvecklingsstadier x4.
+    notes:
+    - No notes.
+    glosses:
+    - utvecklas (förändras i positiv riktning)
+  zh:
+    place structure: x1向x2发展/进化，由x3开始，经过阶段x4
+    notes:
+    - 参见 {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}.
+    glosses:
+    - No glosses.

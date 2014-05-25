@@ -1,6 +1,76 @@
-Word: jilra
-Rafsi: ''
-Definition: x1 (person) is jealous of/envies x2 (person) about/for x3 (property -
-  ka).
-Notes: See also {cinmo}.
-Examples: None
+word: jilra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) is jealous of/envies x2 (person) about/for x3 (property
+      - ka).
+    notes:
+    - See also {cinmo}.
+    glosses:
+    - jealous
+  de:
+    place structure: x1 (Person) ist eifersüchtig auf/beneidet x2 (Person) um x3 (Eigenschaft
+      - ka).
+    notes:
+    - Siehe auch {cinmo}.
+    glosses:
+    - eifersüchtig
+  es:
+    place structure: x1 envidia/cela/está celoso de x2 por x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - envidiar
+  ru:
+    place structure: 'x1 ревнует/завидует x2 (кого) к/по поводу x3 ({ka}: свойство)'
+    notes:
+    - '{cinmo} (эмоциональный)'
+    glosses:
+    - ревновать
+    - x1=ревнующий
+    - x2=ревнуемый
+    - x3=предмет ревности
+  en-simple:
+    place structure: x1 is envious or jealous of x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - something envious
+    - x2=something envied
+    - x3=a cause of envy
+  eo:
+    place structure: x1 (homo) envias x2-on (homo)/ĵaluzas kontraŭ x2 pri/pro x3 (eco
+      - ka)
+    notes:
+    - Vidu ankaŭ {cinmo}.
+    glosses:
+    - envii
+  hu:
+    place structure: x1 irigy/féltékeny x2-re x3-ért
+    notes:
+    - '(Lásd még: {cinmo})'
+    glosses:
+    - irigy
+  ja:
+    place structure: x1 （者）は x2 （者）に x3 （性質）に関して嫉妬する／妬む／そねむ；  x2 はうらやましい
+    notes:
+    - ・大意： 嫉妬 ・読み方： ジルゥラ  ・語呂合わせ： ji（忌）, jealous ・関連語： {cinmo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (person) är svartsjuk/avundsjuk/missunsam/avundas x2 (person)
+      angående/för x3 (egenskap - ka).
+    notes:
+    - No notes.
+    glosses:
+    - avundas
+    - avundsjuk
+  zh:
+    place structure: x1嫉妒/妒忌x2，因为x3（性质ka）
+    notes:
+    - 参见 {cinmo}.
+    glosses:
+    - No glosses.

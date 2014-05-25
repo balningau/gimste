@@ -1,5 +1,71 @@
-Word: gusta
-Rafsi: ''
-Definition: x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3.
-Notes: See also {barja}, {citka}, {kukte}, {sanmi}, {xotli}.
-Examples: None
+word: gusta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a restaurant/cafe/diner serving type-of-food x2 to audience
+      x3.
+    notes:
+    - See also {barja}, {citka}, {kukte}, {sanmi}, {xotli}.
+    glosses:
+    - restaurant
+  de:
+    place structure: x1 ist ein Restaurant/ein Café/ein Imbiss und serviert x2 (Art
+      Essen) an Publikum/Gäste x3
+    notes:
+    - No notes.
+    glosses:
+    - Restaurant
+  es:
+    place structure: x1 es un restaurante/café en localidad x2 con tipo de comida
+      x3 para clientes x4
+    notes:
+    - Ver también {barja}.
+    glosses:
+    - restaurante
+  ru:
+    place structure: x1 — ресторан/кафе/столовая, где подают x2 (тип пищи) клиентам
+      x3
+    notes:
+    - '{barja} (бар), {citka} (есть), {kukte} (вкусный), {sanmi} (трапеза), {xotli}
+      (гостиница)'
+    glosses:
+    - x1=ресторан
+    - x2=пища в ресторане
+    - x3=клиент ресторана
+  en-simple:
+    place structure: x1 is a restaurant serving x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a restaurant
+    - x2=a restaurant food
+    - x3=a restaurant customer
+  eo:
+    place structure: x1 estas restoracio/kafejo/manĝejo servanta tipon de manĝaĵo
+      x2 por klientaro x3
+    notes:
+    - Vidu ankaŭ {barja}, {citka}, {kukte}, {sanmi}, {xotli}.
+    glosses:
+    - restoracio
+  hu:
+    place structure: x1 egy étterem/kávézó/vendéglő, amely x2 ételeket szolgál fel,
+      x3 közönségnek
+    notes:
+    - '(Lásd még: {barja}, {citka}, {kukte}, {sanmi}, {xotli})'
+    glosses:
+    - étterem
+  ja:
+    place structure: x1 は x2 （飲み物／食べ物）を x3 （客）に提供する飲食店／レストラン／カフェテリア
+    notes:
+    - ・大意： 飲食店 ・読み方： グスタ  ・関連語： {barja}, {citka}, {kukte}, {sanmi}, {xotli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是餐厅/饭馆/食堂，提供食物x2给x3
+    notes:
+    - 参见 {barja}, {citka}, {kukte}, {sanmi}, {xotli}.
+    glosses:
+    - No glosses.

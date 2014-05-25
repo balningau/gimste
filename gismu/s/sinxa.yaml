@@ -1,8 +1,79 @@
-Word: sinxa
-Rafsi: sni
-Definition: x1 is a sign/symbol/signal representing/referring/signifying/meaning x2
-  to observer x3.
-Notes: 'Also: $x_1$ signifies $x_2$; (adjective:) $x_1$ is significant/meaningful/of
-  import; signal an action (= {sniti''i}), connotation (= se {sibyti''isni}, {sibyti''ismu}).  See
-  also {lerfu}, {tcita}, {barna}, {mifra}, {smuni}.'
-Examples: None
+word: sinxa
+rafsi:
+- sni
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sign/symbol/signal representing/referring/signifying/meaning
+      x2 to observer x3.
+    notes:
+    - 'Also: x1 signifies x2; (adjective:) x1 is significant/meaningful/of import;
+      signal an action (= {sniti''i}), connotation (= se {sibyti''isni}, {sibyti''ismu}).  See
+      also {lerfu}, {tcita}, {barna}, {mifra}, {smuni}.'
+    glosses:
+    - represent (serve as a sign or symbol of)
+    - sign
+    - signal
+  de:
+    place structure: x1 ist ein Zeichen/Symbol/Signal und bedeutet/repräsentiert/bezieht
+      sich auf/kennzeichnet x2 für Betrachter x3
+    notes:
+    - No notes.
+    glosses:
+    - Zeichen
+  es:
+    place structure: x1 es un signo/símbolo/señal de x2 para observador x3 con significado/intención
+      x4
+    notes:
+    - Ver también {lerfu},  {tcita}.
+    glosses:
+    - signo
+  ru:
+    place structure: x1 — знак/символ/сигнал, означающий/обозначающий/представляющий
+      x2 для наблюдателя x3
+    notes:
+    - 'Также: x1 значит/означает x2; прилагательное: осмысленный/значащий/значимый;
+      подавать сигнал к действию: {sniti''i}; коннотация/подтекст: {se} {sibyti''isni},
+      {sibyti''ismu} {lerfu} (буква), {tcita} (метка), {barna} (пятно), {mifra} (шифровка),
+      {smuni} (значение [смысл])'
+    glosses:
+    - x1=знак
+  en-simple:
+    place structure: x1 is a sign meaning x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a sign
+    - x2=a meaning of a sign
+    - x3=an observer of a sign
+  eo:
+    place structure: x1 estas signo/simbolo/signalo representanta/aludanta/signifanta
+      x2-on por observanto x3
+    notes:
+    - 'Ankaŭ: x1 signas x2-on; (adjektivo:) x1 estas signifa/grava; signali agon (=
+      {sniti''i}), kunsignifo (= se {sibyti''isni}, {sibyti''ismu}).  Vidu ankaŭ {lerfu},
+      {tcita}, {barna}, {mifra}, {smuni}.'
+    glosses:
+    - signo
+  hu:
+    place structure: x1 egy jel/jelzés/szimbólum x2 jelentéssel/hivatkozással x3 megfigyelő
+      számára
+    notes:
+    - '(Lásd még: {lerfu}, {tcita}, {barna}, {mifra}, {smuni})'
+    glosses:
+    - jelzés
+  ja:
+    place structure: x1 は x2 （意味／指示対象）の、 x3 （者）にたいする記号／表象／象形／象徴／サイン／シンボル
+    notes:
+    - ・大意： 記号 ・読み方： スィンクァ  ・語呂合わせ： 記号は進化する！ ・関連語： {lerfu}, {tcita}, {barna}, {mifra},
+      {smuni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是符号/标志，表达/代表意义/含义x2，给观察者x3
+    notes:
+    - x1有意义的/有象征性的；x1表示x2；行动的信号={sniti'i}；内涵/含义= se {sibyti'isni}, {sibyti'ismu}；参见
+      {lerfu}, {tcita}, {barna}, {mifra}, {smuni}.
+    glosses:
+    - No glosses.

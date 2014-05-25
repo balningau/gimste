@@ -1,6 +1,79 @@
-Word: fancu
-Rafsi: ''
-Definition: x1 is a function/single-valued mapping from domain x2 to range x3 defined
-  by expression/rule x4.
-Notes: See also {mekso}, {bridi}.
-Examples: None
+word: fancu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a function/single-valued mapping from domain x2 to range
+      x3 defined by expression/rule x4.
+    notes:
+    - See also {mekso}, {bridi}.
+    glosses:
+    - function (mathematical)
+  de:
+    place structure: x1 ist eine Funktion/Abbildung von Definitionsbereich/Urbild
+      x2 auf Bildbereich x3, definiert durch Ausdruck/Regel x4
+    notes:
+    - No notes.
+    glosses:
+    - Funktion
+  es:
+    place structure: x1 es una función univaluada de dominio x2 y rango x3 definida
+      por expresión/regla x4
+    notes:
+    - No notes.
+    glosses:
+    - función
+  ru:
+    place structure: x1 — функция/однозначное отображение из области определения x2
+      в область значений x3, определяемая выражением/правилом x4
+    notes:
+    - См. {mekso} - 'формула', {bridi} - 'глагольная фраза'
+    glosses:
+    - x1=функция
+    - x2=область определения функции
+    - x3=область значений функции
+  en-simple:
+    place structure: x1 is a function mapping domain x2 to range x3 defined by rule
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a function
+    - x2=a function domain
+    - x3=a function range
+    - x4=a function definition
+  eo:
+    place structure: x1 estas funkcio/pounua mapo de domajno x2 al rango x3 difinita
+      de esprimo/regulo x4
+    notes:
+    - Vidu ankaŭ {mekso}, {bridi}.
+    glosses:
+    - funkcio [matematika]
+  hu:
+    place structure: x1 egy függvény/egyértelmű leképezés x2 értelmezési tartománnyal
+      és x3 értékkészlettel
+    notes:
+    - '(Lásd még: {mekso}, {bridi})'
+    glosses:
+    - függvény
+  ja:
+    place structure: x1 は x2 （変域／定義域）・ x3 （値域）・ x4 （式／表現）の関数
+    notes:
+    - ・大意： 関数 ・読み方： ファンシュ  ・語呂合わせ： ＜ファン集合＞, function ・関連語： {mekso}, {bridi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en funktion/graf från domän x2 till räckvidd x3 definierad
+      genom uttryck/formel x4.
+    notes:
+    - No notes.
+    glosses:
+    - funktion (matematik)
+  zh:
+    place structure: x1是函数，映射为定义域x2到值域x3，函数关系为x4
+    notes:
+    - 参见 {mekso}, {bridi}.
+    glosses:
+    - No glosses.

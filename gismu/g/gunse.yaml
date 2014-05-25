@@ -1,5 +1,60 @@
-Word: gunse
-Rafsi: ''
-Definition: x1 is a goose/[gander] of species/breed x2.
-Notes: See also {cipni}.
-Examples: None
+word: gunse
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a goose/[gander] of species/breed x2.
+    notes:
+    - See also {cipni}.
+    glosses:
+    - goose
+  de:
+    place structure: x1 ist eine Gans/[ein Gänserich] der Art/Gattung x2.
+    notes:
+    - Siehe auch {cipni}.
+    glosses:
+    - Gans
+  es:
+    place structure: x1 es un ganso/oca/ánsar de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - ganso
+  ru:
+    place structure: x1 — гусь вида/породы x2
+    notes:
+    - '{cipni} (птица)'
+    glosses:
+    - x1=гусь
+  en-simple:
+    place structure: x1 is a goose of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a goose
+    - x2=a species of goose
+  eo:
+    place structure: x1 estas ansero de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cipni}.
+    glosses:
+    - ansero
+  hu:
+    place structure: x1 egy lúd [Anserinae alcsalád] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cipni})'
+    glosses:
+    - lúd
+  ja:
+    place structure: x1はx2という種/品種の雁/鵞鳥である
+    notes:
+    - '参照: {cipni}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是鹅，属于品种/种类x2
+    notes:
+    - 参见 {cipni}.
+    glosses:
+    - No glosses.

@@ -1,16 +1,129 @@
-Word: jdima
-Rafsi: di'a
-Definition: x1 [amount] is the price of x2 to purchaser/consumer x3 set by vendor
-  x4.
-Notes: $x_2$ may be a specific object, a commodity (mass), an event, or a property;
-  pedantically, for objects/commodities, this is sumti-raising from ownership of the
-  object/commodity (= {posydi'a}, {posyseldi'a} for unambiguous semantics); price
-  is something decided/set by the seller, and is closely akin to offer ({friti}),
-  which is what a buyer may decide; (note that price is not he same as cost/expense,
-  which is the actual amount exchanged in a transaction; the latter is {vecnu} or
-  {canja}; neither is the same as "value" or {vamji}; in colloquial English, these
-  are sometimes interchanged, at least partially because of the rarity of barter and
-  bargaining in the marketplace).  See also {canja}, {friti}, {janta}, {jdini}, {kargu},
-  {pleji}, {dapma}, {vamji} for 'value', ve {vecnu} for 'cost', {canja}, {fepni},
-  {jerna}, {jinga}, {prali}, {rupnu}, {sfasa}, {vamji}.
-Examples: None
+word: jdima
+rafsi:
+- di'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [amount] is the price of x2 to purchaser/consumer x3 set by
+      vendor x4.
+    notes:
+    - x2 may be a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {posydi'a}, {posyseldi'a} for unambiguous semantics); price is something
+      decided/set by the seller, and is closely akin to offer ({friti}), which is
+      what a buyer may decide; (note that price is not he same as cost/expense, which
+      is the actual amount exchanged in a transaction; the latter is {vecnu} or {canja};
+      neither is the same as "value" or {vamji}; in colloquial English, these are
+      sometimes interchanged, at least partially because of the rarity of barter and
+      bargaining in the marketplace).  See also {canja}, {friti}, {janta}, {jdini},
+      {kargu}, {pleji}, {dapma}, {vamji} for 'value', ve {vecnu} for 'cost', {canja},
+      {fepni}, {jerna}, {jinga}, {prali}, {rupnu}, {sfasa}, {vamji}.
+    glosses:
+    - cost (amount of money)
+    - price
+    - x1=amount (of money)
+    - x1=price (sum of money)
+    - x2=merchandise (object for sale)
+    - x3=purchaser
+    - x4=vendor (shopkeeper or salesman)
+  de:
+    place structure: x1 [Menge] ist der Preis von x2 für Käufer x3 gemäß/festgesetzt
+      von Verkäufer x4
+    notes:
+    - No notes.
+    glosses:
+    - Preis
+  es:
+    place structure: x1 es el precio/costo de x2 con comprador/consumidor/cliente
+      x3 con vendedor x4
+    notes:
+    - Ver también {vamji},  ve {vecnu}.
+    glosses:
+    - precio
+  ru:
+    place structure: x1 — цена x2 (чего) для покупателя/потребителя x3, установленная
+      продавцом x4
+    notes:
+    - 'x2 м.б. конкретным объектом, товаром (масса), событием или свойством; строго
+      говоря, для объектов/товаров мы имеем дело с подъемом sumti от владения объектом/товаром:
+      {posydi''a}, {posyseldi''a} для однозначной семантики; цена устанавливается
+      продавцом, ср. «предложение» ({friti}), которое устанавливается покупателем;
+      нужно различать цену и стоимость/расходы, то есть реальное количество ценностей/товаров,
+      обмененных в результате сделки (— {vecnu}, {canja}); еще одно близкое, но нетождественное
+      понятие — «ценность/достоинство», — {vamji}; в английской/русской разговорной
+      речи все эти понятия часто смешиваются, по причине редкости бартера и договорных
+      цен {canja} (обменивать), {friti} (предлагать), {janta} (счет [к оплате]), {jdini}
+      (деньги), {kargu} (дорогой [дорогостоящий]), {pleji} (платить), {dapma} (проклинать),
+      {vamji} (ценность [стоимость]) для «ценности/достоинства», {ve} {vecnu} (продавать)
+      для «стоимости/расходов», {canja} (обменивать), {fepni} (стоить [в копейках/центах
+      и пр.]), {jerna} (зарабатывать), {jinga} (выигрывать [побеждать]), {pleji} (платить),
+      {prali} (прибыль), {rupnu} (денежная единица), {sfasa} (наказывать), {vamji}
+      (ценность [стоимость])'
+    glosses:
+    - x1=цена
+    - x3=потребитель
+  en-simple:
+    place structure: x1 is the price of x2 to x3 set by x4
+    notes:
+    - No notes.
+    glosses:
+    - a price
+    - x2=something with a price
+    - x3=something that purchases something for a price
+    - x4=something that sets a price
+  eo:
+    place structure: x1 [kvanto] estas la prezo de x2 por aĉetanto/konsumanto x3 fiksita
+      de vendisto x4
+    notes:
+    - x2 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por
+      objektoj/varoj, ĉi tio estas sumti-levado el posedo de la objekto/varo (= {posydi'a},
+      posyseldi'a por neambigua {semantiko}); prezo estas decidita/fiksita de la vendanto,
+      kaj estas proksimume simila al ofero (friti), kio estas tio, kion la aĉetanto
+      povas decidi; (rimarku ke prezo ne samas al kosto/elspezo, kio estas la efektiva
+      kvanto interŝanĝita en transago; ĉi tiu lasta estas vecnu aŭ canja; neniu el
+      la du samas al valoro aŭ vamji).  Vidu ankaŭ {canja}, {friti}, {janta}, {jdini},
+      {kargu}, {pleji}, {dapma}, vamji por {'valoro'}, ve vecnu por {'kosto'}, {canja},
+      {fepni}, {jerna}, {jinga}, {pleji}, {prali}, {rupnu}, {sfasa}, {vamji}.
+    glosses:
+    - prezo
+  hu:
+    place structure: x1 (mennyiség) az [eladó által meghatározott] ára x2-nek x3 vevő
+      számára, x4 által meghatározva
+    notes:
+    - 'x2 lehet konkrét tárgy, szolgáltatás, esemény vagy tulajdonság; (Lásd még:
+      {canja}, {friti}, {janta}, {{jdini}}, {kargu}, {pleji}, {dapma}, {vamji}, {vecnu},
+      {canja}, {fepni}, {jerna}, {jinga}, {pleji}, {prali}, {rupnu}, {sfasa})'
+    glosses:
+    - ár
+  ja:
+    place structure: x1 は x2 の、 x3 （買者）・ x3 （売者）による価格／値段
+    notes:
+    - ・大意： 価格 ・読み方： ジディマ  ・関連語： {canja}, {friti}, {janta}, {jdini}, {kargu}, {pleji},
+      {dapma}, {vamji}, {ve} {vecnu}, {canja}, {fepni}, {jerna}, {jinga}, {pleji},
+      {prali}, {rupnu}, {sfasa}, {vamji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 [belopp] är priset för x2 för köpare/kund/konsument x3 prissatt
+      av (för)säljare x4.
+    notes:
+    - x2 kan vara ett specifikt föremål, en mängdvara (massa), en händelse, eller
+      en egenskap; för att vara pedantisk så är detta sumti-höjande för föremål/mängdvaror
+      genom ägarskap av densamma (= {posydi'a}, {posyseldi'a} för otvetydig semantik);
+      pris är något som bestäms/sätts av säljaren , och är nära besläktad med att
+      erbjuda ({friti}), vilket är vad en köpare kan bestämma; (notera att pris är
+      inte exakt samma som kostnad/utgift, vilket är det aktuella beloppet som överförs
+      i en transaktion; det senare är {vecnu} eller {canja}; inget av dessa är detsamma
+      som värde eller {vamji}.Se även den engelska definitionen för detta ord.
+    glosses:
+    - pris (ekonomiskt belopp)
+  zh:
+    place structure: x1（数量）是x2的价格/价钱，购买者/消费者为x3，卖家/销售者为x4
+    notes:
+    - x2 可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posydi'a}/{posyseldi'a}；价格由卖家设定，比较{friti}（价格可能由买家设定}；注意价格与花费/代价不同，花费/代价是指交易中实际的付出，而价格并不一定与实际交易额相等；
+      {vecnu}和{canja}中的花费并不等同于交易物的“实际价值{vamji}”；参见 {canja}, {friti}, {janta}, {jdini},
+      {kargu}, {pleji}, {dapma}, {vamji} 价值, ve {vecnu}花费, {canja}, {fepni}, {jerna},
+      {jinga}, {prali}, {rupnu}, {sfasa}, {vamji}.
+    glosses:
+    - No glosses.

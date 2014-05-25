@@ -1,5 +1,65 @@
-Word: sfani
-Rafsi: ''
-Definition: x1 is a fly [a small non-stinging flying insect] of species/breed x2.
-Notes: See also {cinki}, {bifce}.
-Examples: None
+word: sfani
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fly [a small non-stinging flying insect] of species/breed
+      x2.
+    notes:
+    - See also {cinki}, {bifce}.
+    glosses:
+    - fly
+  de:
+    place structure: x1 ist eine Fliege [ein kleines nicht-stechendes fliegendes Insekt]
+      von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Fliege
+  es:
+    place structure: x1 es una mosca de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - mosca
+  ru:
+    place structure: x1 — муха (мелкое нежалящее летающее насекомое) вида/разновидности
+      x2
+    notes:
+    - '{cinki} (насекомое), {bifce} (пчела)'
+    glosses:
+    - муха
+  en-simple:
+    place structure: x1 is a fly of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a fly
+    - x2=a species of fly
+  eo:
+    place structure: x1 estas muŝo [malgranda nepikanta fluganta insekto] de speco/raso
+      x2
+    notes:
+    - Vidu ankaŭ {cinki}, {bifce}.
+    glosses:
+    - muŝo
+  hu:
+    place structure: x1 egy légy [Brachycera alrend] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cinki}, {bifce})'
+    glosses:
+    - légy
+  ja:
+    place structure: x1 は x2 （種類）のハエ目（もく）昆虫
+    notes:
+    - ・大意： 蝿 ・読み方： スファニ  ・語呂合わせ： ソファに蝿 ・関連語： {cinki}, {bifce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是苍蝇，属于物种/种类x2
+    notes:
+    - 参见 {cinki}, {bifce}.
+    glosses:
+    - No glosses.

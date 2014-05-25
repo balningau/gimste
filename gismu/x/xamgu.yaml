@@ -1,7 +1,87 @@
-Word: xamgu
-Rafsi: xag, xau
-Definition: x1 (object/event) is good/beneficial/nice/[acceptable] for x2 by standard
-  x3.
-Notes: Acceptable (= {mlixau}, {norxau}, {xaurselcru}).  See also {melbi}, {xlali},
-  {vrude}, {zabna}.
-Examples: None
+word: xamgu
+rafsi:
+- xag
+- xau
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/event) is good/beneficial/nice/[acceptable] for x2
+      by standard x3.
+    notes:
+    - Acceptable (= {mlixau}, {norxau}, {xaurselcru}).  See also {melbi}, {xlali},
+      {vrude}, {zabna}.
+    glosses:
+    - beneficial
+    - fine (satisfactory)
+    - good
+    - nice
+    - satisfactory
+    - well (satisfactory)
+    - x1=benefit
+  de:
+    place structure: x1 (Objekt/Ereignis) ist gut/günstig/vorteilhaft/positiv/nett/[annehmbar]
+      für x2 gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - gut
+  es:
+    place structure: x1 es bueno/beneficioso para x2 según estándar x3
+    notes:
+    - Ver también {xlali},  {vrude},  {zabna}.
+    glosses:
+    - bueno
+  ru:
+    place structure: x1 — хороший/благотворный/выгодный/{приемлемый} для x2 по стандарту
+      x3
+    notes:
+    - 'Так себе, приемлемый: {mlixau}, {norxau}, {xaurselcru} {melbi} (красивый),
+      {xlali} (плохой), {vrude} (праведный), {zabna} (одобрительный)'
+    glosses:
+    - хороший
+  en-simple:
+    place structure: x1 is good for x2 by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something good
+    - x2=something for which something is good
+    - x3=a standard of goodness
+  eo:
+    place structure: x1 (objekto/okazo) estas bona/utila/agrabla/[akceptebla] por
+      x2 laŭ normo x3
+    notes:
+    - Akceptebla (= {mlixau}, {norxau}, {xaurselcru}).  Vidu ankaŭ {melbi}, {xlali},
+      {vrude}, {zabna}.
+    glosses:
+    - bona
+  hu:
+    place structure: x1 tárgy/esemény jó/hasznos/előnyös x2 számára, x3 mérce szerint
+    notes:
+    - '(Lásd még: {melbi}, {xlali}, {vrude}, {zabna})'
+    glosses:
+    - jó
+  ja:
+    place structure: x1 (物/出来事) が x2 にとって x3 という基準で良い/役に立つ/すてきである/[まあまあである]。
+    notes:
+    - 「まあまあである」は {mlixau}, {norxau}, {xaurselcru}。
+    - '{melbi}, {xlali}, {vrude}, {zabna}も見よ。'
+    glosses:
+    - すてきだ
+    - よい
+    - 役に立つ
+    - 良い
+    - x1=利益
+  pl:
+    place structure: x1 jest dobre/korzystne dla x2 według standardu x3.
+    notes:
+    - Cf. {melbi}, {xlali}, {vrude}, {zabna}.
+    glosses:
+    - dobre (korzystne)
+    - korzystne
+  zh:
+    place structure: x1（物/事）有利于/有益于x2，基于标准x3
+    notes:
+    - 可行的= {mlixau}, {norxau}, {xaurselcru}；参见 {melbi}, {xlali}, {vrude}, {zabna}.
+    glosses:
+    - No glosses.

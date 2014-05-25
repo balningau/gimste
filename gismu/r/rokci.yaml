@@ -1,7 +1,70 @@
-Word: rokci
-Rafsi: rok, ro'i
-Definition: x1 is a quantity of/is made of/contains rock/stone of type/composition
-  x2 from location x3.
-Notes: '$x_2$: composition including $x_2$, which need not be complete specification.
-  See also {kunra}, {jemna}, {canre}.'
-Examples: None
+word: rokci
+rafsi:
+- rok
+- ro'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/is made of/contains rock/stone of type/composition
+      x2 from location x3.
+    notes:
+    - 'x2: composition including x2, which need not be complete specification. See
+      also {kunra}, {jemna}, {canre}.'
+    glosses:
+    - rock
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Fels/Stein von Typ/mit
+      Zusammensetzung x2 aus Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Fels
+  es:
+    place structure: x1 es una cantidad de roca/piedra de tipo x2 de localidad x3
+    notes:
+    - No notes.
+    glosses:
+    - roca
+  ru:
+    place structure: x1 — камень/горная порода типа/состава x2 из местности x3
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава) {kunra} (минерал),
+      {jemna} (самоцвет), {canre} (песок)'
+    glosses:
+    - камень
+    - x2=состав камня
+  en-simple:
+    place structure: x1 is a quantity of rock of composition x2 from location x3
+    notes:
+    - No notes.
+    glosses:
+    - a rock
+    - x2=a composition of rock
+    - x3=a location of rock
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el roko/ŝtono de tipo/konsisto
+      x2 el loko x3
+    notes:
+    - 'x2: konsisto inkluzivanta x2-on, kiu ne nepre estas kompleta specifado. Vidu
+      ankaŭ {kunra}, {jemna}, {canre}.'
+    glosses:
+    - roko
+  hu:
+    place structure: x1 bizonyos mennyiségű kő (-vet tartalmaz/-ből készült) x2 összetétellel,
+      x3 forrásból
+    notes:
+    - '(Lásd még: {kunra}, {jemna}, {canre})'
+    glosses:
+    - kő
+  ja:
+    place structure: x1はタイプ/成分がx2の、場所x3でとれた岩石である/でできている/を含む
+    notes:
+    - 'x2: x2を含むも可, 完全な記述でなくてもよい. 参照: {kunra}, {jemna}, {canre}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是石/石制品，具有形式/组分x2，来自地点x3
+    notes:
+    - 物质构成中需包含x2，但x2位不需要指明全部构成；参见 {kunra}, {jemna}, {canre}.
+    glosses:
+    - No glosses.

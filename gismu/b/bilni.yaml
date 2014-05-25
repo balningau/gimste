@@ -1,8 +1,101 @@
-Word: bilni
-Rafsi: bil
-Definition: x1 is military/regimented/is strongly organized/prepared by system x2
-  for purpose x3.
-Notes: Also paramilitary; soldier in its broadest sense - not limited to those trained/organized
-  as part of an army to defend a state (= {bilpre}).  See also {jenmi} for a military
-  force, {sonci}, {ganzu}, {pulji}.
-Examples: None
+word: bilni
+rafsi:
+- bil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is military/regimented/is strongly organized/prepared by system
+      x2 for purpose x3.
+    notes:
+    - Also paramilitary; soldier in its broadest sense - not limited to those trained/organized
+      as part of an army to defend a state (= {bilpre}).  See also {jenmi} for a military
+      force, {sonci}, {ganzu}, {pulji}.
+    glosses:
+    - military
+  de:
+    place structure: x1 ist militärisch/reglementiert/streng organisiert durch System
+      x2 für Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - militärisch
+  es:
+    place structure: x1 es militar/regimentado/organizado por sistema x2 con propósito
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - militar
+  ru:
+    place structure: x1 относится/принадлежит к военной/военизированной/{жестко организованной}
+      системе x2 с целью/назначением x3
+    notes:
+    - 'Также: ополчение/дружина; «боец» в самом широком смысле — не ограничивается
+      армией для защиты государства:{bilpre} {jenmi} (армия) для вооруженных сил,
+      {sonci} (солдат), {ganzu} (организовывать [упорядочивать]), {pulji} (полицейский)'
+    glosses:
+    - военный
+    - x2=военная система
+    - x3=цель военной системы
+  en-simple:
+    place structure: x1 is regimented organized by x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - something regimented
+    - x2=a regimenting system
+    - x3=a purpose for regimentation
+  eo:
+    place structure: x1 estas militeca/regimenta/forte organizita/preparita de sistemo
+      x2 por celo x3
+    notes:
+    - 'Ankaŭ: paramilita; soldato en laa plej vasta senco - ne limigita al tiuj preparitaj/organizitaj
+      kiel parto de armeo por defendi ŝtaton (= {bilpre}).  Vidu ankaŭ jenmi por milita
+      {forto}, {sonci}, {ganzu}, {pulji}.'
+    glosses:
+    - militeca
+  hu:
+    place structure: x1 katonai/nagyon fegyelmezett/szervezett/felkészített x2 rendszer
+      által, x3 célra
+    notes:
+    - '(Lásd még: {jenmi}, soci, {ganzu}, {pulji})'
+    glosses:
+    - katonai
+  ja:
+    place structure: x1 は x2 （体系）・ x3 （目的）のために訓練されている編制組織
+    notes:
+    - 「jenmi」は狭義的に「軍」を表すのにたいし、「bilni」は特定の困難／問題に効果的に対処できるよう厳格に訓練／編制されている組織全般を表す。よって「軍」よりも範囲が広い。
+      ・大意： 編制組織 ・読み方： ビルゥニ  ・語呂合わせ： ＜ビルに肉薄＞,  bin（兵）, military,  ・関連語： {jenmi}, {sonci},
+      {ganzu}, {pulji}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er miitært/regimentert/sterkt organisert/forberedt etter system
+      x2 for formål x3
+    notes:
+    - Også paramilitært; soldat i den bredeste forståelsen, ikke bare innskrenket
+      til de trent/organisert som en del av en hær for å forsvare en stat. Se også
+      {jenmi}, {sonci}, {ganzu}, {ciste}, {pulji}, {jamna}, {damba}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är militärisk/strikt kontrollerad/starkt organiserad/förberedd
+      inom system x2 för ändamål x3.
+    notes:
+    - Även paramilitärisk. Soldat i vid mening - inte begränsad till de som är tränade/organiserade
+      som del av en armé för att försvara en stat. Se även {jenmi}, {sonci}, {ganzu},
+      {ciste}, {pulji}, {jamna}, {damba}.
+    glosses:
+    - disciplinerad (drillad i militär disciplin/organisation)
+    - organiserad (strikt kontrollerad)
+    - x1=militärisk
+    - x2=militär organisering (strikt kontrollerad verksamhet)
+    - x3=militärt ändamål
+  zh:
+    place structure: x1是军事化的/严格管制的/有力组织的，被系统x2，为了目的x3
+    notes:
+    - 也指：准军事化的；广义上的“军人”不一定是指为了保卫某个国家的军队的一部分（{bilpre}）；参见 {jenmi},{force}, {sonci},
+      {ganzu}, {pulji}.
+    glosses:
+    - No glosses.

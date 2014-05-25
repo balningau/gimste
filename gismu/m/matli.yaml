@@ -1,5 +1,61 @@
-Word: matli
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of linen/flax [type of fabric/material].
-Notes: See also {bukpu}.
-Examples: None
+word: matli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of linen/flax [type of fabric/material].
+    notes:
+    - See also {bukpu}.
+    glosses:
+    - linen
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Leinen/Flachs [Materialstruktur]
+    notes:
+    - No notes.
+    glosses:
+    - Leinen
+  es:
+    place structure: x1 es una cantidad de lino
+    notes:
+    - No notes.
+    glosses:
+    - lino
+  ru:
+    place structure: x1 — лен [также как тип ткани]; x1 содержит лен
+    notes:
+    - '{bukpu} (ткань [текстиль])'
+    glosses:
+    - лен
+    - x1=лён
+  en-simple:
+    place structure: x1 is a quantity of linen
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of linen
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el lino [tipo de ŝtofo/materialo]
+    notes:
+    - Vidu ankaŭ {bukpu}.
+    glosses:
+    - lino
+  hu:
+    place structure: x1 bizonyos mennyiségű (len)vászon
+    notes:
+    - '(Lásd még: {bukpu})'
+    glosses:
+    - vászon
+  ja:
+    place structure: x1 はリンネル／亜麻布
+    notes:
+    - ・大意： リンネル ・読み方： マトルィ  ・関連語： {bukpu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是亚麻/亚麻制品（材质/布料）
+    notes:
+    - 参见 {bukpu}.
+    glosses:
+    - No glosses.

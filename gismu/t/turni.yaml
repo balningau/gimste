@@ -1,12 +1,87 @@
-Word: turni
-Rafsi: tru
-Definition: x1 governs/rules/is ruler/governor/sovereign/reigns over people/territory/domain/subjects
-  x2.
-Notes: $x_2$ need not be complete specification of set of governed; reign/rule (=
-  {noltru}); king/queen/sovereign (= {nolraitru}); pure democracy (= {roltrusi'o}),
-  representative democracy (= {rolka'itrusi'o}), viceroy (= {ka'itru}), pure communism
-  (= {kaurpo'esi'o}), board of directors/trustees, steering committee (= {trukamni});
-  government (= {trugunma}, {trugri} (emphasizing the components), {truci'e} (emphasizing
-  the organization)).  See also {catni}, {minde}, {tutra}, {jecta}, {gugde}, {ponse},
-  {jitro}.
-Examples: None
+word: turni
+rafsi:
+- tru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 governs/rules/is ruler/governor/sovereign/reigns over people/territory/domain/subjects
+      x2.
+    notes:
+    - x2 need not be complete specification of set of governed; reign/rule (= {noltru});
+      king/queen/sovereign (= {nolraitru}); pure democracy (= {roltrusi'o}), representative
+      democracy (= {rolka'itrusi'o}), viceroy (= {ka'itru}), pure communism (= {kaurpo'esi'o}),
+      board of directors/trustees, steering committee (= {trukamni}); government (=
+      {trugunma}, {trugri} (emphasizing the components), {truci'e} (emphasizing the
+      organization)).  See also {catni}, {minde}, {tutra}, {jecta}, {gugde}, {ponse},
+      {jitro}.
+    glosses:
+    - govern
+  de:
+    place structure: x1 regiert/verwaltet/leitet/beherrscht/ist ein Machthaber/Chef/Souverän
+      über Volk/Gebiet/Domäne/Untertanen x2
+    notes:
+    - No notes.
+    glosses:
+    - regieren
+  es:
+    place structure: x1 gobierna/reina/es gobernador/soberano sobre gente/territorio/dominio
+      x2
+    notes:
+    - Ver también {tutra},  {jecta},  {gugde},  {ponse},  {jitro}.
+    glosses:
+    - gobernar
+  ru:
+    place structure: x1 правит/управляет народом/территорией/владениями/подданными
+      x2; x1 — правитель/суверен x2 (чего)
+    notes:
+    - 'x2: не обязательно полное описание множества подданных; царствует: {noltru};
+      царь/король/суверен: {nolraitru}, вицекороль: {ka''itru}; прямая демократия:
+      {roltrusi''o}, представительная демократия: {rolka''itrusi''o}, коммунизм: {guntrusi''o};
+      совет директоров: {trukamni}; правительство: {trugunma}, {trugri} — с акцентом
+      на компоненты, {truci''e} — с акцентом на организацию {catni} (чиновник), {minde}
+      (командовать), {tutra} (территория), {jecta} (государство), {gugde} (страна),
+      {ponse} (владеть), {jitro} (контролировать)'
+    glosses:
+    - управлять
+    - x1=правитель
+  en-simple:
+    place structure: x1 governs x2
+    notes:
+    - No notes.
+    glosses:
+    - a governer
+    - x2=something governed
+  eo:
+    place structure: x1 regas super popolo/teritorio/kampo/subuloj x2
+    notes:
+    - x2 ne nepre estas kompleta specifo de la regataro; regni/regi (= {noltru});
+      reĝo/reĝino/suvereno (= {nolraitru}); pura democratio (= {roltrusi'o}), reprezenta
+      democratio (= {rolka'itrusi'o}), vicreĝo (= {ka'itru}), pura komunismo (=guntrusi'o),
+      direktoraro, direktkomitato (= {trukamni}); registaro (= trugunma, trugri (emfazo
+      de la membroj), truci'e (emfazo de la organizo)).  Vidu ankaŭ {catni}, {minde},
+      {tutra}, {jecta}, {gugde}, {ponse}, {jitro}.
+    glosses:
+    - 'regi [homojn: vidu jitro]'
+  hu:
+    place structure: x1 uralkodik/kormányoz x2 alattvalók/terület/állam/birodalom
+      felett
+    notes:
+    - '(Lásd még: {catni}, {minde}, {tutra}, {jecta}, {gugde}, {ponse}, {jitro})'
+    glosses:
+    - uralkodik
+  ja:
+    place structure: x1 は x2 （民衆／領土／物）を統治／支配する／治める；  x1 は知事／支配者／君主
+    notes:
+    - ・大意： 統治 ・読み方： トゥルニ  ・語呂合わせ： tunji(統治), govern,  釣る人間 ・関連語： {catni}, {minde},
+      {tutra}, {jecta}, {gugde}, {ponse}, {jitro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1管辖/管理/统治人民/领土/产业x2
+    notes:
+    - x2位不需要全部指明被统治/管理的事物；统治/支配= {noltru}；君主={nolraitru}； 纯粹民主= {roltrusi'o}；代议民主={rolka'itrusi'o}；总督={ka'itru}；纯粹共产主义=
+      {kaurpo'esi'o}；董事会/指导委员会= {trukamni}；政府= {trugunma}/{trugri}/{truci'e}；参见 {catni},
+      {minde}, {tutra}, {jecta}, {gugde}, {ponse}, {jitro}.
+    glosses:
+    - No glosses.

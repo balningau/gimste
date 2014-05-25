@@ -1,5 +1,84 @@
-Word: bumru
-Rafsi: bum
-Definition: x1 is foggy/misty/covered by a fog/mist/vapor of liquid x2.
-Notes: See also {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
-Examples: None
+word: bumru
+rafsi:
+- bum
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is foggy/misty/covered by a fog/mist/vapor of liquid x2.
+    notes:
+    - See also {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
+    glosses:
+    - fog
+  de:
+    place structure: x1 ist neblig/trübe/diesig/bedeckt mit Nebel/Dunst aus Flüssigkeit
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Nebel
+  es:
+    place structure: x1 es brumoso/cubierto de niebla/neblina/rocío/vapor de líquido
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - bruma
+    - brumoso
+  ru:
+    place structure: x1 — туман/дымка/испарения жидкости x2
+    notes:
+    - '{djacu} (вода), {carvi} (дождь), {danmo} (дым), {lunsa} (конденсироваться),
+      {tcima} (погода), {gapci} (газ)'
+    glosses:
+    - x1=туман
+  en-simple:
+    place structure: x1 is covered by a fog or mist of liquid x2
+    notes:
+    - No notes.
+    glosses:
+    - something foggy
+    - x2=a fog's liquid
+  eo:
+    place structure: x1 estas nebula/kovrita de vaporo de likvo x2
+    notes:
+    - Vidu ankaŭ {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
+    glosses:
+    - nebulo
+  hu:
+    place structure: x1 ködös/párás/x2 folyadék párájával borított
+    notes:
+    - '(Lásd még: {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci})'
+    glosses:
+    - köd
+  ja:
+    place structure: x1 は x2 （液体成分）の霧／水蒸気／もや；  x1 は霧っぽい／もやもやしている／かすんでいる
+    notes:
+    - ・大意： 霧 ・読み方： ブムル ・語呂合わせ： ＜霧ブーム＞, burma ・関連語： {djacu}, {carvi}, {danmo}, {lunsa},
+      {tcima}, {gapci}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er tåkete/skoggete/dekket av vanndamp x2
+    notes:
+    - Se og {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är dimmig/immig/täckt av dimma/imma/ånga/kondens/små droppar
+      av vätska x2.
+    notes:
+    - No notes.
+    glosses:
+    - dimmig
+    - imma
+    - immig
+    - kondens (imma)
+    - x1=dimma
+    - x2=imma sammansättning
+  zh:
+    place structure: x1是雾，主要由液体x2产生
+    notes:
+    - 参见 {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
+    glosses:
+    - No glosses.

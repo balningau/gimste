@@ -1,5 +1,66 @@
-Word: virnu
-Rafsi: vri
-Definition: x1 is brave/valiant/courageous in activity x2 (event) by standard x3.
-Notes: See also {terpa}, {darsi}.
-Examples: None
+word: virnu
+rafsi:
+- vri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is brave/valiant/courageous in activity x2 (event) by standard
+      x3.
+    notes:
+    - See also {terpa}, {darsi}.
+    glosses:
+    - brave
+  de:
+    place structure: x1 ist mutig/tapfer bei Handlung x2 (Ereignis) gemäß Standard
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - mutig
+  es:
+    place structure: x1 es valiente/bravo en ser/hacer x2 (evento) según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - valiente
+  ru:
+    place structure: x1 проявляет храбрость/смелость/мужество в деятельности x2 (событие);
+      x1 — храбрый/смелый/мужественный
+    notes:
+    - '{terpa} (бояться), {darsi} (дерзкий)'
+    glosses:
+    - x1=храбрый
+  en-simple:
+    place structure: x1 is brave in activity x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something brave
+    - x2=something done bravely
+    - x3=a standard of bravery
+  eo:
+    place structure: x1 estas brava/sentima/kuraĝa en ago x2 (okazo) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {terpa}, {darsi}.
+    glosses:
+    - brava
+  hu:
+    place structure: x1 bátor/hősies x2 cselekedetében, x3 mérce szerint
+    notes:
+    - '(Lásd még: {terpa}, {darsi})'
+    glosses:
+    - bátor
+  ja:
+    place structure: x1 は x2 （事）に関して x3 （基準）で勇敢／勇ましい／雄々しい／英雄的／
+    notes:
+    - ・大意： 勇敢 ・読み方： ヴィルヌ  ・関連語： {terpa}, {darsi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是勇敢的/英勇的/有胆量的，在行为x2（事）中，基于标准x3
+    notes:
+    - 参见 {terpa}, {darsi}.
+    glosses:
+    - No glosses.

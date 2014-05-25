@@ -1,5 +1,66 @@
-Word: komcu
-Rafsi: kom
-Definition: x1 is a comb [many-needled shape] of material x2 with tines/needles x3.
-Notes: See also {julne}, {forca}, {burcu}.
-Examples: None
+word: komcu
+rafsi:
+- kom
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a comb [many-needled shape] of material x2 with tines/needles
+      x3.
+    notes:
+    - See also {julne}, {forca}, {burcu}.
+    glosses:
+    - comb
+  de:
+    place structure: x1 ist ein Kamm [Form mit vielen Nadeln] aus Material x2 mit
+      Zacken/Zinken/Nadeln x3
+    notes:
+    - No notes.
+    glosses:
+    - Kamm
+  es:
+    place structure: x1 es un peine (forma) de material x2 con dientes x3
+    notes:
+    - Ver también {julne},  {forca},  {burcu}.
+    glosses:
+    - peine
+  ru:
+    place structure: 'x1 — гребень/гребенка (форма: много зубцов/игл) из материала
+      x2 с зубцами x3'
+    notes:
+    - '{julne} (сеть [сито]), {forca} (вилка), {burcu} (щетка)'
+    glosses:
+    - гребень
+  en-simple:
+    place structure: x1 is a comb of material x2 with tines x3
+    notes:
+    - No notes.
+    glosses:
+    - a comb
+    - x2=a material of a comb
+    - x3=a tine of a comb
+  eo:
+    place structure: x1 estas kombilo [plurdenta formo] el materialo x2 kun dentoj
+      x3
+    notes:
+    - Vidu ankaŭ {julne}, {forca}, {burcu}.
+    glosses:
+    - kombilo
+  hu:
+    place structure: x1 egy fésű [fogazott forma] x2 anyagból, x3 fogakkal
+    notes:
+    - '(Lásd még: {julne}, {forca}, {burcu})'
+    glosses:
+    - fésű
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （針状物）からなる櫛／梳き具
+    notes:
+    - ・大意： 櫛 ・読み方： コムシュ  ・関連語： {julne}, {forca}, {burcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是梳子（多针状结构），由材料x2做成，具有针/钉/齿x3
+    notes:
+    - 参见 {julne}, {forca}, {burcu}.
+    glosses:
+    - No glosses.

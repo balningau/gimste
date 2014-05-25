@@ -1,6 +1,71 @@
-Word: pikta
-Rafsi: ''
-Definition: x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state)
-  under conditions x4.
-Notes: See also {jaspu}.
-Examples: None
+word: pikta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state)
+      under conditions x4.
+    notes:
+    - See also {jaspu}.
+    glosses:
+    - ticket
+  de:
+    place structure: x1 ist ein Ticket/Schein/eine Eintritts-/Fahrkarte und berechtigt
+      x2 für Privileg/Berechtigung x3 (Ereignis/Zustand) unter Bedingungen x4
+    notes:
+    - No notes.
+    glosses:
+    - Ticket
+  es:
+    place structure: x1 es un boleto/billete/tiquet/entrada/localidad/talón/cupón
+      que permite a x2 privilegio x3 bajo condiciones x4
+    notes:
+    - No notes.
+    glosses:
+    - boleto
+  ru:
+    place structure: x1 — билет/абонемент/пропуск, дающий право x2 (кому) на привилегию
+      x3 (событие/состояние) при условиях x4
+    notes:
+    - '{jaspu} (паспорт)'
+    glosses:
+    - билет
+  en-simple:
+    place structure: x1 is a ticket entitling x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - ticket
+    - x1=a ticket
+    - x2=a ticket holder
+    - x2=the ticket holder
+    - x3=something entitled by a ticket
+    - x4=a privilege condition of a ticket
+  eo:
+    place structure: x1 estas bileto rajtiganta x2-on je rajto/privilegio x3 (okazo/stato)
+      sub kondiĉoj x4
+    notes:
+    - Vidu ankaŭ {jaspu}.
+    glosses:
+    - bileto
+  hu:
+    place structure: x1 egy jegy/bérlet/kártya x2-nek, ami feljogosítja őt x3-ra,
+      x4 feltételek mellett
+    notes:
+    - '(Lásd még: {jaspu})'
+    glosses:
+    - jegy
+  ja:
+    place structure: x1 は x2 （者）を x3 （事）について x4 （条件）で許容する券／切符／チケット
+    notes:
+    - 「権利」も。 ・大意： 券 ・読み方： ピクタ  ・語呂合わせ： piau（票）,ticket ・関連語： {jaspu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是票据，授予x2特权/权力做/成为x3（事件/状态），在条件x4下
+    notes:
+    - 参见 {jaspu}.
+    glosses:
+    - No glosses.

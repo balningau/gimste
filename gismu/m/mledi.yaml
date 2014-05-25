@@ -1,6 +1,69 @@
-Word: mledi
-Rafsi: led
-Definition: x1 is a mold/fungus/mushrooms/truffles of species/strain x2 parasitic/growing
-  on x3.
-Notes: See also {clika}.
-Examples: None
+word: mledi
+rafsi:
+- led
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mold/fungus/mushrooms/truffles of species/strain x2 parasitic/growing
+      on x3.
+    notes:
+    - See also {clika}.
+    glosses:
+    - mold
+  de:
+    place structure: x1 ist ein Pilz/Schimmel/Schwamm/Trüffel von Art/Gattung x2 und
+      wächst (parasitisch) auf x3
+    notes:
+    - No notes.
+    glosses:
+    - Pilz
+  es:
+    place structure: x1 es un hongo/trufa/seta de especie/variedad x2 que crece/parásito
+      sobre x3
+    notes:
+    - No notes.
+    glosses:
+    - hongo
+  ru:
+    place structure: x1 — гриб/плесень/грибок вида/разновидности x2, паразитирующая/растущая(ий)
+      на x3
+    notes:
+    - '{clika} (лишайник)'
+    glosses:
+    - гриб
+    - x2=вид гриба
+  en-simple:
+    place structure: x1 is a mould or fungus of species x2 growing on x3
+    notes:
+    - No notes.
+    glosses:
+    - a mould
+    - x2=a species of mould
+    - x3=something mould grows on
+  eo:
+    place structure: x1 estas ŝimo/fungo/agariko/trufo de speco/raso x2 parasita/kreskanta
+      sur x3
+    notes:
+    - Vidu ankaŭ {clika}.
+    glosses:
+    - ŝimo
+  hu:
+    place structure: x1 egy gomba/penész [Fungi ország] az x2 fajból/fajtából, amely
+      x3-n nő/élősködik
+    notes:
+    - '(Lásd még: {clika})'
+    glosses:
+    - gomba
+  ja:
+    place structure: x1 は x2 （種類）の、 x3 （寄生先）で育つ菌類
+    notes:
+    - 「カビ」「キノコ」など。 ・大意： 菌類 ・読み方： ムルェディ  ・語呂合わせ： 群れでぃ育つ菌類 ・関連語： {clika}, {parji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是真菌/霉菌/蘑菇/蕈类，属于种类x2，生长在/寄生在x3上
+    notes:
+    - 参见 {clika}.
+    glosses:
+    - No glosses.

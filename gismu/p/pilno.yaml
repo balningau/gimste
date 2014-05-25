@@ -1,8 +1,94 @@
-Word: pilno
-Rafsi: pli
-Definition: x1 uses/employs x2 [tool, apparatus, machine, agent, acting entity, material]
-  for purpose x3.
-Notes: Also utilize; $x_2$ is useful/used productively by $x_1$ to do $x_3$ (= {selpli}
-  for reordered places); hire/employ (= {le'ipli}, {lejyplicu'a}).  (cf. {tutci},
-  {cabra}, {minji}, {gasnu}, {zukte} for $x_2$, cmavo list {pi'o}, {sazri}, {jibri})
-Examples: None
+word: pilno
+rafsi:
+- pli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 uses/employs x2 [tool, apparatus, machine, agent, acting entity,
+      material] for purpose x3.
+    notes:
+    - Also utilize; x2 is useful/used productively by x1 to do x3 (= {selpli} for
+      reordered places); hire/employ (= {le'ipli}, {lejyplicu'a}).  (cf. {tutci},
+      {cabra}, {minji}, {gasnu}, {zukte} for x2, cmavo list {pi'o}, {sazri}, {jibri})
+    glosses:
+    - use
+  de:
+    place structure: x1 benutzt x2 [Werkzeug/Maschine/Helfer/Material] mit dem Ziel/Zweck
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - benutzen
+  es:
+    place structure: x1 usa/emplea/utiliza herramienta/aparato/instrumento x2 con
+      propósito x3
+    notes:
+    - No notes.
+    glosses:
+    - usar
+  fr:
+    place structure: x1 utilise x2 [un outil, une machine, du materiel…] dans le but
+      de faire x3
+    notes:
+    - No notes.
+    glosses:
+    - outil
+    - utiliser
+  ru:
+    place structure: x1 использует/употребляет/применяет x2 (орудие, аппарат, машину,
+      материал, агент, деятеля) с целью x3
+    notes:
+    - 'x2 полезно, x2 продуктивно используется x1 (кем) для x3 (чего): {selpli} с
+      переставленными местами; нанимать: {le''ipli}, {lejyplicu''a} {tutci} (инструмент),
+      {cabra} (аппарат [механизм]), {minji} (машина [автомат, механизм]), {gasnu}
+      (делать), {zukte} (действовать) для x2, {pi''o}, {sazri} (управлять [механизмом]),
+      {jibri} (профессия)'
+    glosses:
+    - использовать
+    - x1=пользователь
+    - x2=цель использования
+  en-simple:
+    place structure: x1 uses x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - an user
+    - x2=something used
+    - x3=a purpose something is used for
+  eo:
+    place structure: x1 uzas/utiligas x2-on [ilo, instrumento, aparato, maŝino, aganto,
+      materialo] por celo x3
+    notes:
+    - x2 estas utila/produktive uzata de x1 por fari x3 (= selpli por reordigitaj
+      {lokoj}); dungi/okupigi (= {le'ipli}, {lejyplicu'a}).  (kp. tutci, cabra, minji,
+      gasnu, zukte por x2, cmavopi'o, sazri, jibri)
+    glosses:
+    - uzi
+  hu:
+    place structure: x1 használja x2 eszközt/gépet/erőforrást/munkaerőt x3 célból
+    notes:
+    - '(Lásd még: {tutci}, {cabra}, {minji}, {gasnu}, {sazri}, {jibri})'
+    glosses:
+    - használ
+  ja:
+    place structure: x1 は x2 （道具／機械／者）を x3 （目的）のために使う／用いる
+    notes:
+    - 「活用する」も。 ・大意： 使う ・読み方： ピルゥノ  ・語呂合わせ： ピルの使い方 ・関連語： {tutci}, {cabra}, {minji},
+      {gasnu}, {zukte}, {pi'o}, {sazri}, {jibri}
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 bruker/benytter x2 [verktøy, apparat, maskin, agent, materiale]
+      til formål/hensikt x3
+    notes:
+    - No notes.
+    glosses:
+    - benytte
+    - bruke
+  zh:
+    place structure: x1使用x2（工具/器械/代理/材料），为了达到目的/实现功能x3
+    notes:
+    - 也指：运用； x2是有用的/被x1用来做x3；使用/雇佣= {le'ipli}/{lejyplicu'a}；参见{tutci}, {cabra}, {minji},
+      {gasnu}, {zukte}, {pi'o}, {sazri}, {jibri})
+    glosses:
+    - No glosses.

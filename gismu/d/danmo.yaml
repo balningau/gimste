@@ -1,6 +1,72 @@
-Word: danmo
-Rafsi: dam
-Definition: x1 is made of/contains/is a quantity of smoke/smog/air pollution from
-  source x2.
-Notes: $x_2$ may be a fire.  See also {pulce}, {gapci}, {sigja}, {bumru}.
-Examples: None
+word: danmo
+rafsi:
+- dam
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of smoke/smog/air pollution
+      from source x2.
+    notes:
+    - x2 may be a fire.  See also {pulce}, {gapci}, {sigja}, {bumru}.
+    glosses:
+    - smoke
+  de:
+    place structure: x1 besteht aus/enthält/ist eine gewisse Menge Rauch/Smog/Luftverschmutzung
+      aus Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Rauch
+  es:
+    place structure: x1 es una cantidad de humo/smog de origen x2
+    notes:
+    - Ver también {bumru}.
+    glosses:
+    - humo
+  ru:
+    place structure: x1 — дым/смог из источника x2
+    notes:
+    - x2 м.б. огонь {pulce} (пыль), {gapci} (газ), {sigja} (сигарета), {bumru} (туман)
+    glosses:
+    - x1=дым
+  en-simple:
+    place structure: x1 is smoke from source x2
+    notes:
+    - No notes.
+    glosses:
+    - smoke
+    - x2=a source of smoke
+  eo:
+    place structure: x1 konsistas el/enhavas/estas kvanto da fumo/aera malpuraĵo el
+      fonto x2
+    notes:
+    - x2 povas esti fajro.  Vidu ankaŭ {pulce}, {gapci}, {sigja}, {bumru}.
+    glosses:
+    - fumo
+  hu:
+    place structure: x1 bizonyos mennyiségű füst/pára/szmog/légszennyeződés x2 forrásból
+    notes:
+    - '(Lásd még: {pulce}, {gapci}, {sigja}, {bumru})'
+    glosses:
+    - füst
+  ja:
+    place structure: x1 は x2 （起源）の煙／スモッグ／大気汚染
+    notes:
+    - x2 は燃焼物など。 ・大意： 煙 ・読み方： ダンモ  ・関連語： {pulce}, {gapci}, {sigja}, {bumru}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av/gjord av/innehåller rök/smog/luftförorening
+      från källa x2.
+    notes:
+    - x2 kan vara en eldsvåda.
+    glosses:
+    - x1=rök
+    - x2=rökkälla
+  zh:
+    place structure: x1是烟/雾，来自资源x2
+    notes:
+    - x2可能是火；参见 {pulce}, {gapci}, {sigja}, {bumru}.
+    glosses:
+    - No glosses.

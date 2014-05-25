@@ -1,8 +1,70 @@
-Word: sivni
-Rafsi: siv
-Definition: x1 is private/personal/privy/[secret/confidential/confined] to x2; x1
-  is not-public/hidden.
-Notes: 'Also: $x_1$ is secret (one sense); $x_2$ is in the know/in touch with/privy
-  to $x_1$ (= {selsivni} for reordered places); exclusion can be expressed by na''e(bo)
-  in $x_2$: excluded/in the dark (= {nalselsivni}).  See also {gubni}, {mipri}.'
-Examples: None
+word: sivni
+rafsi:
+- siv
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is private/personal/privy/[secret/confidential/confined] to
+      x2; x1 is not-public/hidden.
+    notes:
+    - 'Also: x1 is secret (one sense); x2 is in the know/in touch with/privy to x1
+      (= {selsivni} for reordered places); exclusion can be expressed by na''e(bo)
+      in x2: excluded/in the dark (= {nalselsivni}).  See also {gubni}, {mipri}.'
+    glosses:
+    - private
+  de:
+    place structure: x1 ist privat/persönlich/[geheim/vertraulich] für x2; x1 ist
+      nicht öffentlich/versteckt
+    notes:
+    - No notes.
+    glosses:
+    - privat
+  es:
+    place structure: x1 es privado/personal/no público de x2
+    notes:
+    - No notes.
+    glosses:
+    - privado
+  ru:
+    place structure: x1 — частное/приватное/персональное/личное/{секретное/конфиденциальное}
+      дело x2 (чье); x1 — не общественное/скрытое
+    notes:
+    - 'Также: x1 — секрет; x2 посвящен/допущен к x1: {selsivni} с перестановкой мест;
+      отрицание — с помощью {na''e} ({bo}): не посвящен/не в курсе: {nalselsivni}
+      {gubni} (публичный), {mipri} (скрывать)'
+    glosses:
+    - приватный
+  en-simple:
+    place structure: x1 is private or personal to x2
+    notes:
+    - No notes.
+    glosses:
+    - something private
+    - x2=something to which something is personal
+  eo:
+    place structure: x1 estas privata/[sekreta/konfidenca] por x2; x1 estas nepublika/kaŝita
+    notes:
+    - 'Ankaŭ: x1 estas sekreta (unu senco); x2 kunscias x1-on (= selsivni por reordigitaj
+      {lokoj}); ekskludon eblas esprimi per na''e(bo) en x2: ekskludita/nekunscianta
+      (= {nalselsivni}).  (kp.gubni,mipri)'
+    glosses:
+    - privata
+  hu:
+    place structure: x1 magánjellegű/privát/személyes x2 számára
+    notes:
+    - '(Lásd még: {gubni}, {mipri})'
+    glosses:
+    - magánjellegű
+  ja:
+    place structure: x1 （物／事）は x2 （者）にとって内密／私的／プライベート
+    notes:
+    - ・大意： 私的 ・読み方： スィヴニ  ・語呂合わせ： siteki ・関連語： {gubni}, {mipri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是个人的/私人的/非公开的，对x2来说
+    notes:
+    - 也指：x1是隐私/秘密（某种意义上）；x2对x1知情；不知情可在x2位添加na'e(bo)：{nalselsivni}；参见 {gubni}, {mipri}.
+    glosses:
+    - No glosses.

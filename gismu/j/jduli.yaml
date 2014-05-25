@@ -1,6 +1,74 @@
-Word: jduli
-Rafsi: dul, jdu
-Definition: x1 is a quantity of jelly/semisolid [texture] of material/composition
-  including x2.
-Notes: (adjective:) $x_1$ is gelatinous.  See also {litki}, {sligu}.
-Examples: None
+word: jduli
+rafsi:
+- dul
+- jdu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of jelly/semisolid [texture] of material/composition
+      including x2.
+    notes:
+    - (adjective:) x1 is gelatinous.  See also {litki}, {sligu}.
+    glosses:
+    - jelly
+  de:
+    place structure: x1 ist eine Menge an Gelee/Gallert/halbfester Masse [Textur/Beschaffenheit]
+      von Material/Zusammensetzung unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Gelee
+  es:
+    place structure: x1 es una cantidad de gelatina/jalea/semisólido de material/composición
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - gelatina
+  ru:
+    place structure: x1 — гель/студень/желе (полутвердой консистенции) из вещества/состава,
+      содержащего x2
+    notes:
+    - '{litki} (жидкость), {sligu} (твердый [состояние вещества])'
+    glosses:
+    - x1=желе
+  en-simple:
+    place structure: x1 is a quantity of jelly of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of jelly
+    - x2=a composition of jelly
+  eo:
+    place structure: x1 estas kvanto da gelatenaĵo/duonsolidaĵo [tekseco] de materialo/konsisto
+      enhavanta x2-on
+    notes:
+    - Vidu ankaŭ {litki}, {sligu}.
+    glosses:
+    - gelatenaĵo
+  hu:
+    place structure: x1 bizonyos mennyiségű gél/zselé x2 anyagból/összetétellel
+    notes:
+    - '(Lásd még: {litki}, {sligu})'
+    glosses:
+    - gél
+  ja:
+    place structure: x1 は x2 （成分）のゼリー（状）／ゼラチン（状）／半固体
+    notes:
+    - ・大意： ゼリー ・読み方： ジドゥルィ  ・関連語： {litki}, {sligu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av  gelé/halvfast [konsistens] av material/sammansättning
+      inklusive x2.
+    notes:
+    - x1 är geléartad.
+    glosses:
+    - gelé
+  zh:
+    place structure: x1是胶体/半固体/果冻状物体，由物质/材料x2构成
+    notes:
+    - x1是胶状的；参见 {litki}, {sligu}.
+    glosses:
+    - No glosses.

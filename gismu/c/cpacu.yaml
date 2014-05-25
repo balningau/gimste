@@ -1,6 +1,88 @@
-Word: cpacu
-Rafsi: cpa
-Definition: x1 gets/procures/acquires/obtains/accepts x2 from source x3 [previous
-  possessor not implied].
-Notes: Also fetch; accept a gift (= {seldu'acpa}).  See also {punji}, {lebna}, {vimcu}.
-Examples: None
+word: cpacu
+rafsi:
+- cpa
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 gets/procures/acquires/obtains/accepts x2 from source x3 [previous
+      possessor not implied].
+    notes:
+    - Also fetch; accept a gift (= {seldu'acpa}).  See also {punji}, {lebna}, {vimcu}.
+    glosses:
+    - get
+  jbo:
+    place structure: x1 co'a ponse x2 noi x3 krasi ke'a
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 bekommt/empfängt/erhält/akzeptiert x2 von Quelle x3 [ein vorheriger
+      Besitzer wird nicht vorausgesetzt]
+    notes:
+    - No notes.
+    glosses:
+    - bekommen
+  es:
+    place structure: x1 toma/obtiene/adquiere/recibe/consigue x2 de x3
+    notes:
+    - Ver también {punji},  {lebna}.
+    glosses:
+    - tomar
+  ru:
+    place structure: x1 приобретает/добывает/получает x2 из источника x3 (не предполагается
+      наличие прежнего владельца)
+    notes:
+    - 'Принимает подарок: {seldu''acpa} {punji} (класть), {lebna} (забирать), {vimcu}
+      (отнимать)'
+    glosses:
+    - добывать
+    - x1=добывающий
+  en-simple:
+    place structure: x1 acquires or gets x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - an acquirer
+    - x2=something acquired
+    - x3=an acquisition source
+  eo:
+    place structure: x1 akiras/havigas al si/obtenas/akceptas x2-on el fonto x3 [ne
+      implicas antaŭan posedanton]
+    notes:
+    - 'Ankaŭ: venigi, alporti, eltiri, eligi; akcepti donacon (= {seldu''acpa}).  Vidu
+      ankaŭ {punji}, {lebna}, {vimcu}.'
+    glosses:
+    - akiri
+  hu:
+    place structure: x1 megszerzi/elfogadja x2-t x3 helyről/személytől
+    notes:
+    - '(Lásd még: {punji}, {lebna}, {vimcu})'
+    glosses:
+    - szerez
+  ja:
+    place structure: x1 は x2 （対象）を x3 （起源）から入手する
+    notes:
+    - 「lebna」と違い、元の所有者の権利を侵さない。「もらう」も。 ・大意： 入手 ・読み方： シパシュ  ・関連語： {punji}, {lebna},
+      {vimcu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 får/erhåller/skaffar sig/ackvirerar/anskaffar/fövärvar/tillägnar
+      sig/accepterar x2 från x3 [behöver inte förutsätta tidigare ägare].
+    notes:
+    - Även hämta/avhämta; acceptera en gåva.
+    glosses:
+    - erhålla
+    - få (erhålla)
+    - skaffa sig
+    - x1=erhållare
+    - x2=införskaffad
+    - x3=erhållen från
+  zh:
+    place structure: x1得到/获得/收到x2，来自x3（不暗示所有权）
+    notes:
+    - 也指取得；获得礼物= {seldu'acpa}；参见 {punji}, {lebna}, {vimcu}.
+    glosses:
+    - No glosses.

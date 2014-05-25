@@ -1,8 +1,89 @@
-Word: dunli
-Rafsi: dun, du'i
-Definition: x1 is equal/congruent to/as much as x2 in property/dimension/quantity
-  x3.
-Notes: Same in quantity/quality (not necessarily in identity); 'analogy' may be expressed
-  as the equivalence of two properties of similarity (ka $x_1$ simsa $x_2$) and (ka
-  $x_3$ simsa $x_4$).  See also cmavo list {du'i}, {satci}, {frica}, {simsa}, {mintu}.
-Examples: None
+word: dunli
+rafsi:
+- dun
+- du'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is equal/congruent to/as much as x2 in property/dimension/quantity
+      x3.
+    notes:
+    - Same in quantity/quality (not necessarily in identity); 'analogy' may be expressed
+      as the equivalence of two properties of similarity (ka x1 simsa x2) and (ka
+      x3 simsa x4).  See also cmavo list {du'i}, {satci}, {frica}, {simsa}, {mintu}.
+    glosses:
+    - equal
+  jbo:
+    place structure: x1 e x2 ckaji x3 ije lo ni x1 ckaji x3 cu du lo ni x2 ckaji x3
+      i x1 to'e frica x2 boi x3
+    notes:
+    - '{du}, {mintu}, {frica}, {drata}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist gleich/kongruent mit/soviel wie x2 in Eigenschaft/Dimension/Menge
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - gleich
+  es:
+    place structure: x1 es igual a x2 en propiedad/dimensión/cantidad x3
+    notes:
+    - Ver también {frica},  {simsa},  {mintu}.
+    glosses:
+    - igual
+  ru:
+    place structure: x1 равен/равновелик/соразмерен/эквивалентен/конгруэнтен x2 (чему)
+      по свойству/измерению/величине x3
+    notes:
+    - 'Одинаковое количество/качество (идентичность не обязательна); антоним: {frica};
+      понятие «аналогия» м.б. выражено как эквивалентность двух свойств подобия ({ka}
+      x1 {simsa} x2) и ({ka} x3 {simsa} x4) {du''i}, {satci} (точный [об измерении]),
+      {frica} (отличаться), {simsa} (похожий), {mintu} (идентичный)'
+    glosses:
+    - эквивалентный
+  en-simple:
+    place structure: x1 is equal to x2 in property, dimension, or quantity x3
+    notes:
+    - No notes.
+    glosses:
+    - an equal
+    - x2=an equality reference
+    - x3=an equality property
+  eo:
+    place structure: x1 estas egala al/kongrua kun/tiom kiel x2 en eco/dimensio/kvanto
+      x3
+    notes:
+    - Sama en kvanto/kvalito (ne nepre en identeco); 'analogion' oni povas esprimi
+      kiel la ekvivalenco de du similecoj (ka x1 simsa x2) kaj (ka x3 simsa x4).  Vidu
+      ankaŭ cmavo {du'i}, {satci}, {frica}, {simsa}, {mintu}.
+    glosses:
+    - egali
+  hu:
+    place structure: x1 egyenlő/kongruens/egyezik x2-vel, x3 tulajdonságban/méretben/mennyiségben
+    notes:
+    - '(Lásd még: {satci}, {frica}, {simsa}, {mintu})'
+    glosses:
+    - egyenlő
+  ja:
+    place structure: x1 は x2 と x3 （性質）に関して同等
+    notes:
+    - 特に性質／数量における等しさを表し、アイデンティティの同一は含意されない。同一性は「du」。 ・大意： 同等 ・読み方： ドゥンルィ  ・関連語： {du'i},
+      {satci}, {frica}, {simsa}, {mintu}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är lika/kongruent med/lika mycket som x2 i egenskap/kvantitet/dimension
+      x3.
+    notes:
+    - Samma i kvantitet/kvalitet (inte nödvändigtvis i identitet); 'analogi' kan uttryckas
+      som ekvivalensen av två likartade  (ka x1 simsa x2) och (ka x3 simsa x4).
+    glosses:
+    - lika (i kvantitet/kvalitet)
+  zh:
+    place structure: x1与x2是相同的/相等的/等量的，在性质/尺寸/数量x3方面
+    notes:
+    - 在数量或性质上相同，并不需要两者具有同一性；参见：{du'i}, {satci}, {frica}, {simsa}, {mintu}.
+    glosses:
+    - No glosses.

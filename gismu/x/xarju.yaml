@@ -1,7 +1,67 @@
-Word: xarju
-Rafsi: xaj
-Definition: x1 is a pig/hog/swine/[boar] [pork/ham/bacon-producer] of species/breed
-  x2.
-Notes: Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}).  See
-  also {mabru}, {cange}.
-Examples: None
+word: xarju
+rafsi:
+- xaj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pig/hog/swine/[boar] [pork/ham/bacon-producer] of species/breed
+      x2.
+    notes:
+    - Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}).  See
+      also {mabru}, {cange}.
+    glosses:
+    - pig
+  de:
+    place structure: x1 ist ein Schwein/eine Sau/[ein Eber] von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Schwein
+  es:
+    place structure: x1 es un cerdo/chancho/puerco/porcino/marrano/cochino de especie/raza
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - cerdo
+  ru:
+    place structure: x1 — свинья/кабан/вепрь вида/разновидности x2
+    notes:
+    - 'Свинья, свиноматка: {fetxarju}, хряк, кабан: {nakyxarju}, поросенок: {citxarju};
+      свинина: {xajre''u} {mabru} (зверь), {cange} (ферма)'
+    glosses:
+    - свинья
+    - x2=вид свиньи
+  en-simple:
+    place structure: x1 is a pig of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a pig
+    - x2=a species of pig
+  eo:
+    place structure: x1 estas porko/apro de speco/raso x2
+    notes:
+    - Porkino (= {fetxarju}), virporko (= {nakyxarju}), porkaĵo (= {xajre'u}), porkido
+      (= {citxarju}).  Vidu ankaŭ {mabru}, {cange}.
+    glosses:
+    - porko
+  hu:
+    place structure: x1 egy disznó/sertés [Suidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {mabru}, {cange})'
+    glosses:
+    - disznó
+  ja:
+    place structure: x1 は x2 （種類）のイノシシ科動物（ブタ／イノシシ等）
+    notes:
+    - 「ベーコン」も。 ・大意： 豚 ・読み方： クァルジュ  ・関連語： {mabru}, {cange}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是猪，属于品种/种类x2
+    notes:
+    - 母猪={fetxarju}；公猪= {nakyxarju}；猪肉= {xajre'u}；仔猪/小猪= {citxarju}；参见 {mabru}, {cange}.
+    glosses:
+    - No glosses.

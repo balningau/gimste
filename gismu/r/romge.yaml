@@ -1,6 +1,67 @@
-Word: romge
-Rafsi: rog
-Definition: x1 is a highly reflective/polished non-tarnishing metallic surface, of
-  metal x2 [often chromium].
-Notes: See also {jinme}.
-Examples: None
+word: romge
+rafsi:
+- rog
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a highly reflective/polished non-tarnishing metallic surface,
+      of metal x2 [often chromium].
+    notes:
+    - See also {jinme}.
+    glosses:
+    - chrome
+  de:
+    place structure: x1 ist eine stark reflektierende/polierte, nicht-angelaufene
+      Metalloberfläche von Metall x2 [meist Chrom]
+    notes:
+    - No notes.
+    glosses:
+    - Chrom
+  es:
+    place structure: x1 es una chapa/superficie metálica pulida/lustrosa de metal
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - chapa
+  ru:
+    place structure: x1 — зеркальная/полированная неокисляемая металлическая поверхность
+      из металла x2 (чаще всего, хрома)
+    notes:
+    - '{jinme} (металл)'
+    glosses:
+    - хром
+  en-simple:
+    place structure: x1 is a highly reflective metallic surface of metal x2
+    notes:
+    - No notes.
+    glosses:
+    - a reflective metal
+    - x2=a metal that is reflective
+  eo:
+    place structure: x1 estas ege reflektema/polurita ne-malbriliga metala surfaco,
+      de metalo x2 [ofte kromo]
+    notes:
+    - Vidu ankaŭ {jinme}.
+    glosses:
+    - kromo [elemento]
+  hu:
+    place structure: x1 egy igen tükröző/sima, nem fakuló fémfelület x2 fémből [többnyire
+      krómból]
+    notes:
+    - '(Lásd még: {jinme})'
+    glosses:
+    - krómozás
+  ja:
+    place structure: x1 は x2 （金属）のクロムめっき
+    notes:
+    - ・大意： クロム ・読み方： ロムゲ  ・関連語： {jinme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是高反射的/锃亮的金属表面，属于金属x2（通常指铬）
+    notes:
+    - 参见 {jinme}.
+    glosses:
+    - No glosses.

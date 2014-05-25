@@ -1,8 +1,72 @@
-Word: stagi
-Rafsi: ''
-Definition: x1 is the edible x2 portion of plant x3; x1 is a vegetable.
-Notes: Note that fruits and nuts are also vegetables; generally this word will be
-  used for either the general category of edible plants, or for non-fruit vegetables
-  (= {nalrutstagi}).  See also {grute}, {kobli}, {narge}, {sluni}, {spati}, {sunga},
-  {tamca}.
-Examples: None
+word: stagi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the edible x2 portion of plant x3; x1 is a vegetable.
+    notes:
+    - Note that fruits and nuts are also vegetables; generally this word will be used
+      for either the general category of edible plants, or for non-fruit vegetables
+      (= {nalrutstagi}).  See also {grute}, {kobli}, {narge}, {sluni}, {spati}, {sunga},
+      {tamca}.
+    glosses:
+    - vegetable
+  de:
+    place structure: x1 ist der essbare Teil x2 von Pflanze x3; x1 ist Obst/Gemüse
+    notes:
+    - No notes.
+    glosses:
+    - Gemüse
+  es:
+    place structure: x1 es un vegetal/parte comestible x2 de planta x3
+    notes:
+    - No notes.
+    glosses:
+    - vegetal
+  ru:
+    place structure: x1 — съедобная часть x2 растения x3; x1 — овощ
+    notes:
+    - 'определение покрывает также фрукты и орехи; может относиться как к съедобным
+      растениям вообще, так и к неплодовым овощам: {nalrutstagi} {grute} (плод [фрукт]),
+      {kobli} (капуста), {narge} (орех [плод]), {sluni} (лук [растение]), {spati}
+      (растение), {sunga} (чеснок), {tamca} (томат)'
+    glosses:
+    - x1=овощ
+  en-simple:
+    place structure: x1 is the vegetable or edible portion x2 of plant x3
+    notes:
+    - No notes.
+    glosses:
+    - an edible plant
+    - x2=an edible portion of a plant
+    - x3=a plant with an edible portion
+  eo:
+    place structure: x1 estas manĝebla porcio x2 de planto x3; x1 estas legomo
+    notes:
+    - Rimarku ke ankaŭ fruktoj kaj nuksoj estas legomoj; ĝenerale ĉi tiu vorto uziĝos
+      jen por la ĝenerala kategorio de manĝeblaj plantoj, jen por nefruktaj legomoj
+      (= {nalrutstagi}).  Vidu ankaŭ {grute}, kobli,narge,sluni,{spati}, sunga,{tamca}.
+    glosses:
+    - legomo
+  hu:
+    place structure: x1 egy ehető x2 része x3 növénynek
+    notes:
+    - '(Lásd még: {grute}, {kobli}, {narge}, {sluni}, {spati}, {sunga}, {tamca})'
+    glosses:
+    - zöldség
+  ja:
+    place structure: x1 は x2 （種類）の食用野菜
+    notes:
+    - 厳密には果物と堅果も含まれる。 ・大意： 野菜 ・読み方： スタギ  ・関連語： {grute}, {kobli}, {narge}, {sluni},
+      {spati}, {sunga}, {tamca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是可食用的部分x2，属于植物x3；x1是蔬菜
+    notes:
+    - 包括水果和坚果等几乎所有可食用的植物；（非水果）蔬菜={nalrutstagi}；参见 {grute}, {kobli}, {narge}, {sluni},
+      {spati}, {sunga}, {tamca}.
+    glosses:
+    - No glosses.

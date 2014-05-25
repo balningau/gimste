@@ -1,5 +1,72 @@
-Word: jetce
-Rafsi: je'e
-Definition: x1 is a jet [expelled stream] of material x2 expelled from x3.
-Notes: See also {sputu}, {vamtu}.
-Examples: None
+word: jetce
+rafsi:
+- je'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a jet [expelled stream] of material x2 expelled from x3.
+    notes:
+    - See also {sputu}, {vamtu}.
+    glosses:
+    - jet
+  de:
+    place structure: x1 ist ein Strahl [ausgestoßener Jet-Stream] aus Material x2,
+      ausgestoßen von x3
+    notes:
+    - No notes.
+    glosses:
+    - Strahl
+  es:
+    place structure: x1 es un chorro de material x2 expelido de x3
+    notes:
+    - Ver también {sputu},  {vamtu}.
+    glosses:
+    - chorro
+  ru:
+    place structure: x1 — струя материала x2, испускаемая из x3
+    notes:
+    - '{sputu} (плевать), {vamtu} (блевать)'
+    glosses:
+    - x1=струя
+  en-simple:
+    place structure: x1 is a jet of material x2 expelled from x3
+    notes:
+    - No notes.
+    glosses:
+    - a jet
+    - x2=a material of a jet
+    - x3=a jet source
+  eo:
+    place structure: x1 estas ŝprucaĵo/ĵetaĵo [elpelita fluo] el materialo x2 elfluanta
+      el x3
+    notes:
+    - Vidu ankaŭ {sputu}, {vamtu}.
+    glosses:
+    - ŝprucaĵo
+  hu:
+    place structure: x1 egy sugár [kilövellés/kiáramlás] x2 anyagból, x3 forrásból
+    notes:
+    - '(Lásd még: {sputu}, {vamtu})'
+    glosses:
+    - sugár (heves folyadék- vagy gázáramlás)
+  ja:
+    place structure: x1 は x2 （物質）・ x3 （噴射機構）のジェット／噴出／噴射
+    notes:
+    - ・大意： ジェット ・読み方： ジェチェ ・語呂合わせ： jet ・関連語： {sputu}, {vamtu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en jetstråle [utskjuten ström] av material x2 som strömmar
+      ut från x3.
+    notes:
+    - No notes.
+    glosses:
+    - jet-
+    - jetstråle
+  zh:
+    place structure: x1是由材料/物质x2构成的射束/喷射流，由x3喷出
+    notes:
+    - 参见 {sputu}, {vamtu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,66 @@
-Word: xadba
-Rafsi: xab
-Definition: x1 is exactly/approximately half/semi-/demi-/hemi- of x2 by standard x3.
-Notes: See also {mulno}, {pagbu}.
-Examples: None
+word: xadba
+rafsi:
+- xab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is exactly/approximately half/semi-/demi-/hemi- of x2 by standard
+      x3.
+    notes:
+    - See also {mulno}, {pagbu}.
+    glosses:
+    - half
+  de:
+    place structure: x1 ist die genaue/ungefähr die Hälfte von x2 gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Hälfte
+  es:
+    place structure: x1 es la mitad de/semi- x2 según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - mitad
+  ru:
+    place structure: x1 — половина (в точности или приблизительно) x2 (чего) по критерию/стандарту
+      x3
+    notes:
+    - '{mulno} (законченный), {pagbu} (часть)'
+    glosses:
+    - половина
+  en-simple:
+    place structure: x1 is half of x2 by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - a half
+    - x2=something halved
+    - x3=a standard for half
+  eo:
+    place structure: x1 estas precize/proksimume duono de x2 laŭ normo x3
+    notes:
+    - Vidu ankaŭ {mulno}, {pagbu}.
+    glosses:
+    - duono
+  hu:
+    place structure: x1 (megközelítőleg) a fele/egykettede x2-nek, x3 méretében/tulajdonságában/szempontból/mérce
+      szerint
+    notes:
+    - '(Lásd még: {mulno}, {pagbu})'
+    glosses:
+    - fél (½)
+  ja:
+    place structure: x1 は x2 の、 x3 （基準）での半分
+    notes:
+    - きっちり／だいたいのどちらでも。 ・大意： 半分 ・読み方： クァドバ  ・語呂合わせ： xanbun 半分, nakaba 半ば ・関連語： {mulno},
+      {pagbu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的一半，基于标准x3
+    notes:
+    - 参见 {mulno}, {pagbu}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,71 @@
-Word: cidro
-Rafsi: dro
-Definition: 'x1 is a quantity of/contains/is made of hydrogen (H); [metaphor: light,
-  flammable].'
-Notes: See also {gapci}, {xukmi}.
-Examples: None
+word: cidro
+rafsi:
+- dro
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of hydrogen (H); [metaphor:
+      light, flammable].'
+    notes:
+    - See also {gapci}, {xukmi}.
+    glosses:
+    - hydrogen
+  de:
+    place structure: 'x1 ist eine gewisse Menge/enthält/besteht aus Wasserstoff (H);
+      [im übertragenen Sinne: leicht, entzündlich]'
+    notes:
+    - No notes.
+    glosses:
+    - Wasserstoff
+  es:
+    place structure: x1 es una cantidad de hidrógeno (H)
+    notes:
+    - No notes.
+    glosses:
+    - hidrógeno
+  ru:
+    place structure: x1 — водород (H); x1 содержит водород
+    notes:
+    - 'Метафора: легкий, воспламеняемый {gapci} (газ), {xukmi} (доза [химического
+      вещества])'
+    glosses:
+    - водород
+  en-simple:
+    place structure: x1 is a quantity of hydrogen
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of hydrogen
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el hidrogeno (H); [metafore:
+      malpeza, flamigebla]'
+    notes:
+    - Vidu ankaŭ {gapci}, {xukmi}.
+    glosses:
+    - hidrogeno
+  hu:
+    place structure: x1 bizonyos mennyiségű hidrogén (-t tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {gapci}, {xukmi})'
+    glosses:
+    - hidrogén
+  ja:
+    place structure: x1 は水素（H）
+    notes:
+    - ・大意： 水素 ・読み方： シドロ  ・語呂合わせ： ヒドロ ・関連語： {gapci}, {xukmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet/gjord av/innehåller väte (H).
+    notes:
+    - No notes.
+    glosses:
+    - H (grundämne väte)
+    - väte (grundämne)
+  zh:
+    place structure: x1是氢/由氢构成[H]
+    notes:
+    - 参见 {gapci}, {xukmi}.
+    glosses:
+    - No glosses.

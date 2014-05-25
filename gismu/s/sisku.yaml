@@ -1,7 +1,73 @@
-Word: sisku
-Rafsi: sis
-Definition: x1 seeks/searches/looks for property x2 among set x3 (complete specification
-  of set).
-Notes: If searching for an object or an event, use tu'a in $x_2$.  See also {cirko},
-  {kalte}, {kavbu}, {kucli}, {rivbi}, {manci}, {facki}.
-Examples: None
+word: sisku
+rafsi:
+- sis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 seeks/searches/looks for property x2 among set x3 (complete
+      specification of set).
+    notes:
+    - If searching for an object or an event, use tu'a in x2.  See also {cirko}, {kalte},
+      {kavbu}, {kucli}, {rivbi}, {manci}, {facki}.
+    glosses:
+    - seek
+  de:
+    place structure: x1 sucht/hält Ausschau nach Eigenschaft x2 in Menge x3 (vollständige
+      Angabe der Menge)
+    notes:
+    - No notes.
+    glosses:
+    - suchen
+  es:
+    place structure: x1 busca x2 en/entre x3
+    notes:
+    - Ver también {mipri}.
+    glosses:
+    - buscar
+  ru:
+    place structure: x1 ищет/разыскивает свойство x2 среди элементов множества x3
+      (полное описание множества)
+    notes:
+    - Если речь идет о поиске объекта или события, использовать {tu'a} x2 {cirko}
+      (терять), {kalte} (охотиться), {kavbu} (ловить), {kucli} (любопытный [испытывающий
+      любопытство]), {rivbi} (избегать [участи]), {manci} (изумленный), {facki} (открывать
+      [узнавать, находить])
+    glosses:
+    - искать
+    - x1=ищущий
+  en-simple:
+    place structure: x1 searches for property x2 among x3
+    notes:
+    - No notes.
+    glosses:
+    - a searcher
+    - x2=a property searched for
+    - x3=a group within which something is searched for
+  eo:
+    place structure: x1 serĉas (eco) x2-on inter aro x3 (kompleta specifado de aro)
+    notes:
+    - Se temas pri serĉo de objekto aŭ okazo, uzu je tu'a en x2.  Vidu ankaŭ {cirko},
+      {kalte}, {kavbu}, {kucli}, {rivbi}, {manci}, {facki}.
+    glosses:
+    - serĉi
+  hu:
+    place structure: x1 keresi egy/az x2 tulajdonsággal rendelkező elemet x3 halmazban
+    notes:
+    - '(Lásd még: {cirko}, {kalte}, {kavbu}, {kucli}, {rivbi}, {manci}, {facki})'
+    glosses:
+    - keres
+  ja:
+    place structure: x1 は x2 （性質）を x3 （集合）の中に探し求める／模索する
+    notes:
+    - x2 が物なら tu'a で冠する。 ・大意： 探す ・読み方： スィスク  ・語呂合わせ： sagasu ・関連語： {cirko}, {kalte},
+      {kavbu}, {kucli}, {rivbi}, {manci}, {facki}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1寻找/搜寻x2，在集合x3（完整集合）之中
+    notes:
+    - 如果寻找的是物体或事件，在x2位使用tu'a；参见 {cirko}, {kalte}, {kavbu}, {kucli}, {rivbi}, {manci},
+      {facki}.
+    glosses:
+    - No glosses.

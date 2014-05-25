@@ -1,7 +1,80 @@
-Word: citno
-Rafsi: cit, ci'o
-Definition: x1 is young/youthful [relatively short in elapsed duration] by standard
-  x2.
-Notes: Also age (= {nilnalci'o}); (adjective:) $x_1$ is junior.  See also {laldo},
-  {cnino}, {slabu}, {verba}.
-Examples: None
+word: citno
+rafsi:
+- cit
+- ci'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is young/youthful [relatively short in elapsed duration] by
+      standard x2.
+    notes:
+    - Also age (= {nilnalci'o}); (adjective:) x1 is junior.  See also {laldo}, {cnino},
+      {slabu}, {verba}.
+    glosses:
+    - young
+  de:
+    place structure: x1 ist jung/jugendlich [relativ kurz in abgelaufener Zeit] gemäß
+      Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - jung
+  es:
+    place structure: x1 es joven según estándar x2
+    notes:
+    - Ver también {cnino},  {slabu},  {verba}.
+    glosses:
+    - joven
+  ru:
+    place structure: x1 — молодой/юный/новый/недавний (продлившийся пока сравнительно
+      немного) по стандарту x2
+    notes:
+    - 'Возраст: {nilnalci''o} {cnino} (новый), {slabu} (старый [не новый]), {verba}
+      (ребенок)'
+    glosses:
+    - молодой
+  en-simple:
+    place structure: x1 is young in that it has x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something young
+    - x2=a standard of youth
+  eo:
+    place structure: x1 estas juna [relative mallonga en forpasita daŭro] laŭ normo
+      x2
+    notes:
+    - 'Ankaŭ: aĝo (= {nilnalci''o}).  Vidu ankaŭ {cnino}, {slabu}, {verba}.'
+    glosses:
+    - juna
+  hu:
+    place structure: x1 fiatal(korú)/új [viszonylag rövid ideje létező] x2 mérce szerint
+    notes:
+    - '(Lásd még: {cnino}, {slabu}, {verba})'
+    glosses:
+    - fiatal
+  ja:
+    place structure: x1 は x2 （基準）において若い
+    notes:
+    - 時間的に浅いこと。 ・大意： 若い ・読み方： シトノ  ・語呂合わせ： ＜嫉妬に呑まれる＞ ・関連語： {cnino}, {slabu}, {verba}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ung/ungdomlig enligt standard x2.
+    notes:
+    - '[av relativt ringa ålder].'
+    - fast visst kan en vara av relativt hög ålder och ändå betraktas som ungdomlig,
+      så om det är biologisk, psykologisk eller social ålder som avses beror nog på
+      x2.
+    glosses:
+    - ung
+    - ungdomlig
+    - x1=ungdom
+    - x2=ungdomsstandard
+  zh:
+    place structure: x1是年轻的/相对时间短的，依据标准x2
+    notes:
+    - 年龄= {nilnalci'o}；参见 {laldo}, {cnino}, {slabu}, {verba}.
+    glosses:
+    - No glosses.

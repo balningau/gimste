@@ -1,6 +1,77 @@
-Word: rorci
-Rafsi: ror
-Definition: x1 engenders/procreates/begets x2 with coparent x3.
-Notes: See also {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi},
-  {bersa}, {ferti}, {jbena}, {sovda}.
-Examples: None
+word: rorci
+rafsi:
+- ror
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 engenders/procreates/begets x2 with coparent x3.
+    notes:
+    - See also {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi}, {bersa},
+      {ferti}, {jbena}, {sovda}.
+    glosses:
+    - procreate
+  jbo:
+    place structure: x1 kansa x3 lo nu x2 co'a panzi x1 joi x3
+    notes:
+    - No notes.
+    glosses:
+    - rorci
+  de:
+    place structure: x1 zeugt x2 mit x3 (zweiter Elternteil)
+    notes:
+    - No notes.
+    glosses:
+    - zeugen
+  es:
+    place structure: x1 engendra/procrea x2 con coprogenitor x3
+    notes:
+    - Ver también {rirni},  se {panzi},  {mamta},  {patfu},  {tarbi}.
+    glosses:
+    - procrear
+  ru:
+    place structure: x1 порождает/производит потомство x2 с партнером-родителем x3
+    notes:
+    - '{grute} (плод [фрукт]), {gutra} (матка [анатомия]), {rirni} (родитель), {panzi}
+      (потомок), {mamta} (мать), {patfu} (отец), {tarbi} (эмбрион), {bersa} (сын),
+      {ferti} (плодородный), {jbena} (рожденный), {sovda} (яйцо)'
+    glosses:
+    - порождать
+    - x1=порождающий
+    - x2=потомство
+  en-simple:
+    place structure: x1 procreates x2 with coparent x3
+    notes:
+    - No notes.
+    glosses:
+    - a procreater
+    - x2=something procreated
+    - x3=a co-procreater
+  eo:
+    place structure: x1 generas/naskigas x2 kun x3
+    notes:
+    - Vidu ankaŭ {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi},
+      {bersa}, {ferti}, {jbena}, {sovda}.
+    glosses:
+    - generi
+  hu:
+    place structure: x1 nemzi/megszüli x2-t, x3 szülővel
+    notes:
+    - '(Lásd még: {grute}, {gutra}, {rirni}, {panzi}, {mamta}, {patfu}, {tarbi}, {bersa},
+      {ferti}, {jbena}, {sovda})'
+    glosses:
+    - nemz/szül
+  ja:
+    place structure: x1 は x2 （子）を x3 との間にもうける
+    notes:
+    - ・大意： 生殖 ・読み方： ロルシ  ・関連語： {grute}, {gutra}, {rirni}, {se} {panzi}, {mamta}, {patfu},
+      {tarbi}, {bersa}, {ferti}, {jbena}, {sovda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x3共同生出/生育x2 （x1与x3不存在特定的性别顺序）
+    notes:
+    - 参见 {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi}, {bersa},
+      {ferti}, {jbena}, {sovda}.
+    glosses:
+    - No glosses.

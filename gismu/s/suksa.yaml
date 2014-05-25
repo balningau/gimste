@@ -1,6 +1,69 @@
-Word: suksa
-Rafsi: suk
-Definition: x1 (event/state) is sudden/sharply changes at stage/point x2 in process/property/function
-  x3.
-Notes: Also abrupt, discontinuous.  See also {spaji}, {vitci}, {vlile}.
-Examples: None
+word: suksa
+rafsi:
+- suk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) is sudden/sharply changes at stage/point x2
+      in process/property/function x3.
+    notes:
+    - Also abrupt, discontinuous.  See also {spaji}, {vitci}, {vlile}.
+    glosses:
+    - sudden
+  de:
+    place structure: x1 (Ereignis/Zustand) verändert sich plötzlich in Punkt/Phase
+      x2 von/in Prozess/Eigenschaft/Funktion x3
+    notes:
+    - No notes.
+    glosses:
+    - plötzlich
+  es:
+    place structure: x1 es súbito/abrupto/repentino/cambia de repente en punto/estadio
+      x2 en proceso/propiedad/función x3 (discontinuidad)
+    notes:
+    - No notes.
+    glosses:
+    - súbito
+  ru:
+    place structure: x1 (событие/состояние) внезапно/резко/вдруг изменяется на этапе/в
+      точке x2, в отношении процесса/свойства/функции x3
+    notes:
+    - 'Также: внезапный, скачкообразно {spaji} (неожиданность), {vitci} (прерывистый),
+      {vlile} (яростный)'
+    glosses:
+    - x1=внезапный
+  en-simple:
+    place structure: x1 is sudden at stage x2 in process x3
+    notes:
+    - No notes.
+    glosses:
+    - something sudden
+    - x2=a stage of suddenness
+    - x3=a process with something sudden
+  eo:
+    place structure: x1 (okazo/stato) estas subita/abrupte ŝanĝiĝas je etapo/punkto
+      x2 en procedo/eco/funkcio x3
+    notes:
+    - 'Ankaŭ: abrupta, nekontinua.  Vidu ankaŭ {spaji}, {vitci}, {vlile}.'
+    glosses:
+    - subita
+  hu:
+    place structure: x1 esemény/állapot hirtelen megváltozik x2 ponton/stádiumban,
+      x3 tulajdonságban/folyamatban/funkcióban
+    notes:
+    - '(Lásd még: {spaji}, {vitci}, {vlile})'
+    glosses:
+    - hirtelen
+  ja:
+    place structure: x1 （事／状態）は x2 （時点）において x3 （性質）に関して突然／唐突／急／いきなり
+    notes:
+    - 「不意」「無骨」も。 ・大意： 突然 ・読み方： スクサ  ・語呂合わせ： 突然出す草 ・関連語： {spaji}, {vitci}, {vlile}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）是突然的/急剧改变，在阶段/位置点x2，在进程/性质/用途x3上
+    notes:
+    - 也指：突发的/不连续的；参见 {spaji}, {vitci}, {vlile}.
+    glosses:
+    - No glosses.

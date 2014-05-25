@@ -1,6 +1,75 @@
-Word: sanga
-Rafsi: sag, sa'a
-Definition: x1 sings/chants x2 [song/hymn/melody/melodic sounds] to audience x3.
-Notes: Melody (= {sagzgi}, {ralsagzgi}), harmony (= {saxsagzgi}), harmonize/sing harmony
-  (= {saxsa'a}), song (= {selsa'a}).  See also {pemci}, {rimni}, {rilti}, {siclu}.
-Examples: None
+word: sanga
+rafsi:
+- sag
+- sa'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sings/chants x2 [song/hymn/melody/melodic sounds] to audience
+      x3.
+    notes:
+    - Melody (= {sagzgi}, {ralsagzgi}), harmony (= {saxsagzgi}), harmonize/sing harmony
+      (= {saxsa'a}), song (= {selsa'a}).  See also {pemci}, {rimni}, {rilti}, {siclu}.
+    glosses:
+    - sing
+  de:
+    place structure: x1 singt x2 [Lied/Hymne/Melodie/wohlklingende Laute] für Publikum
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - singen
+  es:
+    place structure: x1 canta/entona canto/canción/himno/cántico x2 ante audiencia
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cantar
+  ru:
+    place structure: x1 поет x2 (песню/гимн/мелодию) для аудитории x3
+    notes:
+    - 'Мелодия: {sagzgi}, {ralsagzgi}, гармония: {saxsagzgi}, гармонизировать/петь
+      гармонично: {saxsa''a}, песня: {selsa''a} {pemci} (стихотворение), {rimni} (рифма),
+      {rilti} (ритм), {siclu} (свистеть)'
+    glosses:
+    - петь
+    - x1=певец
+    - x2=песня
+  en-simple:
+    place structure: x1 sings x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a singer
+    - x2=something sung
+    - x3=an audience of a song
+  eo:
+    place structure: x1 kantas x2-on [kanto/himno/melodio/melodiaj sonoj] antaŭ publiko
+      x3
+    notes:
+    - Melodio (= {sagzgi}, {ralsagzgi}), harmonio (= {saxsagzgi}), harmonii/kanti
+      harmonion (= {saxsa'a}), kanto (= {selsa'a}).  Vidu ankaŭ {pemci}, {rimni},
+      {rilti}, {siclu}.
+    glosses:
+    - kanti
+  hu:
+    place structure: x1 énekli x2 dalt/dallamot/melódiát x3 közönségnek
+    notes:
+    - '(Lásd még: {pemci}, {rimni}, {rilti}, {siclu})'
+    glosses:
+    - énekel
+  ja:
+    place structure: x1 は x2 （音楽）を x3 （聴衆）に歌う／詠唱する
+    notes:
+    - ・大意： 歌う ・読み方： サンガ  ・語呂合わせ： Aさんが歌う ・関連語： {pemci}, {rimni}, {rilti}, {siclu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1歌唱x2（音乐/歌曲/声音）给听者x3
+    notes:
+    - 歌曲/旋律/乐曲= {sagzgi}/{ralsagzgi}；和声= {saxsagzgi}； 和声= {saxsa'a}；歌曲={selsa'a}；
+      参见 {pemci}, {rimni}, {rilti}, {siclu}.
+    glosses:
+    - No glosses.

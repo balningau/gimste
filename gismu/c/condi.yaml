@@ -1,6 +1,91 @@
-Word: condi
-Rafsi: con, cno, coi
-Definition: x1 is deep in extent in direction/property x2 away from reference point
-  x3 by standard x4.
-Notes: See also {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli}.
-Examples: None
+word: condi
+rafsi:
+- con
+- cno
+- coi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is deep in extent in direction/property x2 away from reference
+      point x3 by standard x4.
+    notes:
+    - See also {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli}.
+    glosses:
+    - deep
+  jbo:
+    place structure: x1 barda x2 noi farna x1 boi x3 ku'o x4
+    notes:
+    - No notes.
+    glosses:
+    - condi
+  de:
+    place structure: x1 ist tief in Richtung/Eigenschaft x2 von Referenzpunkt x3 her
+      gemäß Standard x4
+    notes:
+    - No notes.
+    glosses:
+    - tief
+  es:
+    place structure: x1 es hondo/profundo en dirección x2 desde punto de referencia
+      x3 según estándar x4
+    notes:
+    - Ver también {caxno},  {clani},  {ganra},  {rotsu}.
+    glosses:
+    - hondo
+  ru:
+    place structure: x1 — глубокий в направлении/свойстве x2 от точки отсчета x3 относительно
+      стандарта x4
+    notes:
+    - '{clani} (длинный), {caxno} (мелкий [неглубокий]), {bargu} (арка), {ganra} (широкий),
+      {rotsu} (толстый), {barda} (большой), {gutci} (измеряться [в футах/дюймах и
+      пр.]), {minli} (миля)'
+    glosses:
+    - глубокий
+  en-simple:
+    place structure: x1 is deep in property x2 away from x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something deep
+    - x2=a property of depth
+    - x3=a reference point of depth
+    - x4=a standards of depth
+  eo:
+    place structure: x1 estas profunda laŭ direkto/eco x2 disde referenca punkto x3
+      laŭ normo x4
+    notes:
+    - Vidu ankaŭ {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli}.
+    glosses:
+    - profunda
+  hu:
+    place structure: x1 mély x2 irányban/méretében, x3 viszonyítási pontból, x4 mérce
+      szerint
+    notes:
+    - '(Lásd még: {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli})'
+    glosses:
+    - mély
+  ja:
+    place structure: x1 は x2 （性質／方向）に関して x3 （照合枠）・ x4 （標準）において深い
+    notes:
+    - ・大意： 深い ・読み方： ションディ  ・関連語： {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda},
+      {gutci}, {minli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är djup i utsträckning i riktning/dimension x2 i riktning
+      från referenspunkt x3 enligt standard x4.
+    notes:
+    - No notes.
+    glosses:
+    - djup (fysisk utsträckning)
+    - x1=djup (substantiv)
+    - x2=djupdimension
+    - x3=djupreferenspunkt
+    - x4=djupstandard
+  zh:
+    place structure: x1是深的，在长度/方向x2上，远离参考点x3，基于标准x4
+    notes:
+    - 参见 {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli}.
+    glosses:
+    - No glosses.

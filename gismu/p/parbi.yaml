@@ -1,7 +1,75 @@
-Word: parbi
-Rafsi: pab
-Definition: x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3
-  (quantity), [x2:x3].
-Notes: Also $x_1$ fraction/proportion/quotient; $x_2$ dividend/numerator; $x_3$ divisor/denominator.  See
-  also {frinu}, {dilcu}, {mekso}.
-Examples: None
+word: parbi
+rafsi:
+- pab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect
+      to x3 (quantity), [x2:x3].
+    notes:
+    - Also x1 fraction/proportion/quotient; x2 dividend/numerator; x3 divisor/denominator.  See
+      also {frinu}, {dilcu}, {mekso}.
+    glosses:
+    - rate (amount measured in relation to another amount)
+  jbo:
+    place structure: x1 namcu barda te ckini x2 boi x3 .i x1 nu'a pa'i x2 boi x3
+    notes:
+    - '{namcu} {barda} {ckini}; {pa''i}'
+    glosses:
+    - parbi
+  de:
+    place structure: x1 (me'o, Bruch) ist ein Verhältnis/Anteil/eine Rate von x2 (Menge)
+      in Bezug auf x3 (Menge) [x2:x3]
+    notes:
+    - No notes.
+    glosses:
+    - Verhältnis
+  es:
+    place structure: x1 es la razón/proporción de x2 con respecto a x3
+    notes:
+    - Ver también {frinu}.
+    glosses:
+    - proporción
+  ru:
+    place structure: x1 ({me'o}/дробь) есть пропорция/доля x2 (количество) по отношению
+      к x3 (количество); «x1=x2/x3»
+    notes:
+    - 'Также: x1 — отношение/пропорция/дробь: x2 — делимое/числитель, x3 — делитель/знаменатель
+      {frinu} (дробь), {dilcu} (частное [от деления]), {mekso} (формула)'
+    glosses:
+    - пропорция
+  en-simple:
+    place structure: x1 is a ratio of x2 with respect to quantity x3
+    notes:
+    - No notes.
+    glosses:
+    - a ratio
+    - x2=something with a ratio
+    - x3=a reference of a ratio
+  eo:
+    place structure: x1 (me'o, frakcio) estas proporcio de x2 (kvanto) rilate al x3
+      (kvanto), [x2:x3]
+    notes:
+    - 'Ankaŭ: x1 frakcio/proporcio/kvociento; x2 dividato/numeratoro; x3 dividanto/denominatoro.  Vidu
+      ankaŭ {frinu}, {dilcu}, {mekso}.'
+    glosses:
+    - proporcio
+  hu:
+    place structure: x1 tört [me’o] az aránya x2 számlálónak és x3 nevezőnek
+    notes:
+    - '(Lásd még: {frinu}, {dilcu}, {mekso})'
+    glosses:
+    - arány
+  ja:
+    place structure: x1 は x2 （数量／被除数）の、 x3 （数量／除数）にたいする比／比率
+    notes:
+    - ・大意： 比率 ・読み方： パルビ  ・関連語： {frinu}, {dilcu}, {mekso}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（me'o，分数，小数）是数量x2比数量x3的比率/比值 [x2:x3]
+    notes:
+    - x1是比例的/分数的； x2分子/被除数；x3分母/除数；参见 {frinu}, {dilcu}, {mekso}.
+    glosses:
+    - No glosses.

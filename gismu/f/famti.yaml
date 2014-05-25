@@ -1,6 +1,83 @@
-Word: famti
-Rafsi: ''
-Definition: x1 is an aunt/uncle of x2 by bond/tie x3; x1 is an associated member of
-  x2's parent's generation.
-Notes: See also {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
-Examples: None
+word: famti
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an aunt/uncle of x2 by bond/tie x3; x1 is an associated
+      member of x2's parent's generation.
+    notes:
+    - See also {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
+    glosses:
+    - aunt or uncle
+  jbo:
+    place structure: x1 dunli x2 lo ka makau lanzu ce'u x3 kei gi'e lidne x2 lo ka
+      ce'u cmima lo xokaumoi rorlei
+    notes:
+    - No notes.
+    glosses:
+    - famti
+  de:
+    place structure: x1 ist eine Tante/ein Onkel von x2 mit/durch Beziehung x3; x1
+      ist ein Verwandter/zugehöriges Mitglied der Generation von x2s Eltern
+    notes:
+    - No notes.
+    glosses:
+    - Tante oder Onkel
+  es:
+    place structure: x1 es tío/tía de x2 por lazo/relación x3
+    notes:
+    - No notes.
+    glosses:
+    - tío
+  ru:
+    place structure: x1 — тетя/дядя x2 (чья) по виду родства x3; x1 — родственник,
+      принадлежащий поколению родителей x2
+    notes:
+    - '{bruna} (брат), {mamta} (мать), {mensi} (сестра), {patfu} (отец), {rirni} (родитель),
+      {tamne} (двоюродный)'
+    glosses:
+    - дядя
+  en-simple:
+    place structure: x1 is an aunt or uncle of x2 by bond x3
+    notes:
+    - No notes.
+    glosses:
+    - an aunt or uncle
+    - x2=something with an aunt or uncle
+    - x3=an aunt or uncle relationship
+  eo:
+    place structure: x1 estas onkl(in)o de x2 laŭ rilato/ligilo x3; x1 estas parenco
+      de x2 de la gepatra generacio
+    notes:
+    - Vidu ankaŭ {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
+    glosses:
+    - onklo
+  hu:
+    place structure: x1 egy/a nagybátyja/-nénje x2-nek, x3 kötelék által
+    notes:
+    - '(Lásd még: {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne})'
+    glosses:
+    - nagybácsi/-néni
+  ja:
+    place structure: x1 （者）は x2 （者）・ x3 （血縁関係）のおじ／おば
+    notes:
+    - 「lo mi famti ma kau zvati sei na djuno／[おじ／おば]が行方不明だ」 ・大意： おじ／おば ・読み方： ファムティ  ・関連語：
+      {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en tant/farbor till x2 genom band/släktskap x3; x1 är en
+      medlem som associeras till x2s föräldrageneration.
+    notes:
+    - No notes.
+    glosses:
+    - farbror (medlem som associeras till föräldrageneration)
+    - tant (medlem som associeras till föräldrageneration)
+  zh:
+    place structure: x1是x2的叔辈的（阿姨/伯伯/舅舅等），基于关系/纽带x3
+    notes:
+    - 参见 {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
+    glosses:
+    - No glosses.

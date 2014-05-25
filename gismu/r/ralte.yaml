@@ -1,5 +1,68 @@
-Word: ralte
-Rafsi: ra'e
-Definition: x1 retains/keeps/holds x2 in its possession.
-Notes: See also {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali}, {curmi}.
-Examples: None
+word: ralte
+rafsi:
+- ra'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 retains/keeps/holds x2 in its possession.
+    notes:
+    - See also {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali}, {curmi}.
+    glosses:
+    - hold (have and keep possession of)
+    - keep (maintain possession of)
+    - retain
+  de:
+    place structure: x1 behält/bewahrt x2 in ihrem/seinen Besitz
+    notes:
+    - No notes.
+    glosses:
+    - behalten
+  es:
+    place structure: x1 retiene/guarda x2
+    notes:
+    - Ver también {rinju},  {ponse},  {jgari},  {pinfu},  {stali}.
+    glosses:
+    - guardar
+  ru:
+    place structure: x1 удерживает/оставляет/сохраняет x2 в своем владении
+    notes:
+    - 'Также: не отдает; «удерживает» в физическом смысле: {jgari} {cirko} (терять),
+      {rinju} (удерживаться [от чего-либо]), {ponse} (владеть), {jgari} (держать),
+      {pinfu} (пленник), {stali} (оставаться), {curmi} (разрешать [позволять])'
+    glosses:
+    - удерживать
+    - x1=удерживающий
+    - x2=удерживаемый
+  en-simple:
+    place structure: x1 keeps or retains x2
+    notes:
+    - No notes.
+    glosses:
+    - a keeper
+    - x2=something kept
+  eo:
+    place structure: x1 retenas/konservas/tenas x2-on en sia posedo
+    notes:
+    - Vidu ankaŭ {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali}, {curmi}.
+    glosses:
+    - reteni
+  hu:
+    place structure: x1 megtartja/megőrzi x2-t magának
+    notes:
+    - '(Lásd még: {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali}, {curmi})'
+    glosses:
+    - megtart
+  ja:
+    place structure: x1 は x2 を保持／維持する
+    notes:
+    - ・大意： 保持 ・読み方： ラルゥテ  ・関連語： {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali},
+      {curmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1保有/维持x2在其所有之下
+    notes:
+    - 参见 {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali}, {curmi}.
+    glosses:
+    - No glosses.

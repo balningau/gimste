@@ -1,7 +1,75 @@
-Word: snada
-Rafsi: sad
-Definition: x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result
-  of effort/attempt/try x3.
-Notes: 'Also: $x_1$ reaches $x_2$; (adjective:) $x_1$ is successful; $x_2$ (event/state/achievement).  See
-  also {fliba}, {troci}, {jgira}.'
-Examples: None
+word: snada
+rafsi:
+- sad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [agent] succeeds in/achieves/completes/accomplishes x2 as
+      a result of effort/attempt/try x3.
+    notes:
+    - 'Also: x1 reaches x2; (adjective:) x1 is successful; x2 (event/state/achievement).  See
+      also {fliba}, {troci}, {jgira}.'
+    glosses:
+    - succeed
+    - x1=success (achievement)
+  de:
+    place structure: x1 (Handelnder) erreicht/ist erfolgreich bei/schafft x2 durch
+      Versuch/Aktion x3.
+    notes:
+    - 'Auch: x1 ist erfolgreich. Siehe auch {fliba}, {troci}, {jgira}.'
+    glosses:
+    - erfolgreich
+    - schaffen
+  es:
+    place structure: x1 logra/tiene éxito/consigue que ocurra x2 como resultado de
+      esfuerzo/intento x3
+    notes:
+    - Ver también {troci}.
+    glosses:
+    - lograr
+  ru:
+    place structure: x1 успешно/удачно завершает/совершает/добивается/достигает x2
+      в результате усилия/попытки x3
+    notes:
+    - 'Прилагательное: x1 — успешный; x2: событие/состояние/достижение {fliba} (терпеть
+      неудачу), {troci} (пытаться), {jgira} (гордиться)'
+    glosses:
+    - x1=успешный
+    - x2=успешно достигаемое
+    - x3=попытка, приводящая к успеху
+  en-simple:
+    place structure: x1 succeeds at x2 because of effort x3
+    notes:
+    - No notes.
+    glosses:
+    - a succeeder
+    - x2=something succeeded at
+    - x3=a successful effort
+  eo:
+    place structure: x1 [aganto] sukcesas/atingas/kompletas x2-on rezulte de peno/klopodo/provo
+      x3
+    notes:
+    - (adjektivo:) x1 estas sukcesa; x2 (okazo/stato/atingo).  Vidu ankaŭ {fliba},
+      {troci}, {jgira}.
+    glosses:
+    - sukcesi
+  hu:
+    place structure: x1 véghezviszi/megvalósítja/eléri x2 célt x3 próbálkozás/erőfeszítés
+      eredményeképpen
+    notes:
+    - '(Lásd még: {fliba}, {troci}, {jgira})'
+    glosses:
+    - véghezvisz
+  ja:
+    place structure: x1 （者）は x2 （成果）を x3 （努力／試み）によって達成する／成功させる
+    notes:
+    - ・大意： 成功 ・読み方： スナダ  ・語呂合わせ： 成功砂だ ・関連語： {fliba}, {troci}, {jgira}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1完成/做完x2，作为努力/尝试/辛苦x3的结果
+    notes:
+    - 也指：x1达成x2；x1是成功的；x2（事件/状态/成就）；参见 {fliba}, {troci}, {jgira}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,78 @@
-Word: gundi
-Rafsi: gud
-Definition: x1 is industry/industrial/systematic manufacturing activity producing
-  x2 by process/means x3.
-Notes: See also {cupra}, {fanri}, {rutni}, {zbasu}.
-Examples: None
+word: gundi
+rafsi:
+- gud
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is industry/industrial/systematic manufacturing activity producing
+      x2 by process/means x3.
+    notes:
+    - See also {cupra}, {fanri}, {rutni}, {zbasu}.
+    glosses:
+    - industry
+  de:
+    place structure: x1 ist Industrie/industriell/systematische Fertigungsaktivität
+      und produziert x2 mit Prozess/Mitteln x3
+    notes:
+    - No notes.
+    glosses:
+    - Industrie
+  es:
+    place structure: x1 es una industria/actividad sistemática de producción de x2
+      con proceso/medios x3
+    notes:
+    - No notes.
+    glosses:
+    - industria
+  ru:
+    place structure: x1 — промышленность/индустрия/производство/систематическая производительная
+      деятельность, производящая x2 процессом/способом x3
+    notes:
+    - '{cupra} (производить), {fanri} (фабрика), {rutni} (искусственный), {zbasu}
+      (изготавливать)'
+    glosses:
+    - промышленность
+  en-simple:
+    place structure: x1 is industry producing x2 by process or means x3
+    notes:
+    - No notes.
+    glosses:
+    - an industry
+    - x2=something produced by an industry
+    - x3=an industrial process
+  eo:
+    place structure: x1 estas industrio/industria/sistema fabrikado produktanta x2-on
+      per procedo/rimedoj x3
+    notes:
+    - Vidu ankaŭ {cupra}, {fanri}, {rutni}, {zbasu}.
+    glosses:
+    - industrio
+  hu:
+    place structure: x1 ipar(ral kapcsolatos), amely x2-t állít elő, x3 folyamattal/módszerrel
+    notes:
+    - '(Lásd még: {cupra}, {fanri}, {rutni}, {zbasu})'
+    glosses:
+    - ipar
+  ja:
+    place structure: x1 は x2 （生産物）・ x3 （方法）の工業／製造業
+    notes:
+    - ・大意： 工業 ・読み方： グンディ  ・語呂合わせ： 軍事（ぐんでぃ）工場 ・関連語： {cupra}, {fanri}, {rutni}, {zbasu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är industri/industriell/systematisk tillverkande aktivitet
+      producerande x2 genom process/medel x3.
+    notes:
+    - No notes.
+    glosses:
+    - industriell
+    - x1=industri
+    - x2=industriprodukt
+    - x3=industriprocess
+  zh:
+    place structure: x1是生产制造x2的工业活动/系统的制造行为，依靠方法/方式/进程x3
+    notes:
+    - 参见 {cupra}, {fanri}, {rutni}, {zbasu}.
+    glosses:
+    - No glosses.

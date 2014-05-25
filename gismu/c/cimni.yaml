@@ -1,7 +1,83 @@
-Word: cimni
-Rafsi: ''
-Definition: x1 is infinite/unending/eternal in property/dimension x2, to degree x3
-  (quantity)/of type x3.
-Notes: Also everlasting, eternity, (= {cimnytei}), eternal (= {cimnyteikai} or {temcimni}).
-  See also {vitno}, {renvi}, {munje}, {fanmo}, {sisti}.
-Examples: None
+word: cimni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is infinite/unending/eternal in property/dimension x2, to
+      degree x3 (quantity)/of type x3.
+    notes:
+    - Also everlasting, eternity, (= {cimnytei}), eternal (= {cimnyteikai} or {temcimni}).
+      See also {vitno}, {renvi}, {munje}, {fanmo}, {sisti}.
+    glosses:
+    - infinite
+  de:
+    place structure: x1 ist unendlich/unbegrenzt/unbeschränkt/ewig in Eigenschaft/Dimension
+      x2, in Grad x3 (Menge)/von Typ x3
+    notes:
+    - No notes.
+    glosses:
+    - unendlich
+  es:
+    place structure: x1 es infinito/interminable/eterno en propiedad/dimensión x2,
+      en grado/tipo/cantidad x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 бесконечен/вечен в отношении свойства/в измерении x2, до степени/типа
+      x3
+    notes:
+    - 'Также: бескрайний, непреходящий; вечность: {cimnytei}; вечный: ({cimnyteikai}
+      или {temcimni} {vitno} (длительный), {renvi} (выдерживать), {munje} (мир [вселенная]),
+      {fanmo} (конец), {sisti} (останавливать)'
+    glosses:
+    - x1=бесконечный
+  en-simple:
+    place structure: x1 in infinite in property or dimension x2 to degree or of type
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - something infinite
+    - x2=an infinite property
+    - x3=a degree of infinity
+  eo:
+    place structure: x1 estas senlima/senfina/eterna laŭ eco/dimensio x2, je grado
+      x3 (kvanto)/de tipo x3
+    notes:
+    - 'Ankaŭ: porĉiama, eterno, (= {cimnytei}), eterna (= cimnyteikai aŭ temcimni).
+      Vidu ankaŭ {vitno}, {renvi}, {munje}, {fanmo}, {sisti}.'
+    glosses:
+    - senlima
+  hu:
+    place structure: x1 végtelen x2 tulajdonságban/méretben/számosságban, x3 mértékben
+    notes:
+    - '(Lásd még: {vitno}, {renvi}, {munje}, {fanmo}, {sisti})'
+    glosses:
+    - végtelen
+  ja:
+    place structure: x1 は x2 （次元／性質）に関して無限
+    notes:
+    - ・大意： 無限 ・読み方： シムニ  ・語呂合わせ： 死無に ・関連語： {vitno}, {renvi}, {munje}, {fanmo}, {sisti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 tar aldrig slut/är oändlig/evig i egenskap/dimension x2, på
+      sätt x3/till grad x3 (kvantitet).
+    notes:
+    - Även evinnerlig (varar för evigt). Evighet(= {cimnytei}), evig (= {cimnyteikai}
+      eller {temcimni}).
+    glosses:
+    - x1=oändlig
+    - x2=oändlighetsavseende (den egenskap/dimension som är oändlig)
+    - x3=oändlighetsstandard
+  zh:
+    place structure: x1是无限的/无尽的/恒久的，在性质/规格x2上，以某种形式/数量x3
+    notes:
+    - 永久的= {cimnytei}， 不朽的/永恒的= {cimnyteikai}/{temcimni}). 参见 {vitno}, {renvi}, {munje},
+      {fanmo}, {sisti}.
+    glosses:
+    - No glosses.

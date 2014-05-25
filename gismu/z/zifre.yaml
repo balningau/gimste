@@ -1,7 +1,78 @@
-Word: zifre
-Rafsi: zif, zi'e
-Definition: x1 is free/at liberty to do/be x2 (event/state) under conditions x3.
-Notes: Also unrestricted, unfettered, unconstrained; (adjective:) independent; (adverb:)
-  willingly, voluntarily, freely, may, optionally; (potential:) $x_1$ voluntarily
-  does $x_2$.  See also {pinfu}, {rinju}, {bilga}, {curmi}, {kakne}, {frili}.
-Examples: None
+word: zifre
+rafsi:
+- zif
+- zi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is free/at liberty to do/be x2 (event/state) under conditions
+      x3.
+    notes:
+    - Also unrestricted, unfettered, unconstrained; (adjective:) independent; (adverb:)
+      willingly, voluntarily, freely, may, optionally; (potential:) x1 voluntarily
+      does x2.  See also {pinfu}, {rinju}, {bilga}, {curmi}, {kakne}, {frili}.
+    glosses:
+    - free (experiencing freedom)
+  de:
+    place structure: x1 ist/steht es frei, x2 (Ereignis/Zustand) zu tun/sein, unter
+      Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - frei
+  es:
+    place structure: x1 es/está libre de ser/hacer x2 (evento) bajo condiciones x3
+    notes:
+    - Ver también {bilga}.
+    glosses:
+    - libre
+  ru:
+    place structure: x1 свободен/волен делать/быть x2 (событие/состояние) в условиях
+      x3
+    notes:
+    - 'Прилагательное: нестесненный, независимый; наречие: добровольно, без принуждения
+      {pinfu} (пленник), {rinju} (удерживаться [от чего-либо]), {bilga} (должен),
+      {curmi} (разрешать [позволять]), {kakne} (мочь), {frili} (легкий [нетрудный
+      для кого-либо])'
+    glosses:
+    - x1=свободный (вольный)
+    - x2=то, чем волен быть
+  en-simple:
+    place structure: x1 is at liberty or free to do or be x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - at liberty to do
+    - x1=something at liberty
+    - x2=something allowed by a liberty
+    - x3=a condition of liberty
+  eo:
+    place structure: x1 estas libera por fari/esti x2 (okazo/stato) sub kondiĉoj x3
+    notes:
+    - 'Ankaŭ: nelimigita, nemalhelpita, senĝena; (adjektivo:) sendependa; (adverbo:)
+      vole, volonte, libere, laŭvole; (potential:) x1 vole faras x2.  Vidu ankaŭ {pinfu},
+      {rinju}, bilga,{curmi}, {kakne}, {frili}.'
+    glosses:
+    - libera
+  hu:
+    place structure: x1-nak szabad/joga van x2 cselekedetre/állapotra x3 körülmények
+      között
+    notes:
+    - '(Lásd még: {pinfu}, {rinju}, {bilga}, {curmi}, {kakne}, {frili})'
+    glosses:
+    - szabad
+  ja:
+    place structure: x1 は自由である、 x2 （事／状態）になることにおいて、 x3 という条件で
+    notes:
+    - 制限されていない、拘束されない、束縛のない、（ x1 は）自主性がある、（ x2 は）自由意志による、自発的にされる、自由にできる、随意にできる、任意にできる（「
+      x1 は自発的に x2 をする」という意味にもなる）  関連語：{pinfu}, {rinju}, {bilga}, {curmi},{kakne},
+      {frili}.
+    glosses:
+    - じゆう (自由)
+    - 自由
+  zh:
+    place structure: x1是自由的，去做x2（事件/状态），在条件x3下
+    notes:
+    - 也指：不受拘束的，独立的，由意志自由的；参见 {pinfu}, {rinju}, {bilga}, {curmi}, {kakne}, {frili}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,70 @@
-Word: vikmi
-Rafsi: vim, vi'i
-Definition: x1 [body] excretes waste x2 from source x3 via means/route x4.
-Notes: See also {cigla}, {kalci}, {pinca}, {xasne}.
-Examples: None
+word: vikmi
+rafsi:
+- vim
+- vi'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [body] excretes waste x2 from source x3 via means/route x4.
+    notes:
+    - See also {cigla}, {kalci}, {pinca}, {xasne}.
+    glosses:
+    - excrete
+  de:
+    place structure: x1 [Körper] scheidet Abfall x2 aus, von Quelle x3 mit Mittel/über
+      Route x4
+    notes:
+    - No notes.
+    glosses:
+    - ausscheiden
+  es:
+    place structure: x1 excreta desperdicio x2 de origen x3 por medios/via x4
+    notes:
+    - No notes.
+    glosses:
+    - excretar
+  ru:
+    place structure: x1 (тело) выделяет отходы x2 из (источника) x3 через/посредством
+      x4
+    notes:
+    - 'Также: испражняется {cigla} (железа), {kalci} (кал), {pinca} (моча), {xasne}
+      (пот)'
+    glosses:
+    - выделять
+    - x1=выделяющий
+    - x2=выделяемое
+  en-simple:
+    place structure: x1 excretes waste x2 from x3 via x4
+    notes:
+    - No notes.
+    glosses:
+    - an excreter of waste
+    - x2=an excreted waste
+    - x3=a source of excreted waste
+    - x4=a means of excretion
+  eo:
+    place structure: x1 [korpo] ekskrecias forĵetaĵon x2 el fonto x3 per rimedo/tra
+      vojo x4
+    notes:
+    - Vidu ankaŭ {cigla}, {kalci}, {pinca}, {xasne}.
+    glosses:
+    - ekskrecii
+  hu:
+    place structure: x1 kiüríti/kiválasztja x2 salakanyagot x3-ból, x4 úton
+    notes:
+    - '(Lásd még: {cigla}, {kalci}, {pinca})'
+    glosses:
+    - ürít (biológiai funkció)
+  ja:
+    place structure: x1 は x2 （対象）を x3 （起源）から x4 （経路）で廃棄／排出／排泄する
+    notes:
+    - ・大意： 廃棄する ・読み方： ヴィクミ  ・関連語： {cigla}, {kalci}, {pinca}, {xasne}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（身体）排出废物x2，从来源x3，以方式/路径x4
+    notes:
+    - 参见 {cigla}, {kalci}, {pinca}, {xasne}.
+    glosses:
+    - No glosses.

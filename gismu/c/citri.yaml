@@ -1,5 +1,75 @@
-Word: citri
-Rafsi: cir
-Definition: x1 is a history of x2 according to x3 (person)/from point-of-view x3.
-Notes: Also historic/historical (= {cirtermo'i}, {cirvai}).  See also {muzga}.
-Examples: None
+word: citri
+rafsi:
+- cir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a history of x2 according to x3 (person)/from point-of-view
+      x3.
+    notes:
+    - Also historic/historical (= {cirtermo'i}, {cirvai}).  See also {muzga}.
+    glosses:
+    - history
+  de:
+    place structure: x1 ist die Geschichte [Historie, nicht Erzählung] von x2 laut
+      x3 (Person)/aus Sicht von x3
+    notes:
+    - No notes.
+    glosses:
+    - Geschichte
+  es:
+    place structure: x1 es una historia de x2 según x3
+    notes:
+    - No notes.
+    glosses:
+    - historia
+  ru:
+    place structure: x1 — история x2 (чего/кого) согласно/с точки зрения x3 (лицо/абстракция)
+    notes:
+    - 'Также: исторический (имеющий отношение к истории); «исторический» в смысле
+      «имеющий историческое значение», «достопамятный», «эпохальный»: {cirtermo''i},
+      {cirvai}; не путать с «история» в смысле «рассказ»: {lisri}) {muzga} (музей)'
+    glosses:
+    - x1=история
+  en-simple:
+    place structure: x1 is a history of x2 according to x3
+    notes:
+    - No notes.
+    glosses:
+    - a history
+    - x2=something with a history
+    - x3=a view-point of a history
+  eo:
+    place structure: x1 estas historio de x2 laŭ x3 (homo)/el vidpunkto x3
+    notes:
+    - 'Ankaŭ: historia (= {cirtermo''i}, {cirvai}).  Vidu ankaŭ {muzga}.'
+    glosses:
+    - historio
+  hu:
+    place structure: x1 a története/történelme x2-nek, x3 nézőpont(ja) szerint
+    notes:
+    - '(Lásd még: {muzga})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は x2 （題目）・ x3 （言説者）・ x4 （観点）の歴史；  x1 は歴史的
+    notes:
+    - 歴史は誰か（x3）によって組み立てられるもの。 ・大意： 歴史 ・読み方： シトリ  ・語呂合わせ： ＜嫉妬が裏面＞,ヒシトリー, history ・関連語：
+      {muzga}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en historia om x2 enligt x3/sett ur perspektiv x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=historia
+    - x2=historisk
+    - x3=historieperspektiv
+  zh:
+    place structure: x1是x2的历史，根据x3的说法/基于观点x3
+    notes:
+    - 有历史意义的/在历史上重要的= {cirtermo'i}/{cirvai}；参见 {muzga}.
+    glosses:
+    - No glosses.

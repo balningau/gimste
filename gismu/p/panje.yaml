@@ -1,6 +1,65 @@
-Word: panje
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of sponge/porous material.
-Notes: Also metaphorically used for coral, Swiss cheese.  See also {cokcu} for a generalized
-  absorbant.
-Examples: None
+word: panje
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of sponge/porous material.
+    notes:
+    - Also metaphorically used for coral, Swiss cheese.  See also {cokcu} for a generalized
+      absorbant.
+    glosses:
+    - sponge (porous material)
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Schwamm/durchlässiges/poriges
+      Material
+    notes:
+    - No notes.
+    glosses:
+    - Schwamm
+  es:
+    place structure: x1 es una cantidad de esponja/material poroso
+    notes:
+    - No notes.
+    glosses:
+    - esponja
+  ru:
+    place structure: x1 — губчатый/пористый; x1 — губка
+    notes:
+    - 'Метафора: коралл, швейцарский сыр {cokcu} (впитывать) для разных сорбентов/поглотителей'
+    glosses:
+    - губка (пористый материал)
+  en-simple:
+    place structure: x1 is a quantity of sponge
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of sponge
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el sponĝo/poroza/truohava
+      materialo                                                                       ah   3     [ankaŭ:
+      metafore uzata por koralo, grujero]; (kp. cokcu por ĝenerala sorbanto'
+    notes:
+    - )
+    glosses:
+    - sponĝo
+  hu:
+    place structure: x1 bizonyos mennyiségű szivacs(os anyag) (-ot tartalmaz/-ból
+      készült)
+    notes:
+    - '(Lásd még: {cokcu})'
+    glosses:
+    - szivacs
+  ja:
+    place structure: x1 はスポンジ状／多孔性
+    notes:
+    - ・大意： スポンジ ・読み方： パンジェ  ・語呂合わせ： スパンジェ ・関連語： {cokcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是疏松多孔的；x1是海绵/海绵制品
+    notes:
+    - 也比喻为珊瑚，多孔芝士；参见 {cokcu}
+    glosses:
+    - No glosses.

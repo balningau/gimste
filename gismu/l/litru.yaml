@@ -1,8 +1,86 @@
-Word: litru
-Rafsi: li'u
-Definition: x1 travels/journeys/goes/moves via route x2 using means/vehicle x3; x1
-  is a traveller.
-Notes: ($x_2$ as a set includes points at least sufficient to constrain the route
-  relevantly); See also {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta},
-  {limna}, {muvdu}.
-Examples: None
+word: litru
+rafsi:
+- li'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 travels/journeys/goes/moves via route x2 using means/vehicle
+      x3; x1 is a traveller.
+    notes:
+    - (x2 as a set includes points at least sufficient to constrain the route relevantly);
+      See also {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta}, {limna},
+      {muvdu}.
+    glosses:
+    - travel
+  jbo:
+    place structure: x1 pilno fe'e ca'o x2 boi x3 lo nu x1 cenba lo ka ce'u zvati
+      makau i x1 klama zi'o zi'o x2 boi x3
+    notes:
+    - No notes.
+    glosses:
+    - litru
+  de:
+    place structure: x1 reist/geht über Route x2 und verwendet Mittel/Fahrzeug x3;
+      x1 ist ein Reisender
+    notes:
+    - No notes.
+    glosses:
+    - reisen (nichtzielgerichtete)
+  es:
+    place structure: x1 viaja vía ruta x2 usando medio/vehículo x3
+    notes:
+    - Ver también {klama},  {cliva},  {pluta}.
+    glosses:
+    - viajar
+  ru:
+    place structure: x1 путешествует/странствует/проходит по маршруту/траектории x2,
+      используя средство передвижения x3
+    notes:
+    - x2, как множество, включает достаточное число точек, чтобы разумно определить
+      маршрут {bajra} (бежать), {cadzu} (идти), {cpare} (лезть), {tcana} (станция),
+      {klama} (перемещаться), {cliva} (уходить), {pluta} (путь), {limna} (плыть [активно]),
+      {muvdu} (двигаться)
+    glosses:
+    - путешествовать
+    - x1=путешествующий
+    - x2=маршрут путушествия
+    - x3=средство передвижения
+  en-simple:
+    place structure: x1 travels via route x2 using means x3
+    notes:
+    - No notes.
+    glosses:
+    - a traveler
+    - x2=a route of travel
+    - x3=a method for travel
+  eo:
+    place structure: x1 vojaĝas/veturas/iras/moviĝas tra vojo x2 per rimedo/veturilo
+      x3; x1 estas vojaĝanto
+    notes:
+    - (x2 kiel aro inkluzivas almenaŭ sufiĉajn punktojn por difini la vojon); Vidu
+      ankaŭ {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta}, {limna},
+      {muvdu}.
+    glosses:
+    - vojaĝi
+  hu:
+    place structure: x1 utazik/vándorol x2 úton, x3 módon/járművel
+    notes:
+    - '(Lásd még: {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta}, {limna},
+      {muvdu})'
+    glosses:
+    - utazik
+  ja:
+    place structure: x1 は x2 （経路）を x3 （方法）で旅する；  x1 は旅人
+    notes:
+    - ・大意： 旅 ・読み方： ルィトル  ・語呂合わせ： 旅の予約類とる ・関連語： {bajra}, {cadzu}, {cpare}, {tcana},
+      {klama}, {cliva}, {pluta}, {limna}, {muvdu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1旅行/旅游，通过路线/路径x2，使用载具/交通工具/方式x3；x1是旅行者
+    notes:
+    - x2是包含了足已有效确认路径的点；参见 {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta},
+      {limna}, {muvdu}.
+    glosses:
+    - No glosses.

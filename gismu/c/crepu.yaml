@@ -1,6 +1,81 @@
-Word: crepu
-Rafsi: rep
-Definition: x1 (agent) harvests/reaps/gathers crop/product/objects x2 from source/area
-  x3.
-Notes: See also {critu}, {sombo}, {jmaji}.
-Examples: None
+word: crepu
+rafsi:
+- rep
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) harvests/reaps/gathers crop/product/objects x2 from
+      source/area x3.
+    notes:
+    - See also {critu}, {sombo}, {jmaji}.
+    glosses:
+    - harvest
+  de:
+    place structure: x1 (Handelnder) erntet/pflückt Ertrag/Getreide/Frucht x2 von
+      Quelle/Gebiet x3
+    notes:
+    - No notes.
+    glosses:
+    - ernten
+  es:
+    place structure: x1 cosecha/recolecta producto/objetos x2 de origen/área x3
+    notes:
+    - Ver también {sombo},  {jmaji}.
+    glosses:
+    - cosechar
+  ru:
+    place structure: 'x1 собирает/пожинает урожай x2 (чего: продуктов/объектов) из
+      источника/области x3'
+    notes:
+    - '{critu} (осень), {sombo} (сажать [о растениях]), {jmaji} (собираться)'
+    glosses:
+    - собирать урожай
+    - x1=собирающий урожай
+    - x2=урожай
+  en-simple:
+    place structure: x1 harvests x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a harvester
+    - x2=a harvested crop
+    - x3=a source of a crop
+  eo:
+    place structure: x1 (aganto) rikoltas/falĉas/kolektas produkton/objektojn x2 el
+      fonto/etendaĵo x3
+    notes:
+    - Vidu ankaŭ {critu}, {sombo}, {jmaji}.
+    glosses:
+    - rikolti
+  hu:
+    place structure: x1 aratja/kaszálja/betakarítja x2 terményt/terméket x3 területről/forrásból
+    notes:
+    - '(Lásd még: {critu}, {sombo}, {jmaji})'
+    glosses:
+    - arat
+  ja:
+    place structure: x1 （者）は x2 （対象）を x3 （領域）から収穫する
+    notes:
+    - 「アイディアを取り入れる」なども。 ・大意： 収穫 ・読み方： シレプ  ・関連語： {critu}, {sombo}, {jmaji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (agent) skördar/bärgar/inhöstar/samlar grödor/produkter/föremål
+      x2 från ursprungskälla/area x3.
+    notes:
+    - No notes.
+    glosses:
+    - bärga (skörd/ihopsamling)
+    - inhösta
+    - samla (bärga)
+    - skörda
+    - x1=skördare
+    - x2=skörd
+    - x3=skördeplats
+  zh:
+    place structure: x1收获/丰收/收割/收集农作物/产品/物品x2，来自资源/地区x3
+    notes:
+    - 参见 {critu}, {sombo}, {jmaji}.
+    glosses:
+    - No glosses.

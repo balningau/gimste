@@ -1,5 +1,67 @@
-Word: tanbo
-Rafsi: ta'o
-Definition: x1 is a board/plank [3-dimensional long flat rectangle] of material x2.
-Notes: See also {bliku}, {kubli}.
-Examples: None
+word: tanbo
+rafsi:
+- ta'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a board/plank [3-dimensional long flat rectangle] of material
+      x2.
+    notes:
+    - See also {bliku}, {kubli}.
+    glosses:
+    - board
+  de:
+    place structure: x1 ist ein Brett/eine Planke [dreidimensionales langes und flaches
+      Rechteck] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Brett
+  es:
+    place structure: x1 es una tabla/tablón/placa (rectángulo largo tridimensional)
+      de material x2
+    notes:
+    - No notes.
+    glosses:
+    - tabla
+  ru:
+    place structure: x1 — доска/планка (3-мерный длинный плоский параллелепипед) из
+      материала x2
+    notes:
+    - '{bliku} (блок [глыба]), {kubli} (куб)'
+    glosses:
+    - x1=доска
+  en-simple:
+    place structure: x1 is a board or plank of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a board
+    - x2=a material of a board
+  eo:
+    place structure: x1 estas tabulo [3-dimensia longa plata rektangulo] el materialo
+      x2
+    notes:
+    - Vidu ankaŭ {bliku}, {kubli}.
+    glosses:
+    - tabulo
+  hu:
+    place structure: x1 egy deszka/palló [viszonylag kis vastagságú téglatest] x2
+      anyagból
+    notes:
+    - '(Lásd még: {bliku}, {kubli})'
+    glosses:
+    - deszka
+  ja:
+    place structure: x1 は x2 （素材）の板
+    notes:
+    - x3次元の、薄く、主に長方形の物体全般。 ・大意： 板 ・読み方： タンボ  ・語呂合わせ： ita/ban 板 ・関連語： {bliku}, {kubli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是板（三维的矩形结构），由材料x2制成
+    notes:
+    - 参见 {bliku}, {kubli}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,73 @@
-Word: vajni
-Rafsi: vaj, vai
-Definition: x1 (object/event) is important/significant to x2 (person/event) in aspect/for
-  reason x3 (nu/ka).
-Notes: 'Also: $x_1$ matters to $x_2$ in aspect/respect $x_3$.  See also {banli}, {ralju},
-  {vamji}, {dirba}, {kargu}, {pajni}.'
-Examples: None
+word: vajni
+rafsi:
+- vaj
+- vai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/event) is important/significant to x2 (person/event)
+      in aspect/for reason x3 (nu/ka).
+    notes:
+    - 'Also: x1 matters to x2 in aspect/respect x3.  See also {banli}, {ralju}, {vamji},
+      {dirba}, {kargu}, {pajni}.'
+    glosses:
+    - important
+  de:
+    place structure: x1 (Objekt/Ereignis) ist wichtig/bedeutend/wesentlich für x2
+      (Person/Ereignis) in Aspekt/aus Grund x3 (nu/ka)
+    notes:
+    - No notes.
+    glosses:
+    - wichtig
+  es:
+    place structure: x1 es importante para x2 en propiedad/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - importante
+  ru:
+    place structure: x1 важен/значителен/имеет значение для x2 (лицо/событие) в аспекте/по
+      причине x3 ({nu}/{ka})
+    notes:
+    - 'Также: существенный, знаменательный {banli} (великий), {ralju} (главный), {vamji}
+      (ценность [стоимость]), {dirba} (милый), {kargu} (дорогой [дорогостоящий]),
+      {pajni} (судить)'
+    glosses:
+    - x1=важный (значительный)
+    - x2=тот, для кого важно
+  en-simple:
+    place structure: x1 is important to x2 because of reason x3
+    notes:
+    - No notes.
+    glosses:
+    - something important
+    - x2=something to which something is important
+    - x3=a reason of importance
+  eo:
+    place structure: x1 (objekto/okazo) estas grava/signifa por x2 (homo/okazo) laŭ
+      aspekto/pro kialo x3 (nu/ka)
+    notes:
+    - Vidu ankaŭ {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni}.
+    glosses:
+    - grava
+  hu:
+    place structure: x1 tárgy/esemény fontos/lényeges/számít x2 személy/esemény számára
+      x3 szempontból/okból
+    notes:
+    - '(Lásd még: {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni})'
+    glosses:
+    - fontos
+  ja:
+    place structure: x1 （物／事）は x2 （人／事）にとって、 x3 （性質／理由）に関して重要／大事
+    notes:
+    - ・大意： 重要 ・読み方： ヴァジニ  ・関連語： {banli} (偉大), {ralju} (主要), {vamji} (価値), {dirba}
+      (大切にされている), {kargu}, {pajni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物/事）对x2（人/事）是重要的，在x3方面/由于原因x3（nu/ka）
+    notes:
+    - 也指：x1关系到x2，在x3方面；参见 {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni}.
+    glosses:
+    - No glosses.

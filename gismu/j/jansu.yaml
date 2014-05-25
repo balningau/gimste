@@ -1,7 +1,74 @@
-Word: jansu
-Rafsi: jas
-Definition: x1 is a diplomat/consul representing polity x2 in/at negotiation x3 for
-  function/purpose x4.
-Notes: (for) $x_3$ polity, (use tu'a); also ambassador (= {raljansu}, {trujansu}).  See
-  also {jecta}, {krati}.
-Examples: None
+word: jansu
+rafsi:
+- jas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a diplomat/consul representing polity x2 in/at negotiation
+      x3 for function/purpose x4.
+    notes:
+    - (for) x3 polity, (use tu'a); also ambassador (= {raljansu}, {trujansu}).  See
+      also {jecta}, {krati}.
+    glosses:
+    - diplomat
+  de:
+    place structure: x1 ist ein Diplomat/Konsul/Gesandter und vertritt Staat/Einheit
+      x2 in/bei Verhandlung x3 mit Funktion/zu Zweck x4
+    notes:
+    - No notes.
+    glosses:
+    - Diplomat
+  es:
+    place structure: x1 es un cónsul/embajador/diplomático en representación de x2
+      ante x3 con función/propósito x4
+    notes:
+    - No notes.
+    glosses:
+    - cónsul
+  ru:
+    place structure: x1 — дипломат/консул, представляющий государство/политическую
+      единицу x2 на переговорах x3 с функцией/целью x4
+    notes:
+    - 'на переговорах с государством/политической единицей x3 (использовать {tu''a});
+      Также: посол: {raljansu}, {trujansu} {jecta} (государство), {krati} (представитель)'
+    glosses:
+    - дипломат (лицо)
+    - x2=государство, представляемое дипломатом
+  en-simple:
+    place structure: x1 is a diplomat representing x2 in negotiation x3 for purpose
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a diplomat
+    - x2=something a diplomat represents
+    - x3=a diplomatic negotiation
+    - x4=a purpose of a diplomat
+  eo:
+    place structure: x1 estas diplomato/konsulo reprezentanta ŝtaton/civiton x2 ĉe
+      traktado x3 por funkcio/celo x4
+    notes:
+    - (por) x3 ŝtato/civito, (uzu je tu'a); ankaŭ ambasadoro (= {raljansu}, {trujansu}).  Vidu
+      ankaŭ {jecta}, {krati}.
+    glosses:
+    - diplomato
+  hu:
+    place structure: x1 egy diplomata/konzul, aki x2-t képviseli x3 tárgyaláson, x4
+      feladattal
+    notes:
+    - '(Lásd még: {jecta}, {krati})'
+    glosses:
+    - diplomata
+  ja:
+    place structure: x1 は x2 （政体）・ x3 （交渉／談判）・ x4 （役割／目的）の外交官（大使／公使／領事）
+    notes:
+    - ・大意： 外交官 ・読み方： ジャンス  ・語呂合わせ： 外交官麻雀す ・関連語： {jecta}, {krati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是外交官，代表政体/国家/政治组织x2，在协商/谈判x3中，为了功能/目的x4
+    notes:
+    - 为了x3政权，使用tu'a；大使/领事= {raljansu}/{trujansu}；参见 {jecta}, {krati}.
+    glosses:
+    - No glosses.

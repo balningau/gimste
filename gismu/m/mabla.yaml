@@ -1,8 +1,89 @@
-Word: mabla
-Rafsi: mal
-Definition: x1 is a derogative connotation/sense of x2 used by x3; x3 derogates/'curses
-  at' x2 in form x1.
-Notes: Bloody (British sense), fucking, shit, goddamn.  See also {palci}, {dapma},
-  {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca},
-  {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.
-Examples: None
+word: mabla
+rafsi:
+- mal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a derogative connotation/sense of x2 used by x3; x3 derogates/'curses
+      at' x2 in form x1.
+    notes:
+    - Bloody (British sense), fucking, shit, goddamn.  See also {palci}, {dapma},
+      {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca},
+      {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.
+    glosses:
+    - derogative
+  de:
+    place structure: x1 ist ein abfälliger/herabwürdigender Sinn/Gebrauch von x2 verwendet
+      von x3; x3 wertet x2 ab in Form von x1
+    notes:
+    - No notes.
+    glosses:
+    - abfällig
+  es:
+    place structure: x1 es una connotación/sentido derogativo/ofensivo de x2 usado
+      por x3
+    notes:
+    - Ver también {palci},  {dapma},  {xlali},  {zabna}.
+    glosses:
+    - derogativo
+  ru:
+    place structure: x1 - отвратительный/отталкивающий/противный/омерзительный/мерзкий/поганый/гадкий/дерьмовый/дрянной/паршивый/посредственный/низкокачественный/низкого
+      качества в свойстве x2 согласно стандарту x3; x1 - отвратительный в аспекте
+      x2 согласно x3.
+    notes:
+    - 'См. также {palci} (дурной), {dapma} (проклинать), {xlali} (плохой), {zabna}
+      (одобрительный), {funca} (зависеть от удачи), {ganti} (яичко [анатомия]), {ganxo}
+      (задний проход), {gletu} (совокупляться), {gutra} (матка [анатомия]), {kalci}
+      (кал), {pinca} (моча), {pinji} (пенис), {plibu} (лобок), {vibna} (влагалище),
+      {vlagi} (вульва), {zargu} (ягодица). Старое определение данного слова: x1 —
+      негативное/неодобрительное/неблагоприятное/{уничижительное/бранное} значение/употребление/коннотация
+      (слов) x2, используемое x3 (кем).'
+    glosses:
+    - отвратительный
+    - противный
+    - x1=уничижительное
+  en-simple:
+    place structure: x1 is shitty, awful, low-quality in property x2 by standard x3
+    notes:
+    - Bloody (British sense), fucking, shit, goddamn. See also {zabna}, {xlali}, {palci},
+      {dapma}
+    glosses:
+    - a derogative form
+    - x1=shitty
+    - x2=property of awfullness
+    - x2=something derogated
+    - x3=a derogater
+    - x3=standard of awfullness
+  eo:
+    place structure: x1 estas malestimiga/malfavora senco de x2 uzita de x3; x3 malestimas/malbenas
+      x2-on en formo x1
+    notes:
+    - Damna, fika, merda, kondamnita.  Vidu ankaŭ {palci}, {dapma}, {xlali}, {zabna},
+      {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu},
+      {vibna}, {vlagi}, {zargu}.
+    glosses:
+    - aĉa
+  hu:
+    place structure: x1 egy becsmérlő/sértő/rosszalló kifejezés/szemlélet x2-re, x3
+      használatában; x3 becsmérli/sértegeti x2-t x1 kifejezéssel
+    notes:
+    - '(Lásd még: {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu},
+      {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu})'
+    glosses:
+    - becsmérlő
+  ja:
+    place structure: x1 は x2 （対象）に関する x3 （者）による中傷／悪口
+    notes:
+    - 「zabna」の対義。 x2 は人に限らず物や事も。「クソ英語／malglico」などのように、複合語の修飾要素としてよく用いられる。 ・大意： 中傷
+      ・読み方： マブルァ  ・関連語： {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo},
+      {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是可恶的/恼火的/糟糕的/低劣的/卑劣的/可悲的/恶劣的，在性质x2方面，基于标准x3
+    notes:
+    - 各种脏话；参见 {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu},
+      {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.
+    glosses:
+    - No glosses.

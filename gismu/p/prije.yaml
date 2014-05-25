@@ -1,5 +1,66 @@
-Word: prije
-Rafsi: pij
-Definition: x1 is wise/sage about matter x2 (abstraction) to observer x3.
-Notes: See also {bebna}.
-Examples: None
+word: prije
+rafsi:
+- pij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is wise/sage about matter x2 (abstraction) to observer x3.
+    notes:
+    - See also {bebna}.
+    glosses:
+    - wise
+  de:
+    place structure: x1 ist weise/klug bezüglich Angelegenheit x2 (Abstraktion) für
+      Betrachter x3
+    notes:
+    - No notes.
+    glosses:
+    - weise
+  es:
+    place structure: x1 es sabio sobre asunto x2 (abstracción) según observador x3
+    notes:
+    - Ver también {bebna}.
+    glosses:
+    - sabio
+  ru:
+    place structure: x1 умен/мудр в отношении предмета x2 (абстракция) с точки зрения
+      наблюдателя x3
+    notes:
+    - '{bebna} (глупый)'
+    glosses:
+    - x1=мудрый
+    - x2=предмет, в отношении которого мудрый
+  en-simple:
+    place structure: x1 is wise about matter x2 to observer x3
+    notes:
+    - No notes.
+    glosses:
+    - something wise
+    - x2=a subject of wiseness
+    - x3=an observer of wiseness
+  eo:
+    place structure: x1 estas saĝa pri afero x2 (abstraktaĵo) por observanto x3
+    notes:
+    - Vidu ankaŭ {bebna}.
+    glosses:
+    - saĝa
+  hu:
+    place structure: x1 bölcs/józan x2 helyzetben/cselekedetben/tulajdonságban, x3
+      megfigyelő számára
+    notes:
+    - '(Lásd még: {bebna})'
+    glosses:
+    - bölcs
+  ja:
+    place structure: x1 は x2 （事）に関して、 x3 （基準）において賢い
+    notes:
+    - ・大意： 賢い ・読み方： プリジェ  ・関連語： {bebna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是智慧的/明智的，在问题x2（谓词子句）上，对于观察者x3来说
+    notes:
+    - 参见 {bebna}.
+    glosses:
+    - No glosses.

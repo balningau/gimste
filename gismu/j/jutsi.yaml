@@ -1,10 +1,82 @@
-Word: jutsi
-Rafsi: jut
-Definition: x1 is a species of genus x2, family x3, etc.; [open-ended tree-structure
-  categorization].
-Notes: Also subspecies, order, phylum; (places do not correspond to specific levels
-  in the hierarchy; rather, $x_1$ is at a "lower" or "bushier" part of the tree than
-  $x_2$, $x_2$ is "lower" than $x_3$, etc.; skipping a place thus means that there
-  is one or more known-and-unspecified levels of hierarchy between the two); not limited
-  to Linnean animal/plant taxonomy.  See also {klesi}, {lanzu}.
-Examples: None
+word: jutsi
+rafsi:
+- jut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a species of genus x2, family x3, etc.; [open-ended tree-structure
+      categorization].
+    notes:
+    - Also subspecies, order, phylum; (places do not correspond to specific levels
+      in the hierarchy; rather, x1 is at a "lower" or "bushier" part of the tree than
+      x2, x2 is "lower" than x3, etc.; skipping a place thus means that there is one
+      or more known-and-unspecified levels of hierarchy between the two); not limited
+      to Linnean animal/plant taxonomy.  See also {klesi}, {lanzu}.
+    glosses:
+    - species
+  de:
+    place structure: x1 ist eine Spezies von Art/Gattung x2, Familie x3, etc.; [offene
+      Baumstrukur-Kategorisierung]
+    notes:
+    - No notes.
+    glosses:
+    - Spezies
+  es:
+    place structure: x1 es una especie de género x2, familia x3, etc.
+    notes:
+    - (categorización abierta en árbol)
+    glosses:
+    - especie
+  ru:
+    place structure: x1 — вид рода x2, семейства x3 и т.д.
+    notes:
+    - 'Открытая древообразная классификация; Также: подвид, отряд, класс; аргументы
+      не соответствуют конкретным уровням в иерархии; скорее x1 «ниже», чем x2, x2
+      «ниже», чем x3, и т.д.; пропуск аргумента означает тем самым, что между двумя
+      местами есть один или более не указанных уровней иерерхии; не ограничивается
+      Линнеевской классификацией растений/животных {klesi} (класс), {lanzu} (семья)'
+    glosses:
+    - x1=вид (биологический)
+    - x2=род (биологический)
+    - x3=семейство (биологическое)
+  en-simple:
+    place structure: x1 is a species of genus x2, family x3, etc.
+    notes:
+    - No notes.
+    glosses:
+    - a species
+    - x2=a genus of a species
+    - x3=a family of a species
+  eo:
+    place structure: x1 estas specio de genro x2, familio x3, ktp.; [malferma strukturo
+      de kategoriigo]
+    notes:
+    - 'Ankaŭ: subspecio, ordo; (lokoj ne respondas al specifaj niveloj en la hierarkio;
+      pli ĝuste, x1 estas je pli malalta aŭ densa parto de la arbo ol x2, x2 estas
+      pli malalta ol x3, ktp.; transsalti lokon do signifas ke estas unu aŭ pli da
+      konitaj-kaj-nespecifitaj niveloj de hierarkio inter la du); ne limigita al Linnea
+      animalo/planto-taksonomio.  Vidu ankaŭ {klesi}, {lanzu}.'
+    glosses:
+    - specio
+  hu:
+    place structure: x1 egy faj az x2 nemből, az x3 családból, x4 rendből, stb.
+    notes:
+    - 'A helyek nem jelölik a pontos hierarchiai szinteket, de a későbbi helyek magasabb
+      szintet jelentenek (Lásd még: {klesi}, {lanzu})'
+    glosses:
+    - faj
+  ja:
+    place structure: x1 は x2 （属）・ x3 （科）の生物種
+    notes:
+    - リンネ式動植物分類法にかぎらない。「目」「網」「門」…としてx4・x5・６…の追加も。 ・大意： 生物種 ・読み方： ジュツィ ・関連語： {klesi},
+      {lanzu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是一个物种，属于种x2，属x3，……（开放式的树结构分类）
+    notes:
+    - 位并不特定对应某个生物分类等级，基本的原则是：x1是比x2更低的分类等级，x2由低于x3，以此类推；跳过一个位意味着其中有一个或多个未被特定指明的分类等级；并不特定指林奈动物/植物分类学；参见
+      {klesi}, {lanzu}.
+    glosses:
+    - No glosses.

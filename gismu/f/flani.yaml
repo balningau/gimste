@@ -1,5 +1,69 @@
-Word: flani
-Rafsi: ''
-Definition: x1 is a flute/pipe/fife/recorder [flute-like/air-reed musical instrument].
-Notes: See also {zgike}.
-Examples: None
+word: flani
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a flute/pipe/fife/recorder [flute-like/air-reed musical
+      instrument].
+    notes:
+    - See also {zgike}.
+    glosses:
+    - flute
+  de:
+    place structure: x1 ist eine Flöte/Pfeife [flötenartiges Musikinstrument, eventuell
+      mit Rohrblatt]
+    notes:
+    - No notes.
+    glosses:
+    - Flöte
+  es:
+    place structure: x1 es una flauta/quena/gaita (instrumento musical)
+    notes:
+    - No notes.
+    glosses:
+    - flauta
+  ru:
+    place structure: x1 — флейта/дудка/{аналогичный музыкальный инструмент}
+    notes:
+    - '{zgike} (музыка)'
+    glosses:
+    - флейта
+  en-simple:
+    place structure: x1 is a flute, fife, or recorder
+    notes:
+    - No notes.
+    glosses:
+    - a flute
+  eo:
+    place structure: x1 estas fluto/ŝalmo/fifro/hobojo [fluteca/anĉa muzikinstrumento]
+    notes:
+    - Vidu ankaŭ {zgike}.
+    glosses:
+    - fluto
+  hu:
+    place structure: x1 egy fuvola/furulya/síp/egyéb fafúvós hangszer
+    notes:
+    - '(Lásd még: {zgike})'
+    glosses:
+    - fuvola
+  ja:
+    place structure: x1 は簧（した／リード）を用いない木管楽器／フルート／横笛／リコーダー
+    notes:
+    - 「オカリナ」「尺八」「呼子笛（ホイッスル）」など ・大意： 無簧楽器 ・読み方： フゥルァニ  ・関連語： {zgike}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en flöjt/pipa [träblås/vind-rörblad musikinstrument].
+    notes:
+    - No notes.
+    glosses:
+    - flöjt (träblåsinstrument)
+    - pipa (träblåsinstrument)
+  zh:
+    place structure: x1是笛/笛状的吹管乐器
+    notes:
+    - 参见 {zgike}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,68 @@
-Word: tanxe
-Rafsi: tax, ta'e
-Definition: x1 is a box/carton/trunk/crate for contents x2, and made of material x3.
-Notes: See also {bakfu}, {botpi}, {cutne}, {dacru}.
-Examples: None
+word: tanxe
+rafsi:
+- tax
+- ta'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a box/carton/trunk/crate for contents x2, and made of material
+      x3.
+    notes:
+    - See also {bakfu}, {botpi}, {cutne}, {dacru}.
+    glosses:
+    - box
+  de:
+    place structure: x1 ist eine Kiste/Box/Schachtel/ein Karton für Inhalt x2 und
+      aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Kiste
+  es:
+    place structure: x1 es una caja/cajón/baúl para contenido x2, de material x3
+    notes:
+    - No notes.
+    glosses:
+    - caja
+  ru:
+    place structure: x1 — коробка/сундук/ящик/чемодан/картон с содержимым x2, из материала
+      x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2» {bakfu} (связка [пучок]), {botpi}
+      (бутылка), {cutne} (торс), {dacru} (ящик [выдвижной])'
+    glosses:
+    - коробка
+  en-simple:
+    place structure: x1 is a box or crate for contents x2 made of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a box
+    - x2=a content of a box
+    - x3=a material of a box
+  eo:
+    place structure: x1 estas skatolo/kofro/kesto por enhavo x2, kaj el materialo
+      x3
+    notes:
+    - Vidu ankaŭ {bakfu}, {botpi}, {cutne}, {dacru}.
+    glosses:
+    - skatolo
+  hu:
+    place structure: x1 egy doboz/láda x2 tartalommal, x3 anyagból
+    notes:
+    - '(Lásd még: {bakfu}, {botpi}, {cutne}, {dacru})'
+    glosses:
+    - doboz
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）の箱／カートン
+    notes:
+    - 「ダンボール箱」も。 ・大意： 箱 ・読み方： タンクェ  ・関連語： {bakfu}, {botpi}, {cutne}, {dacru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是盒/箱，用于装x2，由材料x3制成
+    notes:
+    - 参见 {bakfu}, {botpi}, {cutne}, {dacru}.
+    glosses:
+    - No glosses.

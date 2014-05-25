@@ -1,5 +1,71 @@
-Word: jinto
-Rafsi: ''
-Definition: x1 is a well/spring of fluid x2 at location x3.
-Notes: See also {krasi}, {djacu}, {fenra}.
-Examples: None
+word: jinto
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a well/spring of fluid x2 at location x3.
+    notes:
+    - See also {krasi}, {djacu}, {fenra}.
+    glosses:
+    - well (source of water or other fluid)
+  de:
+    place structure: x1 ist eine Quelle/ein Brunnen von Flüssigkeit x2 an Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Quelle
+  es:
+    place structure: x1 es un pozo/aljibe/manantial/fuente de fluido x2 ubicado en
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - pozo
+  ru:
+    place structure: x1 — колодец/ключ/источник жидкости x2, находящийся в x3 (где)
+    notes:
+    - '{krasi} (источник [начало]), {djacu} (вода), {fenra} (трещина)'
+    glosses:
+    - ключ (источник)
+    - x2=ключевая жидкость (вода)
+  en-simple:
+    place structure: x1 is a well or spring of fluid x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a well
+    - x2=a fluid in a well
+    - x3=a location of a well
+  eo:
+    place structure: x1 estas puto/fonto de fluaĵo x2 en loko x3
+    notes:
+    - Vidu ankaŭ {krasi}, {djacu}, {fenra}.
+    glosses:
+    - puto
+  hu:
+    place structure: x1 egy forrás/kút [x2 folyadék tör a felszínre] x3 helyen
+    notes:
+    - '(Lásd még: {krasi}, {djacu}, {fenra})'
+    glosses:
+    - forrás
+  ja:
+    place structure: x1 は x2 （液体）・ x3 （所）の井戸／（石油／天然ガスの）井／泉／鉱泉／温泉
+    notes:
+    - 「.ausai mi xabju lo stuzi be lo glajau jinto／私はどうでも温泉所在地に草庵を結びたい」（山頭火『行乞記（二）』）
+      ・大意： 井戸 ・読み方： ジント  ・語呂合わせ： 井戸、現地人と。 ・関連語： {krasi}, {djacu}, {fenra}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en källa/brunn med vätska x2 på plats x3.
+    notes:
+    - No notes.
+    glosses:
+    - källa (med vatten eller annan vätska)
+  zh:
+    place structure: x1是井/泉眼，含有液体x2，处于位置x3
+    notes:
+    - 参见 {krasi}, {djacu}, {fenra}.
+    glosses:
+    - No glosses.

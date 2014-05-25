@@ -1,5 +1,62 @@
-Word: xutla
-Rafsi: xul
-Definition: x1 is smooth/even/[soft/silky] in texture/regularity.
-Notes: See also {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}.
-Examples: None
+word: xutla
+rafsi:
+- xul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is smooth/even/[soft/silky] in texture/regularity.
+    notes:
+    - See also {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}.
+    glosses:
+    - smooth
+  de:
+    place structure: x1 ist glatt/eben/[weich/geschmeidig] in Oberfläche/Regelmäßigkeit
+    notes:
+    - No notes.
+    glosses:
+    - glatt
+  es:
+    place structure: x1 es suave en textura
+    notes:
+    - Ver también {rufsu},  {tengu},  {dikni}.
+    glosses:
+    - suave
+  ru:
+    place structure: x1 — гладкий/ровный/{шелковый} в отношении текстуры/регулярности
+    notes:
+    - '{plita} (плоскость), {rufsu} (шероховатый), {tengu} (текстура), {dikni} (регулярный
+      [циклический]), {pinta} (горизонтальный), {sakli} (скользить), {spali} (полировать)'
+    glosses:
+    - гладкий
+  en-simple:
+    place structure: x1 is smooth
+    notes:
+    - No notes.
+    glosses:
+    - something smooth
+  eo:
+    place structure: x1 estas glata/ebena/[mola/silka] en tekseco/reguleco
+    notes:
+    - Vidu ankaŭ {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}.
+    glosses:
+    - glata
+  hu:
+    place structure: x1 sima/egyenletes/lágy felületű/szabályosságú
+    notes:
+    - '(Lásd még: {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali})'
+    glosses:
+    - sima
+  ja:
+    place structure: x1 は x2 （性質）に関して滑らか／すべすべ／つるうるしている
+    notes:
+    - x2 は布地表面や起伏特性など。 ・大意： 滑らか ・読み方： クゥトルァ ・関連語： {plita}, {rufsu}, {tengu}, {dikni},
+      {pinta}, {sakli}, {spali}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是平滑的/平整的/光滑的
+    notes:
+    - 参见 {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}.
+    glosses:
+    - No glosses.

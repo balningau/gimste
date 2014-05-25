@@ -1,11 +1,86 @@
-Word: pajni
-Rafsi: pai
-Definition: x1 judges/referees/arbitrates/is a judge determining/deciding matter x2
-  (abstract).
-Notes: $x_2$ includes jei = rule ({jetpai}), ni = estimate ({lairpai}), ka = evaluate
-  ({kairpai} or {vampai}), or nu = referee/arbitrate ({faurpai}); single events of
-  judging including specific decisions/judgements (= {paijdi}, {jetpaijdi}, {lairpaijdi},
-  {kairpaijdi}, {vampaijdi}, {faurpaijdi}); jury (= {pairkamni}), serve on a jury
-  (= {kamnypai}, as part of mass $x_1$).  See also {cuxna}, {jdice}, {vajni}, {cipra},
-  {zekri}, {manri}, {mansa}.
-Examples: None
+word: pajni
+rafsi:
+- pai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 judges/referees/arbitrates/is a judge determining/deciding
+      matter x2 (abstract).
+    notes:
+    - x2 includes jei = rule ({jetpai}), ni = estimate ({lairpai}), ka = evaluate
+      ({kairpai} or {vampai}), or nu = referee/arbitrate ({faurpai}); single events
+      of judging including specific decisions/judgements (= {paijdi}, {jetpaijdi},
+      {lairpaijdi}, {kairpaijdi}, {vampaijdi}, {faurpaijdi}); jury (= {pairkamni}),
+      serve on a jury (= {kamnypai}, as part of mass x1).  See also {cuxna}, {jdice},
+      {vajni}, {cipra}, {zekri}, {manri}, {mansa}.
+    glosses:
+    - judge
+  de:
+    place structure: x1 urteilt/richtet/schlichtet/vermittelt/ist ein Richter/Schiedsrichter
+      und bestimmt/befindet in Sache x2 (Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - urteilen
+  es:
+    place structure: x1 juzga/arbitra/es juez/árbitro en asunto x2
+    notes:
+    - No notes.
+    glosses:
+    - juzgar
+  ru:
+    place structure: x1 — судья/арбитр/рефери, рассматривающий/разбирающий дело/вопрос
+      x2 (абстракция); x1 судит об x2
+    notes:
+    - 'x2 включает {jei}: ({jetpai}), {ni}: ({lairpai}), {ka}: ({kairpai} или {vampai})
+      — все lujvo можно перевести как «оценивает/судит», соотв. «верно ли/насколько/каково»;
+      Также: {nu}: арбитр/рефери/посредник ({faurpai}); для единичных актов суждения,
+      включающих конкретное решение/постановление: {paijdi}, {jetpaijdi}, {lairpaijdi},
+      {kairpaijdi}, {vampaijdi}, {faurpaijdi}; коллегия присяжных/жюри: {pairkamni},
+      быть членом коллегии/жюри: {kamnypai}, как часть массы x1 {cuxna} (выбирать),
+      {jdice} (решать [принимать решение]), {vajni} (важный [имеющий значение]), {cipra}
+      (проверка), {zekri} (преступление), {manri} (эталон), {mansa} (удовлетворять)'
+    glosses:
+    - x1=судья
+    - x2=судебное дело
+  en-simple:
+    place structure: x1 judges matter x2
+    notes:
+    - No notes.
+    glosses:
+    - a judge
+    - x2=a matter judged
+  eo:
+    place structure: x1 juĝas/arbitracias determinante/decidante aferon x2 (abstraktaĵo)
+    notes:
+    - 'x2 inkluzivas je: jei = regulo (jetpai), ni = kvantotakso (lairpai), ka = ecotakso
+      (kairpai aŭ vampai), aŭ nu = arbitracii (faurpai); unuopaj okazoj de juĝado,
+      inkluzive de specifaj decidoj/juĝoj (= {paijdi}, {jetpaijdi}, {lairpaijdi},
+      {kairpaijdi}, {vampaijdi}, {faurpaijdi}); ĵurio (= {pairkamni}), servi en ĵurio
+      (= kamnypai, kiel parto de kolektivaĵo x1).  (kp. cŭna, jdice, vajni, cipra,
+      zekri, manri, mansa)'
+    glosses:
+    - juĝi
+  hu:
+    place structure: x1 egy bíró/bíráskodik x2 ügyben
+    notes:
+    - '(Lásd még: {cuxna}, {jdice}, {vajni}, {cipra}, {zekri}, {manri}, {mansa})'
+    glosses:
+    - bíró
+  ja:
+    place structure: x1 は x2 （事）について審判する／仲裁する
+    notes:
+    - 「レフェリー」も。 ・大意： 審判 ・読み方： パジニ  ・関連語： {cuxna}, {jdice}, {vajni}, {cipra}, {zekri},
+      {manri}, {mansa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1裁决/裁判/判决问题x2；x1是裁判
+    notes:
+    - X2位：若包括jei = 规则{jetpai}，若包括ni = 估值{lairpai}，若包括ka = 估计/估量{kairpai}/{vampai}，若包括nu
+      = 仲裁/裁判{faurpai}；包含了决定/裁决的评价={paijdi}, {jetpaijdi}, {lairpaijdi}, {kairpaijdi},
+      {vampaijdi}, {faurpaijdi}；陪审团/评判委员会= {pairkamni}；担任评判员/陪审员={kamnypai}作为团体x1的一部分；参见
+      {cuxna}, {jdice}, {vajni}, {cipra}, {zekri}, {manri}, {mansa}.
+    glosses:
+    - No glosses.

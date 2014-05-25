@@ -1,5 +1,71 @@
-Word: cunmi
-Rafsi: ''
-Definition: x1 is a quantity of millet [grain] of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: cunmi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of millet [grain] of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - millet
+  de:
+    place structure: x1 ist eine gewisse Menge/besteht aus/enthält Hirse [Getreide]
+      von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Hirse
+  es:
+    place structure: x1 es una cantidad de mijo (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - mijo
+  ru:
+    place structure: x1 — просо (зерна) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - просо
+  en-simple:
+    place structure: x1 is a quantity of millet or grain of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of millet
+    - x2=a species of nillet
+  eo:
+    place structure: x1 estas kvanto da milio [greno] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - milio
+  hu:
+    place structure: x1 bizonyos mennyiségű kölesmag az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - köles
+  ja:
+    place structure: x1 は x2 （品種）のキビ粒
+    notes:
+    - ・大意： キビ ・読み方： シュンミ  ・語呂合わせ： 旬味 ・関連語： {gurni}
+    - ''
+    glosses:
+    - 黍 (穀粒)
+    - x1=キビ (穀粒)
+  sv:
+    place structure: x1 är hirs av art/sort x2.
+    notes:
+    - Hirs inkluderar arter i flera genera, så i vetenskaplig användning av ordet
+      bör det reserveras för att endast beteckna Panicum miliaceum (vanlig hirs).
+    glosses:
+    - x1=hirs
+    - x2=hirssort
+  zh:
+    place structure: x1是小米/粟，属于品种/种类x2
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,76 @@
-Word: jinsa
-Rafsi: jis
-Definition: x1 (object) is clean/pure of material/contaminant/dirt x2 by standard
-  x3.
-Notes: See also {lumci}, {jinru}, {curve}, {sepli}.
-Examples: None
+word: jinsa
+rafsi:
+- jis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object) is clean/pure of material/contaminant/dirt x2 by
+      standard x3.
+    notes:
+    - See also {lumci}, {jinru}, {curve}, {sepli}.
+    glosses:
+    - clean
+  de:
+    place structure: x1 (Objekt) ist sauber/rein/unverschmutzt von Material/Verunreinigung/Schmutz
+      x2 gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - sauber
+  es:
+    place structure: x1 está limpio de material/contaminante/suciedad x2 según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - limpio
+  ru:
+    place structure: x1 (объект) очищен/чист от материала/загрязнения/грязи x2 по
+      стандарту x3
+    notes:
+    - '{lumci} (мыть), {jinru} (погруженный [в жидкость]), {curve} (чистый [100%]),
+      {sepli} (отделенный)'
+    glosses:
+    - x1=чистый
+    - x2=грязь
+  en-simple:
+    place structure: x1 is clean of material x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something clean
+    - x2=a material something is clean of
+    - x3=a cleanliness standard
+  eo:
+    place structure: x1 (objekto) estas pura/nemakulita de materialo/malpuraĵo x2
+      laŭ normo x3
+    notes:
+    - Vidu ankaŭ {lumci}, {jinru}, {curve}, {sepli}.
+    glosses:
+    - pura
+  hu:
+    place structure: x1 tiszta x2 (szennyező)anyagtól x3 mérce szerint
+    notes:
+    - '(Lásd még: {lumci}, {jinru}, {curve}, {sepli})'
+    glosses:
+    - tiszta
+  ja:
+    place structure: x1 は x2 （汚れ）を x3 （観点）において持っていない；  x1 は汚れていない／清らか
+    notes:
+    - ・大意： 清らか ・読み方： ジンサ  ・語呂合わせ： 清らかな人災 ・関連語： {lumci}, {jinru}, {curve}, {sepli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (objekt) är ren/rengjord/städad/tvättad från förorening/smuts
+      x2 enligt standard x3.
+    notes:
+    - No notes.
+    glosses:
+    - ren (städad/rengjord/tvättad)
+  zh:
+    place structure: x1是干净的/纯净的，不含有污渍/秽物x2，基于标准x3
+    notes:
+    - 参见 {lumci}, {jinru}, {curve}, {sepli}.
+    glosses:
+    - No glosses.

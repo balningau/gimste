@@ -1,12 +1,110 @@
-Word: ciksi
-Rafsi: cki
-Definition: x1 (person) explains x2 (event/state/property) to x3 with explanation
-  x4 (du'u).
-Notes: Explanation $x_4$ is an underlying mechanism/details/purpose/method for $x_2$
-  (= velcki for reordered places), generally assumed to be non-obvious; metaphorical
-  usage with the various causal relations (i.e. jalge, mukti, krinu, rinka, nibli,
-  zukte) is possible, but the non-obviousness, and the existence of an explainer with
-  a point of view makes this word not a simple expression of cause.  See also {cipra},
-  {danfu}, {jalge}, {jinvi}, {krinu}, {mukti}, {nabmi}, {preti}, {rinka}, {sidbo},
-  {zukte}, {tavla}.
-Examples: None
+word: ciksi
+rafsi:
+- cki
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) explains x2 (event/state/property) to x3 with explanation
+      x4 (du'u).
+    notes:
+    - Explanation x4 is an underlying mechanism/details/purpose/method for x2 (= velcki
+      for reordered places), generally assumed to be non-obvious; metaphorical usage
+      with the various causal relations (i.e. jalge, mukti, krinu, rinka, nibli, zukte)
+      is possible, but the non-obviousness, and the existence of an explainer with
+      a point of view makes this word not a simple expression of cause.  See also
+      {cipra}, {danfu}, {jalge}, {jinvi}, {krinu}, {mukti}, {nabmi}, {preti}, {rinka},
+      {sidbo}, {zukte}, {tavla}.
+    glosses:
+    - explain
+  de:
+    place structure: x1 (Person) erklärt x2 (Ereignis/Zustand/Eigenschaft) x3 mit
+      Erklärung x4 (du'u)
+    notes:
+    - No notes.
+    glosses:
+    - erklären
+  es:
+    place structure: x1 explica/aclara x2 a x3 con explicación x4
+    notes:
+    - No notes.
+    glosses:
+    - explicar
+  ru:
+    place structure: 'x1 объясняет x2 (что: событие/состояние/свойство) x3 (кому)
+      с помощью объяснения x4 ({du''u})'
+    notes:
+    - 'Объяснение x4 — механизм, лежащий в основе x2, Также: детали, назначение, метод:
+      {velcki} с переставленными местами) — обычно нечто неочевидное; метафорическое
+      использование с различными причинно-следственными отношениями (т.е. {jalge},
+      {mukti}, {krinu}, {rinka}, {nibli}, {zukte}) возможно, но, в отличие от простого
+      указания на причину, для [ciksi] существенны неочевидность и наличие объясняющего
+      лица с определенной точкой зрения {cipra} (проверка), {danfu} (ответ), {jalge}
+      (результат), {jinvi} (считать [полагать]), {krinu} (резон), {mukti} (повод),
+      {nabmi} (проблема), {preti} (вопрос), {rinka} (причина [физическая]), {sidbo}
+      (концепция), {zukte} (действовать), {tavla} (говорить [о чем-либо])'
+    glosses:
+    - объяснять
+    - x1=объясняющий
+    - x2=объясняемый
+  en-simple:
+    place structure: x1 explains x2 to x3 with explanation x4
+    notes:
+    - No notes.
+    glosses:
+    - an explainer
+    - x2=something explained
+    - x3=something explained to
+    - x4=an explanation
+  eo:
+    place structure: x1 (homo) klarigas x2-on (okazo/stato/eco) al x3 per klarigo
+      x4 (du'u)
+    notes:
+    - Klarigo x4 estas subkuŝanta mekanismo/detaloj/celo/metodo por x2 (= velcki por
+      reordigitaj {lokoj}), ĝenerale supozita ne memevidenta; metafora uzo kun la
+      kaŭzaj rilatoj (t.e. jalge, mukti, krinu, rinka, nibli, zukte) estas ebla, sed
+      la ne-memevidenteco, kaj la ekzisto de klariganto kun vidpunkto igas ĉi tiun
+      vorton ne simpla esprimo de kaŭzo.  Vidu ankaŭ {cipra}, {danfu}, {jalge}, {jinvi},
+      {krinu}, {mukti}, {nabmi}, {preti}, {rinka}, {sidbo}, {zukte}, {tavla}.
+    glosses:
+    - klarigi
+  hu:
+    place structure: x1 magyarázza x2 eseményt/állapotot/tulajdonságot x3-nak, x4
+      magyarázattal
+    notes:
+    - '(Lásd még: {cipra}, {danfu}, {jalge}, {jinvi}, {krinu}, {mukti}, {nabmi}, {preti},
+      {rinka}, {sidbo}, {zukte}, {tavla})'
+    glosses:
+    - magyaráz
+  ja:
+    place structure: x1 （者）は x2 （事／状態／性質）を x3 （者）に x4 （命題, du'u）で説明／弁明／解説する
+    notes:
+    - ・大意： 説明 ・読み方： シクスィ  ・関連語： {cipra}, {danfu}, {jalge}, {jinvi}, {krinu}, {mukti},
+      {nabmi}, {preti}, {rinka}, {sidbo}, {zukte}, {tavla}
+    - ''
+    glosses:
+    - 弁明
+    - 解説
+    - 説明
+  sv:
+    place structure: x1 (person) förklarar x2 (händelse/tillstånd/egenskap) för x3
+      med förklaring x4 (du'u).
+    notes:
+    - Förklaring x4 är en underliggande mekanism/detaljer/syfte/metod för x2, vilket
+      generellt antas vara icke-uppenbart; metaforisk användning med de varierande
+      kausala förhållandena (eg. {jalge}, {mukti}, {krinu}, {rinka}, {nibli}, {zukte})
+      är möjligt, men det icke uppenbara, samt förekomsten av en förklarare med sin
+      syn på saken gör detta ord till ett inte så enkelt uttryck för orsak.
+    glosses:
+    - förklara
+    - x1=förklarare
+    - x2=förklarad (händelse/tillstånd/egenskap)
+    - x3=förklaringsmottagare
+    - x4=förklaring
+  zh:
+    place structure: x1（人）解释x2（事物/状态/性质）给x3，使用说辞/借口/原因x4（du'u）
+    notes:
+    - 借口/原因x4是被用来解释x2的详细说明，通常假设其是不明显的，且其逻辑关系存在各种可能（即：jalge, mukti, krinu, rinka, nibli,
+      zukte），但带有自身看法的解释者x1的存在使得其不能简单地理解为各种已有的逻辑关系； 参见 {cipra}, {danfu}, {jalge}, {jinvi},
+      {krinu}, {mukti}, {nabmi}, {preti}, {rinka}, {sidbo}, {zukte}, {tavla}.
+    glosses:
+    - No glosses.

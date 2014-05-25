@@ -1,8 +1,86 @@
-Word: cunso
-Rafsi: cun, cu'o
-Definition: x1 is random/fortuitous/unpredictable under conditions x2, with probability
-  distribution x3.
-Notes: Also accidental, chancy, by chance, adventitious, arbitrary (also = {cuncu'a},
-  {cunselcu'a}, {cunjdi}, {cunseljdi}; based on "unpredictable").  See also {cnici},
-  {lakne}, {funca}, {kalsa}, {snuti}.
-Examples: None
+word: cunso
+rafsi:
+- cun
+- cu'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is random/fortuitous/unpredictable under conditions x2, with
+      probability distribution x3.
+    notes:
+    - Also accidental, chancy, by chance, adventitious, arbitrary (also = {cuncu'a},
+      {cunselcu'a}, {cunjdi}, {cunseljdi}; based on "unpredictable").  See also {cnici},
+      {lakne}, {funca}, {kalsa}, {snuti}.
+    glosses:
+    - random
+  de:
+    place structure: x1 ist zufällt/unvorhersehbar unter Umständen mit Wahrscheinlichkeitsverteilung
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - zufällig
+  es:
+    place structure: x1 (evento) es aleatorio/al azar bajo condiciones x2, con distribución
+      de probabilidad x3
+    notes:
+    - Ver también {funca},  {kalsa}.
+    glosses:
+    - aleatorio
+  ru:
+    place structure: x1 — случайный/непредсказуемый в условиях x2, с распределением
+      вероятности x3
+    notes:
+    - 'Также: непреднамеренный, произвольный, неожиданный, бессистемный, рискованный;
+      Также: {cuncu''a}, {cunselcu''a}, {cunjdi}, {cunseljdi} — lujvo, основанные
+      на идее «непредсказуемости» {cnici} (упорядоченный), {lakne} (вероятный), {funca}
+      (зависеть от удачи), {kalsa} (хаотический), {snuti} (случайный [непреднамеренный])'
+    glosses:
+    - x1=случайный
+  en-simple:
+    place structure: x1 is random under conditions x2 with probability distribution
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - something random
+    - x2=a condition of randomness
+    - x3=a randomness probability distribution
+  eo:
+    place structure: x1 estas hazarda/sencela sub kondiĉoj x2, kun distribuo de probableco
+      x3
+    notes:
+    - 'Ankaŭ: akcidenta, ŝanca, adventica, arbitra (ankaŭ = cuncu''a, cunselcu''a,
+      cunjdi, cunseljdi).  Vidu ankaŭ {cnici}, {lakne}, {funca}, {kalsa}, {snuti}.'
+    glosses:
+    - hazarda
+  hu:
+    place structure: x1 véletlen(szerű)/váratlan/kiszámíthatatlan/valószínűtlen x2
+      körülmények között, x3 valószínűségi eloszlással
+    notes:
+    - '(Lásd még: {cnici}, {lakne}, {funca}, {kalsa}, {snuti})'
+    glosses:
+    - véletlenszerű
+  ja:
+    place structure: x1 は x2 （条件）において確率分布 x3 で無原則／無作為／ランダム／でたらめ
+    notes:
+    - ・大意： 無作為 ・読み方： シュンソ  ・関連語： {cnici}, {lakne}, {funca}, {kalsa}, {snuti}
+    - ''
+    glosses:
+    - ランダム
+    - 無作為
+  sv:
+    place structure: x1 är slumpmässig/oförutsägbar/sker av en tillfällighet under
+      omständigheter/villkor x2, med sannolikhetsdistribution x3.
+    notes:
+    - Även tillfälligtvis, händelsevis, av (en ren) slump, chansartad/osäker, godtycklig.
+    glosses:
+    - händelsevis
+    - slumpmässig
+  zh:
+    place structure: x1是随机的/不可预测的，在条件x2下，可能的结果分布为x3
+    notes:
+    - 也指：意外的，偶然的；基于其“不可预测”的含义，有{cuncu'a}, {cunselcu'a}, {cunjdi}, {cunseljdi}；参见 {cnici},
+      {lakne}, {funca}, {kalsa}, {snuti}.
+    glosses:
+    - No glosses.

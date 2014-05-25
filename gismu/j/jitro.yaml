@@ -1,10 +1,102 @@
-Word: jitro
-Rafsi: tro
-Definition: x1 has control over/harnesses/manages/directs/conducts x2 in x3 (activity/event/performance).
-Notes: $x_2$ are aspects/individuals controlled within activity/event $x_3$; manage
-  (= {selzuktro}, {selzukfu'e}, {gu'etro}, {gunfu'e}, {xaktro}, {xakfu'e}) (as distinct
-  from manager/boss = {gunterbe'e}, {gunja'a}, {gunmi'e}, {gunca'i}).  (cf. cmavo
-  list {ji'o}, {bapli}, te {bende}, {gidva} - which does not necessarily control or
-  command, {jatna}, {macnu}, {minde}, {ponse}, {ralju}, {rinka}, {sazri}, {turni},
-  {vlipa}, {xance}, {xlura})
-Examples: None
+word: jitro
+rafsi:
+- tro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 has control over/harnesses/manages/directs/conducts x2 in
+      x3 (activity/event/performance).
+    notes:
+    - x2 are aspects/individuals controlled within activity/event x3; manage (= {selzuktro},
+      {selzukfu'e}, {gu'etro}, {gunfu'e}, {xaktro}, {xakfu'e}) (as distinct from manager/boss
+      = {gunterbe'e}, {gunja'a}, {gunmi'e}, {gunca'i}).  (cf. cmavo list {ji'o}, {bapli},
+      te {bende}, {gidva} - which does not necessarily control or command, {jatna},
+      {macnu}, {minde}, {ponse}, {ralju}, {rinka}, {sazri}, {turni}, {vlipa}, {xance},
+      {xlura})
+    glosses:
+    - control
+    - x1=manager (director)
+  de:
+    place structure: x1 hat die Kontrolle über/managet/führt/leitet/steuert x2 in
+      x3 (Aktivität/Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - kontrollieren
+  es:
+    place structure: x1 controla/maneja/dirige/conduce a x2 en actividad x3
+    notes:
+    - No notes.
+    glosses:
+    - controlar
+  ru:
+    place structure: x1 контролирует/направляет/управляет x2 в деятельности/событии
+      x3
+    notes:
+    - 'Также: дирижирует; x2 — подконтрольные аспекты/индивидуумы в событии/деятельности
+      x3; «руководит», «заведует», «правит», «распоряжается» в различных ситуациях:
+      {selzuktro}, {selzukfu''e}, {gu''etro}, {gunfu''e}, {xaktro}, {xakfu''e}; начальник/менеджер/босс:
+      {gunterbe''e}, {gunja''a}, {gunmi''e}, {gunca''i} {ji''o}, {bapli} (заставлять),
+      {te} {bende} (команда), {gidva} (вести [направлять/быть лидером]) — не обязательно
+      контролирует или приказывает, {jatna} (лидер), {macnu} (ручной [не автоматический]),
+      {minde} (командовать), {ponse} (владеть), {ralju} (главный), {rinka} (причина
+      [физическая]), {sazri} (управлять [механизмом]), {turni} (править), {vlipa}
+      (могучий), {xance} (кисть [руки]), {xlura} (влиять)'
+    glosses:
+    - контролировать
+    - x1=контролирующий
+  en-simple:
+    place structure: x1 has control over x2 in x3
+    notes:
+    - No notes.
+    glosses:
+    - a controller
+    - x2=something under control
+    - x3=a controlled activity
+  eo:
+    place structure: x1 regas/jungas/direktas/kondukas x2-on en x3 (ago/okazo/faro)
+    notes:
+    - x2 estas aspektoj/individuoj regataj en ago/okazo x3; direkti (= {selzuktro},
+      {selzukfu'e}, {gu'etro}, {gunfu'e}, {xaktro}, {xakfu'e}) (estro/ĉefo = gunterbe'e,
+      gunja'a, gunmi'e, gunca'i).  (kp. cmavo ji'o, bapli, te bende, gidva - kiu ne
+      nepre regas aŭ komandas, jatna, macnu, minde, ponse, ralju, rinka, sazri, turni,
+      vlipa, xance, xlura)
+    glosses:
+    - regi
+  hu:
+    place structure: x1 irányítja/vezeti x2-t x3 helyzetben
+    notes:
+    - '(Lásd még: {bapli}, {bende}, {gidva}, {jatna}, {macnu}, {minde}, {ponse}, {ralju},
+      {rinka}, {sazri}, {turni}, {vlipa}, {xance}, {xlura})'
+    glosses:
+    - irányít
+  ja:
+    place structure: x1 は x2 を x3 （動作／事）に関して制御／指揮／引率する
+    notes:
+    - ・大意： 制御 ・読み方： ジトロ  ・語呂合わせ： control ・関連語： {bapli} (作用力), {vlipa} (有力), {xlura}
+      (影響), {turni} (統治), {minde} (命令), {gidva} (案内), {te} {bende}, {jatna}, {macnu},
+      {ponse}, {ralju}, {rinka}, {sazri}, {xance}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 har kontroll över/tyglar/hanterar/sköter om/förvaltar/styr/leder
+      x2 i x3 (aktivitet/skeende/framförande).
+    notes:
+    - x2 är aspekter/enskildheter/individer kontrollerade inom aktivitet/skeende x3;
+      hantera/förvalta (= {selzuktro}, {selzukfu'e}, {gu'etro}, {gunfu'e}, {xaktro},
+      {xakfu'e}) (åtskild från chef = {gunterbe'e}, {gunja'a}, {gunmi'e}, {gunca'i}).
+      (jfr cmavo lista {ji'o}, {bapli}, {te bende}, {gidva} - vilken inte nödvändigtvis
+      kontrollerar eller beordrar).
+    glosses:
+    - hantera (aspekter/enskildhet inom x3)
+    - kontrollera (aspekter/enskildhet inom x3)
+  zh:
+    place structure: x1控制/管理/指挥x2，在x3（行为/事件/表现）中
+    notes:
+    - x2是被控制的方面/个体，在行为/事件x3中；管理/经营（= {selzuktro}, {selzukfu'e}, {gu'etro}, {gunfu'e},
+      {xaktro}, {xakfu'e}）；管理者/经理/老板=（ {gunterbe'e}, {gunja'a}, {gunmi'e}, {gunca'i}）；参见
+      {ji'o}, {bapli}, te {bende}, {gidva}, {jatna}, {macnu}, {minde}, {ponse}, {ralju},
+      {rinka}, {sazri}, {turni}, {vlipa}, {xance}, {xlura}
+    glosses:
+    - No glosses.

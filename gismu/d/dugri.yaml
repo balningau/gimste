@@ -1,5 +1,77 @@
-Word: dugri
-Rafsi: dug
-Definition: x1 is the logarithm of x2 with base x3.
-Notes: See also {tenfa}.
-Examples: None
+word: dugri
+rafsi:
+- dug
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the logarithm of x2 with base x3.
+    notes:
+    - See also {tenfa}.
+    glosses:
+    - logarithm (mathematical)
+  jbo:
+    place structure: x2 tenfa x3 boi x1 .i x1 nu'a de'o x2 boi x3
+    notes:
+    - '{tenfa}; {de''o}'
+    glosses:
+    - dugri
+  de:
+    place structure: x1 ist der Logarithmus von x2 zur Basis x3
+    notes:
+    - No notes.
+    glosses:
+    - Logarithmus
+  es:
+    place structure: x1 es el logaritmo de x2 con base x3
+    notes:
+    - Ver también {tenfa}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — логарифм x2 по основанию x3
+    notes:
+    - '{tenfa} (степень [результат возведения в степень])'
+    glosses:
+    - x2=логарифмируемое число
+    - x3=основание логарифма
+  en-simple:
+    place structure: x1 is the logarithm of x2 with base x3
+    notes:
+    - No notes.
+    glosses:
+    - a logarithm
+    - x2=something with a logarithm
+    - x3=a base of a logarithm
+  eo:
+    place structure: x1 estas la logaritmo de x2 en bazo x3
+    notes:
+    - Vidu ankaŭ {tenfa}.
+    glosses:
+    - logaritmo
+  hu:
+    place structure: x1 a logaritmusa x2-nek, x3 alappal
+    notes:
+    - '(Lásd még: {tenfa})'
+    glosses:
+    - logaritmus
+  ja:
+    place structure: x1 は x2 ・ x3 （底）の対数
+    notes:
+    - ・大意： 対数 ・読み方： ドゥグリ  ・関連語： {tenfa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är logaritmen av exponent x2 med basen x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=logaritm
+    - x2=exponent (logaritm)
+    - x3=bas (logaritm)
+  zh:
+    place structure: x1是x2的对数（x2为真数），底数为x3
+    notes:
+    - 参见 {tenfa}.
+    glosses:
+    - No glosses.

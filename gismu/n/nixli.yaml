@@ -1,6 +1,81 @@
-Word: nixli
-Rafsi: nix, xli
-Definition: x1 is a girl [young female person] of age x2 immature by standard x3.
-Notes: Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla},
-  {verba}, {ninmu}.
-Examples: None
+word: nixli
+rafsi:
+- nix
+- xli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a girl [young female person] of age x2 immature by standard
+      x3.
+    notes:
+    - Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla},
+      {verba}, {ninmu}.
+    glosses:
+    - girl
+  de:
+    place structure: x1 ist ein Mädchen [junge weibliche Person] in Alter x2, unreif
+      gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Mädchen
+  es:
+    place structure: x1 es una niña/chica/muchacha de edad x2 inmadura según estándar
+      x3
+    notes:
+    - Ver también {nanla},  {verba},  {ninmu}.
+    glosses:
+    - niña
+  ru:
+    place structure: x1 — девочка/девушка (молодое лицо женского пола) возраста x2,
+      незрелая относительно критерия x3
+    notes:
+    - '{nanla} (мальчик), {verba} (ребенок), {ninmu} (женщина)'
+    glosses:
+    - x1=девочка
+    - x2=возраст девочки
+    - x3=критерий незрелости девочки
+  en-simple:
+    place structure: x1 is a girl of age x2 immature by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - a girl
+    - x2=an age of a girl
+    - x3=a standard of girlhood
+  eo:
+    place structure: x1 estas knabino [juna ina homo] de aĝo x2 nematura laŭ normo
+      x3
+    notes:
+    - Vorto evitinda en metaforo/ekzemplo kiel seksisma; (uzu je verba).  Vidu ankaŭ
+      {nanla}, {verba}, {ninmu}.
+    glosses:
+    - knabino
+  hu:
+    place structure: x1 egy lány [fiatal nőnemű személy], aki x2 korú, és x3 norma
+      szerint kiskorú/éretlen
+    notes:
+    - '(Lásd még: {nanla}, {verba}, {ninmu}, {tixnu})'
+    glosses:
+    - lány (kiskorú nőnemű)
+  ja:
+    place structure: x1 は x2 （年齢）・ x3 （基準）の少女／未成熟の女
+    notes:
+    - セクシズムを避けるなら「verba」。 ・大意： 少女 ・読み方： ニクゥルィ ・語呂合わせ： 少女の肉類 ・関連語： {nanla}, {verba},
+      {ninmu}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: 'x1 to dziewczyna [młody człowiek płci żeńskiej] wieku x2 niedojrzała
+      według standardu x3. '
+    notes:
+    - Cf. {nanla}, {verba}, {ninmu}.
+    glosses:
+    - x1=dziewczyna
+  zh:
+    place structure: x1是女孩（未成年的女性），年纪为x2，基于成熟标准x3
+    notes:
+    - 参见 {nanla}, {verba}, {ninmu}.
+    glosses:
+    - No glosses.

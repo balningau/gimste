@@ -1,5 +1,62 @@
-Word: sunga
-Rafsi: sug
-Definition: x1 is a quantity of garlic [bulb] of species/strain x2.
-Notes: See also {stagi}.
-Examples: None
+word: sunga
+rafsi:
+- sug
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of garlic [bulb] of species/strain x2.
+    notes:
+    - See also {stagi}.
+    glosses:
+    - garlic
+  de:
+    place structure: x1 ist eine Menge an Knoblauch [Knolle] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Knoblauch
+  es:
+    place structure: x1 es un ajo de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - ajo
+  ru:
+    place structure: x1 — чеснок (головок) вида/сорта x2
+    notes:
+    - '{stagi} (овощ)'
+    glosses:
+    - x1=чеснок
+    - x2=вид чеснока
+  en-simple:
+    place structure: x1 is a quantity of garlic of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of garlic
+    - x2=a species of garlic
+  eo:
+    place structure: x1 estas kvanto da ajlo [bulbo] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {stagi}.
+    glosses:
+    - ajlo
+  hu:
+    place structure: x1 bizonyos mennyiségű fokhagyma[fej] [Allium sativum] az x2
+      fajból/fajtából
+    notes:
+    - '(Lásd még: {stagi})'
+    glosses:
+    - fokhagyma
+  ja:
+    place structure: x1 は x2 （種類）のニンニク
+    notes:
+    - ・大意： ニンニク ・読み方： スンガ  ・関連語： {sluni （上位概念）< {stagi} (上位概念)
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蒜，属于种类/品种x2
+    notes:
+    - 参见 {stagi}.
+    glosses:
+    - No glosses.

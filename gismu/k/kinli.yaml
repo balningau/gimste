@@ -1,5 +1,60 @@
-Word: kinli
-Rafsi: kil
-Definition: x1 is sharp/keen at locus x2.
-Notes: See also {balre}, {dakfu}, {jesni}.
-Examples: None
+word: kinli
+rafsi:
+- kil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is sharp/keen at locus x2.
+    notes:
+    - See also {balre}, {dakfu}, {jesni}.
+    glosses:
+    - sharp
+  de:
+    place structure: x1 ist scharf/schneidend an Stelle x2
+    notes:
+    - No notes.
+    glosses:
+    - scharf
+  es:
+    place structure: x1 es agudo/afilado/puntudo/puntiagudo en parte x2
+    notes:
+    - No notes.
+    glosses:
+    - agudo
+  ru:
+    place structure: x1 — острый/заостренный в участке/точке x2
+    notes:
+    - '{balre} (клинок), {dakfu} (нож), {jesni} (игла [форма, не орудие])'
+    glosses:
+    - острый
+  en-simple:
+    place structure: x1 is sharp at location x2
+    notes:
+    - No notes.
+    glosses:
+    - something sharp
+    - x2=a location of sharpness
+  eo:
+    place structure: x1 estas akra je loko x2
+    notes:
+    - Vidu ankaŭ {balre}, {dakfu}, {jesni}.
+    glosses:
+    - akra
+  hu:
+    place structure: x1 éles/hegyes x2 helyen
+    notes:
+    - '(Lásd még: {balre}, {dakfu}, {jesni})'
+    glosses:
+    - éles
+  ja:
+    place structure: x1はx2の箇所で鋭利である
+    notes:
+    - '参照: {balre}, {dakfu}, {jesni}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是尖利的/锋利的，在位置x2处
+    notes:
+    - 参见 {balre}, {dakfu}, {jesni}.
+    glosses:
+    - No glosses.

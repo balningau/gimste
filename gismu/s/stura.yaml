@@ -1,6 +1,66 @@
-Word: stura
-Rafsi: tur, su'a
-Definition: x1 is a structure/arrangement/organization of x2 [set/system/complexity].
-Notes: ($x_2$, if a set, is completely specified); See also {ganzu}, {morna}, {ciste},
-  {lujvo}, {greku}, {gerna}.
-Examples: None
+word: stura
+rafsi:
+- tur
+- su'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a structure/arrangement/organization of x2 [set/system/complexity].
+    notes:
+    - (x2, if a set, is completely specified); See also {ganzu}, {morna}, {ciste},
+      {lujvo}, {greku}, {gerna}.
+    glosses:
+    - structure
+  de:
+    place structure: x1 ist eine Struktur/Anordnung/Organisation von x2 [Menge/System/Komplex]
+    notes:
+    - No notes.
+    glosses:
+    - Struktur
+  es:
+    place structure: x1 es una estructura/complejo/organización de x2 (conjunto/sistema)
+    notes:
+    - Ver también {ganzu},  {morna},  {ciste},  {lujvo},  {greku}.
+    glosses:
+    - estructura
+  ru:
+    place structure: 'x1 — структура/устройство/организация x2 (чего: множество/система)'
+    notes:
+    - Если x2 — множество, то полностью описанное {ganzu} (организовывать [упорядочивать]),
+      {morna} (узор), {ciste} (система), {lujvo} (), {greku} (каркас), {gerna} (грамматика)
+    glosses:
+    - x1=структура
+  en-simple:
+    place structure: x1 is a structure or arrangement of x2
+    notes:
+    - No notes.
+    glosses:
+    - a structure
+    - x2=something structured
+  eo:
+    place structure: x1 estas strukturo/aranĝo/organizo de x2 [aro/sistemo/komplekso]
+    notes:
+    - (x2, se aro, estas komplete specifita); Vidu ankaŭ {ganzu}, {morna}, {ciste},
+      {lujvo}, {greku}, {gerna}.
+    glosses:
+    - strukturo
+  hu:
+    place structure: x1 egy/a szerkezete/elrendezése x2-nek
+    notes:
+    - '(Lásd még: {ganzu}, {morna}, {ciste}, {lujvo}, {greku}, {gerna})'
+    glosses:
+    - szerkezet
+  ja:
+    place structure: x1 は x2 （集合／体系）の構造／配置／組織
+    notes:
+    - ・大意： 構造 ・読み方： ストゥラ  ・語呂合わせ： ストゥラクチャー ・関連語： {ganzu}, {morna}, {ciste}, {lujvo},
+      {greku}, {gerna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由x2（集合/系统等）构成的组织/机构/结构
+    notes:
+    - x2位若为集合，则应全部指明；参见 {ganzu}, {morna}, {ciste}, {lujvo}, {greku}, {gerna}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,81 @@
-Word: fusra
-Rafsi: fur
-Definition: x1 rots/decays/ferments with decay/fermentation agent x2; x1 is rotten/decayed/fermented.
-Notes: See also {birje}, {vanju}, {vifne}.
-Examples: None
+word: fusra
+rafsi:
+- fur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 rots/decays/ferments with decay/fermentation agent x2; x1
+      is rotten/decayed/fermented.
+    notes:
+    - See also {birje}, {vanju}, {vifne}.
+    glosses:
+    - rotten
+  de:
+    place structure: x1 verrottet/verfault/fermentiert/gärt/verwest mit Verwesung/Gärungsmittel
+      x2; x1 ist faul/verfault/morsch
+    notes:
+    - No notes.
+    glosses:
+    - verrotten
+  es:
+    place structure: x1 se pudre/decae/fermenta/corrompe con agente x2
+    notes:
+    - No notes.
+    glosses:
+    - pudrirse
+  ru:
+    place structure: x1 гниет/разлагается/киснет/ферментирует под действием агента
+      x2; x1 — гнилой/разложившийся/протухший/скисший/сферментированный
+    notes:
+    - '{birje} (пиво), {vanju} (вино), {vifne} (свежий [неиспорченный])'
+    glosses:
+    - гнить
+    - x1=гниющий
+  en-simple:
+    place structure: x1 rots or decays with agent x2
+    notes:
+    - No notes.
+    glosses:
+    - something that rots
+    - x2=something that causes rotting
+  eo:
+    place structure: x1 putras/kadukiĝas/velkas/malkomponiĝas/fermentas kun aganto
+      x2
+    notes:
+    - x1 estas putra/kaduka/fermentinta .  Vidu ankaŭ {birje}, {vanju}, {vifne}.
+    glosses:
+    - putri
+  hu:
+    place structure: x1 rohad/korhad/erjed x2 által
+    notes:
+    - '(Lásd még: {birje}, {vanju}, {vifne})'
+    glosses:
+    - rohad
+  ja:
+    place structure: x1 は x2 （原因）によって腐敗／発酵する；  x1 は腐っている／錆びている
+    notes:
+    - 発酵の場合、 x2 は「酵母」など。 ・大意： 腐敗 ・読み方： フスラ ・語呂合わせ： fuhai ・関連語： {birje}, {vanju}, {vifne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (för)ruttnar/murknar/förmultnar/jäser med förmultnings-/jäsagent
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - förmultna
+    - förmultnad
+    - förruttna
+    - förruttnad
+    - jäser
+    - jäst (adjektiv)
+    - murkna
+    - ruttna
+    - x1=rutten
+  zh:
+    place structure: x1腐烂/腐朽，在发酵/腐烂助剂x2作用下；x1是腐烂的/腐朽的
+    notes:
+    - 参见 {birje}, {vanju}, {vifne}.
+    glosses:
+    - No glosses.

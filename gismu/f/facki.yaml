@@ -1,6 +1,86 @@
-Word: facki
-Rafsi: fak, fa'i
-Definition: x1 discovers/finds out x2 (du'u) about subject/object x3; x1 finds (fi)
-  x3 (object).
-Notes: See also {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}.
-Examples: None
+word: facki
+rafsi:
+- fak
+- fa'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 discovers/finds out x2 (du'u) about subject/object x3; x1
+      finds (fi) x3 (object).
+    notes:
+    - See also {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}.
+    glosses:
+    - discover
+  de:
+    place structure: x1 entdeckt/findet x2 (du'u) (heraus) über Thema/Objekt x3; x1
+      findet/entdeckt (fi) x3 (Objekt)
+    notes:
+    - No notes.
+    glosses:
+    - entdecken
+  es:
+    place structure: x1 descubre que x2 (du'u) es cierto acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - descubrir
+  ru:
+    place structure: x1 открывает/узнает факты x2 ({du'u}) о x3 (ком/чем); x1 находит/открывает
+      x3 (что)
+    notes:
+    - '{cirko} (терять), {djuno} (знать), {jijnu} (постигать [интуитивно]), {smadi}
+      (догадываться), {sisku} (искать)'
+    glosses:
+    - открывать (факт)
+    - x1=открывающий (факт)
+    - x2=открываемый (факт)
+    - x3=о ком узнают факт
+  en-simple:
+    place structure: x1 discovers x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - a discoverer
+    - x2=a discovery
+    - x3=a discovery subject
+  eo:
+    place structure: x1 ekscias/malkovras/eltrovas fakton x2 (du'u) pri temo/objekto
+      x3
+    notes:
+    - x1 trovas (fi) x3-on (objekto) Vidu ankaŭ {cirko}, {djuno}, {jijnu}, {smadi},
+      {sisku}.
+    glosses:
+    - ekscii
+  hu:
+    place structure: x1 felfedezi/megtudja x2 tényt x3 tárgyról; x1 megtalálja x3-t
+    notes:
+    - '(Lásd még: {cirko}, {djuno}, {jijnu}, {smadi}, {sisku})'
+    glosses:
+    - felfedez
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について発見する；  x1 は x3 （物）を見つける／探し当てる
+    notes:
+    - 「pu facki lo du'u lo mi mamta cu zvati la kordoban.／私の母はコルドバに居るということがわかった」 ・大意：
+      発見 ・読み方： ファシキ  ・関連語： {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 upptäcker/får reda på/kommer på x2 (du'u) om ämne/objekt x3;
+      x1 upptäcker/hittar (fi) objekt x3.
+    notes:
+    - No notes.
+    glosses:
+    - få reda på
+    - hitta
+    - komma på (upptäcka)
+    - upptäcka
+    - x1=upptäckare
+    - x2=upptäckt (fakta)
+    - x3=hittad (upptäckt)
+  zh:
+    place structure: x1发现/找到x2（du'u），关于主题/物体x3；x1找到物体x3
+    notes:
+    - 参见 {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}.
+    glosses:
+    - No glosses.

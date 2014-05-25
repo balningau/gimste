@@ -1,10 +1,92 @@
-Word: dikca
-Rafsi: dic
-Definition: x1 is electricity [electric charge or current] in/on x2 of polarity/quantity
-  x3 (def. negative).
-Notes: ($x_3$, a quantifier, can be expressed as a simple polarity using the numerals
-  for positive and negative ma'u and ni'u); (explicitly) negative (= {dutydikca}),
-  positive (= {mardikca}); current (= (sel)muvdikca; again default negative/electron
-  current), charge (= {klodikca}, {stadikca}).  See also {lindi}, {xampo}, {flecu},
-  {maksi}, {tcana}.
-Examples: None
+word: dikca
+rafsi:
+- dic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is electricity [electric charge or current] in/on x2 of polarity/quantity
+      x3 (def. negative).
+    notes:
+    - (x3, a quantifier, can be expressed as a simple polarity using the numerals
+      for positive and negative ma'u and ni'u); (explicitly) negative (= {dutydikca}),
+      positive (= {mardikca}); current (= (sel)muvdikca; again default negative/electron
+      current), charge (= {klodikca}, {stadikca}).  See also {lindi}, {xampo}, {flecu},
+      {maksi}, {tcana}.
+    glosses:
+    - electric
+  de:
+    place structure: 'x1 ist Elektrizität [elektrische Ladung oder Strom] in/auf x2
+      von Polung/Menge x3 (Default: negativ)'
+    notes:
+    - No notes.
+    glosses:
+    - elektrisch
+  es:
+    place structure: x1 es electricidad (carga o corriente) en x2
+    notes:
+    - No notes.
+    glosses:
+    - electricidad
+  ru:
+    place structure: x1 — электричество (электрический заряд или ток) в x2 (где),
+      полярности x3 (по умолчанию отрицательная полярность)
+    notes:
+    - 'Полярность как таковая выражается с помощью x3= {ma''u} (положительная) и {ni''u}
+      (отрицательная); отрицательное электричество: {dutydikca}, положительное: {mardikca};
+      ток: ({sel}){muvdikca} — по умолчанию, отрицательный (электронный); заряд: {klodikca},
+      {stadikca} {lindi} (молния), {xampo} (ампер), {flecu} (поток), {maksi} (магнит),
+      {tcana} (станция)'
+    glosses:
+    - электричество
+  en-simple:
+    place structure: x1 is electricity in x2 of polarity or quantity x3
+    notes:
+    - No notes.
+    glosses:
+    - electricity
+    - x2=something with electricity
+    - x3=an amount of electricity
+  eo:
+    place structure: x1 estas elektro [elektra ŝargo aŭ kurento] en/sur x2 de signo/kvanto
+      x3 (def. negativa)
+    notes:
+    - (x3, kvantigilon, oni povas esprimi kiel simpla polareco per la ciferoj por
+      pozitiva kaj negativa ma'u kaj ni'u); (eksplicite) negativa (= {dutydikca}),
+      pozitiva (= {mardikca}); kurento (= (sel)muvdikca; denove defaŭlte negativa/elektrona
+      kurento), ŝargo (= {klodikca}, {stadikca}).  Vidu ankaŭ {lindi}, {xampo}, {flecu},
+      {maksi}, {tcana}.
+    glosses:
+    - elektro
+  hu:
+    place structure: x1 elektromos töltés/áram x2-(be)n, x3 polaritással [alapesetben
+      negatív (ni’u)]
+    notes:
+    - '(Lásd még: {lindi}, {xampo}, {flecu}, {maksi}, {tcana})'
+    glosses:
+    - elektromosság
+  ja:
+    place structure: x1 は x2 （媒体）・ x3 （特性）の電気
+    notes:
+    - x3は「極性」「電圧」など。 ・大意： 電気 ・読み方： ディクシャ ・関連語： {lindi}, {xampo}, {flecu}, {maksi},
+      {tcana}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är elektricitet [elektrisk spänning eller ström] i/på x2 av
+      polaritet/kvantitet x3 (negativ om inget annat anges).
+    notes:
+    - 'x3, en kvantifierare, kan uttryckas som en enkel polaritet med räkneorden för
+      positiv och negativ: ma''u resp ni''u); (explicit) negativ (= dutydikca), positiv
+      (= mardikca); ström (= (sel){muvdikca}; återigen avses negativ/elektron ström,
+      om inget annat anges), spänning (= {klodikca}, {stadikca}). Se även {lindi},
+      {xampo}, {flecu}, {maksi}, {tcana}.'
+    glosses:
+    - elektricitet
+  zh:
+    place structure: x1是x2中的电流或电荷，极性/性质为x3（默认为负极/负电荷）
+    notes:
+    - x3处可使用数词和 {ma'u}/{ni'u}同时表示电荷的大小和极性；负电荷= {dutydikca}， 正电荷= {mardikca}，电流= (sel)muvdikca（默认负电流），电荷={klodikca}/{stadikca}；参见
+      {lindi}, {xampo}, {flecu}, {maksi}, {tcana}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,73 @@
-Word: srera
-Rafsi: sre
-Definition: x1 errs in doing/being/making mistake x2 (event), an error under conditions
-  x3 by standard x4.
-Notes: (cf. {drani}, which is non-agentive, {cfila}, {fliba})
-Examples: None
+word: srera
+rafsi:
+- sre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 errs in doing/being/making mistake x2 (event), an error under
+      conditions x3 by standard x4.
+    notes:
+    - (cf. {drani}, which is non-agentive, {cfila}, {fliba})
+    glosses:
+    - err
+  de:
+    place structure: x1 irrt im Tun/Sein von x2 (Ereignis), ein Fehler unter Bedingungen
+      x3 gemäß Standard x4
+    notes:
+    - No notes.
+    glosses:
+    - irren
+  es:
+    place structure: x1 yerra/se equivoca/falla en x2 (evento), error bajo condiciones
+      x3 según estándar x4
+    notes:
+    - No notes.
+    glosses:
+    - errar
+  ru:
+    place structure: x1 ошибается, совершая действие x2 (событие), ошибочное в условиях
+      x3 относительно критерия/стандарта x4
+    notes:
+    - x2 — ошибка {drani} (правильный) — не требует наличия деятеля, {cfila} (дефект),
+      {fliba} (терпеть неудачу)
+    glosses:
+    - ошибаться
+    - x1=ошибающийся
+    - x2=ошибочное действие
+  en-simple:
+    place structure: x1 errs in doing x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something that errs
+    - x2=an error
+    - x2=the error
+    - x3=a condition for an error
+    - x4=a standard for an error
+  eo:
+    place structure: x1 eraras estante/farante eraron x2 (okazo), sub kondiĉoj x3
+      laŭ normo x4
+    notes:
+    - Vidu ankaŭ {drani}, kiu estas {neagenta}, {cfila}, {fliba}.
+    glosses:
+    - erari
+  hu:
+    place structure: x1 hibázik / x2 hibát véti, amely x3 körülmények között hiba,
+      x4 mérce szerint
+    notes:
+    - '(Lásd még: {drani}, {cfila}, {fliba})'
+    glosses:
+    - hibázik
+  ja:
+    place structure: x1 は x2 （事）に関して、 x3 （条件）・ x4 （基準）で誤る／間違う
+    notes:
+    - x3は誤解や過失など。 ・大意： 誤る ・読み方： スレラ  ・関連語： {drani}, {cfila}, {fliba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1做事件x2是错误的/谬误的，在条件/环境x3下，基于标准x4
+    notes:
+    - 参见 {drani}, {cfila}, {fliba}
+    glosses:
+    - No glosses.

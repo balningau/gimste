@@ -1,7 +1,66 @@
-Word: salta
-Rafsi: ''
-Definition: x1 (mass) is a quantity of salad [food] with ingredients/components including
-  x2.
-Notes: $x_2$ is in $x_1$, an ingredient/part/component of $x_1$.  See also {mixre},
-  {stasu}.
-Examples: None
+word: salta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass) is a quantity of salad [food] with ingredients/components
+      including x2.
+    notes:
+    - x2 is in x1, an ingredient/part/component of x1.  See also {mixre}, {stasu}.
+    glosses:
+    - salad
+  de:
+    place structure: x1 (Masse) ist eine Menge an Salat [Essen] mit Zutaten unter
+      anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Salat
+  es:
+    place structure: x1 es una cantidad de ensalada con ingredientes/componentes x2
+    notes:
+    - Ver también {mixre}.
+    glosses:
+    - ensalada
+  ru:
+    place structure: x1 — салат (блюдо) из компонентов x2
+    notes:
+    - x2 входит в x1, есть компонент/ингредиент салата x1 {mixre} (смесь), {stasu}
+      (суп)
+    glosses:
+    - салат (блюдо)
+    - x1=салат (блюдо)
+  en-simple:
+    place structure: x1 is a quantity of salad with ingredients x2
+    notes:
+    - No notes.
+    glosses:
+    - a salad
+    - x2=a salad ingredient
+  eo:
+    place structure: x1 (kolektivaĵo) estas kvanto da salato [manĝaĵo] kun ingrediencoj/eroj
+      incluzivantaj x2-on
+    notes:
+    - x2 estas en x1, ingredienco/parto/ero de x1.  Vidu ankaŭ {mixre}, {stasu}.
+    glosses:
+    - salato
+  hu:
+    place structure: x1 sokaság bizonyos mennyiségű saláta x2 összetétellel
+    notes:
+    - '(Lásd még: {mixre}, {stasu})'
+    glosses:
+    - saláta
+  ja:
+    place structure: x1 （群）は x2 （食材）のサラダ
+    notes:
+    - ・大意： サラダ ・読み方： サルゥタ ・語呂合わせ： 猿田のサラダ ・関連語： {mixre}, {stasu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（团）是色拉/沙拉（食物），具有组分/成分x2
+    notes:
+    - x2作为x1的一部分/配方/组分；参见 {mixre}, {stasu}.
+    glosses:
+    - No glosses.

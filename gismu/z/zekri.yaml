@@ -1,8 +1,80 @@
-Word: zekri
-Rafsi: zer, zei
-Definition: x1 (event/state) is a punishable crime/[taboo/sin] to people/culture/judges/jury
-  x2.
-Notes: Taboo (= {kluzei}, {cacyzei}); sin (= {madzei}, {jdamadzei}); heresy (= {jdazei}).  See
-  also {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde},
-  {pulji}, {tinbe}.
-Examples: None
+word: zekri
+rafsi:
+- zer
+- zei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) is a punishable crime/[taboo/sin] to people/culture/judges/jury
+      x2.
+    notes:
+    - Taboo (= {kluzei}, {cacyzei}); sin (= {madzei}, {jdamadzei}); heresy (= {jdazei}).  See
+      also {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci},
+      {marde}, {pulji}, {tinbe}.
+    glosses:
+    - crime
+  de:
+    place structure: x1 (Ereignis/Zustand) ist ein strafbares Verbrechen/Delikt/[Tabu/Sünde]
+      für Personen/Kultur/Richter/Geschworene x2
+    notes:
+    - No notes.
+    glosses:
+    - Verbrechen
+  es:
+    place structure: x1 (evento) es un crimen/tabú/pecado/delito para gente/cultura/juez
+      x2
+    notes:
+    - Ver también {palci}.
+    glosses:
+    - crimen
+  ru:
+    place structure: x1 — наказуемое деяние/преступление/проступок/{табу/грех} с точки
+      зрения/в системе ценностей народа/культуры/судей/присяжных x2
+    notes:
+    - 'Табу: {kluzei}, {cacyzei}; грех: {madzei}, {jdamadzei}; ересь: {jdazei} {flalu}
+      (закон), {sfasa} (наказывать), {zungi} (раскаиваться), {palci} (дурной), {lijda}
+      (религия), {pajni} (судить), {javni} (правило [предписание]), {tcaci} (обычай),
+      {marde} (мораль), {pulji} (полицейский), {tinbe} (подчиняться)'
+    glosses:
+    - x1=преступление
+  en-simple:
+    place structure: x1 is a crime to x2
+    notes:
+    - No notes.
+    glosses:
+    - a crime
+    - x2=something to which something is a crime
+  eo:
+    place structure: x1 (okazo/stato) estas punebla krimo/[tabuo/peko] por popolo/kulturo/juĝantaro/ĵurio
+      x2
+    notes:
+    - Tabuo (= {kluzei}, {cacyzei}); peko (= {madzei}, {jdamadzei}); herezo (= {jdazei}).  Vidu
+      ankaŭ {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci},
+      {marde}, {pulji}, {tinbe}.
+    glosses:
+    - krimo
+  hu:
+    place structure: x1 esemény/állapot büntethető cselekmény x2 emberek/közösség/kultúra/bíróság/törvény
+      szerint
+    notes:
+    - '(Lásd még: {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci},
+      {marde}, {pulji}, {tinbe})'
+    glosses:
+    - bűncselekmény
+  ja:
+    place structure: x1 （事）は x2 （観点）にとって犯罪
+    notes:
+    - x2 は「個人」「文化」「陪審員」など。 ・大意： 犯罪 ・読み方： ゼクリ  ・語呂合わせ： ＜是はクリミナル＞, crime ・関連語： {flalu},
+      {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde}, {pulji},
+      {tinbe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）是罪行，对于民族/文化/法官/陪审团x2来说
+    notes:
+    - 禁忌/忌讳={kluzei}/{cacyzei}；罪/罪孽= {madzei}/{jdamadzei}；异端/邪说={jdazei}；参见 {flalu},
+      {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde}, {pulji},
+      {tinbe}.
+    glosses:
+    - No glosses.

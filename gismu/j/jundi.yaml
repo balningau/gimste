@@ -1,6 +1,74 @@
-Word: jundi
-Rafsi: jud, ju'i
-Definition: x1 is attentive towards/attends/tends/pays attention to object/affair
-  x2.
-Notes: See also {kurji}, {zvati}.
-Examples: None
+word: jundi
+rafsi:
+- jud
+- ju'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is attentive towards/attends/tends/pays attention to object/affair
+      x2.
+    notes:
+    - See also {kurji}, {zvati}.
+    glosses:
+    - attend (pay attention to)
+    - follow (keep track of some event/person)
+    - mind (pay attention to)
+  de:
+    place structure: x1 ist aufmerksam gegenüber Objekt/Angelegenheit x2; x1 ist achtsam/schenkt
+      x2 die Aufmerksamkeit
+    notes:
+    - No notes.
+    glosses:
+    - aufmerksam
+  es:
+    place structure: x1 atiende/presta atención a asunto/objeto x2
+    notes:
+    - No notes.
+    glosses:
+    - atender
+  fr:
+    place structure: x1 est attentif / prête attention à x2
+    notes:
+    - No notes.
+    glosses:
+    - attentif
+    - prêter attention
+  ru:
+    place structure: x1 внимателен к/уделяет внимание объекту/занятию x2
+    notes:
+    - '{kurji} (заботиться), {zvati} (находиться)'
+    glosses:
+    - x1=внимательный
+    - x2=объект внимания
+  en-simple:
+    place structure: x1 pays attention to x2
+    notes:
+    - No notes.
+    glosses:
+    - something attentive
+    - x2=an object of attention
+  eo:
+    place structure: x1 atentas al objekto/afero x2
+    notes:
+    - Vidu ankaŭ {kurji}, {zvati}.
+    glosses:
+    - atenti
+  hu:
+    place structure: x1 figyel x2 tárgyra/történésre
+    notes:
+    - '(Lásd még: {kurji}, {zvati})'
+    glosses:
+    - figyel
+  ja:
+    place structure: x1 は x2 （物／者／事）にたいして懇ろ／注意深い／配慮がある／気を使っている
+    notes:
+    - ・大意： 懇ろ（ねんごろ） ・読み方： ジュンディ  ・関連語： {kurji}, {zvati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1注意/关注x2；x1将注意力放到x2上
+    notes:
+    - 参见 {kurji}, {zvati}.
+    glosses:
+    - No glosses.

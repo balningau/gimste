@@ -1,7 +1,85 @@
-Word: vimcu
-Rafsi: vic, vi'u
-Definition: x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving result/remnant/remainder
-  x4.
-Notes: Also appropriates, confiscates; alienation is inherent.  See also {lebna},
-  {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}.
-Examples: None
+word: vimcu
+rafsi:
+- vic
+- vi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving
+      result/remnant/remainder x4.
+    notes:
+    - Also appropriates, confiscates; alienation is inherent.  See also {lebna}, {muvdu},
+      {cpacu}, {canci}, {cliva}, {jdika}.
+    glosses:
+    - delete
+    - erase
+    - remove
+  jbo:
+    place structure: x1 lebna x2 boi x3 ja'e x4 i x1 gasnu lo nu x3 jdika fi x2 ja'e
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 entfernt/zieht ab/nimmt weg x2 von x3 mit Ergebnis/Rückstand/Rest
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - entfernen
+  es:
+    place structure: x1 sustrae/retira/resta/quita x2 de x3 con resultado/resto/dejando/quedando
+      x4
+    notes:
+    - Ver también {jmina}.
+    glosses:
+    - sustraer
+  ru:
+    place structure: x1 отнимает/{вычитает} x2 у/{от} x3, оставляя x4 (остаток)
+    notes:
+    - 'Также: конфискует, изымает; существен момент отчуждения {lebna} (забирать),
+      {muvdu} (двигаться), {cpacu} (добывать), {canci} (исчезать), {cliva} (уходить),
+      {jdika} (уменьшаться)'
+    glosses:
+    - удалять
+    - x1=удаляющий
+    - x2=у кого отнимают
+    - x3=остаток
+  en-simple:
+    place structure: x1 removes or subtracts x2 from x3 leaving x4
+    notes:
+    - No notes.
+    glosses:
+    - a remover
+    - x2=something removed
+    - x3=a source of removal
+    - x4=something remaining after a removal
+  eo:
+    place structure: x1 deprenas/forigas/subtrahas x2-on el x3 kun rezulto/restaĵo
+      x4
+    notes:
+    - 'Ankaŭ: alproprigi, konfiski; forproprigo estas esenca.  Vidu ankaŭ {lebna},
+      {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}.'
+    glosses:
+    - depreni
+  hu:
+    place structure: x1 eltávolítja/elveszi/kivonja/kiszűri x2-t x3-ból, x4 maradékkal/eredménnyel
+    notes:
+    - '(Lásd még: {lebna}, {muvdu}, {cpacu}, {canci}, {cliva}, {jdika})'
+    glosses:
+    - eltávolít
+  ja:
+    place structure: x1 は x2 を x3 から、 x4 だけ残して除去／控除する／差し引く
+    notes:
+    - ・大意： 除去 ・読み方： ヴィムシュ  ・語呂合わせ： ビームでシュッと消去 ・関連語： {lebna}, {muvdu}, {cpacu}, {canci},
+      {cliva}, {jdika}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1从x3中减去/扣去x2，留下结果/剩余物/残留物x4
+    notes:
+    - 也指：侵吞/没收；暗示了所有权的转让；参见 {lebna}, {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}.
+    glosses:
+    - No glosses.

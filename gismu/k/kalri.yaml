@@ -1,6 +1,75 @@
-Word: kalri
-Rafsi: kar
-Definition: x1 (portal/passage/entrance-way) is open/ajar/not shut permitting passage/access
-  to x2 by x3.
-Notes: As a doorway.  See also {ganlo}, {pagre}, {canko}, {vorme}.
-Examples: None
+word: kalri
+rafsi:
+- kar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (portal/passage/entrance-way) is open/ajar/not shut permitting
+      passage/access to x2 by x3.
+    notes:
+    - As a doorway.  See also {ganlo}, {pagre}, {canko}, {vorme}.
+    glosses:
+    - open (ajar)
+  jbo:
+    place structure: lo nu zi'o pagre x1 boi (to noi vorme toi) x2 boi x3 cu nalselzu'i
+      zi'o zi'o
+    notes:
+    - ko catlu fe ji'a zo {ganlo} .e zo {pagre} .e zo {canko} .e zo {vorme} .e zo
+      {nalselzu'i}
+    glosses:
+    - kalri
+  de:
+    place structure: (Portal/Durchgang/Eingang) ist offen/geöffnet und lässt einen
+      Durchgang zu x2 für x3
+    notes:
+    - No notes.
+    glosses:
+    - offen
+  es:
+    place structure: x1 está abierto
+    notes:
+    - Ver también {ganlo}.
+    glosses:
+    - abierto
+  ru:
+    place structure: x1 (проход/путь) открыт, позволяя проход/доступ к x2 через x3
+    notes:
+    - Например, дверь {ganlo} (закрытый), {pagre} (проникать [проходить сквозь]),
+      {canko} (окно), {vorme} (дверь)
+    glosses:
+    - x1=открытый (доступный)
+  en-simple:
+    place structure: x1 is open to x2 by x3
+    notes:
+    - No notes.
+    glosses:
+    - something open
+    - x2=something given access to open portal
+    - x3=something allowing access to open portal
+  eo:
+    place structure: x1 (pordo/pasejo/koridoro/trairejo/enirejo) estas malfermita/ebligas
+      pason/aliron al x2 far x3
+    notes:
+    - Kiel enirejo.  Vidu ankaŭ {ganlo}, {pagre}, {canko}, {vorme}.
+    glosses:
+    - malfermita
+  hu:
+    place structure: x1 (ajtó/kapu/átjáró) nyitva van/nyitható, ezáltal hozzáférést/átjutást
+      biztosítva x2-hez x3-nak
+    notes:
+    - '(Lásd még: {ganlo}, {pagre}, {canko}, {vorme})'
+    glosses:
+    - nyitott
+  ja:
+    place structure: x1 は x2 （経路）にたいして開いている
+    notes:
+    - ・大意： 開く ・読み方： カルゥリ  ・関連語： {ganlo}, {pagre}, {canko}, {vorme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（通道/过道）是打开的/未关闭的，允许到达x2，对通过者x3来说
+    notes:
+    - 参见 {ganlo}, {pagre}, {canko}, {vorme}.
+    glosses:
+    - No glosses.

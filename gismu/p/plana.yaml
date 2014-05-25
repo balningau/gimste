@@ -1,6 +1,68 @@
-Word: plana
-Rafsi: ''
-Definition: x1 is plump/fat/obese [excessively thick/bulbous/swollen] by standard
-  x2.
-Notes: See also {cinla}, {rotsu}, {barda}, {punli}, {grasu}.
-Examples: None
+word: plana
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is plump/fat/obese [excessively thick/bulbous/swollen] by
+      standard x2.
+    notes:
+    - See also {cinla}, {rotsu}, {barda}, {punli}, {grasu}.
+    glosses:
+    - fat (obese)
+    - plump
+  de:
+    place structure: x1 ist dick/prall/fett/fettleibig [übermäßig dick/ausgebaucht/angeschwollen]
+      gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - bauchig
+  es:
+    place structure: x1 es gordo/grueso/obeso/henchido según estándar x2
+    notes:
+    - Ver también {cinla},  {rotsu},  {barda},  {punli}.
+    glosses:
+    - gordo
+  ru:
+    place structure: x1 — пухлый/вздутый/раздутый/распухший/разбухший (избыточно толстый)
+      относительно стандарта x2
+    notes:
+    - '{cinla} (тонкий), {rotsu} (толстый), {barda} (большой), {punli} (выступ), {grasu}
+      (жир)'
+    glosses:
+    - вздутый
+  en-simple:
+    place structure: x1 is fat or obese by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - something fat
+    - x2=an standard of fatness
+  eo:
+    place structure: x1 estas grasa/dika/korpulenta [tro dika/bulba/ŝvelinta] laŭ
+      normo x2
+    notes:
+    - Vidu ankaŭ {cinla}, {rotsu}, {barda}, {punli}, {grasu}.
+    glosses:
+    - grasa
+  hu:
+    place structure: x1 kövér/elhízott/[nagyon vastag/dagadt] x2 mérce szerint
+    notes:
+    - '(Lásd még: {cinla}, {rotsu}, {barda}, {punli}, {grasu})'
+    glosses:
+    - kövér
+  ja:
+    place structure: x1 は x2 （基準）において太っている／肥満／でぶ
+    notes:
+    - ・大意： 肥満 ・読み方： プルァナ ・語呂合わせ： 肥満プルァプルァな肉 ・関連語： {cinla}, {rotsu}, {barda}, {punli},
+      {grasu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是肥胖的/过胖的（非常厚实/肿大），基于标准x2
+    notes:
+    - 参见 {cinla}, {rotsu}, {barda}, {punli}, {grasu}.
+    glosses:
+    - No glosses.

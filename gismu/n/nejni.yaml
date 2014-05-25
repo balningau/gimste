@@ -1,5 +1,72 @@
-Word: nejni
-Rafsi: nen
-Definition: x1 is energy of type x2 in form x3.
-Notes: Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}.
-Examples: None
+word: nejni
+rafsi:
+- nen
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is energy of type x2 in form x3.
+    notes:
+    - Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}.
+    glosses:
+    - energy
+  de:
+    place structure: x1 ist Energie von Typ x2 in Form x3
+    notes:
+    - No notes.
+    glosses:
+    - Energie
+  es:
+    place structure: x1 es una cantidad de energía de tipo x2 en forma x3
+    notes:
+    - Ver también {marji},  {tarmi}.
+    glosses:
+    - energía
+  ru:
+    place structure: x1 — энергия типа x2 в форме x3
+    notes:
+    - 'Лучи/луч: {nenli''i} {marji} (материя [вещество]), {tarmi} (идея [концептуальная
+      форма]), {kantu} (квант), {lazni} (лениться), {livla} (топливо)'
+    glosses:
+    - энергия
+    - x2=тип энергии
+    - x3=форма энергии
+  en-simple:
+    place structure: x1 is energy of type x2 in form x3
+    notes:
+    - No notes.
+    glosses:
+    - energy
+    - x2=a type of energy
+    - x3=a form of energy
+  eo:
+    place structure: x1 estas energio de tipo x2 en formo x3
+    notes:
+    - Radiaĵo (= {nenli'i}).  Vidu ankaŭ {marji}, {tarmi}, {kantu}, {lazni}, {livla}.
+    glosses:
+    - energio
+  hu:
+    place structure: x1 bizonyos mennyiségű energia az x2 típusból, x3 formában
+    notes:
+    - '(Lásd még: {marji}, {tarmi}, {kantu}, {lazni}, {livla})'
+    glosses:
+    - energia
+  ja:
+    place structure: x1 は x2 （種類）・ x3 （形態）のエネルギー
+    notes:
+    - ・大意： エネルギー ・読み方： ネジニ  ・語呂合わせ： enajii　ネジにエネルギー ・関連語： {marji}, {tarmi}, {kantu},
+      {lazni}, {livla}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er energi av type x2 i form x3
+    notes:
+    - Se også {kantu}, {lazni}, {livla}, {marji}, {tarmi}.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是能量，属于类型x2，具有构成x3
+    notes:
+    - 射线/能量束/光波束= {nenli'i}；参见 {marji}, {tarmi}, {kantu}, {lazni}, {livla}.
+    glosses:
+    - No glosses.

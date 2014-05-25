@@ -1,7 +1,79 @@
-Word: nitcu
-Rafsi: tcu
-Definition: x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage
-  of process x3.
-Notes: No implication of lack.  See also {banzu}, {cidja}, {claxu}, {pindi}, {xebni},
-  {sarcu}, {lacri}, {djica}, {taske}, {xagji}.
-Examples: None
+word: nitcu
+rafsi:
+- tcu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage
+      of process x3.
+    notes:
+    - No implication of lack.  See also {banzu}, {cidja}, {claxu}, {pindi}, {xebni},
+      {sarcu}, {lacri}, {djica}, {taske}, {xagji}.
+    glosses:
+    - need
+  de:
+    place structure: x1 braucht/benötigt/ist abhängig von/[will] Notwendigkeit x2
+      für den Zweck/die Tat/den Prozessabschnitt x3.
+    notes:
+    - Keine Andeutung von Mangel.  Siehe auch {banzu}, {cidja}, {claxu}, {pindi},
+      {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}.
+    glosses:
+    - brauchen
+  es:
+    place structure: x1 necesita/requiere/precisa/depende de x2 para propósito x3
+      bajo condiciones x4
+    notes:
+    - No notes.
+    glosses:
+    - necesitar
+  ru:
+    place structure: x1 нуждается/требует/зависит от x2 для цели/действия/стадии процесса
+      x3; x1 (кому) нужно x2 (что) для x3 (зачем); x1 (кому) необходимо x2 (что),
+      чтобы x3 (событие)
+    notes:
+    - Отсутствие x2 не предполагается {banzu} (достаточный), {cidja} (пища), {claxu}
+      (без), {pindi} (бедный), {xebni} (ненавидеть), {sarcu} (необходимый), {lacri}
+      (полагаться [на что-либо]), {djica} (хотеть), {taske} (жаждать), {xagji} (голодный)
+    glosses:
+    - нужда
+    - x1=нуждающийся
+    - x2=в чем нуждаются
+  en-simple:
+    place structure: x1 needs x2 for x3
+    notes:
+    - No notes.
+    glosses:
+    - something with a need
+    - x2=something needed
+    - x3=a purpose of a need
+  eo:
+    place structure: x1 bezonas/dependas je/[volas] necesaĵon x2 por celo/ago/etapo
+      de procedo x3
+    notes:
+    - Ne implicas mankon.  Vidu ankaŭ {banzu}, {cidja}, {claxu}, {pindi}, {xebni},
+      {sarcu}, {lacri}, {djica}, {taske}, {xagji}.
+    glosses:
+    - bezoni
+  hu:
+    place structure: x1-nak szüksége van x2-re x3-hoz
+    notes:
+    - '(Lásd még: {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica},
+      {taske}, {xagji})'
+    glosses:
+    - szüksége van
+  ja:
+    place structure: x1 は x2 を x3 （目的／行動）のために要する；  x2 が x1 には必要
+    notes:
+    - 客観的な必須を表す「sarcu」と違い、個人的／主観的な必要を意味する。 ・大意： 要する ・読み方： ニチュ ・語呂合わせ： 要するにチュウ ・関連語：
+      {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske},
+      {xagji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1需要/依赖x2（被需要的），为了用途/行为/过程阶段x3
+    notes:
+    - 不暗示缺少；参见 {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica},
+      {taske}, {xagji}.
+    glosses:
+    - No glosses.

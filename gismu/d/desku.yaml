@@ -1,7 +1,78 @@
-Word: desku
-Rafsi: des
-Definition: x1 shakes/quakes/trembles/quivers/shudders/wobbles/vibrates from force
-  x2.
-Notes: 'Also (expressible either with desku or slilu): side to side, to and fro, back
-  and forth, reciprocal motion.  See also {slilu}, {janbe}.'
-Examples: None
+word: desku
+rafsi:
+- des
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 shakes/quakes/trembles/quivers/shudders/wobbles/vibrates from
+      force x2.
+    notes:
+    - 'Also (expressible either with desku or slilu): side to side, to and fro, back
+      and forth, reciprocal motion.  See also {slilu}, {janbe}.'
+    glosses:
+    - shake
+  de:
+    place structure: x1 schüttelt/vibriert/bebt/zittert von Kraft x2
+    notes:
+    - No notes.
+    glosses:
+    - schütteln
+  es:
+    place structure: x1 tiembla/tirita/se sacude debido a fuerza x2
+    notes:
+    - Ver también {slilu}.
+    glosses:
+    - temblar
+  ru:
+    place structure: x1 трясется/дрожит/содрогается/колеблется/вибрирует/трепещет
+      под действием силы x2
+    notes:
+    - 'Также: туда-сюда, взад-вперед (как {desku}, так и {slilu}) {slilu} (колебаться),
+      {janbe} (гонг)'
+    glosses:
+    - дрожать
+    - x1=дрожащий
+  en-simple:
+    place structure: x1 is shakes or vibrates from force x2
+    notes:
+    - No notes.
+    glosses:
+    - something vibrating
+    - x2=a force causing vibration
+  eo:
+    place structure: x1 tremas/skuiĝas/vibras/ŝanceliĝas pro forto x2; x2 skuas x1-on
+    notes:
+    - 'Ankaŭ: (esprimebla per desku aŭ slilu): tien kaj reen.  Vidu ankaŭ {slilu},
+      {janbe}.'
+    glosses:
+    - tremi
+  hu:
+    place structure: x1 rázkódik/remeg/reszket/rezeg/vibrál/inog x2 erőtől
+    notes:
+    - '(Lásd még: {slilu}, {janbe})'
+    glosses:
+    - rázkódik
+  ja:
+    place structure: x1 は x2 （力）によって揺れる／震える；  x2 は x1 を揺さぶる
+    notes:
+    - ・大意： 揺れる ・読み方： デスク  ・語呂合わせ： 揺れるデスク ・関連語： {slilu}, {janbe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 skakar/skälver/darrar/ryser/huttrar/vinglar/vaggar/vickar/svajar
+      från kraft x2.
+    notes:
+    - 'Även (går att uttrycka antingen med {desku} eller {slilu}): sida till sida,
+      till och från, av och an, fram och tillbaka, reciprokal rörelse. Se även {slilu},
+      {janbe}.'
+    glosses:
+    - darra
+    - skaka
+    - skälva
+  zh:
+    place structure: x1摇晃/晃动/摇动/摆动/颤动/震动，在力x2的作用下
+    notes:
+    - 近似{desku},{slilu}；指来回的往复运动；参见 {slilu}, {janbe}.
+    glosses:
+    - No glosses.

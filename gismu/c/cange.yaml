@@ -1,7 +1,94 @@
-Word: cange
-Rafsi: cag
-Definition: x1 is a farm/ranch at x2, farmed by x3, raising/producing x4; (adjective:)
-  x1 is agrarian.
-Notes: Also grange; farming is any organized agrarian activity, not limited to plant
-  crops.  See also {purdi}, {nurma}, {ferti}, {foldi}, {xarju}.
-Examples: None
+word: cange
+rafsi:
+- cag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a farm/ranch at x2, farmed by x3, raising/producing x4;
+      (adjective:) x1 is agrarian.
+    notes:
+    - Also grange; farming is any organized agrarian activity, not limited to plant
+      crops.  See also {purdi}, {nurma}, {ferti}, {foldi}, {xarju}.
+    glosses:
+    - farm
+  de:
+    place structure: x1 ist ein Bauernhof/eine Ranch in/bei Ort x2, bebaut von x3
+      und erzeugt/erwirtschaftet/produziert/baut an x4; (Adjektiv:) x1 ist landwirtschaftlich
+    notes:
+    - No notes.
+    glosses:
+    - Bauernhof
+  es:
+    place structure: x1 es una granja/chacra/rancho/estancia en x2, trabajada por
+      x3, con producción x4
+    notes:
+    - Ver también {purdi}.
+    glosses:
+    - granja
+  ru:
+    place structure: x1 — ферма/колхоз/сельскохозяйственное предприятие в x2 (место),
+      с работниками x3, производящая продукцию x4
+    notes:
+    - 'прилагательное: x1 — сельскохозяйственный; относится к любой организованной
+      сельскохозяйственной деятельности, не только к растениеводству {purdi} (сад),
+      {nurma} (деревня), {ferti} (плодородный), {foldi} (поле [луг/лес]), {xarju}
+      (свинья)'
+    glosses:
+    - x1=ферма
+  en-simple:
+    place structure: x1 is a farm or ranch at x2 farmed by x3 that raises or produces
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a farm
+    - x2=a location of a farm
+    - x3=a farmer
+    - x4=something produced by a farm
+  eo:
+    place structure: x1 estas bieno ĉe x2, kulturata de x3, fleganta/produktanta x4-on;
+      (adjektivo:) x1 estas agra
+    notes:
+    - Agrokulturado, ne limigita al plantaj kultivoj.  Vidu ankaŭ {purdi}, {nurma},
+      {ferti}, {foldi}, {xarju}.
+    glosses:
+    - bieno
+  hu:
+    place structure: x1 egy farm/kisbirtok/tanya/majorság x2 helyen, x3 gazda által
+      művelve, x4 terményekkel
+    notes:
+    - '(Lásd még: {purdi}, {nurma}, {ferti}, {foldi}, {xarju})'
+    glosses:
+    - kisbirtok
+  ja:
+    place structure: x1 は x2 （所）・ x3 （責任者）・ x4 （作物）の田畑／農場／農園／養殖場／飼育場／牧場
+    notes:
+    - ・大意： 農場 ・読み方： シャンゲ  ・語呂合わせ： ＜シャンと元気で＞, agri, granja ・関連語： {purdi}, {nurma},
+      {ferti}, {foldi}, {xarju}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett lantbruk/jordbruk/lantgård/bondgård/farm/ranch på plats
+      x2 sköts av x3 producerar x4;x1 är agrar.
+    notes:
+    - Lantbruk är vilken som helst form av organiserad agrar aktivitet, inte enbart
+      odling av grödor.
+    glosses:
+    - agrar
+    - bonde
+    - farm
+    - jordbruk
+    - jordbrukare
+    - odalman
+    - ranch
+    - x1=lantbruk
+    - x2=lantbruksställe
+    - x3=lantbrukare
+    - x4=lantbruksprodukt
+  zh:
+    place structure: x1是农场/农庄，位于x2，由x3种植，种植作物x4；x1是有关于土地的
+    notes:
+    - 种植是指任何有组织的种植活动，不限于农作物的种植；参见 {purdi}, {nurma}, {ferti}, {foldi}, {xarju}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,76 @@
-Word: minde
-Rafsi: mid, mi'e
-Definition: x1 issues commands/orders to x2 for result x3 (event/state) to happen;
-  x3 is commanded to occur.
-Notes: '[also: $x_1$ orders/sets/Triggers. $x_2$ to do/bring about $x_3$; $x_1$ is
-  a commander; commanded (= {termi''e})]; See also {lacri}, te {bende}, {jatna}, {ralju},
-  {jitro}, {turni}, {tinbe}.'
-Examples: None
+word: minde
+rafsi:
+- mid
+- mi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 issues commands/orders to x2 for result x3 (event/state) to
+      happen; x3 is commanded to occur.
+    notes:
+    - '[also: x1 orders/sets/Triggers. x2 to do/bring about x3; x1 is a commander;
+      commanded (= {termi''e})]; See also {lacri}, te {bende}, {jatna}, {ralju}, {jitro},
+      {turni}, {tinbe}.'
+    glosses:
+    - command (an action)
+    - order (issue a command)
+  de:
+    place structure: x1 befiehlt/gibt Befehle/Anordnungen an x2 damit Ergebnis x3
+      (Ereignis/Zustand) eintrifft; x3 ist angeordnet
+    notes:
+    - No notes.
+    glosses:
+    - befehlen
+  es:
+    place structure: x1 manda/ordena a x2 hacer x3
+    notes:
+    - Ver también {talsa}.
+    glosses:
+    - mandar
+  ru:
+    place structure: x1 приказывает/командует x2 (кому), чтобы произошло/было x3 (событие/состояние)
+    notes:
+    - 'Также: заказывает; x1 — командир/заказчик; заказ: {termi''e} {lacri} (полагаться
+      [на что-либо]), {te} {bende} (команда), {jatna} (лидер), {ralju} (главный),
+      {jitro} (контролировать), {turni} (править), {tinbe} (подчиняться)'
+    glosses:
+    - приказывать
+    - x1=приказывающий
+    - x2=командуемый
+    - x3=суть команды
+  en-simple:
+    place structure: x1 commands or orders x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - x3=a purpose of a command
+  eo:
+    place structure: x1 ordonas al x2 ke rezulto x3 (okazo/stato) okazu; x3 estas
+      ordonita
+    notes:
+    - '1     (ankaŭ: x1 ordonas/ekigas/instrukcias/Incitas. x2-on fari/okazigi x3;
+      x1 estas komandanto; komando (= {termi''e})); Vidu ankaŭ {lacri}, te {bende},
+      {jatna}, {ralju}, {jitro}, {turni}, {tinbe}.'
+    glosses:
+    - ordoni
+  hu:
+    place structure: x1 parancsot ad x2-nek / utasítja x2-t x3 esemény megtételére
+    notes:
+    - '(Lásd még: {lacri}, {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe})'
+    glosses:
+    - parancsol
+  ja:
+    place structure: x1 は x2 （者）に x3 （事）が起こるよう／を行うよう命令／指令／指図する
+    notes:
+    - ・大意： 命令 ・読み方： ミンデ  ・語呂合わせ： ＜みんな出ろと命令＞,市民で命令 ・関連語： {lacri}, {te} {bende}, {jatna},
+      {ralju}, {jitro}, {turni}, {tinbe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1命令x2，结果x3（事件/状态）应当发生；x1给x2关于x3应当发生的命令
+    notes:
+    - x1发布命令，x2执行而做某事x3；x1是指挥官/司令员；x3是关于指令的；参见 {lacri}, te {bende}, {jatna}, {ralju},
+      {jitro}, {turni}, {tinbe}.
+    glosses:
+    - No glosses.

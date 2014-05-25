@@ -1,5 +1,77 @@
-Word: cadzu
-Rafsi: dzu
-Definition: x1 walks/strides/paces on surface x2 using limbs x3.
-Notes: See also {stapa}, {bajra}, {klama}, {litru}.
-Examples: None
+word: cadzu
+rafsi:
+- dzu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 walks/strides/paces on surface x2 using limbs x3.
+    notes:
+    - See also {stapa}, {bajra}, {klama}, {litru}.
+    glosses:
+    - walk
+  de:
+    place structure: x1 geht/schreitet auf der Oberfläche x2 mit den Gliedmaßen x3.
+    notes:
+    - Siehe auch {stapa}, {bajra}, {klama}, {litru}.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 anda/camina/pasea sobre superficie x2 usando miembros x3
+    notes:
+    - Ver también {stapa},  {bajra},  {klama},  {litru}.
+    glosses:
+    - andar
+  ru:
+    place structure: x1 шагает/идет пешком/марширует по поверхности x2, используя
+      конечности x3
+    notes:
+    - '{stapa} (ступать), {bajra} (бежать), {klama} (перемещаться), {litru} (путешествовать)'
+    glosses:
+    - шагать
+    - x1=шагающий
+  en-simple:
+    place structure: x1 walks on surface x2 using limbs x3
+    notes:
+    - No notes.
+    glosses:
+    - a walker
+    - x2=a surface walked on
+    - x3=a limb used to walk
+  eo:
+    place structure: x1 piediras/marŝas/paŝas sur supraĵo x2 per membroj x3
+    notes:
+    - Vidu ankaŭ {stapa}, {bajra}, {klama}, {litru}.
+    glosses:
+    - piediri
+  hu:
+    place structure: x1 sétál/gyalogol/jár x2 felületen, x3 végtagokkal
+    notes:
+    - '(Lásd még: {stapa}, {bajra}, {klama}, {litru})'
+    glosses:
+    - gyalogol
+  ja:
+    place structure: x1 は x2 （表面）を x3 （肢）で歩く
+    notes:
+    - ・大意： 歩く ・読み方： シャヅ ・語呂合わせ： ＜車道ずっと＞, zeu(走), ・関連語： {stapa}, {bajra}, {klama},
+      {litru}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 går/stegar/kliver på underlag x2 medelst lemmar x3.
+    notes:
+    - No notes.
+    glosses:
+    - fotgängare
+    - gå
+    - kliva
+    - stega
+    - x1=gående
+    - x2=underlag (för gång)
+    - x3=lem (som används till gång)
+  zh:
+    place structure: x1走/步行在路面x2上，用身体上的部位x3
+    notes:
+    - 参见 {stapa}, {bajra}, {klama}, {litru}.
+    glosses:
+    - No glosses.

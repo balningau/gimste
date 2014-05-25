@@ -1,8 +1,74 @@
-Word: mosra
-Rafsi: mos
-Definition: x1 is friction [force opposing motion] due to contact/rubbing between
-  x2 and x3; (fe) x2 rubs x3.
-Notes: Also $x_2$ scrubs/wipes/brushes (against) $x_3$ (= {seltermosra}); non-agentive
-  rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu},
-  {spali}.
-Examples: None
+word: mosra
+rafsi:
+- mos
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is friction [force opposing motion] due to contact/rubbing
+      between x2 and x3; (fe) x2 rubs x3.
+    notes:
+    - Also x2 scrubs/wipes/brushes (against) x3 (= {seltermosra}); non-agentive rub
+      (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu},
+      {spali}.
+    glosses:
+    - friction
+  de:
+    place structure: x1 ist Reibung [Kraft entgegengesetzt zur Bewegung] durch Kontakt/Reibung
+      zwischen x2 und x3; (fe) x2 reibt an x3
+    notes:
+    - No notes.
+    glosses:
+    - Reibung
+  es:
+    place structure: x1 es fricción (fuerza en contra del movimiento) debido a contacto/rozamiento
+      entre x2 y x3
+    notes:
+    - Ver también {sakli},  {sraku}.
+    glosses:
+    - fricción
+  ru:
+    place structure: x1 — трение (сила, препятствующая движению), порожденное контактом
+      между x2 и x3; x2 трется о x3 (между x2 и x3 существует трение)
+    notes:
+    - 'x2 трется о x3: {seltermosra} {sakli} (скользить), {sraku} (царапать), {jabre}
+      (тормозить [что-либо]), {satre} (гладить), {guska} (соскабливать), {pencu} (трогать),
+      {spali} (полировать)'
+    glosses:
+    - x1=трение
+  en-simple:
+    place structure: x1 is friction due to rubbing between x2 and x3
+    notes:
+    - No notes.
+    glosses:
+    - friction
+    - x2=something causing friction by rubbing
+    - x3=something rubbed to cause friction
+  eo:
+    place structure: x1 estas frikcio/frotforto [forto kontraŭ movo] pro kontakto/interfrotiĝo
+      inter x2 kaj x3
+    notes:
+    - 'Ankaŭ: viŝi; x2 frotiĝas/interfrotiĝas kun/kontraŭ x3 (= {termosra}).  Vidu
+      ankaŭ {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}.'
+    glosses:
+    - frikcio
+  hu:
+    place structure: x1 súrlódás x2 és x3 testek között
+    notes:
+    - '(Lásd még: {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali})'
+    glosses:
+    - súrlódás
+  ja:
+    place structure: x1 は x2 （物）と x3 （物）の接触による摩擦；  x2 は x3 に擦れる
+    notes:
+    - ・大意： 摩擦 ・読み方： モスラ  ・語呂合わせ： masatu, kosuru　モスラの摩擦 ・関連語： {sakli}, {sraku}, {jabre},
+      {satre}, {guska}, {pencu}, {spali}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2与x3之间的摩擦力；（fe）x2与x3摩擦
+    notes:
+    - 也指：x2摩擦x3 (= {seltermosra}；（非施事的）摩擦= {termosra}；参见 {sakli}, {sraku}, {jabre},
+      {satre}, {guska}, {pencu}, {spali}.
+    glosses:
+    - No glosses.

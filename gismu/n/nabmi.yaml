@@ -1,7 +1,77 @@
-Word: nabmi
-Rafsi: nam
-Definition: x1 (event/state) is a problem to/encountered by x2 in situation/task/inquiry
-  x3.
-Notes: 'Also: $x_1$ requires consideration by $x_2$.  See also {preti}, {danfu}, {ciksi},
-  {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo}, {spuda}, {raktu}.'
-Examples: None
+word: nabmi
+rafsi:
+- nam
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) is a problem to/encountered by x2 in situation/task/inquiry
+      x3.
+    notes:
+    - 'Also: x1 requires consideration by x2.  See also {preti}, {danfu}, {ciksi},
+      {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo}, {spuda}, {raktu}.'
+    glosses:
+    - problem
+  de:
+    place structure: x1 (Ereignis/Zustand) ist ein Problem für/aufgetreten bei x2
+      in Situation/Aufgabe/Vorhaben x3
+    notes:
+    - No notes.
+    glosses:
+    - Problem
+  es:
+    place structure: x1 (evento) es un problema/requiere consideración por x2 bajo
+      condiciones x3
+    notes:
+    - Ver también {preti},  {danfu}.
+    glosses:
+    - problema
+  ru:
+    place structure: x1 (событие/состояние) есть проблема/препятствие/трудность для/стоящая
+      перед x2 в ситуации/задании/исследовании x3
+    notes:
+    - 'Также: x1 требует внимания/рассмотрения/преодоления со стороны x2 {preti} (вопрос),
+      {danfu} (ответ), {ciksi} (объяснять), {jijnu} (постигать [интуитивно]), {jinvi}
+      (считать [полагать]), {nandu} (трудный [сложный]), {pensi} (думать), {sidbo}
+      (концепция), {spuda} (отвечать [реагировать])'
+    glosses:
+    - x1=проблема
+    - x2=имеющий проблему
+  en-simple:
+    place structure: x1 is a problem to x2 in situation x3
+    notes:
+    - No notes.
+    glosses:
+    - a problem
+    - x2=something encountering problem
+    - x3=a problem situation
+  eo:
+    place structure: x1 (okazo/stato) estas problemo por x2 en situacio/tasko/esploro
+      x3
+    notes:
+    - 'Ankaŭ: x1 bezonas konsideradon de x2.  Vidu ankaŭ {preti}, {danfu}, {ciksi},
+      {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo}, {spuda}.'
+    glosses:
+    - problemo
+  hu:
+    place structure: x1 állapot/esemény egy probléma/feladat/kihívás x2 számára x3
+      helyzetben/munkában
+    notes:
+    - '(Lásd még: {preti}, {danfu}, {ciksi}, {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo},
+      {spuda})'
+    glosses:
+    - probléma
+  ja:
+    place structure: x1 （事）は x2 が遭遇した、 x3 （状況／課業）における問題；  x1 は x2 に熟考を要する
+    notes:
+    - ・大意： 問題 ・読み方： ナブミ  ・語呂合わせ： nayami 悩み, nanti(難題), problem ・関連語： {preti}, {danfu},
+      {ciksi}, {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo}, {spuda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）是x2所遭遇的问题/困难/困境，在环境/任务x3中
+    notes:
+    - '也指: x1是需要x2考虑的事情；参见 {preti}, {danfu}, {ciksi}, {jijnu}, {jinvi}, {nandu}, {pensi},
+      {sidbo}, {spuda}, {raktu}.'
+    glosses:
+    - No glosses.

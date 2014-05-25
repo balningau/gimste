@@ -1,5 +1,61 @@
-Word: rufsu
-Rafsi: ruf
-Definition: x1 is rough/coarse/uneven/[grainy/scabrous/rugged] in texture/regularity.
-Notes: Fine-textured (= {tolrufsu}).  See also {xutla}, {tengu}, {vitci}.
-Examples: None
+word: rufsu
+rafsi:
+- ruf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is rough/coarse/uneven/[grainy/scabrous/rugged] in texture/regularity.
+    notes:
+    - Fine-textured (= {tolrufsu}).  See also {xutla}, {tengu}, {vitci}.
+    glosses:
+    - rough
+  de:
+    place structure: x1 ist rau/grob/uneben/[körnig] in ihrer/seiner Oberflächenbeschaffenheit/Regelmäßigkeit
+    notes:
+    - No notes.
+    glosses:
+    - rau
+  es:
+    place structure: x1 es áspero/rugoso en textura
+    notes:
+    - Ver también {xutla},  {tengu},  {vitci}.
+    glosses:
+    - áspero
+  ru:
+    place structure: x1 — грубый/{зернистый/шероховатый} в отношении текстуры/регулярности
+    notes:
+    - 'Тонкая/гладкая текстура: {tolrufsu} {xutla} (гладкий), {tengu} (текстура),
+      {vitci} (прерывистый)'
+    glosses:
+    - грубый (зернистый)
+  en-simple:
+    place structure: x1 is rough in texture
+    notes:
+    - No notes.
+    glosses:
+    - something rough
+  eo:
+    place structure: x1 estas malglata/raspa/[grajna] en tekseco/reguleco
+    notes:
+    - Delikata/fajntekseca (= {tolrufsu}).  Vidu ankaŭ {xutla}, {tengu}, {vitci}.
+    glosses:
+    - malglata
+  hu:
+    place structure: x1 durva/érdes/rögös/egyenetlen felszínű/szabályosságú
+    notes:
+    - '(Lásd még: {xutla}, {tengu}, {vitci})'
+    glosses:
+    - durva
+  ja:
+    place structure: x1 は粗い／ざらざら／ごわごわ
+    notes:
+    - ・大意： 粗い ・読み方： ルフゥス ・語呂合わせ： ざらざらなるふすま ・関連語： {xutla}, {tengu}, {vitci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在质地/规整性上，x1是粗糙的/不规整的
+    notes:
+    - 规整的/精细的= {tolrufsu}). 参见 {xutla}, {tengu}, {vitci}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,78 @@
-Word: cimde
-Rafsi: ''
-Definition: x1 (property - ka) is a dimension of space/object x2 according to rules/model
-  x3.
-Notes: See also {morna}, {ckilu}, {merli}, {manri}.
-Examples: None
+word: cimde
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (property - ka) is a dimension of space/object x2 according
+      to rules/model x3.
+    notes:
+    - See also {morna}, {ckilu}, {merli}, {manri}.
+    glosses:
+    - dimension
+  de:
+    place structure: x1 (Eigenschaft - ka) ist eine Dimension von Raum/Objekt x2 gemäß
+      Regeln/Modell x3
+    notes:
+    - No notes.
+    glosses:
+    - Dimension
+  es:
+    place structure: x1 es una dimensión de espacio/objeto x2 según reglas/modelo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - dimensión
+  ru:
+    place structure: 'x1 (свойство: {ka}) есть измерение (высота/ширина/длина и т.п.)
+      пространства/объекта x2, определяемое по правилам/модели x3'
+    notes:
+    - '{morna} (узор), {ckilu} (шкала), {merli} (измерять), {manri} (эталон)'
+    glosses:
+    - измерение
+  en-simple:
+    place structure: x1 is a dimension of space or object x2 according to rule or
+      model x3
+    notes:
+    - No notes.
+    glosses:
+    - a dimension
+    - x2=something with a dimension
+    - x3=a dimensional model
+  eo:
+    place structure: x1 (eco - ka) estas dimensio de spaco/objekto x2 laŭ regulo/modelo
+      x3
+    notes:
+    - Vidu ankaŭ {morna}, {ckilu}, {merli}, {manri}.
+    glosses:
+    - dimensio
+  hu:
+    place structure: x1 egy mérete/kiterjedése/dimenziója x2 térnek/tárgynak, x3 modell/szabályok
+      szerint
+    notes:
+    - '(Lásd még: {morna}, {ckilu}, {merli}, {manri})'
+    glosses:
+    - méret
+  ja:
+    place structure: x1 は x2 （事物）・ x3 （原理）の次元
+    notes:
+    - ・大意： 次元 ・読み方： シムデ  ・関連語： {morna}, {ckilu}, {merli}, {manri}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (ka) är en dimension av rymd/objekt x2 enligt regler/modell
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=dimension
+    - x2=dimensionstillhörande
+    - x3=dimensionsmodell
+  zh:
+    place structure: x1（ka）是空间/物体x2的尺寸/规格，基于标准/模板x3
+    notes:
+    - 参见 {morna}, {ckilu}, {merli}, {manri}.
+    glosses:
+    - No glosses.

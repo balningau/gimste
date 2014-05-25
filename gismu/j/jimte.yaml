@@ -1,8 +1,80 @@
-Word: jimte
-Rafsi: jit
-Definition: x1 is a limit/extreme/bound/border/[confinement] of x2 in property/domain
-  x3.
-Notes: Restrain/constrain within limits (= {jitri'u}, {jitygau}, {jityzu'e}).  See
-  also cmavo list {ji'e}, {traji}, {korbi}, {kuspe}, {rinju}, {bapli}, {curmi}, {fanta},
-  {jbini}.
-Examples: None
+word: jimte
+rafsi:
+- jit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a limit/extreme/bound/border/[confinement] of x2 in property/domain
+      x3.
+    notes:
+    - Restrain/constrain within limits (= {jitri'u}, {jitygau}, {jityzu'e}).  See
+      also cmavo list {ji'e}, {traji}, {korbi}, {kuspe}, {rinju}, {bapli}, {curmi},
+      {fanta}, {jbini}.
+    glosses:
+    - limit
+  de:
+    place structure: x1 ist eine Obergrenze/ein Limit/Extrem/Begrenzung von x2 in
+      Eigenschaft/Domäne x3
+    notes:
+    - No notes.
+    glosses:
+    - Obergrenze
+  es:
+    place structure: x1 es un límite/extremo/borde/frontera de x2 en propiedad/dominio
+      x3
+    notes:
+    - Ver también {traji},  {korbi}.
+    glosses:
+    - límite
+  ru:
+    place structure: x1 — граница/предел/рубеж x2 (чего) в отношении свойства/в области
+      x3
+    notes:
+    - 'Ограничивать/заключать в пределах: {jitri''u}, {jitygau}, {jityzu''e} {ji''e},
+      {traji} (самый), {korbi} (край), {kuspe} (простираться), {rinju} (удерживаться
+      [от чего-либо]), {bapli} (заставлять), {curmi} (разрешать [позволять]), {fanta}
+      (препятствовать [не давать произойти]), {jbini} (между)'
+    glosses:
+    - граница
+  en-simple:
+    place structure: x1 is a limit or border of x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - a limit
+    - x2=something with a limit
+    - x3=a property of a limit
+  eo:
+    place structure: x1 estas limo/ekstremo/bordo/[enfermigo] de x2 en eco/kampo x3
+    notes:
+    - Reteni ene de limoj (= {jitri'u}, {jitygau}, {jityzu'e}).  Vidu ankaŭ cmavo
+      {ji'e}, {traji}, {korbi}, {kuspe}, {rinju}, {bapli}, {curmi}, {fanta}, {jbini}.
+    glosses:
+    - limo
+  hu:
+    place structure: x1 egy határa/szélsősége x2-nek x3 tulajdonságban/kiterjedésben
+    notes:
+    - '(Lásd még: {traji}, {korbi}, {kuspe}, {rinju}, {bapli}, {curmi}, {fanta}, {jbini})'
+    glosses:
+    - határ
+  ja:
+    place structure: x1 は x2 の x3 （性質）に関する限度／限界
+    notes:
+    - ・大意： 限度 ・読み方： ジムテ  ・語呂合わせ： 事務手続きの限度 ・関連語： {ji'e}, {traji}, {korbi}, {kuspe},
+      {rinju}, {bapli}, {curmi}, {fanta}, {jbini}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en gräns/extrem/avskiljning/[begränsning/inspärrning] för
+      x2 i egenskap/område x3.
+    notes:
+    - Hålla (tillbaka)/begränsa/tygla inom gränser/sätta gränser (= {jitri'u}, {jitygau}).
+    glosses:
+    - gräns (även extrem/avgränsning/skiljelinje etc)
+  zh:
+    place structure: x1是x2的限制/边界/界限/极限，具有性质/范围x3
+    notes:
+    - 限制/抑制在一定范围内= {jitri'u}/{jitygau}/{jityzu'e}；参见 {ji'e}, {traji}, {korbi}, {kuspe},
+      {rinju}, {bapli}, {curmi}, {fanta}, {jbini}.
+    glosses:
+    - No glosses.

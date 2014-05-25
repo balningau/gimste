@@ -1,8 +1,81 @@
-Word: rupnu
-Rafsi: rup, ru'u
-Definition: x1 is measured in major-money-units (dollar/yuan/ruble) as x2 (quantity),
-  monetary system x3.
-Notes: Also pound, rupee, franc, mark, yen; $x_1$ is generally a price/cost/value.  See
-  also {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli},
-  {bunda}, {kramu}.
-Examples: None
+word: rupnu
+rafsi:
+- rup
+- ru'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is measured in major-money-units (dollar/yuan/ruble) as x2
+      (quantity), monetary system x3.
+    notes:
+    - Also pound, rupee, franc, mark, yen; x1 is generally a price/cost/value.  See
+      also {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu}.
+    glosses:
+    - dollar
+  de:
+    place structure: x1 ist gemessen in großen Geldeinheiten (Dollar/Yuan/Rubel) als
+      x2 (Menge) in Währungssystem x3
+    notes:
+    - No notes.
+    glosses:
+    - Dollar
+  es:
+    place structure: x1 es/vale/cuesta x2 dólar/marco/yen/libra/franco/peso/peseta/escudo/lira/unidades
+      de sistema monetario x3
+    notes:
+    - Ver también {fepni}.
+    glosses:
+    - peso
+  ru:
+    place structure: x1 составляет/стоит x2 (количество) основных денежных единиц
+      (рубль/юань/доллар/…) денежной системы x3
+    notes:
+    - x1 обычно цена/стоимость/ценность {jdini} (деньги), {sicni} (монета), {jdima}
+      (цена), {vecnu} (продавать), {fepni} (стоить [в копейках/центах и пр.]), {dekpu}
+      (иметь объем [неметрический]), {gutci} (измеряться [в футах/дюймах и пр.]),
+      {minli} (миля), {merli} (измерять), {bunda} (весить [в неметрических единицах]),
+      {kramu} (акр)
+    glosses:
+    - доллар/рубль
+    - x1=стоить
+    - x3=денежная система
+  en-simple:
+    place structure: x1 is measured in major money units as quantity x2 in monetary
+      system x3
+    notes:
+    - No notes.
+    glosses:
+    - x2=an amount of money
+    - x3=a monetary system
+  eo:
+    place structure: x1 estas mezurita en pligranda monunuo (dolaro/eŭro/rublo) kiel
+      x2 (kvanto), mona sistemo x3
+    notes:
+    - 'Ankaŭ: pundo, rupeo, franko, marko, eno; x1 estas ĝenerale prezo/kosto/valoro.  Vidu
+      ankaŭ {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu}.'
+    glosses:
+    - speso
+  hu:
+    place structure: x1 értéke x2 pénzegység, x3 valutában
+    notes:
+    - '(Lásd még: {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu})'
+    glosses:
+    - dollár
+  ja:
+    place structure: x1 は x2 （数量）の、 x3 （通貨体系）の上位単位／円／ドル／ユーロ
+    notes:
+    - x1は商品の値段や財布の中身など。 ・大意： 円（えん） ・読み方： ルプヌ  ・関連語： {jdini}, {sicni}, {jdima}, {vecnu},
+      {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是以主要货币单位（如：元/美元/卢布等）计量的，具有数量x2，属于货币体系x3
+    notes:
+    - 也指：英镑，法郎，马克，日元，比特币单位等；x1一般指价格/花费/价值；参见 {jdini}, {sicni}, {jdima}, {vecnu}, {fepni},
+      {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - No glosses.

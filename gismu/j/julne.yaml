@@ -1,6 +1,73 @@
-Word: julne
-Rafsi: ju'e
-Definition: x1 is a net/filter allowing passage of x2, prohibiting passage of x3,
-  netting properties x4.
-Notes: Also sieve.  See also {komcu}, {ciste}, {jgena}.
-Examples: None
+word: julne
+rafsi:
+- ju'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a net/filter allowing passage of x2, prohibiting passage
+      of x3, netting properties x4.
+    notes:
+    - Also sieve.  See also {komcu}, {ciste}, {jgena}.
+    glosses:
+    - block (prevent from passing)
+    - net
+  de:
+    place structure: x1 ist ein Netz/Filter, lässt x2 durch und verhindert den Durchgang/Durchfluss
+      von x3, mit Netz-/Geflechteigenschaft x4
+    notes:
+    - No notes.
+    glosses:
+    - Netz
+  es:
+    place structure: x1 es una red/filtro/colador que permite el paso de x2 y retiene
+      x3, con propiedades x4
+    notes:
+    - Ver también {klina}.
+    glosses:
+    - red
+  ru:
+    place structure: x1 — сеть/сито/фильтр, пропускающая x2, задерживающая x3, обладающая
+      свойствами x4
+    notes:
+    - '{komcu} (гребень), {ciste} (система), {jgena} (узел)'
+    glosses:
+    - фильтр
+    - x2=пропускаемое через фильтр
+    - x3=задерживаемое фильтром
+  en-simple:
+    place structure: x1 is a filter passing x2 and prohibiting x3 with netting properties
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a filter
+    - x2=something passed by filter
+    - x3=something blocked by filter
+    - x4=a filter property
+  eo:
+    place structure: x1 estas reto/filtrilo permesanta pason de x2, malpermesanta
+      pason de x3, kun retaj ecoj x4
+    notes:
+    - 'Ankaŭ: kribrilo.  Vidu ankaŭ {komcu}, {ciste}, {jgena}.'
+    glosses:
+    - reto
+  hu:
+    place structure: x1 egy szűrő/háló/szita, ami átereszti x2-t és kiszűri x3-t,
+      x4 tulajdonságokkal
+    notes:
+    - '(Lásd még: {komcu}, {ciste}, {jgena})'
+    glosses:
+    - szűrő
+  ja:
+    place structure: x1 は x2 を通し x3 を遮る、 x4 （特性）の網／フィルター
+    notes:
+    - 「濾過器」「遮光器」「ふるい」「こし器」なども。 ・大意： 網 ・読み方： ジュルゥネ  ・関連語： {komcu}, {ciste}, {jgena}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是网/过滤器，允许x2通过，阻止x3通过，具有过滤属性x4
+    notes:
+    - 也指：筛子；参见 {komcu}, {ciste}, {jgena}.
+    glosses:
+    - No glosses.

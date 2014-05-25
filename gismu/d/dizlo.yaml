@@ -1,7 +1,82 @@
-Word: dizlo
-Rafsi: diz, dzi
-Definition: x1 is low/down/downward in frame of reference x2 as compared with baseline/standard
-  height x3.
-Notes: Also lower; $x_3$ is generally some defined distance above a zero point/baseline,
-  or is that baseline itself.  See also {cnita}, {galtu}, {gapru}, {farna}, {loldi}.
-Examples: None
+word: dizlo
+rafsi:
+- diz
+- dzi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is low/down/downward in frame of reference x2 as compared
+      with baseline/standard height x3.
+    notes:
+    - Also lower; x3 is generally some defined distance above a zero point/baseline,
+      or is that baseline itself.  See also {cnita}, {galtu}, {gapru}, {farna}, {loldi}.
+    glosses:
+    - low
+  de:
+    place structure: x1 ist tief/niedrig/unten in Bezugssystem x2 verglichen mit Grundlinie/Standardhöhe
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - niedrig
+  es:
+    place structure: x1 esta bajo/abajo en marco de referencia x2 comparado con estándar
+      x3
+    notes:
+    - Ver también {galtu},  {cnita}.
+    glosses:
+    - bajo
+  ru:
+    place structure: x1 находится низко/внизу в системе отсчета x2 по сравнению со
+      стандартным уровнем x3
+    notes:
+    - 'Также: нижний; x3 — обычно некое расстояние вверх от нулевого уровня, или сам
+      нулевой уровень {cnita} (под), {galtu} (высокий), {gapru} (над), {farna} (направление),
+      {loldi} (пол [дно])'
+    glosses:
+    - x1=низкий
+  en-simple:
+    place structure: x1 is low or down in reference frame x2 compared to height x3
+    notes:
+    - No notes.
+    glosses:
+    - something low
+    - x2=a lowness reference frame
+    - x3=a standard of lowness
+  eo:
+    place structure: x1 estas malalta/malsupra/malsuprena en referenckadro x2 kompare
+      kun bazo/norma alto x3
+    notes:
+    - 'Ankaŭ: pli malalta; x3 estas ĝenerale iu difinita distanco super baznivelo,
+      aŭ estas tiu baznivelo mem.  Vidu ankaŭ {cnita}, {galtu}, {gapru}, {farna},
+      {loldi}.'
+    glosses:
+    - malalta
+  hu:
+    place structure: x1 alacsony(an van) x2 vonatkoztatási rendszerben, x3-hoz viszonyítva
+    notes:
+    - '(Lásd még: {cnita}, {galtu}, {gapru}, {farna}, {loldi})'
+    glosses:
+    - lent
+  ja:
+    place structure: x1 は x2 （照合枠）・ x3 （基点）において低い
+    notes:
+    - ・大意： 低い ・読み方： ディズォルォ  ・関連語： {cnita}, {galtu}, {gapru}, {farna}, {loldi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är låg/nere/nedåt i referensram x2 jämfört med baslinjen/standardhöjd
+      x3.
+    notes:
+    - Även längre ner; x3 är generellt någon definierad distans över en nollpunkt/baslinje,
+      eller är i sig självt denna baslinje.
+    glosses:
+    - låg (under en given höjdpunkt)
+    - nere (under en given höjdpunkt)
+  zh:
+    place structure: x1是低的/向下的，在参考结构x2中，与基准线/标准/参照物x3比较
+    notes:
+    - 也指：下面的；x3通常是0标线以上的基准线，或也可是0标线本身；参见 {cnita}, {galtu}, {gapru}, {farna}, {loldi}.
+    glosses:
+    - No glosses.

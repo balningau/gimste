@@ -1,6 +1,89 @@
-Word: dilcu
-Rafsi: ''
-Definition: x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving
-  remainder x4.
-Notes: See also {frinu}, {fendi}, {katna}, {parbi}, {mekso}.
-Examples: None
+word: dilcu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3],
+      leaving remainder x4.
+    notes:
+    - See also {frinu}, {fendi}, {katna}, {parbi}, {mekso}.
+    glosses:
+    - quotient
+  jbo:
+    place structure: x1 te fatri x3 boi x2 .i x1 nu'a fe'i x2 boi x3
+    notes:
+    - '{fatri}; {fe''i}'
+    glosses:
+    - dilcu
+  de:
+    place structure: x1 ist ein Quotient von x2 geteilt durch x3; mit Rest x4.
+    notes:
+    - Siehe auch {frinu}, {fendi}, {katna}, {parbi}, {mekso}.
+    glosses:
+    - x1=Quotient
+    - x2=Dividend
+    - x3=Divisor
+    - x4=Rest (Division)
+  es:
+    place structure: x1 es el cociente entre dividendo x2 y divisor x3 con resto x4
+    notes:
+    - Ver también {frinu},  {pilji}.
+    glosses:
+    - cociente
+  ru:
+    place structure: x1 — частное («x2/x3»), результат деления x2 (делимое) на x3
+      (делитель), с остатком x4
+    notes:
+    - '{frinu} (дробь), {fendi} (делить [разделять]), {katna} (разрезать), {parbi}
+      (пропорция), {mekso} (формула)'
+    glosses:
+    - x1=частное
+    - x2=делимое
+    - x3=делитель
+    - x4=остаток (арифметика)
+  en-simple:
+    place structure: x1 is a quotient of, x2 divided by x3, leaving remainder x4
+    notes:
+    - No notes.
+    glosses:
+    - a quotient
+    - x2=a quotient's dividend
+    - x3=a quotient's divisor
+    - x4=a quotient's remainder
+  eo:
+    place structure: x1 estas kvociento de 'x2/x3' [dividato x2 dividita per dividanto
+      x3], kun restaĵo x4
+    notes:
+    - Vidu ankaŭ {frinu}, {fendi}, {katna}, {parbi}, {mekso}.
+    glosses:
+    - kvociento
+  hu:
+    place structure: x1 a hányadosa x2-nek és x3-nak, x4 maradékkal
+    notes:
+    - '(Lásd még: {frinu}, {fendi}, {katna}, {parbi}, {mekso})'
+    glosses:
+    - hányados
+  ja:
+    place structure: x1 は x2 （被除数）・ x3 （除数）・ x4 （剰余）の商
+    notes:
+    - ・大意： 商 ・読み方： ディルゥシュ  ・関連語： {frinu}, {fendi}, {katna}, {parbi}, {mekso}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvot av 'x2/x3' [dividend x2 dividerat med divisor x3],
+      med rest x4.
+    notes:
+    - No notes.
+    glosses:
+    - x1=kvot
+    - x2=dividend
+    - x3=divisor
+    - x4=rest (division)
+  zh:
+    place structure: x1是x2除以x3的商，余数为x4 （x2是被除数，x3是除数）
+    notes:
+    - 参见 {frinu}, {fendi}, {katna}, {parbi}, {mekso}.
+    glosses:
+    - No glosses.

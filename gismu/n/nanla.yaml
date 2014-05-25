@@ -1,6 +1,79 @@
-Word: nanla
-Rafsi: ''
-Definition: x1 is a boy/lad [young male person] of age x2 immature by standard x3.
-Notes: Word dispreferred in metaphor/example as sexist; (use verba).  See also {nixli},
-  {verba}, {nanmu}, {bersa}.
-Examples: None
+word: nanla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a boy/lad [young male person] of age x2 immature by standard
+      x3.
+    notes:
+    - Word dispreferred in metaphor/example as sexist; (use verba).  See also {nixli},
+      {verba}, {nanmu}, {bersa}.
+    glosses:
+    - boy
+  de:
+    place structure: x1 ist ein Junge/Bub/Bursche/Knabe [junge männliche Person] in
+      Alter x2 und unreif gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Junge
+  es:
+    place structure: x1 es un niño/chico/muchacho (varón) de edad x2 inmaduro según
+      estándar x3
+    notes:
+    - Ver también {nixli},  {verba},  {nanmu}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — мальчик/юноша/парень (молодое лицо мужского пола) возраста
+      x2, незрелый относительно критерия x3
+    notes:
+    - '{nixli} (девочка), {verba} (ребенок), {nanmu} (мужчина), {bersa} (сын)'
+    glosses:
+    - мальчик
+    - x2=возраст мальчика
+  en-simple:
+    place structure: x1 is a boy of age x2 immature by standard x3
+    notes:
+    - No notes.
+    glosses:
+    - a boy
+    - x2=an age of a boy
+    - x3=a standard of boyhood
+  eo:
+    place structure: x1 estas knabo [juna vira homo] de aĝo x2 nematura laŭ normo
+      x3
+    notes:
+    - Vorto evitinda en metaforo/ekzemplo kiel seksisma; (uzu je verba).  Vidu ankaŭ
+      {nixli}, {verba}, {nanmu}, {bersa}.
+    glosses:
+    - knabo
+  hu:
+    place structure: x1 egy fiú/legény [fiatal hímnemű személy], aki x2 korú, és x3
+      norma szerint kiskorú/éretlen
+    notes:
+    - '(Lásd még: {nixli}, {verba}, {nanmu}, {bersa})'
+    glosses:
+    - fiú (kiskorú hímnemű)
+  ja:
+    place structure: x1 は x2 （年齢）・ x3 （基準）の少年／未成熟の男
+    notes:
+    - セクシズムを避けるなら「verba」。 ・大意： 少年 ・読み方： ナンルァ  ・語呂合わせ： 少年何ら変わりなし,nan(男),lad ・関連語： {nixli},
+      {verba}, {nanmu}, {bersa}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: 'x1 to chłopiec [młody człowiek płci męskiej] wieku x2 niedojrzały
+      według standardu x3. '
+    notes:
+    - Cf. {nixli}, {verba}, {nanmu}, {bersa}, {lanzu}.
+    glosses:
+    - x1=chłopiec
+  zh:
+    place structure: x1是男孩/少年（未成年的男性），年纪为x2，基于成熟标准x3
+    notes:
+    - 参见 {nixli}, {verba}, {nanmu}, {bersa}.
+    glosses:
+    - No glosses.

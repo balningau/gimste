@@ -1,7 +1,76 @@
-Word: ganxo
-Rafsi: gax
-Definition: 'x1 is a/the anus/anal orifice/asshole/arsehole [body-part] of x2; [metaphor:
-  exit, waste exit].'
-Notes: Also asshole/ass/arsehole; (adjective:) $x_1$ is anal.  See also {zargu}, {kalci},
-  {mabla}, {rinci}.
-Examples: None
+word: ganxo
+rafsi:
+- gax
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the anus/anal orifice/asshole/arsehole [body-part] of
+      x2; [metaphor: exit, waste exit].'
+    notes:
+    - Also asshole/ass/arsehole; (adjective:) x1 is anal.  See also {zargu}, {kalci},
+      {mabla}, {rinci}.
+    glosses:
+    - anus
+    - asshole (anus)
+  de:
+    place structure: 'x1 ist der After/der Darmausgang/das Arschloch [Körperteil]
+      von x2; [im übertragenen Sinne: Ausgang; Abfallöffnung]'
+    notes:
+    - No notes.
+    glosses:
+    - After
+  es:
+    place structure: x1 es un ano/ojete (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - ano
+  ru:
+    place structure: x1 — задний проход/анальное  отверстие/анус (часть тела) x2
+    notes:
+    - 'Метафора: выход, выход для отходов {zargu} (ягодица), {kalci} (кал), {mabla}
+      (негативный [о значении/смысле слова]), {rinci} (вытекать)'
+    glosses:
+    - анус
+  en-simple:
+    place structure: x1 is the anus of x2
+    notes:
+    - No notes.
+    glosses:
+    - an anus
+    - x2=something with an anus
+  eo:
+    place structure: 'x1 estas (la) anuso [korpoparto] de x2; [metafore: elirejo,
+      elirejo de forĵetaĵoj]'
+    notes:
+    - Vidu ankaŭ {zargu}, {kalci}, {mabla}, {rinci}.
+    glosses:
+    - anuso
+  hu:
+    place structure: x1 egy/a végbélnyílása x2-nek
+    notes:
+    - '(Lásd még: {zargu}, {kalci}, {mabla}, {rinci})'
+    glosses:
+    - végbélnyílás
+  ja:
+    place structure: x1 は x2 （本体）の肛門
+    notes:
+    - 比喩的に「出口」も。 ・大意： 肛門 ・読み方： ガンクォ  ・関連語： {zargu}, {kalci}, {mabla}, {rinci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en analöppning/anus [kroppsdel] av x2.
+    notes:
+    - Även rövhål/röv/arsle; x1 är anal.
+    glosses:
+    - anal
+    - analöppning
+    - x1=anus
+    - x2=anusförsedd
+  zh:
+    place structure: x1是x2的屁眼/肛门
+    notes:
+    - 参见 {zargu}, {kalci}, {mabla}, {rinci}.
+    glosses:
+    - No glosses.

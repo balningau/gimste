@@ -1,6 +1,76 @@
-Word: damri
-Rafsi: ''
-Definition: x1 is a drum/cymbal/gong [percussion musical instrument] with beater/actuator
-  x2.
-Notes: See also {rilti}, {zgike}.
-Examples: None
+word: damri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a drum/cymbal/gong [percussion musical instrument] with
+      beater/actuator x2.
+    notes:
+    - See also {rilti}, {zgike}.
+    glosses:
+    - drum
+  de:
+    place structure: x1 ist eine Trommel/Zimbel/ein Gong [musikalisches Schlaginstrument]
+      mit Klöppel/Auslöser x2
+    notes:
+    - No notes.
+    glosses:
+    - Trommel
+  es:
+    place structure: x1 es un tambor/bombo/cimbal/gongo (instrumento musical de percusión)
+      con batidor x2
+    notes:
+    - No notes.
+    glosses:
+    - tambor
+  ru:
+    place structure: x1 — барабан/цимбалы/гонг (ударный музыкальный инструмент) с
+      приспособлением для извлечения звука (палочки/колотушка) x2
+    notes:
+    - '{rilti} (ритм), {zgike} (музыка)'
+    glosses:
+    - барабан
+  en-simple:
+    place structure: x1 is a drum, gong or other percussion instrument with beater
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - a percussion instrument
+    - x2=a percussion instrument's beater
+  eo:
+    place structure: x1 estas tamburo/cimbalo/gongo [perkuta muzikinstrumento] kun
+      perkutilo/funkciigilo x2
+    notes:
+    - Vidu ankaŭ {rilti}, {zgike}.
+    glosses:
+    - tamburo
+  hu:
+    place structure: x1 egy dob/cintányér/gong/harang [ütőhangszer] x2 dobossal/kezelővel
+    notes:
+    - '(Lásd még: {rilti}, {zgike})'
+    glosses:
+    - dob (hangszer)
+  ja:
+    place structure: x1 は x2 （ばち）による打楽器（太鼓／ドラムス／シンバル）
+    notes:
+    - ・大意： 打楽器 ・読み方： ダムリ  ・語呂合わせ： 打楽器だ、無理 ・関連語： {rilti}, {zgike}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en trumma/xylofon/cymbal/gong [slaginstrument] som anslås
+      med x2.
+    notes:
+    - slagverk (set/massa?).
+    glosses:
+    - percussion
+    - x1=slaginstrument
+    - x2=slaginstrumentredskap (exv klubba, trumpinne etc.)
+  zh:
+    place structure: x1是打击类乐器，打击器为x2
+    notes:
+    - 参见 {rilti}, {zgike}.
+    glosses:
+    - No glosses.

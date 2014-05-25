@@ -1,8 +1,91 @@
-Word: fliba
-Rafsi: fli
-Definition: x1 fails at doing x2 (state/event); x1 is a failure at its role in x2.
-Notes: Baffled (= {pesfli}, {jmifli}, {dafspufli}, {menfli}, among other senses);
-  also $x_2$ ceases/does not complete/fails to continue due to failure on the part
-  of $x_1$.  See also {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa},
-  {bebna}, {zunti}.
-Examples: None
+word: fliba
+rafsi:
+- fli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 fails at doing x2 (state/event); x1 is a failure at its role
+      in x2.
+    notes:
+    - Baffled (= {pesfli}, {jmifli}, {dafspufli}, {menfli}, among other senses); also
+      x2 ceases/does not complete/fails to continue due to failure on the part of
+      x1.  See also {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa},
+      {bebna}, {zunti}.
+    glosses:
+    - fail
+  de:
+    place structure: x1 scheitert daran, x2 (Ereignis/Zustand) zu tun/sein; x1 ist
+      ein Versager in seiner Rolle als x2.
+    notes:
+    - 'Auch: x2 scheitert an/wegen x1. Siehe auch {cfila}, {snada}, {srera}, {troci},
+      {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.'
+    glosses:
+    - fehlschlagen
+    - scheitern
+    - versagen
+    - x1=Versager
+  es:
+    place structure: x1 falla/fracasa en ser/hacer x2 (objeto/estado/evento)
+    notes:
+    - No notes.
+    glosses:
+    - fallar
+  ru:
+    place structure: x1 терпит неудачу/провал в попытке сделать/стать/быть x2 (состояние/событие);
+      x1 не может/не в состоянии/не способен сделать/стать/быть x2
+    notes:
+    - 'Также: x2 не в состоянии осуществиться/завершиться в силу отказа/сбоя/несостоятельности
+      x1; озадачен/сбит с толку/в недоумении: {pesfli}, {jmifli}, {dafspufli}, {menfli}
+      {cfila} (дефект), {snada} (добиваться [чего-либо успешно]), {srera} (ошибаться),
+      {troci} (пытаться), {sisti} (останавливать), {ranji} (продолжаться), {denpa}
+      (ждать), {bebna} (глупый), {zunti} (мешать [препятствовать])'
+    glosses:
+    - терпеть неудачу
+    - x1=терпящий неудачу
+  en-simple:
+    place structure: x1 fails at doing x2
+    notes:
+    - No notes.
+    glosses:
+    - a failer
+    - x2=something failed at
+  eo:
+    place structure: x1 malsukcesas je x2 (stato/okazo)
+    notes:
+    - Perpleksa (= {pesfli}, {jmifli}, {dafspufli}, {menfli}); ankaŭ x2 ĉesiĝas/ne
+      kompletiĝas/ne povas kontinui pro malsukceso de x1.  Vidu ankaŭ {cfila}, {snada},
+      {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.
+    glosses:
+    - malsukcesi
+  hu:
+    place structure: x1 kudarcot vall x2 állapot/esemény elérésében
+    notes:
+    - '(Lásd még: {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna},
+      {zunti})'
+    glosses:
+    - kudarcot vall
+  ja:
+    place structure: x1 は x2 （事）に失敗する；  x1 は x2 を怠る
+    notes:
+    - x2 は達成されなかった／実現されなかった事。 ・大意： 失敗 ・読み方： フゥルィバ  ・関連語： {cfila}, {snada}, {srera},
+      {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 misslyckas med (att göra) x2 (tillstånd/händelse);  x1 misslyckas
+      i sin roll som x2.
+    notes:
+    - Även x2 upphör/görs inte färdigt/fortsätts inte på grund av  x1s misslyckande.
+      x1 är en loser/förlorare (i viss mening).
+    glosses:
+    - misslyckas
+    - x1=förlorare (en som misslyckas ()
+    - x2=misslyckande (det som har misslyckats)
+  zh:
+    place structure: x1失败于x2（状态/事件）；x1是一个失败者，在事件x2中
+    notes:
+    - 困惑= {pesfli}, {jmifli}, {dafspufli}, {menfli},（某种意义上来说）；也指 x2终止/停止，因为x1失败；参见
+      {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.
+    glosses:
+    - No glosses.

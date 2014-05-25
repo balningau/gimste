@@ -1,9 +1,85 @@
-Word: gutci
-Rafsi: guc
-Definition: x1 is x2 (default 1) short local distance unit(s) [non-metric], standard
-  x3, x4 subunits.
-Notes: Foot (= {jmagutci}); yard (= {cibjmagutci}), pace (= {tapygutci}), inch (=
-  {degygutci}), cubit (= {birgutci}).  (additional subunit places may be added as
-  $x_5$, $x_6$, ...); See also {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu},
-  {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}.
-Examples: None
+word: gutci
+rafsi:
+- guc
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 (default 1) short local distance unit(s) [non-metric],
+      standard x3, x4 subunits.
+    notes:
+    - Foot (= {jmagutci}); yard (= {cibjmagutci}), pace (= {tapygutci}), inch (= {degygutci}),
+      cubit (= {birgutci}).  (additional subunit places may be added as x5, x6, ...);
+      See also {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu},
+      {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - cubit
+  de:
+    place structure: 'x1 ist x2 (Default: 1) kurze [nicht-metrische] örtliche Entfernungseinheit,
+      gemäß Standard x3, mit Untereinheiten x4'
+    notes:
+    - No notes.
+    glosses:
+    - Elle
+  es:
+    place structure: x1 mide x2 unidades locales de distancia corta (1 por defecto),
+      estándar x3, x4 subunidades
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: длина x1 составляет x2 (по умолчанию 1) местных (неметрических)
+      единиц измерения коротких расстояний, по стандарту x3, x4 дробных единиц
+    notes:
+    - 'Фут: {jmagutci}; ярд: {cibjmagutci}, шаг: {tapygutci}, дюйм: {degygutci}, локоть:
+      {birgutci}; дополнительные места для дробных единиц могут быть добавлены как
+      x5, x6,… {mitre} (метр), {clani} (длинный), {ganra} (широкий), {condi} (глубокий),
+      {rotsu} (толстый), {rupnu} (денежная единица), {fepni} (стоить [в копейках/центах
+      и пр.]), {dekpu} (иметь объем [неметрический]), {minli} (миля), {merli} (измерять),
+      {bunda} (весить [в неметрических единицах]), {kramu} (акр)'
+    glosses:
+    - x1=локоть (длина)
+  en-simple:
+    place structure: x1 is x2 non-metric short distance units in standard x3 with
+      subunits x4
+    notes:
+    - No notes.
+    glosses:
+    - something measured in non-metric short distance
+    - x2=an amount of non-metric distance
+    - x3=a non-metric short distance standard
+    - x4=a subunit of a non-metric short distance
+  eo:
+    place structure: x1 estas x2 (defaŭlte 1) mallongaj lokaj unuoj de distanco [ne-metra],
+      normo x3, x4 subunuoj
+    notes:
+    - Futo (= {jmagutci}); jardo (= {cibjmagutci}), paŝo (= {tapygutci}), colo (=
+      {degygutci}), kubito (= {birgutci}).  (pliajn subunuajn lokojn oni povas aldoni
+      kiel x5, x6, ...); Vidu ankaŭ {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu},
+      {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - kubuto
+  hu:
+    place structure: x1 hossza x2 helyi [nem metrikus] rövid hosszúságegység, x3 rendszerben,
+      x4 (x5, x6, stb.) alegységekkel
+    notes:
+    - '(Lásd még: {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu},
+      {minli}, {merli}, {bunda}, {kramu})'
+    glosses:
+    - arasz
+  ja:
+    place structure: x1 は x2 （数）の、 x3 を下位単位とする、 x4 （規格圏）の尺／フィート（非メートル法／土着的な距離単位のうち短いもの）
+    notes:
+    - ・大意： 尺 ・読み方： グチ ・関連語： {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu},
+      {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2个当地长度单位（非公制），基于标准x3，亚单位/子单位为x4
+    notes:
+    - 英尺/脚长= {jmagutci}，码= {cibjmagutci}；步长= {tapygutci}；英寸/指长= {degygutci}；腕尺= {birgutci}；更多的子单位可以继续添加x5,x6……；参见
+      {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {minli},
+      {merli}, {bunda}, {kramu}.
+    glosses:
+    - No glosses.

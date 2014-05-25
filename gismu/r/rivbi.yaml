@@ -1,8 +1,79 @@
-Word: rivbi
-Rafsi: riv
-Definition: x1 avoids/evades/shuns/escapes/skirts [fate] x2 (event) through action/state
-  x3 (event).
-Notes: Also detours around, stays away from; ($x_1$ is normally an object, but may
-  be an event).  See also bandu which is not necessarily successful, {fanta}, which
-  is agentive, se jersi which implies an opposing agent, {sisku}, {kalte}, {fapro}.
-Examples: None
+word: rivbi
+rafsi:
+- riv
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 avoids/evades/shuns/escapes/skirts [fate] x2 (event) through
+      action/state x3 (event).
+    notes:
+    - Also detours around, stays away from; (x1 is normally an object, but may be
+      an event).  See also bandu which is not necessarily successful, {fanta}, which
+      is agentive, se jersi which implies an opposing agent, {sisku}, {kalte}, {fapro}.
+    glosses:
+    - avoid
+    - escape (avoid)
+  de:
+    place structure: x1 vermeidet/entkommt/umgeht/verhindert/entgeht [Schicksal] x2
+      (Ereignis) mit/durch Handlung/Zustand x3 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - vermeiden
+  es:
+    place structure: x1 evita/evade/escapa/esquiva a persona/objeto/evento/situación
+      x2 con acción x3; (bandu, se jersi)
+    notes:
+    - No notes.
+    glosses:
+    - evitar
+  ru:
+    place structure: x1 избегает (участи) x2 (событие) посредством/в силу действий/состояния
+      x3 (событие)
+    notes:
+    - 'Также: огибает/обходит; x1 обычно предмет, хотя м.б. и событием {bandu} (защищать)
+      — не обязательно сопряжено с успехом, {fanta} (препятствовать [не давать произойти])
+      — требует наличия деятеля, {se} {jersi} (преследовать) — предполагает наличие
+      противодействующего деятеля, {sisku} (искать), {kalte} (охотиться), {fapro}
+      (противостоять)'
+    glosses:
+    - избегать
+    - x1=избегающий
+    - x2=избегаемое
+  en-simple:
+    place structure: x1 avoids or escapes event x2 through action x3
+    notes:
+    - No notes.
+    glosses:
+    - an avoider
+    - x2=something avoided
+    - x3=an action of avoidance
+  eo:
+    place structure: x1 evitas [sorton] x2-on (okazo) per ago/stato x3 (okazo)
+    notes:
+    - 'Ankaŭ: ĉirkaŭiri, resti for de; (x1 ĝenerale estas objekto, sed povas esti
+      okazo).  (kp. bandu kiu estas ne nepre sukcesa, fanta, kiu estas agenta, se
+      jersi kiu implicas kontraŭantan aganton, sisku, kalte, fapro)'
+    glosses:
+    - eviti
+  hu:
+    place structure: x1 elkerüli/megússza x2 eseményt x3 cselekedet/állapot által
+    notes:
+    - '(Lásd még: {bandu}, {fanta}, {jersi}, {sisku}, {kalte}, {fapro})'
+    glosses:
+    - elkerül (eseményt)
+  ja:
+    place structure: x1 は x2 （事）を x3 （事）によって避ける／回避する／逃れる
+    notes:
+    - 「遠回り」「迂回」も。 ・大意： 避ける ・読み方： リヴビ  ・関連語： {bandu}, {fanta}, {se} {jersi}, {sisku},
+      {kalte}, {fapro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1躲避/避免/躲藏/逃避事件x2，通过行为/状态x3
+    notes:
+    - 也指：绕行/避让；（x1通常是物体，也可能是事件）；参见 {bandu}, {fanta}, se {jersi}, {sisku}, {kalte},
+      {fapro}.
+    glosses:
+    - No glosses.

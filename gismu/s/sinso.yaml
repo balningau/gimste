@@ -1,5 +1,61 @@
-Word: sinso
-Rafsi: ''
-Definition: x1 is the trigonometric sine of angle/arcsine x2.
-Notes: See also {tanjo}.
-Examples: None
+word: sinso
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the trigonometric sine of angle/arcsine x2.
+    notes:
+    - See also {tanjo}.
+    glosses:
+    - sine
+  de:
+    place structure: x1 ist der trigonometrische Sinus von Winkel/Arcossinus x2
+    notes:
+    - No notes.
+    glosses:
+    - Sinus
+  es:
+    place structure: x1 es el seno trigonométrico de ángulo x2
+    notes:
+    - Ver también {tanjo}.
+    glosses:
+    - seno
+  ru:
+    place structure: x1 — тригонометрический синус угла x2; x2 — арксинус x1
+    notes:
+    - '{tanjo} (тангенс)'
+    glosses:
+    - x1=синус
+  en-simple:
+    place structure: x1 is the trigonometric sine of angle x2
+    notes:
+    - No notes.
+    glosses:
+    - a sine
+    - x2=an angle with a sine
+  eo:
+    place structure: x1 estas la trigonometria sinuso de angulo/arkosinuso x2
+    notes:
+    - Vidu ankaŭ {tanjo}.
+    glosses:
+    - sinuso
+  hu:
+    place structure: x1 a szinusza x2 szögnek/számnak
+    notes:
+    - '(Lásd még: {tanjo})'
+    glosses:
+    - szinusz
+  ja:
+    place structure: x1 は x2 （逆正弦）の三角関数的正弦
+    notes:
+    - ・大意： 正弦 ・読み方： スィンソ  ・関連語： {tanjo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在三角函数上，x1是角度/反正弦x2的正弦
+    notes:
+    - 参见 {tanjo}.
+    glosses:
+    - No glosses.

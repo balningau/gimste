@@ -1,6 +1,71 @@
-Word: santa
-Rafsi: ''
-Definition: x1 is an umbrella/parasol shielding x2 from x3, made of material x4, supported
-  by x5.
-Notes: See also {carvi}, {solri}.
-Examples: None
+word: santa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an umbrella/parasol shielding x2 from x3, made of material
+      x4, supported by x5.
+    notes:
+    - See also {carvi}, {solri}.
+    glosses:
+    - umbrella
+  de:
+    place structure: x1 ist ein (Regen-/Sonnen-)Schirm und schirmt x2 von x3 ab, gemacht
+      aus Material x4, gehalten/gestützt durch x5
+    notes:
+    - No notes.
+    glosses:
+    - Schirm
+  es:
+    place structure: x1 es un paraguas/sombrilla/parasol/escudo que protege a x2 de
+      x3, hecho de material x4, sostenido por x5
+    notes:
+    - No notes.
+    glosses:
+    - paraguas
+  ru:
+    place structure: x1 — зонт, защищающий x2 от x3, сделанный из материала x4, поддерживаемый
+      x5
+    notes:
+    - '{carvi} (дождь), {solri} (солнце)'
+    glosses:
+    - зонт
+  en-simple:
+    place structure: x1 is an umbrella shielding x2 from x3, made of x4 supported
+      by x5
+    notes:
+    - No notes.
+    glosses:
+    - an umbrella
+    - x2=something shielded by an umbrella
+    - x3=something blocked by an umbrella
+    - x4=a material of an umbrella
+    - x5=a support of an umbrella
+  eo:
+    place structure: x1 estas (pluv/sun)ombrelo ŝirmanta x2-on kontraŭ x3, el materialo
+      x4, subtenita de x5
+    notes:
+    - Vidu ankaŭ {carvi}, {solri}.
+    glosses:
+    - ombrelo
+  hu:
+    place structure: x1 egy esernyő/napernyő x2 védelmére x3-tól, x4 anyagból, x5
+      nyéllel/támasztékkal
+    notes:
+    - '(Lásd még: {carvi}, {solri})'
+    glosses:
+    - esernyő
+  ja:
+    place structure: x1 は x2 を x3 から護る、 x4 （素材）・ x5 （支え）の傘
+    notes:
+    - x3は「雨」「日光」など。 ・大意： 傘 ・読み方： サンタ  ・語呂合わせ： 傘サンタ ・関連語： {carvi}, {solri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是伞/罩，保护x2免受x3侵扰/伤害/攻击，由x4材料制成，x5支撑
+    notes:
+    - 参见 {carvi}, {solri}.
+    glosses:
+    - No glosses.

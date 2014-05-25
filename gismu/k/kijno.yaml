@@ -1,6 +1,64 @@
-Word: kijno
-Rafsi: kij
-Definition: 'x1 is a quantity of/contains/is made of oxygen (O); [metaphor: supporting
-  life/combustion].'
-Notes: See also {jelca}, {vacri}, {vasxu}.
-Examples: None
+word: kijno
+rafsi:
+- kij
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of oxygen (O); [metaphor:
+      supporting life/combustion].'
+    notes:
+    - See also {jelca}, {vacri}, {vasxu}.
+    glosses:
+    - oxygen
+  de:
+    place structure: 'x1 ist eine Menge/enthält/besteht aus Sauerstoff (O); [im übertragenen
+      Sinne: hält Leben/Brand aufrecht]'
+    notes:
+    - No notes.
+    glosses:
+    - Sauerstoff
+  es:
+    place structure: x1 es una cantidad de oxígeno (O)
+    notes:
+    - No notes.
+    glosses:
+    - oxígeno
+  ru:
+    place structure: x1 — кислород (O); x1 содержит кислород
+    notes:
+    - 'Метафора: поддержание жизни, горение {jelca} (гореть), {vacri} (воздух), {vasxu}
+      (дышать)'
+    glosses:
+    - x1=кислород
+  en-simple:
+    place structure: x1 is a quantity of oxygen
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of oxygen
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el oksigeno (O); [metafore:
+      subtenas vivon/brulon]'
+    notes:
+    - (kp. jelca, vacri, vaŝu)
+    glosses:
+    - oksigeno
+  hu:
+    place structure: x1 bizonyos mennyiségű oxigén (-t tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {jelca}, {vacri}, {vasxu})'
+    glosses:
+    - oxigén
+  ja:
+    place structure: x1 は酸素（O）
+    notes:
+    - ・大意： 酸素 ・読み方： キジノ  ・関連語： {jelca}, {vacri}, {vasxu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是氧/由氧构成[O]
+    notes:
+    - 参见 {jelca}, {vacri}, {vasxu}.
+    glosses:
+    - No glosses.

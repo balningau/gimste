@@ -1,7 +1,73 @@
-Word: tansi
-Rafsi: tas
-Definition: x1 is a pan/basin/tub/sink, a shallow container for contents x2, of material/properties
-  x3.
-Notes: Also bowl.  See also {baktu}, {palne}, {palta}, {patxu}, {kabri} for a bowl
-  that is normally lifted for use, {botpi}.
-Examples: None
+word: tansi
+rafsi:
+- tas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pan/basin/tub/sink, a shallow container for contents
+      x2, of material/properties x3.
+    notes:
+    - Also bowl.  See also {baktu}, {palne}, {palta}, {patxu}, {kabri} for a bowl
+      that is normally lifted for use, {botpi}.
+    glosses:
+    - pan
+  de:
+    place structure: x1 ist eine Pfanne/Schale/Wanne/ein Becken/Bottich, ein flaches
+      Gefäß für Inhalt x2 aus Material/mit Eigenschaften x3
+    notes:
+    - No notes.
+    glosses:
+    - Pfanne
+  es:
+    place structure: x1 es una sartén/asadera/recipiente poco profundo para contenido
+      x2, de material x3
+    notes:
+    - Ver también {baktu},  {palne},  {palta},  {patxu}.
+    glosses:
+    - sartén
+  ru:
+    place structure: x1 — таз/сковорода/миска/{кастрюля} (неглубокий сосуд) с содержимым
+      x2, из материала x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2» {baktu} (ведро), {palne} (поднос),
+      {palta} (тарелка), {patxu} (котел); {kabri} (чашка) для чаши, обычно поднимаемой
+      при использовании; {botpi} (бутылка)'
+    glosses:
+    - x1=кастрюля
+  en-simple:
+    place structure: x1 is a pan or basin for contents x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a basin
+    - x2=a content of a basin
+    - x3=a material of a basin
+  eo:
+    place structure: x1 estas pato/pelvo/baseno/kuvo/tino, malprofunda ujo por enhavo
+      x2, el materialo/ecoj x3
+    notes:
+    - Vidu ankaŭ {baktu}, {palne}, {palta}, {patxu}, kabri por pelvo kutime levita
+      por {uzo}, {botpi}.
+    glosses:
+    - pato
+  hu:
+    place structure: x1 egy tál/kád/medence/egyéb sekély edény x2 tartalommal, x3
+      anyagból
+    notes:
+    - '(Lásd még: {baktu}, {palne}, {palta}, {patxu}, {kabri}, {botpi})'
+    glosses:
+    - tál
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）のたらい／水ばち／水盤／流し
+    notes:
+    - 「baktu」よりも底が浅い。「ボウル」も。 ・大意： たらい ・読み方： タンスィ  ・関連語： {baktu}, {palne}, {palta},
+      {patxu}, {kabri}, {botpi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是一种较浅的容器（如：盆/桶/锅等），用于装盛x2，具有属性/构造材料x3
+    notes:
+    - 也指：碗；参见 {baktu}, {palne}, {palta}, {patxu}, {kabri}通常端起来使用的容器, {botpi}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,58 @@
-Word: juxre
-Rafsi: jux
-Definition: x1 (action) is clumsy/awkward by standard x2.
-Notes: See also {sluji}, {muvdu}.
-Examples: None
+word: juxre
+rafsi:
+- jux
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (action) is clumsy/awkward by standard x2.
+    notes:
+    - See also {sluji}, {muvdu}.
+    glosses:
+    - clumsy
+  de:
+    place structure: x1 (Aktion) ist schwerfällig/ungeschickt/misslich gemäß Standard
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - schwerfällig
+  es:
+    place structure: x1 (evento) es una torpeza/desmaña según estándar x2
+    notes:
+    - No notes.
+    glosses:
+    - torpeza
+  ru:
+    place structure: x1 (действие) — неловкое/неуклюжее по стандарту x2
+    notes:
+    - '{sluji} (мышца), {muvdu} (двигаться)'
+    glosses:
+    - x1=неуклюжее
+  en-simple:
+    place structure: x1 (nu) is clumsy
+    notes:
+    - No notes.
+    glosses:
+    - something clumsy
+    - x1=clumsy event
+    - x2=a clumsiness standard
+  hu:
+    place structure: x1 kellemetlen/nem praktikus/nehezen kezelhető/zavaros/ügyetlen
+      x2 mérce szerint
+    notes:
+    - '(Lásd még: {sluji}, {muvdu})'
+    glosses:
+    - kellemetlen
+  ja:
+    place structure: x1 （行為）は不器用／ぎこちない／不様
+    notes:
+    - ・大意： 不器用 ・読み方： ジュクゥレ ・語呂合わせ： 不器用な熟練者 ・関連語： {sluji}, {muvdu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（行为）是笨拙的/不得当的
+    notes:
+    - 参见 {sluji}, {muvdu}.
+    glosses:
+    - No glosses.

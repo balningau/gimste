@@ -1,7 +1,76 @@
-Word: xusra
-Rafsi: xus, xu'a
-Definition: x1 (agent) asserts/claims/declares x2 (du'u) is true [can be used for
-  epistemology of authority].
-Notes: 'Also: $x_1$ states/says that/affirms/purports to know that $x_2$.  (cf. {natfe}
-  which is propositional and non-agentive, {nupre})'
-Examples: None
+word: xusra
+rafsi:
+- xus
+- xu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) asserts/claims/declares x2 (du'u) is true [can be
+      used for epistemology of authority].
+    notes:
+    - 'Also: x1 states/says that/affirms/purports to know that x2.  (cf. {natfe} which
+      is propositional and non-agentive, {nupre})'
+    glosses:
+    - assert
+    - claim (state a fact)
+    - declare (claim)
+    - x1=claim (statement)
+  de:
+    place structure: x1 (Handelnder) macht geltend/behauptet/erklärt, dass x2 (du'u)
+      wahr ist [kann verwendet werden für eine Erkenntnistheorie mit Autorität]
+    notes:
+    - No notes.
+    glosses:
+    - behaupten
+  es:
+    place structure: x1 afirma/declara que x2 (du'u) es cierto
+    notes:
+    - No notes.
+    glosses:
+    - afirmar
+  ru:
+    place structure: x1 утверждает/заявляет/объявляет, что x2 ({du'u}) верно/истинно
+    notes:
+    - 'Также: провозглашает, декларирует, «говорит, что», претендует на знание; может
+      употребляться как в философском смысле, так и для описания властных отношений
+      {natfe} (опровергать), которое относится к высказыванию как таковому и не предполагает
+      деятеля; {nupre} (обещать)'
+    glosses:
+    - утверждать
+    - x1=утверждающий
+    - x2=утверждаемое
+  en-simple:
+    place structure: x1 claims or asserts that x2 is true
+    notes:
+    - No notes.
+    glosses:
+    - a claimant
+    - x2=a claim
+  eo:
+    place structure: x1 (aganto) asertas/proklamas/deklaras x2-on (du'u) vera [uzebla
+      por epistemologio de autoritato]
+    notes:
+    - 'Ankaŭ: x1 diras/pretendas scii ke x2.  Vidu ankaŭ natfe kiu estas propozicia
+      kaj {neagenta}, {nupre}.'
+    glosses:
+    - aserti
+  hu:
+    place structure: x1 állítja/megerősíti/kimondja x2 tény igazát
+    notes:
+    - '(Lásd még: {natfe}, {nupre})'
+    glosses:
+    - állít
+  ja:
+    place structure: x1 は x2 （命題）を事実的内容として断言／宣言する
+    notes:
+    - 「darlu」と違い、物事の事実性にたいするx1の確信が表明され、他の観点との対立は含意されない。例えば議会で取り決められた事柄を政府が発表することなど。
+      ・大意： 断言 ・読み方： クゥスラ ・関連語： {natfe}, {nupre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1断言/声称/声明x2（du'u）为真
+    notes:
+    - 也指：x1称述/声明/支持x2；参见 {natfe}命题式非施事词, {nupre}
+    glosses:
+    - No glosses.

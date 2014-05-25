@@ -1,9 +1,74 @@
-Word: nutli
-Rafsi: nul, nu'i
-Definition: x1 is neutral/not taking sides/medial/not towards any extreme on scale/in
-  dissension x2.
-Notes: Also $x_2$ dispute/struggle (though $x_2$ is not limited to disagreements,
-  which is merely one manifestation of scalar or distributed values in which there
-  is a medial position).  See also {midju}, {lanxe}, {milxe}, {mutce}, cmavo list
-  {no'e}.
-Examples: None
+word: nutli
+rafsi:
+- nul
+- nu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is neutral/not taking sides/medial/not towards any extreme
+      on scale/in dissension x2.
+    notes:
+    - Also x2 dispute/struggle (though x2 is not limited to disagreements, which is
+      merely one manifestation of scalar or distributed values in which there is a
+      medial position).  See also {midju}, {lanxe}, {milxe}, {mutce}, cmavo list {no'e}.
+    glosses:
+    - neutral
+  de:
+    place structure: x1 ist neutral/unparteiisch/strebt nicht gegen ein Extrem auf
+      Skala/in Uneinigkeit/Meinungsverschiedenheit x2
+    notes:
+    - No notes.
+    glosses:
+    - neutral
+  es:
+    place structure: x1 es neutro/neutral/centrado/hacia ningún extremo en propiedad/escala/desacuerdo
+      x2
+    notes:
+    - Ver también {midju},  {lanxe}.
+    glosses:
+    - neutro
+  ru:
+    place structure: x1 — нейтральный/беспристрастный/срединный по шкале/в разногласии
+      x2
+    notes:
+    - 'Также: x2 — спор/борьба (хотя x2 не ограничивается разногласиями, которые представляют
+      собой лишь частный случай шкалы, на которой имеется среднее значение) {midju}
+      (середина), {lanxe} (равновесие), {milxe} (умеренный), {mutce} (очень), {no''e}вости/вести/известия
+      о предмете x2 из источника x3, с точки зрения наблюдателя x4'
+    glosses:
+    - x1=нейтральный
+  en-simple:
+    place structure: x1 is neutral in matter x2
+    notes:
+    - No notes.
+    glosses:
+    - something neutral
+    - x2=a scale of neutrality
+  eo:
+    place structure: x1 estas neŭtrala/nepartia/meza/neekstrema en skalo/malkonsento
+      x2
+    notes:
+    - 'Ankaŭ: x2 disputo/lukto (kvankam x2 ne estas limigita al malkonsentoj, kiuj
+      estas nur unu manifestacio de skalaj aŭ distribuitaj valoroj kie ekzistas meza
+      pozicio).  Vidu ankaŭ {midju}, {lanxe}, {milxe}, {mutce}, cmavo {no''e}.'
+    glosses:
+    - neŭtrala
+  hu:
+    place structure: x1 közepes/semleges/közömbös x2 skálán/vitában
+    notes:
+    - '(Lásd még: {midju}, {lanxe}, {milxe}, {mutce})'
+    glosses:
+    - közepes
+  ja:
+    place structure: x1 は x2 （尺度／状態関係）において中性／中立；  x1 を中間点として x2 が対立する
+    notes:
+    - ・大意： 中性 ・読み方： ヌトルィ  ・関連語： {midju}, {lanxe}, {milxe}, {mutce}, {no'e}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是中立的/不偏向任何一方，在冲突/纠纷x2中
+    notes:
+    - 也指：x2冲突/纷争 （x2不限定于分歧，它实际上是指具有中间值的标量/分布值的一种表现形式）；参见 {midju}, {lanxe}, {milxe},
+      {mutce}, {no'e}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,70 @@
-Word: lanbi
-Rafsi: ''
-Definition: x1 is a quantity of protein/albumin of type x2 composed of amino acids
-  (sequence/jo'u) x3 .
-Notes: See also {ladru}, {sovda}.
-Examples: None
+word: lanbi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of protein/albumin of type x2 composed of amino
+      acids (sequence/jo'u) x3 .
+    notes:
+    - See also {ladru}, {sovda}.
+    glosses:
+    - protein
+  de:
+    place structure: x1 ist eine Menge an Protein/Albumin/Eiweiß von Typ x2 aus Aminosäuren
+      (Reihenfolge/jo'u)
+    notes:
+    - No notes.
+    glosses:
+    - Protein
+  es:
+    place structure: x1 es una cantidad de proteína/albumin de tipo x2 compuesta de
+      aminoácidos x3
+    notes:
+    - No notes.
+    glosses:
+    - proteína
+  ru:
+    place structure: x1 — белок/протеин/альбумин вида x2, состоящий из аминокислот
+      x3 (последовательность/{jo'u})
+    notes:
+    - '{ladru} (молоко), {sovda} (яйцо)'
+    glosses:
+    - белок
+    - x2=вид белка
+    - x3=последовательность аминокислот белка
+  en-simple:
+    place structure: x1 is a quantity of protein of type x2 composed of amino acids
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of protein
+    - x2=a type of protein
+  eo:
+    place structure: x1 estas kvanto da proteino/albumino de tipo x2 konsistanta el
+      aminacidoj (sinsekvo/jo'u)
+    notes:
+    - Vidu ankaŭ {ladru}, {sovda}.
+    glosses:
+    - proteino
+  hu:
+    place structure: x1 bizonyos mennyiségű fehérje/protein/albumin az x2 típusból,
+      x3 aminosav-sorozattal
+    notes:
+    - '(Lásd még: {ladru}, {sovda})'
+    glosses:
+    - fehérje
+  ja:
+    place structure: x1 は x2 （種類）のたんぱく質／アルブミン
+    notes:
+    - アミノ配列は「jo'u」による項の連続で表す。 ・大意： たんぱく質 ・読み方： ルァンビ  ・関連語： {ladru}, {sovda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是属于种类x2的蛋白质，由氨基酸序列x3（序列/jo'u）组成
+    notes:
+    - 相关{ladru},{sovda}
+    glosses:
+    - 蛋白质

@@ -1,6 +1,71 @@
-Word: pandi
-Rafsi: pad
-Definition: x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic
-  effect x4.
-Notes: See also {lerfu}, {basna}, {denpa}.
-Examples: None
+word: pandi
+rafsi:
+- pad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) punctuates x2 (expression) with symbol/word x3 with
+      syntactic/semantic effect x4.
+    notes:
+    - See also {lerfu}, {basna}, {denpa}.
+    glosses:
+    - punctuate
+  de:
+    place structure: x1 (Handelnder) unterstreicht/markiert x2 (Ausdruck) durch/mit
+      Symbol/Wort x3 mit syntaktischem/semantischen Effekt x4
+    notes:
+    - No notes.
+    glosses:
+    - markieren
+  es:
+    place structure: x1 puntúa expresión x2 con signo/símbolo/palabra/puntuación x3
+      con efecto sintáctico/semántico x4
+    notes:
+    - No notes.
+    glosses:
+    - puntuar
+  ru:
+    place structure: x1 расставляет в фразе x2 знаки пунктуации/препинания x3, что
+      приводит к синтаксическому/семантическому эффекту x4
+    notes:
+    - '{lerfu} (буква), {basna} (подчеркивать [выделять]), {denpa} (ждать)'
+    glosses:
+    - ставить знаки препинания
+    - x1=ставящий знаки препинания
+    - x3=знаки препинания
+  en-simple:
+    place structure: x1 punctuates x2 with symbol or word x3 with effect x4
+    notes:
+    - No notes.
+    glosses:
+    - a punctuater
+    - x2=something punctuated
+    - x3=a punctuation
+    - x4=an effect of punctuation
+  eo:
+    place structure: x1 (aganto) interpunkcias x2-on (esprimo) per simbolo/vorto x3
+      kun sintaksa/semantika efiko x4
+    notes:
+    - Vidu ankaŭ {lerfu}, {basna}, {denpa}.
+    glosses:
+    - interpunkcii
+  hu:
+    place structure: x1 központozza/ellátja x2 kifejezést x3 írásjelekkel, x4 szintaktikai/szemantikai
+      hatással
+    notes:
+    - '(Lásd még: {lerfu}, {basna}, {denpa})'
+    glosses:
+    - központoz
+  ja:
+    place structure: x1 （者）は x2 （表現）に x3 （記号／言葉）を打ち、 x4 （構文的／意味的効力）をもたらす；  x3 は句読点
+    notes:
+    - ・大意： 句読点 ・読み方： パンディ  ・関連語： {lerfu}, {basna}, {denpa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1强调/着重x2（某表达），使用符号/词x3，得到语法/语义效果x4
+    notes:
+    - 参见 {lerfu}, {basna}, {denpa}.
+    glosses:
+    - No glosses.

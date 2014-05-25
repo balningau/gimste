@@ -1,7 +1,77 @@
-Word: danti
-Rafsi: dan
-Definition: x1 is a ballistic projectile [e.g. bullet/missile] for firing by [gun/propelling
-  launcher] x2.
-Notes: Also cannonball, catapult stone, shot pellet(s).  See also {cecla}, {renro},
-  {jakne}.
-Examples: None
+word: danti
+rafsi:
+- dan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a ballistic projectile [e.g. bullet/missile] for firing
+      by [gun/propelling launcher] x2.
+    notes:
+    - Also cannonball, catapult stone, shot pellet(s).  See also {cecla}, {renro},
+      {jakne}.
+    glosses:
+    - projectile
+  de:
+    place structure: x1 ist ein ballistischer Flugkörper [z.B. Patrone, Rakete], der
+      von [Gewehr/Raketenwerfer] x2 abgefeuert werden kann
+    notes:
+    - No notes.
+    glosses:
+    - Flugkörper
+  es:
+    place structure: x1 es un proyectil balístico/bala/misil para ser disparado por
+      pistola/lanzador x2
+    notes:
+    - Ver también {cecla},  {renro}.
+    glosses:
+    - proyectil
+  ru:
+    place structure: x1 — метательный/баллистический снаряд (стрела/пуля/ядро и т.п.),
+      выстреливаемый с помощью устройства x2 (лук/ружье/пушка/катапульта и т.п.)
+    notes:
+    - '{cecla} (стрелять), {renro} (швырять), {jakne} (ракета)'
+    glosses:
+    - пуля
+    - x2=ружье
+  en-simple:
+    place structure: x1 is a bullet, missile, or other ballistic projectile for firing
+      by x2
+    notes:
+    - No notes.
+    glosses:
+    - a ballistic projectile
+    - x2=a ballistic projectile's launcher
+  eo:
+    place structure: x1 estas balistika ĵetaĵo [ekz. kuglo/misilo] por pafiĝi per
+      [pafilo/pela lanĉilo] x2
+    notes:
+    - 'Ankaŭ: kanonkuglo, katapulta ŝtono, kugletaĵo(j).  Vidu ankaŭ {cecla}, {renro},
+      {jakne}.'
+    glosses:
+    - jetaĵo
+  hu:
+    place structure: x1 egy lövedék x2 lőfegyverhez
+    notes:
+    - '(Lásd még: {cecla}, {renro}, {jakne})'
+    glosses:
+    - lövedék
+  ja:
+    place structure: x1 は x2 （装置）で撃つ弾頭／弾丸
+    notes:
+    - ・大意： 弾頭 ・読み方： ダンティ  ・語呂合わせ： dantou ・関連語： {cecla}, {renro}, {jakne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ballistisk projektil [eg skott/missil] för avskjutning/avfyrning
+      med x2 [eldvapen/avfyrningsanordning].
+    notes:
+    - Även kanonkula, katapultsten, hagel.
+    glosses:
+    - projektil
+  zh:
+    place structure: x1是为了攻击的弹道抛出物（如子弹/火箭弹等），被枪/推进器x2推进
+    notes:
+    - 也指：炮弹，弹射器的石头，弹射球；参见 {cecla}, {renro}, {jakne}.
+    glosses:
+    - No glosses.

@@ -1,9 +1,79 @@
-Word: pulji
-Rafsi: ''
-Definition: x1 is a police officer/[enforcer/vigilante] enforcing law(s)/rule(s)/order
-  x2.
-Notes: Police officer, as an agent of authority (= {ca'irpulji}, {ka'irpulji}), as
-  part of a police force (= {puljysoi}, as part of {puljyselsoi}); military police
-  (= {jempulji}, {bilpulji}).  See also {catni}, {sonci}, {bilni}, {flalu}, {bandu},
-  {jemna}, {zekri}, {krati}.
-Examples: None
+word: pulji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a police officer/[enforcer/vigilante] enforcing law(s)/rule(s)/order
+      x2.
+    notes:
+    - Police officer, as an agent of authority (= {ca'irpulji}, {ka'irpulji}), as
+      part of a police force (= {puljysoi}, as part of {puljyselsoi}); military police
+      (= {jempulji}, {bilpulji}).  See also {catni}, {sonci}, {bilni}, {flalu}, {bandu},
+      {jemna}, {zekri}, {krati}.
+    glosses:
+    - police
+  de:
+    place structure: x1 ist ein Polizist/Ordnungshüter und setzt Gesetz(e)/Regel(n)/Anordnung(en)
+      x2 durch
+    notes:
+    - No notes.
+    glosses:
+    - Polizist
+  es:
+    place structure: x1 es un agente de policía de organización x2 para hacer cumplir
+      leyes/orden x3
+    notes:
+    - No notes.
+    glosses:
+    - policía
+  ru:
+    place structure: x1 — полицейский/милиционер/дружинник, добивающийся выполнения/соблюдения
+      законов/правил/порядков x2
+    notes:
+    - 'Полицейский как представитель власти: {ca''irpulji}, {ka''irpulji}, как член
+      организованной полиции: {puljysoi}, как часть {puljyselsoi}; военная полиция:
+      {jempulji}, {bilpulji} {catni} (чиновник), {sonci} (солдат), {bilni} (военный),
+      {flalu} (закон), {bandu} (защищать), {jemna} (самоцвет), {zekri} (преступление),
+      {krati} (представитель)'
+    glosses:
+    - полицейский
+  en-simple:
+    place structure: x1 is a police officer enforcing x2
+    notes:
+    - No notes.
+    glosses:
+    - a police officer
+    - x2=something enforced by police
+  eo:
+    place structure: x1 estas policano/policisto prizorgante la obeon de leĝoj/reguloj/ordono
+      x2
+    notes:
+    - Policisto, kiel agento de aŭtoritato (= {ca'irpulji}, {ka'irpulji}), kiel parto
+      de polica forto (= {puljysoi}, kiel parto de {puljyselsoi}); armea policano
+      (= {jempulji}, {bilpulji}).  Vidu ankaŭ {catni}, {sonci}, {bilni}, {flalu},
+      {bandu}, {jemna}, {zekri}, {krati}.
+    glosses:
+    - policano
+  hu:
+    place structure: x1 egy rendőr, alkalmazva x2 törvényt/szabályt/rendeletet
+    notes:
+    - '(Lásd még: {catni}, {sonci}, {bilni}, {flalu}, {bandu}, {jemna}, {zekri}, {krati})'
+    glosses:
+    - rendőr
+  ja:
+    place structure: x1 は x2 （法／治安）を守る警察（官）
+    notes:
+    - ・大意： 警察 ・読み方： プルゥジ  ・語呂合わせ： police,  jing（警） ・関連語： {catni}, {sonci}, {bilni},
+      {flalu}, {bandu}, {jemna}, {zekri}, {krati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是警察/公安/执法者，执行法律/规则/准则x2
+    notes:
+    - 作为政府/权利的代理人= {ca'irpulji}/{ka'irpulji}；作为警察力量= {puljysoi}，作为{puljyselsoi}的一部分；武装警察/武警/军警=
+      {jempulji}, {bilpulji}；参见 {catni}, {sonci}, {bilni}, {flalu}, {bandu}, {jemna},
+      {zekri}, {krati}.
+    glosses:
+    - No glosses.

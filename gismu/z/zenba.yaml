@@ -1,6 +1,76 @@
-Word: zenba
-Rafsi: zen, ze'a
-Definition: x1 (experiencer) increases/is incremented/augmented in property/quantity
-  x2 by amount x3.
-Notes: See also {jdika}, {zmadu}, {banro}, {jmina}.
-Examples: None
+word: zenba
+rafsi:
+- zen
+- ze'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (experiencer) increases/is incremented/augmented in property/quantity
+      x2 by amount x3.
+    notes:
+    - See also {jdika}, {zmadu}, {banro}, {jmina}.
+    glosses:
+    - increase
+  jbo:
+    place structure: x1 cenba x2 boi x3 ja'e lo nu lo fanmo cu zmadu lo krasi x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Opfer) wächst an/steigt/nimmt zu/wird erhöht/erweitert in
+      Eigenschaft/Quantität x2 um Menge x3
+    notes:
+    - No notes.
+    glosses:
+    - zunehmen
+  es:
+    place structure: x1 aumenta/es incrementado en propiedad x2 en cantidad x3
+    notes:
+    - Ver también {jdika},  {cenba},  {zmadu},  {banro},  {jmina}.
+    glosses:
+    - aumentar
+  ru:
+    place structure: x1 возрастает/увеличивается в отношении свойства/количеста x2
+      на величину x3
+    notes:
+    - 'Антоним: {jdika} {jdika} (уменьшаться), {zmadu} (превосходить), {banro} (расти),
+      {jmina} (добавлять)'
+    glosses:
+    - увеличиваться
+    - x1=увеличивающийся
+    - x3=величина, на которую увеличивается
+  en-simple:
+    place structure: x1 increases in x2 by amount x3
+    notes:
+    - No notes.
+    glosses:
+    - something increasing
+    - x2=something in which something increases
+    - x3=an amount of increase
+  eo:
+    place structure: x1 pliiĝas/pligrandiĝas laŭ eco x2 en kvanto x3
+    notes:
+    - Vidu ankaŭ {jdika}, {zmadu}, {banro}, {jmina}.
+    glosses:
+    - pliiĝi
+  hu:
+    place structure: x1 fokozódik/növekszik/gyarapodik x2 tulajdonságban, x3 mennyiséggel
+    notes:
+    - '(Lásd még: {jdika}, {zmadu}, {banro}, {jmina})'
+    glosses:
+    - fokozódik
+  ja:
+    place structure: x1 は x2 （性質／数量）に関して x3 （度合）だけ増える
+    notes:
+    - ・大意： 増加 ・読み方： ゼンバ  ・語呂合わせ： ＜禅ばかり増加＞,銭がバッと増える ・関連語： {jdika}, {zmadu}, {banro},
+      {jmina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1增加/增大/增强，在性质/数量x2上，减少量为x3
+    notes:
+    - 参见 {jdika}, {zmadu}, {banro}, {jmina}.
+    glosses:
+    - No glosses.

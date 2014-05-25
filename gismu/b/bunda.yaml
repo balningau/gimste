@@ -1,7 +1,104 @@
-Word: bunda
-Rafsi: bud
-Definition: x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits
-  [e.g. ounces] x4.
-Notes: (additional subunit places may be added as $x_5$, $x_6$, ...); See also {grake},
-  {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
-Examples: None
+word: bunda
+rafsi:
+- bud
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 (def. 1) local weight unit(s) [non-metric], standard
+      x3, subunits [e.g. ounces] x4.
+    notes:
+    - (additional subunit places may be added as x5, x6, ...); See also {grake}, {junta},
+      {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
+    glosses:
+    - pound
+  de:
+    place structure: 'x1 wiegt x2 (Default: 1) örtliche Gewichtseinheit(en) [nicht-metrisch],
+      gemäß Standard x3, Untereinheit(en) [z.B. Unzen] x4 [weitere Untereinheiten
+      können als x5, x6, usw. zugefügt werden]'
+    notes:
+    - No notes.
+    glosses:
+    - Pfund
+  es:
+    place structure: x1 pesa x2 unidades locales de peso (1 por defecto), estándar
+      x3, x4 subunidades
+    notes:
+    - No notes.
+    glosses:
+    - libra
+  ru:
+    place structure: x1 весит x2 (по умолчанию 1) местных единиц веса (неметрических,
+      например, фунт) по стандарту x3, включая x4 дробных единиц (например, унций)
+    notes:
+    - Дополнительные дробные единицы могут быть добавлены как x5, x6,… {grake} (грамм),
+      {junta} (вес), {tilju} (тяжелый [массивный]), {rupnu} (денежная единица), {fepni}
+      (стоить [в копейках/центах и пр.]), {dekpu} (иметь объем [неметрический]), {gutci}
+      (измеряться [в футах/дюймах и пр.]), {minli} (миля), {merli} (измерять), {kramu}
+      (акр)
+    glosses:
+    - фунт
+    - x1=весящий (в фунтах)
+    - x2=вес (в фунтах)
+  en-simple:
+    place structure: x1 is x2 non-metric weight units in standard x3 with subunits
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - something measured in non-metric weight
+    - x2=an amount of non-metric weight
+    - x3=a non-metric weight standard
+    - x4=a subunit of a non-metric weight
+  eo:
+    place structure: x1 estas x2 (defaŭlte 1) lokaj unuoj de pezo [ne-metra], normo
+      x3, subunuoj [ekz. uncoj] x4
+    notes:
+    - (pliajn subunuajn lokojn oni povas aldoni kiel x5, x6, ...); Vidu ankaŭ {grake},
+      {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
+    glosses:
+    - funto
+  hu:
+    place structure: x1 tömege x2 helyi [nem metrikus] tömegegység, x3 rendszerben,
+      x4 (x5, x6, stb.) alegységekkel
+    notes:
+    - 'x3 alapesetben az angolszász mértékegységrendszer (Lásd még: {grake}, {junta},
+      {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu})'
+    glosses:
+    - font
+  ja:
+    place structure: x1 は x2 （数）・ x3 （単位系）・ x4 （下位単位）の非メートル法／土着の質量／貫／パウンド
+    notes:
+    - ・大意： 質量（土着） ・読み方： ブンダ  ・語呂合わせ： pound ・関連語： {grake}, {junta}, {tilju}, {rupnu},
+      {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: 'x1 veier x2 (standard: 1) i lokal ikke-metrisk vektenhet, standardenhet
+      x3, subenhet x4'
+    notes:
+    - (Ytterligere subenheter kan legges til som x5, x6 ...) Se og {grake}, {junta},
+      {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 (antal) lokala viktenheter, enligt måttstandard x3,
+      med underenheter x4.
+    notes:
+    - x1 är inte en agent. Värdet på x2 är 1 om inte annat anges.x3 är typiskt skålpund
+      (i en svensk kontext), vilket motsvarar 425,1 g. I en engelsk kontext är x3
+      typiskt the Avoirdupois pound. Många andra möjligheter finns såsom lod, qvintin,lispund,centner,
+      skeppund, nyläst och säck (se http://sv.wikipedia.org/wiki/Viktmått#Gamla_svenska_viktenheter).
+    - ''
+    glosses:
+    - viktenhet (lokal)
+    - x1=skålpund (viktenhet (lokal))
+    - x2=vikt (kvantitet i lokala viktenheter)
+    - x3=vikt standard (lokal)
+  zh:
+    place structure: x1是x2数量（默认为1）的当地重量单位（非公制单位），标准为x3，亚单位为x4
+    notes:
+    - 更多的亚单位可以在后添加x5.x6……；参见{grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu},
+      {gutci}, {minli}, {merli}, {kramu}.
+    glosses:
+    - No glosses.

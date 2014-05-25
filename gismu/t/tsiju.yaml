@@ -1,8 +1,77 @@
-Word: tsiju
-Rafsi: tsi
-Definition: x1(s) is/are (a) seed(s)/spore(s) [body-part] of organism x2 for producing
-  offspring x3.
-Notes: Also germ cell; implies actual potential for self-development; seeds generally
-  contain embryo and food, and hence would include a fertilized egg. See also {tarbi},
-  {dembi}, {grute}, {jbari}, {sombo}, {spati}, {sovda}.
-Examples: None
+word: tsiju
+rafsi:
+- tsi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1(s) is/are (a) seed(s)/spore(s) [body-part] of organism x2
+      for producing offspring x3.
+    notes:
+    - Also germ cell; implies actual potential for self-development; seeds generally
+      contain embryo and food, and hence would include a fertilized egg. See also
+      {tarbi}, {dembi}, {grute}, {jbari}, {sombo}, {spati}, {sovda}.
+    glosses:
+    - seed
+  de:
+    place structure: x1(s) ist/sind der/die Samen/Sporen/Saat [Körperteil] von Organismus
+      x2 für Nachkommen/Sprösslinge x3
+    notes:
+    - No notes.
+    glosses:
+    - Samen
+  es:
+    place structure: x1 es una semilla/simiente de organismo x2 para producir descendencia
+      x3
+    notes:
+    - Ver también {sovda}.
+    glosses:
+    - semilla
+  ru:
+    place structure: x1 — семя/зерно/яйцо/спора организма x2 для производства потомства
+      x3
+    notes:
+    - 'Также: зародышевая клетка; подразумевается потенциал саморазвития; семя обычно
+      содержит эмбрион и запас питания, тем самым определение распространяется и на
+      оплодотворенное яйцо {tarbi} (эмбрион), {dembi} (боб), {grute} (плод [фрукт]),
+      {jbari} (ягода), {sombo} (сажать [о растениях]), {spati} (растение), {sovda}
+      (яйцо)'
+    glosses:
+    - яйцо
+  en-simple:
+    place structure: x1 is a seed of organism x2 for producing offspring x3
+    notes:
+    - No notes.
+    glosses:
+    - a seed
+    - x2=an organism with a seed
+    - x3=an offspring from a seed
+  eo:
+    place structure: x1 estas semo(j)/sporo(j) [korpoparto] de organismo x2 por produkti
+      idojn x3
+    notes:
+    - 'Ankaŭ: ĝerma ĉelo; implicas efektiva potencialo por memevoluo; semoj ĝenerale
+      enhavas embrion kaj nutraĵon, kaj do inkluzivus fekundigitan ovon. Vidu ankaŭ
+      {tarbi}, {dembi}, {grute}, {jbari}, {sombo}, {spati}, {sovda}.'
+    glosses:
+    - semo
+  hu:
+    place structure: x1 (egy)/a magja(i)/spóra(i) x2-nek, x3 utód létrehozásához
+    notes:
+    - '(Lásd még: {tarbi}, {dembi}, {grute}, {jbari}, {sombo}, {spati}, {sovda})'
+    glosses:
+    - mag
+  ja:
+    place structure: x1 は x2 （有機体）の x3 （子）になる種／種子／胞子／芽胞／生殖細胞
+    notes:
+    - ・大意： 種 ・読み方： ツィジュ  ・関連語： {tarbi} (下位概念), {dembi}, {grute}, {jbari}, {sombo},
+      {spati}, {sovda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是有机体x2的种子/孢子（身体部位），能繁殖/产生子代/后代x3
+    notes:
+    - 也指：胚细胞/受精卵；暗示具备自我发育的潜力；参见 {tarbi}, {dembi}, {grute}, {jbari}, {sombo}, {spati},
+      {sovda}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,83 @@
-Word: fukpi
-Rafsi: fuk, fu'i
-Definition: x1 is a copy/replica/duplicate/clone of x2 in form/medium x3 made by method
-  x4 (event).
-Notes: See also {krefu}, {rapli}, {gidva}.; Borrowing (=fu'ivla).
-Examples: None
+word: fukpi
+rafsi:
+- fuk
+- fu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a copy/replica/duplicate/clone of x2 in form/medium x3
+      made by method x4 (event).
+    notes:
+    - See also {krefu}, {rapli}, {gidva}.; Borrowing (=fu'ivla).
+    glosses:
+    - copy
+  de:
+    place structure: x1 ist eine Kopie/ein Duplikat/ein Klon von x2 in Form/Medium/Gestalt
+      x3, hergestellt durch Vorgang/Method x4 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - kopieren
+  es:
+    place structure: x1 es una copia/réplica de x2 en forma/medio x3 hecho por método
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - copia
+  ru:
+    place structure: x1 — копия/дубликат/клон x2 (чего) в форме/на носителе x3, сделанная
+      методом x4 (событие)
+    notes:
+    - '{krefu} (повторение), {rapli} (повторяться), {gidva} (вести [направлять/быть
+      лидером])'
+    glosses:
+    - x1=копия
+  en-simple:
+    place structure: x1 is a copy of x2 in form x3 made by method x4
+    notes:
+    - No notes.
+    glosses:
+    - a copy
+    - x2=something copied
+    - x3=a copy media
+    - x4=a copying method
+  eo:
+    place structure: x1 estas kopio/duplikato/klono de x2 en formo/medio x3 farita
+      per metodo x4 (okazo)
+    notes:
+    - Vidu ankaŭ {krefu}, {rapli}, {gidva}.; Pruntvorto (=fu'ivla).
+    glosses:
+    - kopio
+  hu:
+    place structure: x1 egy másolata/hasonmása/másodpéldánya/klónja x2-nek, x3 formában,
+      x4 módszerrel másolva
+    notes:
+    - '(Lásd még: {krefu}, {rapli}, {gidva})'
+    glosses:
+    - másolat
+  ja:
+    place structure: x1 は x2 （対象）の、 x3 （媒体／形態）への、 x4 （方法）による複製／コピー／レプリカ／クローン
+    notes:
+    - ・大意： 複製 ・読み方： フゥクピ ・語呂合わせ： fukuseicopy ・関連語： {krefu}, {rapli}, {gidva}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kopia/replik/dublett/klon av x2 i form/medium x3 gjord
+      genom metod x4.
+    notes:
+    - No notes.
+    glosses:
+    - dublett (kopia)
+    - replik (kopia)
+    - x1=kopia
+    - x2=kopierad
+    - x3=kopieringsmedium
+    - x4=kopieringsmetod
+  zh:
+    place structure: x1是x2的复制品/副本/拷贝/克隆，以形式/媒介x3，以方法x4（事件）制作
+    notes:
+    - 借词=fu'ivla；参见 {krefu}, {rapli}, {gidva}
+    glosses:
+    - No glosses.

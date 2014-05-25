@@ -1,6 +1,66 @@
-Word: kalci
-Rafsi: ''
-Definition: x1 is a/the feces/excrement/dung/shit of x2 (animal/person); (adjective:)
-  x1 is fecal (matter).
-Notes: Also crap.  See also {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}.
-Examples: None
+word: kalci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the feces/excrement/dung/shit of x2 (animal/person);
+      (adjective:) x1 is fecal (matter).
+    notes:
+    - Also crap.  See also {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}.
+    glosses:
+    - feces
+  de:
+    place structure: x1 ist der Kot/sind die Fäkalien/Exkremente von x2 (Tier/Person);
+      (Adjektiv:) x1 ist fäkal
+    notes:
+    - No notes.
+    glosses:
+    - Kot
+  es:
+    place structure: x1 es un excremento/bosta/mierda/caca de x2
+    notes:
+    - No notes.
+    glosses:
+    - excremento
+  ru:
+    place structure: x1 — экскременты/фекалии/помет/навоз/кал/дерьмо животного/лица
+      x2
+    notes:
+    - 'Прилагательное: x1 — фекальный {ganxo} (задний проход), {pinca} (моча), {vikmi}
+      (испражняться), {mabla} (негативный [о значении/смысле слова]), {festi} (отходы)'
+    glosses:
+    - x1=экскременты
+  en-simple:
+    place structure: x1 is excrement or feces of x2
+    notes:
+    - No notes.
+    glosses:
+    - excrement
+    - x2=something producing excrement
+  eo:
+    place structure: x1 estas fekaĵo/ekskremento/merdo de x2 (besto/homo); (adjektivo:)
+      x1 estas feka
+    notes:
+    - Vidu ankaŭ {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}.
+    glosses:
+    - fekaĵo
+  hu:
+    place structure: x1 az ürüléke/bélsara/ganéja/trágyája/fekáliája  x2-nek
+    notes:
+    - '(Lásd még: {ganxo}, {pinca}, {vikmi}, {mabla}, {festi})'
+    glosses:
+    - ürülék
+  ja:
+    place structure: x1 は x2 （生体）の糞／排泄物
+    notes:
+    - ・大意： 糞 ・読み方： カルゥシ  ・語呂合わせ： 糞、軽し ・関連語： {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的排泄物/粪便/屎；x1是糟粕的
+    notes:
+    - 参见 {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}.
+    glosses:
+    - No glosses.

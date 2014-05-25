@@ -1,7 +1,95 @@
-Word: bratu
-Rafsi: ''
-Definition: x1 is hail/sleet/freezing rain/solid precipitation of material/composition
-  including x2.
-Notes: This is the substance, not the act or manner of its falling, which is carvi.  See
-  also {carvi}, {snime}, {bisli}, {tcima}.
-Examples: None
+word: bratu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is hail/sleet/freezing rain/solid precipitation of material/composition
+      including x2.
+    notes:
+    - This is the substance, not the act or manner of its falling, which is carvi.  See
+      also {carvi}, {snime}, {bisli}, {tcima}.
+    glosses:
+    - hail
+  jbo:
+    place structure: x1 sligu x2 gi'e ba'o dunja gi'e carvi fi lo varsenta
+    notes:
+    - '{carvi}, {snime}, {sicpi}'
+    glosses:
+    - bratu
+  de:
+    place structure: x1 ist Hagel/Schneeregen/Graupel/fester Niederschlag aus Material/mit
+      Zusammensetzung unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Hagel
+  es:
+    place structure: x1 es una cantidad de granizo/pedrisco/precipitación sólida de
+      material/composición x2
+    notes:
+    - No notes.
+    glosses:
+    - granizo
+  ru:
+    place structure: x1 — град/твердые осадки из материала/состава x2 (не обязательно
+      полное описание состава)
+    notes:
+    - Само вещество; процесс или способ выпадания — {carvi}. См. {carvi} (дождь),
+      {snime} (снег), {bisli} (лед), {tcima} (погода)
+    glosses:
+    - град
+  en-simple:
+    place structure: x1 is hail or sleet of material x2
+    notes:
+    - No notes.
+    glosses:
+    - hail
+    - x2=a material of hail
+  eo:
+    place structure: x1 estas hajlo/neĝpluvo/solida precipitaĵo de materialo/konsisto
+      enhavanta x2-on
+    notes:
+    - ĉi tio estas la substanco, ne la ago aŭ maniero de ĝia falo, kiu estas carvi.  Vidu
+      ankaŭ {carvi}, {snime}, {bisli}, {tcima}.
+    glosses:
+    - hajlo
+  hu:
+    place structure: x1 jégeső/szilárd csapadék x2 anyagból/összetétellel
+    notes:
+    - 'A szó magát a csapadékot jelöli, nem az időjárást („eső”: {carvi}) (Lásd még:
+      {carvi}, {snime}, {bisli}, {tcima})'
+    glosses:
+    - jégeső
+  ja:
+    place structure: x1 は x2 （成分）のひょう／あられ／みぞれ
+    notes:
+    - ・大意： 雹 ・読み方： ブラトゥ  ・語呂合わせ： ぶらっと雹
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er hagl/sludd/frossent regn/fast væske av material/komposisjon
+      x2
+    notes:
+    - Dette er substansen og ikke hendelsen å falle fra himmelen, som er {carvi}.
+      Se og {snime}, {bisli}, {tcima}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är hagel/snöblandat regn/underkylt regn/fast nederbörd av
+      material/sammansättning inkluderat x2.
+    notes:
+    - Detta är substansen, inte själva processen av nederbörd som faller, vilket är
+      {carvi}.
+    glosses:
+    - nederbörd i fast form
+    - snöblandat regn
+    - x1=hagel (nederbörd i fast form)
+    - x2=hagel material (nederbörd i fast form)
+  zh:
+    place structure: x1是冰雹/冻雨/固态降水，构成中包括物质x2
+    notes:
+    - 指物质本身，而不是下冰雹的过程；参见 {carvi}, {snime}, {bisli}, {tcima}.
+    glosses:
+    - No glosses.

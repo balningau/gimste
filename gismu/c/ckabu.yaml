@@ -1,6 +1,77 @@
-Word: ckabu
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of rubber/latex from source x2 of
-  composition including x3.
-Notes: See also {pruni}.
-Examples: None
+word: ckabu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of rubber/latex from source
+      x2 of composition including x3.
+    notes:
+    - See also {pruni}.
+    glosses:
+    - rubber
+  de:
+    place structure: x1 besteht aus/enthält/ist eine gewisse Menge Gummi/Latex aus
+      Quelle x2 mit Zusammensetzung unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Gummi
+  es:
+    place structure: x1 es una cantidad de goma/caucho/látex de origen x2 de composición
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - goma
+  ru:
+    place structure: x1 — резина/каучук/латекс из источника x2, в состав которой входит
+      x3
+    notes:
+    - '{pruni} (упругий)'
+    glosses:
+    - x1=резина
+  en-simple:
+    place structure: x1 is a quantity of rubber from source x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of rubber
+    - x2=a source of rubber
+    - x3=a composition of rubber
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el kaŭĉuko el fonto x2 de
+      konsisto enhavanta x3-on
+    notes:
+    - Vidu ankaŭ {pruni}.
+    glosses:
+    - kaŭĉuko
+  hu:
+    place structure: x1 bizonyos mennyiségű gumi/latex (-t tartalmaz/-ból készült)
+      x2 forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {pruni})'
+    glosses:
+    - gumi
+  ja:
+    place structure: x1 は x2 （起源）・ x3 （成分）のゴム／ラテックス
+    notes:
+    - ・大意： ゴム ・読み方： シカブ  ・関連語： {pruni}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av/är gjord av/innehåller gummi/latex från
+      källa x2 med sammansättning x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=gummi (material)
+    - x2=gummikälla
+    - x3=gummisammansättning
+  zh:
+    place structure: x1是胶/由胶构成，来源于x2，组成物为x3
+    notes:
+    - 参见 {pruni}.
+    glosses:
+    - No glosses.

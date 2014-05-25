@@ -1,9 +1,84 @@
-Word: tutci
-Rafsi: tci
-Definition: x1 is a tool/utensil/resource/instrument/implement used for doing x2;
-  [form determines function].
-Notes: '(cf. {cabra}, {minji}, se {pilno}, {zukte}, {sazri}, basic tool types: {salpo},
-  {pulni}, {cfine}, {klupe}, {jendu}, {xislu}, {vraga}; utensils: {forca}, {smuci},
-  {dakfu}; specifics: {balre}, {mruli}, {cinza}, {garna}, {pijne}, {pambe}, {canpa},
-  {pilno}, {vraga})'
-Examples: None
+word: tutci
+rafsi:
+- tci
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tool/utensil/resource/instrument/implement used for doing
+      x2; [form determines function].
+    notes:
+    - '(cf. {cabra}, {minji}, se {pilno}, {zukte}, {sazri}, basic tool types: {salpo},
+      {pulni}, {cfine}, {klupe}, {jendu}, {xislu}, {vraga}; utensils: {forca}, {smuci},
+      {dakfu}; specifics: {balre}, {mruli}, {cinza}, {garna}, {pijne}, {pambe}, {canpa},
+      {pilno}, {vraga})'
+    glosses:
+    - instrument (tool)
+    - tool
+  de:
+    place structure: x1 ist ein Werkzeug/Hilfsmittel/Utensilie/Instrument/Arbeitsgerät
+      zum Tun von x2; [die Form bestimmt die Funktion]
+    notes:
+    - No notes.
+    glosses:
+    - Werkzeug
+  es:
+    place structure: x1 es una herramienta/utensillo usado para hacer x2
+    notes:
+    - Ver también {cabra},  {minji}.
+    glosses:
+    - herramienta
+  ru:
+    place structure: x1 — инструмент/орудие/приспособление, используемый для x2 (действие)
+    notes:
+    - 'Форма определяет функцию {cabra} (аппарат [механизм]), {minji} (машина [автомат,
+      механизм]), {se} {pilno} (использовать), {zukte} (действовать), {sazri} (управлять
+      [механизмом]), основные типы орудий: {salpo} (наклонный), {pulni} (шкив), {cfine}
+      (клин), {klupe} (винт), {jendu} (ось), {xislu} (колесо), {vraga} (рычаг); столовые
+      приборы: {forca} (вилка), {smuci} (ложка), {dakfu} (нож); специальные инструменты:
+      {balre} (клинок), {mruli} (молот), {cinza} (щипцы), {garna} (рельс), {pijne}
+      (булавка), {pambe} (насос), {canpa} (лопата), {pilno} (использовать), {vraga}
+      (рычаг)'
+    glosses:
+    - инструмент
+  en-simple:
+    place structure: x1 is a tool used for x2
+    notes:
+    - No notes.
+    glosses:
+    - a tool
+    - x2=a purpose of a tool
+  eo:
+    place structure: x1 estas ilo/rimedo/instrumento uzita por fari x2-on; [formo
+      determinas funkcion]
+    notes:
+    - '(kp. cabra, minji, se pilno, zukte, sazri, basic tool types: salpo, pulni,
+      cfine, klupe, jendu, xislu, vraga; utensils: forca, smuci, dakfu; specifics:
+      balre, mruli, cinza, garna, pijne, pambe, canpa, pilno, vraga)'
+    glosses:
+    - ilo
+  hu:
+    place structure: x1 egy eszköz/készülék x2 művelet elvégzésére
+    notes:
+    - '(Lásd még: {cabra}, {minji}, {pilno}, {zukte}, {sazri}, {salpo}, {pulni}, {cfine},
+      {klupe}, {jendu}, {xislu}, {vraga}, {forca}, {smuci}, {dakfu}, {balre}, {mruli},
+      {cinza}, {garna}, {pijne}, {pambe}, {canpa}, {pilno}, {vraga})'
+    glosses:
+    - eszköz
+  ja:
+    place structure: x1 は x2 （目的）のための道具／用具／器具
+    notes:
+    - 「楽器」「教材」も。 ・大意： 道具 ・読み方： トゥチ ・語呂合わせ： 道具で土掘る, tool, ci（器） ・関連語： {cabra}, {minji},
+      {se} {pilno}, {zukte}, {sazri}, {salpo}, {pulni}, {cfine}, {klupe}, {jendu},
+      {xislu}, {vraga}; {forca}, {smuci}, {dakfu}; {balre}, {mruli}, {cinza}, {garna},
+      {pijne}, {pambe}, {canpa}, {pilno}, {vraga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是为了做x2（体现功能）的工具/道具/器具
+    notes:
+    - 参见 {cabra}, {minji}, se {pilno}, {zukte}, {sazri}；基本的工具类型： {salpo}, {pulni},
+      {cfine}, {klupe}, {jendu}, {xislu}, {vraga}, {smuci}, {dakfu}；特征： {balre}, {mruli},
+      {cinza}, {garna}, {pijne}, {pambe}, {canpa}, {pilno}, {vraga}
+    glosses:
+    - No glosses.

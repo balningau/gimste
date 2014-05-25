@@ -1,7 +1,97 @@
-Word: zbasu
-Rafsi: zba
-Definition: x1 makes/assembles/builds/manufactures/creates x2 out of materials/parts/components
-  x3.
-Notes: Should not be used to express causation.  Cf. {cupra}, {larcu}, {rutni}, {finti},
-  {gundi}.
-Examples: None
+word: zbasu
+rafsi:
+- zba
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 makes/assembles/builds/manufactures/creates x2 out of materials/parts/components
+      x3.
+    notes:
+    - Should not be used to express causation.  Cf. {cupra}, {larcu}, {rutni}, {finti},
+      {gundi}.
+    glosses:
+    - build (form by combining materials)
+    - make
+    - manufacture
+  de:
+    place structure: x1 macht/stellt her/fertigt an/baut/setzt zusammen/erschafft
+      x2 aus Materialien/Teilen/Komponenten x3
+    notes:
+    - No notes.
+    glosses:
+    - herstellen
+  es:
+    place structure: x1 hace/construye/crea/confecciona/manufactura x2 con materiales
+      x3
+    notes:
+    - Ver también {finti},  {gundi}.
+    glosses:
+    - hacer
+  ru:
+    place structure: x1 делает/собирает/изготавливает/создает/производит/строит x2
+      из материала/частей/компонентов x3
+    notes:
+    - '{cupra} (производить), {larcu} (искусство), {rutni} (искусственный), {finti}
+      (сочинять), {gundi} (промышленность)'
+    glosses:
+    - собирать (изготавливать)
+    - x1=собирающий (изготавливающий)
+    - x2=собираемое (изготавливаемое)
+    - x3=компоненты, из которых строят
+  en-simple:
+    place structure: x1 makes or assembles x2 from parts x3
+    notes:
+    - No notes.
+    glosses:
+    - a maker
+    - x2=something made
+    - x3=a part used to make something
+  eo:
+    place structure: x1 faras/konstruas/kunigas/fabrikas/kreas x2-on el materialoj/partoj/eroj
+      x3
+    notes:
+    - Ne uzebla por esprimi kaŭzon.  Vidu ankaŭ {cupra}, {larcu}, {rutni}, {finti},
+      {gundi}.
+    glosses:
+    - konstruas
+  hu:
+    place structure: x1 elkészíti/összeállítja/felépíti/létrehozza x2-t x3 anyagokból/alkotóelemekből
+    notes:
+    - 'Nem használható a {gasnu} szinonimájaként (Lásd még: {cupra}, {larcu}, {rutni},
+      {finti}, {gundi})'
+    glosses:
+    - készít
+  ja:
+    place structure: x1 は x2 を x3 （素材）から造る／作る／工作する
+    notes:
+    - ・大意： 造る ・読み方： ズバス  ・語呂合わせ： ＜ずっとバス＞,ズバズバすごいものをつくる ・関連語： {cupra}, {larcu}, {rutni},
+      {finti}, {gundi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 lager/setter sammen/bygger/tilvirker/skaper x2 av materialer/deler/komponenter
+      x3
+    notes:
+    - Se også {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
+    glosses:
+    - lage
+    - sammensette
+    - sette sammen
+    - tilvirke
+    - x2=konstruksjon (innretning)
+    - x3=materiale (i sammensetning)
+  pl:
+    place structure: x1 produkuje/składa/buduje x2 z materiałów/części x3.
+    notes:
+    - Cf. {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
+    glosses:
+    - budować
+    - produkować
+    - składać (montować)
+  zh:
+    place structure: x1制造/装配/生产x2，使用材料/部件/组分x3
+    notes:
+    - 不能用以表示因果关系；参见 {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
+    glosses:
+    - No glosses.

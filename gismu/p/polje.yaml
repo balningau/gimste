@@ -1,6 +1,75 @@
-Word: polje
-Rafsi: plo
-Definition: x1 (force) folds/creases x2 at locus/loci/forming crease(s)/bend(s) x3.
-Notes: For agentive folding (= {plogau}, {plozu'e}); use cardinal-value sumti in $x_3$,
-  or rapli, to indicate multiple folds.  See also {korcu}, {cinje}, {boxfo}, {boxna}.
-Examples: None
+word: polje
+rafsi:
+- plo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (force) folds/creases x2 at locus/loci/forming crease(s)/bend(s)
+      x3.
+    notes:
+    - For agentive folding (= {plogau}, {plozu'e}); use cardinal-value sumti in x3,
+      or rapli, to indicate multiple folds.  See also {korcu}, {cinje}, {boxfo}, {boxna}.
+    glosses:
+    - fold
+  de:
+    place structure: x1 (Kraft) faltet/knickt x2 an Stelle(n)/erzeugt Falte(n)/Rille(n)/Knick(e)
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - falten
+  es:
+    place structure: x1 dobla/pliega a x2 con doblez/pliego x3
+    notes:
+    - Ver también {korcu},  {cinje}.
+    glosses:
+    - doblar
+  ru:
+    place structure: x1 (сила) морщит/перегибает/складывает x2 в участке/образуя складки
+      x3; x2 сморщивается под действием x1
+    notes:
+    - 'x3 — складк(а/и), морщин(а/и), загиб; при наличии деятеля: {plogau}, {plozu''e};
+      для указания на множественные складки использовать подходящий количественный
+      модификатор в x3, или {rapli}  {korcu} (изогнутый), {cinje} (складка), {boxfo}
+      (пластина), {boxna} (волна)'
+    glosses:
+    - складывать
+    - x1=складывающий
+    - x2=складываемое
+    - x3=складки
+  en-simple:
+    place structure: x1 folds x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a folder
+    - x2=something folded
+    - x3=a fold
+  eo:
+    place structure: x1 (forto) faldas x2-on je loko/formanta faldo(j)n x3
+    notes:
+    - Por agenta faldado (= {plogau}, {plozu'e}); uzu nombron en x3, aŭ rapli, por
+      indiki plurajn faldojn.  Vidu ankaŭ {korcu}, {cinje}, {boxfo}, {boxna}.
+    glosses:
+    - faldi
+  hu:
+    place structure: x1 erő összehajtja/összegyűri x2-t x3 hely(ek)en / gyűrődés(eke)t/hajlítás(oka)t
+      okozva
+    notes:
+    - '(Lásd még: {korcu}, {cinje}, {boxfo}, {boxna})'
+    glosses:
+    - összehajt
+  ja:
+    place structure: x1 （力）は x2 （対象本体）・ x3 （対象箇所）をシワにする／折り目をつける
+    notes:
+    - ・大意： 折り目をつける ・読み方： ポルゥジェ  ・語呂合わせ： 折るじぇ ・関連語： {korcu}, {cinje}, {boxfo}, {boxna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（力）折叠x2，在位置x3处/形成折痕x3
+    notes:
+    - （施事的）折叠= {plogau}/{plozu'e}；在x3处使用基数词或{rapli}来表示多次折叠；参见 {korcu}, {cinje}, {boxfo},
+      {boxna}.
+    glosses:
+    - No glosses.

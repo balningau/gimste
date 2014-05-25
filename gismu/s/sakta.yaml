@@ -1,8 +1,75 @@
-Word: sakta
-Rafsi: sat
-Definition: x1 is made of/contains/is a quantity of sugar [sweet edible] from source
-  x2 of composition x3.
-Notes: 'Also sucrose, fructose, glucose, galactose, lactose, etc.; saccharine/aspartame/sugar
-  substitute ({basysakta} or {satybasti}, {ticysakta}); $x_3$: composition including
-  $x_3$, which need not be complete specification.  See also {silna}, {titla}.'
-Examples: None
+word: sakta
+rafsi:
+- sat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of sugar [sweet edible]
+      from source x2 of composition x3.
+    notes:
+    - 'Also sucrose, fructose, glucose, galactose, lactose, etc.; saccharine/aspartame/sugar
+      substitute ({basysakta} or {satybasti}, {ticysakta}); x3: composition including
+      x3, which need not be complete specification.  See also {silna}, {titla}.'
+    glosses:
+    - sugar
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Zucker [süß, essbar]
+      aus Quelle x2 mit Zusammensetzung x3
+    notes:
+    - No notes.
+    glosses:
+    - Zucker
+  es:
+    place structure: x1 es una cantidad de azúcar de origen x2 de composición x3
+    notes:
+    - No notes.
+    glosses:
+    - azúcar
+  ru:
+    place structure: x1 — сахар (сладкое съедобное вещество) из источника x2, состава
+      x3
+    notes:
+    - 'Также: сахароза, фруктоза, глюкоза, галактоза, лактоза и т.д.; сахарин/аспартам/заменитель
+      сахара ({basysakta} или {satybasti}, {ticysakta}; x3: содержит x3, не обязательно
+      полное описание состава {silna} (соль), {titla} (сладкий)'
+    glosses:
+    - x1=сахар
+    - x2=источник сахара
+  en-simple:
+    place structure: x1 is a quantity of sugar from source x2 of composition x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of sugar
+    - x2=a source of sugar
+    - x3=a composition of sugar
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el sukero [dolĉa manĝebla]
+      el fonto x2 de konsisto x3
+    notes:
+    - 'Ankaŭ: sukrozo, fruktozo, glikozo, galaktozo, laktozo, ktp.; sakarino/suker-anstataŭaĵo
+      (basysakta aŭ satybasti, ticysakta); x3: konsisto inkluzivanta x3, kiu ne nepre
+      estas kompleta specifado. Vidu ankaŭ {silna}, {titla}.'
+    glosses:
+    - sukero
+  hu:
+    place structure: x1 bizonyos mennyiségű cukor [mono- vagy diszacharid](-ot tartalmaz/-ból
+      készült), x2 forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {silna}, {titla})'
+    glosses:
+    - cukor
+  ja:
+    place structure: x1 は x2 （資源）・ x3 （成分）の砂糖／果糖／ブドウ糖／乳糖
+    notes:
+    - ・大意： 糖 ・読み方： サクタ  ・語呂合わせ： tan (糖) ・関連語： {silna}, {titla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是糖/糖制品（可食用的甜的），来自来源x2，具有组分x3
+    notes:
+    - 也指：蔗糖，果糖，葡萄糖，乳糖等；糖精/糖的替代品={basysakta}/{satybasti}/{ticysakta}；物质构成中需包含x3，但x3位不需要指明全部构成；参见
+      {silna}, {titla}.
+    glosses:
+    - No glosses.

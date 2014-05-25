@@ -1,5 +1,69 @@
-Word: cisma
-Rafsi: ''
-Definition: x1 smiles/grins (facial expression).
-Notes: Smile/grin at something (= {cismyfra}).  See also {xajmi}, {cmila}, {frumu}.
-Examples: None
+word: cisma
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 smiles/grins (facial expression).
+    notes:
+    - Smile/grin at something (= {cismyfra}).  See also {xajmi}, {cmila}, {frumu}.
+    glosses:
+    - smile
+  de:
+    place structure: x1 lächelt/grinst (Gesichtsausdruck)
+    notes:
+    - No notes.
+    glosses:
+    - lächeln
+  es:
+    place structure: x1 sonríe
+    notes:
+    - Ver también {cmila},  {frumu}.
+    glosses:
+    - sonreír
+  ru:
+    place structure: x1 улыбается/ухмыляется/усмехается (выражение лица)
+    notes:
+    - 'Насмехаться (над кем-либо): {cismyfra} {xajmi} (смешной), {cmila} (смеяться),
+      {frumu} (хмуриться)'
+    glosses:
+    - усмехаться
+    - x1=усмехающийся
+  en-simple:
+    place structure: x1 smiles
+    notes:
+    - No notes.
+    glosses:
+    - a smiler
+  eo:
+    place structure: x1 ridetas (vizaĝa esprimo)
+    notes:
+    - Rideti je/al io (= {cismyfra}).  Vidu ankaŭ {xajmi}, {cmila}, {frumu}.
+    glosses:
+    - rideti
+  hu:
+    place structure: x1 mosolyog/vigyorog
+    notes:
+    - '(Lásd még: {xajmi}, {cmila}, {frumu})'
+    glosses:
+    - mosolyog
+  ja:
+    place structure: x1 はほほえむ／にやつく
+    notes:
+    - 「cmila」と違い、笑い声が含意されない。 ・大意： ほほえむ ・読み方： シスマ  ・語呂合わせ： 死スマイル, smile ・関連語： {xajmi},
+      {cmila}, {frumu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 ler/flinar/grinar [ansiktsuttryck].
+    notes:
+    - Le/flina åt något (= {cismyfra}).
+    glosses:
+    - le (ansiktsuttryck)
+  zh:
+    place structure: x1笑（面部表情）
+    notes:
+    - 因……而笑= {cismyfra}； 参见 {xajmi}, {cmila}, {frumu}.
+    glosses:
+    - No glosses.

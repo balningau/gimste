@@ -1,5 +1,66 @@
-Word: lorxu
-Rafsi: lor, lo'u
-Definition: x1 is a fox [bushy-tailed wild dog/canine] of species/breed x2.
-Notes: See also {gerku}.
-Examples: None
+word: lorxu
+rafsi:
+- lor
+- lo'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fox [bushy-tailed wild dog/canine] of species/breed x2.
+    notes:
+    - See also {gerku}.
+    glosses:
+    - fox
+  de:
+    place structure: x1 ist ein Fuchs [ein Wildhund mit buschigem Schwanz] der Art/Rasse
+      x2.
+    notes:
+    - Siehe auch {gerku}.
+    glosses:
+    - Fuchs
+  es:
+    place structure: x1 es un zorro de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - zorro
+  ru:
+    place structure: x1 — лисица, лиса (дикий представитель семейства собачьих с пушистым
+      хвостом) вида/разновидности x2
+    notes:
+    - '{gerku} (собака)'
+    glosses:
+    - лисица
+  en-simple:
+    place structure: x1 is a fox of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a fox
+    - x2=a species of fox
+  eo:
+    place structure: x1 estas vulpo [sovaĝa hundo kun densa vosto] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gerku}.
+    glosses:
+    - vulpo
+  hu:
+    place structure: x1 egy róka [Vulpini rend] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gerku})'
+    glosses:
+    - róka
+  ja:
+    place structure: x1 は x2 （種類）のキツネ属動物
+    notes:
+    - ・大意： 狐 ・読み方： ルォルクゥ ・関連語： {gerku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 是狐 [蓬尾野生犬科动物]，属于种类 x2
+    notes:
+    - 参见 {gerku}。 (不是“狐狸”)
+    glosses:
+    - 犬科
+    - x1=狐
+    - x2=种类

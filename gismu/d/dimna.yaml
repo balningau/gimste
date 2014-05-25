@@ -1,6 +1,72 @@
-Word: dimna
-Rafsi: dim
-Definition: x1 is a fate/destiny of x2; [doom, curse are mabla-forms]; x2 is fated/predestined/doomed
-  to x1.
-Notes: Fated/destined/doomed (= {seldimna}).  See also {dapma}.
-Examples: None
+word: dimna
+rafsi:
+- dim
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fate/destiny of x2; [doom, curse are mabla-forms]; x2
+      is fated/predestined/doomed to x1.
+    notes:
+    - Fated/destined/doomed (= {seldimna}).  See also {dapma}.
+    glosses:
+    - fate
+  de:
+    place structure: x1 ist ein Schicksal für x2; [Verhängnis, Fluch sind Zusammensetzungen
+      mit mabla]; x2 ist vorgesehen/dazu verurteilt/verdammt, x1 zu erleiden/erleben
+    notes:
+    - No notes.
+    glosses:
+    - Schicksal
+  es:
+    place structure: x1 es un destino de x2
+    notes:
+    - Ver también {funca}.
+    glosses:
+    - destino
+  ru:
+    place structure: x1 — судьба/участь/предназначение x2 (чья); x2 обречен на x1
+    notes:
+    - '«Проклятье» выражается с помощью {mabla}; обреченный: {seldimna} {dapma} (проклинать)'
+    glosses:
+    - x1=участь
+  en-simple:
+    place structure: x1 is a fate or destiny of x2
+    notes:
+    - No notes.
+    glosses:
+    - a destiny
+    - x2=something with a destiny
+  eo:
+    place structure: x1 estas sorto/destino de x2; [fatalo, kondamno estas mabla-formoj]
+    notes:
+    - Destinita/kondamnita (= {seldimna}).  Vidu ankaŭ {dapma}.
+    glosses:
+    - sorto
+  hu:
+    place structure: x1 a sorsa/végzete x2-nek
+    notes:
+    - '(Lásd még: {dapma})'
+    glosses:
+    - sors
+  ja:
+    place structure: x1 は x2 の宿命／末路；  x2 は x1 の運命にある
+    notes:
+    - ・大意： 宿命 ・読み方： ディムナ  ・関連語： {dapma}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: 'x1 är ett öde/lott/bestämmelse för x2; [dom, förbannelse är
+      mabla-former]; x2 är ödesbestämd/predestinerad/dömd till x1. '
+    notes:
+    - Ödesbestämd/ämnad/dömd (={seldimna}). Se även {dapma}.
+    glosses:
+    - predestination
+    - x1=öde
+    - x2=predestinerad (ödesbestämd)
+  zh:
+    place structure: x1是x2的命运/宿命/命中注定
+    notes:
+    - 命中注定的/劫数难逃的= {seldimna}；参见 {dapma}.
+    glosses:
+    - No glosses.

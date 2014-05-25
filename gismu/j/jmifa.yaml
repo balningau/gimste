@@ -1,5 +1,71 @@
-Word: jmifa
-Rafsi: ''
-Definition: x1 is a shoal [shallow hazard]/reef of material x2 in body of water x3.
-Notes: Rapids (= {ri'erjmifa}, {ri'ercaxno}).  See also {caxno}.
-Examples: None
+word: jmifa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shoal [shallow hazard]/reef of material x2 in body of
+      water x3.
+    notes:
+    - Rapids (= {ri'erjmifa}, {ri'ercaxno}).  See also {caxno}.
+    glosses:
+    - shoal
+  de:
+    place structure: x1 ist eine Untiefe/ein Riff aus Material x2 in Wasser/Gewässer
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Untiefe
+  es:
+    place structure: x1 es un arrecife de material x2 en aguas x3
+    notes:
+    - No notes.
+    glosses:
+    - arrecife
+  ru:
+    place structure: x1 — мель/отмель/риф из материала x2 в водном пространстве x3
+    notes:
+    - 'Пороги: {ri''erjmifa}, {ri''ercaxno} {caxno} (мелкий [неглубокий])'
+    glosses:
+    - мель
+  en-simple:
+    place structure: x1 is a shoal or reef of material x2 in body of water x3
+    notes:
+    - No notes.
+    glosses:
+    - a shoal
+    - x2=a material of a shoal
+    - x3=a body of water containing shoal
+  eo:
+    place structure: x1 estas rifo [malprofunda risko] el materialo x2 en akvo x3
+    notes:
+    - Rapidaĵoj (= {ri'erjmifa}, {ri'ercaxno}).  Vidu ankaŭ {caxno}.
+    glosses:
+    - rifo
+  hu:
+    place structure: x1 egy zátony x2 anyagból x3 víztömegben
+    notes:
+    - '(Lásd még: {caxno})'
+    glosses:
+    - zátony
+  ja:
+    place structure: x1 は x2 （物質）・ x3 （所）の岩礁／浅瀬／州／砂州
+    notes:
+    - 「サンゴ礁」も。 ・大意： 岩礁 ・読み方： ジミファ  ・関連語： {caxno}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett grund/rev av material x2 i vattenområde x3.
+    notes:
+    - No notes.
+    glosses:
+    - grund (farligt grund i vatten)
+    - rev (farligt grund i vatten)
+  zh:
+    place structure: x1是浅滩/沙洲/暗礁，由材料x2构成，处于水体x3中
+    notes:
+    - 湍流= {ri'erjmifa}/{ri'ercaxno}；参见 {caxno}.
+    glosses:
+    - No glosses.

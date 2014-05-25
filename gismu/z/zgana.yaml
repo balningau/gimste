@@ -1,8 +1,97 @@
-Word: zgana
-Rafsi: zga
-Definition: x1 observes/[notices]/watches/beholds x2 using senses/means x3 under conditions
-  x4.
-Notes: Behold/watch/gaze (= {vi'azga}); guard/watchman/sentinel (= {zgaku'i}, {jdeku'i}).  See
-  also cmavo list {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji},
-  {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
-Examples: None
+word: zgana
+rafsi:
+- zga
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 observes/[notices]/watches/beholds x2 using senses/means x3
+      under conditions x4.
+    notes:
+    - Behold/watch/gaze (= {vi'azga}); guard/watchman/sentinel (= {zgaku'i}, {jdeku'i}).  See
+      also cmavo list {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne},
+      {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
+    glosses:
+    - observe
+  de:
+    place structure: x1 beobachtet/[bemerkt]/schaut/sieht/guckt/erblickt x2 mit den
+      Sinnen/Mitteln x3 unter den Bedingungen x4.
+    notes:
+    - Siehe auch {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji},
+      {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
+    glosses:
+    - beobachten
+  es:
+    place structure: x1 observa/nota/percibe x2 usando sentidos/medios x3 bajo condiciones
+      x4
+    notes:
+    - Ver también {ganse}.
+    glosses:
+    - observar
+  ru:
+    place structure: x1 наблюдает/{замечает}/созерцает x2, используя чувства/средства
+      x3 в условиях x4
+    notes:
+    - 'Разглядывать: {vi''azga}; часовой, страж, дежурный: {zgaku''i}, {jdeku''i}
+      {ga''a}, {ganse} (чувствовать [ощущать]), {viska} (видеть), {catlu} (смотреть
+      [на что-либо]), {tirna} (слышать), {pencu} (трогать), {sumne} (обонять), {kurji}
+      (заботиться), {canci} (исчезать), {catlu} (смотреть [на что-либо]), {jarco}
+      (показывать [демонстрировать]), {lanli} (анализировать), {pinka} (комментарий),
+      {simlu} (казаться)'
+    glosses:
+    - наблюдать
+    - x1=наблюдающий
+    - x2=наблюдаемое
+    - x3=средства (чувства) наблюдения
+  en-simple:
+    place structure: x1 observes x2 using sense x3
+    notes:
+    - No notes.
+    glosses:
+    - an observeer
+    - observe
+    - x1=observer
+    - x2=observed
+    - x2=something observed
+    - x3=a means of observation
+    - x3=the means of observation
+    - x4=a condition of observation
+  eo:
+    place structure: x1 observas/[rimarkas]/rigardas x2-on per senso/rimedo x3 sub
+      kondiĉoj x4
+    notes:
+    - Vidi/rigardi (= {vi'azga}); gardisto/sentinelo (= {zgaku'i}, {jdeku'i}).  Vidu
+      ankaŭ cmavo {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji},
+      {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
+    glosses:
+    - observi
+  hu:
+    place structure: x1 megfigyeli/vizsgálja/nézi x2-t x3 érzékkel/módon x4 körülmények
+      között
+    notes:
+    - '(Lásd még: {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci},
+      {catlu}, {jarco}, {lanli}, {pinka}, {simlu})'
+    glosses:
+    - megfigyel
+  ja:
+    place structure: x1 は x2 （対象）を x3 （方法）・ x4 （条件）で観察／観賞／鑑賞する
+    notes:
+    - 「見張る」も。 ・大意： 観察 ・読み方： ズガナ  ・語呂合わせ： ＜ずっとガーナ観察＞ ・関連語： {ga'a}, {ganse}, {viska},
+      {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli},
+      {pinka}, {simlu}
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 observeerd/[merkt]/ziet/aanschouwd x2 gebruikmakende van x3
+      onder omstandigheden x4.
+    notes:
+    - aanschouwen/kijken/staren (= {vi'azga});
+    glosses:
+    - observeer
+  zh:
+    place structure: x1观察/注视x2，使用方式/感官x3，在条件x4下
+    notes:
+    - 注视/凝视/观察={vi'azga}；守卫/守护人/看守/岗哨={zgaku'i}/{jdeku'i}；参见 {ga'a}, {ganse}, {viska},
+      {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli},
+      {pinka}, {simlu}.
+    glosses:
+    - No glosses.

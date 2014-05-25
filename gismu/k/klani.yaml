@@ -1,6 +1,76 @@
-Word: klani
-Rafsi: lai
-Definition: x1 is a quantity quantified/measured/enumerated by x2 (quantifier) on
-  scale x3 (si'o).
-Notes: Also count.  See also cmavo list {la'u}, {namcu}.
-Examples: None
+word: klani
+rafsi:
+- lai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity quantified/measured/enumerated by x2 (quantifier)
+      on scale x3 (si'o).
+    notes:
+    - Also count.  See also cmavo list {la'u}, {namcu}.
+    glosses:
+    - level (degree or amount)
+    - quantity
+    - x1=amount (a total of things)
+    - x2=quantifier (symbol expressing quantity)
+  jbo:
+    place structure: x1 se parbi x2 noi namcu ku'o lo gradu be x3
+    notes:
+    - '{parbi}, {namcu}, {gradu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Menge/Anzahl/Größe gemessen/gezählt von x2 (Quantor)
+      auf Skala x3 (si'o)
+    notes:
+    - No notes.
+    glosses:
+    - Menge
+  es:
+    place structure: x1 es cantidad/mide x2 en escala x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — величина/количество, имеющая/принимающая значение x2 (числительное)
+      по шкале x3 ({si'o})
+    notes:
+    - 'Также: счет/отсчет/размер {la''u}, {namcu} (число)'
+    glosses:
+    - x1=количество
+    - x2=квантификатор (символ, выражающий количество)
+    - x3=шкала
+  en-simple:
+    place structure: x1 is a quantity measured by x2 on scale x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity
+    - x2=a measurer of a quantity
+    - x3=a measurement scale of a quantity
+  eo:
+    place structure: x1 estas kvanto kvantigita/mezurita/nombrita per x2 (kvantigilo)
+      laŭ skalo x3 (si'o)
+    notes:
+    - Vidu ankaŭ cmavo {la'u}, {namcu}.
+    glosses:
+    - kvanto
+  hu:
+    place structure: x1 egy mennyiség kifejezve x2 kvantor által, x3 skálán [si’o]
+    notes:
+    - '(Lásd még: {namcu})'
+    glosses:
+    - mennyiség
+  ja:
+    place structure: x1 は x2 によって x3 （尺度）について測定された量
+    notes:
+    - ・大意： 量 ・読み方： クルァニ  ・語呂合わせ： 測定済みの量は倉に ・関連語： {la'u}, {namcu}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是数量，用x2（量词）进行量化，在规模x3（si'o）上
+    notes:
+    - 也指：计数；参见：{la'u}, {namcu}.
+    glosses:
+    - No glosses.

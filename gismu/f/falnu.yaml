@@ -1,5 +1,76 @@
-Word: falnu
-Rafsi: fan
-Definition: x1 is a sail for gathering propelling material x2 on vehicle/motor x3.
-Notes: Waterwheel (= {jacfanxi'u}).  See also {bloti}.
-Examples: None
+word: falnu
+rafsi:
+- fan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sail for gathering propelling material x2 on vehicle/motor
+      x3.
+    notes:
+    - Waterwheel (= {jacfanxi'u}).  See also {bloti}.
+    glosses:
+    - sail
+  de:
+    place structure: x1 ist ein Segel zum Sammeln von Antriebsmaterial x2 auf Fahrzeug/Motor
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Segel
+  es:
+    place structure: x1 es una vela para juntar material de propulsión x2 en vehículo
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - vela
+  ru:
+    place structure: 'x1 — парус, улавливающий x2 (что: поток вещества, например,
+      ветер) для приведения в движение транспортного средства/механизма x3'
+    notes:
+    - 'Водяное колесо/турбина: {jacfanxi''u} {bloti} (корабль)'
+    glosses:
+    - парус
+  en-simple:
+    place structure: x1 is a sail for gathering x2 on vehicle x3
+    notes:
+    - No notes.
+    glosses:
+    - a sail
+    - x2=something gathered by a sail
+    - x3=something propelled by a sail
+  eo:
+    place structure: x1 estas velo por kapti pelantan materialon x2 ĉe veturilo/motoro
+      x3
+    notes:
+    - Akvorado (= {jacfanxi'u}).  Vidu ankaŭ {bloti}.
+    glosses:
+    - velo
+  hu:
+    place structure: x1 egy vitorla/lapát x2 anyag mozgási energiájának gyűjtésére,
+      x3 járművön/hajtóművön
+    notes:
+    - '(Lásd még: {bloti})'
+    glosses:
+    - vitorla
+  ja:
+    place structure: x1 は x2 を集めて x3 （乗物）が航行／帆走するための帆
+    notes:
+    - x2 は空気・太陽風など。 「lo se blozeile'a cu te falnu／海賊船が帆走する」 ・大意： 帆走 ・読み方： ファルゥヌ  ・関連語：
+      {bloti}
+    glosses:
+    - x1=帆
+    - x3=帆走
+  sv:
+    place structure: x1 är ett segel för att samla ihop material x2 som driver motor/fordon
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - segel (som samlar ihop material (vind/vatten mm) för att driva motor/fordon)
+  zh:
+    place structure: x1是帆，收集驱动物质x2，位于交通工具/载具x3上
+    notes:
+    - 水轮={jacfanxi'u}；参见 {bloti}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,71 @@
-Word: fenra
-Rafsi: fer, fe'a
-Definition: x1 is a crack/fissure/pass/cleft/ravine/chasm/[defect/flaw] [shape/form]
-  in x2.
-Notes: See also {kevna}, {cfila}, {jinto}.
-Examples: None
+word: fenra
+rafsi:
+- fer
+- fe'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a crack/fissure/pass/cleft/ravine/chasm/[defect/flaw] [shape/form]
+      in x2.
+    notes:
+    - See also {kevna}, {cfila}, {jinto}.
+    glosses:
+    - crack
+  de:
+    place structure: x1 ist eine Spalte/ein Riss/ein Sprung/eine Kluft/ein Pass/eine
+      Schlucht/[ein Defekt/ein Makel] [Form] in x2
+    notes:
+    - No notes.
+    glosses:
+    - Spalte
+  es:
+    place structure: x1 es una grieta/fisura/rajadura en x2
+    notes:
+    - Ver también {kevna}.
+    glosses:
+    - grieta
+  ru:
+    place structure: x1 — трещина/разлом/расселина/ущелье/{дефект} (форма) в x2
+    notes:
+    - '{kevna} (впадина), {cfila} (дефект), {jinto} (колодец)'
+    glosses:
+    - x1=трещина
+  en-simple:
+    place structure: x1 is a crack in x2
+    notes:
+    - No notes.
+    glosses:
+    - a crack
+    - x2=something with a crack
+  eo:
+    place structure: x1 estas fendo/ravino/abismo/[difekto] [formo] en x2
+    notes:
+    - Vidu ankaŭ {kevna}, {cfila}, {jinto}.
+    glosses:
+    - fendo
+  hu:
+    place structure: x1 egy repedés/hasadék/hézag/szakadék/hágó/szoros x2-ben
+    notes:
+    - '(Lásd még: {kevna}, {cfila}, {jinto})'
+    glosses:
+    - repedés
+  ja:
+    place structure: x1 は x2 の割れ目／裂け目
+    notes:
+    - 「亀裂」「谷間」「峡谷」「山峡」も。 ・大意： 裂け目 ・読み方： フェンラ  ・関連語： {kevna}, {cfila}, {jinto}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en spricka/klyfta/pass/skreva/ravin/avgrund [form] i x2.
+    notes:
+    - Inom anatomi även fissur/(ben)brott.
+    glosses:
+    - x1=spricka (substantiv)
+    - x2=sprucken
+  zh:
+    place structure: x1是x2上的裂缝/开裂/沟壑
+    notes:
+    - 参见 {kevna}, {cfila}, {jinto}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,77 @@
-Word: sruri
-Rafsi: rur, sru
-Definition: x1 encircles/encloses/is surrounding x2 in direction(s)/dimension(s)/plane
-  x3.
-Notes: ({jinsru} =) $x_1$ is a ring/belt/band/girdle around/circling/ringing $x_2$
-  near total containment in some dimension(s).  See also {karli}, {senta}, {snuji},
-  {vanbi}, se {nenri}, se {jbini}, {bartu}, {djine}.
-Examples: None
+word: sruri
+rafsi:
+- rur
+- sru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 encircles/encloses/is surrounding x2 in direction(s)/dimension(s)/plane
+      x3.
+    notes:
+    - ({jinsru} =) x1 is a ring/belt/band/girdle around/circling/ringing x2 near total
+      containment in some dimension(s).  See also {karli}, {senta}, {snuji}, {vanbi},
+      se {nenri}, se {jbini}, {bartu}, {djine}.
+    glosses:
+    - surround
+  de:
+    place structure: x1 umgibt/umschließt/umkreist/umzingelt x2 in Richtung(en)/Dimension(en)/Ebene
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - umgeben
+  es:
+    place structure: x1 rodea/circunda a x2 en dirección/dimensión/plano x3
+    notes:
+    - Ver también se {nenri},  se {jbini},  {bartu}.
+    glosses:
+    - rodear
+  ru:
+    place structure: x1 окружает/охватывает x2 в направлени(и/ях)/измерени(и/ях)/плоскости
+      x3
+    notes:
+    - ({jinsru} =) x1 — кольцо/пояс вокруг x2 (почти полный охват в каком-то измерени(и/ях))
+      {karli} (пояс), {senta} (слой), {snuji} (прослойка), {vanbi} (окружающий), {se}
+      {nenri} (внутри), {se} {jbini} (между), {bartu} (вне), {djine} (кольцо)
+    glosses:
+    - охватывать
+    - x1=охватывающее
+    - x2=охватываемое
+  en-simple:
+    place structure: x1 encloses or surrounds x2 in direction x3
+    notes:
+    - No notes.
+    glosses:
+    - something enclosing
+    - x2=something eclosed
+    - x3=a direction of enclosure
+  eo:
+    place structure: x1 ĉirkaŭas/encirkligas/enfermas x2-on en direkto/dimensio/ebeno
+      x3
+    notes:
+    - (jinsru =) x1 estas ringo/zono/rimeno ĉirkaŭ x2 preskaŭ tuta enhavado en iu(j)
+      dimensio(j).  Vidu ankaŭ {karli}, {senta}, {snuji}, {vanbi}, se {nenri}, se
+      {jbini}, {bartu}, {djine}.
+    glosses:
+    - ĉirkaŭi
+  hu:
+    place structure: x1 körül-/körbeveszi x2-t x3 irány(ok)ban/síkban/dimenzió(k)ban
+    notes:
+    - '(Lásd még: {karli}, {senta}, {snuji}, {vanbi}, {nenri}, {jbini}, {bartu}, {djine})'
+    glosses:
+    - körülvesz
+  ja:
+    place structure: x1 は x2 を x3 （方向／次元／面）に関して包囲する／取り囲む
+    notes:
+    - ・大意： 包囲 ・読み方： スルリ  ・語呂合わせ： 包囲をするりと抜ける ・関連語： {karli}, {senta}, {snuji}, {vanbi},
+      {se} {nenri}, {se} {jbini}, {bartu}, {djine}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1环绕/保卫/围绕x2，在方向/尺寸/范围x3上
+    notes:
+    - '{jinsru}=x1环绕/保卫x2的环/圈（在某些维度上完全封闭）；参见 {karli}, {senta}, {snuji}, {vanbi}, se
+      {nenri}, se {jbini}, {bartu}, {djine}.'
+    glosses:
+    - No glosses.

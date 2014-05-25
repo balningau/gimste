@@ -1,8 +1,83 @@
-Word: jgira
-Rafsi: jgi
-Definition: x1 (person) feels/has pride in/about x2 (abstraction).
-Notes: An emotional combination of satisfaction and respect/esteem towards property(ies)
-  or action(s) of person/entity that has a specific tie to emoter; self-pride (= {se'ijgi},
-  {tolcumla}); use $x_2$ tu'a for pride in non-specific actions/properties of someone.  See
-  also {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}.
-Examples: None
+word: jgira
+rafsi:
+- jgi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) feels/has pride in/about x2 (abstraction).
+    notes:
+    - An emotional combination of satisfaction and respect/esteem towards property(ies)
+      or action(s) of person/entity that has a specific tie to emoter; self-pride
+      (= {se'ijgi}, {tolcumla}); use x2 tu'a for pride in non-specific actions/properties
+      of someone.  See also {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Person) ist stolz auf/besitzt Stolz über x2 (Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - stolz
+  es:
+    place structure: x1 siente orgullo por x2 (abstracción)
+    notes:
+    - Ver también {cumla}.
+    glosses:
+    - orgulloso
+  ru:
+    place structure: 'x1 горд/гордится x2 (чем: абстракция)'
+    notes:
+    - 'Сочетание эмоций удовлетворения и уважения/высокой оценки по отношению к свойствам
+      или действиям лица/существа, тесно связанного с x1; самоуважение: {se''ijgi},
+      {tolcumla}; для описания гордости чьими-то неуточненными действиями/свойствами,
+      использовать {tu''a} {cinmo} (эмоциональный), {cumla} (скромный), {sevzi} (сам),
+      {sinma} (уважать), {snada} (добиваться [чего-либо успешно])'
+    glosses:
+    - x1=гордый
+    - x2=предмет гордости
+  en-simple:
+    place structure: x1 feels pride in x2
+    notes:
+    - No notes.
+    glosses:
+    - something proud
+    - x2=something causing pride
+  eo:
+    place structure: x1 (homo) fieras pri x2 (abstraktaĵo)
+    notes:
+    - Emocia kombino de kontentiĝo kaj respekto/estimo je eco aŭ ago de homo/estaĵo
+      kiu havas specifan ligon kun la emociiĝanto; memfieri (= {se'ijgi}, {tolcumla});
+      uzu je tu'a en x2 por fiero pri nespecifaj ecoj de iu.  Vidu ankaŭ {cinmo},
+      {cumla}, {sevzi}, {sinma}, {snada}.
+    glosses:
+    - fieri
+  hu:
+    place structure: x1 büszke x2-re
+    notes:
+    - '(Lásd még: {cinmo}, {cumla}, {sevzi}, {sinma}, {snada})'
+    glosses:
+    - büszke
+  ja:
+    place structure: x1 （者）は x2 （事）について誇る／誇りがある；  x1 はプライドが高い
+    notes:
+    - ・大意： 誇る ・読み方： ジギラ  ・関連語： {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (person) har/känner stolthet av/över x2 (abstraktion).
+    notes:
+    - En emotionell kombination av tillfredställelse och respekt/ of satisfaction
+      and respect/uppskattning över egenskap(er) eller gärning(ar) av person/enhet
+      som har ett särskilt band till känslomänniskan; stolthet över sig själv (= {se'ijgi},
+      {tolcumla}); använd x2 tu'a för stolthet över icke-specifika gärningar/egenskaper
+      hos någon.
+    glosses:
+    - stolt
+  zh:
+    place structure: x1对x2（谓词子句）感到自豪/骄傲/光荣
+    notes:
+    - 自豪= {se'ijgi}, {tolcumla}；当指为某人上不特定的特点感到骄傲时，需要使用tu'a；参见 {cinmo}, {cumla}, {sevzi},
+      {sinma}, {snada}.
+    glosses:
+    - No glosses.

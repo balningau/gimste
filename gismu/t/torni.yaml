@@ -1,5 +1,63 @@
-Word: torni
-Rafsi: ton, to'i
-Definition: x1 twists under load/force/torsion x2.
-Notes: See also {tinsa}, {trati}.
-Examples: None
+word: torni
+rafsi:
+- ton
+- to'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 twists under load/force/torsion x2.
+    notes:
+    - See also {tinsa}, {trati}.
+    glosses:
+    - twist
+  de:
+    place structure: x1 biegt sich unter Last/Kraft/Verdrehung x2
+    notes:
+    - No notes.
+    glosses:
+    - biegen
+  es:
+    place structure: x1 se tuerce/retuerce bajo carga/fuerza/torsión x2
+    notes:
+    - No notes.
+    glosses:
+    - torcerse
+  ru:
+    place structure: x1 скручивается/сворачивается под действием груза/силы x2
+    notes:
+    - '{tinsa} (жесткий), {trati} (натянутый)'
+    glosses:
+    - скручиваться
+    - x1=скручивающийся
+  en-simple:
+    place structure: x1 twists under force x2
+    notes:
+    - No notes.
+    glosses:
+    - something twisting
+    - x2=a twisting force
+  eo:
+    place structure: x1 tordiĝas sub pezo/forto/tordiĝo x2
+    notes:
+    - Vidu ankaŭ {tinsa}, {trati}.
+    glosses:
+    - tordiĝi
+  hu:
+    place structure: x1 megcsavarodik x2 erő hatására
+    notes:
+    - '(Lásd még: {tinsa}, {trati})'
+    glosses:
+    - megcsavarodik
+  ja:
+    place structure: x1 は x2 （力／荷）によってねじれる／歪む；  x1 はねじれている／歪んでいる
+    notes:
+    - ・大意： ねじれ ・読み方： トルニ  ・関連語： {tinsa}, {trati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在力/负荷/扭力x2的作用下扭曲/扭转
+    notes:
+    - 参见 {tinsa}, {trati}.
+    glosses:
+    - No glosses.

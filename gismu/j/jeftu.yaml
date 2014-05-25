@@ -1,8 +1,81 @@
-Word: jeftu
-Rafsi: jef
-Definition: x1 is x2 weeks in duration (default is 1 week) by standard x3.
-Notes: Re. $x_3$, a week may be more or less than seven days, classically being tied
-  to the time between trips to the marketplace; this week (= {cabjeftu}); next week
-  (= {bavlamjeftu}); last week (= {prulamjeftu}).  See also {detri}, {djedi}, {masti},
-  {nanca}.
-Examples: None
+word: jeftu
+rafsi:
+- jef
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 weeks in duration (default is 1 week) by standard x3.
+    notes:
+    - Re. x3, a week may be more or less than seven days, classically being tied to
+      the time between trips to the marketplace; this week (= {cabjeftu}); next week
+      (= {bavlamjeftu}); last week (= {prulamjeftu}).  See also {detri}, {djedi},
+      {masti}, {nanca}.
+    glosses:
+    - week
+  de:
+    place structure: 'x1 dauert x2 Wochen (Default: 1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Woche
+  es:
+    place structure: x1 dura x2 semanas (1 por defecto) según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - semana
+  ru:
+    place structure: x1 длится x2 недель (по умолчанию 1 неделю) по стандарту x3
+    notes:
+    - 'x3: в разных культурах неделя может содержать меньше или больше 7 дней, напр.,
+      быть привязана к промежуткам между рыночными днями; эта неделя: {cabjeftu};
+      следующая неделя: {bavlamjeftu}; прошлая неделя: {prulamjeftu} {detri} (дата),
+      {djedi} (сутки), {masti} (месяц [промежуток времени]), {nanca} (год)'
+    glosses:
+    - x1=неделя
+  en-simple:
+    place structure: x1 is x2 weeks long
+    notes:
+    - No notes.
+    glosses:
+    - x1=something lasting weeks
+    - x2=a number of weeks
+    - x3=a standard of a week
+  eo:
+    place structure: x1 daŭras x2 semajnojn (defaŭlte 1 semajno) laŭ normo x3
+    notes:
+    - Pri x3, semajno povas konsistigi el pli aŭ malpli ol sep tagoj, klasike ĝi rilatas
+      al la tempodaŭro inter iroj al la vendplaco; ĉi tiu semajno (= {cabjeftu});
+      venonta semajno (= {bavlamjeftu}); pasinta semajno (= {prulamjeftu}).  Vidu
+      ankaŭ {detri}, {djedi}, {masti}, {nanca}.
+    glosses:
+    - semajno
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] hét, x3 mérce szerint
+    notes:
+    - '(Lásd még: {detri}, {djedi}, {masti}, {nanca})'
+    glosses:
+    - hét (időtartam)
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）の週
+    notes:
+    - ・大意： 週 ・読み方： ジェフゥトゥ  ・関連語： {detri}, {djedi}, {masti}, {nanca}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 veckor i omfattning (1 vecka om inget annat anges) enligt
+      standard x3.
+    notes:
+    - Vad gäller x3 så kan en vecka vara mer eller mindre än 7 dagar, t.ex. på vissa
+      platser förr som tiden mellan besöken till marknaden. Denna vecka (={cabjeftu});
+      nästa vecka (={bavlamjeftu}), förra veckan (={prulamjeftu}).
+    glosses:
+    - vecka
+  zh:
+    place structure: 在时间长度上，x1是x2周（数量，默认1），基于标准x3
+    notes:
+    - 标准x3：一周可能不是七天，应以实际情况区分；本周= {cabjeftu}；下周= {bavlamjeftu}；上周= {prulamjeftu}；参见
+      {detri}, {djedi}, {masti}, {nanca}.
+    glosses:
+    - No glosses.

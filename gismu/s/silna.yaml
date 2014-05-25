@@ -1,6 +1,66 @@
-Word: silna
-Rafsi: ''
-Definition: x1 is a portion/quantity of salt from source x2, of composition including
-  x3.
-Notes: See also {sakta}.
-Examples: None
+word: silna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a portion/quantity of salt from source x2, of composition
+      including x3.
+    notes:
+    - See also {sakta}.
+    glosses:
+    - salt
+  de:
+    place structure: x1 ist eine Portion/Menge an Salz aus Quelle x2 mit einer Zusammensetzung
+      unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Salz
+  es:
+    place structure: x1 es una cantidad de sal de origen x2 de composición x3
+    notes:
+    - No notes.
+    glosses:
+    - sal
+  ru:
+    place structure: x1 — соль из источника x2 состава x3 (не обязательно полное описание
+      состава)
+    notes:
+    - '{sakta} (сахар)'
+    glosses:
+    - x1=соль
+  en-simple:
+    place structure: x1 is a quantity of salt from x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of salt
+    - x2=a source of salt
+    - x3=a composition of salt
+  eo:
+    place structure: x1 estas porcio/kvanto da salo el fonto x2, de konsisto enhavanta
+      x3-on
+    notes:
+    - Vidu ankaŭ {sakta}.
+    glosses:
+    - salo
+  hu:
+    place structure: x1 bizonyos mennyiségű só x2 forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {sakta})'
+    glosses:
+    - só
+  ja:
+    place structure: x1 は x2 （資源）・ x3 （成分）の塩
+    notes:
+    - ・大意： 塩 ・読み方： スィルゥナ  ・語呂合わせ： 汁なら塩, salt,  ian(鹽) ・関連語： {sakta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是盐，来源于x2，具有组分x3
+    notes:
+    - 参见 {sakta}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,75 @@
-Word: jdini
-Rafsi: din, di'i
-Definition: x1 is money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal.
-Notes: '''currency'' sometimes is restricted to paper money (= {pledi''i}).  See also
-  {fepni}, {jdima}, {rupnu}, {sicni}, {canja}.'
-Examples: None
+word: jdini
+rafsi:
+- din
+- di'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal.
+    notes:
+    - '''currency'' sometimes is restricted to paper money (= {pledi''i}).  See also
+      {fepni}, {jdima}, {rupnu}, {sicni}, {canja}.'
+    glosses:
+    - money
+  de:
+    place structure: x1 ist Geld/Währung, herausgegeben von x2; (Adjektiv:) x1 ist
+      finanziell/geldlich
+    notes:
+    - No notes.
+    glosses:
+    - Geld
+  es:
+    place structure: x1 es dinero emitido por x2
+    notes:
+    - Ver también {rupnu},  {fepni}.
+    glosses:
+    - dinero
+  ru:
+    place structure: x1 — деньги/валюта, выпускаемые x2 (кем)
+    notes:
+    - 'прилагательное: x1 — денежный/финансовый/фискальный; бумажные деньги: {pledi''i}
+      {fepni} (стоить [в копейках/центах и пр.]), {jdima} (цена), {rupnu} (денежная
+      единица), {sicni} (монета), {canja} (обменивать), {rupnu} (денежная единица)'
+    glosses:
+    - x1=деньги
+  en-simple:
+    place structure: x1 is money issued by x2
+    notes:
+    - No notes.
+    glosses:
+    - money
+    - x2=something issuing money
+  eo:
+    place structure: x1 estas mono liverita de x2; (adjektivo:) x1 estas financa/mona/pecuniary/fiska
+    notes:
+    - Papermono (= {pledi'i}).  Vidu ankaŭ {fepni}, {jdima}, {rupnu}, {sicni}, {canja},
+      {rupnu}.
+    glosses:
+    - mono
+  hu:
+    place structure: x1 pénz(nem) x2 által kibocsátva
+    notes:
+    - '(Lásd még: {fepni}, {jdima}, {rupnu}, {sicni}, {canja}, {rupnu})'
+    glosses:
+    - pénz
+  ja:
+    place structure: x1 は x2 （発行源）のお金；  x1 は金融
+    notes:
+    - ・大意： 金（かね） ・読み方： ジディニ  ・関連語： {fepni}, {jdima}, {rupnu}, {sicni}, {canja}, {rupnu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är pengar/valuta utfärdad av x2; (adjective:) x1 är finansiell/monetär/pekuniär.
+    notes:
+    - '''valuta'' begränsas ibland till att endast innefatta papperspengar/sedlar
+      (= {pledi''i}).'
+    glosses:
+    - pengar
+    - valuta
+  zh:
+    place structure: x1是由x2发行的货币/通货/钱；x1是有关于货币的/财政的/金融的
+    notes:
+    - 纸币= {pledi'i}；参见 {fepni}, {jdima}, {rupnu}, {sicni}, {canja}.
+    glosses:
+    - No glosses.

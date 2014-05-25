@@ -1,5 +1,63 @@
-Word: ponjo
-Rafsi: pon, po'o
-Definition: x1 reflects Japanese culture/nationality/language in aspect x2.
-Notes: See also {xazdo}, {daplu}.
-Examples: None
+word: ponjo
+rafsi:
+- pon
+- po'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Japanese culture/nationality/language in aspect x2.
+    notes:
+    - See also {xazdo}, {daplu}.
+    glosses:
+    - Japanese
+  de:
+    place structure: x1 repräsentiert japanische Kultur/Nationalität/Sprache in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - japanisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma japonés en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - japonés
+  ru:
+    place structure: x1 — японский в аспекте x2
+    notes:
+    - '{xazdo} (азиатский), {daplu} (остров)'
+    glosses:
+    - японский
+  en-simple:
+    place structure: x1 is Japanese in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Japanese
+    - x2=a Japanese aspect
+  eo:
+    place structure: x1 montras japanan kulturon/naciecon/lingvon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {xazdo}, {daplu}.
+    glosses:
+    - japana
+  hu:
+    place structure: x1 japán kultúrát/nemzetiséget/nyelvet tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {xazdo}, {daplu})'
+    glosses:
+    - japán
+  ja:
+    place structure: x1 は x2 （性質面）に関して日本／ジャポニカ系（言語／文化／民族）
+    notes:
+    - ・大意： 日本 ・読み方： ポンジョ  ・関連語： {xazdo}, {daplu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于日本的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {xazdo}, {daplu}.
+    glosses:
+    - No glosses.

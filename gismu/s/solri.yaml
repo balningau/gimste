@@ -1,8 +1,73 @@
-Word: solri
-Rafsi: sol
-Definition: x1 is the sun of home planet x2 (default Earth) of race x3; (adjective:)
-  x1 is solar.
-Notes: '''home planet'' refers to a planet which is "home" to a race, but not necessarily
-  the original "home" of a species if that species inhabits many worlds.  See also
-  {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}.'
-Examples: None
+word: solri
+rafsi:
+- sol
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the sun of home planet x2 (default Earth) of race x3; (adjective:)
+      x1 is solar.
+    notes:
+    - '''home planet'' refers to a planet which is "home" to a race, but not necessarily
+      the original "home" of a species if that species inhabits many worlds.  See
+      also {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}.'
+    glosses:
+    - solar
+  de:
+    place structure: 'x1 ist die Sonne des Heimatplaneten x2 (Default: Erde) von Rasse
+      x3'
+    notes:
+    - No notes.
+    glosses:
+    - Sonne
+  es:
+    place structure: x1 es el sol del planeta x2 (la tierra por defecto) de raza x3
+    notes:
+    - Ver también {terdi},  {tarci}.
+    glosses:
+    - sol
+  ru:
+    place structure: x1 — солнце планеты x2 (по умолчанию, Земли), населенной разумными
+      существами вида x3
+    notes:
+    - '{gusni} (свет), {lunra} (луна), {mluni} (спутник [космический]), {plini} (планета),
+      {santa} (зонт), {terdi} (земля [планета Земля]), {tarci} (звезда [небесное тело])'
+    glosses:
+    - солнце
+  en-simple:
+    place structure: x1 is the sun of home planet x2 of race x3
+    notes:
+    - No notes.
+    glosses:
+    - a sun
+    - x2=a sun's planet
+    - x3=a race a sun is home star of
+  eo:
+    place structure: x1 estas la suno de hejma planedo x2 (defaŭlte la tero) de raso
+      x3; (adjektivo:) x1 estas suna
+    notes:
+    - '''hejma planedo'' rilatas al planedo kiu estas hejmo de raso, sed ne nepre
+      la origina hejmo de specio se tiu specio loĝas en multaj mundoj.  Vidu ankaŭ
+      {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}.'
+    glosses:
+    - suno
+  hu:
+    place structure: x1 a Nap / központi csillaga x2 bolygónak x3 faj által lakva
+    notes:
+    - '(Lásd még: {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci})'
+    glosses:
+    - nap (égitest)
+  ja:
+    place structure: x1 は x2 （惑星）の太陽／恒星
+    notes:
+    - ・大意： 太陽 ・読み方： ソルゥリ  ・関連語： {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi},
+      {tarci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是太阳，被行星x2环绕（默认地球），行星上有种族x3；x1是有关于太阳的
+    notes:
+    - 若行星上存在生物种族，它指的该生物正存在于其上的行星，而非该生物的起源星球；参见 {gusni}, {lunra}, {mluni}, {plini},
+      {santa}, {terdi}, {tarci}.
+    glosses:
+    - No glosses.

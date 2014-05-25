@@ -1,5 +1,71 @@
-Word: taske
-Rafsi: ''
-Definition: x1 thirsts for x2; x1 needs/wants drink/fluid/lubrication x2.
-Notes: See also {nitcu}, {djica}, {xagji}, {pinxe}.
-Examples: None
+word: taske
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 thirsts for x2; x1 needs/wants drink/fluid/lubrication x2.
+    notes:
+    - See also {nitcu}, {djica}, {xagji}, {pinxe}.
+    glosses:
+    - thirst
+  de:
+    place structure: x1 dürstet es nach/hat Durst auf x2; x1 braucht/will Getränk/Flüssigkeit/Schmiermittel
+      x2.
+    notes:
+    - Siehe auch {nitcu}, {djica}, {xagji}, {pinxe}.
+    glosses:
+    - Durst
+  es:
+    place structure: x1 tiene sed de x2
+    notes:
+    - Ver también {xagji},  {djica},  {nitcu}.
+    glosses:
+    - tener sed
+  ru:
+    place structure: x1 жаждет x2 (чего); x1 нуждается в напитке/жидкости/смазке x2
+    notes:
+    - '{nitcu} (нуждаться), {djica} (хотеть), {xagji} (голодный), {pinxe} (пить)'
+    glosses:
+    - жаждать
+    - x1=жаждущий
+  en-simple:
+    place structure: x1 thirsts for x2
+    notes:
+    - No notes.
+    glosses:
+    - something thirsty
+    - x2=a drink something is thirsty for
+  eo:
+    place structure: x1 soifas por x2; x1 bezonas/volas trinkaĵon/fluaĵon/lubrikaĵon
+      x2
+    notes:
+    - Vidu ankaŭ {nitcu}, {djica}, {xagji}, {pinxe}.
+    glosses:
+    - soifi
+  hu:
+    place structure: x1 szomjazik/szüksége van x2 folyadékra
+    notes:
+    - '(Lásd még: {nitcu}, {djica}, {xagji}, {pinxe})'
+    glosses:
+    - szomjas
+  ja:
+    place structure: x1 は（喉の）渇きを感じる；  x1 は渇きで x2 を求める
+    notes:
+    - ・大意： 渇（かつ） ・読み方： タスケ  ・語呂合わせ： 渇く、タスケテ！ ・関連語： {nitcu}, {djica}, {xagji}, {pinxe}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 dorst naar x2; x1 heeft nodig/wilt drank/vloeistof/laxeermiddel
+      x2.
+    notes:
+    - 'Zie ook : {nitcu}, {djica}, {xagji}, {pinxe}.'
+    glosses:
+    - dorst
+  zh:
+    place structure: x1想要喝饮料/液体x2；x1是口渴的
+    notes:
+    - 参见 {nitcu}, {djica}, {xagji}, {pinxe}.
+    glosses:
+    - No glosses.

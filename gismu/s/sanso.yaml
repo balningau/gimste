@@ -1,7 +1,69 @@
-Word: sanso
-Rafsi: ''
-Definition: x1 is a sauce/topping/gravy/frosting for use with x2, containing ingredient(s)
-  including x3.
-Notes: $x_3$ is in $x_1$, an ingredient/part/component of sauce $x_1$.  See also {sanmi},
-  {mixre}, {stasu}.
-Examples: None
+word: sanso
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sauce/topping/gravy/frosting for use with x2, containing
+      ingredient(s) including x3.
+    notes:
+    - x3 is in x1, an ingredient/part/component of sauce x1.  See also {sanmi}, {mixre},
+      {stasu}.
+    glosses:
+    - sauce
+  de:
+    place structure: x1 ist eine Soße/ein Belag/Zuckerguss zur Verwendung mit x2 und
+      enthält Zutat(en) unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Soße
+  es:
+    place structure: x1 es una salsa para usar con x2 con ingredientes x3
+    notes:
+    - No notes.
+    glosses:
+    - salsa
+  ru:
+    place structure: x1 — соус/подлива/{глазурь} для употребления с x2, содержащий
+      x3
+    notes:
+    - x2 входит в x1, есть компонент/ингредиент соуса x1 {sanmi} (трапеза), {mixre}
+      (смесь), {stasu} (суп)
+    glosses:
+    - соус
+  en-simple:
+    place structure: x1 is a sauce or gravy for use with x2 containing x3
+    notes:
+    - No notes.
+    glosses:
+    - a sauce
+    - x2=something accompanied by sauce
+    - x3=an ingredient of a sauce
+  eo:
+    place structure: x1 estas saŭco/suko por uzo kun x2, enhavanta ingrediencojn inkluzivantajn
+      x3-on
+    notes:
+    - x3 estas en x1, ingredienco/parto/ero de saŭco x1.  Vidu ankaŭ {sanmi}, {mixre},
+      {stasu}.
+    glosses:
+    - saŭco
+  hu:
+    place structure: x1 egy szósz/mártás/öntet x2-hez, x3 összetevőkkel
+    notes:
+    - '(Lásd még: {sanmi}, {mixre}, {stasu})'
+    glosses:
+    - szósz
+  ja:
+    place structure: x1 は x2 （用途）・ x3 （成分）のソース／トッピング／グレイビー／糖衣
+    notes:
+    - ・大意： ソース ・読み方： サンソ ・関連語： {sanmi}, {mixre}, {stasu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是酱，具有用途x2，包含组分x3
+    notes:
+    - x3是x1中的组分/配方；参见 {sanmi}, {mixre}, {stasu}.
+    glosses:
+    - No glosses.

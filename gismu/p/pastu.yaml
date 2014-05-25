@@ -1,6 +1,68 @@
-Word: pastu
-Rafsi: pas
-Definition: x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment]
-  of material x2.
-Notes: Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}.
-Examples: None
+word: pastu
+rafsi:
+- pas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full
+      body garment] of material x2.
+    notes:
+    - Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}.
+    glosses:
+    - dress (garment)
+    - robe
+  de:
+    place structure: x1 ist eine Robe/Tunika/ein Gewand/Umhang/Kleid [lange/Ganzkörperbekleidung]
+      aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Robe
+  es:
+    place structure: x1 es una túnica/vestido/sotana/sobretodo (prenda de vestir)
+      de material x2
+    notes:
+    - No notes.
+    glosses:
+    - túnica
+  ru:
+    place structure: x1 — платье/туника/мантия/комбинезон (длинная/закрывающая все
+      тело одежда) из материала x2
+    notes:
+    - См. {paspalku} {kosta} (пальто), {taxfu} (одежда), {palku} (штаны)
+    glosses:
+    - x1=платье
+  en-simple:
+    place structure: x1 is a robe or gown of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a robe
+    - x2=a material of a robe
+  eo:
+    place structure: x1 estas robo/tuniko/talaro/mantelo [longa/tutkorpa vesto] el
+      materialo x2
+    notes:
+    - 'Ankaŭ: surtuto, supervesto (= {paspalku}).  Vidu ankaŭ {kosta}, {taxfu}, {palku}.'
+    glosses:
+    - robo
+  hu:
+    place structure: x1 egy ruha/dressz/kosztüm/tunika/köpeny/köntös/reverenda [teljes
+      testet fedő ruhadarab] x2 anyagból
+    notes:
+    - '(Lásd még: {kosta}, {taxfu}, {palku})'
+    glosses:
+    - dressz
+  ja:
+    place structure: x1 は（素材）のローブ／チュニック／ガウン
+    notes:
+    - ・大意： ローブ ・読み方： パストゥ  ・関連語： {kosta}, {taxfu}, {palku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是长袍/斗篷（长而覆盖全身的服饰），由材料x2制成
+    notes:
+    - 套装/连体服= {paspalku}；参见 {kosta}, {taxfu}, {palku}.
+    glosses:
+    - No glosses.

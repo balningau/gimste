@@ -1,6 +1,76 @@
-Word: curve
-Rafsi: cuv
-Definition: x1 is pure/unadulterated/unmitigated/simple in property x2 (ka).
-Notes: $x_1$ is simply/purely/unmitigatedly/solely $x_2$.  See also {prane}, {jinsa},
-  {manfo}, {sampu}, {sepli}, {traji}, {lumci}, {xukmi}.
-Examples: None
+word: curve
+rafsi:
+- cuv
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is pure/unadulterated/unmitigated/simple in property x2 (ka).
+    notes:
+    - x1 is simply/purely/unmitigatedly/solely x2.  See also {prane}, {jinsa}, {manfo},
+      {sampu}, {sepli}, {traji}, {lumci}, {xukmi}.
+    glosses:
+    - pure
+  de:
+    place structure: x1 ist rein/unverfälscht in Eigenschaft x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - rein
+  es:
+    place structure: x1 es puro/no adulterado en propiedad x2
+    notes:
+    - Ver también {prane},  {manfo}.
+    glosses:
+    - puro
+  ru:
+    place structure: x1 — чистый/неразбавленный/неподдельный в отношении свойства
+      x2 ({ka})
+    notes:
+    - x1 — абсолютно/подлинно x2 (какой) {prane} (совершенный), {jinsa} (чистый [очищенный]),
+      {manfo} (однородный), {sampu} (простой [несложный]), {sepli} (отделенный), {traji}
+      (самый), {lumci} (мыть), {xukmi} (доза [химического вещества])
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is pure in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something pure
+    - x2=a property of pureness
+  eo:
+    place structure: x1 estas pura/unusubstanca/absoluta/simpla en eco x2 (ka)
+    notes:
+    - x1 estas simple/pure/senmodere/sole x2.  Vidu ankaŭ {prane}, {jinsa}, {manfo},
+      {sampu}, {sepli}, {traji}, {lumci}, {xukmi}.
+    glosses:
+    - No glosses.
+  hu:
+    place structure: x1 színtiszta/hamisítatlan x2 tulajdonságában
+    notes:
+    - '(Lásd még: {prane}, {jinsa}, {manfo}, {sampu}, {sepli}, {traji}, {lumci}, {xukmi})'
+    glosses:
+    - színtiszta
+  ja:
+    place structure: x1 は x2 （性質）に関して純粋
+    notes:
+    - ・大意： 純粋 ・読み方： シュルヴェ  ・関連語： {prane}, {jinsa}, {manfo}, {sampu}, {sepli}, {traji},
+      {lumci}, {xukmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ren [ej beblandad med föroreningar]/oförfalskad/okonstlad/genuin/oförminskad
+      i egenskap x2 (ka).
+    notes:
+    - x1 (består av)/är endast/enbart/helt och hållet x2.
+    glosses:
+    - enkel (okonstlad)
+    - okonstlad
+    - ren (ej beblandad/(förorenad) med andra egenskaper)
+  zh:
+    place structure: x1是纯粹的/纯净的/单纯的，在性质x2（ka）上
+    notes:
+    - 参见 {prane}, {jinsa}, {manfo}, {sampu}, {sepli}, {traji}, {lumci}, {xukmi}.
+    glosses:
+    - No glosses.

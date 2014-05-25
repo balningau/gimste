@@ -1,6 +1,92 @@
-Word: bradi
-Rafsi: ''
-Definition: x1 is an enemy/opponent/adversary/foe of x2 in struggle x3.
-Notes: See also {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna},
-  {jinga}.
-Examples: None
+word: bradi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an enemy/opponent/adversary/foe of x2 in struggle x3.
+    notes:
+    - See also {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna},
+      {jinga}.
+    glosses:
+    - enemy
+  de:
+    place structure: x1 ist Gegner/Kontrahent/Widersacher von x2 im Kampf/in der Auseinandersetung
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Gegner
+  es:
+    place structure: x1 es un enemigo/oponente/contendiente/adversario/antagonista
+      de x2 en lucha x3
+    notes:
+    - Ver también {damba},  {jamna}.
+    glosses:
+    - enemigo
+  ru:
+    place structure: x1 — противник/оппонент/враг x2 (чей) в конфликте/противостоянии
+      x3
+    notes:
+    - '{damba} (драться), {jamna} (воевать), {darlu} (отстаивать [позицию]), {pendo}
+      (друг), {fapro} (противостоять), {gunta} (нападать), {sarji} (поддерживать [помогать]),
+      {jivna} (соревноваться), {jinga} (выигрывать [побеждать])'
+    glosses:
+    - враг
+    - x3=конфликт
+  en-simple:
+    place structure: x1 is an enemy of x2 in struggle x3
+    notes:
+    - No notes.
+    glosses:
+    - an enemy
+    - x2=something with an enemy
+    - x3=a struggle between enemies
+  eo:
+    place structure: x1 estas malamiko/oponanto/kontraŭulo de x2 en barakto x3
+    notes:
+    - Vidu ankaŭ {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna},
+      {jinga}.
+    glosses:
+    - malamiko
+  hu:
+    place structure: x1 egy ellensége/rosszakarója/ellenfele/vetélytársa x2-nek x3
+      küzdelemben
+    notes:
+    - '(Lásd még: {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna},
+      {jinga})'
+    glosses:
+    - ellenség
+  ja:
+    place structure: x1 は x2 の、 x3 （抗争）における敵／敵対者／対抗者／相手／試合相手
+    notes:
+    - ・大意： 敵 ・読み方： ブラディ  ・語呂合わせ：  敵は血みどろブラッディ ・関連語： {damba}, {jamna}, {darlu}, {pendo},
+      {fapro}, {gunta}, {sarji}, {jivna}, {jinga}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en fiende/motstander av x2 i strid x3
+    notes:
+    - Se óg {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna},
+      {jinga}, {xebni}, {xrani}, {daspo}, {bandu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en fiende/motståndare/motspelare/motpart/antagonist till
+      x2 i strid/kamp x3.
+    notes:
+    - No notes.
+    glosses:
+    - motpart
+    - motståndare
+    - strid (mot en fiende)
+    - x1=fiende
+    - x2=rival (part i konflikt/strid)
+    - x3=kamp (mot en fiende)
+  zh:
+    place structure: x1是与x2敌对的/是x2的敌人，两者为x3争斗
+    notes:
+    - 参见 {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna}, {jinga}.
+    glosses:
+    - No glosses.

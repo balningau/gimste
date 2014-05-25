@@ -1,6 +1,84 @@
-Word: cukla
-Rafsi: cuk
-Definition: x1 is round/circular [2-dimensional shape/form]; x1 is a disk/circle/ring.
-Notes: Normally used for a filled-in circle/disk, but emphasis on roundness means
-  that the concept may include 'ring'.  See also {djine}, {ranji}, {bolci}, {tarmi}.
-Examples: None
+word: cukla
+rafsi:
+- cuk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is round/circular [2-dimensional shape/form]; x1 is a disk/circle/ring.
+    notes:
+    - Normally used for a filled-in circle/disk, but emphasis on roundness means that
+      the concept may include 'ring'.  See also {djine}, {ranji}, {bolci}, {tarmi}.
+    glosses:
+    - round (2-dimensional)
+    - x1=circle (disk)
+  jbo:
+    place structure: x1 se cimde re da ije lo jimte be x1 cu manfo lo ka ce'u sepli
+      lo midju be x1 makau
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist rund/kreisförmig [zweidimensionale Form]; x1 ist ein Kreis/Ring/eine
+      Scheibe
+    notes:
+    - No notes.
+    glosses:
+    - rund
+  es:
+    place structure: x1 es redondo/circular/disco
+    notes:
+    - Ver también {djine}.
+    glosses:
+    - redondo
+  ru:
+    place structure: x1 — круглый/круговой (2-мерная форма); x1 — диск/круг/кольцо
+    notes:
+    - Обычно описывает заполненный круг/диск, хотя акцент на круглой форме позволяет
+      в принципе включить сюда и «кольцо» {djine} (кольцо), {ranji} (продолжаться),
+      {bolci} (шар), {tarmi} (идея [концептуальная форма])
+    glosses:
+    - x1=круглый
+  en-simple:
+    place structure: x1 is round
+    notes:
+    - No notes.
+    glosses:
+    - something round
+  eo:
+    place structure: x1 estas ronda/cirkla [2-dimensia formo]; x1 estas disko/cirklo/ringo
+    notes:
+    - Normale uzata por plena cirklo/disko, sed emfazo je rondeco signifas ke la koncepto
+      povas inkluzivi 'ringon'.  Vidu ankaŭ {djine}, {ranji}, {bolci}, {tarmi}.
+    glosses:
+    - ronda
+  hu:
+    place structure: x1 kerek [a síkban]; x1 egy kör(lap/-lemez/-gyűrű)
+    notes:
+    - '(Lásd még: {djine}, {ranji}, {bolci}, {tarmi})'
+    glosses:
+    - kerek
+  ja:
+    place structure: x1 は（二次元的に）円い；  x1 は円／ディスク
+    notes:
+    - ・大意： 円い ・読み方： シュクルァ ・語呂合わせ： cuan（円）, circle ・関連語： {djine}, {ranji}, {bolci},
+      {tarmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är rund/cirkulär [2-dimensionell form]; x1 är en skiva/cirkel/ring.
+    notes:
+    - Används normalt för en cirkel/skiva, men betoningen på rundhet betyder att detta
+      begrepp kan inkludera "ring".
+    glosses:
+    - cirkulär (2-dimensionell form)
+    - rund (cirkulär 2-dimensionell form)
+    - skiva (cirkulär 2-dimensionell form)
+    - x1=cirkel
+  zh:
+    place structure: x1是圆/圆形的物体
+    notes:
+    - 一般指实心的圆，但因为其强调的是“圆”形状，所以其也可能指圆环；参见 {djine}, {ranji}, {bolci}, {tarmi}.
+    glosses:
+    - No glosses.

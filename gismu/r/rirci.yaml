@@ -1,7 +1,73 @@
-Word: rirci
-Rafsi: ''
-Definition: x1 [member] is rare/unusual/uncommon/atypical in property x2 (ka) among
-  members of x3 (set).
-Notes: ($x_3$ is complete specification of set); (cf. {cizra}, {fadni}, {cafne}, {kampu},
-  {cnano} - the generalized opposite to any/all of these concepts)
-Examples: None
+word: rirci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [member] is rare/unusual/uncommon/atypical in property x2
+      (ka) among members of x3 (set).
+    notes:
+    - (x3 is complete specification of set); (cf. {cizra}, {fadni}, {cafne}, {kampu},
+      {cnano} - the generalized opposite to any/all of these concepts)
+    glosses:
+    - rare
+    - special (distinguished by a unique/unusual quality)
+  de:
+    place structure: x1 [Mengenelement] ist selten/ungewöhnlich/außergewöhnlich/untypisch
+      in Eigenschaft x2 (ka) unter Elementen von Menge x3 (Menge)
+    notes:
+    - No notes.
+    glosses:
+    - selten
+  es:
+    place structure: x1 es raro/inusual/poco común/atípico/extraño en propiedad x2
+      entre miembros de x3
+    notes:
+    - Ver también {fadni},  {cafne},  {cizra}.
+    glosses:
+    - raro
+  ru:
+    place structure: x1 — редкий/необычный/нетипичный в отношении свойства x2 ({ka})
+      член множества x3
+    notes:
+    - x3 — полное описание множества; антоним к {fadni}, {cafne}, {kampu}, {cnano}
+      {cizra} (странный)
+    glosses:
+    - редкий
+  en-simple:
+    place structure: x1 is rare or unusual in property x2 among x3
+    notes:
+    - No notes.
+    glosses:
+    - something rare
+    - x2=a property of rareness
+    - x3=a group in which something is rare
+  eo:
+    place structure: x1 [membro] estas rara/malofta/nekutima/ekterordinara en eco
+      x2 (ka) inter membroj de x3 (aro)
+    notes:
+    - (x3 estas kompleta specifado de aro); (kp. cizra, fadni, cafne, kampu, cnano
+      - la ĝenerala malo de iu/ĉiu el ĉi tiuj konceptoj)
+    glosses:
+    - rara
+  hu:
+    place structure: x1 ritka/szokatlan/atipikus x2 tulajdonságban, az x3 halmaz elemei
+      között
+    notes:
+    - '(Lásd még: {cizra}, {fadni}, {cafne}, {kampu}, {cnano})'
+    glosses:
+    - ritka
+  ja:
+    place structure: x1 は x2 （性質）に関して、 x3 （集合）において珍しい／稀有
+    notes:
+    - ・大意： 珍しい ・読み方： リルシ  ・語呂合わせ： 珍しいし借りるし ・関連語： {cizra}, {fadni}, {cafne}, {kampu},
+      {cnano}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（集合中的元素）是稀有的/罕见的/鲜见的/非典型的，在性质x2（ka）上，在集合x3中
+    notes:
+    - x3是完整指明的集合；参见 {cizra}, {fadni}, {cafne}, {kampu}, {cnano}
+    glosses:
+    - No glosses.

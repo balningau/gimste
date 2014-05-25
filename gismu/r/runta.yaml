@@ -1,7 +1,76 @@
-Word: runta
-Rafsi: ''
-Definition: x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions
-  x4.
-Notes: Suspension (= {pucyteryrunta}, {pu'exre}).  See also {litki}, {mixre}, {sligu},
-  {sudga}.
-Examples: None
+word: runta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 dissolves in solvent x2 forming solution/[suspension] x3 under
+      conditions x4.
+    notes:
+    - Suspension (= {pucyteryrunta}, {pu'exre}).  See also {litki}, {mixre}, {sligu},
+      {sudga}.
+    glosses:
+    - dissolve
+  de:
+    place structure: x1 löst sich in Lösungsmittel x2 und bildet eine Lösung/[Suspension]
+      x3 unter Bedingungen x4
+    notes:
+    - No notes.
+    glosses:
+    - lösen
+  es:
+    place structure: x1 se disuelve en solvente x2 para formar solución x3 en proporción
+      x4 bajo condiciones x5
+    notes:
+    - No notes.
+    glosses:
+    - disolverse
+  ru:
+    place structure: x1 растворяется в растворителе x2, образуя раствор/{взвесь} x3
+      в условиях x4
+    notes:
+    - 'Взвесь/суспензия: {pucyteryrunta}, {pu''exre} {litki} (жидкость), {mixre} (смесь),
+      {sligu} (твердый [состояние вещества]), {sudga} (сухой)'
+    glosses:
+    - растворяться
+    - x1=растворяющийся
+    - x2=растворитель
+    - x3=раствор
+  en-simple:
+    place structure: x1 dissolves in x2 making solution x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something dissolving
+    - x2=something dissolved in
+    - x3=a solution in which something is dissolved
+    - x3=the solution in which something is dissolved
+    - x4=a condition of dissolving
+  eo:
+    place structure: x1 solviĝas en solvilo x2 formante solvaĵon/[suspension] x3 sub
+      kondiĉoj x4
+    notes:
+    - Suspensio (= {pucyteryrunta}, {pu'exre}).  Vidu ankaŭ {litki}, {mixre}, {sligu},
+      {sudga}.
+    glosses:
+    - solviĝi
+  hu:
+    place structure: x1 (fel)oldódik x2 oldószerben, x3 oldatot alkotva, x4 körülmények
+      között
+    notes:
+    - '(Lásd még: {litki}, {mixre}, {sligu}, {sudga})'
+    glosses:
+    - oldódik
+  ja:
+    place structure: x1 は x2 （溶媒）の中で分解／分散し、 x3 （溶液）を成す、 x4 （条件）において；  x1 はばらける
+    notes:
+    - ・大意： 分散 ・読み方： ルンタ  ・語呂合わせ： ばらけるンた ・関連語： {litki}, {mixre}, {sligu}, {sudga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（溶质）溶解在溶剂x2中，成为溶液x3，在条件x4下
+    notes:
+    - 悬浊液= {pucyteryrunta}, {pu'exre}；参见 {litki}, {mixre}, {sligu}, {sudga}.
+    glosses:
+    - No glosses.

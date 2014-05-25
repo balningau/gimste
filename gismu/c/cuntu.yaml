@@ -1,7 +1,80 @@
-Word: cuntu
-Rafsi: cu'u
-Definition: x1 is an affair/organized activity involving person(s) x2 (ind./mass);
-  x1 is x2's business.
-Notes: Also matter, concern; $x_2$ is engaged in $x_1$ (which is usually an abstraction)
-  (= {selcu'u} for reordered places). See also {jikca}, {srana}.
-Examples: None
+word: cuntu
+rafsi:
+- cu'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an affair/organized activity involving person(s) x2 (ind./mass);
+      x1 is x2's business.
+    notes:
+    - Also matter, concern; x2 is engaged in x1 (which is usually an abstraction)
+      (= {selcu'u} for reordered places). See also {jikca}, {srana}.
+    glosses:
+    - affair
+  de:
+    place structure: x1 ist eine Angelegenheit/organisierte Aktivität mit Person(en)
+      x2 (einzeln/Masse); x1 ist die Angelegenheit von x2
+    notes:
+    - No notes.
+    glosses:
+    - Angelegenheit
+  es:
+    place structure: x1 (evento) es un asunto/actividad de x2
+    notes:
+    - No notes.
+    glosses:
+    - asunto
+  ru:
+    place structure: x1 — дело/бизнес/предприятие/{организованная деятельность} с
+      участниками x2
+    notes:
+    - 'x2 занят/участвует/вовлечен в x1 (обычно абстракция): {selcu''u} с переставленными
+      местами {jikca} (общаться [социально взаимодействовать]), {srana} (иметь отношение
+      [к чему-либо])'
+    glosses:
+    - x1=дело (бизнес)
+  en-simple:
+    place structure: x1 is an affair or organized activity involving people x2
+    notes:
+    - No notes.
+    glosses:
+    - an affair
+    - x2=something involved in an affair
+  eo:
+    place structure: x1 estas afero/organizita agado de/implikante homo(j)n x2 (ind./mass)
+    notes:
+    - 'Ankaŭ: koncerni; x2 estas implikita en x1 (kiu ĝenerale estas abstraktaĵo)
+      (= selcu''u por reordigitaj {lokoj}). Vidu ankaŭ {jikca}, {srana}.'
+    glosses:
+    - afero
+  hu:
+    place structure: x1 egy ügy/szervezett tevékenység, amelyben x2 érdekelt
+    notes:
+    - '(Lásd még: {jikca}, {srana})'
+    glosses:
+    - ügy
+  ja:
+    place structure: x1 は x2 （者）が関わる沙汰／事態／催し
+    notes:
+    - 「あなたには関係のない事でしょ」などの「事」。 ・大意： 沙汰 ・読み方： シュントゥ  ・語呂合わせ： 春闘の催し ・関連語： {fasnu} (上位概念),
+      {jikca}, {srana}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en affär/angelägenhet vilket involverar person(er) x2 [individ/massa];
+      x1 är x2s ensak.
+    notes:
+    - Även ärende, bekymmer, huvudbry.
+    glosses:
+    - affär (ärende)
+    - angelägenhet
+    - ärende (organiserad aktivitet)
+    - x1=affär
+    - x2=engagerad (i en angelägenhet/affär)
+  zh:
+    place structure: x1是事务/有组织的行动，属于x2（个体/团体）；x1是x2的事情
+    notes:
+    - x2从事/进行着x1 （通常是谓词子句）；参见 {jikca}, {srana}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,66 @@
-Word: palta
-Rafsi: ''
-Definition: x1 is a plate/dish/platter/saucer [flat/mildly concave food service bed]
-  made of material x2.
-Notes: See also {ckana}, {palne}, {kabri}, {tansi}, {ckana}.
-Examples: None
+word: palta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a plate/dish/platter/saucer [flat/mildly concave food service
+      bed] made of material x2.
+    notes:
+    - See also {ckana}, {palne}, {kabri}, {tansi}, {ckana}.
+    glosses:
+    - plate
+  de:
+    place structure: x1 ist ein Teller/eine (flache) Schale/Untertasse [flach/leicht
+      konkave Form für Essen] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Teller
+  es:
+    place structure: x1 es un plato/platillo (forma) de material x2
+    notes:
+    - Ver también {ckana},  {palne},  {kabri}.
+    glosses:
+    - plato
+  ru:
+    place structure: x1 — тарелка/блюдо/блюдце (плоское/умеренно вогнутое ложе для
+      пищи) из материала x2
+    notes:
+    - '{ckana} (кровать), {palne} (поднос), {kabri} (чашка), {tansi} (миска), {ckana}
+      (кровать)'
+    glosses:
+    - x1=тарелка
+  en-simple:
+    place structure: x1 is a plate or saucer made of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a plate
+    - x2=a material of a plate
+  eo:
+    place structure: x1 estas telero/plado/subtaso [plata/iom kava vazo el kie manĝi]
+      el materialo x2
+    notes:
+    - Vidu ankaŭ {ckana}, {palne}, {kabri}, {tansi}, {ckana}.
+    glosses:
+    - telero
+  hu:
+    place structure: x1 egy tányér/csészealj [lapos/kissé homorú étkezőedény] x2 anyagból
+    notes:
+    - '(Lásd még: {ckana}, {palne}, {kabri}, {tansi}, {ckana})'
+    glosses:
+    - tányér
+  ja:
+    place structure: x1 は x2 （素材）の皿
+    notes:
+    - ・大意： 皿 ・読み方： パルゥタ  ・関連語： {ckana}, {palne}, {kabri}, {tansi}, {ckana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是平浅的食物摆放太（如：盘子/碟子），由材料x2制成
+    notes:
+    - 参见 {ckana}, {palne}, {kabri}, {tansi}, {ckana}.
+    glosses:
+    - No glosses.

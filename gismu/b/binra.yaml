@@ -1,7 +1,98 @@
-Word: binra
-Rafsi: ''
-Definition: x1 insures/indemnifies x2 (person) against peril x3 (event) providing
-  benefit(s) x4 (event).
-Notes: Also $x_3$ loss; sell/purchase insurance (= {binryve'u}), premium (= {binrydi'a},
-  or {binryvelve'u}).  See also {bandu}, {cirko}, {betri}, {basti}, {bilma}.
-Examples: None
+word: binra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 insures/indemnifies x2 (person) against peril x3 (event) providing
+      benefit(s) x4 (event).
+    notes:
+    - Also x3 loss; sell/purchase insurance (= {binryve'u}), premium (= {binrydi'a},
+      or {binryvelve'u}).  See also {bandu}, {cirko}, {betri}, {basti}, {bilma}.
+    glosses:
+    - insure
+  de:
+    place structure: x1 versichert/entschädigt/hält schadlos x2 vor/gegen Gefahr x3
+      (Ereignis) und bietet Nutzen/Vorteil x4
+    notes:
+    - No notes.
+    glosses:
+    - versichern
+  es:
+    place structure: x1 asegura/indemniza a x2 contra eventualidad x3 (evento) por
+      monto x4 con beneficios x5
+    notes:
+    - No notes.
+    glosses:
+    - asegurar
+  ru:
+    place structure: x1 страхует/гарантирует x2 (лицо) от риска x3 (событие), предоставляя
+      компенсацию x4 (событие)
+    notes:
+    - 'x3 также: потери; продавать страховку: {binryve''u}, страховая премия: {binrydi''a},
+      {binryvelve''u} {bandu} (защищать), {cirko} (терять), {betri} (беда), {basti}
+      (заменять), {bilma} (больной)'
+    glosses:
+    - страховать
+    - x1=страхующий
+    - x2=страхуемый
+    - x3=риск страхования
+    - x4=компенсация страхования
+  en-simple:
+    place structure: x1 insures x2 against threat x3 with benefit x4
+    notes:
+    - No notes.
+    glosses:
+    - an insurer
+    - x2=something insured
+    - x3=an insured threat
+    - x4=an insurance benefit
+  eo:
+    place structure: x1 asekuras/garantias/kompensas homon x2 kontraŭ danĝero x3 (okazo)
+      provizante x4-on (okazo)
+    notes:
+    - 'Ankaŭ: x3 perdo; vendi/aĉeti asekuron (= {binryve''u}), premiumo (= binrydi''a,
+      aŭ binryvelve''u).  Vidu ankaŭ {bandu}, {cirko}, {betri}, {basti}, {bilma}.'
+    glosses:
+    - asekuri
+  hu:
+    place structure: x1 biztosítja x2-t [személy] x3 veszély [esemény] ellen, x4 előny(öke)t
+      nyújtva
+    notes:
+    - '(Lásd még: {bandu}, {cirko}, {betri}, {basti}, {bilma})'
+    glosses:
+    - biztosít
+  ja:
+    place structure: x1 は x2 （者）を x3 （危険／損害）にたいして x4 （特典）で保証／保障／補償する
+    notes:
+    - 「保険」も。 ・大意： 保証 ・読み方： ビンラ  ・語呂合わせ： ＜ビンのランク＞, ビンラディンを保障,  insure  ・関連語： {bandu},
+      {cirko}, {betri}, {basti}, {bilma}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 forsikrer x2 (person) mot mot fare x3 (hendelse) med fordeler
+      x4
+    notes:
+    - Se óg {binryve'u} (selge/kjøpe forsikring) {binrydi'a} (forsikringspremie),
+      {bandu}, {cirko}, {betri}, {basti}, {bilma}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 försäkrar x2 mot risk (framtida förlust/skada/ansvar) x3 vilket
+      ger fördelar x4.
+    notes:
+    - Se även {binryve'u} (sälja/köpa försäkring), {binrydi'a} (försäkringspremium),
+      {bandu}, {cirko}, {betri}, {basti}, {bilma}.
+    glosses:
+    - försäkra (mot framtida risk (förlust/skada/ansvar))
+    - x1=försäkrare
+    - x2=försäkrad
+    - x3=försäkringsvillkor
+    - x4=försäkringsfördel
+  zh:
+    place structure: x1确保x2（人）抵抗危险x3（事件），有益于/有利于x4（事件）
+    notes:
+    - 也指：x3损失/损害；参见{bandu}, {cirko}, {betri}, {basti}, {bilma}
+    glosses:
+    - No glosses.

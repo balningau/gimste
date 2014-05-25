@@ -1,7 +1,74 @@
-Word: krefu
-Rafsi: ref, ke'u
-Definition: x1 (event) is the x3'rd recurrence/repetition of x2 (abstract); x2 happens
-  again in [form] x1.
-Notes: Also case, another, instance, different, other, time, occasion.  See also {fukpi},
-  {rapli}, {cafne}, {fasnu}, {xruti}.
-Examples: None
+word: krefu
+rafsi:
+- ref
+- ke'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) is the x3'rd recurrence/repetition of x2 (abstract);
+      x2 happens again in [form] x1.
+    notes:
+    - Also case, another, instance, different, other, time, occasion.  See also {fukpi},
+      {rapli}, {cafne}, {fasnu}, {xruti}.
+    glosses:
+    - recur
+  de:
+    place structure: x1 (Ereignis) ist die x3.te Wiederholung/Wiederkehr von x2 (Abstraktion);
+      x2 wiederholt sich in [Form von] x1
+    notes:
+    - No notes.
+    glosses:
+    - wiederkehren
+  es:
+    place structure: x1 (evento) es la x3-sima recurrencia/repetición de x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - repetirse
+  ru:
+    place structure: x1 — повторение события x2 в x3-й раз
+    notes:
+    - 'Также: снова, опять {fukpi} (копия), {rapli} (повторяться), {cafne} (часто),
+      {fasnu} (происходить [случаться]), {xruti} (возвращать)'
+    glosses:
+    - повторяться
+    - x1=повторяющийся
+    - x2=повторяющееся событие
+    - x3=раз (повторения события)
+  en-simple:
+    place structure: x1 is a recurrence of x2 happening for the x3:th time
+    notes:
+    - No notes.
+    glosses:
+    - a recurrence
+    - x2=something that recurs
+    - x3=a number of a recurrence
+  eo:
+    place structure: x1 (okazo) estas la x3-a reokazo/ripeto de x2 (abstraktaĵo);
+      x2 okazas denove en [formo] x1
+    notes:
+    - 'Ankaŭ: kazo, fojo, denove, refoje.  Vidu ankaŭ {fukpi}, {rapli}, {cafne}, {fasnu},
+      {xruti}.'
+    glosses:
+    - reokazi
+  hu:
+    place structure: x1 esemény a megismétlése / újabb előfordulása/esete x2-nek (fogalom)
+      az x3-edik alkalommal
+    notes:
+    - '(Lásd még: {fukpi}, {rapli}, {cafne}, {fasnu}, {xruti})'
+    glosses:
+    - ismétlés
+  ja:
+    place structure: x1 （事）は x2 （事）の x3 （数）度目の繰り返し／再発；  x2 は繰り返す
+    notes:
+    - ・大意： 繰り返し ・読み方： クレフゥ  ・語呂合わせ： 再発やめてくれ、フゥ ・関連語： {fukpi}, {rapli}, {cafne}, {fasnu},
+      {xruti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件）是x2（谓词子句）的第x3次重复/循环/再现
+    notes:
+    - 也指：另一/再一；参见 {fukpi}, {rapli}, {cafne}, {fasnu}, {xruti}.
+    glosses:
+    - No glosses.

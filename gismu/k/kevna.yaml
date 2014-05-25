@@ -1,7 +1,76 @@
-Word: kevna
-Rafsi: kev, ke'a
-Definition: x1 is a cavity/hole/hollow/cavern in x2; x1 is concave within x2; x2 is
-  hollow at locus x1.
-Notes: Also pit, depression, concavity; hollow (= {selke'a}).  See also {fenra}, {kunti},
-  {canlu}, {canko}, {galxe}, {tubnu}.
-Examples: None
+word: kevna
+rafsi:
+- kev
+- ke'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cavity/hole/hollow/cavern in x2; x1 is concave within
+      x2; x2 is hollow at locus x1.
+    notes:
+    - Also pit, depression, concavity; hollow (= {selke'a}).  See also {fenra}, {kunti},
+      {canlu}, {canko}, {galxe}, {tubnu}.
+    glosses:
+    - cavity
+    - hole (cavity)
+  de:
+    place structure: x1 ist eine Höhle / ein Loch / eine Einbuchtung in x2; x1 ist
+      konkav innerhalb von x2; x2 ist hohl an x1.
+    notes:
+    - Auch Grube; Hohl (= {selke'a}). Siehe auch {fenra}, {kunti}, {canlu}, {canko},
+      {galxe}, {tubnu}.
+    glosses:
+    - Höhle
+    - Loch
+  es:
+    place structure: x1 es una cueva/cavidad/hoyo/pozo/caverna en x2
+    notes:
+    - Ver también {fenra}.
+    glosses:
+    - cueva
+  ru:
+    place structure: x1 — впадина/выемка/каверна/полость/углубление в x2; x2 — вогнутый/полый
+      в участке x1
+    notes:
+    - 'Также: яма, ямка, пещера, дупло, лунка; пустотелый: {selke''a} {fenra} (трещина),
+      {kunti} (пустой), {canlu} (объем), {canko} (окно), {galxe} (горло), {tubnu}
+      (трубка)'
+    glosses:
+    - впадина
+    - x2=имеющий впадину
+  en-simple:
+    place structure: x1 is a cavity or hole in x2
+    notes:
+    - No notes.
+    glosses:
+    - a cavity
+    - x2=something with a cavity
+  eo:
+    place structure: x1 estas truo/kavaĵo/kaverno en x2; x1 estas konkava interne
+      de x2; x2 estas kava je loko x1
+    notes:
+    - 'Ankaŭ: puto, konkavo; kava (= {selke''a}).  Vidu ankaŭ {fenra}, {kunti}, {canlu},
+      {canko}, {galxe}, {tubnu}.'
+    glosses:
+    - truo
+  hu:
+    place structure: x1 egy üreg/gödör/barlang x2-ben; x2 konkáv/üreges x1 helyen
+    notes:
+    - '(Lásd még: {fenra}, {kunti}, {canlu}, {canko}, {galxe}, {tubnu})'
+    glosses:
+    - üreg
+  ja:
+    place structure: x1 は x2 の穴；  x2 は x1 （箇所）において貫通している
+    notes:
+    - ・大意： 穴 ・読み方： ケヴナ ・語呂合わせ： ケイヴ（洞窟）穴 ・関連語： {fenra}, {kunti}, {canlu}, {canko},
+      {galxe}, {tubnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2上的孔/洞/凹陷处；x2是具有在x1位置处是有漏洞的
+    notes:
+    - 也指：陷阱/矿洞/凹点/洼地；有凹点的/有洞的= {selke'a}；参见 {fenra}, {kunti}, {canlu}, {canko}, {galxe},
+      {tubnu}.
+    glosses:
+    - No glosses.

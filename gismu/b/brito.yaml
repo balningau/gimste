@@ -1,5 +1,80 @@
-Word: brito
-Rafsi: rit
-Definition: x1 reflects British/United Kingdom culture/nationality in aspect x2.
-Notes: See also {glico}, {skoto}, {merko}, {ropno}.
-Examples: None
+word: brito
+rafsi:
+- rit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects British/United Kingdom culture/nationality in aspect
+      x2.
+    notes:
+    - See also {glico}, {skoto}, {merko}, {ropno}.
+    glosses:
+    - British
+  de:
+    place structure: x1 spiegelt die britische/nordirländische Kultur/Nationalität
+      in Aspekt x2 wieder.
+    notes:
+    - Siehe auch {glico}, {skoto}, {merko}, {ropno}.
+    glosses:
+    - britisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma británico/del Reino Unido
+      en aspecto x2
+    notes:
+    - Ver también {glico},  {skoto},  {merko}.
+    glosses:
+    - británico
+  ru:
+    place structure: x1 — британский в аспекте x2
+    notes:
+    - '{glico} (английский), {skoto} (кельтский), {merko} (американский [США]), {ropno}
+      (европейский)'
+    glosses:
+    - x1=британский
+  en-simple:
+    place structure: x1 is British in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something British
+    - x2=a British aspect
+  eo:
+    place structure: x1 montras britan kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {glico}, {skoto}, {merko}, {ropno}.
+    glosses:
+    - brita
+  hu:
+    place structure: x1 brit/egyesült királysági kultúrát/nemzetiséget tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {glico}, {skoto}, {merko}, {ropno})'
+    glosses:
+    - brit
+  ja:
+    place structure: x1 は x2 （性質面）に関して英国／イギリス系（言語／文化／民族／地理）
+    notes:
+    - 「イングランド」ではない。 ・大意： 英国 ・読み方： ブリト  ・関連語： {glico}, {skoto}, {merko}, {ropno}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 reflekterer britisk kultur/nasjonalitet i aspekt x2
+    notes:
+    - Se og {glico}, {skoto}, {merko} og {ropno}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar brittisk kultur/nationalitet/språk med aspekt
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - britt
+    - x1=brittisk
+    - x2=brittisk kulturell aspekt
+  zh:
+    place structure: x1是关于英国/英联邦的文化/国家等的事物，在x2方面
+    notes:
+    - 参见 {glico}, {skoto}, {merko}, {ropno}.
+    glosses:
+    - No glosses.

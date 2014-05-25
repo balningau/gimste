@@ -1,5 +1,70 @@
-Word: rigni
-Rafsi: rig
-Definition: x1 is repugnant to/causes disgust to x2 under conditions x3.
-Notes: See also {djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}.
-Examples: None
+word: rigni
+rafsi:
+- rig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is repugnant to/causes disgust to x2 under conditions x3.
+    notes:
+    - See also {djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}.
+    glosses:
+    - disgusting
+  de:
+    place structure: x1 ist abscheulich/widerlich/ekelhaft für x2 unter Bedingungen
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - abscheulich
+  es:
+    place structure: x1 repugna/disgusta/desagrada a x2 bajo condiciones x3
+    notes:
+    - Ver también {djica},  {nelci},  {trina},  {vamtu},  {xebni},  {pluka}.
+    glosses:
+    - repugnar
+  ru:
+    place structure: x1 — отвратительный/отталкивающий/мерзкий/противный/{невыносимый}
+      для x2 в условиях x3
+    notes:
+    - '{djica} (хотеть), {nelci} (любить [предпочитать]), {trina} (привлекательный),
+      {vamtu} (блевать), {xebni} (ненавидеть), {pluka} (приятный)'
+    glosses:
+    - мерзкий
+    - x2=для кого противен
+  en-simple:
+    place structure: x1 is disgusting to x2
+    notes:
+    - No notes.
+    glosses:
+    - disgusting
+    - x1=something disgusting
+    - x2=something disgusted
+    - x3=a condition of disgust
+  eo:
+    place structure: x1 estas naŭziga/abomena/malbongusta por x2 sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}.
+    glosses:
+    - naŭziga
+  hu:
+    place structure: x1 undorító/visszataszító x2 számára, x3 körülmények között
+    notes:
+    - '(Lásd még: {djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka})'
+    glosses:
+    - undorító
+  ja:
+    place structure: x1 は x2 （者）にとって x3 （条件）において不快／不愉快／いまいましい／吐き気をもよおさせる；  x2 は x1
+      に愛想を尽かす／嫌悪感を覚える
+    notes:
+    - ・大意： 不快 ・読み方： リグニ  ・語呂合わせ： repugnant ・関連語： {djica}, {nelci}, {trina}, {vamtu},
+      {xebni}, {pluka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1让 x2 反感，在 x3条件下
+    notes:
+    - 参见{djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}.
+    glosses:
+    - 作呕 (不愉快)
+    - 反感

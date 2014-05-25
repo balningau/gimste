@@ -1,6 +1,67 @@
-Word: kufra
-Rafsi: kuf
-Definition: x1 feels comfort/is comfortable with conditions/environmental property(ies)
-  x2.
-Notes: See also {cinmo}.
-Examples: None
+word: kufra
+rafsi:
+- kuf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels comfort/is comfortable with conditions/environmental
+      property(ies) x2.
+    notes:
+    - See also {cinmo}.
+    glosses:
+    - comfort
+  de:
+    place structure: x1 fühlt sich wohl/behaglich/ist zufrieden mit Bedingungen/Umgebungseigenschaft(en)
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - wohlfühlen
+  es:
+    place structure: x1 esta cómodo/confortable/a gusto con condiciones/ambiente/propiedad
+      x2 (evento)
+    notes:
+    - Ver también {burna}.
+    glosses:
+    - cómodo
+  ru:
+    place structure: x1 чувствует себя удобно/уютно/комфортабельно в условиях/обстоятельствах
+      x2; x1 (кому) удобно в условиях x2; x2 (что) удобно для x1 (кого)
+    notes:
+    - '{cinmo} (эмоциональный)'
+    glosses:
+    - чувствовать себя уютно
+    - x1=чувствующий себя уютно
+    - x2=комфортабельные условия
+  en-simple:
+    place structure: x1 is comfortable with x2
+    notes:
+    - No notes.
+    glosses:
+    - something comfortable
+    - x2=something with which something is comfortable
+  eo:
+    place structure: x1 sentas komforton sub kondiĉoj/ĉirkaŭaj ecoj x2
+    notes:
+    - Vidu ankaŭ {cinmo}.
+    glosses:
+    - senti komforton
+  hu:
+    place structure: x1 jól/kényelmesen érzi magát x2 környezetben/feltételek mellett
+    notes:
+    - '(Lásd még: {cinmo})'
+    glosses:
+    - jól érzi magát
+  ja:
+    place structure: x1 は x2 （環境性質）について快適／心地良さを感じる
+    notes:
+    - ・大意： 快適 ・読み方： クフゥラ  ・関連語： {cinmo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1感到舒适/舒服/安适，在条件/环境x2下
+    notes:
+    - 参见 {cinmo}.
+    glosses:
+    - No glosses.

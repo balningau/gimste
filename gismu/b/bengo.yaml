@@ -1,6 +1,88 @@
-Word: bengo
-Rafsi: beg
-Definition: x1 reflects Bengali/Bangladesh culture/nationality/language in aspect
-  x2.
-Notes: See also {xindo}.
-Examples: None
+word: bengo
+rafsi:
+- beg
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Bengali/Bangladesh culture/nationality/language in
+      aspect x2.
+    notes:
+    - See also {xindo}.
+    glosses:
+    - Bengali
+  de:
+    place structure: x1 repräsentiert bengalische/Bangladeshi Kultur/Nationalität/Sprache
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - bengalisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma bengalí en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - bengalí
+  fr:
+    place structure: x1 reflète/représente la culture bengale en ce qui concerne l'aspect
+      x2.
+    notes:
+    - Voir également {xindo}.
+    glosses:
+    - bengale
+  ru:
+    place structure: x1 — бенгальский в аспекте x2
+    notes:
+    - '{xindo} (хинди)'
+    glosses:
+    - x1=бенгальский
+  en-simple:
+    place structure: x1 is Bengladesh in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Bengali
+    - x2=a Bengladesh aspect
+  eo:
+    place structure: x1 montras bengalan/bangladeŝan kulturon/naciecon/lingvon laŭ
+      aspekto x2
+    notes:
+    - Vidu ankaŭ {xindo}.
+    glosses:
+    - bengala
+  hu:
+    place structure: x1 bengáli/bangladesi kultúrát/nemzetiséget/nyelvet tükröz x2
+      tekintetben
+    notes:
+    - '(Lásd még: {xindo})'
+    glosses:
+    - bengáli
+  ja:
+    place structure: x1 は x2 （性質面）に関してベンガル／バングラデシュ系（言語／文化／民族／地理）
+    notes:
+    - ・大意： バングラデシュ ・読み方： ベンゴ  ・関連語： {xindo}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 reflekterer bengalsk/bangladeshisk kultur/nasjonalitet/språk
+      i aspekt x2
+    notes:
+    - Se også {xindo}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar bengalisk/bangladeshisk kultur/nationalitet/geografi
+      i aspekt x2
+    notes:
+    - Se även {xindo}.
+    glosses:
+    - bangladeshisk
+    - x1=bengalisk
+    - x2=bengalisk kulturell aspekt
+  zh:
+    place structure: x1是关于孟加拉的/孟加拉国的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见{xindo}
+    glosses:
+    - No glosses.

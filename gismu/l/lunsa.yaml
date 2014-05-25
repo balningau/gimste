@@ -1,6 +1,72 @@
-Word: lunsa
-Rafsi: lus
-Definition: x1 condenses/liquefies on/into x2 at temperature x3, pressure x4; x1 is
-  dew/condensate on x2.
-Notes: See also {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
-Examples: None
+word: lunsa
+rafsi:
+- lus
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 condenses/liquefies on/into x2 at temperature x3, pressure
+      x4; x1 is dew/condensate on x2.
+    notes:
+    - See also {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
+    glosses:
+    - condense
+  de:
+    place structure: x1 kondensiert/verflüssigt sich auf/in x2 bei Temperatur x3 und
+      Druck x4; x1 ist Tau/Kondenswasser auf x2
+    notes:
+    - No notes.
+    glosses:
+    - kondensieren
+  es:
+    place structure: x1 se condensa sobre x2 a temperatura x3, presión x4
+    notes:
+    - Ver también {febvi},  {dunja},  {runme}.
+    glosses:
+    - condensarse
+  ru:
+    place structure: x1 конденсируется/{сжижается} на/в x2 при температуре x3 и давлении
+      x4; x1 — роса/конденсат на x2
+    notes:
+    - '{cilmo} (мокрый), {dunja} (замерзать [затвердевать]), {febvi} (кипеть), {runme}
+      (плавиться), {bumru} (туман)'
+    glosses:
+    - конденсироваться
+    - x1=роса
+    - x3=температура конденсации
+    - x4=давление конденсации
+  en-simple:
+    place structure: x1 condenses into x2 at temperature x3 and pressure x4
+    notes:
+    - No notes.
+    glosses:
+    - something condensing
+    - x2=a site of condensation
+    - x3=a temperature of condensation
+    - x4=a pressure of condensation
+  eo:
+    place structure: x1 kondensiĝas/likviĝas sur x2 je temperaturo x3, premo x4; x1
+      estas roso/kondensaĵo sur x2
+    notes:
+    - Vidu ankaŭ {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
+    glosses:
+    - kondensiĝi
+  hu:
+    place structure: x1 cseppfolyósodik/kondenzálódik/kicsapódik/lecsapódik x2-re/-be,
+      x3 hőmérsékleten, x4 nyomáson
+    notes:
+    - '(Lásd még: {cilmo}, {dunja}, {febvi}, {runme}, {bumru})'
+    glosses:
+    - cseppfolyósodik
+  ja:
+    place structure: x1 は x2 （結果）に、 x3 （温度）・ x4 （圧力）によって凝結／凝固／液化する
+    notes:
+    - ・大意： 凝結 ・読み方： ルゥンサ  ・関連語： {cilmo}, {dunja}, {febvi}, {runme}, {bumru}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1液化到x2上/中，在温度x3，压强x4下；x1是x2上的冷凝物（露）
+    notes:
+    - 参见 {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
+    glosses:
+    - No glosses.

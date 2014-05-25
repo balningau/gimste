@@ -1,7 +1,73 @@
-Word: kajde
-Rafsi: jde
-Definition: x1 (event/experience) warns/cautions x2 (person) of/about danger x3 (event/state/property).
-Notes: Agentive warning (= {jdegau}, {jdezu'e}); an attempt to warn which may not
-  succeed (= {jdetoi}, {jdegautoi}, {jdezuktoi}).  See also {ckape}, {nupre}, {snura},
-  {tcica}, {xlura}.
-Examples: None
+word: kajde
+rafsi:
+- jde
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/experience) warns/cautions x2 (person) of/about danger
+      x3 (event/state/property).
+    notes:
+    - Agentive warning (= {jdegau}, {jdezu'e}); an attempt to warn which may not succeed
+      (= {jdetoi}, {jdegautoi}, {jdezuktoi}).  See also {ckape}, {nupre}, {snura},
+      {tcica}, {xlura}.
+    glosses:
+    - warn
+  de:
+    place structure: x1 (Ereignis/Erfahrung) warnt x2 (Person) vor Gefahr x3 (Ereignis/Zustand/Eigenschaft)
+    notes:
+    - No notes.
+    glosses:
+    - warnen
+  es:
+    place structure: x1 advierte/alerta/avisa/cauciona a x2 sobre peligro x3
+    notes:
+    - No notes.
+    glosses:
+    - advertir
+  ru:
+    place structure: x1 (событие/переживание) служит предостережением/предупреждением/сигналом
+      для x2 (лицо) об опасности x3 (событие/состояние/свойство)
+    notes:
+    - 'Деятельное предостережение: {jdegau}, {jdezu''e}; попытка предостеречь, допускающая
+      неудачу: {jdetoi}, {jdegautoi}, {jdezuktoi} {ckape} (опасный), {nupre} (обещать),
+      {snura} (защищенный [в безопасности]), {tcica} (обманчивый), {xlura} (влиять)'
+    glosses:
+    - x1=предупреждение (сигнал)
+    - x2=объект предупреждения (сигнала)
+    - x3=опасность
+  en-simple:
+    place structure: x1 warns x2 of danger x3
+    notes:
+    - No notes.
+    glosses:
+    - a warner
+    - x2=someting warned
+    - x3=a danger warned of
+  eo:
+    place structure: x1 (okazo/sperto) avertas x2-on (homo) pri danĝero x3 (okazo/stato/eco)
+    notes:
+    - Agenta averto (= {jdegau}, {jdezu'e}); klopodo averti ne nepre sukcesa (= {jdetoi},
+      {jdegautoi}, {jdezuktoi}).  Vidu ankaŭ {ckape}, {nupre}, {snura}, {tcica}, {xlura}.
+    glosses:
+    - averti
+  hu:
+    place structure: x1 esemény/tapasztalat óvatosságra készteti/figyelmezteti x2-t
+      x3 veszélyre
+    notes:
+    - '(Lásd még: {ckape}, {nupre}, {snura}, {tcica}, {xlura})'
+    glosses:
+    - óvatosságra késztet
+  ja:
+    place structure: x1 は x2 （者）に x3 （危険／脅威）を警告する
+    notes:
+    - ・大意： 警告 ・読み方： カジデ  ・語呂合わせ： 火事で警告 ・関連語： {ckape}, {nupre}, {snura}, {tcica}, {xlura}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/经历）警示x2，关于危险/风险x3（事件/状态/性质）
+    notes:
+    - （施事的）警告= {jdegau}/{jdezu'e}；警告/警示（可能不会成功）= {jdetoi}, {jdegautoi}, {jdezuktoi}；参见
+      {ckape}, {nupre}, {snura}, {tcica}, {xlura}.
+    glosses:
+    - No glosses.

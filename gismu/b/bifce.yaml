@@ -1,5 +1,87 @@
-Word: bifce
-Rafsi: bic
-Definition: x1 is a bee/wasp/hornet of species/breed x2.
-Notes: See also {cinki}, {sfani}, {lakse}.
-Examples: None
+word: bifce
+rafsi:
+- bic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bee/wasp/hornet of species/breed x2.
+    notes:
+    - See also {cinki}, {sfani}, {lakse}.
+    glosses:
+    - bee
+  de:
+    place structure: x1 ist eine Biene/Wespe/Hornisse der Art/Gattung x2
+    notes:
+    - Siehe auch {cinki}, {sfani}, {lakse}.
+    glosses:
+    - x1=Biene
+    - x2=Bienengattung
+  es:
+    place structure: x1 es una abeja/avispa de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - abeja
+  ru:
+    place structure: x1 — пчела/оса/шершень/шмель вида/породы x2
+    notes:
+    - '{cinki} (насекомое), {sfani} (муха), {lakse} (воск)'
+    glosses:
+    - x1=пучела
+    - x2=вид пчелы
+  en-simple:
+    place structure: x1 is a bee or wasp of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a bee
+    - x2=a species of bee
+  eo:
+    place structure: x1 estas abelo/vespo/krabro de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cinki}, {sfani}, {lakse}.
+    glosses:
+    - abelo
+  hu:
+    place structure: x1 egy méh/darázs [Aculeata alrend] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cinki}, {sfani}, {lakse})'
+    glosses:
+    - méh (rovar)
+  ja:
+    place structure: x1 は x2 （種類）のハチ目昆虫
+    notes:
+    - ・大意： 蜂 ・読み方： ビフゥシェ ・語呂合わせ： ＜ビーフ・シェア＞. bee, fen(蜂) ・関連語： {manti} (下位概念) < {cinki}
+      (上位概念), {sfani}, {lakse}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een bij of wesp van het soort x2.
+    notes:
+    - zie ook {cinki}, {sfani}, {lakse}.
+    glosses:
+    - bij (insect)
+    - wesp
+  'no':
+    place structure: x1 er en bie/geitehams/veps av type/familie x2
+    notes:
+    - Se også {cinki}, {sfani}, {lakse}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en geting/bi/bålgeting/gaddförsedd flygande insekt av art/sort
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - bålgeting
+    - geting
+    - x1=bi (insekt)
+    - x2=bisort (typ av bi)
+  zh:
+    place structure: x1是蜂，属于物种/种类x2
+    notes:
+    - 参见 {cinki}, {sfani}, {lakse}.
+    glosses:
+    - No glosses.

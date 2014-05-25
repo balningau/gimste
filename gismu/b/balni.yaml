@@ -1,5 +1,100 @@
-Word: balni
-Rafsi: ''
-Definition: x1 is a balcony/overhang/ledge/shelf of building/structure x2.
-Notes: See also {kajna}.
-Examples: None
+word: balni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a balcony/overhang/ledge/shelf of building/structure x2.
+    notes:
+    - See also {kajna}.
+    glosses:
+    - balcony
+  de:
+    place structure: x1 ist ein Balkon/Überhang/Sims/Regal von Gebäude/Struktur x2
+    notes:
+    - No notes.
+    glosses:
+    - Balkon
+  es:
+    place structure: x1 es un balcón/cornisa/estante de edificio/estructura x2
+    notes:
+    - Ver también {kajna}.
+    glosses:
+    - balcón
+  fr:
+    place structure: x1 est un balcon/un rebord/une étagère appartenant à la structure/au
+      bâtiment x2
+    notes:
+    - Voir également {kajna}.
+    glosses:
+    - balcon
+    - rebord
+    - étagère
+  ru:
+    place structure: x1 — балкон/уступ/карниз/козырек в здании/сооружении x2
+    notes:
+    - См. также {kajna} (полка)
+    glosses:
+    - x1=балкон
+  en-simple:
+    place structure: x1 is a balcony or shelf of structure x2
+    notes:
+    - No notes.
+    glosses:
+    - a balcony
+    - x2=a building with a balcony
+  eo:
+    place structure: x1 estas balkono/breto de konstruaĵo/strukturo x2
+    notes:
+    - Vidu ankaŭ {kajna}.
+    glosses:
+    - balkono
+  hu:
+    place structure: x1 egy erkély/kiszögellés/párkány x2 épületen/építményen
+    notes:
+    - '(Lásd még: {kajna})'
+    glosses:
+    - erkély
+  ja:
+    place structure: x1 は x2 （構造体）のバルコニー／さじき／ベランダ／張り出し
+    notes:
+    - 「la juliet. bu'u lo balni cu tavla la noi bartu romeon.／ジュリエットがバルコニーから外のロミオに語りかける」
+      ・大意： バルコニー ・読み方： バルゥニ  ・語呂合わせ： balcon ・関連語： {kajna}
+    glosses:
+    - バルコニー
+    - ベランダ
+    - 張り出し (構造)
+  'no':
+    place structure: x1 er en balkong/veranda/overheng/hylle på bygning/struktur x2
+    notes:
+    - Se også {kajna}, {punli}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest balkonem/nawisem/gzymsem/parapetem/półką na budynku/strukturze
+      x2.
+    notes:
+    - Patrz też {kajna}.
+    glosses:
+    - balkon
+    - gzyms
+    - parapet
+  sv:
+    place structure: x1 är en balkong/utsprång/överhäng/avsats/[hylla] på byggnad/struktur
+      x2
+    notes:
+    - Se även {kajna}, {punli}.
+    glosses:
+    - avsats
+    - hylla (klipphylla)
+    - kant (avsats)
+    - utsprång
+    - överhäng
+    - x1=balkong
+    - x2=balkongförsedd
+  zh:
+    place structure: x1是建筑物x2上的阳台/突出的部分
+    notes:
+    - 参见 {kajna}.
+    glosses:
+    - No glosses.

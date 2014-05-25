@@ -1,6 +1,68 @@
-Word: prane
-Rafsi: pa'e
-Definition: x1 is perfect/ideal/archetypical/faultless/flawless/un-improvable in property/aspect
-  x2 (ka).
-Notes: Also without defect/error.  See also {manfo}, {curve}, {traji}, {cfila}, {mulno}.
-Examples: None
+word: prane
+rafsi:
+- pa'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is perfect/ideal/archetypical/faultless/flawless/un-improvable
+      in property/aspect x2 (ka).
+    notes:
+    - Also without defect/error.  See also {manfo}, {curve}, {traji}, {cfila}, {mulno}.
+    glosses:
+    - ideal (perfect)
+    - perfect
+  de:
+    place structure: x1 ist perfekt/ideal/fehlerlos/makellos/vollkommen in Eigenschaft/Aspekt
+      x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - perfekt
+  es:
+    place structure: x1 es perfecto/ideal/arquetípico en propiedad/aspecto x2
+    notes:
+    - Ver también {curve}.
+    glosses:
+    - perfecto
+  ru:
+    place structure: x1 — совершенный/безупречный/образцовый по свойству/аспекте x2
+      ({ka})
+    notes:
+    - '{manfo} (однородный), {curve} (чистый [100%]), {traji} (самый), {cfila} (дефект),
+      {mulno} (законченный)'
+    glosses:
+    - x1=безупречный
+  en-simple:
+    place structure: x1 is perfect or ideal in x2
+    notes:
+    - No notes.
+    glosses:
+    - something perfect
+    - x2=a property of perfection
+  eo:
+    place structure: x1 estas perfekta/ideala/arketipa/sendifekta/neplibonigebla en
+      eco/aspekto x2 (ka)
+    notes:
+    - 'Ankaŭ: sen difekto/eraro.  Vidu ankaŭ {manfo}, {curve}, {traji}, {cfila}, {mulno}.'
+    glosses:
+    - perfekta
+  hu:
+    place structure: x1 tökéletes/ideális/optimális/hibátlan x2 tulajdonságában/szempontból
+    notes:
+    - '(Lásd még: {manfo}, {curve}, {traji}, {cfila}, {mulno})'
+    glosses:
+    - tökéletes
+  ja:
+    place structure: x1 は x2 （性質）に関して完全／完璧／無傷／非の打ち所が無い
+    notes:
+    - ・大意： 完全 ・読み方： プラネ  ・語呂合わせ： 完全プラネット ・関連語： {manfo}, {curve}, {traji}, {cfila},
+      {mulno}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是完美的/无瑕疵的/顶级的，在性质x2方面（ka）
+    notes:
+    - 也指：无差错的；参见 {manfo}, {curve}, {traji}, {cfila}, {mulno}.
+    glosses:
+    - No glosses.

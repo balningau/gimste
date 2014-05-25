@@ -1,5 +1,121 @@
-Word: badri
-Rafsi: dri
-Definition: x1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about x2 (abstraction).
-Notes: See also {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
-Examples: None
+word: badri
+rafsi:
+- dri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about
+      x2 (abstraction).
+    notes:
+    - See also {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
+    glosses:
+    - sad
+  de:
+    place structure: x1 ist traurig/bedrückt/depremiert/[unglücklich/empfindet (tiefe)
+      Trauer] über x2 (Abstraktion)
+    notes:
+    - Siehe auch {klaku}, {gleki}, {betri}, {cinmo}, {junri}, {uinai}.
+    glosses:
+    - betrübt
+    - traurig
+    - unglücklich
+  es:
+    place structure: x1 está triste/deprimido/melancólico por x2 (evento)
+    notes:
+    - Ver también {gleki}.
+    glosses:
+    - triste
+  fr:
+    place structure: x1 est triste/déprimé à propos de x2 (abstrait)
+    notes:
+    - Voir aussi {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
+    glosses:
+    - déprimé
+    - malheureux (triste)
+    - triste
+  ru:
+    place structure: 'x1 печален/расстроен/подавлен/огорчен x2 (чем, из-за чего: абстракция)'
+    notes:
+    - См. {klaku} (плакать/рыдать), {gleki} (радоваться), {betri} (трагедия), {cinmo}
+      (эмоция), {junri} (серьезный)
+    glosses:
+    - огорченный
+    - печальный
+    - подавленный (расстроенный)
+    - расстроенный (подавленный)
+    - x2=причина (расстройства, огорчения)
+  en-simple:
+    place structure: x1 is sad about x2
+    notes:
+    - No notes.
+    glosses:
+    - something that is sad
+    - x2=a saddening
+  eo:
+    place structure: x1 estas malĝoja/malgaja/trista/depremita pri x2
+    notes:
+    - Vidu ankaŭ klaku, gleki, betri, cinmo, junri
+    glosses:
+    - malĝoja
+    - x1=malĝojanto
+    - x2=malĝojiĝanto
+  hu:
+    place structure: x1 szomorú/levert/bánkódik x2 miatt
+    notes:
+    - '(Lásd még: {klaku}, {gleki}, {betri}, {cinmo}, {junri})'
+    glosses:
+    - szomorú
+  ja:
+    place structure: x1 は x2 （事）について悲しい／落胆している；  x2 は x1 を悲しませる
+    notes:
+    - 「lo nu le va prenu pu morsi binxo cu se badri／その人の死んだことが悲しい」 ・大意： 悲しい ・読み方：
+      バドリ ・関連語： {klaku}, {gleki}, {betri}, {cinmo}, {junri}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er trist/lei seg/deprimert/nedfor/føler sorg angående x2 (abstraksjon)
+    notes:
+    - Se også {betri}, {cinmo}, {gleki}, {junri}, {klaku}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest smutny/markotny/w depresji o x2 (abstrakcja).
+    notes:
+    - Cf. {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
+    glosses:
+    - markotny
+    - smutny
+  sv:
+    place structure: x1 är ledsen/dyster/betryckt/bedrövad/nedstämd/[olycklig/känner
+      sorg] över x2 (abstraktion).
+    notes:
+    - Se även {klaku}, {gleki}, {betri}, {cinmo}, {junri}, {uinai}.
+    glosses:
+    - bedrövad
+    - betryckt
+    - dyster
+    - låg (ledsen)
+    - nedstämd
+    - nere (ledsen)
+    - olycklig (ledsen)
+    - sorgsen
+    - x1=ledsen
+    - x2=sorgsamhet
+  zh:
+    place structure: x1因为x2（某件事或某种抽象的东西）感到不开心、郁闷、闷闷不乐、沮丧、消沉、灰心丧气、哀愁、悲哀、伤心、悲伤或者悲痛
+    notes:
+    - 参见{klaku}、{gleki}、{betri}、{cinmo}、{junri}、{uinai}
+    glosses:
+    - 伤心
+    - 哀愁
+    - 悲伤
+    - 悲哀
+    - 悲痛
+    - 沮丧
+    - 消沉
+    - 灰心丧气
+    - 郁闷
+    - 闷闷不乐
+    - x1=不开心的人
+    - x2=不开心的事

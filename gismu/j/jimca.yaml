@@ -1,6 +1,73 @@
-Word: jimca
-Rafsi: jic
-Definition: x1 is a branch/bough/limb of x2; x2 forks into branches x1; [preferred
-  over metaphorical birka].
-Notes: Also appendage.  See also {birka}, {rebla}, {tuple}.
-Examples: None
+word: jimca
+rafsi:
+- jic
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a branch/bough/limb of x2; x2 forks into branches x1; [preferred
+      over metaphorical birka].
+    notes:
+    - Also appendage.  See also {birka}, {rebla}, {tuple}.
+    glosses:
+    - branch
+  de:
+    place structure: x1 ist ein Zweig/Ast/Glied von x2; x2 gabelt/verzweigt sich in
+      x1 [bevorzugt vor birka im übertragenen Sinn]
+    notes:
+    - No notes.
+    glosses:
+    - Zweig
+  es:
+    place structure: x1 es una rama de planta/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - rama
+  ru:
+    place structure: x1 — ветвь/конечность x2 (чего); x2 разветвляется на x1
+    notes:
+    - 'Предпочтительнее, чем метафорическое {birka}; Также: придаток/аппендикс/ответвление
+      {birka} (рука), {rebla} (хвост), {tuple} (нога)'
+    glosses:
+    - x1=ветвь
+  en-simple:
+    place structure: x1 is a branch of x2
+    notes:
+    - No notes.
+    glosses:
+    - a branch
+    - x2=something with a branch
+  eo:
+    place structure: x1 estas branĉo/limbo de x2; x2 forkiĝas en branĉojn x1; [preferinda
+      super metafora birka]
+    notes:
+    - 'Ankaŭ: alpendaĵo.  Vidu ankaŭ {birka}, {rebla}, {tuple}.'
+    glosses:
+    - branĉo
+  hu:
+    place structure: x1 egy ága/gallya/végtagja x2-nek
+    notes:
+    - '(Lásd még: {birka}, {rebla}, {tuple})'
+    glosses:
+    - ág
+  ja:
+    place structure: x1 は x2 （本体）の枝／肢
+    notes:
+    - 「分岐」「分家」「選択肢」なども。 ・大意： 枝 ・読み方： ジムシャ  ・関連語： {birka}, {rebla}, {tuple}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en gren/förgrening/kvist/lem av x2; x2 förgrenar sig i
+      grenar x1.
+    notes:
+    - jimca är att föredra framför birka i metaforer.
+    glosses:
+    - förgrening
+    - gren
+  zh:
+    place structure: x1是x2的枝/肢
+    notes:
+    - 也指：附器；参见 {birka}, {rebla}, {tuple}.
+    glosses:
+    - No glosses.

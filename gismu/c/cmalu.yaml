@@ -1,6 +1,99 @@
-Word: cmalu
-Rafsi: cma
-Definition: x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm
-  x3.
-Notes: See also {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
-Examples: None
+word: cmalu
+rafsi:
+- cma
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is small in property/dimension(s) x2 (ka) as compared with
+      standard/norm x3.
+    notes:
+    - See also {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+    glosses:
+    - small
+  jbo:
+    place structure: x1 mleca lo cnano be x2 bei x3 be'o x2 noi cimde x1
+    notes:
+    - No notes.
+    glosses:
+    - cmalu
+  de:
+    place structure: x1 ist klein in Eigenschaft/Größe x2 (ka) verglichen mit Standard/Norm
+      x3.
+    notes:
+    - Siehe auch {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+    glosses:
+    - klein
+  es:
+    place structure: x1 es pequeño/chico en propiedad/dimensión x2 comparado con estándar/norma
+      x3
+    notes:
+    - Ver también {barda}.
+    glosses:
+    - pequeño
+  fr:
+    place structure: x1 est de petite dimension [ka]  x2 d'après x3 (norme/standard)
+    notes:
+    - No notes.
+    glosses:
+    - petit
+  ru:
+    place structure: x1 — маленький по свойству/измерени(ю/ям) x2 ({ka}) в сравнении
+      со стандартом/нормой x3
+    notes:
+    - '{caxno} (мелкий [неглубокий]), {cinla} (тонкий), {jarki} (узкий), {tordu} (короткий),
+      {barda} (большой)'
+    glosses:
+    - x1=маленький
+  en-simple:
+    place structure: x1 is small in dimension x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something small
+    - x2=a dimension of smallness
+    - x3=a standard of smallness
+  eo:
+    place structure: x1 estas malgranda/eta laŭ eco/dimensio(j) x2 (ka) kompare kun
+      normo x3
+    notes:
+    - Vidu ankaŭ {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+    glosses:
+    - malgranda
+  hu:
+    place structure: x1 kis méretű x2 tulajdonságában/méretében, x3-hoz képest/x3
+      mérce szerint
+    notes:
+    - '(Lásd még: {caxno}, {cinla}, {jarki}, {tordu}, {barda})'
+    glosses:
+    - kicsi
+  ja:
+    place structure: x1 は x2 （性質）に関して、 x3 （照合枠）において小さい
+    notes:
+    - 「le barda naje cmalu ba'ambyta'e cu se dunda pe'u／大きいつづらではなく、小さいつづらをください」 ・大意：
+      小さい ・読み方： シマルゥ  ・語呂合わせ： ciau(小), cmall, 絞まる ・関連語： {caxno}, {cinla}, {jarki},
+      {tordu}, {barda}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest małe/drobne w cechach/wymiarach x2 (ka) według normy
+      x3.
+    notes:
+    - Cf. {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+    glosses:
+    - drobne
+    - małe
+  sv:
+    place structure: x1 är liten/små i egenskap/dimension(er) x2 jämfört med standard/norm
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - liten
+    - små
+  zh:
+    place structure: x1是小的，在性质/维度x2（ka）上，依据标准x3
+    notes:
+    - 参见 {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+    glosses:
+    - No glosses.

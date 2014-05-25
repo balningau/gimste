@@ -1,6 +1,90 @@
-Word: cliva
-Rafsi: liv, li'a
-Definition: x1 leaves/goes away/departs/parts/separates from x2 via route x3.
-Notes: 'Also: $x_1$ leaves behind/takes leave of $x_2$.  See also {litru}, {canci},
-  {vimcu}, {lebna}, {muvdu}.'
-Examples: None
+word: cliva
+rafsi:
+- liv
+- li'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 leaves/goes away/departs/parts/separates from x2 via route
+      x3.
+    notes:
+    - 'Also: x1 leaves behind/takes leave of x2.  See also {litru}, {canci}, {vimcu},
+      {lebna}, {muvdu}.'
+    glosses:
+    - leave
+  jbo:
+    place structure: x1 sisti lo nu x1 zvati x2 kei fe'e ca'o x3 i x1 muvdu zi'o x2
+      boi x3
+    notes:
+    - No notes.
+    glosses:
+    - cliva
+  de:
+    place structure: x1 verlässt x2 über Route x3; x1 geht von x2 weg
+    notes:
+    - No notes.
+    glosses:
+    - verlassen
+  es:
+    place structure: x1 deja/parte/se aleja de x2 vía x3
+    notes:
+    - No notes.
+    glosses:
+    - partir
+  fr:
+    place structure: x1 quitte / s'éloigne de x2 par la route x3
+    notes:
+    - No notes.
+    glosses:
+    - quitter
+    - s'éloigner
+  ru:
+    place structure: x1 отправляется из/уходит из/покидает x2 по пути/маршруту x3
+    notes:
+    - litru. {canci} (исчезать), {vimcu} (отнимать), {lebna} (забирать), {litru} (путешествовать),
+      {muvdu} (двигаться)
+    glosses:
+    - уходить
+    - x1=уходящий
+  en-simple:
+    place structure: x1 leaves x2 via x3
+    notes:
+    - No notes.
+    glosses:
+    - a leaver
+    - x2=something left
+    - x3=a route of leaving
+  eo:
+    place structure: x1 foriras/sinapartigas de x2 tra vojo x3
+    notes:
+    - 'Ankaŭ: x1 forlasas x2-on.  (kp. litru. canci, vimcu, lebna, litru, muvdu)'
+    glosses:
+    - foriri
+  hu:
+    place structure: x1 távozik/elmegy/elválik x2-től/-ből/-ről / elhagyja/otthagyja
+      x2-t, x3 úton
+    notes:
+    - '(Lásd még: {litru}, {canci}, {vimcu}, {lebna}, {muvdu})'
+    glosses:
+    - távozik
+  ja:
+    place structure: x1 は x2 から x3 （経路）によって離れる／発つ／別れる／去る；  x1 は x2 を残す
+    notes:
+    - ・大意： 離れる ・読み方： シルィヴァ  ・語呂合わせ： 私利ばかりで人離れる ・関連語： {litru}, {canci}, {vimcu}, {lebna},
+      {muvdu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 lämnar/går sin väg/avgår/skiljs åt/separerar från x2 via rutt
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - lämna
+  zh:
+    place structure: x1离开x2/与x2分开/脱离，通过路线x3
+    notes:
+    - 参见 {litru}, {canci}, {vimcu}, {lebna}, {muvdu}.
+    glosses:
+    - No glosses.

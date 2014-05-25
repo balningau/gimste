@@ -1,8 +1,75 @@
-Word: zdile
-Rafsi: zdi
-Definition: x1 (abstract) is amusing/entertaining to x2 in property/aspect x3; x3
-  is what amuses x2 about x1.
-Notes: 'Also: $x_1$ occupies $x_2$ pleasantly; $x_1$ is fun for $x_2$; $x_2$ is amused
-  by $x_1$; $x_2$ has fun (at) doing $x_1$; $x_1$ is an amusement/entertainment/game
-  for $x_2$.  See also {cinri}, {panka}, {xajmi} for funny, {kelci}.'
-Examples: None
+word: zdile
+rafsi:
+- zdi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (abstract) is amusing/entertaining to x2 in property/aspect
+      x3; x3 is what amuses x2 about x1.
+    notes:
+    - 'Also: x1 occupies x2 pleasantly; x1 is fun for x2; x2 is amused by x1; x2 has
+      fun (at) doing x1; x1 is an amusement/entertainment/game for x2.  See also {cinri},
+      {panka}, {xajmi} for funny, {kelci}.'
+    glosses:
+    - amusing
+  de:
+    place structure: x1 (Abstraktion) ist amüsant/unterhaltsam für x2 in Eigenschaft/Aspekt
+      x3; x3 ist die Eigenschaft, die x2 an x1 amüsiert
+    notes:
+    - No notes.
+    glosses:
+    - amüsant
+  es:
+    place structure: x1 (evento) divierte/entretiene a x2 por propiedad/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - divertir
+  ru:
+    place structure: x1 (абстракция) развлекает/забавляет/занимает x2 свойством/аспектом
+      x3; x3 есть то, что забавно для x2 в x1
+    notes:
+    - 'Также: x2 приятно проводит время в (занятии) x1; x1 — веселье, забава для x2
+      {cinri} (интересный), {panka} (парк), {xajmi} (смешной) для ''смешной'', {kelci}
+      (играть [в игру/игрушку])'
+    glosses:
+    - развлекать
+    - x1=развлекающий
+  en-simple:
+    place structure: x1 is amusing to x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something amusing
+    - x2=something amused
+    - x3=a property of amusement
+  eo:
+    place structure: x1 (abstraktaĵo) distras/amuzas x2-on pro eco/aspekto x3; x3
+      estas kio amuszas x2-on pri x1
+    notes:
+    - '(ankaŭ: x1 plaĉe okupas x2-on; x1 estas amuzaĵo/Ludo. por x2; x2 estas amuzita
+      de x1; x2 amuziĝas farante x1); Vidu ankaŭ {cinri}, {panka}, xajmi por {''funny''},
+      {kelci}.'
+    glosses:
+    - distri
+  hu:
+    place structure: x1 szórakoztató x2 számára, x3 tulajdonságban/tekintetben
+    notes:
+    - '(Lásd még: {cinri}, {panka}, {xajmi}, {kelci})'
+    glosses:
+    - szórakoztató
+  ja:
+    place structure: x1 （事）は x2 （観点）にとって x3 （性質）についておもしろい／愉しい；  x2 は x1 を楽しむ
+    notes:
+    - ・大意： おもしろい ・読み方： ズディルェ  ・関連語： {cinri}, {panka}, {xajmi}, {kelci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是有趣的，对于x2来说，在性质x3方面；x3是x2觉得的x1上的有趣性质
+    notes:
+    - '也指: x1 occupies x2 pleasantly; x1 is fun for x2; x2 is amused by x1; x2 has
+      fun (at) doing x1; x1 is an amusement/entertainment/game for x2. 参见 {cinri},
+      {panka}, {xajmi} for funny, {kelci}.'
+    glosses:
+    - No glosses.

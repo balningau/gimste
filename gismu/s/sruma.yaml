@@ -1,6 +1,71 @@
-Word: sruma
-Rafsi: ru'a
-Definition: x1 assumes/supposes that x2 (du'u) is true about subject x3; [epistemology].
-Notes: Words usable for epistemology typically have a du'u place.  See also {smadi},
-  {birti}.
-Examples: None
+word: sruma
+rafsi:
+- ru'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 assumes/supposes that x2 (du'u) is true about subject x3;
+      [epistemology].
+    notes:
+    - Words usable for epistemology typically have a du'u place.  See also {smadi},
+      {birti}.
+    glosses:
+    - assume
+    - suppose (hypothesize)
+  de:
+    place structure: x1 nimmt an/vermutet/geht davon aus, dass x2 (du'u) wahr ist
+      über Thema x3; [Erkenntnistheorie]
+    notes:
+    - No notes.
+    glosses:
+    - annehmen
+  es:
+    place structure: x1 supone/asume que x2 (du'u) es cierto acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - suponer
+  ru:
+    place structure: x1 допускает/предполагает/принимает, что справедливо/верно x2
+      ({du'u}) в отношении предмета x3
+    notes:
+    - 'Также: постулирует, подразумевает; x2 — допущение, постулат, аксиома, гипотеза,
+      предположение; слова, описывающие эпистемологию, обычно имеют место типа {du''u}
+      {smadi} (догадываться), {birti} (убежденный [в истинности])'
+    glosses:
+    - предполагать
+    - x1=предполагающий
+  en-simple:
+    place structure: x1 assumes that x2 is true about x3
+    notes:
+    - No notes.
+    glosses:
+    - an assumer
+    - x2=something assumed
+    - x3=a topic of assumption
+  eo:
+    place structure: x1 supozas x2-on (du'u) vera pri temo x3; [epistemologio]
+    notes:
+    - Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton.  Vidu ankaŭ {smadi},
+      {birti}.
+    glosses:
+    - supozi
+  hu:
+    place structure: x1 felteszi x2 tényt x3 tárgyban/-ról
+    notes:
+    - '(Lásd még: {smadi}, {birti})'
+    glosses:
+    - feltesz
+  ja:
+    place structure: x1 は x2 （命題）が x3 （題目）について本当であると仮定する
+    notes:
+    - ・大意： 仮定 ・読み方： スルマ  ・語呂合わせ： 仮定する真（ま） ・関連語： {smadi}, {birti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1假设/假定/猜测x2（du'u）为真，关于主题x3
+    notes:
+    - 关于认知论的词都含有du'u位；参见 {smadi}, {birti}.
+    glosses:
+    - No glosses.

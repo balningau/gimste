@@ -1,6 +1,70 @@
-Word: savru
-Rafsi: sav, vru
-Definition: x1 is a noise/din/clamor [sensory input without useful information] to
-  x2 via sensory channel x3.
-Notes: See also {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu}.
-Examples: None
+word: savru
+rafsi:
+- sav
+- vru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a noise/din/clamor [sensory input without useful information]
+      to x2 via sensory channel x3.
+    notes:
+    - See also {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu}.
+    glosses:
+    - noise
+  de:
+    place structure: x1 ist Lärm/Geräusch/Geschrei/Rauschen [Sinneseindruck ohne verwendbare
+      Information] für x2 über Sinneskanal x3
+    notes:
+    - No notes.
+    glosses:
+    - Lärm
+  es:
+    place structure: x1 es un ruido/barullo para x2 vía canal x3
+    notes:
+    - Ver también {sance}.
+    glosses:
+    - ruido
+  ru:
+    place structure: x1 воспринимается как шум (сигнал, лишенный полезной информации)
+      наблюдателем x2 посредством чувства/канала восприятия x3
+    notes:
+    - '{sance} (звук), {cladu} (громкий), {kerlo} (ухо), {smaji} (молчать), {tirna}
+      (слышать), {siclu} (свистеть)'
+    glosses:
+    - шум
+  en-simple:
+    place structure: x1 is a noise to x2 perceived with x3
+    notes:
+    - No notes.
+    glosses:
+    - a noise
+    - x2=an experiencer of a  noise
+    - x3=a sense a noise is perceived with
+  eo:
+    place structure: x1 estas bruo [sensa enigo sen utila informo] por x2 via sensory
+      channel x3
+    notes:
+    - Vidu ankaŭ {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu}.
+    glosses:
+    - bruo
+  hu:
+    place structure: x1 egy zaj [hasznos információ nélküli bemenet] x2 számára, x3
+      csatornán
+    notes:
+    - '(Lásd még: {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu})'
+    glosses:
+    - zaj
+  ja:
+    place structure: x1 は x2 （者）・ x3 （知覚体系）にたいする騒音／ノイズ
+    notes:
+    - 無意味な知覚情報全般。「画像ノイズ」も。 ・大意： ノイズ ・読み方： サヴル  ・関連語： {sance}, {cladu}, {kerlo}, {smaji},
+      {tirna}, {siclu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是噪声/嘈杂（通过感官输入的无用的信息），对于x2来说，通过感官/感受器x3
+    notes:
+    - 参见 {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu}.
+    glosses:
+    - No glosses.

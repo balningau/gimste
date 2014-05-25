@@ -1,7 +1,80 @@
-Word: tinsa
-Rafsi: ''
-Definition: x1 is stiff/rigid/inflexible/resistant in direction x2 against force x3
-  under conditions x4.
-Notes: 'Also sometimes: firm, hard;  not limited to physical forces; e.g. mental rigidity.  See
-  also {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}.'
-Examples: None
+word: tinsa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is stiff/rigid/inflexible/resistant in direction x2 against
+      force x3 under conditions x4.
+    notes:
+    - 'Also sometimes: firm, hard;  not limited to physical forces; e.g. mental rigidity.  See
+      also {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}.'
+    glosses:
+    - stiff
+  de:
+    place structure: x1 ist steif/starr/unbiegsam/unnachgiebig in Richtig x2 gegen
+      Kraft x3 unter Bedingungen x4
+    notes:
+    - No notes.
+    glosses:
+    - steif
+  es:
+    place structure: x1 es rígido/inflexible/resistente en dirección x2 contra fuerza
+      x3 bajo condiciones x4
+    notes:
+    - No notes.
+    glosses:
+    - rígido
+  ru:
+    place structure: x1 — жесткий/негнущийся/несгибаемый в направлении x2 против силы
+      x3 в условиях x4
+    notes:
+    - 'Иногда: «твердый»; не ограничивается физической силой, напр. также отсутствие
+      умственной гибкости {bapli} (заставлять), {jdari} (крепкий), {nandu} (трудный
+      [сложный]), {torni} (скручиваться), {trati} (натянутый), {xarnu} (сопротивляться
+      [противостоять]), {danre} (давить), {stodi} (постоянный)'
+    glosses:
+    - x1=жёсткий
+  en-simple:
+    place structure: x1 is stiff in direction x2 against force x3
+    notes:
+    - No notes.
+    glosses:
+    - stiff
+    - x1=something stiff
+    - x2=a direction of stiffness
+    - x2=the direction of stiffness
+    - x3=a force something is stiff against
+    - x3=the force something is stiff against
+    - x4=a condition of stiffness
+  eo:
+    place structure: x1 estas rigida/nefleksebla/rezista en direkto x2 kontraŭ forto
+      x3 sub kondiĉoj x4
+    notes:
+    - 'Ankaŭ kelkfoje: firma, malmola; ne limigita al fizikaj fortoj; ekz. mensa rigideco.  Vidu
+      ankaŭ {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}.'
+    glosses:
+    - rigida
+  hu:
+    place structure: x1 merev/szilárd/rugalmatlan x2 irányban, x3 erővel szemben,
+      x4 körülmények között
+    notes:
+    - 'Nem feltétlenül fizikai értelemben (Lásd még: {bapli}, {jdari}, {nandu}, {torni},
+      {trati}, {xarnu}, {danre}, {stodi})'
+    glosses:
+    - merev
+  ja:
+    place structure: x1 は x2 （方向）・ x3 （力）にたいして x4 （条件）で固定／硬直している；  x1 は x2 の向きに動かない
+    notes:
+    - 比喩的に「融通がきかない」も。 ・大意： 固定 ・読み方： ティンサ  ・関連語： {bapli}, {jdari}, {nandu}, {torni},
+      {trati}, {xarnu}, {danre}, {stodi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是僵硬的/僵直的/顽固的/不可弯曲的，在方向x2上，对抗力x3，在条件x4下
+    notes:
+    - 也指：坚固的；并不限于指物理上的力量，也可指精神的刚度，意志的强度； 参见 {bapli}, {jdari}, {nandu}, {torni}, {trati},
+      {xarnu}, {danre}, {stodi}.
+    glosses:
+    - No glosses.

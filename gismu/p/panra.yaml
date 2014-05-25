@@ -1,11 +1,84 @@
-Word: panra
-Rafsi: ''
-Definition: x1 parallels x2 differing only in property x3 (ka; jo'u/fa'u term) by
-  standard/geometry x4.
-Notes: 'Also: $x_1$ is parallel to $x_2$, $x_3$ is the only difference between $x_1$
-  and $x_2$ (= {terpanra} for reordered places); $x_1$ and $x_2$ are alike/similar/congruent.   A
-  parallel involves extreme close similarity/correspondence across the entirety of
-  the things being compared, generally involving multiple properties, with focus placed
-  on one or a small number of differences. See also {pa''a}, {mintu}, {simsa}, {girzu},
-  {vrici}.'
-Examples: None
+word: panra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 parallels x2 differing only in property x3 (ka; jo'u/fa'u
+      term) by standard/geometry x4.
+    notes:
+    - 'Also: x1 is parallel to x2, x3 is the only difference between x1 and x2 (=
+      {terpanra} for reordered places); x1 and x2 are alike/similar/congruent.   A
+      parallel involves extreme close similarity/correspondence across the entirety
+      of the things being compared, generally involving multiple properties, with
+      focus placed on one or a small number of differences. See also {pa''a}, {mintu},
+      {simsa}, {girzu}, {vrici}.'
+    glosses:
+    - parallel
+  de:
+    place structure: x1 ist parallel/weist Parallelen auf zu x2 und unterscheidet
+      sich nur in Eigenschaft x3 (ka; jo'u/fa'u) gemäß Standard/Geometrie x4
+    notes:
+    - No notes.
+    glosses:
+    - parallel
+  es:
+    place structure: x1 es paralelo a x2 en propiedad común x3 según estándar/geometría
+      x4
+    notes:
+    - Ver también {simsa}.
+    glosses:
+    - paralelo
+  ru:
+    place structure: x1 аналогичен/подобен/параллелен x2, отличаясь только свойством
+      x3 ({ka}; {jo'u}/{fa'u}) согласно стандарту/геометрии x4
+    notes:
+    - 'x3 — единственная разница между x1 и x2: {terpanra} с переставленными местами);
+      x1 и x2 аналогичны/подобны/конгруэнтны; параллелизм указывает на исключительное
+      сходство/соответствие между сравниваемыми объектами, взятыми как целое, обычно
+      по ряду признаков, акцент при этом делается на небольшом количестве различий
+      {pa''a}, {mintu} (идентичный), {simsa} (похожий), {girzu} (группа), {vrici}
+      (разнообразный), {frica} (отличаться)'
+    glosses:
+    - x1=подобный
+  en-simple:
+    place structure: x1 parallels x2 differing only in x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something parallel to something
+    - x2=something to which something is parallel
+    - x3=a property in which something parallel is different
+    - x4=a standard of parallelness
+  eo:
+    place structure: x1 paralelas x2-on kun sola diferenca eco x3 (ka; jo'u/fa'u termo)
+      laŭ normo/geometrio x4
+    notes:
+    - '(ankaŭ: x1 estas paralela al x2, x3 estas la sola diferenco inter x1 kaj x2
+      (= terpanra por reordigitaj {lokoj}); x1 kaj x2 estas egalaj/similaj/Kongruaj.  paraleleco
+      konsistas el ekstrema proksima simileco/konformeco tra la tuto de la aĵoj komparataj,
+      ĝenerale pri pluraj ecoj, fokusiganta je unu aŭ malgranda nombro da diferencoj);
+      Vidu ankaŭ cmavo {pa''a}, {mintu}, {simsa}, {girzu}, {vrici}.'
+    glosses:
+    - paralela
+  hu:
+    place structure: x1 párhuzamos / szinte azonos x2-vel, és csak x3 tulajdonságban
+      tér el tőle, x4 mérce/geometria szerint
+    notes:
+    - '(Lásd még: {mintu}, {simsa}, {girzu}, {vrici})'
+    glosses:
+    - párhuzamos
+  ja:
+    place structure: x1 は x2 に、 x3 （性質）の相違を伴いながら、 x4 （基準）において対応する／並立的である
+    notes:
+    - ・大意： 対応 ・読み方： パンラ  ・語呂合わせ： 対応並立パン・ライス ・関連語： {pa'a}, {mintu}, {simsa}, {girzu},
+      {vrici}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2是平行的，其仅在性质x3（ka;jo'u/fa'u）上有所不同，基于标准/几何学x4
+    notes:
+    - x1平行于x2；x1与x2相同，x3是两者之间唯一的不同点； x1近似于x2 ；平行也包含：（在大量性质上）非常相似，只有少量的不同；参见 {pa'a},
+      {mintu}, {simsa}, {girzu}, {vrici}.
+    glosses:
+    - No glosses.

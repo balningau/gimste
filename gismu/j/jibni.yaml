@@ -1,6 +1,78 @@
-Word: jibni
-Rafsi: jbi
-Definition: x1 is near/close to/approximates x2 in property/quantity x3 (ka/ni).
-Notes: See also {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu},
-  {diklo}, {stuzi}.
-Examples: None
+word: jibni
+rafsi:
+- jbi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is near/close to/approximates x2 in property/quantity x3 (ka/ni).
+    notes:
+    - See also {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu},
+      {diklo}, {stuzi}.
+    glosses:
+    - near
+  de:
+    place structure: x1 ist nahe/in der Nähe von x2 in Eigenschaft/Menge x3 (ka/ni);
+      x1 nähert sich x2 an
+    notes:
+    - No notes.
+    glosses:
+    - nah
+  es:
+    place structure: x1 esta cerca/cercano/próximo a x2 en propiedad x3
+    notes:
+    - Ver también {darno},  {lamji},  {diklo}.
+    glosses:
+    - cerca
+  ru:
+    place structure: x1 находится близко от/возле/рядом с/приближен к x2 по свойству/величине
+      x3 ({ka}/{ni})
+    notes:
+    - '{darno} (далекий), {nenri} (внутри), {vanbi} (окружающий), {jbini} (между),
+      {lamji} (смежный), {zvati} (находиться), {cpana} (на), {bartu} (вне), {diklo}
+      (локальный), {stuzi} (место [постоянное])'
+    glosses:
+    - x1=рядом
+  en-simple:
+    place structure: x1 is near or close to x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something near
+    - x2=something to which something is near
+    - x3=a nearness property
+  eo:
+    place structure: x1 estas proksime/apude de x2 laŭ eco/kvanto x3 (ka/ni)
+    notes:
+    - Vidu ankaŭ {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu},
+      {diklo}, {stuzi}.
+    glosses:
+    - proksima
+  hu:
+    place structure: x1 közel van x2-hez x3 tulajdonságban/mennyiségben
+    notes:
+    - '(Lásd még: {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu},
+      {diklo}, {stuzi})'
+    glosses:
+    - közel
+  ja:
+    place structure: x1 は x2 に、 x3 （性質）に関して近い／近似
+    notes:
+    - ・大意： 近い ・読み方： ジブニ  ・語呂合わせ： ジブリに近い ・関連語： {darno}, {nenri}, {vanbi}, {jbini},
+      {lamji}, {zvati}, {cpana}, {bartu}, {diklo}, {stuzi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är nära/närmar sig x2 i egenskap/kvantitet x3 (ka/ni).
+    notes:
+    - No notes.
+    glosses:
+    - nära
+    - närma sig (är i närheten av egenskap/kvantitet)
+  zh:
+    place structure: x1靠近/接近x2，在性质/数量x3上
+    notes:
+    - 参见 {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu}, {diklo},
+      {stuzi}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,70 @@
-Word: stizu
-Rafsi: tiz
-Definition: x1 is a chair/stool/seat/bench, a piece or portion of a piece of furniture
-  intended for sitting.
-Notes: See also {nilce}, {zutse}, {jubme}, {ckana}.
-Examples: None
+word: stizu
+rafsi:
+- tiz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a chair/stool/seat/bench, a piece or portion of a piece
+      of furniture intended for sitting.
+    notes:
+    - See also {nilce}, {zutse}, {jubme}, {ckana}.
+    glosses:
+    - chair
+  jbo:
+    place structure: x1 tutci lo ka zutse ce'u i x1 ka'e pagbu lo nilce
+    notes:
+    - No notes.
+    glosses:
+    - stizu
+  de:
+    place structure: x1 ist ein Stuhl/Sitz/Sessel/Hocker/eine Bank, ein Möbelstück
+      zum Sitzen
+    notes:
+    - No notes.
+    glosses:
+    - Stuhl
+  es:
+    place structure: x1 es una silla/banco/asiento/sillón
+    notes:
+    - No notes.
+    glosses:
+    - silla
+  ru:
+    place structure: x1 — стул/сиденье/скамья (предмет мебели, предназначенный для
+      сидения)
+    notes:
+    - '{nilce} (мебель), {zutse} (сидеть), {jubme} (стол), {ckana} (кровать)'
+    glosses:
+    - стул
+  en-simple:
+    place structure: x1 is a bench or chair
+    notes:
+    - No notes.
+    glosses:
+    - a chair
+  eo:
+    place structure: x1 estas seĝo/tabureto/sidilo/benko, meblo aŭ porcio de meblo
+      por sidi
+    notes:
+    - Vidu ankaŭ {nilce}, {zutse}, {jubme}, {ckana}.
+    glosses:
+    - seĝo
+  hu:
+    place structure: x1 egy szék/sámli/fotel/pad/ülés
+    notes:
+    - '(Lásd még: {nilce}, {zutse}, {jubme}, {ckana})'
+    glosses:
+    - szék
+  ja:
+    place structure: x1 は椅子／腰掛／ベンチ
+    notes:
+    - ・大意： 椅子 ・読み方： スティズ  ・関連語： {nilce}, {zutse}, {jubme}, {ckana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是用于坐的家具（如：椅子/凳子/沙发等）
+    notes:
+    - 参见 {nilce}, {zutse}, {jubme}, {ckana}.
+    glosses:
+    - No glosses.

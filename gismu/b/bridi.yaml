@@ -1,7 +1,97 @@
-Word: bridi
-Rafsi: bri
-Definition: x1 (text) is a predicate relationship with relation x2 among arguments
-  (sequence/set) x3.
-Notes: 'Also: $x_3$ are related by relation $x_2$ (= {terbri} for reordered places).  ($x_3$
-  is a set completely specified); See also {sumti}, {fancu}.'
-Examples: None
+word: bridi
+rafsi:
+- bri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (text) is a predicate relationship with relation x2 among
+      arguments (sequence/set) x3.
+    notes:
+    - 'Also: x3 are related by relation x2 (= {terbri} for reordered places).  (x3
+      is a set completely specified); See also {sumti}, {fancu}.'
+    glosses:
+    - predicate
+  de:
+    place structure: x1 (Text) ist eine Prädikat-Beziehung mit Beziehung x2 zwischen
+      Argumenten (Folge/Menge) x3
+    notes:
+    - No notes.
+    glosses:
+    - Prädikat
+  es:
+    place structure: x1 es un predicado con relación x2 entre argumentos x3
+    notes:
+    - No notes.
+    glosses:
+    - predicado
+  ru:
+    place structure: x1 (текст) - это глагольная фраза (утверждение) со сказуемым
+      (selbri, отношением) x2, связывающим множество / последовательность аргументов
+      (sumti) x3
+    notes:
+    - 'Также: x3 связаны отношением x2: {terbri} для переставленных аргументов); x3
+      должно быть задано полностью; в русском языке ''предикатом (сказуемым)'' обычно
+      называют как x1, так и x2, но в ложбане эти понятия необходимо различать. См.
+      {sumti} - ''существительное/местоимение/имя собственное'', {fancu} - ''математическая
+      функция'''
+    glosses:
+    - предикат
+    - x1=глагольная фраза
+    - x1=сказуемая фраза
+    - x2=предикативное отношение
+    - x2=сказуемое (часть фразы)
+  en-simple:
+    place structure: x1 is a predicate with relationship x2 among arguments x3
+    notes:
+    - No notes.
+    glosses:
+    - a predicate text
+    - x2=a predicate relationship
+    - x3=a predicate argument
+  eo:
+    place structure: x1 (teksto) estas predikato kun rilato x2 inter argumentoj (sinsekvo/aro)
+      x3
+    notes:
+    - 'Ankaŭ: x3 estas rilataj per rilato x2 (= terbri por reordigitaj {lokoj}).  (x3
+      estas aro komplete specifita); Vidu ankaŭ {sumti}, {fancu}.'
+    glosses:
+    - predikato
+  hu:
+    place structure: x1 (szöveg) hozzárendelő kapcsolat x2 összefüggés és x3 bővítmény(ek)
+      között
+    notes:
+    - 'x3 bővítmények x2 összefüggésben állnak egymással az x1 tőmondatban (Lásd még:
+      {sumti}, {fancu})'
+    glosses:
+    - tőmondat/állítás
+  ja:
+    place structure: x1 （文字列）は x2 （関係）を x3 （項の集合）について表す命題
+    notes:
+    - 自然言語においては、 x2 を表すのが賓辞／述語、 x3 を表すのが主辞／主語。 ・大意： 命題 ・読み方： ブリディ  ・語呂合わせ： predicate
+      ・関連語： {sumti}, {fancu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 (tekst) er en predikatrelasjon med relasjon x2 mellom argumenter
+      x3 (ordnet sett)
+    notes:
+    - 'Også: x3 er relatert ved relasjon x2 (x3 er et bestemt definert sett). Se óg
+      {fancu}, {sumti}.'
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (text) är ett predikatförhållande med relation x2 mellan argument
+      x3 (uppsättning i ordning).
+    notes:
+    - 'Även: x3 är relaterade genom relation x2 (x3 är en fullständigt ordnad uppsättning).'
+    glosses:
+    - x1=predikat
+    - x2=predikatförhållande
+    - x3=argument (predikatargument)
+  zh:
+    place structure: x1（文本）是含有联系/关系x2的谓语关系，基于论据x3（集合/序列）
+    notes:
+    - 也指：x3（完整序列）是以关系x2联系的；参见 {sumti}, {fancu}.
+    glosses:
+    - No glosses.

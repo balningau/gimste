@@ -1,9 +1,85 @@
-Word: kandi
-Rafsi: kad
-Definition: x1 is dim/dull/pale/non-intense in property x2 (ka) as received/measured
-  by observer x3.
-Notes: In colors, indicates unsaturated, pastel, pale (though blabi can also indicate
-  a kind of paleness).  See also {blabi}, {carmi}, {klina}, {linto}, {manku}, {murse},
-  {ruble}, {skari}, {milxe}, {blanu}, {bunre}, {cicna}, {crino}, {grusi}, {narju},
-  {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.
-Examples: None
+word: kandi
+rafsi:
+- kad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dim/dull/pale/non-intense in property x2 (ka) as received/measured
+      by observer x3.
+    notes:
+    - In colors, indicates unsaturated, pastel, pale (though blabi can also indicate
+      a kind of paleness).  See also {blabi}, {carmi}, {klina}, {linto}, {manku},
+      {murse}, {ruble}, {skari}, {milxe}, {blanu}, {bunre}, {cicna}, {crino}, {grusi},
+      {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.
+    glosses:
+    - dim
+  de:
+    place structure: x1 ist trübe/matt/bleich/schwach in Eigenschaft x2 (ka), gemessen/empfangen
+      von Betrachter x3
+    notes:
+    - No notes.
+    glosses:
+    - matt
+  es:
+    place structure: x1 es pálido/no intenso en propiedad x2 según observador x3
+    notes:
+    - Ver también {carmi}.
+    glosses:
+    - pálido
+  ru:
+    place structure: x1 — тусклый/бледный/ненасыщенный/неинтенсивный в отношении свойства
+      x2 ({ka}) в восприятии/по измерениям наблюдателя x3
+    notes:
+    - В отношении цвета — ненасыщенный, бледный, пастельный (хотя {blabi} тоже может
+      означать бледный оттенок цвета) {blabi} (белый), {carmi} (интенсивный), {klina}
+      (прозрачный), {linto} (легкий [масса/вес]), {manku} (темный), {murse} (сумерки),
+      {ruble} (слабый), {skari} (иметь цвет), {milxe} (умеренный), {blanu} (синий),
+      {bunre} (коричневый), {cicna} (бирюзовый), {crino} (зеленый), {grusi} (серый
+      [цвет]), {narju} (оранжевый), {nukni} (пурпурный), {pelxu} (желтый), {xekri}
+      (черный), {xunre} (красный), {zirpu} (сиреневый)
+    glosses:
+    - x1=тусклый
+  en-simple:
+    place structure: x1 is dim or non-intense in property x2 received by x3
+    notes:
+    - No notes.
+    glosses:
+    - something dim
+    - x2=a property of dimness
+    - x3=a measurer of dimness
+  eo:
+    place structure: x1 estas pala/malbrila/neintensa en eco x2 (ka) laŭ ricevo/mezuro
+      de observanto x3
+    notes:
+    - En koloroj, indikas nesaturecon, paŝtelecon, palecon (kvankam ankaŭ blabi povas
+      indiki ian palecon).  Vidu ankaŭ {blabi}, {carmi}, {klina}, {linto}, {manku},
+      {murse}, {ruble}, {skari}, {milxe}, {blanu}, {bunre}, cicna,{crino}, grusi,narju,{nukni},
+      pelxu,{xekri}, {xunre}, {zirpu}.
+    glosses:
+    - pala
+  hu:
+    place structure: x1 halvány/homályos/fakó/tompa/matt/telítetlen x2 tulajdonságban,
+      x3 megfigyelő szerint
+    notes:
+    - '(Lásd még: {blabi}, {carmi}, {klina}, {linto}, {manku}, {murse}, {ruble}, {skari},
+      {milxe}, {blanu}, {bunre}, {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu},
+      {xekri}, {xunre}, {zirpu})'
+    glosses:
+    - halvány
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （観点）にとって淡い／薄い
+    notes:
+    - 色彩に限らない。 ・大意： 淡い ・読み方： カンディ  ・語呂合わせ： 淡い感でぃに ・関連語： {blabi}, {carmi}, {klina},
+      {linto}, {manku}, {murse}, {ruble}, {skari}, {milxe}, {blanu}, {bunre}, {cicna},
+      {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是昏暗的/黯淡的/不明亮的，在性质x2（ka）上，对于观测者/接受者来说
+    notes:
+    - 在颜色上可指不饱和/颜色淡/苍白（尽管{blabi}也可指苍白）；参见 {blabi}, {carmi}, {klina}, {linto}, {manku},
+      {murse}, {ruble}, {skari}, {milxe}, {blanu}, {bunre}, {cicna}, {crino}, {grusi},
+      {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.
+    glosses:
+    - No glosses.

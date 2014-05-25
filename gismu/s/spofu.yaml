@@ -1,8 +1,77 @@
-Word: spofu
-Rafsi: pof, po'u
-Definition: x1 is broken/inoperable/broken down/non-utile/not usable for function
-  x2.
-Notes: Agentive break, cause to become inoperable (= {pofygau}, {pofyzu'e}); accidentally
-  break, as a result of an event, non-agentive (= {pofyja'e}, {nutpo'uja'e}).  See
-  also {daspo}, {katna}, {porpi}, {se} {xrani}, {cikre}.
-Examples: None
+word: spofu
+rafsi:
+- pof
+- po'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is broken/inoperable/broken down/non-utile/not usable for
+      function x2.
+    notes:
+    - Agentive break, cause to become inoperable (= {pofygau}, {pofyzu'e}); accidentally
+      break, as a result of an event, non-agentive (= {pofyja'e}, {nutpo'uja'e}).  See
+      also {daspo}, {katna}, {porpi}, {se} {xrani}, {cikre}.
+    glosses:
+    - broken
+  jbo:
+    place structure: x1 na ka'e akti x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist kaputt/defekt/nicht bedienbar/nutzlos für Funktion x2
+    notes:
+    - No notes.
+    glosses:
+    - kaputt
+  es:
+    place structure: x1 está roto/inoperable/estropeado/no funciona en propiedad/aspecto
+      x2
+    notes:
+    - Ver también {kanro}.
+    glosses:
+    - roto
+  ru:
+    place structure: x1 сломан/испорчен/негоден для функции x2
+    notes:
+    - 'Сломать/испортить: {pofygau}, {pofyzu''e}; сломаться/испортиться (случайно):
+      {pofyja''e}, {nutpo''uja''e} {daspo} (разрушать), {katna} (разрезать), {porpi}
+      (разваливаться), {se} {xrani} (вредить), {cikre} (чинить)'
+    glosses:
+    - x1=сломанный
+  en-simple:
+    place structure: x1 is broken in function x2
+    notes:
+    - No notes.
+    glosses:
+    - x2=a function broken
+  eo:
+    place structure: x1 estas nefunkcianta/neutiligebla/rompita por funkcio x2
+    notes:
+    - Rompi, malfunkciigi (= {pofygau}, {pofyzu'e}); akcidente rompiĝi, rezulte de
+      okazo, neagenta (= {pofyja'e}, {nutpo'uja'e}).  Vidu ankaŭ {daspo}, {katna},
+      {porpi}, se {xrani}, {cikre}.
+    glosses:
+    - nefunkcianta
+  hu:
+    place structure: x1 nem működik/elromlott/üzemen kívül van/nem használható x2
+      funkció szempontjából
+    notes:
+    - '(Lásd még: {daspo}, {katna}, {porpi}, {xrani}, {cikre})'
+    glosses:
+    - nem működik
+  ja:
+    place structure: x1 は x2 （機能）に関して故障している／使用不可能
+    notes:
+    - ・大意： 故障 ・読み方： スポフゥ  ・関連語： {daspo}, {katna}, {porpi}, {se} {xrani}, {cikre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是破裂的/崩坏的/不可用的，对于功用x2来说
+    notes:
+    - （施事的}使……破裂/打破= {pofygau}/{pofyzu'e}；（非施事的）因为某个原因而意外破裂= {pofyja'e}/{nutpo'uja'e}；参见
+      {daspo}, {katna}, {porpi}, {se} {xrani}, {cikre}.
+    glosses:
+    - No glosses.

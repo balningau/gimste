@@ -1,9 +1,87 @@
-Word: jemna
-Rafsi: jme
-Definition: x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source
-  x3.
-Notes: Also jewel (= {jmeja'i}); gemstone (= $x_2$, $x_3$, or {jmero'i}, {jmekunra});
-  pearl (= {selcakyjme} - a gem found inside a shell, {tercakyjme} - a gem made of
-  shell material, {boijme} - any ball-shaped gem), mother-of-pearl (= {cakyjme}).  See
-  also {kunra}, {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji}.
-Examples: None
+word: jemna
+rafsi:
+- jme
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source
+      x3.
+    notes:
+    - Also jewel (= {jmeja'i}); gemstone (= x2, x3, or {jmero'i}, {jmekunra}); pearl
+      (= {selcakyjme} - a gem found inside a shell, {tercakyjme} - a gem made of shell
+      material, {boijme} - any ball-shaped gem), mother-of-pearl (= {cakyjme}).  See
+      also {kunra}, {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji}.
+    glosses:
+    - gem
+  de:
+    place structure: x1 ist ein Edelstein/Schmuckstein/Juwel/eine Perle von Typ x2
+      aus Material/Quelle x3
+    notes:
+    - No notes.
+    glosses:
+    - Edelstein
+  es:
+    place structure: x1 es una gema/joya en objeto x2
+    notes:
+    - No notes.
+    glosses:
+    - gema
+  ru:
+    place structure: x1 — (полированный/ограненный) драгоценный камень (ювелирное
+      изделие) типа x2 из камня/материала/источника x3
+    notes:
+    - 'Также: драгоценность: {jmeja''i}; драгоценный камень/самоцвет: x2, x3, или
+      {jmero''i}, {jmekunra}; жемчуг: {selcakyjme}, перламутр: {cakyjme} {kunra} (минерал),
+      {rokci} (камень), {jadni} (украшать [деятельный процесс]), {dirba} (милый),
+      {kargu} (дорогой [дорогостоящий]), {krili} (кристалл), {pulji} (полицейский)'
+    glosses:
+    - x1=драгоценный камень
+  en-simple:
+    place structure: x1 is a gem of type x2 and material x3
+    notes:
+    - No notes.
+    glosses:
+    - a gem
+    - x2=a gem type
+    - x3=a material of a gem
+  eo:
+    place structure: x1 estas gemo/polurita ŝtono/perlo de tipo x2 el gemŝtono/materialo/fonto
+      x3
+    notes:
+    - 'Ankaŭ: ĵuvelo (= {jmeja''i}); gemŝtono (= x2, x3, aŭ jmero''i, jmekunra); perlo
+      (= selcakyjme - gemo trovita ene de ŝelo, tercakyjme - gemo farita el ŝelmaterialo,
+      boijme - iu ajn pilkoforma gemo), perlamoto (=cakyjme).  Vidu ankaŭ {kunra},
+      {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji}.'
+    glosses:
+    - gemo
+  hu:
+    place structure: x1 egy drágakő/igazgyöngy az x2 típusból, x3 anyagból/forrásból
+    notes:
+    - '(Lásd még: {kunra}, {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji})'
+    glosses:
+    - drágakő
+  ja:
+    place structure: x1 は x2 （種類）・ x3 （原石資源／起源）の宝石
+    notes:
+    - ・大意： 宝石 ・読み方： ジェムナ  ・語呂合わせ： gem, jenbau（珍宝）, ratna ・関連語： {kunra}, {rokci}, {jadni},
+      {dirba}, {kargu}, {krili}, {pulji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ädelsten [juvel/infattning etc]/polerad sten/pärla av
+      sorten x2 från ädelstensmineral/material/källa x3.
+    notes:
+    - Även juvel (= {jmeja'i}); ädelsten (= x2, x3, eller {jmero'i}, {jmekunra});
+      pärla (= {selcakyjme} - en "ädelsten" funnen inuti en mussla, {tercakyjme} -
+      en ädelsten gjord av material av skal, {boijme} - vilken som helst klotformad
+      ädelsten), pärlemor (= {cakyjme}).
+    glosses:
+    - ädelsten (bearbetad (infattning/juvel))
+  zh:
+    place structure: x1是宝石/珍珠/珍宝/玉石，具有样式x2，来自材料/来源/原石x3
+    notes:
+    - 珠宝/宝石饰物= {jmeja'i}； 宝石（= x2, x3, 或 {jmero'i}, {jmekunra}）；珍珠={selcakyjme}在贝类中生成/{tercakyjme}由贝壳制成；圆球状宝石={boijme}；珍珠母=
+      {cakyjme}；参见 {kunra}, {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji}.
+    glosses:
+    - No glosses.

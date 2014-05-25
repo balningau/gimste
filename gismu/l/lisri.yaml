@@ -1,9 +1,83 @@
-Word: lisri
-Rafsi: lis
-Definition: x1 is a story/tale/yarn/narrative about plot/subject/moral x2 by storyteller
-  x3 to audience x4.
-Notes: Also legend; a narrative need not be fictional; $x_2$ may be merely a convention
-  rather than a subject; also $x_3$ tells/recounts story/tale $x_1$ about $x_2$ to
-  $x_4$ (= {selterlisri} for place reordering); note that the storyteller need not
-  be the author.  See also {ranmi}, {cfika}, {skicu}, {prosa}, {pemci}.
-Examples: None
+word: lisri
+rafsi:
+- lis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a story/tale/yarn/narrative about plot/subject/moral x2
+      by storyteller x3 to audience x4.
+    notes:
+    - Also legend; a narrative need not be fictional; x2 may be merely a convention
+      rather than a subject; also x3 tells/recounts story/tale x1 about x2 to x4 (=
+      {selterlisri} for place reordering); note that the storyteller need not be the
+      author.  See also {ranmi}, {cfika}, {skicu}, {prosa}, {pemci}.
+    glosses:
+    - story
+  de:
+    place structure: x1 ist eine Geschichte/Erzählung/Sage/Fabel über einen Handlungsverlauf/ein
+      Thema/eine Moral x2 von Erzähler x3 an Publikum x4
+    notes:
+    - No notes.
+    glosses:
+    - Erzählung
+  es:
+    place structure: x1 es una historia/cuento/narrativa con tema/moraleja x2 con
+      narrador x3 ante audiencia x4
+    notes:
+    - Ver también {ranmi},  {cfika},  {skicu},  {prosa},  {pemci}.
+    glosses:
+    - cuento
+  ru:
+    place structure: x1 — рассказ/повесть/повествование/история с сюжетом/темой/моралью
+      x2, рассказчика x3 для аудитории x4
+    notes:
+    - 'Также: легенда; рассказ не обязательно вымышленный; Также: x3 рассказывает/пересказывает
+      историю x1 о x2 для x4: {selterlisri} с переставленными местами); рассказчик
+      не обязан быть автором {ranmi} (миф), {cfika} (вымысел), {skicu} (описывать),
+      {prosa} (проза), {pemci} (стихотворение)'
+    glosses:
+    - повесть
+    - x2=тема повести
+    - x3=рассказчик повести
+    - x4=аудитория повести
+  en-simple:
+    place structure: x1 is a story about x2 told by x3 to x4
+    notes:
+    - No notes.
+    glosses:
+    - a story
+    - x2=a story plot
+    - x3=a storyteller
+    - x4=a story audience
+  eo:
+    place structure: x1 estas rakonto/fabelo pri temo/moralaĵo x2 de rakontanto x3
+      al aŭdantaro x4
+    notes:
+    - 'Ankaŭ: legendo; rakonto ne nepre estas fikcia; x2 povas esti konvencio anstataŭ
+      temo; ankaŭ x3 rakontas x1-on pri x2 al x4 (= selterlisri por reordigitaj {lokoj});
+      rimarku ke la rakontanto ne nepre estas la aŭtoro.  Vidu ankaŭ {ranmi}, {cfika},
+      {skicu}, {prosa}, {pemci}.'
+    glosses:
+    - rakonto
+  hu:
+    place structure: x1 egy történet/elbeszélés x2 cselekménnyel/eseményről/tanulsággal
+      x3 mesélőtől x4 hallgatóságnak
+    notes:
+    - '(Lásd még: {ranmi}, {cfika}, {skicu}, {prosa}, {pemci})'
+    glosses:
+    - történet
+  ja:
+    place structure: x1 は x2 （題目／筋書／教訓）の、 x3 （作者）から x4 （聴者）への物語／説話
+    notes:
+    - 「伝説」なども。x3は話者も。 ・大意： 物語 ・読み方： ルィスリ  ・関連語： {ranmi}, {cfika}, {skicu}, {prosa},
+      {pemci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是故事/传说，关于主题/情节/寓意x2，由x3讲诉给读者/受众x4
+    notes:
+    - 也指：传奇； 不必要是虚构的；x2 可能只是习俗而非主题；x3讲诉故事x1，关于x2，给x4（= {selterlisri} ，注意讲故事的人与故事创作者并不等同）；参见
+      {ranmi}, {cfika}, {skicu}, {prosa}, {pemci}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,69 @@
-Word: tcima
-Rafsi: tim, ti'a
-Definition: x1 is weather at place/region x2; (adjective:) x1 is meteorological.
-Notes: Climate (= {citsyti'a}, {timymo'a}).  See also {brife}, {bumru}, {carvi}, {dilnu},
-  {bratu}.
-Examples: None
+word: tcima
+rafsi:
+- tim
+- ti'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is weather at place/region x2; (adjective:) x1 is meteorological.
+    notes:
+    - Climate (= {citsyti'a}, {timymo'a}).  See also {brife}, {bumru}, {carvi}, {dilnu},
+      {bratu}.
+    glosses:
+    - weather
+  de:
+    place structure: x1 ist Wetter an Ort/in Region x2; (adjektiv:) x1 ist meteorologisch.
+    notes:
+    - Klima ({citsyti'a}, {timymo'a}). Siehe auch {brife}, {bumru}, {carvi}, {dilnu},
+      {bratu}.
+    glosses:
+    - Wetter
+  es:
+    place structure: x1 es el clima/tiempo/condiciones meteorológicas en lugar/región
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - clima
+  ru:
+    place structure: x1 — погода в местности x2
+    notes:
+    - 'Прилагательное: x1 — метеорологический; климат: {citsyti''a}, {timymo''a} {brife}
+      (ветер), {bumru} (туман), {carvi} (дождь), {dilnu} (облако), {bratu} (град [осадок])'
+    glosses:
+    - погода
+  en-simple:
+    place structure: x1 is weather at x2
+    notes:
+    - No notes.
+    glosses:
+    - weather
+    - x2=a location of weather
+  eo:
+    place structure: x1 estas vetero ĉe loko/regiono x2; (adjektivo:) x1 estas meteorologa
+    notes:
+    - Klimato (= {citsyti'a}, {timymo'a}).  Vidu ankaŭ {brife}, {bumru}, {carvi},
+      {dilnu}, {bratu}.
+    glosses:
+    - vetero
+  hu:
+    place structure: x1 az időjárása x2 helynek/területnek
+    notes:
+    - '(Lásd még: {brife}, {bumru}, {carvi}, {dilnu}, {bratu})'
+    glosses:
+    - időjárás
+  ja:
+    place structure: x1 は x2 （所／地域）の気象／気候／天候／天気
+    notes:
+    - 比喩的に「顔色」なども。「to'u ja'o tcima xamgu .inaja lo jikcre cu se sidju／とにかくお天気ならば世間師は助かる」（山頭火『行乞記（二）』）
+      ・大意： 気象 ・読み方： チマ  ・語呂合わせ： 天気がちまちま変わる ・関連語： {brife}, {bumru}, {carvi}, {dilnu},
+      {bratu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是地点/区域x2处的天气/气候；x1是关于气象的
+    notes:
+    - 气候= {citsyti'a}, {timymo'a}；参见 {brife}, {bumru}, {carvi}, {dilnu}, {bratu}.
+    glosses:
+    - No glosses.

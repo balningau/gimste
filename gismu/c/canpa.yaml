@@ -1,5 +1,77 @@
-Word: canpa
-Rafsi: cna
-Definition: x1 is a shovel/spade [bladed digging implement] for digging x2.
-Notes: See also {kakpa}, {guska}, {tutci}.
-Examples: None
+word: canpa
+rafsi:
+- cna
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shovel/spade [bladed digging implement] for digging x2.
+    notes:
+    - See also {kakpa}, {guska}, {tutci}.
+    glosses:
+    - shovel
+  de:
+    place structure: x1 ist eine Schaufel/ein Spaten [Grabwerkzeug mit schaufelförmiger
+      Klinge], um x2 zu graben
+    notes:
+    - No notes.
+    glosses:
+    - Schaufel
+  es:
+    place structure: x1 es una pala para cavar x2
+    notes:
+    - No notes.
+    glosses:
+    - pala
+  ru:
+    place structure: x1 — лопата/заступ (инструмент для копания с острым лезвием)
+      для копания x2 (чего/где)
+    notes:
+    - '{kakpa} (выкапывать), {guska} (соскабливать), {tutci} (инструмент)'
+    glosses:
+    - лопата
+    - x2=копаемый
+  en-simple:
+    place structure: x1 is a shovel or spade for digging x2
+    notes:
+    - No notes.
+    glosses:
+    - a shovel
+    - x2=something dug with a shovel
+  eo:
+    place structure: x1 estas ŝovelilo/fosilo/ŝpato/plugilo [klinga fosa ilo] por
+      fosi x2-on
+    notes:
+    - Vidu ankaŭ {kakpa}, {guska}, {tutci}.
+    glosses:
+    - ŝovelilo
+  hu:
+    place structure: x1 egy ásó/lapát [lapos ásószerszám] x2 ásására
+    notes:
+    - '(Lásd még: {kakpa}, {guska}, {tutci})'
+    glosses:
+    - ásó
+  ja:
+    place structure: x1 は x2 （用途／掘る対象）のシャベル
+    notes:
+    - ・大意： シャベル ・読み方： シャンパ  ・語呂合わせ：  シャンパン, shovel, ・関連語： {kakpa}, {guska}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en spade/skyffel/skovel/skopa/[grävredskap med vassa kanter]
+      för att gräva x2.
+    notes:
+    - No notes.
+    glosses:
+    - grävdon
+    - skopa
+    - skovel
+    - skyffel
+    - x1=spade
+    - x2=uppgrävd
+  zh:
+    place structure: x1是铲/锹，为了挖/掘x2
+    notes:
+    - 参见 {kakpa}, {guska}, {tutci}.
+    glosses:
+    - No glosses.

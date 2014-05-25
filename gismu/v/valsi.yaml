@@ -1,5 +1,79 @@
-Word: valsi
-Rafsi: val, vla
-Definition: 'x1 is a word meaning/causing x2 in language x3; (adjective: x1 is lexical/verbal).'
-Notes: See also {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}.
-Examples: None
+word: valsi
+rafsi:
+- val
+- vla
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a word meaning/causing x2 in language x3; (adjective:
+      x1 is lexical/verbal).'
+    notes:
+    - See also {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}.
+    glosses:
+    - word
+  de:
+    place structure: 'x1 ist ein Wort und bedeutet/bewirkt x2 in Sprache x3; (Adjektiv:
+      x1 ist lexikalisch/wörtlich)'
+    notes:
+    - No notes.
+    glosses:
+    - Wort
+  es:
+    place structure: x1 es una palabra/término/vocablo con significado x2 en idioma
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - palabra
+  fr:
+    place structure: x1 (citation) [zo] est un mot qui signifie x2 dans la langue
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - signifier
+    - traduire
+  ru:
+    place structure: x1 — слово, означающее/приводящее к эффекту x2 в языке x3
+    notes:
+    - 'Прилагательное: x1 — лексический/словесный/вербальный {slaka} (слог), {bangu}
+      (язык [лингвистический]), {cmavo} (), {cmene} (имя), {gismu} (), {jufra} (фраза),
+      {rafsi} (аффикс), {smuni} (значение [смысл])'
+    glosses:
+    - x1=слово
+    - x2=значение слова
+  en-simple:
+    place structure: x1 is a word meaning x2 in language x3
+    notes:
+    - No notes.
+    glosses:
+    - a word
+    - x2=a meaning of a word
+    - x3=a language of a word
+  eo:
+    place structure: 'x1 estas vorto signiganta/kaŭzanta x2-on en lingvo x3; (adjektivo:
+      x1 estas leksikona/vorta)'
+    notes:
+    - Vidu ankaŭ {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}.
+    glosses:
+    - vorto
+  hu:
+    place structure: x1 egy szó x2 jelentéssel/hatással x3 nyelvben
+    notes:
+    - '(Lásd még: {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni})'
+    glosses:
+    - szó
+  ja:
+    place structure: x1 は x2 （意味／効力）を有する、 x3 （言語）の言葉／語彙
+    notes:
+    - x2 は辞書上の意味だけでなく心理上の効力なども。 ・大意： 言葉 ・読み方： ヴァルスィ ・関連語： {slaka}, {bangu}, {cmavo},
+      {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 是有着意义 x2的词，从属于语言 x3 (形容性：x1 是词)
+    notes:
+    - 参见 {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}
+    glosses:
+    - No glosses.

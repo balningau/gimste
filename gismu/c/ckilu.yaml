@@ -1,5 +1,78 @@
-Word: ckilu
-Rafsi: ci'u
-Definition: x1 (si'o) is a scale of units for measuring/observing/determining x2 (state).
-Notes: See also cmavo list {ci'u}, {gradu}, {merli}, {cimde}, {manri}.
-Examples: None
+word: ckilu
+rafsi:
+- ci'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (si'o) is a scale of units for measuring/observing/determining
+      x2 (state).
+    notes:
+    - See also cmavo list {ci'u}, {gradu}, {merli}, {cimde}, {manri}.
+    glosses:
+    - scale
+  jbo:
+    place structure: x1 manri x2 lo nu karbi lo klani lo gradu x2
+    notes:
+    - '{manri}, {karbi}, {klani}, {gradu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (si'o) ist eine Skala/ein Maßstab von Einheiten zum Messen/Bestimmen
+      von x2 (Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - Skala
+  es:
+    place structure: x1 es una escala de unidades para medir/observar/determinar x2
+    notes:
+    - No notes.
+    glosses:
+    - escala
+  ru:
+    place structure: x1 ({si'o}) есть шкала единиц для измерения/наблюдения/определения
+      x2 (состояние)
+    notes:
+    - '{ci''u}, {gradu} (градус), {merli} (измерять), {cimde} (измерение [пространственное]),
+      {manri} (эталон)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a scale of units for measuring x2
+    notes:
+    - No notes.
+    glosses:
+    - a scale
+    - x2=something measured in a scale
+  eo:
+    place structure: x1 (si'o) estas skalo de unuoj por mezuri/observi/determini x2-on
+      (stato)
+    notes:
+    - Vidu ankaŭ cmavo {ci'u}, {gradu}, {merli}, {cimde}, {manri}.
+    glosses:
+    - skalo
+  hu:
+    place structure: x1 mértékegységek skálája x2 mérésére
+    notes:
+    - '(Lásd még: {gradu}, {merli}, {cimde}, {manri})'
+    glosses:
+    - skála
+  ja:
+    place structure: x1 は x2 （性質）を測るための単位／尺度
+    notes:
+    - ・大意： 測量単位 ・読み方： シキルゥ ・関連語： {ci'u}, {gradu}, {merli}, {cimde}, {manri}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en skala med enheter för bestämning/observation/mätning
+      av x2 (state).
+    notes:
+    - No notes.
+    glosses:
+    - skala (för mätning etc)
+  zh:
+    place structure: x1（si'o）是计量单位，用来测量/定量x2（状态）
+    notes:
+    - 参见 {ci'u}, {gradu}, {merli}, {cimde}, {manri}.
+    glosses:
+    - No glosses.

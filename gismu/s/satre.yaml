@@ -1,5 +1,70 @@
-Word: satre
-Rafsi: sa'e
-Definition: x1 (agent) strokes/rubs/pets x2 with x3.
-Notes: Pet (= {pamsa'e}).  See also {mosra}, {pencu}.
-Examples: None
+word: satre
+rafsi:
+- sa'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) strokes/rubs/pets x2 with x3.
+    notes:
+    - Pet (= {pamsa'e}).  See also {mosra}, {pencu}.
+    glosses:
+    - stroke
+  jbo:
+    place structure: x1 pencu x2 boi x3 lo kuspe noi x3 muvdu fo ke'a
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Handelnder) streichelt x2 mit x3
+    notes:
+    - No notes.
+    glosses:
+    - streicheln
+  es:
+    place structure: x1 acaricia/masajea a x2 con x3
+    notes:
+    - No notes.
+    glosses:
+    - acariciar
+  ru:
+    place structure: x1 гладит/потирает x2 с помощью/посредством x3
+    notes:
+    - 'Ласкать: {pamsa''e} {mosra} (трение), {pencu} (трогать)'
+    glosses:
+    - гладить
+    - x1=гладящий
+    - x2=то, что гладят
+  en-simple:
+    place structure: x1 strokes x2 with x3
+    notes:
+    - No notes.
+    glosses:
+    - a stroker
+    - x2=something stroked
+    - x3=a stroking implement
+  eo:
+    place structure: x1 (aganto) frotas/karesas x2-on per x3
+    notes:
+    - Karesi (= {pamsa'e}).  Vidu ankaŭ {mosra}, {pencu}.
+    glosses:
+    - froti
+  hu:
+    place structure: x1 simogatja/dörzsöli x2-t x3-mal
+    notes:
+    - '(Lásd még: {mosra}, {pencu})'
+    glosses:
+    - simogat
+  ja:
+    place structure: x1 は x2 を x3 でなでる／愛撫する
+    notes:
+    - ・大意： なでる ・読み方： サトレ  ・語呂合わせ： なでて悟れ ・関連語： {mosra}, {pencu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1抚摸/抚弄x2，使用x3
+    notes:
+    - 爱抚= {pamsa'e}；参见 {mosra}, {pencu}.
+    glosses:
+    - No glosses.

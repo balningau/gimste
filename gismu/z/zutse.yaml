@@ -1,5 +1,64 @@
-Word: zutse
-Rafsi: zut, tse
-Definition: x1 sits [assumes sitting position] on surface x2.
-Notes: See also {stizu}, {cpana}, {vreta}.
-Examples: None
+word: zutse
+rafsi:
+- zut
+- tse
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sits [assumes sitting position] on surface x2.
+    notes:
+    - See also {stizu}, {cpana}, {vreta}.
+    glosses:
+    - sit
+  de:
+    place structure: x1 sitzt auf der Fläche x2.
+    notes:
+    - Siehe auch {stizu}, {cpana}, {vreta}.
+    glosses:
+    - sitzen
+  es:
+    place structure: x1 se sienta sobre x2
+    notes:
+    - Ver también {vreta},  {stizu}.
+    glosses:
+    - sentarse
+  ru:
+    place structure: x1 сидит (находится в сидячем положении) на поверхности x2
+    notes:
+    - '{stizu} (стул [сиденье]), {cpana} (на), {vreta} (лежать [на чем-либо])'
+    glosses:
+    - сидеть на
+    - x1=сидящий на
+    - x2=то, на чём сидят
+  en-simple:
+    place structure: x1 sits on x2
+    notes:
+    - No notes.
+    glosses:
+    - a sitter
+    - x2=a surface sat on
+  eo:
+    place structure: x1 sidas sur surfaco x2
+    notes:
+    - Vidu ankaŭ {stizu}, {cpana}, {vreta}.
+    glosses:
+    - sidi
+  hu:
+    place structure: x1 ül x2 felületen
+    notes:
+    - '(Lásd még: {stizu}, {cpana}, {vreta})'
+    glosses:
+    - ül
+  ja:
+    place structure: x1 は x2 （表面）に座る／着席する
+    notes:
+    - ・大意： 座る ・読み方： ズツェ ・語呂合わせ： ＜頭痛席に座る＞ ・関連語： {stizu}, {cpana}, {vreta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1坐在x2上
+    notes:
+    - 参见 {stizu}, {cpana}, {vreta}。
+    glosses:
+    - 坐

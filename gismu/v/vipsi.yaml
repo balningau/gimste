@@ -1,6 +1,67 @@
-Word: vipsi
-Rafsi: vip
-Definition: x1 is a deputy/vice/subordinate in aspect [or organization principle]
-  x2 (ka) to principal x3.
-Notes: Also assistant, adjutant.  See also {krati}, {sidju}.
-Examples: None
+word: vipsi
+rafsi:
+- vip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a deputy/vice/subordinate in aspect [or organization principle]
+      x2 (ka) to principal x3.
+    notes:
+    - Also assistant, adjutant.  See also {krati}, {sidju}.
+    glosses:
+    - deputy
+  de:
+    place structure: x1 ist ein Stellvertreter/Abgeordneter/Delegierter/Vize-/Untergebener
+      in Aspekt [oder Organisationsprinzip] x2 (ka) gegenüber Vorgesetzter x3
+    notes:
+    - No notes.
+    glosses:
+    - Vertreter
+  es:
+    place structure: x1 es un segundo/vice/subordinado/secundario/asistente/ayudante
+      en aspecto x2 con principal x3
+    notes:
+    - No notes.
+    glosses:
+    - vice
+  ru:
+    place structure: x1 — заместитель/помощник/подчиненный по (кругу вопросов/сфере
+      деятельности) x2 ({ka}) начальника x3
+    notes:
+    - 'Также: ассистент, адьютант {krati} (представитель), {sidju} (помогать)'
+    glosses:
+    - помощник
+  en-simple:
+    place structure: x1 is a subordinate in aspect x2 to principal x3
+    notes:
+    - No notes.
+    glosses:
+    - a subordinate
+    - x2=a subordinate aspect
+    - x3=something to which something is subordinate
+  eo:
+    place structure: x1 estas vic-/subulo laŭ aspekto [aŭ organizaĵa principo] x2
+      (ka) de ĉef-/superulo x3
+    notes:
+    - Vidu ankaŭ {krati}, {sidju}.
+    glosses:
+    - vic-
+  hu:
+    place structure: x1 a helyettese/megbízottja/beosztottja x2 tekintetben x3-nak
+    notes:
+    - '(Lásd még: {krati}, {sidju})'
+    glosses:
+    - helyettes
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （者）の副官／補佐官／部下；  x3 は x1 の上司
+    notes:
+    - x2 は企業組織なども。 ・大意： 副官 ・読み方： ヴィプスィ  ・関連語： {krati}, {sidju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是副职的，在x2方面（ka，组织原则等），从属于主职x3；x1是副的x3
+    notes:
+    - 也指：副官/助理；参见 {krati}, {sidju}.
+    glosses:
+    - No glosses.

@@ -1,9 +1,90 @@
-Word: cinse
-Rafsi: cin
-Definition: x1 in activity/state x2 exhibits sexuality/gender/sexual orientation x3
-  (ka) by standard x4.
-Notes: 'Also: $x_1$ courts/flirts; $x_3$ could be a ka <gender or role>, ka <attraction
-  to a gender>, or ka <type of activity>, etc.; (adjective:) $x_1$ is sexual/sexy;
-  $x_1$ is flirted with/courted by $x_2$ (= {cinfriti}, {cinjikca}).  See also {gletu},
-  {pinji}, {plibu}, {vibna}, {vlagi}.'
-Examples: None
+word: cinse
+rafsi:
+- cin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 in activity/state x2 exhibits sexuality/gender/sexual orientation
+      x3 (ka) by standard x4.
+    notes:
+    - 'Also: x1 courts/flirts; x3 could be a ka <gender or role>, ka <attraction to
+      a gender>, or ka <type of activity>, etc.; (adjective:) x1 is sexual/sexy; x1
+      is flirted with/courted by x2 (= {cinfriti}, {cinjikca}).  See also {gletu},
+      {pinji}, {plibu}, {vibna}, {vlagi}.'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 in Aktivität/Zustand x2 weist Sexualität/Geschlecht/sexuelle
+      Ausrichtung x3 (ka) auf gemäß Standard x4
+    notes:
+    - No notes.
+    glosses:
+    - sexuell
+  es:
+    place structure: x1 exhibe sexo/sexualidad/género/orientación sexual x2 al hacer/ser
+      x3 según estándar x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 в деятельности/состоянии x2 проявляет сексуальность/пол/сексуальную  ориентацию
+      x3 ({ka}) относительно стандарта x4
+    notes:
+    - 'Также: x1 ухаживает/флиртует; x3 м.б. {ka} (пол или роль), {ka} (тяготение
+      к определенному полу), {ka} (тип деятельности) и т.д.; x2 ухаживает за/флиртует
+      с x1: {cinfriti}, {cinjikca} {gletu} (совокупляться), {pinji} (пенис), {plibu}
+      (лобок), {vibna} (влагалище), {vlagi} (вульва)'
+    glosses:
+    - сексуальный
+    - x3=сексуальная ориентация
+  en-simple:
+    place structure: x1 in activity or state x2 exhibits sexuality x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something sexual
+    - x2=a sexual activity
+    - x3=a sexuality
+    - x4=a standard of sexuality
+  eo:
+    place structure: x1 en ago/stato x2 montras seksecon/genro/seksa orientiĝo x3
+      (ka) laŭ normo x4
+    notes:
+    - 'Ankaŭ: x1 amindumas/flirtas; x3 povus esti ka <sekso aŭ rolo>, ka <allogiĝo
+      al iu sekso>, aŭ ka <tipo de ago>, ktp.; (adjektivo:) x1 estas seksa; x1 amindumita
+      de x2 (=cinfriti, cinjikca).  Vidu ankaŭ {gletu}, {pinji}, {plibu}, {vibna},
+      {vlagi}.'
+    glosses:
+    - seksa
+  hu:
+    place structure: x1 bizonyos szexualitást/nemi irányultságot mutat x2 állapotával/cselekedetével,
+      amely irányultság x3, x4 norma szerint
+    notes:
+    - '(Lásd még: {gletu}, {pinji}, {plibu}, {vibna}, {vlagi})'
+    glosses:
+    - erotikus
+  ja:
+    place structure: x1 は x2 （行為／状態）で x3 （性質）を x4 （基準）における性的特徴として表す／有する；  x1 は性的／セクシー
+    notes:
+    - ・大意： 性的 ・読み方： シンセ  ・語呂合わせ： 神性 ・関連語： {gletu}, {pinji}, {plibu}, {vibna}, {vlagi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 visar i och med  aktivitet/tillstånd x2 sexualitet/genus/sexuell
+      läggning x3 enligt standard x4.
+    notes:
+    - No notes.
+    glosses:
+    - x1=sexuell
+    - x2=sexualitet (specifik aktivitet/tillstånd)
+    - x3=sexuell läggning
+    - x4=sexuell standard/norm
+  zh:
+    place structure: x1处于表现出其性取向x3（ka）的活动/状态x2中，基于标准x4
+    notes:
+    - 也指：x1调情；x3可指：ka（性别/角色），ka（性吸引力）或ka（行为类型）；x1关于性的；（x1被x2调情）={cinfriti}/{cinjikca}；参见
+      {gletu}, {pinji}, {plibu}, {vibna}, {vlagi}.
+    glosses:
+    - No glosses.

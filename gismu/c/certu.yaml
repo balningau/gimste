@@ -1,6 +1,79 @@
-Word: certu
-Rafsi: cre
-Definition: x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity) by
-  standard x3.
-Notes: Also competent, skilled.  See also {djuno}, {stati}, {kakne}.
-Examples: None
+word: certu
+rafsi:
+- cre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity)
+      by standard x3.
+    notes:
+    - Also competent, skilled.  See also {djuno}, {stati}, {kakne}.
+    glosses:
+    - expert
+  de:
+    place structure: x1 ist ein Experte/Profi/hat Fähigkeiten in/ist begabt in x2
+      (Ereignis/Aktivität) nach Standard x3.
+    notes:
+    - Auch kompetent, talentiert.  Siehe auch {djuno}, {stati}, {kakne}.
+    glosses:
+    - Experte
+  es:
+    place structure: x1 es un experto/profesional/sabe hacer x2 (evento) según estándar
+      x3
+    notes:
+    - Ver también {djuno},  {stati}.
+    glosses:
+    - experto
+  ru:
+    place structure: x1 — эксперт/знаток/умелец/профессионал/мастер в x2 (событие/деятельность)
+      по стандарту x3
+    notes:
+    - 'Также: компетентный, искусный, умеет {djuno} (знать), {stati} (талант), {kakne}
+      (мочь)'
+    glosses:
+    - эксперт
+  en-simple:
+    place structure: x1 is an expert or is skilled at x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something skilled
+    - x2=something skilled at
+    - x3=a standard of skill
+  eo:
+    place structure: x1 estas spertulo/profesiulo pri x2 (okazo/ago) laŭ normo x3
+    notes:
+    - 'Ankaŭ: kompetenta, lerta.  Vidu ankaŭ {djuno}, {stati}, {kakne}.'
+    glosses:
+    - spertulo
+  hu:
+    place structure: x1 egy szakértője/mestere x2 műveletnek x3 mérce szerint
+    notes:
+    - '(Lásd még: {djuno}, {stati}, {kakne})'
+    glosses:
+    - szakértő
+  ja:
+    place structure: x1 は x2 （事／行為）の、 x3 （基準）における玄人／達人／プロ／ベテラン
+    notes:
+    - ・大意： 玄人 ・読み方： シェルトゥ  ・関連語： {djuno}, {stati}, {kakne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en expert/pro/är skicklig/kompetent i x2 (händelse/aktivitet)
+      enligt standard x3.
+    notes:
+    - No notes.
+    glosses:
+    - färdighet (kompetens)
+    - kompetent
+    - skicklig
+    - x1=expert
+    - x2=kompetens (färdighet)
+    - x3=kompetensstandard
+  zh:
+    place structure: x1是专家/专业的/职业的/有技术的，在时间/活动/工作x2上，基于标准x3
+    notes:
+    - 也指足以胜任的，熟练的； 参见 {djuno}, {stati}, {kakne}.
+    glosses:
+    - No glosses.

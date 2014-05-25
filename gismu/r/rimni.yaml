@@ -1,7 +1,73 @@
-Word: rimni
-Rafsi: rim
-Definition: x1 rhymes/alliterates with x2 in language/phonetics x3, matching sound
-  correspondence x4 (ka).
-Notes: Broad meaning of rhyme - any matching sound correspondence.  See also {pemci},
-  {sanga}.
-Examples: None
+word: rimni
+rafsi:
+- rim
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 rhymes/alliterates with x2 in language/phonetics x3, matching
+      sound correspondence x4 (ka).
+    notes:
+    - Broad meaning of rhyme - any matching sound correspondence.  See also {pemci},
+      {sanga}.
+    glosses:
+    - rhyme
+  de:
+    place structure: x1 reimt sich/ist eine Alliteration mit x2 in Sprache/Aussprache
+      x3, mit Lautübereinstimmung x4
+    notes:
+    - No notes.
+    glosses:
+    - Reim
+  es:
+    place structure: x1 rima/alitera con x2 en idioma/fonética x3, con sonido correspondiente
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - rimar
+  ru:
+    place structure: x1 рифмуется/созвучно/аллитерирует с x2 в языке/фонетике x3,
+      в согласии с правилом/принципом звукового соответствия x4 ({ka})
+    notes:
+    - «Рифма» здесь в широком смысле — любое звуковое соответствие {pemci} (стихотворение),
+      {sanga} (петь)
+    glosses:
+    - x1=рифма
+    - x4=правила рифмы
+  en-simple:
+    place structure: x1 rhymes with x2 in language x3 with correspondence x4
+    notes:
+    - No notes.
+    glosses:
+    - something that rhymes
+    - x2=something rhymed with
+    - x3=a language of a rhyme
+    - x4=a sound of a rhyme
+  eo:
+    place structure: x1 rimas/aliteracias kun x2 en lingvo/fonetiko x3, konforma sonrespondo
+      x4 (ka)
+    notes:
+    - Larĝa senco de rimo - ia ajn interresponda konformo de sono.  Vidu ankaŭ {pemci},
+      {sanga}.
+    glosses:
+    - rimo
+  hu:
+    place structure: x1 rímel/alliterál/összecseng x2-vel x3 nyelv/fonetika szerint,
+      x4 hangkapcsolatban
+    notes:
+    - '(Lásd még: {pemci}, {sanga})'
+    glosses:
+    - rímel
+  ja:
+    place structure: x1 は x2 （音声）・ x3 （言語／音韻論）・ x4 （性質）について韻を踏む
+    notes:
+    - ・大意： 韻 ・読み方： リムニ  ・関連語： {pemci}, {sanga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2押韵，在语言/语音学x3中，韵脚为x4（ka）
+    notes:
+    - 广义上的押韵包括任何听起来契合的音；参见 {pemci}, {sanga}.
+    glosses:
+    - No glosses.

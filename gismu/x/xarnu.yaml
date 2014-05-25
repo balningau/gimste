@@ -1,6 +1,68 @@
-Word: xarnu
-Rafsi: ''
-Definition: x1 is stubborn/willfully opposing/resisting x2 about x3 (event/state).
-Notes: $x_2$ may be a person, a state or condition, or a force; the essence is willful
-  resistance.  See also {tinsa}, {pante}, {bapli}, {fapro}.
-Examples: None
+word: xarnu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is stubborn/willfully opposing/resisting x2 about x3 (event/state).
+    notes:
+    - x2 may be a person, a state or condition, or a force; the essence is willful
+      resistance.  See also {tinsa}, {pante}, {bapli}, {fapro}.
+    glosses:
+    - stubborn
+  de:
+    place structure: x1 ist eigensinnig/unbeugsam/stur gegen x2 über x3 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - stur
+  es:
+    place structure: x1 es terco/porfiado/obstinado/tenaz en x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - terco
+  ru:
+    place structure: x1 сопротивляется/сознательно противостоит x2 (кому/чему) в отношении
+      x3 (события/состояния); x1 — упорный/упрямый
+    notes:
+    - x2 может быть лицом, состоянием или условием, или силой; определяющим является
+      сознательное сопротивление. См. {tinsa} - 'жесткий', {pante} - 'жаловаться',
+      {bapli} - 'заставлять', {fapro} - 'противостоять'
+    glosses:
+    - упрямый
+  en-simple:
+    place structure: x1 stubbornly opposes x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - something stubborn
+    - x2=something stubbornly opposed
+    - x3=a subject of stubbornness
+  eo:
+    place structure: x1 estas obstina/vole kontraŭanta/rezistanta x2-on pri x3 (okazo/stato)
+    notes:
+    - x2 povas esti homo, stato aŭ kondiĉo, aŭ forto; la esenco estas vola rezisto.  Vidu
+      ankaŭ {tinsa}, {pante}, {bapli}, {fapro}.
+    glosses:
+    - obstina
+  hu:
+    place structure: x1 makacs/csökönyös / szándékosan ellentmond/ellenáll x2-nek
+      x3-mal kapcsolatban
+    notes:
+    - '(Lásd még: {tinsa}, {pante}, {bapli}, {fapro})'
+    glosses:
+    - makacs
+  ja:
+    place structure: x1 は x2 （者／事）にたいし、 x3 （事／状態）について（意志的に）頑固／強情／片意地／不屈
+    notes:
+    - ・大意： 頑固 ・読み方： クァルヌ  ・関連語： {tinsa}, {pante}, {bapli}, {fapro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是顽固的/倔强的/固执的，在对抗/反对x2方面，关于x3（事件/状态）
+    notes:
+    - x2可能指人/条件状态/力； 本质是意志上的抗拒；参见 {tinsa}, {pante}, {bapli}, {fapro}.
+    glosses:
+    - No glosses.

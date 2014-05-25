@@ -1,8 +1,83 @@
-Word: jinme
-Rafsi: jim
-Definition: x1 is a quantity of/contains/is made of made of metal of composition including
-  x2.
-Notes: (adjective:) $x_1$ is metallic.  See also {cnisa}, {gasta}, {lastu}, {margu},
-  {nikle}, {ransu}, {romge}, {sodna}, {tinci}, {tirse}, {tunka}, {zinki}, {kunra},
-  {sodva}.
-Examples: None
+word: jinme
+rafsi:
+- jim
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of made of metal of composition
+      including x2.
+    notes:
+    - (adjective:) x1 is metallic.  See also {cnisa}, {gasta}, {lastu}, {margu}, {nikle},
+      {ransu}, {romge}, {sodna}, {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva}.
+    glosses:
+    - metal
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Metall mit Zusammensetzung
+      unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Metall
+  es:
+    place structure: x1 es una cantidad de metal de composición x2
+    notes:
+    - No notes.
+    glosses:
+    - metal
+  ru:
+    place structure: x1 — металл, содержащий x2
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава) {cnisa} (свинец),
+      {gasta} (сталь), {lastu} (латунь), {margu} (ртуть), {nikle} (никель), {ransu}
+      (бронза), {romge} (поверхность [зеркальная/хромированная]), {sodna} (щелочной
+      металл), {tinci} (олово), {tirse} (железо), {tunka} (медь), {zinki} (цинк),
+      {kunra} (минерал), {sodva} (газированный напиток)'
+    glosses:
+    - x1=металл
+  en-simple:
+    place structure: x1 is a quantity of metal of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of metal
+    - x2=a composition of metal
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el metalo de konsisto enhavanta
+      x2-on
+    notes:
+    - Vidu ankaŭ {cnisa}, {gasta}, {lastu}, {margu}, {nikle}, {ransu}, {romge}, {sodna},
+      {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva}.
+    glosses:
+    - metalo
+  hu:
+    place structure: x1 egy bizonyos mennyiségű fém (-et tartalmaz/-ből készült),
+      x2 összetétellel
+    notes:
+    - '(Lásd még: {cnisa}, {gasta}, {lastu}, {margu}, {nikle}, {ransu}, {romge}, {sodna},
+      {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva})'
+    glosses:
+    - fém
+  ja:
+    place structure: x1 は x2 （成分）の金属
+    notes:
+    - ・大意： 金属 ・読み方： ジンメ  ・語呂合わせ： 人面金属 ・関連語： {cnisa}, {gasta}, {lastu}, {margu}, {nikle},
+      {ransu}, {romge}, {sodna}, {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av/innehåller/är gjord av metall av sammansättning
+      som bland annat innehåller x2.
+    notes:
+    - x1 är metallisk.
+    glosses:
+    - metallisk
+    - x1=metall
+    - x2=metallsort
+  zh:
+    place structure: x1是金属/合金，组分包括x2
+    notes:
+    - x1是金属的；参见 {cnisa}, {gasta}, {lastu}, {margu}, {nikle}, {ransu}, {romge}, {sodna},
+      {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva}.
+    glosses:
+    - No glosses.

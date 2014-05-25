@@ -1,6 +1,72 @@
-Word: jgalu
-Rafsi: ja'u
-Definition: 'x1 is a/the claw/nail/talon [body-part] of x2; [metaphor: pointed, penetrating,
-  physical weapon].'
-Notes: See also {denci}, {jirna}, {batci}.
-Examples: None
+word: jgalu
+rafsi:
+- ja'u
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the claw/nail/talon [body-part] of x2; [metaphor: pointed,
+      penetrating, physical weapon].'
+    notes:
+    - See also {denci}, {jirna}, {batci}.
+    glosses:
+    - claw
+  de:
+    place structure: 'x1 ist eine Klaue/Kralle/ein (Finger-)Nagel [Körperteil] von
+      x2; [im übertragenen Sinn: gerichtet, stechend, physikalische Waffe]'
+    notes:
+    - No notes.
+    glosses:
+    - Klaue
+  es:
+    place structure: x1 es una garra/uña (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - garra
+  ru:
+    place structure: x1 — коготь/ноготь (часть тела) x2
+    notes:
+    - 'Метафора: заостренное, проникающее оружие {denci} (зуб), {jirna} (рог [у животных]),
+      {batci} (кусать)'
+    glosses:
+    - ноготь
+  en-simple:
+    place structure: x1 is a claw of x2
+    notes:
+    - No notes.
+    glosses:
+    - a claw
+    - x2=something with a claw
+  eo:
+    place structure: 'x1 estas ungo/ungego [korpoparto] de x2; [metafore: pinta, penetra,
+      fizika armilo]'
+    notes:
+    - Vidu ankaŭ {denci}, {jirna}, {batci}.
+    glosses:
+    - ungo
+  hu:
+    place structure: x1 a körme/karma x2-nek
+    notes:
+    - '(Lásd még: {denci}, {jirna}, {batci})'
+    glosses:
+    - köröm
+  ja:
+    place structure: x1 は x2 （本体）の爪／蹄／かぎづめ
+    notes:
+    - ・大意： 爪 ・読み方： ジガルゥ  ・関連語： {denci}, {jirna}, {batci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en klo/nagel/fågelklo [kroppsdel] av x2.
+    notes:
+    - No notes.
+    glosses:
+    - klo
+    - nagel
+  zh:
+    place structure: x1是x2的指甲/爪子（身体部位）
+    notes:
+    - 参见 {denci}, {jirna}, {batci}.
+    glosses:
+    - No glosses.

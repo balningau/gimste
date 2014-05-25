@@ -1,6 +1,91 @@
-Word: ckana
-Rafsi: cka
-Definition: x1 is a bed/pallet of material x2 for holding/supporting x3 (person/object/event).
-Notes: See also {kamju}, {kicne}, {nilce}, {palta}, {cpana}, {vreta}, {jubme}, {stizu},
-  {matci}, {zbepi}, {palne}, {sarji}.
-Examples: None
+word: ckana
+rafsi:
+- cka
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bed/pallet of material x2 for holding/supporting x3 (person/object/event).
+    notes:
+    - See also {kamju}, {kicne}, {nilce}, {palta}, {cpana}, {vreta}, {jubme}, {stizu},
+      {matci}, {zbepi}, {palne}, {sarji}.
+    glosses:
+    - bed
+  jbo:
+    place structure: x1 nilce fi lo ka x3 vreta ce'u kei gi'e te marji fi x2
+    notes:
+    - No notes.
+    glosses:
+    - ckana
+  de:
+    place structure: x1 ist ein Bett/Lager/eine Pritsche aus Material x2 um x3 (Person/Gegenstand/Ereignis)
+      zu halten/stützen/aufzunehmen
+    notes:
+    - No notes.
+    glosses:
+    - Bett
+  es:
+    place structure: x1 es una cama/lecho de material x2 para sostener/soportar a
+      x3 (persona/objeto/evento)
+    notes:
+    - Ver también {palta},  {cpana},   {vreta},  {jubme}.
+    glosses:
+    - cama
+  ru:
+    place structure: x1 — ложе/поддон из материала x2, дающее опору x3 (лицо/предмет/событие);
+      ткж. кровать/койка/нары
+    notes:
+    - '{kamju} (колонна [столб]), {kicne} (подушка), {nilce} (мебель), {palta} (тарелка),
+      {cpana} (на), {vreta} (лежать [на чем-либо]), {jubme} (стол), {stizu} (стул
+      [сиденье]), {matci} (матрац), {zbepi} (подставка), {palne} (поднос), {sarji}
+      (поддерживать [помогать])'
+    glosses:
+    - x1=поддон
+  en-simple:
+    place structure: x1 is a bed of material x2 for holding or supporting x3
+    notes:
+    - No notes.
+    glosses:
+    - a bed
+    - x2=a material of a bed
+    - x3=something supported by a bed
+  eo:
+    place structure: x1 estas lito el materialo x2 por subteni x3-on (homo/objekto/okazo)
+    notes:
+    - Vidu ankaŭ {kamju}, {kicne}, {nilce}, {palta}, {cpana}, {vreta}, {jubme}, {stizu},
+      {matci}, {zbepi}, {palne}, {sarji}.
+    glosses:
+    - lito
+  hu:
+    place structure: x1 egy ágy/matrac/priccs x2 anyagból, x3 (személy/tárgy/esemény)
+      számára
+    notes:
+    - '(Lásd még: {kamju}, {kicne}, {nilce}, {palta}, {cpana}, {vreta}, {jubme}, {stizu},
+      {matci}, {zbepi}, {palne}, {sarji})'
+    glosses:
+    - ágy
+  ja:
+    place structure: x1 は x2 （素材）の、 x3 （者／物／事）を支えるための寝台／ベッド
+    notes:
+    - ・大意： 寝台 ・読み方： シカナ  ・語呂合わせ： ベッドしかない ・関連語： {kamju}, {kicne}, {nilce}, {palta},
+      {cpana}, {vreta}, {jubme}, {stizu}, {matci}, {zbepi}, {palne}, {sarji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en säng/bädd av material x2 för att hålla uppe/bära upp
+      x3 (person/objekt/händelse).
+    notes:
+    - No notes.
+    glosses:
+    - bädd (sängplats)
+    - madrass
+    - x1=säng
+    - x2=sängmaterial
+    - x3=sängliggare
+  zh:
+    place structure: x1是支撑板，由材料x2构成，为了支撑x3
+    notes:
+    - 参见 {kamju}, {kicne}, {nilce}, {palta}, {cpana}, {vreta}, {jubme}, {stizu}, {matci},
+      {zbepi}, {palne}, {sarji}.
+    glosses:
+    - No glosses.

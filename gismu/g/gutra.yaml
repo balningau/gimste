@@ -1,6 +1,67 @@
-Word: gutra
-Rafsi: ''
-Definition: 'x1 is a/the womb/uterus [body-part] of x2; [metaphor: nourishing, protective,
-  giving birth].'
-Notes: See also {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}.
-Examples: None
+word: gutra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the womb/uterus [body-part] of x2; [metaphor: nourishing,
+      protective, giving birth].'
+    notes:
+    - See also {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}.
+    glosses:
+    - womb
+  de:
+    place structure: 'x1 ist eine/die Gebärmutter [Körperteil] von x2; [im übertragenen
+      Sinne: nährend, schützend, Leben gebend]'
+    notes:
+    - No notes.
+    glosses:
+    - Gebärmutter
+  es:
+    place structure: x1 es un vientre/útero/matriz (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - útero
+  ru:
+    place structure: x1 — матка/утроба (часть тела) x2
+    notes:
+    - 'Метафора: то, что вскармливает, защищает, рождает {jbena} (рожденный), {rorci}
+      (порождать), {sovda} (яйцо), {tarbi} (эмбрион), {ganti} (яичко [анатомия]),
+      {mabla} (негативный [о значении/смысле слова])'
+    glosses:
+    - матка
+  en-simple:
+    place structure: x1 is the womb of x2
+    notes:
+    - No notes.
+    glosses:
+    - a womb
+    - x2=something with a womb
+  eo:
+    place structure: 'x1 estas (la) utero [korpoparto] de x2; [metafore: nutranta,
+      protektanta, naskanta]'
+    notes:
+    - Vidu ankaŭ {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}.
+    glosses:
+    - utero
+  hu:
+    place structure: x1 egy/a méhe x2-nek
+    notes:
+    - '(Lásd még: {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla})'
+    glosses:
+    - méh (testrész)
+  ja:
+    place structure: x1 は x2 （本体）の子宮
+    notes:
+    - ・大意： 子宮 ・読み方： グトラ  ・語呂合わせ： zigun（子宮）,uterus ・関連語： {jbena}, {rorci}, {sovda},
+      {tarbi}, {ganti}, {mabla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的子宫；（可比喻：孕育之处）
+    notes:
+    - 参见 {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}.
+    glosses:
+    - No glosses.

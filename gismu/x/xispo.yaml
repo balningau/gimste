@@ -1,6 +1,70 @@
-Word: xispo
-Rafsi: xip
-Definition: x1 reflects Hispano-American culture/nationalities in aspect x2.
-Notes: Refers to Spanish-speaking Latin-American countries, not Brazil/Guyana.  See
-  also {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.
-Examples: None
+word: xispo
+rafsi:
+- xip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Hispano-American culture/nationalities in aspect
+      x2.
+    notes:
+    - Refers to Spanish-speaking Latin-American countries, not Brazil/Guyana.  See
+      also {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.
+    glosses:
+    - Hispanic
+  de:
+    place structure: x1 repräsentiert die Kultur/Nationalitäten der Hispanics in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Hispanic
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma hispanoamericano/hispano
+      en aspecto x2
+    notes:
+    - Ver también {ketco},  {spano}.
+    glosses:
+    - hispánico
+  ru:
+    place structure: x1 — латиноамериканский в аспекте x2
+    notes:
+    - Относится к испаноязычным странам Латинской Америки, но не к Бразилии/Гайане
+      {merko} (американский [США]), {mexno} (мексиканский), {spano} (испанский), {ketco}
+      (южноамериканский), {bemro} (североамериканский), {gento} (аргентинский)
+    glosses:
+    - латиноамериканский
+  en-simple:
+    place structure: x1 is Hispanic-American in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Hispanic
+    - x2=a Hispanic aspect
+  eo:
+    place structure: x1 montras hispanamerikan kulturon/naciecojn laŭ aspekto x2
+    notes:
+    - Temas pri hispanlingvaj latinamerikaj landoj, ne Brazilo/Gujano.  Vidu ankaŭ
+      {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.
+    glosses:
+    - hispanamerika
+  hu:
+    place structure: x1 spanyol ajkú latin-amerikai kultúrát/nemzetiséget tükröz x2
+      tekintetben
+    notes:
+    - '(Lásd még: {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento})'
+    glosses:
+    - spanyol-amerikai
+  ja:
+    place structure: x1 は x2 （性質面）に関してラテンアメリカ／ヒスパニック系（言語／文化／民族）
+    notes:
+    - ・大意： ラテンアメリカ ・読み方： クィスポ  ・関連語： {merko}, {mexno}, {spano}, {ketco}, {bemro},
+      {gento}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于美洲的西班牙相关的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 指说西班牙语的拉丁美洲诸国，不包括巴西/圭亚那；参见 {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.
+    glosses:
+    - No glosses.

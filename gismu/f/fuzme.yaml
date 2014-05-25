@@ -1,6 +1,75 @@
-Word: fuzme
-Rafsi: fuz, fu'e
-Definition: x1 is responsible/accountable for x2 (action/resulting state) to judge/authority
-  x3.
-Notes: See also {bilga}.
-Examples: None
+word: fuzme
+rafsi:
+- fuz
+- fu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is responsible/accountable for x2 (action/resulting state)
+      to judge/authority x3.
+    notes:
+    - See also {bilga}.
+    glosses:
+    - responsible
+  de:
+    place structure: x1 ist verantwortlich/rechenschaftspflichtig für x2 (Aktion/Ergebniszustand)
+      gegenüber Richter/Autorität x3
+    notes:
+    - No notes.
+    glosses:
+    - verantwortlich
+  es:
+    place structure: x1 es responsable por hecho x2 ante juez/autoridad x3
+    notes:
+    - No notes.
+    glosses:
+    - responsable
+  ru:
+    place structure: x1 отвечает/несет ответственность за x2 (действие/результат)
+      перед x3
+    notes:
+    - '{bilga} (должен)'
+    glosses:
+    - нести ответственность
+    - x1=несущий ответственность
+  en-simple:
+    place structure: x1 is responsible for x2 to authority x3
+    notes:
+    - No notes.
+    glosses:
+    - somethings held responsible
+    - x2=a responsibility
+    - x3=something holding something responsible
+  eo:
+    place structure: x1 estas respondeca pri x2 (ago/rezulta stato) antaŭ juĝisto/aŭtoritato
+      x3
+    notes:
+    - Vidu ankaŭ {bilga}.
+    glosses:
+    - respondeca
+  hu:
+    place structure: x1 (a) felelős/felel x2 eseményért/állapotért x3-nak
+    notes:
+    - '(Lásd még: {bilga})'
+    glosses:
+    - felelős
+  ja:
+    place structure: x1 は x2 （事）について x3 （断裁／権限）の責任がある
+    notes:
+    - ・大意： 責任 ・読み方： フズメ ・関連語： {bilga}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ansvarig/ansvarsskyldig för x2 (handling/resulterande tillstånd)
+      inför domare/bedömare/auktoritet x3.
+    notes:
+    - No notes.
+    glosses:
+    - ansvarig
+  zh:
+    place structure: x1对x2（行动/结果状态）负有责任，在判断者/评价者x3看来
+    notes:
+    - 参见 {bilga}.
+    glosses:
+    - No glosses.

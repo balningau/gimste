@@ -1,9 +1,83 @@
-Word: pixra
-Rafsi: pir, xra
-Definition: x1 is a picture/illustration representing/showing x2, made by artist x3
-  in medium x4.
-Notes: Also (adjective:) $x_1$ is pictorial/illustrative; drawing (= {xraselci'a}),
-  $x_1$ draws $x_2$ (= xraci'a/xraci'a), image (= {xratai}), photo (= {kacmyxra}),
-  take a photo (= {kacmyterxra}, {kacmyxragau}, {kacmyxrazu'e}); sculpture, relief
-  (= {blixra}).  See also {ciska}, {cinta}, {prina}, {mupli}, {barna}, {skina}.
-Examples: None
+word: pixra
+rafsi:
+- pir
+- xra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a picture/illustration representing/showing x2, made by
+      artist x3 in medium x4.
+    notes:
+    - Also (adjective:) x1 is pictorial/illustrative; drawing (= {xraselci'a}), x1
+      draws x2 (= xraci'a/xraci'a), image (= {xratai}), photo (= {kacmyxra}), take
+      a photo (= {kacmyterxra}, {kacmyxragau}, {kacmyxrazu'e}); sculpture, relief
+      (= {blixra}).  See also {ciska}, {cinta}, {prina}, {mupli}, {barna}, {skina}.
+    glosses:
+    - picture
+  de:
+    place structure: x1 ist ein Bild/Foto/eine Darstellung/Zeichnung und zeigt/bildet
+      x2 (ab), erstellt/gemalt von Künstler x3 in Medium x4
+    notes:
+    - No notes.
+    glosses:
+    - Bild
+  es:
+    place structure: x1 es un dibujo/pintura/cuadro/ilustración de x2, hecho por artista
+      x3 en medio x4
+    notes:
+    - No notes.
+    glosses:
+    - dibujo
+  ru:
+    place structure: x1 — картина/иллюстрация, изображающая x2, сделанная художником
+      x3 в технике x4
+    notes:
+    - 'Рисунок: {xraselci''a}, x1 рисует x2: {xraci''a}, изображение: {xratai}, фотография:
+      {kacmyxra}, фотографировать: {kacmyterxra}, {kacmyxragau}, {kacmyxrazu''e};
+      скульптура, рельеф: {blixra} {ciska} (писать), {cinta} (краска), {prina} (отпечаток),
+      {mupli} (пример), {barna} (пятно), {skina} (фильм)'
+    glosses:
+    - x1=картина
+    - x2=то, что изображают на картине
+    - x3=художник
+    - x4=техника написания картины/иллюстрации
+  en-simple:
+    place structure: x1 is a picture of x2 made by x3 in medium x4
+    notes:
+    - No notes.
+    glosses:
+    - a picture
+    - x2=something shown by a picture
+    - x3=an artist of a picture
+    - x4=an art medium of a picture
+  eo:
+    place structure: x1 estas bildo/figuro/ilustracio reprezentanta/montranta x2-on,
+      farita de artisto x3 en medio x4
+    notes:
+    - Desegnaĵo (= {xraselci'a}), x1 desegnas x2-on (= xraci'a/xraci'a), bildo (=
+      {xratai}), fotaĵo/fotografaĵo (= {kacmyxra}), foti/fotografi (= {kacmyterxra},
+      {kacmyxragau}, {kacmyxrazu'e}); skulptaĵo, reliefo (= {blixra}).  Vidu ankaŭ
+      {ciska}, {cinta}, {prina}, {mupli}, {barna}, {skina}.
+    glosses:
+    - bildo
+  hu:
+    place structure: x1 egy kép/grafika/illusztráció x2-ről, x3 által, x4 hordozón
+    notes:
+    - '(Lásd még: {ciska}, {cinta}, {prina}, {mupli}, {barna}, {skina})'
+    glosses:
+    - kép
+  ja:
+    place structure: x1 は x2 （主題）・ x3 （作者）・ x4 （媒体）の絵／画／写真／造形；  x3 は x2 を描いて x1 を創る
+    notes:
+    - 広義で「彫刻」も。 ・大意： 絵 ・関連語： {ciska}, {cinta}, {prina}, {mupli}, {barna}, {skina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是图画/图片，画有图案x2，由艺术家/创作者x3创作在媒介x4上
+    notes:
+    - 也指：x1是图画的/图像的；绘画= {xraselci'a}；x1画x2 = {xraci'a}/{xraci'a}；图像= {xratai}；照片={kacmyxra}；拍照=
+      {kacmyterxra}/ {kacmyxragau}/ {kacmyxrazu'e}；浮雕= {blixra}；参见 {ciska}, {cinta},
+      {prina}, {mupli}, {barna}, {skina}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,75 @@
-Word: jenmi
-Rafsi: jem, jei
-Definition: x1 (mass) is an army serving group/community x2 (mass) in function x3
-  (activity).
-Notes: See also {bilni}, {sonci}, {xarci}.
-Examples: None
+word: jenmi
+rafsi:
+- jem
+- jei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass) is an army serving group/community x2 (mass) in function
+      x3 (activity).
+    notes:
+    - See also {bilni}, {sonci}, {xarci}.
+    glosses:
+    - army
+  de:
+    place structure: x1 (Masse) ist eine Armee/die Bundeswehr, die Gruppe/Gemeinschaft
+      x2 (Masse) dient mit Funktion x3 (Aktivität)
+    notes:
+    - No notes.
+    glosses:
+    - Armee
+  es:
+    place structure: x1 es un ejército de grupo/comunidad x2 con función x3
+    notes:
+    - No notes.
+    glosses:
+    - ejército
+  ru:
+    place structure: x1 (масса) — армия/войско, служащая группе/общине x2 (масса)
+      в функции x3 (деятельность)
+    notes:
+    - '{bilni} (военный), {sonci} (солдат), {xarci} (оружие)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is an army serving x2 in function x3
+    notes:
+    - No notes.
+    glosses:
+    - an army
+    - x2=something served by an army
+    - x3=an army function
+  eo:
+    place structure: x1 (kolektivaĵo) estas armeo servanta grupon/komunumon x2 (kolektivaĵo)
+      en funkcio x3 (ago)
+    notes:
+    - Vidu ankaŭ {bilni}, {sonci}, {xarci}.
+    glosses:
+    - armeo
+  hu:
+    place structure: x1 sokaság egy hadsereg x2 csoport/közösség szolgálatában, x3
+      hatáskörben
+    notes:
+    - '(Lásd még: {bilni}, {sonci}, {xarci})'
+    glosses:
+    - hadsereg
+  ja:
+    place structure: x1 （群）は x2 （群／共同体）に奉仕する、 x3 （機動特性）の軍隊
+    notes:
+    - ・大意： 軍隊 ・読み方： ジェンミ  ・関連語： {bilni}, {sonci}, {xarci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (massa) är en armé som tjänar grupp/samhälle x2 (massa) med
+      funktion x3 (aktivitet).
+    notes:
+    - No notes.
+    glosses:
+    - armé
+  zh:
+    place structure: x1（整体）是军队，服务于/效命于x2（整体），具有功能x3（行为）
+    notes:
+    - 参见 {bilni}, {sonci}, {xarci}.
+    glosses:
+    - No glosses.

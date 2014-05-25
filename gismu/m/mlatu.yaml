@@ -1,6 +1,70 @@
-Word: mlatu
-Rafsi: lat
-Definition: x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2; (adjective:)
-  x1 is feline.
-Notes: See also {cinfo}, {tirxu}, {gerku}.
-Examples: None
+word: mlatu
+rafsi:
+- lat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed
+      x2; (adjective:) x1 is feline.
+    notes:
+    - See also {cinfo}, {tirxu}, {gerku}.
+    glosses:
+    - cat
+  de:
+    place structure: x1 ist eine Katze/[eine Mieze/eine Muschi/ein Kätzchen] [ein
+      katzenartiges Tier] der Art/Rasse x2
+    notes:
+    - Siehe auch {cinfo}, {tirxu}, {gerku}.
+    glosses:
+    - Katze
+  es:
+    place structure: x1 es un gato/felino de especie/raza x2
+    notes:
+    - Ver también {cinfo},  {tirxu}.
+    glosses:
+    - gato
+  ru:
+    place structure: x1 — кошка (животное семейства кошачьих) вида/породы x2
+    notes:
+    - '{cinfo} (лев), {tirxu} (тигр), {gerku} (собака)'
+    glosses:
+    - x1=кошка
+    - x2=вид кошки
+  en-simple:
+    place structure: x1 is a cat of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a cat
+    - x2=a species of cat
+  eo:
+    place structure: x1 estas kato de speco/raso x2; (adjektivo:) x1 estas kata
+    notes:
+    - Vidu ankaŭ {cinfo}, {tirxu}, {gerku}.
+    glosses:
+    - kato
+  hu:
+    place structure: x1 egy macska(féle) [Felidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cinfo}, {tirxu}, {gerku})'
+    glosses:
+    - macska
+  ja:
+    place structure: x1は品種x2の猫である; (形容詞) x1は猫のようだ
+    notes:
+    - '参照: {cinfo}, {tirxu}, {gerku}.'
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to kot/ kotowate z gatunku/rasy x2.
+    notes:
+    - Cf. {cinfo}, {tirxu}, {tirxrpardu}, {tirxronka}.
+    glosses:
+    - kot (małe zwierzę domowe)
+    - kot domowy (Felis silvestris catus)
+  zh:
+    place structure: x1 是种类为 x2 的猫; x1 是猫
+    notes:
+    - 参见： {cinfo}, {tirxu}, {gerku}.
+    glosses:
+    - 猫

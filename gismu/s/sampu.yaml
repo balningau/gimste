@@ -1,5 +1,63 @@
-Word: sampu
-Rafsi: sap
-Definition: x1 is simple/unmixed/uncomplicated in property x2 (ka).
-Notes: See also {pluja}, {curve}, {frili}, {manfo}.
-Examples: None
+word: sampu
+rafsi:
+- sap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is simple/unmixed/uncomplicated in property x2 (ka).
+    notes:
+    - See also {pluja}, {curve}, {frili}, {manfo}.
+    glosses:
+    - simple
+  de:
+    place structure: x1 ist einfach/schlicht/unkompliziert in Eigenschaft x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - schlicht
+  es:
+    place structure: x1 es simple/sencillo en propiedad/aspecto x2
+    notes:
+    - Ver también {pluja}.
+    glosses:
+    - simple
+  ru:
+    place structure: x1 — простой/несложный/элементарный по свойству x2 ({ka})
+    notes:
+    - '{pluja} (сложный [замысловатый]), {curve} (чистый [100%]), {frili} (лёгкий
+      [нетрудный для кого-либо]), {manfo} (однородный)'
+    glosses:
+    - простой (элементарный)
+  en-simple:
+    place structure: x1 is simple in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something simple
+    - x2=a simple property
+  eo:
+    place structure: x1 estas simpla/nemiksita/malkompleksa/malkomplika en eco x2
+      (ka)
+    notes:
+    - Vidu ankaŭ {pluja}, {curve}, {frili}, {manfo}.
+    glosses:
+    - simpla
+  hu:
+    place structure: x1 egyszerű x2 tulajdonságban
+    notes:
+    - '(Lásd még: {pluja}, {curve}, {frili}, {manfo})'
+    glosses:
+    - egyszerű
+  ja:
+    place structure: x1 は x2 （性質）に関して簡単／単純
+    notes:
+    - ・大意： 簡単 ・読み方： サムプ ・語呂合わせ： 簡単サムプル ・関連語： {pluja}, {curve}, {frili}, {manfo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是简单的/不复杂的，在性质x2（ka）方面
+    notes:
+    - 参见 {pluja}, {curve}, {frili}, {manfo}.
+    glosses:
+    - No glosses.

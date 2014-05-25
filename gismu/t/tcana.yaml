@@ -1,8 +1,74 @@
-Word: tcana
-Rafsi: ''
-Definition: x1 is a station/node of/in/on transport/communication/distribution system/network
-  x2.
-Notes: $x_2$ may be represented by massed vehicles of system.  See also {dargu}, {litru},
-  {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji}, {fonxa}, {dikca},
-  {fatri}.
-Examples: None
+word: tcana
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a station/node of/in/on transport/communication/distribution
+      system/network x2.
+    notes:
+    - x2 may be represented by massed vehicles of system.  See also {dargu}, {litru},
+      {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji}, {fonxa},
+      {dikca}, {fatri}.
+    glosses:
+    - station
+  de:
+    place structure: x1 ist eine Station/Haltestelle/ein Bahnhof/Knotenpunkt von/in
+      Transport-/Kommunikations-/Verteilungs-System/Netzwerk x2
+    notes:
+    - No notes.
+    glosses:
+    - Bahnhof
+  es:
+    place structure: x1 es una parada/estación de sistema de transporte x2
+    notes:
+    - No notes.
+    glosses:
+    - parada
+  ru:
+    place structure: x1 — станция/узел в системе/сети x2 (транспорта/связи/распределения)
+    notes:
+    - x2 также м.б. массой транспортных средств {dargu} (дорога), {litru} (путешествовать),
+      {pluta} (путь), {trene} (поезд), {ciste} (система), {ve} {mrilu} (посылать),
+      {tivni} (телевещание), {cradi} (радио), {ve} {benji} (передавать [сигнал]),
+      {fonxa} (телефон), {dikca} (электричество), {fatri} (распределяться)
+    glosses:
+    - x1=станция
+  en-simple:
+    place structure: x1 is a station of network x2
+    notes:
+    - No notes.
+    glosses:
+    - a network station
+    - x2=a network with a station
+  eo:
+    place structure: x1 estas stacio/nodo de/en transporta/komunikada/distribua sistemo/retaĵo
+      x2
+    notes:
+    - x2 povas esti reprezentita per aro de veturiloj de sistemo.  Vidu ankaŭ {dargu},
+      {litru}, {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji},
+      {fonxa}, {dikca}, {fatri}.
+    glosses:
+    - stacio
+  hu:
+    place structure: x1 egy állomás/csomópont x2 infrastrukturális/kommunikációs hálózaton/rendszerben
+    notes:
+    - '(Lásd még: {dargu}, {litru}, {pluta}, {trene}, {ciste}, {mrilu}, {tivni}, {cradi},
+      {benji}, {fonxa}, {dikca}, {fatri})'
+    glosses:
+    - állomás
+  ja:
+    place structure: x1 は x2 （交通／コミュニケーション／配給のネットワーク）の駅／局／ノード
+    notes:
+    - ・大意： 駅 ・読み方： チャナ  ・関連語： {dargu}, {litru}, {pluta}, {trene}, {ciste}, {ve} {mrilu},
+      {tivni}, {cradi}, {ve} {benji}, {fonxa}, {dikca}, {fatri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是传输/交通/分配系统/网络x2中的节点/站点
+    notes:
+    - 参见 {dargu}, {litru}, {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi},
+      ve {benji}, {fonxa}, {dikca}, {fatri}.
+    glosses:
+    - No glosses.

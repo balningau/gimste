@@ -1,7 +1,77 @@
-Word: gusni
-Rafsi: gus, gu'i
-Definition: x1 [energy] is light/illumination illuminating x2 from light source x3.
-Notes: '[$x_3$ illuminates/lights $x_2$ with light/illumination $x_1$; $x_2$ is lit/illuminated
-  by illumination $x_1$ from source $x_3$ (= {selgu''i} for reordered places); light/lamp
-  (= {tergu''i})](cf. {dirce}, {manku}, {solri}, {carmi}, {ctino}, {kantu})'
-Examples: None
+word: gusni
+rafsi:
+- gus
+- gu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [energy] is light/illumination illuminating x2 from light
+      source x3.
+    notes:
+    - '[x3 illuminates/lights x2 with light/illumination x1; x2 is lit/illuminated
+      by illumination x1 from source x3 (= {selgu''i} for reordered places); light/lamp
+      (= {tergu''i})](cf. {dirce}, {manku}, {solri}, {carmi}, {ctino}, {kantu})'
+    glosses:
+    - illumine
+  de:
+    place structure: x1 [Energie] ist Licht/Beleuchtung und erleuchtet x2 aus Lichtquelle
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - erleuchten
+  es:
+    place structure: x1 es luz/ilumina x2 con origen/fuente x3
+    notes:
+    - No notes.
+    glosses:
+    - luz
+  ru:
+    place structure: x1 (энергия) есть свет/освещение, освещающее x2 из источника
+      света x3
+    notes:
+    - 'x3 освещает x2 светом x1; x2 освещен светом x1 из источника x3: {selgu''i}
+      с перестановкой мест; лампа/светильник: {tergu''i} {dirce} (излучать), {manku}
+      (темный), {solri} (солнце), {carmi} (интенсивный), {ctino} (тень), {kantu} (квант)'
+    glosses:
+    - свет
+    - x1=освещающий
+    - x2=освещаемый
+    - x3=источник света
+  en-simple:
+    place structure: x1 lights x2 from source x3
+    notes:
+    - No notes.
+    glosses:
+    - a light
+    - x2=something illuminated by a light
+    - x3=a light source
+  eo:
+    place structure: x1 [energio] estas lumo/lumigo lumiganta x2-on el lumfonto x3
+    notes:
+    - x3 lumigas x2-on per lumo/lumigo x1; x2 estas lumigata de lumo/lumigo x1 el
+      fonto x3 (= selgu'i por reordigitaj {lokoj}); lumo/lampo (= {tergu'i}) Vidu
+      ankaŭ {dirce}, {manku}, {solri}, {carmi}, {ctino}, {kantu}.
+    glosses:
+    - lumo
+  hu:
+    place structure: x1 fény, amely megvilágítja x2-t x3 forrásból
+    notes:
+    - '(Lásd még: {dirce}, {manku}, {solri}, {carmi}, {ctino}, {kantu})'
+    glosses:
+    - fény
+  ja:
+    place structure: x1 （エネルギー）は x2 （対象）を x3 （光源）に基づいて照らす；  x3 は x2 を x1 で照らす
+    notes:
+    - x3は「ランプ」「太陽」など。 ・大意： 光 ・読み方： グスニ  ・関連語： {dirce}, {manku}, {solri}, {carmi},
+      {ctino}, {kantu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 [能量]是光/亮照亮x2, 从光源x3发出.
+    notes:
+    - No notes.
+    glosses:
+    - 亮
+    - 光

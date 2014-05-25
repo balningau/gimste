@@ -1,5 +1,62 @@
-Word: kenra
-Rafsi: ken
-Definition: x1 is a cancer [malignant disease] in x2.
-Notes: See also {bilma}, {mikce}, {spita}.
-Examples: None
+word: kenra
+rafsi:
+- ken
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cancer [malignant disease] in x2.
+    notes:
+    - See also {bilma}, {mikce}, {spita}.
+    glosses:
+    - cancer
+  de:
+    place structure: x1 ist Krebs/ein Krebs [maligne Krankheit] von/in x2
+    notes:
+    - No notes.
+    glosses:
+    - Krebs
+  es:
+    place structure: x1 es un cáncer en x2
+    notes:
+    - No notes.
+    glosses:
+    - cáncer
+  ru:
+    place structure: x1 — рак/злокачественное заболевание у/в x2
+    notes:
+    - '{bilma} (больной), {mikce} (лечить), {spita} (больница)'
+    glosses:
+    - x1=рак (болезнь)
+    - x2=больной раком
+  en-simple:
+    place structure: x1 is a cancer in x2
+    notes:
+    - No notes.
+    glosses:
+    - a cancer
+    - x2=something cancerous
+  eo:
+    place structure: x1 estas kancero [maligna malsano] en x2
+    notes:
+    - Vidu ankaŭ {bilma}, {mikce}, {spita}.
+    glosses:
+    - kancero
+  hu:
+    place structure: x1 egy rákos daganat/tumor x2-ben
+    notes:
+    - '(Lásd még: {bilma}, {mikce}, {spita})'
+    glosses:
+    - rákos daganat
+  ja:
+    place structure: x1 は x2 （箇所）の癌
+    notes:
+    - ・大意： 癌 ・読み方： ケンラ  ・関連語： {bilma}, {mikce}, {spita}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2所患的癌症（恶性病）
+    notes:
+    - 参见 {bilma}, {mikce}, {spita}.
+    glosses:
+    - No glosses.

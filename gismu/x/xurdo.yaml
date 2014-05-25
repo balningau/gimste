@@ -1,5 +1,63 @@
-Word: xurdo
-Rafsi: xur, xu'o
-Definition: x1 reflects Urdu language/culture/nationality in aspect x2.
-Notes: See also {kisto}, {srito}, {xindo}.
-Examples: None
+word: xurdo
+rafsi:
+- xur
+- xu'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Urdu language/culture/nationality in aspect x2.
+    notes:
+    - See also {kisto}, {srito}, {xindo}.
+    glosses:
+    - Urdu
+  de:
+    place structure: x1 repräsentiert die Urdu-Sprache/Kultur/Nationalität in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Urdu
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma urdu en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - urdu
+  ru:
+    place structure: x1 — урду в аспекте x2
+    notes:
+    - '{kisto} (пакистанский), {srito} (санскрит), {xindo} (хинди)'
+    glosses:
+    - урду
+  en-simple:
+    place structure: x1 is Urdu in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Urdu
+    - x2=an Urdu aspect
+  eo:
+    place structure: x1 montras urduan lingvon/kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {kisto}, {srito}, {xindo}.
+    glosses:
+    - urdua
+  hu:
+    place structure: x1 urdu nyelvet/kultúrát/nemzetiséget tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {kisto}, {srito}, {xindo})'
+    glosses:
+    - urdu
+  ja:
+    place structure: x1 は x2 （性質面）に関してウルドゥー／インディック系（言語／文化／民族／地理）
+    notes:
+    - ・大意： ウルドゥー ・読み方： クゥルド ・関連語： {kisto}, {srito}, {xindo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于乌尔都语的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {kisto}, {srito}, {xindo}.
+    glosses:
+    - No glosses.

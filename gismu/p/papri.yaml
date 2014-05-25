@@ -1,7 +1,76 @@
-Word: papri
-Rafsi: ''
-Definition: x1 is a [physical] page/leaf of book/document/bound mass of pages x2.
-Notes: Numbered pages (as in a book) are the sides of a page (= {paprysfe}, {paprysfelai});
-  a pageful of text (= {papryseltcidu}, {paprytcidylai}).  See also {karni}, {pelji},
-  {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}.
-Examples: None
+word: papri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a [physical] page/leaf of book/document/bound mass of pages
+      x2.
+    notes:
+    - Numbered pages (as in a book) are the sides of a page (= {paprysfe}, {paprysfelai});
+      a pageful of text (= {papryseltcidu}, {paprytcidylai}).  See also {karni}, {pelji},
+      {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}.
+    glosses:
+    - page
+  de:
+    place structure: x1 ist eine [materielle] Buchseite/Blatt eines Buchs/Hefts/Dokuments/einer
+      gebundenen Masse an Seiten x2
+    notes:
+    - No notes.
+    glosses:
+    - Papierblatt
+  es:
+    place structure: x1 es una página/hoja de libro/documento/cuaderno/encuadernación
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - página
+  ru:
+    place structure: x1 — страница/лист книги/документа/тома/подшивки (переплетенной
+      массы страниц) x2
+    notes:
+    - 'Стороны одной страницы: {paprysfe}, {paprysfelai}; страница как мера текста:
+      {papryseltcidu}, {paprytcidylai}; в компьютерах: {kibypapri}; официальное определение
+      ссылается только на "физическую" страницу. См. также {karni} (журнал), {pelji}
+      (бумага), {prina} (отпечаток), {xatra} (письмо), {vreji} (запись), {pezli} (лист
+      [растения]), {cukta} (книга), {ciska} (писать)'
+    glosses:
+    - x1=страница
+  en-simple:
+    place structure: x1 is a page of book or document x2
+    notes:
+    - No notes.
+    glosses:
+    - a page
+    - x2=something with a page
+  hu:
+    place structure: x1 egy lapja x2 könyvnek/füzetnek/aktának/papírcsomónak
+    notes:
+    - '(Lásd még: {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska})'
+    glosses:
+    - könyvlap
+  ja:
+    place structure: x1 は x2 （本／書類）のページ
+    notes:
+    - ・大意： ページ ・読み方： パプリ  ・関連語： {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli},
+      {cukta}, {ciska}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een [fysieke] pagina/bladzijde van een boek/document x2.
+    notes:
+    - 'Genummerde bladzijden (net als in een boek) (= {paprysfe}, {paprysfelai});
+      Een pagina vol met tekst (= {papryseltcidu}, {paprytcidylai}). Zie ook : {karni},
+      {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta} en {ciska}.'
+    glosses:
+    - bladzijde
+    - pagina
+  zh:
+    place structure: x1是大量页面x2中的一页（物理上的；书页/文件等）
+    notes:
+    - 页面（一页纸的一面）= {paprysfe}/{paprysfelai}；充满文字的页面= {papryseltcidu}/{paprytcidylai}；参见
+      {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}.
+    glosses:
+    - No glosses.

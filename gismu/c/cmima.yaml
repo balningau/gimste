@@ -1,9 +1,94 @@
-Word: cmima
-Rafsi: mim, cmi
-Definition: x1 is a member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst
-  group x2.
-Notes: $x_1$ may be a complete or incomplete list of members; $x_2$ is normally marked
-  by la'i/le'i/lo'i, defining the set in terms of its common property(ies), though
-  it may be a complete enumeration of the membership.  See also {ciste}, {porsi},
-  {jbini}, {girzu}, {gunma}, {klesi}, cmavo list {mei}, {kampu}, {lanzu}, {liste}.
-Examples: None
+word: cmima
+rafsi:
+- mim
+- cmi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a member/element of set x2; x1 belongs to group x2; x1
+      is amid/among/amongst group x2.
+    notes:
+    - x1 may be a complete or incomplete list of members; x2 is normally marked by
+      la'i/le'i/lo'i, defining the set in terms of its common property(ies), though
+      it may be a complete enumeration of the membership.  See also {ciste}, {porsi},
+      {jbini}, {girzu}, {gunma}, {klesi}, cmavo list {mei}, {kampu}, {lanzu}, {liste}.
+    glosses:
+    - belong to (be a member of)
+    - member
+  de:
+    place structure: x1 ist ein Mitglied/Element von Menge x2; x1 gehört zu Gruppe
+      x2; x1 ist inmitten/unter Gruppe x2
+    notes:
+    - No notes.
+    glosses:
+    - Mitglied
+  es:
+    place structure: x1 es un miembro/pertenece a conjunto/grupo x2
+    notes:
+    - Ver también {girzu},  {klesi}.
+    glosses:
+    - miembro
+  ru:
+    place structure: x1 — член/элемент множества x2; x1 принадлежит группе x2; x1
+      находится в группе/среди x2
+    notes:
+    - 'x1 м.б. полным или неполным списком элементов множества; x2, как правило, маркируется
+      артиклями {la''i}/{le''i}/{lo''i}, описывая множество через общее свойство/свойства
+      его элементов, впрочем, возможно также полное перечисление элементов; множество:
+      {zilcmi} {ciste} (система), {porsi} (последовательность), {jbini} (между), {girzu}
+      (группа), {gunma} (масса [единое целое]), {klesi} (класс), {mei}, {kampu} (общий
+      [о свойстве]), {lanzu} (семья), {liste} (список)'
+    glosses:
+    - член
+    - x2=множество
+  en-simple:
+    place structure: x1 is a member of x2
+    notes:
+    - No notes.
+    glosses:
+    - a member
+    - x2=a member's group
+  eo:
+    place structure: x1 estas membro/elemento de aro x2; x1 apartenas al grupo x2;
+      x1 estas inter grupo x2
+    notes:
+    - x1 povas esti kompleta aŭ nekompleta listo de membroj; x2 estas normale markita
+      per la'i/le'i/lo'i, difinante la aron per ĝiaj komunaj ecoj, kvankam ĝi povas
+      esti kompleta nombrado de la membraro.  Vidu ankaŭ {ciste}, {porsi}, {jbini},
+      {girzu}, {gunma}, {klesi}, cmavo {mei}, {kampu}, {lanzu}, {liste}.
+    glosses:
+    - membro
+  hu:
+    place structure: x1 tagja/eleme x2 halmaznak
+    notes:
+    - '(Lásd még: {ciste}, {porsi}, {jbini}, {girzu}, {gunma}, {klesi}, {kampu}, {lanzu},
+      {liste})'
+    glosses:
+    - tag
+  ja:
+    place structure: x1 は x2 （集合）の成員／メンバー；  x1 は x2 に属する
+    notes:
+    - ・大意： 属する ・読み方： シミマ  ・関連語： {ciste}, {porsi}, {jbini}, {girzu}, {gunma}, {klesi},
+      {mei}, {kampu}, {lanzu}, {liste}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en medlem/element av set x2; x1 är bland/mitt ibland grupp
+      x2.
+    notes:
+    - x1 kan vara en fullständig eller ofullständig lista över medlemmar; x2 markeras
+      normalt med la'i/le'i/lo'i, definierande setet i termer av dess gemensamma egenskap(er),
+      även om det kan röra sig om en fullständig though it may be a complete uppräkning
+      av medlemskapet.
+    glosses:
+    - tillhör
+    - x1=medlem
+    - x2=medlemsgrupp (set)
+  zh:
+    place structure: x1是集合x2中的一个成员/元素；x1属于组x2
+    notes:
+    - x1可能是完全的/非完全的成员列表；x2通常由la'i/le'i/lo'i指示，依据集合中共有属性定义，也有可能逐一例举每一个成员；参见 {ciste},
+      {porsi}, {jbini}, {girzu}, {gunma}, {klesi}, {mei}, {kampu}, {lanzu}, {liste}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,79 @@
-Word: snidu
-Rafsi: nid
-Definition: x1 is x2 seconds in duration (default is 1 second) by standard x3.
-Notes: See also {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti},
-  {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
-  {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: snidu
+rafsi:
+- nid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 seconds in duration (default is 1 second) by standard
+      x3.
+    notes:
+    - See also {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - second
+  de:
+    place structure: 'x1 dauert x2 Sekunden (Default: 1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Sekunde
+  es:
+    place structure: x1 dura x2 segundos (1 por defecto) según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - segundo
+  ru:
+    place structure: x1 длится x2 секунд (по умолчанию 1 секунду) по стандарту x3
+    notes:
+    - '{cacra} (час), {junla} (часы [механизм]), {mentu} (минута), {tcika} (время
+      [события]), {centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека),
+      {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило),
+      {megdo} (мега), {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета),
+      {picti} (пико), {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса),
+      {zepti} (зепто), {zetro} (зетта)'
+    glosses:
+    - x1=секунда
+  en-simple:
+    place structure: x1 is x2 seconds long
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in seconds
+    - x2=a number of seconds
+    - x2=the number of seconds
+    - x3=a standard of a second
+  eo:
+    place structure: x1 daŭras x2 sekundojn (defaŭlte 1 sekundo) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - sekundo
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] másodperc, x3 mérce szerint
+    notes:
+    - '(Lásd még: {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti},
+      {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso},
+      {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - másodperc
+  ja:
+    place structure: x1 は x2 （数量）の、 x3 （基準）における秒
+    notes:
+    - ・大意： 秒 ・読み方： スニドゥ  ・関連語： {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti},
+      {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti},
+      {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在持续时间长度上，x1是x2个秒钟（默认为1）的，基于标准x3
+    notes:
+    - 参见 {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

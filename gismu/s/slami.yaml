@@ -1,7 +1,68 @@
-Word: slami
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of acid of composition x2; (adjective:)
-  x1 is acidic.
-Notes: '$x_2$: composition including $x_2$, which need not be complete specification.  See
-  also {slari}, {nimre}.'
-Examples: None
+word: slami
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of acid of composition x2;
+      (adjective:) x1 is acidic.
+    notes:
+    - 'x2: composition including x2, which need not be complete specification.  See
+      also {slari}, {nimre}.'
+    glosses:
+    - acid
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Säure von Zusammensetzung
+      x2; (Adjektiv:) x1 ist säurehaltig
+    notes:
+    - No notes.
+    glosses:
+    - Säure
+  es:
+    place structure: x1 es una cantidad de ácido de composición x2
+    notes:
+    - No notes.
+    glosses:
+    - ácido
+  ru:
+    place structure: x1 — кислота состава x2; x1 содержит кислоту состава x2
+    notes:
+    - 'Прилагательное: x1 — кислотный; x2: в состав входит x2 (не обязательно полное
+      описание состава) {slari} (кислый), {nimre} (цитрус)'
+    glosses:
+    - x1=кислота
+    - x2=состав кислоты
+  en-simple:
+    place structure: x1 is a quantity of acid of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of acid
+    - x2=a composition of acid
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el acido de konsisto x2;
+      (adjektive:) x1 estas acida
+    notes:
+    - 'x2: konsisto inkluzivanta x2-on, kiu ne nepre estas kompleta specifado.  Vidu
+      ankaŭ {slari}, {nimre}.'
+    glosses:
+    - acido
+  hu:
+    place structure: x1 bizonyos mennyiségű sav (-at tartalmaz/-ból készült) x2 összetétellel
+    notes:
+    - '(Lásd még: {slari}, {nimre})'
+    glosses:
+    - sav
+  ja:
+    place structure: x1 は x2 （成分）の酸；  x1 は酸性
+    notes:
+    - ・大意： 酸 ・読み方： スルァミ  ・関連語： {slari}, {nimre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是酸，具有组分x2；x1是酸性的 （化学概念）
+    notes:
+    - 物质构成中需包含x2，但x2位不需要指明全部构成;参见 {slari}, {nimre}.
+    glosses:
+    - No glosses.

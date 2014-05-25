@@ -1,10 +1,88 @@
-Word: purci
-Rafsi: pur, pru
-Definition: x1 is in the past of/earlier than/before x2 in time sequence; x1 is former;
-  x2 is latter.
-Notes: Time ordering only (use lidne otherwise); aorist in that $x_1$ may overlap
-  in time with $x_2$ as long as it starts before, $x_1$ starts before $x_2$ but is
-  continuing during $x_2$ (= {cfaprucabna}); non-aorist before, i.e. $x_1$ is over/ended
-  before $x_2$ starts (= {fampru}), $x_1$ is completed before $x_2$ starts (= {mulpru}).  See
-  also {lidne}, {balvi}, {cabna}, {farna}.
-Examples: None
+word: purci
+rafsi:
+- pur
+- pru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is in the past of/earlier than/before x2 in time sequence;
+      x1 is former; x2 is latter.
+    notes:
+    - Time ordering only (use lidne otherwise); aorist in that x1 may overlap in time
+      with x2 as long as it starts before, x1 starts before x2 but is continuing during
+      x2 (= {cfaprucabna}); non-aorist before, i.e. x1 is over/ended before x2 starts
+      (= {fampru}), x1 is completed before x2 starts (= {mulpru}).  See also {lidne},
+      {balvi}, {cabna}, {farna}.
+    glosses:
+    - past
+  jbo:
+    place structure: x1 lidne x2 lo'e temci porsi .i x1 se balvi x2
+    notes:
+    - '{lidne}; {balvi}; {cabna}'
+    glosses:
+    - purci
+  de:
+    place structure: x1 liegt in der Vergangenheit von/ist früher als/vor x2 in zeitlicher
+      Reihenfolge; x1 ist früher; x2 ist später
+    notes:
+    - No notes.
+    glosses:
+    - Vergangenheit
+  es:
+    place structure: x1 está en el pasado/antes/anterior en el tiempo a x2
+    notes:
+    - Ver también {balvi},  {cabna},  {lidne}.
+    glosses:
+    - pasado
+  ru:
+    place structure: x1 происходит в прошлом относительно/раньше чем/перед/до x2;
+      x1 — перед/до/раньше, x2 — потом/позже
+    notes:
+    - 'Только об упорядочении во времени (иначе нужно использовать {lidne}); x1 может
+      перекрываться во времени с x2, если только x1 началось раньше; x1 начинается
+      раньше x2, но продолжается во время x2: {cfaprucabna}; x1 прекратилось до начала
+      x2: {fampru}; x1 завершилось до начала x2: {mulpru} {lidne} (предшествовать),
+      {balvi} (позже), {cabna} (одновременно), {farna} (направление)'
+    glosses:
+    - раньше
+    - x1=прошлый
+    - x2=позже
+  en-simple:
+    place structure: x1 is earlier than or in the past of x2
+    notes:
+    - No notes.
+    glosses:
+    - something which is earlier than something
+    - x2=something to which something is earlier
+  eo:
+    place structure: x1 estas en la estinteco/pli frua/antaŭ x2 en tempa sinsekvo;
+      x1 estas antaŭa; x2 estas posta
+    notes:
+    - Nur tempa vicigo (alie uzu je lidne); x1 povas kunokazi samtempe kun x2 se ĝi
+      komenciĝis antaŭe, x1 komenciĝas antaŭ ol x2 sed kontinuas dum x2 (= {cfaprucabna});
+      x1 jam finiĝinta antaŭ ol x2 komenciĝas (= {fampru}), x1 kompleta antaŭ ol x2
+      komenciĝas (= {mulpru}).  Vidu ankaŭ {lidne}, {balvi}, {cabna}, {farna}.
+    glosses:
+    - estinta
+  hu:
+    place structure: x1 korábban történik meg/létezik, mint x2 [x2 alapesetben a téridő-referenciapont
+      („most”)]
+    notes:
+    - 'x1 átfedésben lehet x2-vel, amennyiben x1 korábban kezdődik el, mint x2 (Lásd
+      még: {lidne}, {balvi}, {cabna}, {farna})'
+    glosses:
+    - korábbi
+  ja:
+    place structure: x1 は x2 （時点）よりも以前／過去；  x1 は先人
+    notes:
+    - ・大意： 過去 ・読み方： プルシ  ・語呂合わせ： 過去プール死 ・関連語： {lidne}, {balvi}, {cabna}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在时间顺序上，x1在x2之前/过去；x1是之前的；x2是之后的
+    notes:
+    - 只能用于表示时间上的“之前”，用{lidne}可表示其它的“之前”；x1在x2之前开始，但在x2时一直持续= {cfaprucabna}；x1在x2开始前已经停止={fampru}；x1在x2开始前已经完成=
+      {mulpru}；参见 {lidne}, {balvi}, {cabna}, {farna}.
+    glosses:
+    - No glosses.

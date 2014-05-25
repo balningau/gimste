@@ -1,6 +1,69 @@
-Word: skiji
-Rafsi: sij
-Definition: x1 is a ski/skid/skate/runner for surface (of material) x2 supporting
-  skier/skater/sled/cargo x3.
-Notes: See also {sakli}, {marce}, {cutci}.
-Examples: None
+word: skiji
+rafsi:
+- sij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a ski/skid/skate/runner for surface (of material) x2 supporting
+      skier/skater/sled/cargo x3.
+    notes:
+    - See also {sakli}, {marce}, {cutci}.
+    glosses:
+    - ski
+  de:
+    place structure: x1 ist ein Ski/Schlittschuh/eine Kufe/Rollschiene für Oberfläche
+      (aus Material) x2 und trägt/unterstützt Skifahrer/Eisläufer/Schlitten/Fracht
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Ski
+  es:
+    place structure: x1 es un esquí/patín/deslizador para superficie x2 soportando
+      esquiador/patinador/trineo/carga x3
+    notes:
+    - No notes.
+    glosses:
+    - esquí
+  ru:
+    place structure: x1 — лыжа/конек/полоз для передвижения по поверхности (из материала)
+      x2, поддерживающая лыжника/конькобежца/сани/груз x3
+    notes:
+    - '{sakli} (скользить), {marce} (транспорт), {cutci} (обувь)'
+    glosses:
+    - x1=лыжа
+  en-simple:
+    place structure: x1 is a skate or ski for surface x2 supporting x3
+    notes:
+    - No notes.
+    glosses:
+    - a skate
+    - x2=something skated over
+    - x3=something supported by a skate
+  eo:
+    place structure: x1 estas skio/glitilo por surfaco (el materialo) x2 subtenanta
+      skianto/glitanto/sledo/kargo x3
+    notes:
+    - Vidu ankaŭ {sakli}, {marce}, {cutci}.
+    glosses:
+    - skio
+  hu:
+    place structure: x1 egy síléc/-talp/korcsolyapenge x2 felületen való csúszásra,
+      x3 személy/teher/jármű megtartására
+    notes:
+    - '(Lásd még: {sakli}, {marce}, {cutci})'
+    glosses:
+    - síléc
+  ja:
+    place structure: x1 は x2 （表面）を x3 （者／荷）が滑るためのスキー板／そり／スケート
+    notes:
+    - ・大意： そり ・読み方： スキジ  ・語呂合わせ： skii スキー ・関連語： {sakli}, {marce}, {cutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是雪橇/溜冰鞋等，用于在表面x2（材料）上滑行，支撑着溜滑者/货物x3
+    notes:
+    - 参见 {sakli}, {marce}, {cutci}.
+    glosses:
+    - No glosses.

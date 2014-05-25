@@ -1,5 +1,66 @@
-Word: vamtu
-Rafsi: vat
-Definition: x1 vomits/regurgitates x2; x1 throws x2 up; [violent] digestive expulsion.
-Notes: ($x_2$ is non-gaseous); See also {rigni}, {jetce}, {kafke}, {sputu}.
-Examples: None
+word: vamtu
+rafsi:
+- vat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 vomits/regurgitates x2; x1 throws x2 up; [violent] digestive
+      expulsion.
+    notes:
+    - (x2 is non-gaseous); See also {rigni}, {jetce}, {kafke}, {sputu}.
+    glosses:
+    - vomit
+  de:
+    place structure: x1 erbricht/speit x2; x1 übergibt sich; [gewaltsamer] Ausstoß
+      [des Mageninhalts]
+    notes:
+    - No notes.
+    glosses:
+    - erbrechen
+  es:
+    place structure: x1 vomita x2
+    notes:
+    - Ver también {jetce},  {kafke},  {sputu}.
+    glosses:
+    - vomitar
+  ru:
+    place structure: x1 изрыгает/извергает x2 (из пищеварительного тракта); x1 блюет
+    notes:
+    - x1 — не газ {rigni} (отвратительный), {jetce} (струя), {kafke} (кашлять), {sputu}
+      (плевать)
+    glosses:
+    - изрыгать
+    - x1=изрыгающий
+    - x2=изрыгаемое
+  en-simple:
+    place structure: x1 vomits x2
+    notes:
+    - No notes.
+    glosses:
+    - a vomiter
+    - x2=vomit
+  eo:
+    place structure: x1 vomas/elĵetas el si x2-on; [perforta] digesta elĵeto
+    notes:
+    - (x2 estas negasa); Vidu ankaŭ {rigni}, {jetce}, {kafke}, {sputu}.
+    glosses:
+    - vomi
+  hu:
+    place structure: x1 kihányja/felöklendezi x2-t
+    notes:
+    - '(Lásd még: {rigni}, {jetce}, {kafke}, {sputu})'
+    glosses:
+    - kihány
+  ja:
+    place structure: x1 は x2 を吐く／嘔吐する／もどす
+    notes:
+    - ・大意： 嘔吐 ・読み方： ヴァムトゥ  ・関連語： {rigni}, {jetce}, {kafke}, {sputu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1吐出/呕吐/反刍出x2；x1将x2吐出来
+    notes:
+    - x2是非气态的；参见 {rigni}, {jetce}, {kafke}, {sputu}.
+    glosses:
+    - No glosses.

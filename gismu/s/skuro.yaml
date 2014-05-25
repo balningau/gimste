@@ -1,5 +1,63 @@
-Word: skuro
-Rafsi: ku'o
-Definition: x1 is a groove/trench/furrow [shape/form] in object/surface x2.
-Notes: See also {plixa}.
-Examples: None
+word: skuro
+rafsi:
+- ku'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a groove/trench/furrow [shape/form] in object/surface x2.
+    notes:
+    - See also {plixa}.
+    glosses:
+    - groove
+  de:
+    place structure: x1 ist ein Graben/Schlitz/eine Furche/Rille/Kerbe [Form] von/auf
+      Objekt/Oberfläche x2
+    notes:
+    - No notes.
+    glosses:
+    - Furche
+  es:
+    place structure: x1 es una ranura/trinchera/surco/canal en objeto/superficie x2
+    notes:
+    - No notes.
+    glosses:
+    - ranura
+  ru:
+    place structure: x1 — борозда/желоб/канавка/паз (форма) в объекте/поверхности
+      x2
+    notes:
+    - 'Также: траншея, овраг, каньон {plixa} (пахать)'
+    glosses:
+    - x1=борозда
+  en-simple:
+    place structure: x1 is a groove or trench in x2
+    notes:
+    - No notes.
+    glosses:
+    - a groove
+    - x2=a grooved surface
+  eo:
+    place structure: x1 estas sulko/tranĉeo [formo] en objekto/surfaco x2
+    notes:
+    - Vidu ankaŭ {plixa}.
+    glosses:
+    - sulko
+  hu:
+    place structure: x1 egy árok/vájat/barázda x2 tárgyon/felszín(b)en
+    notes:
+    - '(Lásd még: {plixa})'
+    glosses:
+    - árok
+  ja:
+    place structure: x1 は x2 （物／表面）における溝／窪み／うね
+    notes:
+    - ・大意： 溝 ・読み方： スクロ  ・語呂合わせ： kubomi 窪み ・関連語： {plixa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是表面/物体x2上的凹槽/壕沟/沟渠
+    notes:
+    - 参见 {plixa}.
+    glosses:
+    - No glosses.

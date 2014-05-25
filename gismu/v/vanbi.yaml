@@ -1,7 +1,64 @@
-Word: vanbi
-Rafsi: vab
-Definition: x1 (ind./mass) is part of an environment/surroundings/context/ambience
-  of x2.
-Notes: (adjective:) $x_1$ is ambient.  See also cmavo list {va'o}, {sruri}, {jibni},
-  {jbini}, {ferti}, {tcini}.
-Examples: None
+word: vanbi
+rafsi:
+- vab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (ind./mass) is part of an environment/surroundings/context/ambience
+      of x2.
+    notes:
+    - (adjective:) x1 is ambient.  See also cmavo list {va'o}, {sruri}, {jibni}, {jbini},
+      {ferti}, {tcini}.
+    glosses:
+    - environment
+  de:
+    place structure: x1 (Einzelner/Masse) ist Teil der Umgebung/Umwelt/des Umfelds/Zusammenhangs/Kontexts
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - Umgebung
+  es:
+    place structure: x1 es parte del ambiente/alrededores/contexto/situación de x2
+    notes:
+    - Ver también {sruri},  {jibni},  {jbini}.
+    glosses:
+    - ambiente
+  ru:
+    place structure: x1 — часть окружения/контекста/окружающей среды для x2
+    notes:
+    - 'Также: окружающий, среда, обстоятельства {va''o}, {sruri} (оркужать), {jibni}
+      (близко), {jbini} (между), {ferti} (плодородный), {tcini} (обстоятельство)'
+    glosses:
+    - x1=окружение
+  en-simple:
+    place structure: x1 is part of environment x2
+    notes:
+    - No notes.
+    glosses:
+    - a part of an environment
+    - x2=an environment
+  eo:
+    place structure: x1 (ind./mass) estas parto de medio/ĉirkaŭaĵo/konteksto de x2
+    notes:
+    - Vidu ankaŭ cmavo {va'o}, {sruri}, {jibni}, {jbini}, {ferti}, {tcini}.
+    glosses:
+    - medio
+  hu:
+    place structure: x1 egy része x2 környezetének/kontextusának
+    notes:
+    - '(Lásd még: {sruri}, {jibni}, {jbini}, {ferti}, {tcini})'
+    glosses:
+    - környezet
+  ja:
+    place structure: x1 （個／群）は x2 の環境／周囲／文脈／雰囲気
+    notes:
+    - ・大意： 環境 ・読み方： ヴァンビ  ・関連語： {va'o}, {sruri} (包囲), {tcini} (状況), {jibni}, {jbini}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（个体/团体）是x2所在环境/氛围
+    notes:
+    - x1是外界的/周遭环境的；参见 {va'o}, {sruri}, {jibni}, {jbini}, {ferti}, {tcini}.
+    glosses:
+    - No glosses.

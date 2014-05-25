@@ -1,9 +1,82 @@
-Word: ralju
-Rafsi: ral
-Definition: x1 is principal/chief/leader/main/[staple], most significant among x2
-  (set) in property x3 (ka).
-Notes: Staple (= {ralselpra}); general/admiral/president/principal leader (= {ralja'a},
-  {ralterbe'e}; use additional terms to distinguish among these); also primary, prime,
-  (adverb:) chiefly, principally, mainly; ($x_2$ is complete specification of set).  See
-  also {vajni}, te {bende}, {minde}, {lidne}, {jatna}, {jitro}, {gidva}, {midju}.
-Examples: None
+word: ralju
+rafsi:
+- ral
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is principal/chief/leader/main/[staple], most significant
+      among x2 (set) in property x3 (ka).
+    notes:
+    - Staple (= {ralselpra}); general/admiral/president/principal leader (= {ralja'a},
+      {ralterbe'e}; use additional terms to distinguish among these); also primary,
+      prime, (adverb:) chiefly, principally, mainly; (x2 is complete specification
+      of set).  See also {vajni}, te {bende}, {minde}, {lidne}, {jatna}, {jitro},
+      {gidva}, {midju}.
+    glosses:
+    - principal
+  de:
+    place structure: x1 ist der Leiter/Chef/Direktor/Rektor/Vorsteher/[Haupt-], das
+      Maßgebliche unter x2 (Menge) in Eigenschaft x2
+    notes:
+    - No notes.
+    glosses:
+    - Leiter
+  es:
+    place structure: x1 es el principal/más importante/significativo entre x2 en propiedad
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - principal
+  ru:
+    place structure: x1 — главный/основной/ведущий/наиболее значительный среди членов
+      множества x2 в отношении свойства x3
+    notes:
+    - 'Также: генерал/адмирал/президент/начальник/патрон/лидер/принципал: {ralja''a},
+      {ralterbe''e} с добавлением подходящих определений; наречие: в основном, главным
+      образом; x2 — полное описание множества {vajni} (важный [имеющий значение]),
+      {te} {bende} (команда), {minde} (командовать), {lidne} (предшествовать), {jatna}
+      (лидер), {jitro} (контролировать), {gidva} (вести [направлять/быть лидером]),
+      {midju} (середина)'
+    glosses:
+    - главный
+  en-simple:
+    place structure: x1 is principal or chief among x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something principal
+    - x2=something with a principal
+    - x3=a property of principalness
+  eo:
+    place structure: x1 estas ĉefa/precipa/estra, plej signifa inter x2 (aro) en eco
+      x3 (ka)
+    notes:
+    - ĉefaĵo (= {ralselpra}); generalo/admiralo/prezidento/ĉefo (= ralja'a, ralterbe'e;
+      uzu aldonajn terminojn por distingi inter ili); ankaŭ primara, unuagrada, unuaranga,
+      precipa; (x2 estas kompleta specifado de aro). Vidu ankaŭ {vajni}, te {bende},
+      {minde}, {lidne}, {jatna}, {jitro}, {gidva}, {midju}.
+    glosses:
+    - ĉefa
+  hu:
+    place structure: x1 elsőrendű/leglényegesebb/vezető x2 halmaz tagjai közül, x3
+      tulajdonságban
+    notes:
+    - '(Lásd még: {vajni}, {bende}, {minde}, {lidne}, {jatna}, {jitro}, {gidva}, {midju})'
+    glosses:
+    - elsőrendű
+  ja:
+    place structure: x1 は x2 （集合）・ x3 （性質）において主要／大本
+    notes:
+    - ・大意： 主要 ・読み方： ラルゥジュ  ・関連語： {vajni}, {te} {bende}, {minde}, {lidne}, {jatna},
+      {jitro}, {gidva}, {midju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2（集合）中的最主要的/领导/主席/负责人，具有性质x3（ka）
+    notes:
+    - 主要产品= {ralselpra}；将军/总统/主席/领导人= {ralja'a}/{ralterbe'e}；;添加不同的部件可以区别它们；也指：主要的，首要的；x2是完整指明的集合；参见
+      {vajni}, te {bende}, {minde}, {lidne}, {jatna}, {jitro}, {gidva}, {midju}.
+    glosses:
+    - No glosses.

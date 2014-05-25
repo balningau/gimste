@@ -1,6 +1,73 @@
-Word: kancu
-Rafsi: kac
-Definition: x1 (agent) counts the number in set x2 to be x3 [number/count] counting
-  [off] by units x4.
-Notes: ($x_2$ is complete set); See also {kanji}, {satci}, {merli}.
-Examples: None
+word: kancu
+rafsi:
+- kac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) counts the number in set x2 to be x3 [number/count]
+      counting [off] by units x4.
+    notes:
+    - (x2 is complete set); See also {kanji}, {satci}, {merli}.
+    glosses:
+    - count
+  de:
+    place structure: x1 (Handelnder) zählt die Anzahl der Elemente in Menge x2 mit
+      Ergebnis x3 [Anzahl] in Zähleinheiten x4
+    notes:
+    - No notes.
+    glosses:
+    - zählen
+  es:
+    place structure: x1 cuenta los miembros de x2 con resultado x3 (número) contando
+      de a unidades x4
+    notes:
+    - No notes.
+    glosses:
+    - contar
+  ru:
+    place structure: x1 пересчитывает элементы множества x2 и получает в результате
+      x3, отсчитывая по x4 единиц; x1 получает при подсчете элементов множества x2
+      результат x3, отсчитывая по x4 единиц
+    notes:
+    - x2 — полное описание множества {kanji} (вычислять), {satci} (точный [об измерении]),
+      {merli} (измерять)
+    glosses:
+    - пересчитывать
+    - x1=пересчитывающий
+    - x2=пересчитываемое множество
+    - x3=результат пересчета
+  en-simple:
+    place structure: x1 counts the number in set x2 to be x3 by units x4
+    notes:
+    - No notes.
+    glosses:
+    - a counter
+    - x2=a counted set
+    - x3=a count result
+    - x4=a count unit
+  eo:
+    place structure: x1 (aganto) nombras aron x2 kun rezulto x3 [nombro] nombrante
+      po unuoj x4
+    notes:
+    - (x2 estas kompleta aro); Vidu ankaŭ {kanji}, {satci}, {merli}.
+    glosses:
+    - nombri
+  hu:
+    place structure: x1 megszámolja x2 halmaz elemeit x3 eredménnyel, x4-esével
+    notes:
+    - '(Lásd még: {kanji}, {satci}, {merli})'
+    glosses:
+    - megszámol
+  ja:
+    place structure: x1 は x2 （集合）について x3 （数量）を x4 （単位）で数える
+    notes:
+    - ・大意： 数える ・読み方： カンシュ  ・語呂合わせ： count, cu（数）数える看守 ・関連語： {kanji}, {satci}, {merli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1计数/数数集合x2中的数目至x3（数字/数量），以计数单位x4
+    notes:
+    - x2是完整集合；参见 {kanji}, {satci}, {merli}.
+    glosses:
+    - No glosses.

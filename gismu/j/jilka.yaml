@@ -1,6 +1,76 @@
-Word: jilka
-Rafsi: jil
-Definition: x1 is a quantity of/contains/is made of alkali/base of composition including
-  x2.
-Notes: (adjective:) $x_1$ is alkaline.  See also {sodna}, {bakri}, {sodva}.
-Examples: None
+word: jilka
+rafsi:
+- jil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of alkali/base of composition
+      including x2.
+    notes:
+    - (adjective:) x1 is alkaline.  See also {sodna}, {bakri}, {sodva}.
+    glosses:
+    - alkali
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus einer Base/Lauge mit
+      Zusammensetzung unter anderem x2; x1 ist alkalisch
+    notes:
+    - No notes.
+    glosses:
+    - Base
+  es:
+    place structure: x1 es una cantidad de álkali/base de composicion x2
+    notes:
+    - No notes.
+    glosses:
+    - alcalino
+  ru:
+    place structure: x1 — щелочь/основание состава x2
+    notes:
+    - 'x2: в состав входит x2 (не обязательно полное описание состава) {sodna} (щелочной
+      металл), {bakri} (мел), {sodva} (газированный напиток)'
+    glosses:
+    - x1=щёлочь
+  en-simple:
+    place structure: x1 is a quantity of alkali of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of alkali
+    - x2=a composition of alkali
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el alkalo/bazo de konsisto
+      enhavanta x2-on
+    notes:
+    - Vidu ankaŭ {sodna}, {bakri}, {sodva}.
+    glosses:
+    - alkalo
+  hu:
+    place structure: x1 bizonyos mennyiségű lúg/bázis (-t tartalmaz/-ból készült)
+      x2 összetétellel
+    notes:
+    - '(Lásd még: {sodna}, {bakri}, {sodva})'
+    glosses:
+    - lúg
+  ja:
+    place structure: x1 は x2 （成分）のアルカリ
+    notes:
+    - ・大意： アルカリ ・読み方： ジルゥカ  ・語呂合わせ： アルカリ ・関連語： {sodna}, {bakri}, {sodva}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av/innehåller/är gjord av alkali/bas av sammansättning
+      med bland annat x2.
+    notes:
+    - (adjektiv:) alkalisk
+    glosses:
+    - alkali
+    - alkalisk
+    - bas (alkali)
+    - basisk
+  zh:
+    place structure: x1是碱，由组分x2构成
+    notes:
+    - x1是呈碱性的；参见 {sodna}, {bakri}, {sodva}.
+    glosses:
+    - No glosses.

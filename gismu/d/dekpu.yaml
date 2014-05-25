@@ -1,12 +1,115 @@
-Word: dekpu
-Rafsi: ''
-Definition: x1 is x2 (default 1) local volume unit(s) [non-metric; e.g. bushel], standard
-  x3, x4 subunits.
-Notes: Gallon (= {likydekpu}), quart (= {likseldekpu}), barrel (wet = likybradekpu,
-  dry = sudbradekpu), bushel (= {sudydekpu}), peck (= {sudyseldekpu}), cupful (= {kabrydekpu}),
-  tablespoon (= {mucydekpu}); teaspoon (= {mucyxeldekpu}); (all of these lujvo may
-  need gic- to distinguish the English measurement system in contrasting with some
-  local system; the English system is otherwise presumed to be the default non-metric
-  system).  (additional subunit places may be added as $x_5$, $x_6$, ...); See also
-  {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
-Examples: None
+word: dekpu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 (default 1) local volume unit(s) [non-metric; e.g. bushel],
+      standard x3, x4 subunits.
+    notes:
+    - Gallon (= {likydekpu}), quart (= {likseldekpu}), barrel (wet = likybradekpu,
+      dry = sudbradekpu), bushel (= {sudydekpu}), peck (= {sudyseldekpu}), cupful
+      (= {kabrydekpu}), tablespoon (= {mucydekpu}); teaspoon (= {mucyxeldekpu}); (all
+      of these lujvo may need gic- to distinguish the English measurement system in
+      contrasting with some local system; the English system is otherwise presumed
+      to be the default non-metric system).  (additional subunit places may be added
+      as x5, x6, ...); See also {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli},
+      {merli}, {bunda}, {kramu}.
+    glosses:
+    - gallon
+  de:
+    place structure: 'x1 ist x2 (Default: 1) örtliche Volumeneinheit(en) [nichtmetrisch;
+      z.B. Scheffel, Gallone], Standard x3, Untereinheit(en) x4 (, x5, x6, ...)'
+    notes:
+    - No notes.
+    glosses:
+    - Scheffel
+  es:
+    place structure: x1 tiene un volumen de x2 unidades locales (1 por defecto), estándar
+      x3, x4 subunidades
+    notes:
+    - No notes.
+    glosses:
+    - galón
+  ru:
+    place structure: x1 имеет объем x2 (по умолчанию 1) местных единиц объема (неметрических,
+      напр. бушель) по стандарту x3, x4 дробных единиц
+    notes:
+    - 'Галлон: {likydekpu}, кварта: {likseldekpu}, баррель («мокрый»: {likybradekpu},
+      «сухой»: {sudbradekpu}, бушель: {sudydekpu}, сухой галлон: {sudyseldekpu}, чашка:
+      {kabrydekpu}, столовая ложка: {mucydekpu}; чайная ложка: {mucyseldekpu}; при
+      необходимости ко всем этим lujvo можно добавить {gic}-, чтобы отличить британскую
+      систему мер от какой-либо другой неметрической системы; в противном случае по
+      умолчанию подразумевается британская система; дополнительные места для дробных
+      единиц могут быть добавлены как x5, x6,… {canlu} (объем), {litce} (литр), {rupnu}
+      (денежная единица), {fepni} (стоить [в копейках/центах и пр.]), {gutci} (измеряться
+      [в футах/дюймах и пр.]), {minli} (миля), {merli} (измерять), {bunda} (весить
+      [в неметрических единицах]), {kramu} (акр)'
+    glosses:
+    - x1=галлон
+  en-simple:
+    place structure: x1 is x2 non-metric volume units in standard x3 with subunits
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - something measured in non-metric volume
+    - x2=an amount of non-metric volume
+    - x3=a non-metric volume standard
+    - x4=a subunit of a non-metric volume
+  eo:
+    place structure: x1 estas x2 (defaŭlte 1) lokaj unuoj de volumeno [ne-metra; ekz.
+      buŝelo], normo x3, x4 subunuoj
+    notes:
+    - Galjono (= {likydekpu}), kvarto (= {likseldekpu}), barelo (malseka = likybradekpu,
+      seka = sudbradekpu), buŝelo (= {sudydekpu}), dugaljono (= {sudyseldekpu}), plentaso
+      (= {kabrydekpu}), plenservkulero (= {mucydekpu}); plentekulero (= {mucyseldekpu});
+      (ĉiuj tiuj lujvo povas bezoni je gic- por distingi la angla mezursistemo kontraste
+      al alia loka sistemo; alie la anglan sistemon oni supozas defaŭlte la ne-metra
+      sistemo).  (pliajn subunuajn lokojn oni povas aldoni kiel x5, x6, ...); Vidu
+      ankaŭ {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda},
+      {kramu}.
+    glosses:
+    - galono
+  hu:
+    place structure: x1 térfogat x2 helyi [nem metrikus] űrmértékegység, x3 rendszerben,
+      x4 (x5, x6, stb.) alegységekkel
+    notes:
+    - 'x3 alapesetben az angolszász mértékegységrendszer (Lásd még: {canlu}, {litce},
+      {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu})'
+    glosses:
+    - gallon
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）・ x4 （下位単位）のガロン度
+    notes:
+    - 液量単位 ・大意： ガロン ・読み方： デクプ  ・関連語： {canlu}, {litce}, {rupnu}, {fepni}, {gutci},
+      {minli}, {merli}, {bunda}, {kramu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 (1 om inget annat anges) lokal(a) volymenhet(er) [ej
+      metersystemet], med standard x3, och underenhet x4.
+    notes:
+    - 'Avser det engelska (imperial) mätsystemet om inget annat anges (vanligaste
+      mätsystemet i världen efter metersystemet). För att särskilja från andra lokala
+      mätsystem, så kan prefixet gic- behöva användas i lujvo (för engelska systemet).
+      För det amerikanska använd mer- , för de gamla svenska verkmåtten (=sfe''ero
+      purci  bo dekpu). Exempel på enheter: Gallon (= {likydekpu}), quart (= {likseldekpu}),
+      tunna/barrel (våt = {likybradekpu}, torr = {sudbradekpu}), skäppa/bushel (=
+      {sudydekpu}), kappe/peck (= {sudyseldekpu}), kopp/cupful (= {kabrydekpu}), matsked/tablespoon
+      (= {mucydekpu}); tesked/teaspoon (= {mucyseldekpu}). Ytterligare platser för
+      underenheter kan läggas till som x5, x6, ...); Se även {canlu}, {litce}, {rupnu},
+      {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.'
+    glosses:
+    - x1=vikt (mäts i lokal volymenhet (gallon (en) om inte annat anges))
+    - x2=volymenhet (lokal) (mäts i lokal volymenhet (gallon (en) om inte annat anges))
+    - x3=volymenhet (lokal) standard
+  zh:
+    place structure: x1是x2个（默认1个）当地的容量单位，基于标准x3，x4是子单位/亚单位
+    notes:
+    - 加仑= {likydekpu}，夸脱= {likseldekpu}，桶（湿= {likybradekpu}，干={sudbradekpu}），蒲式耳={sudydekpu}，配克=
+      {sudyseldekpu}，杯= {kabrydekpu}，汤匙= {mucydekpu}，茶匙= {mucyseldekpu}；以上的单位可能需要添加gic-以区别英制单位和其它当地单位；更多的子单位可以在其后继续添加x5,x6……；参见
+      {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+    glosses:
+    - No glosses.

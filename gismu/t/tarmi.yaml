@@ -1,10 +1,84 @@
-Word: tarmi
-Rafsi: tam, tai
-Definition: x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation
-  x2 (object/abstract).
-Notes: Also pattern; $x_1$ is the mathematical or theoretical ideal form, while $x_2$
-  is an object/event manifesting that form; e.g. circular/circle-shaped (= {cukseltai})
-  vs. circle (={cuktai}, while {cukla} alone is ambiguous); model (= {ci'ersaptai},
-  {saptai}, {ci'ersmitai}, {smitai}).  See alse {nejni}, te {marji} for physical shape,
-  {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}.
-Examples: None
+word: tarmi
+rafsi:
+- tam
+- tai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation
+      x2 (object/abstract).
+    notes:
+    - Also pattern; x1 is the mathematical or theoretical ideal form, while x2 is
+      an object/event manifesting that form; e.g. circular/circle-shaped (= {cukseltai})
+      vs. circle (={cuktai}, while {cukla} alone is ambiguous); model (= {ci'ersaptai},
+      {saptai}, {ci'ersmitai}, {smitai}).  See alse {nejni}, te {marji} for physical
+      shape, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}.
+    glosses:
+    - shape
+  de:
+    place structure: x1 [ideal] ist die begriffliche Form von Objekt/Abstraktion/Erscheinungsform
+      x2 (Objekt/Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - Form
+  es:
+    place structure: x1 es la forma de objeto/abstracción/manifestación x2
+    notes:
+    - Ver también {morna},  te {marji}.
+    glosses:
+    - forma
+  ru:
+    place structure: 'x1 (идея) есть концептуальная форма x2 (чего: объект/абстракция)'
+    notes:
+    - 'x1 — математическая/теоретическая идеальная форма, тогда как x2 — объект/событие,
+      служащий ее проявлением/воплощением; напр. «круглый»: {cukseltai} против «круг»
+      (=cuktai), тогда как просто {cukla} было бы двусмысленно; модель: {ci''ersaptai},
+      {saptai}, {ci''ersmitai}, {smitai} {nejni} (энергия), {morna} (узор); {te} {marji}
+      (материя [вещество]) для физической формы, {tapla} (плитка), {bliku} (блок [глыба]),
+      {kubli} (куб), {kurfa} (прямоугольник), {cukla} (круг), {mapti} (подходить),
+      {morna} (узор), {sarlu} (спираль)'
+    glosses:
+    - форма
+  en-simple:
+    place structure: x1 is the shape of x2
+    notes:
+    - No notes.
+    glosses:
+    - a shape
+    - x2=something with a shape
+  eo:
+    place structure: x1 [idealo] estas la koncepta formo de objekto/abstraktaĵo/manifestaĵo
+      x2
+    notes:
+    - 'Ankaŭ: desegno/ŝablono; x1 estas la matematika aŭ teoria ideala formo, dum
+      x2 estas objekto/okazo manifestanta tiun formon; ekz. cirkla/cirklo-forma (=
+      {cukseltai}) vs. cirklo (=cuktai, dum sola cukla estas ambigua); modelo (= {ci''ersaptai},
+      {saptai}, {ci''ersmitai}, {smitai}).  (kp. nejni, morna; te marji por fizika
+      formo, tapla, bliku, kubli, kurfa, cukla, mapti, morna, sarlu)'
+    glosses:
+    - formo
+  hu:
+    place structure: x1 az alakja/formája/mintája x2 tárgynak/fogalomnak
+    notes:
+    - '(Lásd még: {nejni}, {morna}, {marji}, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla},
+      {mapti}, {sarlu})'
+    glosses:
+    - alak
+  ja:
+    place structure: x1 （観念／性質）は x2 の形状／形態／形式／仕様
+    notes:
+    - x1は観念的で、その性質を具現しているのが x2 。「キラキラの（x1）の指輪（ x2 ）」。 ・大意： 形 ・読み方： タルミ  ・語呂合わせ： tai(態),
+      form, たるみのある形 ・関連語： {nejni}, {morna}; {te} {marji}, {tapla}, {bliku}, {kubli},
+      {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（典范/模式）是x2（物体/表现/谓词子句）的概念上的形式/形状
+    notes:
+    - x1是数学或者理论上的理想范式，x2是显示其的物体或事件实例；对比：圆形物= {cukseltai}，圆={cuktai}而只是用cukla则易产生歧义；模型=
+      {ci'ersaptai}, {saptai}, {ci'ersmitai}, {smitai}；参见 {nejni}, te {marji}, {tapla},
+      {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: rango
-Rafsi: rag
-Definition: x1 is a/the body organ [body-part] of body/species x2 performing function
-  x3.
-Notes: Also sweetmeat (= {ragdja}). See also {besna}, {livga}.
-Examples: None
+word: rango
+rafsi:
+- rag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the body organ [body-part] of body/species x2 performing
+      function x3.
+    notes:
+    - Also sweetmeat (= {ragdja}). See also {besna}, {livga}.
+    glosses:
+    - organ
+  de:
+    place structure: x1 ist ein Körperorgan [Körperteil] von Körper/Spezies/Art x2
+      und erfüllt Funktion x3
+    notes:
+    - No notes.
+    glosses:
+    - Organ
+  es:
+    place structure: x1 es un órgano (parte del cuerpo) de cuerpo/especie x2 con función
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - órgano
+  ru:
+    place structure: x1 — орган тела/вида x2, выполняющий функцию x3
+    notes:
+    - 'Требуха: {ragdja} {besna} (мозг), {livga} (печень)'
+    glosses:
+    - орган (тела)
+    - x3=функция органа (тела)
+  en-simple:
+    place structure: x1 is a bodily organ of x2 performing function x3
+    notes:
+    - No notes.
+    glosses:
+    - a bodily organ
+    - x2=something with an organ
+    - x3=a function of a bodily organ
+  eo:
+    place structure: x1 estas organo [korpoparto] de korpo/speco x2 plenumanta funkcion
+      x3
+    notes:
+    - 'Ankaŭ: sweetmeat (= {ragdja}). Vidu ankaŭ {besna}, {livga}.'
+    glosses:
+    - organo
+  hu:
+    place structure: x1 egy szerve x2 testnek/fajnak, x3 funkcióval
+    notes:
+    - '(Lásd még: {besna}, {livga})'
+    glosses:
+    - szerv
+  ja:
+    place structure: x1 は x2 （生体）・ x3 （機能）の内臓
+    notes:
+    - ・大意： 内臓 ・読み方： ランゴ  ・関連語： {besna}, {livga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是物种/生物/个体x2的身体器官，具有功能/作用x3
+    notes:
+    - 参见 {besna}, {livga}.
+    glosses:
+    - No glosses.

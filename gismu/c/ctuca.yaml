@@ -1,7 +1,101 @@
-Word: ctuca
-Rafsi: ctu
-Definition: x1 teaches audience x2 ideas/methods/lore x3 (du'u) about subject(s) x4
-  by method x5 (event).
-Notes: Also instruct, instructor, educate, educator, teacher, professor, pedagogue;
-  (adjective:) $x_1$/$x_5$ is pedagogical.  See also {ckule}, {cilre}, {tadni}.
-Examples: None
+word: ctuca
+rafsi:
+- ctu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 teaches audience x2 ideas/methods/lore x3 (du'u) about subject(s)
+      x4 by method x5 (event).
+    notes:
+    - Also instruct, instructor, educate, educator, teacher, professor, pedagogue;
+      (adjective:) x1/x5 is pedagogical.  See also {ckule}, {cilre}, {tadni}.
+    glosses:
+    - teach
+  de:
+    place structure: x1 lehrt Publikum x2 Ideen/Methoden/Kunde/Wissen x3 (du'u) über
+      Thema/Themen x4 durch Methode x5 (Ereignis); x1 ist ein Lehrer; x1 belehrt x2
+    notes:
+    - No notes.
+    glosses:
+    - lehren
+  es:
+    place structure: x1 enseña a x2 ideas/métodos x3 sobre tema/asunto/objeto x4 por
+      método x5
+    notes:
+    - Ver también {cilre},  {tadni}.
+    glosses:
+    - enseñar
+  ru:
+    place structure: 'x1 преподает x2 (кому: аудитория) идеи/методы/знание x3 ({du''u})
+      о предмете x4 методом x5 (событие); x1 учит/обучает x2 (кого) x4 (чему)'
+    notes:
+    - 'x1 — учитель, инструктор, педагог, преподаватель, профессор; прилагательное:
+      x1/x5 педагогический, учебный {ckule} (школа), {cilre} (узнавать), {tadni} (изучать)'
+    glosses:
+    - преподавать
+    - x1=преподающий
+  en-simple:
+    place structure: x1 teaches to x2 ideas x3 about subject x4 by method x5
+    notes:
+    - No notes.
+    glosses:
+    - a teacher
+    - x2=an audience of teaching
+    - x3=an idea taught
+    - x4=a subject taught
+    - x5=a method of teaching
+  eo:
+    place structure: x1 instruas al x2 ideojn/metodojn/lernaĵon x3 (du'u) pri temo
+      x4 per metodo x5 (okazo)
+    notes:
+    - 'Ankaŭ: eduki, edukisto, instruisto, profesoro, pedagogo; (adjektivo:) x1/x5
+      estas pedagogia.  Vidu ankaŭ {ckule}, {cilre}, {tadni}.'
+    glosses:
+    - instrui
+  hu:
+    place structure: x1 tanítja x2 közönségnek x3 ismeret(ek)et/eszmé(ke)t/módszer(eke)t/tan(oka)t
+      x4 tárgyról, x5 módszerrel
+    notes:
+    - '(Lásd még: {ckule}, {cilre}, {tadni})'
+    glosses:
+    - tanít
+  ja:
+    place structure: x1 は x2 （生徒／門下生）に x3 （命題）・ x4 （題目）を x5 （方法）で教える
+    notes:
+    - 「教育」「指導」「伝道」も。 ・大意： 教える ・読み方： シトゥシャ  ・関連語： {ckule}, {cilre}, {tadni}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 lærer publikum x2 i ideer/metode/lære x3 (du'u) om tema x4
+      med metode/pedagogikk x5 (hendelse)
+    notes:
+    - Også instruktør, lærer, instruere, lære bort, professor, pedagog; (adjective:)
+      x1/x5 er pedagogisk. Se også {ckule}, {cilre}, {tadni}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 lär ut/undervisar åhörare/skara/grupp x2 idéer/metoder/kunskap
+      x3 (du'u) om ämne(n) x4 med hjälp av metod x5.
+    notes:
+    - Även instruera, instruktör, utbilda, utbildare, lärare, professor, pedagogue;
+      (adjective:) x1/x5 is pedagogical.
+    glosses:
+    - instruera
+    - instruktör
+    - lära ut
+    - pedagog
+    - undervisa
+    - utbilda
+    - utbildare
+    - x1=lärare
+    - x2=undervisningsgrupp
+    - x3=undervisning ((snäv mening) idéer/metoder/kunskap som lärs ut)
+    - x4=undervisningsämne
+    - x5=undervisningsmetod
+  zh:
+    place structure: x1教授/传授x2知识/想法/方法x3(du'u)，关于主题x4，教授方法为x5
+    notes:
+    - 也指：指导，教导，老师，导师等等；x1/x5是有关于教学的；参见 {ckule}, {cilre}, {tadni}.
+    glosses:
+    - No glosses.

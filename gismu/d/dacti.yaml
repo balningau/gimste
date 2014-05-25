@@ -1,5 +1,69 @@
-Word: dacti
-Rafsi: dai
-Definition: x1 is a material object enduring in space-time; x1 is a thing.
-Notes: See also {marji}, {xanri}.
-Examples: None
+word: dacti
+rafsi:
+- dai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a material object enduring in space-time; x1 is a thing.
+    notes:
+    - See also {marji}, {xanri}.
+    glosses:
+    - object
+  de:
+    place structure: x1 ist ein physikalisches [stoffliches] Objekt; x1 ist ein Ding
+    notes:
+    - No notes.
+    glosses:
+    - Objekt
+  es:
+    place structure: x1 es una cosa/objeto material con presencia espaciotemporal
+    notes:
+    - Ver también {mucti}.
+    glosses:
+    - objeto
+  ru:
+    place structure: x1 — материальный объект, существующий в пространстве-времени;
+      x1 материален/веществен; x1 — вещь/предмет
+    notes:
+    - '{marji} (материя [вещество]), {xanri} (воображаемый)'
+    glosses:
+    - x1=материальный объект
+  en-simple:
+    place structure: x1 is a material object enduring in space-time; x1 is a thing
+    notes:
+    - No notes.
+    glosses:
+    - a material object enduring in space-time; a thing
+  eo:
+    place structure: x1 estas materia objekto ekzistanta en spacotempo; x1 estas aĵo
+    notes:
+    - Vidu ankaŭ {marji}, {xanri}.
+    glosses:
+    - objekto
+  hu:
+    place structure: x1 egy anyagi tárgy a téridőben
+    notes:
+    - '(Lásd még: {marji}, {xanri})'
+    glosses:
+    - tárgy
+  ja:
+    place structure: x1 は時空間内の存在／物体；  x1 は物
+    notes:
+    - ・大意： 物体 ・語呂合わせ： 物体出していい ・関連語： {marji}, {xanri}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett material som består i rumstiden; x1 är en sak.
+    notes:
+    - No notes.
+    glosses:
+    - föremål
+    - grej
+    - sak
+  zh:
+    place structure: x1在某个时空下持续存在的物体；x1是一个东西
+    notes:
+    - 参见 {marji}, {xanri}.
+    glosses:
+    - No glosses.

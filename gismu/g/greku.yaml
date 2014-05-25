@@ -1,6 +1,77 @@
-Word: greku
-Rafsi: rek
-Definition: x1 is a frame/structure/skeleton/outline supporting/load-bearing/determining
-  the form of x2.
-Notes: See also {korbi}, {stura}, {tsina}, {bongu}.
-Examples: None
+word: greku
+rafsi:
+- rek
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a frame/structure/skeleton/outline supporting/load-bearing/determining
+      the form of x2.
+    notes:
+    - See also {korbi}, {stura}, {tsina}, {bongu}.
+    glosses:
+    - frame
+    - frame (structural basis)
+  de:
+    place structure: x1 ist ein Rahmen/eine Struktur/ein Skelett und stützt/trägt/gibt
+      die Form für x2 vor
+    notes:
+    - No notes.
+    glosses:
+    - Rahmen
+  es:
+    place structure: x1 es un marco/estructura/esqueleto sustentando/dando forma a
+      x2
+    notes:
+    - Ver también {korbi},  {stura},  {tsina}.
+    glosses:
+    - marco
+  ru:
+    place structure: x1 — каркас/рама/арматура/скелет, поддерживающий/определяющий
+      форму x2 (чего)
+    notes:
+    - '{korbi} (край), {stura} (структура [чего-либо]), {tsina} (подмостки), {bongu}
+      (кость)'
+    glosses:
+    - x1=рама
+  en-simple:
+    place structure: x1 is a frame or structure supporting x2
+    notes:
+    - No notes.
+    glosses:
+    - a frame
+    - x2=something supported by a frame
+  eo:
+    place structure: x1 estas kadro/strukturo/skeleto/konturo subtenanta/determinanta
+      la formon de x2
+    notes:
+    - Vidu ankaŭ {korbi}, {stura}, {tsina}, {bongu}.
+    glosses:
+    - kadro
+  hu:
+    place structure: x1 a kerete/váza/szerkezete x2-nek
+    notes:
+    - '(Lásd még: {korbi}, {stura}, {tsina}, {bongu})'
+    glosses:
+    - keret
+  ja:
+    place structure: x1 は x2 （本体）の枠／骨組／構造／フレーム
+    notes:
+    - ・大意： 枠 ・読み方： グレク  ・関連語： {korbi}, {stura}, {tsina}, {bongu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ram/struktur/skelett/kontur/disposition som stöjder/bär
+      upp/bestämmer formen av x2.
+    notes:
+    - No notes.
+    glosses:
+    - disposition (strukturell bas; ram)
+    - ram (strukturell bas)
+    - struktur (strukturell bas; ram)
+  zh:
+    place structure: x1是决定/承载样式/形式x2的框架结构/纲要
+    notes:
+    - 参见 {korbi}, {stura}, {tsina}, {bongu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,62 @@
-Word: ratcu
-Rafsi: ''
-Definition: x1 is a rat of species/breed x2.
-Notes: See also {smacu}.
-Examples: None
+word: ratcu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rat of species/breed x2.
+    notes:
+    - See also {smacu}.
+    glosses:
+    - rat
+  de:
+    place structure: x1 ist eine Ratte von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Ratte
+  es:
+    place structure: x1 es una rata de especie/raza x2
+    notes:
+    - Ver también {smacu}.
+    glosses:
+    - rata
+  ru:
+    place structure: x1 — крыса вида/разновидности x2
+    notes:
+    - '{smacu} (мышь)'
+    glosses:
+    - крыса
+    - x2=вид крысы
+  en-simple:
+    place structure: x1 is a rat of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a rat
+    - x2=a species of rat
+  eo:
+    place structure: x1 estas rato de speco/raso x2
+    notes:
+    - Vidu ankaŭ {smacu}.
+    glosses:
+    - rato
+  hu:
+    place structure: x1 egy patkány [Rattus nem] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {smacu})'
+    glosses:
+    - patkány
+  ja:
+    place structure: x1 は x2 （種類）のクマネズミ属
+    notes:
+    - 「smacu／マウス」よりも大きなげっ歯類。 ・大意： 鼠 ・読み方： ラチュ ・語呂合わせ： チュウチュウ ・関連語： {smacu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是鼠，属于品种/种类x2
+    notes:
+    - 参见 {smacu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: filso
-Rafsi: fis
-Definition: x1 reflects Palestinian culture/nationality in aspect x2.
-Notes: See also {jordo}, {xebro}.
-Examples: None
+word: filso
+rafsi:
+- fis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Palestinian culture/nationality in aspect x2.
+    notes:
+    - See also {jordo}, {xebro}.
+    glosses:
+    - Palestinian
+  de:
+    place structure: x1 repräsentiert palästinensische Kultur/Nationalität in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Palästinenser
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma palestino en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - palestino
+  ru:
+    place structure: x1 — палестинский в аспекте x2
+    notes:
+    - '{jordo} (иорданский), {xebro} (еврейский)'
+    glosses:
+    - палестинский
+  en-simple:
+    place structure: x1 is Palestinian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Palestinian
+    - x2=a Palestinian aspect
+  eo:
+    place structure: x1 montras palestinan kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {jordo}, {xebro}.
+    glosses:
+    - palestina
+  hu:
+    place structure: x1 palesztin kultúrát/nemzetséget tükröz, x2 tekintetben
+    notes:
+    - '(Lásd még: {jordo}, {xebro})'
+    glosses:
+    - palesztin
+  ja:
+    place structure: x1 は x2 （性質面）に関してパレスチナ系（言語／文化／民族／地理）
+    notes:
+    - ・大意： パレスチナ ・読み方： フィルゥソ  ・関連語： {jordo}, {xebro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar palestinsk kultur/nationalitet x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=palestinsk
+    - x2=palestinsk aspekt
+  zh:
+    place structure: x1是关于巴勒斯坦的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {jordo}, {xebro}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,75 @@
-Word: dzipo
-Rafsi: zip, zi'o
-Definition: x1 reflects Antarctican culture/nationality/geography in aspect x2.
-Notes: See also {ketco}, {friko}, {sralo}, {terdi}.
-Examples: None
+word: dzipo
+rafsi:
+- zip
+- zi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Antarctican culture/nationality/geography in aspect
+      x2.
+    notes:
+    - See also {ketco}, {friko}, {sralo}, {terdi}.
+    glosses:
+    - Antarctican
+  de:
+    place structure: x1 repräsentiert antarktische Kultur/Nationalität/Geographie
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - antarktisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/geografía antártica en aspecto
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - antártico
+  ru:
+    place structure: x1 — антарктический в аспекте x2
+    notes:
+    - '{ketco} (южноамериканский), {friko} (африканский), {sralo} (австралийский),
+      {terdi} (земля [планета Земля])'
+    glosses:
+    - антарктический
+  en-simple:
+    place structure: x1 is Antarctican in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Antarctican
+    - x2=an Antarctican aspect
+  eo:
+    place structure: x1 montras antarktikan kulturon/naciecon/geografion laŭ aspekto
+      x2
+    notes:
+    - Vidu ankaŭ {ketco}, {friko}, {sralo}, {terdi}.
+    glosses:
+    - antarktika
+  hu:
+    place structure: x1 antarktiszi származást/földrajzot tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {ketco}, {friko}, {sralo}, {terdi})'
+    glosses:
+    - antarktiszi
+  ja:
+    place structure: x1 は x2 （性質面）に関して南極系
+    notes:
+    - ・大意： 南極 ・読み方： ヅィポ  ・関連語： {ketco}, {friko}, {sralo}, {terdi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar antarktisk kultur/nationalitet/geografi i aspekt
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=antarktisk
+    - x2=antarktisk aspekt
+  zh:
+    place structure: x1是关于南极洲文化/所在地/地理特性等的事物，在x2方面
+    notes:
+    - 参见 {ketco}, {friko}, {sralo}, {terdi}.
+    glosses:
+    - No glosses.

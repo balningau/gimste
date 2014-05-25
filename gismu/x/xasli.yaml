@@ -1,5 +1,62 @@
-Word: xasli
-Rafsi: ''
-Definition: x1 is a donkey/jackass of species/breed x2.
-Notes: See also {xirma}, {kumte}.
-Examples: None
+word: xasli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a donkey/jackass of species/breed x2.
+    notes:
+    - See also {xirma}, {kumte}.
+    glosses:
+    - donkey
+  de:
+    place structure: x1 ist eine Esel/ein Grautier von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Esel
+  es:
+    place structure: x1 es un asno/burro de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - asno
+  ru:
+    place structure: x1 — осел вида/породы x2
+    notes:
+    - '{xirma} (лошадь), {kumte} (верблюд)'
+    glosses:
+    - x1=осёл
+    - x2=вид осла
+  en-simple:
+    place structure: x1 is a donkey of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a donkey
+    - x2=a species of donkey
+  eo:
+    place structure: x1 estas azeno de speco/raso x2
+    notes:
+    - Vidu ankaŭ {xirma}, {kumte}.
+    glosses:
+    - azeno
+  hu:
+    place structure: x1 egy szamár/öszvér [Asinus alnem] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {xirma}, {kumte})'
+    glosses:
+    - szamár
+  ja:
+    place structure: x1 は x2 （種類）のロバ亜属動物
+    notes:
+    - ・大意： ロバ ・読み方： クァスルィ  ・関連語： {xirma}, {kumte}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1驴，属于品种/种类x2
+    notes:
+    - 参见 {xirma}, {kumte}.
+    glosses:
+    - No glosses.

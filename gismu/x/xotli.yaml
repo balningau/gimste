@@ -1,5 +1,67 @@
-Word: xotli
-Rafsi: xol, xoi
-Definition: x1 is a hotel/inn/hostel at location x2 operated by x3.
-Notes: See also {barja}, {gusta}.
-Examples: None
+word: xotli
+rafsi:
+- xol
+- xoi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a hotel/inn/hostel at location x2 operated by x3.
+    notes:
+    - See also {barja}, {gusta}.
+    glosses:
+    - hotel
+  de:
+    place structure: x1 ist ein Hotel/Gasthaus/Wohnheim/eine Herberge an Ort x2 geführt
+      von x3
+    notes:
+    - No notes.
+    glosses:
+    - Hotel
+  es:
+    place structure: x1 es un hotel/posada en localidad x2 manejado por x3
+    notes:
+    - No notes.
+    glosses:
+    - hotel
+  ru:
+    place structure: x1 — гостиница/отель/постоялый двор/караван-сарай/мотель в x2
+      (место), управляемый x3 (кем)
+    notes:
+    - '{barja} (бар), {gusta} (ресторан)'
+    glosses:
+    - гостиница
+    - x3=управляющий гостиницы
+  en-simple:
+    place structure: x1 is a hotel or inn at x2 operated by x3
+    notes:
+    - No notes.
+    glosses:
+    - a hotel
+    - x2=a location of a hotel
+    - x3=an operator of a hotel
+  eo:
+    place structure: x1 estas hotelo/gastejo/loĝdomo en loko x2 administrita de x3
+    notes:
+    - Vidu ankaŭ {barja}, {gusta}.
+    glosses:
+    - hotelo
+  hu:
+    place structure: x1 egy szálloda/hotel/motel/fogadó/szálló/kollégium x2 helyen,
+      x3 által üzemeltetve
+    notes:
+    - '(Lásd még: {barja}, {gusta})'
+    glosses:
+    - szálloda
+  ja:
+    place structure: x1 は x2 （所）・ x3 （営業者）の旅館／ホテル／宿屋／宿泊所
+    notes:
+    - ・大意： 旅館 ・読み方： クォトルィ  ・関連語： {barja}, {gusta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是旅店/旅社/客栈，位于地点x2，由x3运营
+    notes:
+    - 参见 {barja}, {gusta}.
+    glosses:
+    - No glosses.

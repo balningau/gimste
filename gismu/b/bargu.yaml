@@ -1,7 +1,100 @@
-Word: bargu
-Rafsi: bag
-Definition: x1 arches/curves over/around x2 and is made of x3; x1 is an arch over/around
-  x2 of material x3.
-Notes: Also arc; $x_2$ need not be an object, but may be a point or volume.  See also
-  {cripu}, {kruvi}, {korcu}, {condi}.
-Examples: None
+word: bargu
+rafsi:
+- bag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 arches/curves over/around x2 and is made of x3; x1 is an arch
+      over/around x2 of material x3.
+    notes:
+    - Also arc; x2 need not be an object, but may be a point or volume.  See also
+      {cripu}, {kruvi}, {korcu}, {condi}.
+    glosses:
+    - arch (shape)
+  de:
+    place structure: x1 bildet einen Bogen über/um x2 und besteht aus Material x3;
+      x1 ist ein Bogen über/um x2 aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Bogen
+  es:
+    place structure: x1 es un arco/curva sobre x2 hecho de material x3
+    notes:
+    - No notes.
+    glosses:
+    - arco
+  fr:
+    place structure: x1 forme une arche sur/autour de x2 et est faite de x3 (matériau).
+    notes:
+    - Aussi "arc". x2 n'est pas nécessairement un objet, mais peut être un point ou
+      un volume. Voir également {cripu}, {kruvi}, {korcu}, {condi}.
+    glosses:
+    - arche (forme)
+  ru:
+    place structure: x1 — арка/свод над x2, из матерала x3; x1 нависает над x2
+    notes:
+    - x2 м.б. не только объект, но и точка или объем {cripu} (мост), {kruvi} (изгиб),
+      {korcu} (изогнутый), {condi} (глубокий)
+    glosses:
+    - x1=арка
+  en-simple:
+    place structure: x1 is an arch over or around x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - an arch
+    - x2=something arched over or around
+    - x3=a material of an arch
+  eo:
+    place structure: x1 formas arkon/kurbon super/ĉirkaŭ x2 el materialo x3
+    notes:
+    - x2 ne nepre estas objekto, sed povas esti punkto aŭ volumeno.  Vidu ankaŭ {cripu},
+      {kruvi}, {korcu}, {condi}.
+    glosses:
+    - arko
+  hu:
+    place structure: x1 egy (bolt)ív / átível x2 tárgy/pont/tér fölött/körül, x3 anyagból
+    notes:
+    - 'Használatos „(kör)ív” értelemben is (Lásd még: {cripu}, {kruvi}, {korcu}, {condi})'
+    glosses:
+    - boltív
+  ja:
+    place structure: x1 は x2 に掛かる／を縁取る x3 （素材）のアーチ
+    notes:
+    - 「lo bargu cripu cu ve klama／太鼓橋を渡る」 ・大意： アーチ ・読み方： バルグ  ・語呂合わせ： ＜バーぐらぐら＞, arch
+      ・関連語： {cripu}, {kruvi}, {korcu}, {condi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 kurver/krummer seg over/rundt x2 og er laget av x3; x1 er
+      en kurve over/rundt x2 av materiale x3
+    notes:
+    - x2 trenger ikke være et object, det kan også være et punkt eller et volum. Se
+      også {{cripu}}, {{kruvi}}, {{korcu}}, {{condi}}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 kröker sig/välver sig/formar en båge över/runt x2 och är gjord
+      av x3; x1 är en båge över/runt x2 av material x3
+    notes:
+    - Även kurva, båge [form]; x2 behöver inte vara ett objekt, utan kan också vara
+      en punkt, yta eller volym. Se även {cripu}, {kruvi}, {korcu}, {condi}.
+    glosses:
+    - arcus (matematik)
+    - båglinje
+    - kroklinje
+    - kröka sig
+    - kurva
+    - valvbåge (byggnadsdel)
+    - välva sig
+    - x1=båge (form)
+    - x2=omvälvd runt/över
+    - x3=valvbågematerial
+  zh:
+    place structure: x1是向着/绕着x2弯曲的，并且由x3制造；x1是绕x2的拱形/弓形，且由x3制造
+    notes:
+    - 也指：弧； x2不必要是指实际的物体，也可能指一个点；参见 {cripu}, {kruvi}, {korcu}, {condi}
+    glosses:
+    - No glosses.

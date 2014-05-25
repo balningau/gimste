@@ -1,5 +1,78 @@
-Word: stali
-Rafsi: sta
-Definition: x1 remains/stays at/abides/lasts with x2.
-Notes: See also {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi}, {renvi}.
-Examples: None
+word: stali
+rafsi:
+- sta
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 remains/stays at/abides/lasts with x2.
+    notes:
+    - See also {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi}, {renvi}.
+    glosses:
+    - remain
+  jbo:
+    place structure: x1 boi x2 zvati gi'enai cliva
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (ver)bleibt/verharrt bei/mit x2
+    notes:
+    - No notes.
+    glosses:
+    - bleiben
+  es:
+    place structure: x1 queda/permanece en/con x2
+    notes:
+    - Ver también {canci},  {ralte},  {stodi}.
+    glosses:
+    - quedar
+  ru:
+    place structure: x1 остается/пребывает у/в/с x2
+    notes:
+    - '{vitno} (длительный), {zasni} (временный), {ralte} (удерживать), {stodi} (постоянный),
+      {xabju} (проживать), {stuzi} (место [постоянное]), {renvi} (выдерживать)'
+    glosses:
+    - оставаться
+    - x1=остающийся
+  en-simple:
+    place structure: x1 stays or remains at x2
+    notes:
+    - No notes.
+    glosses:
+    - something staying
+    - x2=a place stayed at
+  eo:
+    place structure: x1 restas/daŭras kun x2
+    notes:
+    - Vidu ankaŭ {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi}, {renvi}.
+    glosses:
+    - resti
+  hu:
+    place structure: x1 megmarad x2 helyen/állapotban
+    notes:
+    - '(Lásd még: {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi}, {renvi})'
+    glosses:
+    - marad
+  ja:
+    place structure: x1 は x2 （場／性質／状態）に留まる
+    notes:
+    - ・大意： 留まる ・読み方： スタルィ  ・関連語： {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi},
+      {renvi}
+    - ''
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 ở lại với x2
+    notes:
+    - No notes.
+    glosses:
+    - ở lại
+    - x1=người ở lại
+    - x2=địa điểm
+  zh:
+    place structure: x1保留/忍受/容忍/停留在x2
+    notes:
+    - 参见 {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi}, {renvi}.
+    glosses:
+    - No glosses.

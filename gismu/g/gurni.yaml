@@ -1,6 +1,68 @@
-Word: gurni
-Rafsi: gru
-Definition: 'x1 is grain/[British: corn]/cereal from plant/species x2.'
-Notes: See also {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde},
-  {spati}, {zumri}, {nanba}, {sorgu}.
-Examples: None
+word: gurni
+rafsi:
+- gru
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is grain/[British: corn]/cereal from plant/species x2.'
+    notes:
+    - See also {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde},
+      {spati}, {zumri}, {nanba}, {sorgu}.
+    glosses:
+    - grain
+  de:
+    place structure: x1 ist Getreide/Korn von Pflanze/Art x2
+    notes:
+    - No notes.
+    glosses:
+    - Getreide
+  es:
+    place structure: x1 es un grano/cereal de planta/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - grano
+  ru:
+    place structure: x1 — зерно/крупа из семян растения/вида x2
+    notes:
+    - '{bavmi} (ячмень), {cunmi} (просо), {mavji} (овес), {maxri} (пшеница), {molki}
+      (мельница), {mraji} (рожь), {rismi} (рис), {sobde} (соя), {spati} (растение),
+      {zumri} (кукуруза), {nanba} (хлеб), {sorgu} (сорго)'
+    glosses:
+    - x1=зерно
+  en-simple:
+    place structure: x1 is grain from plant x2
+    notes:
+    - No notes.
+    glosses:
+    - a grain
+    - x2=a species of grain
+  eo:
+    place structure: x1 estas greno/cerealo el planto/speco x2
+    notes:
+    - Vidu ankaŭ {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde},
+      {spati}, {zumri}, {nanba}, {sorgu}.
+    glosses:
+    - greno
+  hu:
+    place structure: x1 egy gabonamag/gabonaszem x2 növényen/növényfajon
+    notes:
+    - '(Lásd még: {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde},
+      {spati}, {zumri}, {nanba}, {sorgu})'
+    glosses:
+    - gabonamag
+  ja:
+    place structure: x1 は x2 （種類）の穀粒／穀物
+    notes:
+    - ・大意： 穀物 ・読み方： グルニ  ・関連語： {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji},
+      {rismi}, {sobde}, {spati}, {zumri}, {nanba}, {sorgu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是谷物，属于品种/种类x2
+    notes:
+    - 参见 {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde}, {spati},
+      {zumri}, {nanba}, {sorgu}.
+    glosses:
+    - No glosses.

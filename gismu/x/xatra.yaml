@@ -1,8 +1,81 @@
-Word: xatra
-Rafsi: xa'a
-Definition: x1 is a letter/missive/[note] to intended audience x2 from author/originator
-  x3 with content x4.
-Notes: (cf. {notci}, which has places in a different order; the emphasis in xatra
-  is on the communication between author and recipient, and not the content, which
-  in a letter may not easily be categorized to a 'subject'; {ciska}, {mrilu}, {papri})
-Examples: None
+word: xatra
+rafsi:
+- xa'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a letter/missive/[note] to intended audience x2 from author/originator
+      x3 with content x4.
+    notes:
+    - (cf. {notci}, which has places in a different order; the emphasis in xatra is
+      on the communication between author and recipient, and not the content, which
+      in a letter may not easily be categorized to a 'subject'; {ciska}, {mrilu},
+      {papri})
+    glosses:
+    - letter
+  de:
+    place structure: x1 ist ein Brief/(Send-)Schreiben/[Mitteilung] an beabsichtigtes
+      Publikum x2 von Autor/Absender x3 mit Inhalt x4
+    notes:
+    - No notes.
+    glosses:
+    - Brief
+  es:
+    place structure: x1 es una carta con destinatario x2 de autor/originador/remitente
+      x3 con contenido x4
+    notes:
+    - No notes.
+    glosses:
+    - carta
+  ru:
+    place structure: x1 — письмо/послание к аудитории x2 от автора/источника x3, с
+      содержанием x4
+    notes:
+    - '{notci} (статья) с другим порядком мест; акцент в [xatra] делается на факте
+      коммуникации между отправителем и адресатом, а не на содержании, которое в письме
+      часто трудно свести к четко обозначенной/единственной теме; {ciska} (писать),
+      {mrilu} (посылать), {papri} (страница)'
+    glosses:
+    - письмо
+    - x3=автор письма
+    - x4=содержание письма
+  en-simple:
+    place structure: x1 is a letter to x2 from x3 with content x4
+    notes:
+    - No notes.
+    glosses:
+    - a letter
+    - x2=an audience for a letter
+    - x3=an author of a letter
+    - x4=a content of a letter
+  eo:
+    place structure: x1 estas letero/[mesaĝo] por celita(j) ricevanto(j) x2 de aŭtoro
+      x3 kun enhavo x4
+    notes:
+    - (kp. notci, kiu has places in a different order; la emphasis in xatra estas
+      on la communication inter author kaj recipient, kaj not la content, kiu in a
+      letter may not easily be categorizedtoa 'subject';ciska,mrilu,papri)
+    glosses:
+    - letero
+  hu:
+    place structure: x1 egy levél x2 címzett számára, x3 feladóval, x4 tartalommal
+    notes:
+    - 'A x2 és x3 közötti kommunikációt hangsúlyozza ki (Lásd még: {notci}, {ciska},
+      {mrilu}, {papri})'
+    glosses:
+    - levél (küldemény)
+  ja:
+    place structure: x1 は x2 （者）への x3 （者）からの x4 （内容）の手紙／Eメール
+    notes:
+    - ・大意： 手紙 ・読み方： クァトラ  ・語呂合わせ： xan（函）, letter ・関連語： {notci}, {ciska}, {mrilu},
+      {papri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是目标接收者为x2的信函/信件，来自作者/发出者x3，具有内容x4
+    notes:
+    - 注意{notci}与{xatra}位顺序不同；{xatra}强调的是作者与接受者之间的交流，而非内容；信件的内容可以很容易地被归类为某一主题；参见 {ciska},
+      {mrilu}, {papri}
+    glosses:
+    - No glosses.

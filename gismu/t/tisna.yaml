@@ -1,9 +1,77 @@
-Word: tisna
-Rafsi: tis
-Definition: x1 (object) fills/becomes stuffed [up]/inflates/blows up with material
-  x2; x2 pours into x1.
-Notes: Implies some relative degree of fullness will result; agentive filling (= {tisyse'a},
-  {tisygau}, {tisyzu'e}); inflate/become inflated/blow up (= {gacytisna}, agentive
-  {gacyse'a}); pour into (= {liktisna}, agentive {likse'a}).  See also {culno}, {kunti},
-  {rinci}, {setca}.
-Examples: None
+word: tisna
+rafsi:
+- tis
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object) fills/becomes stuffed [up]/inflates/blows up with
+      material x2; x2 pours into x1.
+    notes:
+    - Implies some relative degree of fullness will result; agentive filling (= {tisyse'a},
+      {tisygau}, {tisyzu'e}); inflate/become inflated/blow up (= {gacytisna}, agentive
+      {gacyse'a}); pour into (= {liktisna}, agentive {likse'a}).  See also {culno},
+      {kunti}, {rinci}, {setca}.
+    glosses:
+    - fill
+  de:
+    place structure: x1 (Objekt) füllt sich/wird gefüllt/gestopft/bläht sich auf mit
+      Material x2; x2 fließt/strömt in x1
+    notes:
+    - No notes.
+    glosses:
+    - füllen
+  es:
+    place structure: x1 se llena de x2
+    notes:
+    - Ver también {setca}, {clugau}.
+    glosses:
+    - llenar
+    - llenarse
+  ru:
+    place structure: x1 (объект) наполняется материалом x2
+    notes:
+    - 'Подразумевается достижение определенной степени наполненности, ср. {setca};
+      наполнять/набивать: {tisyse''a}, {tisygau}, {tisyzu''e}; надуваться: {gacytisna},
+      надувать {gacyse''a}; наливаться: {liktisna}, наливать: {likse''a} {culno} (полный
+      [чего-либо]), {kunti} (пустой), {rinci} (вытекать), {setca} (вставлять)'
+    glosses:
+    - заполняться
+    - x1=наполняющийся
+    - x2=то, чем наполняют
+  en-simple:
+    place structure: x1 fills with material x2
+    notes:
+    - No notes.
+    glosses:
+    - something becoming full
+    - x2=a material of a filler
+  eo:
+    place structure: x1 (objekto) pleniĝas/remburiĝas/pufiĝas/ŝveliĝas per materialo
+      x2; x2 verŝiĝas en x1-on
+    notes:
+    - Implicas ke ioma grado de pleniĝo rezultos; agenta plenigo (= {tisyse'a}, {tisygau},
+      {tisyzu'e}); pufiĝi/ŝveliĝi/bloviĝi (= {gacytisna}, agenta {gacyse'a}); enverŝi
+      (= {liktisna}, agenta {likse'a}).  (kp.culno, kunti, rinci, setca)
+    glosses:
+    - pleniĝi
+  hu:
+    place structure: x1 tárgy megtelik x2 anyaggal
+    notes:
+    - '(Lásd még: {culno}, {kunti}, {rinci}, {setca})'
+    glosses:
+    - megtelik
+  ja:
+    place structure: x1 は x2 （内容）によって膨れる；  x2 は x1 に注がれる
+    notes:
+    - 「culno」と違い、膨らむ／充満する過程を焦点とする。 ・大意： 膨れる ・読み方： ティスナ  ・関連語： {culno}, {kunti}, {rinci},
+      {setca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体）被材料x2充满/充塞/填充；x2被注入x1中
+    notes:
+    - 暗示结果是：产生一定的填充/充满；（施事的）填充 = {tisyse'a}/{tisygau}/{tisyzu'e}；充气={gacytisna}，（施事的）充气={gacyse'a}；充液/灌注液体=
+      {liktisna}，（施事的）灌注液体={likse'a}；参见 {culno}, {kunti}, {rinci}, {setca}.
+    glosses:
+    - No glosses.

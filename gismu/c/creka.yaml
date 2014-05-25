@@ -1,6 +1,72 @@
-Word: creka
-Rafsi: cek
-Definition: x1 is a shirt/blouse/top [upper-body garment - not necessarily sleeved
-  or buttoned], material x2.
-Notes: See also {taxfu}.
-Examples: None
+word: creka
+rafsi:
+- cek
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shirt/blouse/top [upper-body garment - not necessarily
+      sleeved or buttoned], material x2.
+    notes:
+    - See also {taxfu}.
+    glosses:
+    - shirt
+  de:
+    place structure: x1 ist ein Hemd/Top/eine Bluse [Oberkörperbekleidung - nicht
+      unbedingt mit Ärmeln oder Knöpfen] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Hemd
+  es:
+    place structure: x1 es una camisa/blusa (prenda de vestir) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - camisa
+  ru:
+    place structure: x1 — рубашка/блуза (одежда для верхней части тела — не обязательно
+      с рукавами или пуговицами) из материала x2
+    notes:
+    - '{taxfu} (одежда)'
+    glosses:
+    - рубашка
+  en-simple:
+    place structure: x1 is a shirt of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a shirt
+    - x2=a material of a shirt
+  eo:
+    place structure: x1 estas ĉemizo/bluzo [korposupra vesto, ne nepre kun manikoj
+      aŭ butonoj] el materialo x2
+    notes:
+    - Vidu ankaŭ {taxfu}.
+    glosses:
+    - ĉemizo
+  hu:
+    place structure: x1 egy ing/blúz/póló/egyéb felsőruházat, x2 anyagból
+    notes:
+    - '(Lásd még: {taxfu})'
+    glosses:
+    - ing
+  ja:
+    place structure: x1は材質x2でできたシャツ/ブラウス/上着である [袖やボタンの有無は関係ない]
+    notes:
+    - '参照: {taxfu}.'
+    glosses:
+    - シャツ
+  sv:
+    place structure: x1 är en skjorta/t-shirt/blus/linne/topp [klädesplagg för överkroppen;
+      inte nödvändigtvis med ärmar eller knappar] av material x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=skjorta
+    - x2=skjortmaterial
+  zh:
+    place structure: x1是衬衫/衬衣，材料是x2
+    notes:
+    - 参见 {taxfu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,73 @@
-Word: cinki
-Rafsi: ''
-Definition: x1 is an insect/arthropod of species x2; [bug/beetle].
-Notes: See also {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}.
-Examples: None
+word: cinki
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an insect/arthropod of species x2; [bug/beetle].
+    notes:
+    - See also {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}.
+    glosses:
+    - insect
+  de:
+    place structure: x1 ist ein Insekt von Art/Gattung x2; [Käfer]
+    notes:
+    - No notes.
+    glosses:
+    - Insekt
+  es:
+    place structure: x1 es un insecto/artrópodo de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - insecto
+  ru:
+    place structure: x1 — насекомое/членистоногое вида x2
+    notes:
+    - '{civla} (вошь), {danlu} (животное), {jalra} (таракан), {jukni} (паук), {manti}
+      (муравей), {sfani} (муха), {toldi} (бабочка), {bifce} (пчела)'
+    glosses:
+    - членистоногое
+  en-simple:
+    place structure: x1 is an insect of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an insect
+    - x2=a species of insect
+  eo:
+    place structure: x1 estas insekto/artropodo de speco x2; [cimo/skarabo]
+    notes:
+    - Vidu ankaŭ {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}.
+    glosses:
+    - insekto
+  hu:
+    place structure: x1 egy ízeltlábú/rovar [Arthropoda törzs/Insecta osztály] az
+      x2 fajból
+    notes:
+    - '(Lásd még: {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce})'
+    glosses:
+    - rovar
+  ja:
+    place structure: x1 は x2 （種類）の昆虫綱（甲虫／チョウ／ハエ／ハチ／カメムシ／バッタ／トンボ…目）
+    notes:
+    - ・大意： 昆虫 ・読み方： シンキ  ・語呂合わせ： 新奇な昆虫 ・関連語： {civla}, {danlu}, {jalra}, {jukni}, {manti},
+      {sfani}, {toldi}, {bifce}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en insekt/kryp/leddjur av art x2.
+    notes:
+    - No notes.
+    glosses:
+    - kryp (insekt)
+    - leddjur
+    - x1=insekt
+    - x2=insektsart
+  zh:
+    place structure: x1是昆虫/节肢动物，属于品种/种类x2
+    notes:
+    - 参见 {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}.
+    glosses:
+    - No glosses.

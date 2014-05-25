@@ -1,6 +1,67 @@
-Word: junta
-Rafsi: ''
-Definition: x1 is the weight of object x2 in [gravitational or other force] field
-  x3.
-Notes: See also {grake}, {linto}, {tilju}, {bunda}.
-Examples: None
+word: junta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the weight of object x2 in [gravitational or other force]
+      field x3.
+    notes:
+    - See also {grake}, {linto}, {tilju}, {bunda}.
+    glosses:
+    - weight (any units)
+  de:
+    place structure: x1 ist das Gewicht von Objekt x2 in Feld x3 [Gravitation oder
+      andere Kraft]
+    notes:
+    - No notes.
+    glosses:
+    - Gewicht
+  es:
+    place structure: x1 es el peso de objeto x2 en campo gravitacional x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — вес объекта x2 в (гравитационном или другом силовом) поле
+      x3; x2 весит x1
+    notes:
+    - '{grake} (грамм), {linto} (легкий [масса/вес]), {tilju} (тяжелый [массивный]),
+      {bunda} (весить [в неметрических единицах])'
+    glosses:
+    - x1=вес
+    - x3=гравитационное или другое силовое поле
+  en-simple:
+    place structure: x1 is the weight of x2 in field x3
+    notes:
+    - No notes.
+    glosses:
+    - a weight
+    - x2=something with weight
+    - x3=a weight-producing field
+  eo:
+    place structure: x1 estas la pezo de objekto x2 en [gravita aŭ alia] kampo x3
+    notes:
+    - Vidu ankaŭ {grake}, {linto}, {tilju}, {bunda}.
+    glosses:
+    - pezo
+  hu:
+    place structure: x1 a súlya x2 tárgynak x3 erőtérben
+    notes:
+    - '(Lásd még: {grake}, {linto}, {tilju}, {bunda})'
+    glosses:
+    - súly
+  ja:
+    place structure: x1 は x2 （物体）の、 x3 （環境）における重量／重さ
+    notes:
+    - x3は海中／地球／月など。 ・大意： 重量 ・読み方： ジュンタ  ・関連語： {grake}, {linto}, {tilju}, {bunda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是物体x2的重量，在场x3中（重力场或其它场）
+    notes:
+    - 参见 {grake}, {linto}, {tilju}, {bunda}.
+    glosses:
+    - No glosses.

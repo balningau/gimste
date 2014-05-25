@@ -1,7 +1,70 @@
-Word: sraku
-Rafsi: rak
-Definition: x1 [abrasive/cutting/scratching object/implement] scratches/[carves]/erodes/cuts
-  [into] x2.
-Notes: (cf. {guska}, {katna}, {mosra}, {plixa}, {kakpa} (unlike kakpa, sraku does
-  not imply material is removed), {spali})
-Examples: None
+word: sraku
+rafsi:
+- rak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [abrasive/cutting/scratching object/implement] scratches/[carves]/erodes/cuts
+      [into] x2.
+    notes:
+    - (cf. {guska}, {katna}, {mosra}, {plixa}, {kakpa} (unlike kakpa, sraku does not
+      imply material is removed), {spali})
+    glosses:
+    - scratch
+  de:
+    place structure: x1 [abreibendes/schneidendes/kratzendes Objekt/Werkzeug] kratzt/[ritzt]/zerfrisst/schneidet
+      [in] x2
+    notes:
+    - No notes.
+    glosses:
+    - kratzen
+  es:
+    place structure: x1 (abrasivo) rasca/erosiona x2
+    notes:
+    - Ver también {katna},  {mosra},  {plixa}.
+    glosses:
+    - rascar
+  ru:
+    place structure: x1 (инструмент/орудие) царапает/надрезает/режет/врезается в x2
+    notes:
+    - '{guska} (соскабливать), {katna} (разрезать), {mosra} (трение), {plixa} (пахать),
+      {kakpa} (выкапывать) (в отличие от {kakpa} (выкапывать), {sraku} (царапать)
+      не предполагает выемку материала), {spali} (полировать)'
+    glosses:
+    - царапать
+    - x1=царапающий
+    - x2=то, что царапают
+  en-simple:
+    place structure: x1 scratches x2
+    notes:
+    - No notes.
+    glosses:
+    - a scratcher
+    - x2=something scratched
+  eo:
+    place structure: x1 [grata/raspa/skrapa/tranĉa objekto/ilo] gratas/erozias/tranĉas
+      x2-on
+    notes:
+    - (kp. guska, katna, mosra, plixa, kakpa (malkiel kakpa, sraku ne implicas forigitan
+      materialon), spali)
+    glosses:
+    - grati
+  hu:
+    place structure: x1 [tárgy] megkarcolja/megvágja x2-t
+    notes:
+    - '(Lásd még: {guska}, {katna}, {mosra}, {plixa}, {kakpa}, {spali})'
+    glosses:
+    - karcol
+  ja:
+    place structure: x1 （物）は x2 を掻く
+    notes:
+    - ・大意： 掻く（かく） ・読み方： スラク  ・関連語： {guska}, {katna}, {mosra}, {plixa}, {kakpa} (unlike
+      kakpa}, {sraku does not imply material is removed}, {spali}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（用于刮擦/侵蚀/腐蚀/切割的物体/工具）刮擦/侵蚀/腐蚀/切割x2；
+    notes:
+    - 参见 {guska}, {katna}, {mosra}, {plixa}, {kakpa}, {spali}
+    glosses:
+    - No glosses.

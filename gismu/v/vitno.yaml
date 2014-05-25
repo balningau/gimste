@@ -1,6 +1,76 @@
-Word: vitno
-Rafsi: vi'o
-Definition: x1 is permanent/lasting/[eternal] in property x2 (ka) by standard x3 [time-span/expectant
-  one].
-Notes: Also everlasting.  See also {stodi}, {cimni}, {zasni}, {manfo}, {stali}.
-Examples: None
+word: vitno
+rafsi:
+- vi'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is permanent/lasting/[eternal] in property x2 (ka) by standard
+      x3 [time-span/expectant one].
+    notes:
+    - Also everlasting.  See also {stodi}, {cimni}, {zasni}, {manfo}, {stali}.
+    glosses:
+    - permanent
+  jbo:
+    place structure: x1 na'e cenba x2 ma'i x3 i x3 manri lo nu x1 ze'e na'e cenba
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist permanent/dauerhaft/beständig/bleibend/[ewig] in Eigenschaft
+      x2 (ka) gemäß Standard x3 [erwarteter Zeitraum]
+    notes:
+    - No notes.
+    glosses:
+    - dauerhaft
+  es:
+    place structure: x1 es permanente/duradero/eterno en propiedad x2 según estándar
+      x3
+    notes:
+    - Ver también {zasni},  {stodi},  {cimni}.
+    glosses:
+    - permanente
+  ru:
+    place structure: x1 — длительный/долговременный/долговечный/перманентный/{вечный}
+      в отношении свойства x2 ({ka}) относительно стандарта x3
+    notes:
+    - 'Также: выносливый, прочный {stodi} (постоянный), {cimni} (бесконечный), {zasni}
+      (временный), {manfo} (однородный), {stali} (оставаться)'
+    glosses:
+    - x1=длительный
+  en-simple:
+    place structure: x1 is permanent in property x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something permanent
+    - x2=a property of permanence
+    - x2=the property of permanence
+    - x3=a standard of permanence
+  eo:
+    place structure: x1 estas porĉiama/konstanta/daŭra/[eterna] en eco x2 (ka) laŭ
+      normo x3 [tempodaŭro/atendanto]
+    notes:
+    - Vidu ankaŭ {stodi}, {cimni}, {zasni}, {manfo}, {stali}.
+    glosses:
+    - porĉiama
+  hu:
+    place structure: x1 végleges/maradandó x2 tulajdonságban, x3 mérce szerint
+    notes:
+    - '(Lásd még: {stodi}, {cimni}, {zasni}, {manfo}, {stali})'
+    glosses:
+    - végleges
+  ja:
+    place structure: x1 は x2 （性質）において x3 の観点で永続的／恒久／不滅
+    notes:
+    - ・大意： 永続 ・読み方： ヴィトノ  ・関連語： {stodi}, {cimni}, {zasni}, {manfo}, {stali}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是永恒的/长存的，在性质x2（ka）方面，基于标准x3
+    notes:
+    - 也指：永久的/不灭的；参见 {stodi}, {cimni}, {zasni}, {manfo}, {stali}.
+    glosses:
+    - No glosses.

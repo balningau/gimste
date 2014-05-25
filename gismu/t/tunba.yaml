@@ -1,5 +1,73 @@
-Word: tunba
-Rafsi: tub
-Definition: x1 is a sibling of x2 by bond/tie/standard/parent(s) x3.
-Notes: See also {bruna}, {mensi}, {tamne}.
-Examples: None
+word: tunba
+rafsi:
+- tub
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sibling of x2 by bond/tie/standard/parent(s) x3.
+    notes:
+    - See also {bruna}, {mensi}, {tamne}.
+    glosses:
+    - sibling
+  jbo:
+    place structure: x1 dunli x2 boi x3 noi ka makau rirni ce'u kei gi'a ka ce'u panzi
+      makau kei gi'a simsa
+    notes:
+    - No notes.
+    glosses:
+    - tunba
+  de:
+    place structure: x1 ist ein Geschwister von x2 über Bindung/Eltern x3/gemäß Standard
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Geschwister
+  es:
+    place structure: x1 es hermano/hermana de x2 por lazo/relación/padres x3
+    notes:
+    - Ver también {bruna},  {mensi},  {tamne}.
+    glosses:
+    - hermano
+  ru:
+    place structure: x1 — брат или сестра x2 (чей) по виду родства/критерию/родител(ю/ям)
+      x3
+    notes:
+    - Аналога этого слова нет в русском языке (английское слово — sibling) {bruna}
+      (брат), {mensi} (сестра), {tamne} (двоюродный)
+    glosses:
+    - x1=сибс (брат или сестра)
+  en-simple:
+    place structure: x1 is a sibling of x2 by bond x3
+    notes:
+    - No notes.
+    glosses:
+    - a sibling
+    - x2=something with a sibling
+    - x3=a parent of a sibling
+  eo:
+    place structure: x1 estas gefrato de x2 laŭ ligilo/normo/gepatro(j) x3
+    notes:
+    - Vidu ankaŭ {bruna}, {mensi}, {tamne}.
+    glosses:
+    - gefrato
+  hu:
+    place structure: x1 egy testvére x2-nek x3 szülő(k)/kötelék/hagyomány által
+    notes:
+    - '(Lásd még: {bruna}, {mensi}, {tamne})'
+    glosses:
+    - testvér
+  ja:
+    place structure: x1 は x2 の、 x3 （養育関係／血縁関係／類似関係）によって結ばれている兄弟姉妹／親戚／親族
+    notes:
+    - x3は、養育者 (rirni) が同じ、あるいは生物学的親 (se panzi) が同じなどの関係。生物学的な兄弟姉妹とは限らない。 ・大意： 兄弟姉妹
+      ・読み方： トゥンバ  ・関連語： {bruna}, {mensi}, {tamne}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的兄弟姐妹，依据标准/关系x3
+    notes:
+    - 参见 {bruna}, {mensi}, {tamne}.
+    glosses:
+    - No glosses.

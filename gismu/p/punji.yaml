@@ -1,5 +1,72 @@
-Word: punji
-Rafsi: puj, pu'i
-Definition: x1 (agent) puts/places/sets x2 on/at surface/locus x3.
-Notes: See also {cpacu}, {lebna}, {cpana}, {batke}, {setca}.
-Examples: None
+word: punji
+rafsi:
+- puj
+- pu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) puts/places/sets x2 on/at surface/locus x3.
+    notes:
+    - See also {cpacu}, {lebna}, {cpana}, {batke}, {setca}.
+    glosses:
+    - put
+  jbo:
+    place structure: x1 gasnu lo nu x2 zvati ja cpana x3
+    notes:
+    - No notes.
+    glosses:
+    - punji
+  de:
+    place structure: x1 (Handelnder) setzt/stellt/legt x2 an Ort/auf Oberfläche x3
+    notes:
+    - No notes.
+    glosses:
+    - platzieren
+  es:
+    place structure: x1 pone/posa/coloca/ubica x2 en/sobre x3
+    notes:
+    - Ver también {cpacu},  {setca}.
+    glosses:
+    - poner
+  ru:
+    place structure: x1 кладет/ставит/помещает x2 на/в поверхность/место x3
+    notes:
+    - '{cpacu} (добывать), {lebna} (забирать), {cpana} (на), {batke} (кнопка), {setca}
+      (вставлять)'
+    glosses:
+    - класть
+    - x1=кладущий
+    - x2=помещаемое
+  en-simple:
+    place structure: x1 places or puts x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - a placer
+    - x2=something placed
+    - x3=a location of placement
+  eo:
+    place structure: x1 (aganto) metas/lokigas x2-on ĉe/en/sur surfaco/loko x3
+    notes:
+    - Vidu ankaŭ {cpacu}, {lebna}, {cpana}, {batke}, {setca}.
+    glosses:
+    - meti
+  hu:
+    place structure: x1 ráteszi/rárakja/ráhelyezi x2-t x3 felületre/helyre
+    notes:
+    - '(Lásd még: {cpacu}, {lebna}, {cpana}, {batke}, {setca})'
+    glosses:
+    - tesz (helyez)
+  ja:
+    place structure: x1 は x2 を x3 （所）に置く／設置する
+    notes:
+    - ・大意： 置く ・読み方： プンジ  ・関連語： {cpacu}, {lebna}, {cpana}, {batke}, {setca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将x2放置/安置在平面/位置x3上/处
+    notes:
+    - 参见 {cpacu}, {lebna}, {cpana}, {batke}, {setca}.
+    glosses:
+    - No glosses.

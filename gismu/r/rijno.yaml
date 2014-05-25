@@ -1,6 +1,64 @@
-Word: rijno
-Rafsi: rij
-Definition: 'x1 is made of/contains/is a quantity of silver/argentum (Ag); [metaphor:
-  valuable, tarnishing].'
-Notes: See also {solji}.
-Examples: None
+word: rijno
+rafsi:
+- rij
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is made of/contains/is a quantity of silver/argentum (Ag);
+      [metaphor: valuable, tarnishing].'
+    notes:
+    - See also {solji}.
+    glosses:
+    - silver
+    - silvery (made of silver (Ag))
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Silber (Ag); [im übertragenen
+      Sinn: wertvoll, anlaufend]'
+    notes:
+    - No notes.
+    glosses:
+    - Silber
+  es:
+    place structure: x1 es una cantidad de plata (Ag)
+    notes:
+    - No notes.
+    glosses:
+    - plata
+  ru:
+    place structure: x1 — серебро (Ag); x1 содержит серебро
+    notes:
+    - 'Метафора: ценный, тускнеющий {solji} (золото)'
+    glosses:
+    - серебро
+  en-simple:
+    place structure: x1 is a quantity of silver
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of silver
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el arĝento (Ag); [metafore:
+      valora, malbriliga]'
+    notes:
+    - Vidu ankaŭ {solji}.
+    glosses:
+    - arĝento
+  hu:
+    place structure: x1 bizonyos mennyiségű ezüst (-öt tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {solji})'
+    glosses:
+    - ezüst
+  ja:
+    place structure: x1 は銀（Ag）
+    notes:
+    - ・大意： 銀 ・読み方： リジノ  ・語呂合わせ： 銀は理事の ・関連語： {solji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是银/由银构成[Ag]
+    notes:
+    - 参见 {solji}.
+    glosses:
+    - No glosses.

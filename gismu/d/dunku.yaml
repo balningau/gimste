@@ -1,5 +1,77 @@
-Word: dunku
-Rafsi: duk, du'u
-Definition: x1 is anguished/distressed/emotionally wrought/stressed by x2.
-Notes: See also {fengu}, {surla}.
-Examples: None
+word: dunku
+rafsi:
+- duk
+- du'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is anguished/distressed/emotionally wrought/stressed by x2.
+    notes:
+    - See also {fengu}, {surla}.
+    glosses:
+    - anguish
+  de:
+    place structure: x1 empfindet Pein/seelische Qual/Verzweiflung/Stress durch/über
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Pein
+  es:
+    place structure: x1 se angustia/aflige por x2
+    notes:
+    - No notes.
+    glosses:
+    - angustiarse
+  ru:
+    place structure: x1 страдает/мучается/горюет/исытывает стресс из-за x2; x1 (кому)
+      тяжело из-за x2
+    notes:
+    - '{fengu} (сердитый), {surla} (отдыхать)'
+    glosses:
+    - страдать
+    - x1=страдающий
+    - x2=источник стресса
+  en-simple:
+    place structure: x1 is distressed or anguished by x2
+    notes:
+    - No notes.
+    glosses:
+    - something distressed
+    - x2=a distressing
+  eo:
+    place structure: x1 angoras/sentas ĉagrenon/emocian premon pro x2
+    notes:
+    - Vidu ankaŭ {fengu}, {surla}.
+    glosses:
+    - angori
+  hu:
+    place structure: x1 szorong/stresszes x2 miatt
+    notes:
+    - '(Lásd még: {fengu}, {surla})'
+    glosses:
+    - szorong
+  ja:
+    place structure: x1 は x2 （事）について苦悩／苦悶する
+    notes:
+    - 強い感情的苦痛。 ・大意： 苦悩 ・読み方： ドゥンク  ・語呂合わせ： 苦 ・関連語： {fengu}, {surla}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 våndas/har ångest/lider kval/är plågad/oroad/ängslig/emotionellt
+      anspänd/stressad över x2.
+    notes:
+    - No notes.
+    glosses:
+    - ha ångest
+    - lida kval (emotionellt anspänd/stressad)
+    - oroad (emotionellt anspänd/stressad)
+    - plågad (emotionellt anspänd/stressad)
+    - våndas (emotionellt anspänd/stressad)
+  zh:
+    place structure: x1是紧张的/忧虑的/苦闷的/有压力的/痛苦的，由x2引起
+    notes:
+    - 参见 {fengu}, {surla}.
+    glosses:
+    - No glosses.

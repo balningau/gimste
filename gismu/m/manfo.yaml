@@ -1,5 +1,73 @@
-Word: manfo
-Rafsi: ''
-Definition: x1 (object/event) is uniform/homogeneous in property x2 (ka).
-Notes: See also {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.
-Examples: None
+word: manfo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/event) is uniform/homogeneous in property x2 (ka).
+    notes:
+    - See also {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.
+    glosses:
+    - uniform
+  jbo:
+    place structure: x1 ckaji x2 ije ro pagbu be x1 cu dunli x1 boi x2 i x1 to'e vrici
+      x2
+    notes:
+    - '{dunli}, {vrici}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Objekt/Ereignis) ist einheitlich/gleichförmig/gleichartig/homogen
+      in Eigenschaft x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - einheitlich
+  es:
+    place structure: x1 es uniforme/homogéneo en propiedad x2
+    notes:
+    - Ver también {vrici},  {curve},  {ranji},  {vitno},  {stodi}.
+    glosses:
+    - uniforme
+  ru:
+    place structure: x1 — однородный/равномерный/гомогенный в отношении свойства x2
+      ({ka})
+    notes:
+    - '{prane} (совершенный), {curve} (чистый [100%]), {ranji} (продолжаться), {vitno}
+      (длительный), {stodi} (постоянный), {dikni} (регулярный [циклический]), {sampu}
+      (простой [несложный]), {traji} (самый)'
+    glosses:
+    - x1=однородный
+  en-simple:
+    place structure: x1 is uniform in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something uniform
+    - x2=an uniform property
+  eo:
+    place structure: x1 (objekto/okazo) estas unuforma/homogena en eco x2 (ka)
+    notes:
+    - Vidu ankaŭ {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.
+    glosses:
+    - unuforma
+  hu:
+    place structure: x1 tárgy/esemény egységes/homogén x2 tulajdonságban
+    notes:
+    - '(Lásd még: {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji})'
+    glosses:
+    - egységes
+  ja:
+    place structure: x1 （物／事）は x2 （性質）の点で均一／一様／同形／相同；  x1 にはむらが無い
+    notes:
+    - ・大意： 均一 ・読み方： マンフォ  ・語呂合わせ： 均一マンホール ・関連語： {prane}, {curve}, {ranji}, {vitno},
+      {stodi}, {dikni}, {sampu}, {traji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物/事）是均衡的/均匀的，在性质x2（ka）上
+    notes:
+    - 参见 {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.
+    glosses:
+    - No glosses.

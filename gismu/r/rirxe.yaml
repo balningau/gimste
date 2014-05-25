@@ -1,7 +1,74 @@
-Word: rirxe
-Rafsi: ri'e
-Definition: x1 is a river of land mass x2, draining watershed x3 into x4/terminating
-  at x4.
-Notes: (cf. {flecu}, {senta} for most metaphorical aspects; {daplu}, {djacu}, {lalxu},
-  {xamsi}, {rinci}, {naxle})
-Examples: None
+word: rirxe
+rafsi:
+- ri'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a river of land mass x2, draining watershed x3 into x4/terminating
+      at x4.
+    notes:
+    - (cf. {flecu}, {senta} for most metaphorical aspects; {daplu}, {djacu}, {lalxu},
+      {xamsi}, {rinci}, {naxle})
+    glosses:
+    - river
+  de:
+    place structure: x1 ist ein Fluss von Landstück x2 aus Einzugsgebiet x3 und mündet
+      in/endet an x4
+    notes:
+    - No notes.
+    glosses:
+    - Fluss
+  es:
+    place structure: x1 es un río de continente x2, cuenca x3 que desemboca en x4
+    notes:
+    - Ver también {flecu},  {senta}.
+    glosses:
+    - río
+  ru:
+    place structure: x1 — река на участке суши x2, питаемая бассейном x3, впадающая
+      в x4
+    notes:
+    - '{flecu} (поток), {senta} (слой) для большинства метафор; {daplu} (остров),
+      {djacu} (вода), {lalxu} (озеро), {xamsi} (море), {rinci} (вытекать), {naxle}
+      (канал)'
+    glosses:
+    - x1=река
+    - x3=бассейн реки
+    - x4=куда впадает река
+  en-simple:
+    place structure: x1 is a river of land mass x2 draining watershed x3 into x4
+    notes:
+    - No notes.
+    glosses:
+    - a river
+    - x2=something with a river
+    - x3=a watershed of a river
+    - x4=a destination of a river
+  eo:
+    place structure: x1 estas rivero en lando x2, drenanta akvofonton x3 enverŝiĝanta
+      en x4-on
+    notes:
+    - (kp. flecu, senta por plejmultaj metaforaj aspektoj; daplu, djacu, lalxu, xamsi,
+      rinci, naxle)
+    glosses:
+    - rivero
+  hu:
+    place structure: x1 egy folyó x2 szárazföldön, x3 vízgyűjtő területtel, x4 lefolyással
+    notes:
+    - '(Lásd még: {flecu}, {senta}, {daplu}, {djacu}, {lalxu}, {xamsi}, {rinci}, {naxle})'
+    glosses:
+    - folyó
+  ja:
+    place structure: x1 は x2 （土地）の x3 （流域）が x4 （河口）に流れる河川
+    notes:
+    - ・大意： 河川 ・読み方： リルクェ  ・語呂合わせ： 川借りるけ ・関連語： {flecu}, {senta}; {daplu}, {djacu},
+      {lalxu}, {xamsi}, {rinci}, {naxle}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是江/河，具有河岸x2，流域为x3，流向x4
+    notes:
+    - 参见 {flecu}, {senta}, {daplu}, {djacu}, {lalxu}, {xamsi}, {rinci}, {naxle}
+    glosses:
+    - No glosses.

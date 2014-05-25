@@ -1,6 +1,63 @@
-Word: jipci
-Rafsi: ''
-Definition: x1 is a chicken/[hen/cock/rooster]/small fowl [a type of bird] of species/breed
-  x2.
-Notes: See also {cipni}.
-Examples: None
+word: jipci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a chicken/[hen/cock/rooster]/small fowl [a type of bird]
+      of species/breed x2.
+    notes:
+    - See also {cipni}.
+    glosses:
+    - chicken
+  de:
+    place structure: x1 ist ein Huhn/Hahn/Hähnchen/eine Henne von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Huhn
+  es:
+    place structure: x1 es una gallina/gallo/pollo de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - gallina
+  ru:
+    place structure: x1 — курица/{петух/цыпленок}/мелкая птица вида/породы x2
+    notes:
+    - '{cipni} (птица)'
+    glosses:
+    - курица
+    - x2=вид курицы
+  en-simple:
+    place structure: x1 is a chicken of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a chicken
+    - x2=a species of chicken
+  eo:
+    place structure: x1 estas koko/malgranda kortbirdo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cipni}.
+    glosses:
+    - koko
+  hu:
+    place structure: x1 egy csirke [Gallus nem] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cipni})'
+    glosses:
+    - csirke
+  ja:
+    place structure: x1 は x2 （種類）のニワトリ
+    notes:
+    - ・大意： 鶏 ・読み方： ジプシ  ・語呂合わせ： ジプシーの鶏 ・関連語： {cipni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是鸡，属于品种/种类x2
+    notes:
+    - 参见 {cipni}.
+    glosses:
+    - No glosses.

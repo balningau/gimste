@@ -1,5 +1,62 @@
-Word: maksi
-Rafsi: mak
-Definition: x1 is magnetic [adjective] producing magnetic field x2.
-Notes: See also {dikca}, {trina}, {xlura}.
-Examples: None
+word: maksi
+rafsi:
+- mak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is magnetic [adjective] producing magnetic field x2.
+    notes:
+    - See also {dikca}, {trina}, {xlura}.
+    glosses:
+    - magnet
+  de:
+    place structure: x1 ist magnetisch [Adjektiv] und erzeugt Magnetfeld x2
+    notes:
+    - No notes.
+    glosses:
+    - Magnet
+  es:
+    place structure: x1 es un imán con campo magnético x2
+    notes:
+    - No notes.
+    glosses:
+    - imán (magnetita)
+  ru:
+    place structure: x1 — магнит, производящий магнитное поле x2
+    notes:
+    - '{dikca} (электричество), {trina} (привлекательный), {xlura} (влиять)'
+    glosses:
+    - x1=магнит
+    - x2=магнитное поле
+  en-simple:
+    place structure: x1 is magnetic producing field x2
+    notes:
+    - No notes.
+    glosses:
+    - something magnetic
+    - x2=a magnetic field
+  eo:
+    place structure: x1 estas magneta [adjektivo] kun magneta kampo x2
+    notes:
+    - Vidu ankaŭ {dikca}, {trina}, {xlura}.
+    glosses:
+    - magneta
+  hu:
+    place structure: x1 mágneses, x2 mágneses térrel
+    notes:
+    - '(Lásd még: {dikca}, {trina}, {xlura})'
+    glosses:
+    - mágnes
+  ja:
+    place structure: x1 は x2 （磁界）を形成する磁力／磁石
+    notes:
+    - ・大意： 磁力 ・読み方： マクスィ  ・語呂合わせ： magnet, si（磁） ・関連語： {dikca}, {trina}, {xlura}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是有磁性的，产生磁场x2
+    notes:
+    - 参见 {dikca}, {trina}, {xlura}.
+    glosses:
+    - No glosses.

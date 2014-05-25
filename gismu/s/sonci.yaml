@@ -1,5 +1,63 @@
-Word: sonci
-Rafsi: son, soi
-Definition: x1 is a soldier/warrior/fighter of army x2.
-Notes: See also {bilni}, {damba}, {jenmi}, {xarci}, {pulji}.
-Examples: None
+word: sonci
+rafsi:
+- son
+- soi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a soldier/warrior/fighter of army x2.
+    notes:
+    - See also {bilni}, {damba}, {jenmi}, {xarci}, {pulji}.
+    glosses:
+    - soldier
+  de:
+    place structure: x1 ist ein Soldat/Kämpfer/Krieger von Armee x2
+    notes:
+    - No notes.
+    glosses:
+    - Soldat
+  es:
+    place structure: x1 es un soldado/guerrero de ejercito x2
+    notes:
+    - No notes.
+    glosses:
+    - soldado
+  ru:
+    place structure: x1 — солдат/воин/боец армии/войска x2
+    notes:
+    - '{bilni} (военный), {damba} (драться), {jenmi} (армия), {xarci} (оружие), {pulji}
+      (полицейский)'
+    glosses:
+    - x1=солдат
+    - x2=армия
+  en-simple:
+    place structure: x1 is a soldier of army x2
+    notes:
+    - No notes.
+    glosses:
+    - a soldier
+    - x2=an army with a soldier
+  eo:
+    place structure: x1 estas soldato/militisto/batalanto de armeo x2
+    notes:
+    - Vidu ankaŭ {bilni}, {damba}, {jenmi}, {xarci}, {pulji}.
+    glosses:
+    - soldato
+  hu:
+    place structure: x1 egy katona/harcos x2 hadseregben
+    notes:
+    - '(Lásd még: {bilni}, {damba}, {jenmi}, {xarci}, {pulji})'
+    glosses:
+    - katona
+  ja:
+    place structure: x1は軍隊x2に属する軍人/兵士/戦士である
+    notes:
+    - '参照: {bilni}, {damba}, {jenmi}, {xarci}, {pulji}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是属于军队x2的士兵/战士/军人
+    notes:
+    - 参见 {bilni}, {damba}, {jenmi}, {xarci}, {pulji}.
+    glosses:
+    - No glosses.

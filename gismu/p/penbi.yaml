@@ -1,5 +1,69 @@
-Word: penbi
-Rafsi: peb
-Definition: x1 is a pen using ink x2 applied by process x3.
-Notes: See also {ciska}, {pinsi}, {xinmo}, {pimlu}.
-Examples: None
+word: penbi
+rafsi:
+- peb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pen using ink x2 applied by process x3.
+    notes:
+    - See also {ciska}, {pinsi}, {xinmo}, {pimlu}.
+    glosses:
+    - pen
+  de:
+    place structure: x1 ist ein Füller/Füllfederhalter, der Tinte x2 über/durch Prozess
+      x3 aufträgt
+    notes:
+    - No notes.
+    glosses:
+    - Füller
+  es:
+    place structure: x1 es una pluma/lapicera/bolígrafo/birome con tinta x2 aplicada
+      por proceso x3
+    notes:
+    - No notes.
+    glosses:
+    - lapicera
+  ru:
+    place structure: x1 — ручка/перо/фломастер, использующая чернила/краситель x2,
+      принцип действия x3
+    notes:
+    - '{ciska} (писать), {pinsi} (карандаш), {xinmo} (чернила), {pimlu} (перо)'
+    glosses:
+    - ручка (перо)
+    - x2=чернила ручки
+    - x3=принцип действия ручки(пера)
+  en-simple:
+    place structure: x1 is a pen using ink x2 applied by process x3
+    notes:
+    - No notes.
+    glosses:
+    - a pen
+    - x2=a pen ink
+    - x3=an ink application process of a pen
+  eo:
+    place structure: x1 estas plumo/skribilo kun inko x2 aplikita per procedo x3
+    notes:
+    - Vidu ankaŭ {ciska}, {pinsi}, {xinmo}, {pimlu}.
+    glosses:
+    - plumo [skribilo]
+  hu:
+    place structure: x1 egy toll x2 tintával, x3 működési elvvel
+    notes:
+    - '(Lásd még: {ciska}, {pinsi}, {xinmo}, {pimlu})'
+    glosses:
+    - toll (íróeszköz)
+  ja:
+    place structure: x1 は x2 （インク）の、手順 x3 に従って使われるペン・筆
+    notes:
+    - 使っていて元の形が変わらない筆記具全般 ・大意： ペン ・読み方： ペンビ  ・語呂合わせ： ペン美 ・関連語： {ciska}, {pinsi}, {xinmo},
+      {pimlu}
+    - ''
+    glosses:
+    - ペン
+    - 筆
+  zh:
+    place structure: x1是笔，使用墨水x2，使用过程x3应用
+    notes:
+    - 参见 {ciska}, {pinsi}, {xinmo}, {pimlu}.
+    glosses:
+    - No glosses.

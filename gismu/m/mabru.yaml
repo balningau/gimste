@@ -1,5 +1,64 @@
-Word: mabru
-Rafsi: mab
-Definition: x1 is a mammal/'animal'/beast of species x2.
-Notes: See also {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
-Examples: None
+word: mabru
+rafsi:
+- mab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mammal/'animal'/beast of species x2.
+    notes:
+    - See also {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
+    glosses:
+    - mammal
+  de:
+    place structure: x1 ist ein Säugetier/'Tier' von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Säuger
+  es:
+    place structure: x1 es un mamífero/animal/bestia de especie/raza x2
+    notes:
+    - Ver también {danlu}.
+    glosses:
+    - mamífero
+  ru:
+    place structure: x1 — млекопитающее/«зверь» вида x2
+    notes:
+    - '{danlu} (животное), {ladru} (молоко), {tatru} (грудь [женская]), {ractu} (заяц),
+      {xanto} (слон), {xarju} (свинья)'
+    glosses:
+    - млекопитающее
+    - x2=вид млекопитающего
+  en-simple:
+    place structure: x1 is mammal of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a mammal
+    - x2=a species of mammal
+  eo:
+    place structure: x1 estas mamulo de speco x2
+    notes:
+    - Vidu ankaŭ {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
+    glosses:
+    - mamulo
+  hu:
+    place structure: x1 egy emlős [Mammalia osztály] az x2 fajból
+    notes:
+    - '(Lásd még: {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju})'
+    glosses:
+    - emlős
+  ja:
+    place structure: x1 は x2 （種類）の哺乳綱動物
+    notes:
+    - ・大意： 哺乳類 ・読み方： マブル ・語呂合わせ： マーブル哺乳類 ・関連語： {danlu}, {ladru}, {tatru}, {ractu},
+      {xanto}, {xarju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是哺乳动物，属于品种/种类x2
+    notes:
+    - 参见 {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
+    glosses:
+    - No glosses.

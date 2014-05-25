@@ -1,5 +1,62 @@
-Word: perli
-Rafsi: per
-Definition: x1 is a pear [fruit] of species/strain x2.
-Notes: See also {grute}.
-Examples: None
+word: perli
+rafsi:
+- per
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pear [fruit] of species/strain x2.
+    notes:
+    - See also {grute}.
+    glosses:
+    - pear
+  de:
+    place structure: x1 ist eine Birne [Frucht] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Birne
+  es:
+    place structure: x1 es una pera (fruta) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - pera
+  ru:
+    place structure: x1 — груша (фрукт) вида/сорта x2
+    notes:
+    - '{grute} (плод [фрукт])'
+    glosses:
+    - x1=груша
+    - x2=вид груши
+  en-simple:
+    place structure: x1 is a pear of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a pear
+    - x2=a species of pear
+  eo:
+    place structure: x1 estas piro [frukto] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {grute}.
+    glosses:
+    - piro
+  hu:
+    place structure: x1 egy körte [gyümölcs, Pyrus nemzetség] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {grute})'
+    glosses:
+    - körte
+  ja:
+    place structure: x1 は x2 （種類）のナシ属植物
+    notes:
+    - ・大意： 梨 ・読み方： ペルルィ  ・語呂合わせ： 梨食べたペルリ総督 ・関連語： {grute}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是梨，属于品种/种类x2
+    notes:
+    - 参见 {grute}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: pijne
-Rafsi: ''
-Definition: x1 is a pin/peg (needle-shaped tool) for fastening to/piercing x2, of
-  material/properties x3.
-Notes: See also {jesni}, {nivji}, {fenso}, {dinko}, {tutci}.
-Examples: None
+word: pijne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pin/peg (needle-shaped tool) for fastening to/piercing
+      x2, of material/properties x3.
+    notes:
+    - See also {jesni}, {nivji}, {fenso}, {dinko}, {tutci}.
+    glosses:
+    - pin
+  de:
+    place structure: x1 ist ein Pin/Stift/Dübel/eine Reißzwecke (nadelförmiges Werkzeug)
+      um x2 zu befestigen/zu durchbohren auf Material/mit Eigenschaften x3
+    notes:
+    - No notes.
+    glosses:
+    - Pin
+  es:
+    place structure: x1 es un alfiler para sujetar x2, de material/propiedades x3
+    notes:
+    - No notes.
+    glosses:
+    - alfiler
+  ru:
+    place structure: x1 — булавка/шпилька/заколка/кол/колышек (иглоподобное орудие)
+      для прикрепления к/протыкания x2, из материала/со свойствами x3
+    notes:
+    - '{jesni} (игла [форма, не орудие]), {nivji} (вязать), {fenso} (шить), {dinko}
+      (гвоздь), {tutci} (инструмент)'
+    glosses:
+    - булавка
+  en-simple:
+    place structure: x1 is a pin for piercing x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a pin
+    - x2=something pierced by a pin
+    - x3=a material of a pin
+  eo:
+    place structure: x1 estas pinglo/kejlo (pint-forma ilo) por fiksi/trapiki x2-on,
+      el materialo/ecoj x3
+    notes:
+    - Vidu ankaŭ {jesni}, {nivji}, {fenso}, {dinko}, {tutci}.
+    glosses:
+    - pinglo
+  hu:
+    place structure: x1 egy tű/szög x2 átszúrására/odaerősítésére, x3 anyagból/tulajdonságokkal
+    notes:
+    - '(Lásd még: {jesni}, {nivji}, {fenso}, {dinko}, {tutci})'
+    glosses:
+    - tű
+  ja:
+    place structure: x1 は x2 （物）を留める、 x3 （素材／性質）の鋲／ピン杭
+    notes:
+    - ・大意： 鋲 ・読み方： ピジネ  ・関連語： {jesni}, {nivji}, {fenso}, {dinko}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是针/别针/钉，用以固定/刺穿x2，具有性质x3/用材料x3制成
+    notes:
+    - 参见 {jesni}, {nivji}, {fenso}, {dinko}, {tutci}.
+    glosses:
+    - No glosses.

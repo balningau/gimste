@@ -1,11 +1,93 @@
-Word: citsi
-Rafsi: ''
-Definition: x1 is a season/is seasonal [cyclical interval], defined by interval/property
-  x2, of year(s) x3.
-Notes: 'Also anniversary (= {citsydei}, {na''arcitsydei}), jubilee (= {mumnoncitsi});
-  the period of time may be short or long as indicated by $x_2$, and may occur every
-  year or every nth year as indicated by $x_3$ (default every year); ($x_2$ and/or
-  $x_3$ may need metaphorical restriction: {djecitsi}, {pavdeicitsi}; also equinox,
-  solstice, time of year.  See also {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci},
-  {vensa}, {jbena}.'
-Examples: None
+word: citsi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a season/is seasonal [cyclical interval], defined by interval/property
+      x2, of year(s) x3.
+    notes:
+    - 'Also anniversary (= {citsydei}, {na''arcitsydei}), jubilee (= {mumnoncitsi});
+      the period of time may be short or long as indicated by x2, and may occur every
+      year or every nth year as indicated by x3 (default every year); (x2 and/or x3
+      may need metaphorical restriction: {djecitsi}, {pavdeicitsi}; also equinox,
+      solstice, time of year.  See also {cedra}, {crisa}, {critu}, {dunra}, {ranji},
+      {temci}, {vensa}, {jbena}.'
+    glosses:
+    - season
+  de:
+    place structure: x1 ist eine Jahreszeit/ist jahreszeitlich/saisonal [zyklisches
+      Intervall], definiert durch Intervall/Eigenschaft x2, von Jahr(en) x3
+    notes:
+    - No notes.
+    glosses:
+    - Jahreszeit
+  es:
+    place structure: x1 es una estación definida por propiedad x2, de año x3
+    notes:
+    - No notes.
+    glosses:
+    - estación
+  ru:
+    place structure: x1 — сезон/сезонный (циклически повторяющийся) интервал, определяемый
+      свойством x2, как часть периода x3
+    notes:
+    - 'Также: годовщина: {citsydei}, {na''arcitsydei}, юбилей (50-ая годовщина: {mumnoncitsi};
+      период времени м.б. коротким или длинным, в соответствии с x2, может происходить
+      каждый год или каждый n-ный год, в соответствии с x3 (по умолчанию каждый год);
+      x2 и/или x3 могут нуждаться в уточнении: {djecitsi}, {pavdeicitsi}; Также: равноденствие,
+      солнцестояние, время года {cedra} (эра), {crisa} (лето), {critu} (осень), {dunra}
+      (зима), {ranji} (продолжаться), {temci} (время [промежуток]), {vensa} (весна),
+      {jbena} (рожденный)'
+    glosses:
+    - x1=сезон
+  en-simple:
+    place structure: x1 is a season defined by x2 of year(s) x3
+    notes:
+    - No notes.
+    glosses:
+    - a season
+    - x2=a season's interval
+    - x3=a season's year
+  eo:
+    place structure: x1 estas sezono [cikla periodo], difinita de periodo/eco x2,
+      de jaro(j) x3
+    notes:
+    - 'Ankaŭ: datreveno (= {citsydei}, {na''arcitsydei}), jubileo (= {mumnoncitsi});
+      la periodo de tempo povas esti longa aŭ mallonga laŭ indiko de x2, kaj povas
+      okazi ciun jaron aŭ ĉiun <n>-an jaron laŭ indiko de x3 (defaŭlte ĉiun jaron);
+      (x2 kaj/aŭ x3 povas bezoni metaforan limigon: djecitsi, pavdeicitsi; ankaŭ ekvinokso,
+      solstico.  Vidu ankaŭ {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci},
+      {vensa}, {jbena}.'
+    glosses:
+    - sezono
+  hu:
+    place structure: x1 egy évszak/időszak/szezon x2 tulajdonság/időtartam által meghatározva,
+      x3 hosszúságú ciklusban
+    notes:
+    - '(Lásd még: {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena})'
+    glosses:
+    - évszak
+  ja:
+    place structure: x1 は x2 （性質／周期特性）・ x3 （年）の季節
+    notes:
+    - 「周年記念日」「誕生日」なども。 ・大意： 季節 ・読み方： シツィ ・語呂合わせ： ＜嫉妬つい出る＞.質の季節 ・関連語： {cedra}, {crisa},
+      {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en säsong/säsongsbetonad [cykliskt intervall] definierad
+      av intervall/egenskap x2 år x3.
+    notes:
+    - No notes.
+    glosses:
+    - säsong
+    - säsongsbetonad
+  zh:
+    place structure: x1是季节/季节性的，由性质/间隔x2定义，属于年份x3
+    notes:
+    - 周年纪念日={citsydei}/{na'arcitsydei}；五十年节（犹太）={mumnoncitsi}； 时间长度由x2指定，可能每n年发生一次（由x3指定，默认为1）；当x2和/或x3均被限定时，可取{djecitsi},{pavdeicitsi}；也指春/秋分或夏/冬至；参见
+      {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}.
+    glosses:
+    - No glosses.

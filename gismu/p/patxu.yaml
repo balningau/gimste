@@ -1,6 +1,71 @@
-Word: patxu
-Rafsi: pax
-Definition: x1 is a pot/kettle/urn/tub/sink, a deep container for contents x2, of
-  material/properties x3.
-Notes: (cf. {tansi}, {palne} for depth; {baktu}, {botpi} for open/lidded)
-Examples: None
+word: patxu
+rafsi:
+- pax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a pot/kettle/urn/tub/sink, a deep container for contents
+      x2, of material/properties x3.
+    notes:
+    - (cf. {tansi}, {palne} for depth; {baktu}, {botpi} for open/lidded)
+    glosses:
+    - pot
+  de:
+    place structure: x1 ist ein Topf/Pott/Kessel/Bottich/eine Urne/ein Spülbecken,
+      ein tiefer Behälter für Inhalt(e) x2 aus Material/mit Eigenschaften x3
+    notes:
+    - No notes.
+    glosses:
+    - Topf
+  es:
+    place structure: x1 es una olla/cacerola/recipiente profundo para contenido x2,
+      de material x3
+    notes:
+    - Ver también {tansi},  {palne},  {baktu},  {botpi}.
+    glosses:
+    - olla
+  ru:
+    place structure: x1 — котел/горшок/кувшин/бидон/{кастрюля} (глубокий сосуд) с
+      содержимым x2, из материала/со свойствами x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2» {tansi} (миска), {palne} (поднос)
+      для неглубокого сосуда; {baktu} (ведро), {botpi} (бутылка) для открытого/закрытого
+      сосуда'
+    glosses:
+    - горшок
+    - x2=содержимое горшка
+  en-simple:
+    place structure: x1 is a pot or sink for contents x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a pot
+    - x2=a content of a pot
+    - x3=a material of a pot
+  eo:
+    place structure: x1 estas poto/kaldrono/urno/kuvo/tino, profunda ujo por enhavo
+      x2, el materialo/ecoj x3
+    notes:
+    - (kp. tansi, palne por profundo; baktu, botpi por malferma/kovrilhava)
+    glosses:
+    - poto
+  hu:
+    place structure: x1 egy üst/urna/kád [mély tartály/edény] x2 tartalommal, x3 anyagból/tulajdonságokkal
+    notes:
+    - '(Lásd még: {tansi}, {palne}, {baktu}, {botpi})'
+    glosses:
+    - üst
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）の壷／鉢／かめ／やかん／ポット
+    notes:
+    - ・大意： 壷 ・読み方： パトクゥ  ・語呂合わせ： ポット, pot,  xu(壷) ・関連語： {tansi}, {palne}; {baktu},
+      {botpi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是盆/壶/罐/缸/桶/瓮（一种较深的容器），用以盛装x2，由材料x3制成/具有性质x3
+    notes:
+    - 参见 {tansi}, {palne}, {baktu}, {botpi}
+    glosses:
+    - No glosses.

@@ -1,10 +1,84 @@
-Word: mukti
-Rafsi: muk, mu'i
-Definition: x1 (action/event/state) motivates/is a motive/incentive for action/event
-  x2, per volition of x3.
-Notes: Also; $x_3$ is motivated to bring about result/goal/objective $x_2$ by $x_1$
-  (= {termu'i} for reordered places); (note that 'under conditions' BAI may apply
-  and be appropriately added to the main predicate level or within the $x_2$ action
-  level).  (cf. cmavo list {mu'i}, {nibli}, te {zukte} - generally better for 'goal',
-  se {jalge}, {krinu}, {rinka}, {ciksi}, {djica}, {xlura})
-Examples: None
+word: mukti
+rafsi:
+- muk
+- mu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (action/event/state) motivates/is a motive/incentive for action/event
+      x2, per volition of x3.
+    notes:
+    - Also; x3 is motivated to bring about result/goal/objective x2 by x1 (= {termu'i}
+      for reordered places); (note that 'under conditions' BAI may apply and be appropriately
+      added to the main predicate level or within the x2 action level).  (cf. cmavo
+      list {mu'i}, {nibli}, te {zukte} - generally better for 'goal', se {jalge},
+      {krinu}, {rinka}, {ciksi}, {djica}, {xlura})
+    glosses:
+    - motive
+  de:
+    place structure: x1 (Handlung/Ereignis/Zustand) motiviert/ist ein Motiv/Beweggrund/Anreiz/Ansporn
+      für Handlung/Ereignis x2, durch Willen von x3
+    notes:
+    - No notes.
+    glosses:
+    - Motiv
+  es:
+    place structure: x1 (evento) motiva/es un motivo/incentivo para acción/evento
+      x2, motiva a x3
+    notes:
+    - Ver también te {zukte},  se {jalge},  {krinu},  {rinka}.
+    glosses:
+    - motivo
+  ru:
+    place structure: x1 (действие/событие/состояние) есть повод/мотив для действия/события
+      x2, совершаемого/происходящего по воле x3 (чьей); x3 намерен делать x2 (абстракция)
+      из-за x3 (абстракция)
+    notes:
+    - x1 побуждает/стимулирует x3 делать/добиваться x2 {mu'i}, {nibli} (влечь [логически]),
+      для указания на цель действия лучше {te} {zukte} (действовать), {se} {jalge}
+      (результат), {krinu} (резон), {rinka} (причина [физическая]), {ciksi} (объяснять),
+      {djica} (хотеть), {xlura} (влиять)
+    glosses:
+    - x1=мотив (повод)
+    - x1=повод (мотив)
+    - x2=то, чего чего есть мотив
+    - x3=намеревающийся
+  en-simple:
+    place structure: x1 is a motive for the event x2 caused by x3
+    notes:
+    - No notes.
+    glosses:
+    - a motive
+    - x2=a motivated event
+    - x3=something motivated
+  eo:
+    place structure: x1 (ago/okazo/stato) motivas/stimulas agon/okazon x2, laŭ volo
+      de x3;
+    notes:
+    - 'Ankaŭ: x1 instigas/incitas x3-on fari x2-on; x3 estas motivata de x1 okazigi
+      rezulton/celon x2 (= termu''i por reordigitaj {lokoj}); (rimarku ke ''sub kondiĉoj''-BAI
+      povas aplikiĝi kaj esti aldonita laŭkaze ĉe la nivelo de la ĉefa predikato aŭ
+      ene de la ago x2).  (kp. cmavo mu''i, nibli, te zukte - ĝenerale pli bona por
+      ''celo'', se jalge, krinu, rinka, ciksi, djica, xlura)'
+    glosses:
+    - motivo
+  hu:
+    place structure: x1 motiválja/indíttatja x2 cselekedetre/eseményre x3-t
+    notes:
+    - '(Lásd még: {nibli}, {zukte}, {jalge}, {krinu}, {rinka}, {ciksi}, {djica}, {xlura})'
+    glosses:
+    - motivál
+  ja:
+    place structure: x1 （事）は x2 （事）を x3 （者）に動機する；  x3 は x1 に鼓舞されて x2 をする
+    notes:
+    - ・大意： 動機 ・読み方： ムクティ ・語呂合わせ： mudi（目的）,motive ・関連語： {mu'i}, {nibli}, {te} {zukte},
+      {se} {jalge}, {krinu}, {rinka}, {ciksi}, {djica}, {xlura}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（行为/事件/状态）是行为/事件x2的动机，遵循x3的意志/想法
+    notes:
+    - 也指：x3被鼓动做x2，被动机x1鼓动；（注：BAI可能适用于解释行为x2发生的某种原因）；参见：{mu'i}, {nibli}, te {zukte},
+      se {jalge}, {krinu}, {rinka}, {ciksi}, {djica}, {xlura})
+    glosses:
+    - No glosses.

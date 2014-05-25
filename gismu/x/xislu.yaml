@@ -1,6 +1,67 @@
-Word: xislu
-Rafsi: xil, xi'u
-Definition: x1 is a wheel [tool] of device/vehicle x2, made of materials/having properties
-  x3.
-Notes: See also {carce}, {karce}, {pulni}, {tutci}.
-Examples: None
+word: xislu
+rafsi:
+- xil
+- xi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wheel [tool] of device/vehicle x2, made of materials/having
+      properties x3.
+    notes:
+    - See also {carce}, {karce}, {pulni}, {tutci}.
+    glosses:
+    - wheel
+  de:
+    place structure: x1 ist ein Rad [Werkzeug] von Gerät/Fahrzeug x2, gemacht aus
+      Material/mit Eigenschaften x3
+    notes:
+    - No notes.
+    glosses:
+    - Rad
+  es:
+    place structure: x1 es una rueda de aparato/vehículo x2, de material x3
+    notes:
+    - Ver también {pulni}.
+    glosses:
+    - rueda
+  ru:
+    place structure: x1 — колесо устройства/транспортного средства x2, из материала/со
+      свойствами x3
+    notes:
+    - '{carce} (повозка), {karce} (автомобиль), {pulni} (шкив), {tutci} (инструмент)'
+    glosses:
+    - x1=колесо
+  en-simple:
+    place structure: x1 is a wheel of vehicle x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a wheel
+    - x2=something with a wheel
+    - x3=a material of a wheel
+  eo:
+    place structure: x1 estas rado [ilo] de aparato/veturilo x2, farita el materialoj/kun
+      ecoj x3
+    notes:
+    - Vidu ankaŭ {carce}, {karce}, {pulni}, {tutci}.
+    glosses:
+    - rado
+  hu:
+    place structure: x1 egy kereke x2 szerkezetnek/járműnek, x3 anyag(ok)ból/tulajdonságokkal
+    notes:
+    - '(Lásd még: {carce}, {karce}, {pulni}, {tutci})'
+    glosses:
+    - kerék
+  ja:
+    place structure: x1 は x2 （装置／乗物）・ x3 （特性）の車輪
+    notes:
+    - ・大意： 車輪 ・読み方： クィスルゥ  ・語呂合わせ： 車輪ひき擦る ・関連語： {carce}, {karce}, {pulni}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是设备/载具上的轮子，由材料x3制成/具有属性x3
+    notes:
+    - 参见 {carce}, {karce}, {pulni}, {tutci}.
+    glosses:
+    - No glosses.

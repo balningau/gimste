@@ -1,12 +1,114 @@
-Word: cnemu
-Rafsi: nem, ne'u
-Definition: x1 (agent) rewards x2 [recipient] for atypical x3 (event/property) with
-  reward/desserts x4.
-Notes: 'Differs from earned payment because of atypical nature; rewards need not be
-  positive but are in some sense deserved from the point of view of the rewarder:
-  positive reward (= {zanyne''u}), punishment, penalty, demerit (= {malne''u}, {sfane''u});
-  $x_4$ may be a specific object, a commodity (mass), an event, or a property; pedantically,
-  for objects/commodities, this is sumti-raising from ownership of the object/commodity
-  (= {posne''u}, {posyvelne''u} for unambiguous semantics).  See also {dunda}, {friti},
-  {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali}, {dapma}.'
-Examples: None
+word: cnemu
+rafsi:
+- nem
+- ne'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) rewards x2 [recipient] for atypical x3 (event/property)
+      with reward/desserts x4.
+    notes:
+    - 'Differs from earned payment because of atypical nature; rewards need not be
+      positive but are in some sense deserved from the point of view of the rewarder:
+      positive reward (= {zanyne''u}), punishment, penalty, demerit (= {malne''u},
+      {sfane''u}); x4 may be a specific object, a commodity (mass), an event, or a
+      property; pedantically, for objects/commodities, this is sumti-raising from
+      ownership of the object/commodity (= {posne''u}, {posyvelne''u} for unambiguous
+      semantics).  See also {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji},
+      {sfasa}, {venfu}, {prali}, {dapma}.'
+    glosses:
+    - reward
+  de:
+    place structure: x1 (Handelnder) belohnt x2 [Empfänger] für untypisches x3 (Ereignis/Eigenschaft)
+      mit Belohnung/Verdienst x4
+    notes:
+    - No notes.
+    glosses:
+    - belohnen
+  es:
+    place structure: x1 premia/recompensa a x2 por acción/estado x3 con recompensa/premio
+      x4
+    notes:
+    - Ver también {pleji},  {sfasa}.
+    glosses:
+    - premiar
+  ru:
+    place structure: x1 вознаграждает/поощряет x2 (кого) за нетипичное x3 (событие/свойство)
+      вознаграждением/поощрением x4
+    notes:
+    - 'В отличие от заработной платы ({se} {jerna}) речь идет о нетипичном событии;
+      вознаграждение не обязано быть положительным, но должно быть в каком-то смысле
+      заслуженным с точки зрения вознаграждающего: положительная награда: {zanyne''u},
+      наказание/пеня/штраф: {malne''u}, {sfane''u}; x4 м.б. конкретным объектом, товаром
+      (масса), событием или свойством; строго говоря, для объектов/товаров мы имеем
+      дело с подъемом sumti от владения объектом/товаром: {posne''u}, {posyvelne''u}
+      для однозначной семантики) {dunda} (давать), {friti} (предлагать), {jerna} (зарабатывать),
+      {jinga} (выигрывать [побеждать]), {jivna} (соревноваться), {pleji} (платить),
+      {sfasa} (наказывать), {venfu} (мстить), {prali} (прибыль), {dapma} (проклинать)'
+    glosses:
+    - вознаграждать
+    - x1=вознаграждающий
+  en-simple:
+    place structure: x1 rewards x2 for atypical event or property x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a rewarder
+    - x2=a rewardee
+    - x3=a reason for a reward
+    - x4=a reward
+  eo:
+    place structure: x1 (aganto) rekompencas x2-on [recipient] pro nekutima x3 (okazo/eco)
+      per premio x4
+    notes:
+    - 'Diferencas de gajnita pago pro netipa naturo; rekompencoj ne nepre estas pozitivaj
+      sed ili estas iel merititaj el la vidpunkto de la rekompencanto: pozitiva rekompenco
+      (= {zanyne''u}), puno (= {malne''u}, {sfane''u}); x4 povas esti specifa objekto,
+      varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas
+      sumti-levado el posedo de la objekto/varo (= {posne''u}, posyvelne''u por neambigua
+      {semantiko}).  Vidu ankaŭ {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji},
+      {sfasa}, {venfu}, {prali}, {dapma}.'
+    glosses:
+    - rekompenci
+  hu:
+    place structure: x1 [cselekvő] mejutalmazza/megbünteti x2-t annak x3 nem jellemző
+      cselekedetéért/tulajdonságáért x4-vel
+    notes:
+    - '(Lásd még: {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu},
+      {prali}, {dapma})'
+    glosses:
+    - jutalmaz/büntet
+  ja:
+    place structure: x1 （者）は x2 （者）を x3 （特別事項）について x4 （報奨／謝礼／褒美）で報いる
+    notes:
+    - x3が通常の事項ではない点で「pleji／支払う」と異なる。 ・大意： 報いる ・読み方： シネム  ・語呂合わせ： 死ね、報いだ ・関連語： {dunda},
+      {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali}, {dapma}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 belönar x2 för atypisk/utmärkande x3 med belöning x4.
+    notes:
+    - Skiljer sig från förtjänad lön på grund av dess atypiska natur; belöningar behöver
+      inte vara förtjänad utan är i någon mening förtjänade ur belönarens synvinkel;
+      positiv belöning (= {zanyne'u}), straff, bestraffning, tillrättavisning (= {malne'u},
+      {sfane'u}); x4 kan vara ett specifikt objekt, en mängdvara (massa), en händelse,
+      eller en egenskap; för att vara pedantisk så är objekt/mängdvaror sumti-höjande
+      från ägandet av denna (={posne'u}, {posyvelne'u} för otvetydighet). Se även
+      {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali},
+      {dapma}.
+    glosses:
+    - belöna (ge någon vad denne förtjänar)
+    - x1=belönare
+    - x2=belönad
+    - x3=belönad för
+    - x4=belöning
+  zh:
+    place structure: x1奖励x2，因为事件/性质x3，奖品是x4
+    notes:
+    - 与“获得报酬”不同，奖励不一定是正面的，但奖励施与者认为其是应当的；正面奖励= {zanyne'u}， 惩罚/负面奖励={malne'u}/{sfane'u}；
+      x4可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {posne'u}, {posyvelne'u}；参见
+      {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali},
+      {dapma}.
+    glosses:
+    - No glosses.

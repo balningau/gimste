@@ -1,13 +1,140 @@
-Word: vecnu
-Rafsi: ven, ve'u
-Definition: x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense
-  x4.
-Notes: $x_1$ is a salesperson/salesman/vendor; $x_3$ buys $x_2$ from $x_1$ (= {terve'u}
-  for reordered terms); $x_4$ is the price of $x_2$ to $x_3$ (= {velve'u} for reordered
-  terms); for sale (= {fitselve'u}, {selvenfriti}); $x_2$ may be a specific object,
-  a commodity (mass), an event, or a property; pedantically, for objects/commodities,
-  this is sumti-raising from ownership of the object/commodity (= {posyve'u}, {posyselve'u}
-  for unambiguous semantics).  (cf. {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu},
-  {prali}, {zarci}, {vamji}, {jdima}; see note at {jdima} on cost/price/value distinction,
-  {fepni}, {friti}, {jerna}, {rupnu})
-Examples: None
+word: vecnu
+rafsi:
+- ven
+- ve'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [seller] sells/vends x2 [goods/service/commodity] to buyer
+      x3 for amount/cost/expense x4.
+    notes:
+    - x1 is a salesperson/salesman/vendor; x3 buys x2 from x1 (= {terve'u} for reordered
+      terms); x4 is the price of x2 to x3 (= {velve'u} for reordered terms); for sale
+      (= {fitselve'u}, {selvenfriti}); x2 may be a specific object, a commodity (mass),
+      an event, or a property; pedantically, for objects/commodities, this is sumti-raising
+      from ownership of the object/commodity (= {posyve'u}, {posyselve'u} for unambiguous
+      semantics).  (cf. {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali},
+      {zarci}, {vamji}, {jdima}; see note at {jdima} on cost/price/value distinction,
+      {fepni}, {friti}, {jerna}, {rupnu})
+    glosses:
+    - sell
+  jbo:
+    place structure: x1 canja x2 fo x3 fi x4 noi jdini
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 [Verkäufer] verkauft x2 [Waren/Dienstleistungen] an Käufer
+      x3 für Preis x4
+    notes:
+    - No notes.
+    glosses:
+    - verkaufen
+  es:
+    place structure: x1 vende bien/servicio x2 a comprador x3 por cantidad/precio
+      x4
+    notes:
+    - Ver también {pleji},  {vamju},  {jdima}.
+    glosses:
+    - vender
+  fr:
+    place structure: x1 vend x2 [bien/service/matériel/événement/propriété] au consommateur
+      x3 pour prix/montant/valeur x4.
+    notes:
+    - x1 est un vendeur. "x3 achète x2 de x1" {terve'u}. "x1 est le prix de x2 pour
+      x3" {velve'u}. {fitselve'u} "en vente". x2 peut être un objet, une masse ou
+      un événement. En particulier, tout achat est un achat de la propriété de posséder
+      l'objet de l'achat. Voir également {prali}, {zarci}, {vamji}, {jdima}, {fepni},
+      {friti}, {jerna}, {rupnu}.
+    glosses:
+    - acheter
+    - vendre
+  ru:
+    place structure: x1 продает x2 (что) покупателю x3 за сумму/количество/стоимость/цену/затрачивая
+      x4
+    notes:
+    - 'x1 — продавец, торговец; x3 покупает x2 у x1: {terve''u} с переставленными
+      местами; продается, выставлено на продажу: {fitselve''u}, {selvenfriti}; x2
+      м.б. конкретным объектом, товаром (масса), событием, или свойством; строго говоря,
+      для объектов/товаров мы имеем дело с подъемом sumti от владения объектом/товаром:
+      {posyve''u}, {posyselve''u} для однозначной семантики {canja} (обменивать),
+      {dunda} (давать), {janta} (счет [к оплате]), {pleji} (платить), {jerna} (зарабатывать),
+      {kargu} (дорогой [дорогостоящий]), {prali} (прибыль), {zarci} (рынок), {vamji}
+      (ценность [стоимость]), {jdima} (цена); см. замечание к {jdima} (цена) о различии
+      стоимости/цены/ценности, {fepni} (стоить [в копейках/центах и пр.]), {friti}
+      (предлагать), {jerna} (зарабатывать), {rupnu} (денежная единица)'
+    glosses:
+    - продавать
+    - x1=продавец
+    - x2=торгуемое
+    - x3=покупатель
+    - x4=цена товара
+  en-simple:
+    place structure: x1 sells x2 to x3 for x4
+    notes:
+    - No notes.
+    glosses:
+    - a seller
+    - x2=something sold
+    - x3=something to which something is sold
+    - x4=a price of something sold
+  eo:
+    place structure: x1 [vendanto] vendas x2-on [varo/servo/komercaĵo] al aĉetanto
+      x3 por kvanto/kosto/elspezo x4
+    notes:
+    - x1 estas vendisto; x3 aĉetas x2-on de x1 (= terve'u por reordigitaj {termoj});
+      x4 estas la prezo de x2 por x3 (= velve'u por reordigitaj {termoj}); por vendado
+      (= {fitselve'u}, {selvenfriti}); x2 povas esti specifa objekto, varo, okazo,
+      aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de
+      la objekto/varo (= {posyve'u}, posyselve'u por neambigua {semantiko}).  (kp.
+      canja, dunda, janta, pleji, jerna, kargu, prali, zarci, vamji, jdima; see note
+      at jdima on cost/price/value distinction, fepni, friti, jerna, rupnu)
+    glosses:
+    - vendi
+  hu:
+    place structure: x1 eladja x2 árut/szolgáltatást x3 vevőnek x4 pénzért/áruért/ellenszolgáltatásért
+    notes:
+    - '(Lásd még: {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali}, {zarci},
+      {vamji}, {jdima}, {fepni}, {friti}, {jerna}, {rupnu})'
+    glosses:
+    - elad
+  ja:
+    place structure: x1 （売り手） は x2 （品物やサービス）を x3 （買い手）に x4 の額／費用／出費で売る
+    notes:
+    - x1 は売り手／販売員。
+    - x3 は x2 （品）を x1 から買う購入者（ terve'u は「買う」になる）。
+    - x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve'u は「費用である」になる）。
+    - 売りに出す（ fitselve'u, selvenfriti ）。
+    - x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。
+    - 品物の所有関係を表現する。（明晰に言うには posyve'u, posyselve'u ）
+    - 関連語：{canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali}, {zarci},
+      {vamji}, {jdima}（売り手がつける値段）, {fepni}, {friti}, {jerna}, {rupnu}
+    glosses:
+    - うる (売る)
+    - はんばい (販売)
+    - 売る
+    - 売買
+    - 販売
+    - 販売員
+    - x1=売り手／販売員
+    - x2=品物／商品
+    - x3=買い手／購入者
+    - x4=費用（額）／出費（額）
+  vi:
+    place structure: x1 bán x2 cho x3 với giá x4
+    notes:
+    - No notes.
+    glosses:
+    - bán
+    - x2=hàng hóa
+    - x3=người mua
+    - x4=giá (giá bán; giá mua)
+  zh:
+    place structure: x1（卖家）卖/销售x2（货物/服务/商品）给买家x3，价格/交换物/花费为x4
+    notes:
+    - 也指：x1是售货员/销售员； x3从x1处购买x2；x4是x2的价格；待售= {fitselve'u}/{selvenfriti}；x2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posyve'u},
+      {posyselve'u}参见 {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali},
+      {zarci}, {vamji}, {jdima}, {fepni}, {friti}, {jerna}, {rupnu}；查看{jdima}的备注中关于花费/价格/价值的区别。
+    glosses:
+    - No glosses.

@@ -1,6 +1,72 @@
-Word: ruble
-Rafsi: rub, ble
-Definition: x1 is weak/feeble/frail in property/quality/aspect x2 (ka) by standard
-  x3.
-Notes: See also {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe}.
-Examples: None
+word: ruble
+rafsi:
+- rub
+- ble
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is weak/feeble/frail in property/quality/aspect x2 (ka) by
+      standard x3.
+    notes:
+    - See also {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe}.
+    glosses:
+    - weak
+  de:
+    place structure: x1 ist schwach in Eigenschaft/Qualität/Aspekt x2 (ka) gemäß Standard
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - schwach
+  es:
+    place structure: x1 es débil/endeble en propiedad/cualidad/aspecto x2 según estándar
+      x3
+    notes:
+    - Ver también {tsali},  {kandi}.
+    glosses:
+    - débil
+  ru:
+    place structure: x1 слаб/бессилен по свойству/качестве/аспекте x2 ({ka}) по стандарту
+      x3
+    notes:
+    - '{carmi} (интенсивный), {vlipa} (могучий), {tsali} (сильный), {kandi} (тусклый),
+      {kandi} (тусклый), {milxe} (умеренный)'
+    glosses:
+    - слабый
+  en-simple:
+    place structure: x1 is weak or frail in x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something weak
+    - x2=a property of weakness
+    - x2=the property of weakness
+    - x3=a standard of weakness
+  eo:
+    place structure: x1 estas malforta/febla en eco/kvalito/aspekto x2 (ka) laŭ normo
+      x3
+    notes:
+    - Vidu ankaŭ {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe}.
+    glosses:
+    - malforta
+  hu:
+    place structure: x1 gyenge/erőtlen/törékeny/bizonytalan/határozatlan x2 tulajdonságban/minőségben/szempontból
+      x3 mérce szerint
+    notes:
+    - '(Lásd még: {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe})'
+    glosses:
+    - gyenge
+  ja:
+    place structure: x1 は x2 （性質）・ x3 （基準）において弱い／ひ弱／虚弱／微弱／華奢
+    notes:
+    - ・大意： 弱い ・読み方： ルブルェ  ・語呂合わせ： よわるブレーキ ・関連語： {carmi}, {vlipa}, {tsali}, {kandi},
+      {kandi}, {milxe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是虚弱的/脆弱的/微弱的，在性质/质量/品质x2（ka）方面，基于标准x3
+    notes:
+    - 参见 {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe}.
+    glosses:
+    - No glosses.

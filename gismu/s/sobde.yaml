@@ -1,5 +1,63 @@
-Word: sobde
-Rafsi: sob, so'e
-Definition: x1 is a quantity of soya [grain/bean] of species/strain x2.
-Notes: See also {dembi}, {gurni}.
-Examples: None
+word: sobde
+rafsi:
+- sob
+- so'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of soya [grain/bean] of species/strain x2.
+    notes:
+    - See also {dembi}, {gurni}.
+    glosses:
+    - soya
+  de:
+    place structure: x1 ist eine Menge an Soja [Korn/Bohne] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Soja
+  es:
+    place structure: x1 es una cantidad de soja (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - soja
+  ru:
+    place structure: x1 — соя (зерно/бобы) вида/сорта x2
+    notes:
+    - '{dembi} (боб), {gurni} (зерно)'
+    glosses:
+    - x1=соя
+  en-simple:
+    place structure: x1 is a quantity of soya of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of soya
+    - x2=a species of soya
+  eo:
+    place structure: x1 estas kvanto da sojo [greno/fabo] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {dembi}, {gurni}.
+    glosses:
+    - sojo
+  hu:
+    place structure: x1 bizonyos mennyiségű szójabab az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {dembi}, {gurni})'
+    glosses:
+    - szója
+  ja:
+    place structure: x1 は x2 （品種）のダイズ粒
+    notes:
+    - ・大意： 大豆 ・読み方： ソブデ  ・関連語： {dembi}, {gurni}
+    - ''
+    glosses:
+    - 大豆 (豆粒)
+    - x1=ダイズ (豆粒)
+  zh:
+    place structure: x1是大豆/黄豆，属于种类/品种x2
+    notes:
+    - 参见 {dembi}, {gurni}.
+    glosses:
+    - No glosses.

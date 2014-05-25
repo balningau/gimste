@@ -1,8 +1,86 @@
-Word: cerda
-Rafsi: ced
-Definition: x1 is an heir to/is to inherit x2 (object/quality) from x3 according to
-  rule x4.
-Notes: Pedantically, inheriting an object should be a sumti-raising (tu'a if non-abstract
-  in $x_2$) of inheriting loka ponse the object - the ownership of the object (= {posycerda},
-  {posyselcerda} for unambiguous semantics).  See also {jgina}.
-Examples: None
+word: cerda
+rafsi:
+- ced
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an heir to/is to inherit x2 (object/quality) from x3 according
+      to rule x4.
+    notes:
+    - Pedantically, inheriting an object should be a sumti-raising (tu'a if non-abstract
+      in x2) of inheriting loka ponse the object - the ownership of the object (=
+      {posycerda}, {posyselcerda} for unambiguous semantics).  See also {jgina}.
+    glosses:
+    - heir
+  de:
+    place structure: x1 ist ein Erbe von/Anwärter auf/soll x2 (Objekt/Qualität) von
+      x3 (ererben) gemäß Regel/Gesetz x4
+    notes:
+    - No notes.
+    glosses:
+    - Erbe
+  es:
+    place structure: x1 hereda x2 de x3 según regla x4
+    notes:
+    - No notes.
+    glosses:
+    - heredar
+  ru:
+    place structure: x1 наследует x2 (объект/качество) от x3 согласно правилу x4
+    notes:
+    - 'Строго говоря, наследование объекта должно выражаться как подъем sumti ({tu''a}
+      если x2 — не абстракция) от наследования права владения ({lo} {ka} {ponse})
+      объектом: {posycerda}, {posyselcerda} для однозначной семантики) {jgina} (ген)'
+    glosses:
+    - наследовать
+    - x1=наследующий
+  en-simple:
+    place structure: x1 is an inheritor of or heir to x2 from x3 according to rule
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - an inheritor
+    - x2=something inherited
+    - x3=something with an inheritor
+    - x4=an inheritance rule
+  eo:
+    place structure: x1 heredas x2-on (objekto/kvalito) de x3 laŭ regulo x4
+    notes:
+    - Pedante, heredo de objekto estu sumti-levado (tu'a se estas neabstraktaĵo en
+      x2) el heredo de loka ponse la objekto - la posedo de la objekto (=posycerda,
+      posyselcerda por neambigua semantiko).  Vidu ankaŭ {jgina}.
+    glosses:
+    - heredi
+  hu:
+    place structure: x1 örökli x2-t x3-tól, x4 rendelet/szokás/törvény szerint
+    notes:
+    - '(Lásd még: {jgina})'
+    glosses:
+    - örökös
+  ja:
+    place structure: x1 は x2 （物／性質）を x3 から、 x4 （原則）によって継承／相続する／受け継ぐ；  x1 は継承者／相続人
+    notes:
+    - ・大意： 継承 ・読み方： シェルダ  ・関連語： {jgina}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en arvinge/arvtagare/kommer att ärva x2 (objekt/kvalitet)
+      från x3 enligt regel x4.
+    notes:
+    - No notes.
+    glosses:
+    - arvinge
+    - ärva
+    - x1=arvtagare
+    - x2=arv
+    - x3=arvsgivare
+    - x4=arvsregel
+  zh:
+    place structure: x1是继承者，继承的事物/性质为x2，来自于被继承者x3，基于继承规则x4
+    notes:
+    - 语义上讲，继承 {posycerda}是指继承了事物的所有权{posyselcerda}，即继承的是”loka ponse 某物“，故x2位应当使用谓词子句或tu'a；
+      参见 {jgina}.
+    glosses:
+    - No glosses.

@@ -1,9 +1,169 @@
-Word: klama
-Rafsi: kla
-Definition: x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle
-  x5.
-Notes: Also travels, journeys, moves, leaves to ... from ...; $x_1$ is a traveller;
-  ($x_4$ as a set includes points at least sufficient to constrain the route relevantly).  See
-  also {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo list {ka'a},
-  {pluta}, {bevri}, {farlu}, {limna}, {vitke}.
-Examples: None
+word: klama
+rafsi:
+- kla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 comes/goes to destination x2 from origin x3 via route x4 using
+      means/vehicle x5.
+    notes:
+    - Also travels, journeys, moves, leaves to ... from ...; x1 is a traveller; (x4
+      as a set includes points at least sufficient to constrain the route relevantly).  See
+      also {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo list
+      {ka'a}, {pluta}, {bevri}, {farlu}, {limna}, {vitke}.
+    glosses:
+    - come
+  jbo:
+    place structure: lo ka klama cu ka ce'u goi x1 zukte lo ka ce'u muvdu ce'u xi
+      re goi x2 ce'u xi re goi x3 ce'u xi re goi x4 fi'o marce ce'u xi re goi x5
+    notes:
+    - .i lo ka klama cu ka zukte kei joi ka muvdu .ibo ku'i srana lo marce .i ji'a
+      lo klama cu litru .ibo si'a lo ve klama fa'u lo xe klama cu se litru fa'u te
+      litru .i ro da poi cmima lo'i lo'u {cadzu} {bajra} {marce} {vofli} {litru} {muvdu}
+      {cpare} {pluta} {bevri} {farlu} {limna} {vitke} {ka'a} le'u zo'u .e'u catlu
+      zo'e ne da
+    glosses:
+    - x1=lo zukte je litru (lo ka ce'u muvdu)
+    - x2=lo stuzi (lo ka muvdu ce'u)
+    - x3=lo stuzi (lo ka muvdu fi ce'u)
+    - x4=lo pluta je se litru (lo ka muvdu fo ce'u)
+    - x5=lo marce je te litru (lo ka ce'u marce lo klama lo ve klama)
+  de:
+    place structure: x1 geht zu/kommt zu/reist zu/bewegt sich nach x2 von x3 über/entlang
+      x4 mittels x5
+    notes:
+    - Wie durch x5 impliziert, ist »gehen« nicht auf eine Bewegung zu Fuß beschränkt.
+      Vgl. {cadzu}.
+    glosses:
+    - bewegen
+    - gehen
+    - kommen
+    - reisen (zielgerichtete, meist langstreckige Fortbewegung)
+    - x1=Reisender
+    - x2=Ziel (Endpunkt einer Reise)
+    - x3=Herkunft (Ausgangspunkt einer Reise)
+    - x4=Weg (Route/Zwischenstation einer Reise)
+    - x5=Vehikel (Transportmittel)
+  es:
+    place structure: x1 va/viene a x2 desde x3 vía ruta x4 usando medio/vehiculo x5
+    notes:
+    - Ver también {litru},  {muvdu},  {cpare}.
+    glosses:
+    - ir
+  ru:
+    place structure: x1 идет/едет/направляется/следует в x2 (куда) из x3 (откуда)
+      по пути/маршруту x4, используя средство передвижения x5
+    notes:
+    - x4, как множество, включает достаточное число точек, чтобы разумно определить
+      маршрут {cadzu} (идти), {bajra} (бежать), {marce} (транспорт), {vofli} (лететь),
+      {litru} (путешествовать), {muvdu} (двигаться), {cpare} (лезть), {ka'a}, {pluta}
+      (путь), {bevri} (нести), {farlu} (падать), {limna} (плыть [активно]), {vitke}
+      (гостить)
+    glosses:
+    - x1=направляться
+    - x2=место назначения
+    - x3=исходное место
+    - x4=маршрут
+  en-simple:
+    place structure: x1 goes to x2 from x3 via x4 using means x5
+    notes:
+    - No notes.
+    glosses:
+    - something going
+    - x2=a destination gone to
+    - x3=an origin gone from
+    - x4=a route gone by
+    - x5=a method of going
+  eo:
+    place structure: x1 venas/iras al celita loko x2 el deirpunkto x3 tra vojo x4
+      per rimedo/veturilo x5
+    notes:
+    - 'Ankaŭ: vojaĝas, moviĝas al ... de ...; x1 estas vojaĝanto; (x4 kiel aro inkluzivas
+      punktojn almenaŭ sufiĉajn por difini la vojon).  Vidu ankaŭ {cadzu}, {bajra},
+      {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo {ka''a}, {pluta}, {bevri},
+      {farlu}, {limna}, {vitke}.'
+    glosses:
+    - veni
+  he:
+    place structure: '&#8207;x1 בא/הולך/נוסע ליעד x2 ממוצא x3 דרך x4 באמצעות x5 (אמצעים/כלי
+      רכב)'
+    notes:
+    - No notes.
+    glosses:
+    - בא
+    - הולך
+    - נוסע
+    - x2=יעד (של נסיעה)
+    - x3=מוצא (של נסיעה)
+    - x4=דרך (של נסיעה)
+    - x5=כלי רכב (של נסיעה)
+  hu:
+    place structure: x1 jön/megy x2 úticélba, x3 kiindulási helyről, x4 úton, x5 járművel
+    notes:
+    - '(Lásd még: {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, {pluta},
+      {bevri}, {farlu}, {limna}, {vitke})'
+    glosses:
+    - megy
+  ja:
+    place structure: x1 は行く／来る、 x2 （終点）に向かって、 x3 （起点）から、 x4 （経路）を通って、 x5 (移動手段／乗り物）を使って
+    notes:
+    - ～へ～から「旅行する」、「移動する」という意味もある。 x1 は「旅行者」。 x4 は集合としては少なくとも経路を限定できるような地点を含む。関連語：
+      {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo の ka'a,
+      {pluta}, {bevri}, {farlu}, {limna}, {vitke}.
+    glosses:
+    - いく (行く)
+    - くる (来る)
+    - 旅行者 (移動して来る／行く人)
+    - 来る
+    - 行く
+    - x1=移動者／旅行者
+    - x2=到着地
+    - x3=出発地
+    - x4=経路 (移動の経路)
+    - x5=移動手段／乗り物
+  'no':
+    place structure: x1 kommer/går/forflytter seg til bestemmelsessted x2 fra opprinnelsessted
+      x3 via trasé x4 ved hjelp av transportmiddel x5
+    notes:
+    - No notes.
+    glosses:
+    - komme
+    - x2=bestemmelsessted
+    - x3=opprinnelsessted
+    - x4=trasé
+    - x5=transportmiddel
+  pl:
+    place structure: x1 przychodzi/idzie do x2 od x3 przez x4 korzystując z x5.
+    notes:
+    - Cf. {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}.
+    glosses:
+    - 'iść '
+    - 'przychodzić '
+  vi:
+    place structure: x1 đi đến x2 từ x3 qua x4 dùng x5
+    notes:
+    - No notes.
+    glosses:
+    - du hành
+    - đi
+    - x1=người đi
+    - x2=điểm đến
+    - x3=điểm xuất phát
+    - x4=đường đi
+    - x5=phương tiện đi lại
+  zh:
+    place structure: x1 移动到目的地 x2, 从x3出发, 经过路径x4 ,使用方法/交通工具 x5.
+    notes:
+    - No notes.
+    glosses:
+    - 去
+    - 来
+    - 移动
+    - x1=行者
+    - x2=目的地
+    - x2=目的地/去处
+    - x3=出发地
+    - x3=出发地/来自
+    - x4=路径
+    - x4=路径/经由
+    - x5=交通工具/方式

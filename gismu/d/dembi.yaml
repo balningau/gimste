@@ -1,5 +1,74 @@
-Word: dembi
-Rafsi: deb
-Definition: x1 is a bean/pea/leguminous seed from plant [legume] x2.
-Notes: See also {grute}, {sobde}, {tsiju}.
-Examples: None
+word: dembi
+rafsi:
+- deb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bean/pea/leguminous seed from plant [legume] x2.
+    notes:
+    - See also {grute}, {sobde}, {tsiju}.
+    glosses:
+    - bean
+  de:
+    place structure: x1 ist eine Bohne/Erbse/Hülsenfrucht von Pflanze x2
+    notes:
+    - No notes.
+    glosses:
+    - Bohne
+  es:
+    place structure: x1 es un garbanzo/poroto/arveja/guisante/haba/habichuela/judía/semilla
+      leguminosa de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - garbanzo
+  ru:
+    place structure: x1 — боб/фасолина/горошина/чечевица растения (бобового) x2
+    notes:
+    - '{grute} (плод [фрукт]), {sobde} (соя), {tsiju} (семя [зерно])'
+    glosses:
+    - боб
+  en-simple:
+    place structure: x1 is a legume, bean, or pea from plant x2
+    notes:
+    - No notes.
+    glosses:
+    - a legume seed
+    - x2=a legume plant
+  eo:
+    place structure: x1 estas fabo/pizo/legoma semo el planto [legomo] x2
+    notes:
+    - Vidu ankaŭ {grute}, {sobde}, {tsiju}.
+    glosses:
+    - fabo
+  hu:
+    place structure: x1 egy bab-/borsószem [hüvelyes termés] az x2 fajba tartozó pillangósvirágú
+      növényről [Fabaceae család]
+    notes:
+    - '(Lásd még: {grute}, {sobde}, {tsiju})'
+    glosses:
+    - babszem
+  ja:
+    place structure: x1 は x2 （種類）のマメ科植物（ラッカセイ／ハギ／ゲンゲ／インゲンマメ／アズキ／エンドウ／アカシア／オジギソウ等）
+    notes:
+    - 通常は果実／種子を指す。 ・大意： 豆 ・読み方： デムビ  ・関連語： {grute}, {sobde}, {tsiju}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en böna/ärta/lins/baljfrö från växt [ärtväxt/baljväxt]
+      x2.
+    notes:
+    - Bönor, ärtor, linser och (i botanisk mening) även jordnöt. Se även {seldembi}
+      för själva växtfamiljen.
+    glosses:
+    - böna (baljfrö)
+    - lins (baljfrö)
+    - x1=ärta (baljfrö)
+    - x2=ärtväxt
+  zh:
+    place structure: x1是豆/豆科植物的种子，来自植物x2
+    notes:
+    - 参见 {grute}, {sobde}, {tsiju}.
+    glosses:
+    - No glosses.

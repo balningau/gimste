@@ -1,7 +1,87 @@
-Word: clani
-Rafsi: cla
-Definition: x1 is long in dimension/direction x2 (default longest dimension) by measurement
-  standard x3.
-Notes: See also {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci},
-  {minli}, {rotsu}.
-Examples: None
+word: clani
+rafsi:
+- cla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is long in dimension/direction x2 (default longest dimension)
+      by measurement standard x3.
+    notes:
+    - See also {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci},
+      {minli}, {rotsu}.
+    glosses:
+    - long
+  jbo:
+    place structure: 'x1 barda x2 noi brarai cimde x1 ku''o x3 '
+    notes:
+    - No notes.
+    glosses:
+    - clani
+  de:
+    place structure: 'x1 ist lang in Dimension/Richtung x2 (Default: längste Dimension)
+      gemäß Maßstandard x3'
+    notes:
+    - No notes.
+    glosses:
+    - lang
+  es:
+    place structure: x1 es largo en dimensión/dirección x2 (la más larga) según estándar
+      x3
+    notes:
+    - Ver también {tordu},  {ganra},  {rotsu},  {condi}.
+    glosses:
+    - largo
+  ru:
+    place structure: x1 — длинный в направлении/измерении x2 (по умолчанию наибольшее
+      измерение) относительно стандарта x3
+    notes:
+    - '{slabu} (старый [не новый]), {condi} (глубокий), {ganra} (широкий), {rotsu}
+      (толстый), {tordu} (короткий), {barda} (большой), {ganra} (широкий), {gutci}
+      (измеряться [в футах/дюймах и пр.]), {minli} (миля), {rotsu} (толстый)'
+    glosses:
+    - x1=длинный
+  en-simple:
+    place structure: x1 is long in dimension x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something long
+    - x2=a dimension of longness
+    - x3=a standard of longness
+  eo:
+    place structure: x1 estas longa laŭ dimensio/direkto x2 (defaŭlte plej longa dimensio)
+      laŭ mezurnormo x3
+    notes:
+    - Vidu ankaŭ {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci},
+      {minli}, {rotsu}.
+    glosses:
+    - longa
+  hu:
+    place structure: x1 hosszú x2 irányban/méretében, x3 mérce szerint
+    notes:
+    - '(Lásd még: {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci},
+      {minli}, {rotsu})'
+    glosses:
+    - hosszú
+  ja:
+    place structure: x1 は x2 （次元／方向）・ x3 （照合枠）において長い
+    notes:
+    - ・大意： 長い ・読み方： シルァニ  ・関連語： {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda},
+      {ganra}, {gutci}, {minli}, {rotsu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är lång i dimension/riktning x2 (dess längsta dimension om
+      inte annat anges) enligt mätstandard x3.
+    notes:
+    - No notes.
+    glosses:
+    - lång (längd)
+  zh:
+    place structure: x1是长的，在尺寸/规格/方向x2上，基于测量标准x3
+    notes:
+    - 参见 {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci}, {minli},
+      {rotsu}.
+    glosses:
+    - No glosses.

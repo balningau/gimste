@@ -1,5 +1,63 @@
-Word: zinki
-Rafsi: zin, zi'i
-Definition: 'x1 is a quantity of/contains/is made of zinc (Zn); [metaphor: hard metal].'
-Notes: See also {jinme}.
-Examples: None
+word: zinki
+rafsi:
+- zin
+- zi'i
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of zinc (Zn); [metaphor:
+      hard metal].'
+    notes:
+    - See also {jinme}.
+    glosses:
+    - zinc
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Zink (Zn); [Im übertragenen
+      Sinn: hartes Metall]'
+    notes:
+    - No notes.
+    glosses:
+    - Zink
+  es:
+    place structure: x1 es una cantidad de zinc (Zn)
+    notes:
+    - No notes.
+    glosses:
+    - zinc
+  ru:
+    place structure: x1 — цинк (Zn); x1 содержит цинк
+    notes:
+    - 'Метафора: твердый металл {jinme} (металл)'
+    glosses:
+    - цинк
+  en-simple:
+    place structure: x1 is a quantity of zinc
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of zinc
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el zinko (Zn); [metafore:
+      malmola metalo]'
+    notes:
+    - Vidu ankaŭ {jinme}.
+    glosses:
+    - zinko
+  hu:
+    place structure: x1 bizonyos mennyiségű cink (-et tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {jinme})'
+    glosses:
+    - cink
+  ja:
+    place structure: 'x1は鉛である/を含んでいる/でできている; [比喩: 硬い金属]'
+    notes:
+    - '参照: {jinme}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是锌/由锌构成[Zn]
+    notes:
+    - 参见 {jinme}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,67 @@
-Word: latmo
-Rafsi: la'o
-Definition: x1 reflects Latin/Roman/Romance culture/empire/language in aspect x2.
-Notes: See also {ropno}, {fraso}, {spano}, {xispo}, {itlo}.
-Examples: None
+word: latmo
+rafsi:
+- la'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Latin/Roman/Romance culture/empire/language in aspect
+      x2.
+    notes:
+    - See also {ropno}, {fraso}, {spano}, {xispo}, {itlo}.
+    glosses:
+    - Latin
+  de:
+    place structure: x1 repräsentiert das/die lateinisch/römische/romanische Kultur/Reich/Sprache
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - Latein
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma latín/latino/romano/romance
+      en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - latino
+  ru:
+    place structure: x1 — латинский/римский/романский в аспекте x2
+    notes:
+    - '{ropno} (европейский), {fraso} (французский), {spano} (испанский), {xispo}
+      (латиноамериканский)'
+    glosses:
+    - латинский
+  en-simple:
+    place structure: x1 is Latin in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Latin
+    - x2=a Latin aspect
+  eo:
+    place structure: x1 montras latinan/romanan/romanidan kulturon/imperion/lingvon
+      laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {ropno}, {fraso}, {spano}, {xispo}.
+    glosses:
+    - latina
+  hu:
+    place structure: x1 latin/római/román [utóbbi mint újlatin] kultúrát/uralmat/nyelvet
+      tükröz x2 szempontból
+    notes:
+    - '(Lásd még: {ropno}, {fraso}, {spano}, {xispo})'
+    glosses:
+    - latin
+  ja:
+    place structure: x1 は x2 （性質）に関してラテン／ローマ／ロマンス的
+    notes:
+    - ・大意： ラテン ・読み方： ルァトモ  ・関連語： {ropno}, {fraso}, {spano}, {xispo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于的拉丁/罗马文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {ropno}, {fraso}, {spano}, {xispo}, {itlo}.
+    glosses:
+    - No glosses.

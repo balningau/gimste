@@ -1,7 +1,96 @@
-Word: ckaji
-Rafsi: kai
-Definition: x1 has/is characterized by property/feature/trait/aspect/dimension x2
-  (ka); x2 is manifest in x1.
-Notes: Manifested/property/quality/trait/feature/aspect (= {selkai}).  See also cmavo
-  list {kai}, {tcaci}, {tcini}.
-Examples: None
+word: ckaji
+rafsi:
+- kai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 has/is characterized by property/feature/trait/aspect/dimension
+      x2 (ka); x2 is manifest in x1.
+    notes:
+    - Manifested/property/quality/trait/feature/aspect (= {selkai}).  See also cmavo
+      list {kai}, {tcaci}, {tcini}.
+    glosses:
+    - attribute (trait)
+    - characteristic
+    - feature (trait)
+    - property (attribute or abstract quality)
+    - property (trait)
+    - quality
+    - quality (trait)
+    - trait
+  de:
+    place structure: x1 hat (charakteristische) Eigenschaft/Merkmal/Wesenszug x2 (ka);
+      x2 wird in x1 offenbar/zeigt sich in x1
+    notes:
+    - No notes.
+    glosses:
+    - Eigenschaft
+  es:
+    place structure: x1 tiene/presenta/manifiesta/exhibe cualidad/propiedad/rasgo/aspecto/dimensión
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - cualidad
+  fr:
+    place structure: x1 est caractérisé par/manifeste la propriété x2 (ka)
+    notes:
+    - Voir {jarco}, {tcini}, et (tcaci} ainsi que {kai}.
+    glosses:
+    - caractéristique
+    - propriété
+  ru:
+    place structure: x1 имеет свойство/черту/признак/аспект/измерение x2 ({ka}); x1
+      характеризуется свойством/… x2 (чем); x2 проявляется в x1
+    notes:
+    - 'Свойство/проявление/черта/аспект/измерение: {selkai} {kai}, {tcaci} (обычай),
+      {tcini} (обстоятельство)'
+    glosses:
+    - x1=атрибут (черта)
+  en-simple:
+    place structure: x1 is characterized by property x2
+    notes:
+    - No notes.
+    glosses:
+    - something with a property
+    - x2=a property
+  eo:
+    place structure: x1 karakteriziĝas per kvalito/eco/trajto/aspekto/dimensio x2
+      (ka); x2 evidentiĝas en x1
+    notes:
+    - Manifestaĵo/eco/kvalito/trajto/aspekto (= {selkai}).  Vidu ankaŭ cmavo {kai},
+      {tcaci}, {tcini}.
+    glosses:
+    - karakteriziĝi
+  hu:
+    place structure: x1 minősége megnyilvánul x2 tulajdonságban/jellegzetességben/méretben/összhatásban
+    notes:
+    - '(Lásd még: {tcaci}, {tcini})'
+    glosses:
+    - tulajdonságot mutat
+  ja:
+    place structure: x1 には x2 の性質がある
+    notes:
+    - ・大意： 性質 ・読み方： シカジ  ・語呂合わせ： 善なるに如かじ ・関連語： {kai}, {tcaci}, {tcini}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 har kännetecken/kännetecknas av egenskap/drag/aspekt/dimension
+      x2 (ka).
+    notes:
+    - No notes.
+    glosses:
+    - attribut (karaktäristisk egenskap)
+    - drag (karaktäristisk egenskap)
+    - egenskap (karaktäristisk egenskap)
+    - karaktäriseras av
+    - kvalitetet (karaktäristisk egenskap)
+    - x1=karaktärsdragsförsedd (har karaktär/utmärker sig genom egenskap)
+    - x2=karaktärsdrag
+  zh:
+    place structure: x1具有性质/尺寸/形状x2(ka)；x2是x1所呈现的状态
+    notes:
+    - 性质/表现/特征/品质= {selkai}； 参见 {kai}, {tcaci}, {tcini}.
+    glosses:
+    - No glosses.

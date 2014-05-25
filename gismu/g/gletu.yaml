@@ -1,6 +1,89 @@
-Word: gletu
-Rafsi: let, gle
-Definition: x1 copulates/fucks/mates/has coitus/sexual intercourse with x2.
-Notes: $x_1$ and $x_2$ are symmetrical; mounts (= {cpanygle}).  See also {cinse},
-  {pinji}, {plibu}, {vibna}, {vlagi}, {mabla}, {speni}.
-Examples: None
+word: gletu
+rafsi:
+- let
+- gle
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 copulates/fucks/mates/has coitus/sexual intercourse with x2.
+    notes:
+    - x1 and x2 are symmetrical; mounts (= {cpanygle}).  See also {cinse}, {pinji},
+      {plibu}, {vibna}, {vlagi}, {mabla}, {speni}.
+    glosses:
+    - copulate
+    - do (have sexual intercourse with)
+    - fuck (copulate)
+  de:
+    place structure: x1 kopuliert mit/paart sich mit/verkehrt sexuell mit/fickt x2
+    notes:
+    - No notes.
+    glosses:
+    - kopulieren
+  es:
+    place structure: x1 se copula/coge/ayunta/tiene relaciones sexuales con x2
+    notes:
+    - No notes.
+    glosses:
+    - copularse
+  ru:
+    place structure: x1 совокупляется/спаривается/имеет половое сношение с x2
+    notes:
+    - 'x1 и x2 симметричны; покрывает: {cpanygle} {cinse} (сексуальный), {pinji} (пенис),
+      {plibu} (лобок), {vibna} (влагалище), {vlagi} (вульва), {mabla} (негативный
+      [о значении/смысле слова]), {speni} (супруг)'
+    glosses:
+    - спариваться
+    - x1=спаривающийся
+  en-simple:
+    place structure: x1 copulates or mates with x2
+    notes:
+    - No notes.
+    glosses:
+    - a copulater
+    - x2=a copulatee
+  eo:
+    place structure: x1 koitas/kopulacias/fikas/sekskuniĝas kun x2
+    notes:
+    - x1 kaj x2 estas simetriaj; subigi (= {cpanygle}).  Vidu ankaŭ {cinse}, {pinji},
+      {plibu}, {vibna}, {vlagi}, {mabla}, {speni}.
+    glosses:
+    - koiti
+  hu:
+    place structure: x1 közösül/párzik x2-vel
+    notes:
+    - 'x1 és x2 szimmetrikus (Lásd még: {cinse}, {pinji}, {plibu}, {vibna}, {vlagi},
+      {mabla}, {speni})'
+    glosses:
+    - közösül
+  ja:
+    place structure: x1 は x2 と性交／交尾する
+    notes:
+    - 比喩的に「（対称物の）合体」の意も。「マウンティング」は{cpanygle}。
+    - 関連語：{cinse}, {pinji}, {plibu}, {vibna}, {vlagi}, {mabla}, {speni}
+    glosses:
+    - つがう
+    - やる (性交)
+    - エッチ (性交)
+    - セックス (性交)
+    - 交尾
+    - 性交
+  sv:
+    place structure: x1 parar sig/kopulerar/knullar/häckar/ligger/har sex/samlag med
+      x2.
+    notes:
+    - x1 och x2 är symmetriska. Sätter på/rider (={cpanygle}).
+    glosses:
+    - ha samlag med
+    - ha sex med
+    - knulla
+    - kopulera
+    - ligga med (ha sex)
+    - para sig
+    - pippa
+  zh:
+    place structure: x1与x2性交；x1日/操/上x2
+    notes:
+    - 其中x1与x2是可互换的；骑式性交= {cpanygle}；参见 {cinse}, {pinji}, {plibu}, {vibna}, {vlagi},
+      {mabla}, {speni}.
+    glosses:
+    - No glosses.

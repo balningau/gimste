@@ -1,7 +1,84 @@
-Word: ckafi
-Rafsi: kaf
-Definition: x1 is made of/contains/is a quantity of coffee from source/bean/grain
-  x2.
-Notes: Brew based on a seed/bean/grain; e.g. also chicory coffee, decaf, postum. See
-  also {tcati}, brewed from a leaf, {barja}, {cakla}.
-Examples: None
+word: ckafi
+rafsi:
+- kaf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of coffee from source/bean/grain
+      x2.
+    notes:
+    - Brew based on a seed/bean/grain; e.g. also chicory coffee, decaf, postum. See
+      also {tcati}, brewed from a leaf, {barja}, {cakla}.
+    glosses:
+    - coffee
+  de:
+    place structure: x1 besteht aus/enthält/ist eine gewisse Menge Kaffee aus Quelle/Bohne/Getreide/Korn
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Kaffee
+  es:
+    place structure: x1 es/contiene una cantidad de café de grano/variedad/origen
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - café
+  ru:
+    place structure: x1 кофе из источника/бобов/зерен x2
+    notes:
+    - настой из зерен/бобов/семян, в том числе цикориевый и декафеинированный кофе
+      {tcati} (чай) для настоя из листьев; {barja} (бар), {cakla} (шоколад)
+    glosses:
+    - x1=кофе
+  en-simple:
+    place structure: x1 is a quantity of coffee from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of coffee
+    - x2=a source of coffee
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el kafo el fonto/fabo/grajno
+      x2
+    notes:
+    - Tipo bazita en semo/fabo/grajno; ekz. ankaŭ cikoria kafo, senkafeinigita. Vidu
+      ankaŭ {tcati}, infuzita el {folio}, {barja}, {cakla}.
+    glosses:
+    - kafo
+  hu:
+    place structure: x1 bizonyos mennyiségű kávé [ital] (-t tartalmaz/-ból készült)
+      x2 forrásból
+    notes:
+    - '(Lásd még: {tcati}, {barja}, {cakla})'
+    glosses:
+    - kávé
+  ja:
+    place structure: x1 は x2 （種類）のコーヒー
+    notes:
+    - ・大意： コーヒー ・読み方： シカフィ  ・関連語： {tcati}, {brewed from a leaf}, {barja}, {cakla}
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er laget av/inneholder/er en mengde kaffe fra bønne x2
+    notes:
+    - Brygg basert på bønner eller frø, altså også sikorikaffe og koffeinfri kaffe.
+      Se også {kafybarja}, {barja}, {cakla} og {tcati}.
+    glosses:
+    - kaffe (drikke)
+  sv:
+    place structure: x1 är en kvantitet/innehåller/är gjord av kaffe från källa/böna/korn
+      x2.
+    notes:
+    - Brygd baserad på böna/frö/korn/rot (eg. även cikoriakaffe, koffeinfritt kaffe
+      etc). Med denna definition så borde även lakritste ingå (brygd på rot).
+    glosses:
+    - x1=kaffe (brygd av böna/frö/korn/rot)
+    - x2=kaffekälla
+  zh:
+    place structure: x1是咖啡/由咖啡构成，来源于来源/豆子/作物x2
+    notes:
+    - 参见 {tcati}, brewed from a leaf, {barja}, {cakla}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,70 @@
-Word: tcadu
-Rafsi: tca
-Definition: x1 is a town/city of metropolitan area x2, in political unit x3, serving
-  hinterland/region x4.
-Notes: Also (adjective:) $x_1$ is urban.  See also {jarbu}, {nurma}, {cecmu}.
-Examples: None
+word: tcadu
+rafsi:
+- tca
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a town/city of metropolitan area x2, in political unit
+      x3, serving hinterland/region x4.
+    notes:
+    - Also (adjective:) x1 is urban.  See also {jarbu}, {nurma}, {cecmu}.
+    glosses:
+    - city
+  de:
+    place structure: x1 ist eine Stadt/Großstadt von Metropolregion x2, in politischer
+      Einheit x3 und beliefert/versorgt Umland/Region x4
+    notes:
+    - No notes.
+    glosses:
+    - Stadt
+  es:
+    place structure: x1 es una ciudad/pueblo/villa/barrio de área metropolitana x2,
+      en unidad política x3, sirviendo a región/interior x4
+    notes:
+    - No notes.
+    glosses:
+    - ciudad
+  ru:
+    place structure: x1 — город в области x2, в политической единице x3, обслуживающий
+      регион x4
+    notes:
+    - '{jarbu} (пригород), {nurma} (деревня), {cecmu} (сообщество [организмов])'
+    glosses:
+    - город
+  en-simple:
+    place structure: x1 is a city or town of area x2 in political unit x3 serving
+      region x4
+    notes:
+    - No notes.
+    glosses:
+    - a city
+    - x2=an area of a city
+    - x3=a political unit of a city
+    - x4=a region served by a city
+  eo:
+    place structure: x1 estas urbo de metropolo x2, en politika unuo x3, servanta
+      postregionon/regionon x4
+    notes:
+    - Vidu ankaŭ {jarbu}, {nurma}, {cecmu}, {jarbu}.
+    glosses:
+    - urbo
+  hu:
+    place structure: x1 egy város x2 övezetben, x3 közigazgatási egységben, x4 régiót
+      ellátva
+    notes:
+    - '(Lásd még: {jarbu}, {nurma}, {cecmu})'
+    glosses:
+    - város
+  ja:
+    place structure: x1 は x2 （地域）・ x3 （政体）・ x4 （ヒンターランド）の都市／都会／みやこ／メトロポリス
+    notes:
+    - x4は「港」など。 ・大意： 都市 ・読み方： チャドゥ  ・関連語： {jarbu}, {nurma}, {cecmu}, {jarbu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是城镇，具有城区范围x2，在政治单位x3中，服务于周边区域x4（城市总范围，包括城市辖区内的农村地区）
+    notes:
+    - x1是关于城镇的；参见 {jarbu}, {nurma}, {cecmu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,83 @@
-Word: bavmi
-Rafsi: ''
-Definition: x1 is a quantity of barley [grain] of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: bavmi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of barley [grain] of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - barley
+  de:
+    place structure: x1 ist eine gewisse Menge Gerste [Getreide] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Gerste
+  es:
+    place structure: x1 es una cantidad de cebada (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - cebada
+  fr:
+    place structure: x1 est de l'orge d'espèce/type x2.
+    notes:
+    - Noter que quasiment toutes les plantes et tous les animaux n'ont pas plus de
+      deux places, dont la deuxième est l'espèce ou le type; Voir également {gurni}.
+    glosses:
+    - orge
+  ru:
+    place structure: x1 — ячмень (зерна) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - x1=ячмень
+    - x2=вид ячменя
+  en-simple:
+    place structure: x1 is a quantity of barley of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of barley
+    - x2=a species of barley
+  eo:
+    place structure: x1 estas kvanto da hordeo [greno] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - hordeo
+  hu:
+    place structure: x1 bizonyos mennyiségű árpamag az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - árpa
+  ja:
+    place structure: x1 は x2 （品種）のオオムギ粒
+    notes:
+    - ・大意： 大麦 ・読み方： バヴミ  ・語呂合わせ： ＜場でヴォミット＞, mai（麦）, barley ・関連語： {gurni}
+    - ''
+    glosses:
+    - 大麦 (穀粒)
+    - x1=オオムギ (穀粒)
+  'no':
+    place structure: x1 er en mengde bygg [korn] av type/stamme x2
+    notes:
+    - Se også {gurni}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är [en kvantitet av] korn (sädesslag) av sort x2
+    notes:
+    - Se även {gurni}.
+    glosses:
+    - x1=korn (sädesslag)
+    - x2=kornsort (sädesslag)
+  zh:
+    place structure: x1是一定数量的大麦，属于种族/种类x2
+    notes:
+    - 参见{gurni}
+    glosses:
+    - No glosses.

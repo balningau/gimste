@@ -1,5 +1,100 @@
-Word: bakri
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of chalk from source x2 in form x3.
-Notes: See also {pinsi}, {blabi}, {jilka}.
-Examples: None
+word: bakri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of chalk from source x2
+      in form x3.
+    notes:
+    - See also {pinsi}, {blabi}, {jilka}.
+    glosses:
+    - chalk
+  de:
+    place structure: x1 ist eine gewisse Menge/enthält/besteht aus Kreide von Quelle
+      x2 in Form x3
+    notes:
+    - No notes.
+    glosses:
+    - Kreide
+  es:
+    place structure: x1 es una cantidad de tiza/yeso/creta/marga de origen x2 en forma
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - tiza
+  fr:
+    place structure: x1 est de la craie provenant de x2 (source) sous forme x3.
+    notes:
+    - Voir également {pinsi}, {blabi}, {jilka}.
+    glosses:
+    - craie
+  ru:
+    place structure: x1 — мел/{известняк/мрамор} из источника x2 в форме x3
+    notes:
+    - '{pinsi} (карандаш), {blabi} (белый), {jilka} (щелочь)'
+    glosses:
+    - известь
+    - x1=мел
+  en-simple:
+    place structure: x1 is chalk from x2 in the form of x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of chalk
+    - x2=a source of chalk
+    - x3=a form of chalk
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el kreto el fonto x2 en
+      formo x3
+    notes:
+    - Vidu ankaŭ {pinsi}, {blabi}, {jilka}.
+    glosses:
+    - kreto
+  hu:
+    place structure: x1 bizonyos mennyiségű kréta/mészkő (-vet tartalmaz/-ből készült),
+      x2 forrásból, x3 formában
+    notes:
+    - '(Lásd még: {pinsi}, {blabi}, {jilka})'
+    glosses:
+    - kréta
+  ja:
+    place structure: x1 は x2 （起源）・ x3 （形状）のチョーク
+    notes:
+    - 「lo bakri cu ve ciska／チョークで書く」 ・大意： チョーク ・読み方： バクリ  ・語呂合わせ： ＜バックリ＞,  bai (白)
+      ・関連語： {pinsi}, {blabi}, {jilka}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en mengde/inneholder/er laget av kalk fra kilde x2 i form
+      x3
+    notes:
+    - Se også {blabi}, {jilka} og {pinsi}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest pewną ilością/zawiera/jest zrobiony z kredy ze źródła
+      x2 w kształcie x3.
+    notes:
+    - Patrz też {pinsi}, {blabi}, {jilka}.
+    glosses:
+    - kreda (minerał)
+  sv:
+    place structure: x1 är kalk/krita från källa x2 i form x3
+    notes:
+    - Se även {pinsi}, {blabi}, {jilka}.
+    glosses:
+    - kalcium
+    - kalksten
+    - krita (kalcium)
+    - x1=kalk (kalcium)
+    - x2=kalkkälla
+    - x3=kalkform (typ av kalcium)
+  zh:
+    place structure: x1是白垩（粉笔），或由白垩组成/含有白垩，来自来源x2，以结构/形式x3构成
+    notes:
+    - 参见 {pinsi}, {blabi}, {jilka}.
+    glosses:
+    - No glosses.

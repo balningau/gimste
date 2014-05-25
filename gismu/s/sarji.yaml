@@ -1,9 +1,81 @@
-Word: sarji
-Rafsi: sra
-Definition: x1 supports/holds up/is underpinning of/[helps] x2 against force/opposition
-  x3 with/by means x4.
-Notes: Also aids; (adjective:) $x_1$ is dependable, reliable (such reliability may
-  be transient; this is not the usual sense of 'reliable' or 'dependable'); ($x_2$
-  is object/event).  See also {bradi}, {darlu}, {fapro}, {sidju}, {tugni}, {bongu},
-  {ckana}, {cpana}, {loldi}, {sanli}, {selfu}.
-Examples: None
+word: sarji
+rafsi:
+- sra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 supports/holds up/is underpinning of/[helps] x2 against force/opposition
+      x3 with/by means x4.
+    notes:
+    - Also aids; (adjective:) x1 is dependable, reliable (such reliability may be
+      transient; this is not the usual sense of 'reliable' or 'dependable'); (x2 is
+      object/event).  See also {bradi}, {darlu}, {fapro}, {sidju}, {tugni}, {bongu},
+      {ckana}, {cpana}, {loldi}, {sanli}, {selfu}.
+    glosses:
+    - support
+  de:
+    place structure: x1 unterstützt/stützt/fördert/erhält aufrecht/[hilft] x2 gegen
+      Kraft/Gegenseite x3 mit Mitteln x4
+    notes:
+    - No notes.
+    glosses:
+    - unterstützen
+  es:
+    place structure: x1 sostiene/apoya/soporta/mantiene/sustenta a x2 contra fuerza/oposición
+      x3 con/por medio de x4
+    notes:
+    - No notes.
+    glosses:
+    - sostener
+  ru:
+    place structure: x1 поддерживает/{помогает} x2 против силы/оппозиции/противодействия
+      x3 посредством x4
+    notes:
+    - '{bradi} (враг), {darlu} (отстаивать [позицию]), {fapro} (противостоять), {sidju}
+      (помогать), {tugni} (соглашаться), {bongu} (кость), {ckana} (кровать), {cpana}
+      (на), {loldi} (пол [дно]), {sanli} (стоять), {selfu} (оказывать [услугу])'
+    glosses:
+    - поддерживать (помогать)
+    - x1=поддерживающий (помогающий)
+  en-simple:
+    place structure: x1 supports or holds up x2 against x3 by means x4
+    notes:
+    - No notes.
+    glosses:
+    - a supporter
+    - x2=something supported
+    - x3=something supported against
+    - x4=a means for support
+  eo:
+    place structure: x1 apogas/subtenas/[helpas] x2-on kontraŭ forto/opozicio x3 per
+      rimedo x4
+    notes:
+    - 'Ankaŭ: helpas; (adjektivo:) x1 estas fidinda (tiu fidindeco povas esta dumtempa;
+      ĉi tiu ne estas la kutima senco de ''fidinda''); (x2 estas objekto/okazo).  Vidu
+      ankaŭ {bradi}, {darlu}, {fapro}, {sidju}, {tugni}, {bongu}, {ckana}, {cpana},
+      {loldi}, {sanli}, {selfu}.'
+    glosses:
+    - apogi
+  hu:
+    place structure: x1 támasztja/támogatja x2-t x3 erő ellenében, x4 módon
+    notes:
+    - '(Lásd még: {bradi}, {darlu}, {fapro}, {sidju}, {tugni}, {bongu}, {ckana}, {cpana},
+      {loldi}, {sanli}, {selfu})'
+    glosses:
+    - támaszt
+  ja:
+    place structure: x1 は x2 を x3 （力／抵抗）にたいして x4 （仕組／道具／手段）によって補強する／支持する
+    notes:
+    - ・大意： 支持 ・読み方： サルジ  ・語呂合わせ： siji, sasae, support, ji（支） ・関連語： {bradi}, {darlu},
+      {fapro}, {sidju}, {tugni}, {bongu}, {ckana}, {cpana}, {loldi}, {sanli}, {selfu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1支持/支撑/帮助x2抵抗力/对立方x3，通过方式x4
+    notes:
+    - 也指：援助/帮助；x1是可靠的/可信赖的/可支撑的（这种“可靠性”可能是暂时的，且这并非通常意义上的“可靠”）；x2是物体/事件；参见 {bradi},
+      {darlu}, {fapro}, {sidju}, {tugni}, {bongu}, {ckana}, {cpana}, {loldi}, {sanli},
+      {selfu}.
+    glosses:
+    - No glosses.

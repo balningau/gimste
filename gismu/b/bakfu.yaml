@@ -1,6 +1,111 @@
-Word: bakfu
-Rafsi: baf
-Definition: x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2,
-  held together by x3.
-Notes: See also {daski}, {dakli}, {tanxe}.
-Examples: None
+word: bakfu
+rafsi:
+- baf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bundle/package/cluster/clump/pack [shape/form] containing
+      x2, held together by x3.
+    notes:
+    - See also {daski}, {dakli}, {tanxe}.
+    glosses:
+    - bundle
+  de:
+    place structure: x1 ist ein Bündel/Paket/Packen mit dem Inhalt x2, zusammengehalten
+      von x3
+    notes:
+    - Siehe auch {daski}, {dakli}, {tanxe}.
+    glosses:
+    - x1=Bündel
+  es:
+    place structure: x1 es un paquete/bulto/montón de x2, atado/sostenido por x3
+    notes:
+    - No notes.
+    glosses:
+    - paquete
+  fr:
+    place structure: x1 est un colis/paquet contenant x2, maintenu ensemble par x3.
+    notes:
+    - Voir aussi {daski}, {dakli}, {tanxe}.
+    glosses:
+    - colis
+    - paquet
+  ru:
+    place structure: x1 — пакет/сверток/пачка/стопка/связка/пучок/гроздь предметов
+      x2, удерживаемых вместе при помощи x3
+    notes:
+    - '{daski} (карман), {dakli} (мешок), {tanxe} (коробка)'
+    glosses:
+    - пачка
+    - связка
+    - x1=пакет
+  en-simple:
+    place structure: x1 is a pack or bundle containing x2 held together by x3
+    notes:
+    - No notes.
+    glosses:
+    - a pack
+    - x2=a content of a pack
+    - x3=something holding a pack together
+  eo:
+    place structure: x1 estas pako/fasko [formo] da x2 ligitaj per x3
+    notes:
+    - Vidu ankaŭ {daski}, {dakli}, {tanxe}.
+    glosses:
+    - pako
+  hu:
+    place structure: x1 egy csomag/köteg/nyaláb x2-ből, amit x3 tart össze
+    notes:
+    - '(Lásd még: {daski}, {dakli}, {tanxe})'
+    glosses:
+    - csomag
+  ja:
+    place structure: x1 は x2 （内容）を x3 で結んだ束／パッケージ／まとまり
+    notes:
+    - 「ti bakfu loi tirse grana loi skori／これは鉄の棒を縄で束ねたものである」 ・大意： 束 ・読み方： バクフゥ ・語呂合わせ：
+      ＜バック太い＞, pakku, bau（包） ・関連語： {daski}, {dakli}, {tanxe}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en bunt/pakke med innhold x2, holdt sammen av x3
+    notes:
+    - Se også {dakli}, {daski} og {tanxe}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest pakunkiem/paczką/wiązanką/bryłą/tobołkiem [kształt] zawierającym
+      x2, trzymanym razem przez x3.
+    notes:
+    - Patrz też {daski}, {dakli}, {tanxe}.
+    glosses:
+    - paczka (pakunek)
+  sv:
+    place structure: 'x1 är en bunt/lunta/knippe/packe/knyte/[bylte/kärve/bal/kolli/paket/klase]
+      [form] innehållande x2, sammanhållen av x3                                                                            '
+    notes:
+    - En enhet av flera sammanbundna saker. Se även {daski}, {dakli}, {tanxe}.
+    glosses:
+    - binda ihop (binda ihop flera saker)
+    - binda samman (binda ihop flera saker)
+    - klase
+    - knippe
+    - knyte
+    - lunta (bunt)
+    - packe
+    - sammanbindning (binda ihop flera saker)
+    - surra (binda ihop flera saker)
+    - surrning (binda ihop flera saker)
+    - säkra (binda ihop flera saker)
+    - x1=bunt
+    - x2=buntinnehåll
+    - x3=buntsammanbindning
+  zh:
+    place structure: x1是把x2用x3包装/系起来的一束、一捆、一簇、一串、一丛、一包、一组、一块或者一群东西
+    notes:
+    - 参见{daski}（口袋）、{dakli}（包）、{tanxe}（盒子）
+    glosses:
+    - 包装
+    - x1=包裹
+    - x2=所包装的物品
+    - x3=包装用品

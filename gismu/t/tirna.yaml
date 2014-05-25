@@ -1,6 +1,83 @@
-Word: tirna
-Rafsi: tin
-Definition: x1 hears x2 against background/noise x3; x2 is audible; (adjective:) x1
-  is aural.
-Notes: See also {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
-Examples: None
+word: tirna
+rafsi:
+- tin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hears x2 against background/noise x3; x2 is audible; (adjective:)
+      x1 is aural.
+    notes:
+    - See also {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
+    glosses:
+    - hear
+  jbo:
+    place structure: x1 ganse x2 lo'e kerlo be x1 boi x3
+    notes:
+    - '{kerlo} {ganse}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 hört x2 gegen Hintergrund/Lärm/Rauschen x3; x2 ist hörbar;
+      (Adjektiv:) x1 ist auditiv
+    notes:
+    - No notes.
+    glosses:
+    - hören
+  es:
+    place structure: x1 oye x2 con ruido de fondo x3
+    notes:
+    - No notes.
+    glosses:
+    - oír
+  ru:
+    place structure: x1 слышит x2 на фоне (шума) x3
+    notes:
+    - '{kerlo} (ухо), {sance} (звук), {smaji} (молчать), {savru} (шум), {voksa} (голос),
+      {ganse} (чувствовать [ощущать]), {zgana} (наблюдать)'
+    glosses:
+    - слышать
+    - x1=слышащий
+    - x2=то, что слышат
+  en-simple:
+    place structure: x1 hears x2
+    notes:
+    - No notes.
+    glosses:
+    - hear
+    - x1=a hearer
+    - x2=something heard
+    - x3=a background noise something is heard in
+  eo:
+    place structure: x1 aŭdas x2-on kontraŭ fono/bruo x3; x2 estas aŭdebla; (adjektivo:)
+      x1 estas aŭda
+    notes:
+    - Vidu ankaŭ {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
+    glosses:
+    - aŭdi
+  hu:
+    place structure: x1 meghallja x2-t x3 háttérzaj mellett
+    notes:
+    - '(Lásd még: {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana})'
+    glosses:
+    - hall
+  ja:
+    place structure: x1 は x2 （対象音声）を x3 （環境音声）にたいして聞く；  x2 が x1 に聞こえる；  x1 には聴覚がある；  x2
+      は可聴音
+    notes:
+    - ・大意： 聞く ・読み方： ティルナ  ・語呂合わせ： 聞いているな ・関連語： {kerlo}, {sance}, {smaji}, {savru},
+      {voksa}, {ganse}, {zgana}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 słyszy x2 pzy szumie tła x3; x2 jest słyszalny.
+    notes:
+    - Cf. {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
+    glosses:
+    - słyszeć
+  zh:
+    place structure: x1听见x2，在背景/噪声环境x2中；x2是可被听见的；x1是关于听觉的
+    notes:
+    - 参见 {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
+    glosses:
+    - No glosses.

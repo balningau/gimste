@@ -1,5 +1,71 @@
-Word: dansu
-Rafsi: ''
-Definition: x1 (individual, mass) dances to accompaniment/music/rhythm x2.
-Notes: See also {bende}, {zgike}, {zajba}.
-Examples: None
+word: dansu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (individual, mass) dances to accompaniment/music/rhythm x2.
+    notes:
+    - See also {bende}, {zgike}, {zajba}.
+    glosses:
+    - dance
+  de:
+    place structure: x1 (Einzelperson/Masse) tanzt zu Begleitung/Musik/Rhythmus x2
+    notes:
+    - No notes.
+    glosses:
+    - tanzen
+  es:
+    place structure: x1 danza/baila con acompañamiento x2
+    notes:
+    - No notes.
+    glosses:
+    - danzar
+  ru:
+    place structure: x1 (индивидуум, массив) танцует под аккомпанемент/музыку/ритм
+      x2
+    notes:
+    - '{bende} (команда), {zgike} (музыка), {zajba} (атлет)'
+    glosses:
+    - танцевать
+    - x1=танцующий
+    - x2=аккомпанемент
+  en-simple:
+    place structure: x1 dances to accompaniment or rhythm x2
+    notes:
+    - No notes.
+    glosses:
+    - a dancer
+    - x2=a dancer's accompaniment
+  eo:
+    place structure: x1 (unuopulo, amaso) dancas laŭ akompano/muziko/ritmo x2
+    notes:
+    - Vidu ankaŭ {bende}, {zgike}, {zajba}.
+    glosses:
+    - danci
+  hu:
+    place structure: x1 személy/tömeg táncol x2 kíséretre/zenére/ritmusra
+    notes:
+    - '(Lásd még: {bende}, {zgike}, {zajba})'
+    glosses:
+    - táncol
+  ja:
+    place structure: x1(単数/複数)は伴奏/音楽/リズムx2に合わせて踊る
+    notes:
+    - '参照: {bende}, {zgike}, {zajba}.'
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (individ/massa) dansar till ackompanjemang/musik/rytm x2.
+    notes:
+    - No notes.
+    glosses:
+    - dansa
+    - x1=dansare
+    - x2=dansrytm
+  zh:
+    place structure: x1（个体/团体）跳舞，在伴奏/旋律/节奏x2下
+    notes:
+    - 参见 {bende}, {zgike}, {zajba}.
+    glosses:
+    - No glosses.

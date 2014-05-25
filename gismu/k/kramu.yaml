@@ -1,7 +1,76 @@
-Word: kramu
-Rafsi: ''
-Definition: x1 is x2 local area unit(s) [non-metric] (default 1) by standard x3, x4
-  subunits.
-Notes: (additional subunit places may be added as $x_5$, $x_6$, ...); See also {rupnu},
-  {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}.
-Examples: None
+word: kramu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 local area unit(s) [non-metric] (default 1) by standard
+      x3, x4 subunits.
+    notes:
+    - (additional subunit places may be added as x5, x6, ...); See also {rupnu}, {fepni},
+      {dekpu}, {gutci}, {minli}, {merli}, {bunda}.
+    glosses:
+    - acre
+  de:
+    place structure: 'x1 ist x2 lokale Flächeneinheit(en) [nicht-metrisch] (Default:
+      1) gemäß Standard x3, x4 Untereinheiten'
+    notes:
+    - No notes.
+    glosses:
+    - Acre
+  es:
+    place structure: x1 mide x2 unidades locales de área (1 por defecto), estándar
+      x3, x4 subunidades
+    notes:
+    - No notes.
+    glosses:
+    - acre
+  ru:
+    place structure: x1 (площадь) составляет x2 (по умолчанию 1) местных (неметрических)
+      единиц, по стандарту x3, x4 дробных единиц
+    notes:
+    - Дополнительные места для дробных единиц могут быть добавлены как x5, x6,… {rupnu}
+      (денежная единица), {fepni} (стоить [в копейках/центах и пр.]), {dekpu} (иметь
+      объем [неметрический]), {gutci} (измеряться [в футах/дюймах и пр.]), {minli}
+      (миля), {merli} (измерять), {bunda} (весить [в неметрических единицах])
+    glosses:
+    - акр
+  en-simple:
+    place structure: x1 is x2 non-metric area units in standard x3 with subunits x4
+    notes:
+    - No notes.
+    glosses:
+    - something measured in non-metric area
+    - x2=an amount of non-metric area
+    - x3=a non-metric area standard
+    - x4=a subunit of a non-metric area
+  eo:
+    place structure: x1 estas x2 lokaj unuoj de areo [ne-metra] (defaŭlte 1) laŭ normo
+      x3, x4 subunuoj
+    notes:
+    - (pliajn subunuajn lokojn oni povas aldoni kiel x5, x6, ...); Vidu ankaŭ {rupnu},
+      {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}.
+    glosses:
+    - akreo
+  hu:
+    place structure: x1 terület/felszín x2 helyi [nem metrikus] területegység, x3
+      rendszerben, x4 (, x5, x6, stb.) alegységekkel
+    notes:
+    - 'x3 alapesetben az angolszász mértékegységrendszer (Lásd még: {rupnu}, {fepni},
+      {dekpu}, {gutci}, {minli}, {merli}, {bunda})'
+    glosses:
+    - hold (területegység)
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）・ x4 （下位単位）の土着的測量単位
+    notes:
+    - 下位単位としてx5・６…の追加も。 ・大意： エーカー ・読み方： クラム  ・関連語： {rupnu}, {fepni}, {dekpu}, {gutci},
+      {minli}, {merli}, {bunda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2个当地计量单位（非公制单位，默认1），基于标准x3，x4为其子单位/亚单位
+    notes:
+    - 其后可依序添加子单位x5,x6……；参见{rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}.
+    glosses:
+    - No glosses.

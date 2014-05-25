@@ -1,6 +1,86 @@
-Word: prenu
-Rafsi: pre
-Definition: x1 is a person/people (noun) [not necessarily human]; x1 displays personality/a
-  persona.
-Notes: See also {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
-Examples: None
+word: prenu
+rafsi:
+- pre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a person/people (noun) [not necessarily human]; x1 displays
+      personality/a persona.
+    notes:
+    - See also {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
+    glosses:
+    - people
+    - person
+  de:
+    place structure: x1 ist ein Person (Substantiv) [nicht zwingend menschlich]; x1
+      zeigt Persönlichkeit
+    notes:
+    - No notes.
+    glosses:
+    - Person
+  es:
+    place structure: x1 es una persona/tiene personalidad
+    notes:
+    - Ver también {remna}.
+    glosses:
+    - persona
+  fr:
+    place structure: 'x1 est une personne (pas nécessairement un humain) '
+    notes:
+    - No notes.
+    glosses:
+    - personne
+  ru:
+    place structure: x1 — личность/персона/индивидуальность (не обязательно человек)
+    notes:
+    - '{nanmu} (мужчина), {ninmu} (женщина), {remna} (человек), {zukte} (действовать),
+      {sevzi} (сам)'
+    glosses:
+    - личность
+  en-simple:
+    place structure: x1 is a person
+    notes:
+    - No notes.
+    glosses:
+    - a person
+  eo:
+    place structure: x1 estas persono/individuo (substantivo) [ne nepre homa]; x1
+      montras personecon
+    notes:
+    - Vidu ankaŭ {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
+    glosses:
+    - persono
+  hu:
+    place structure: x1 egy személy / személyiséggel rendelkezik
+    notes:
+    - '(Lásd még: {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi})'
+    glosses:
+    - személy
+  ja:
+    place structure: x1 は（心理学上の）人；  x1 は人格を有する
+    notes:
+    - ヒト／ホモサピエンスとは限らない。 ・大意： 人 ・読み方： プレヌ  ・関連語： {nanmu}, {ninmu}, {remna}, {zukte},
+      {sevzi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en person/folk [ikke nødvendigvis menneskelig]; x1 har
+      personlighet/persona
+    notes:
+    - No notes.
+    glosses:
+    - folk
+    - person
+  pl:
+    place structure: x1 to istota [nie koniecznie ludzka]; x1 ma osobowość.
+    notes:
+    - Cf. {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
+    glosses:
+    - istota (forma życia)
+  zh:
+    place structure: x1是一个人（不一定是人类）；x1具有人的特性
+    notes:
+    - 参见 {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
+    glosses:
+    - No glosses.

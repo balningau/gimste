@@ -1,7 +1,68 @@
-Word: spaji
-Rafsi: paj
-Definition: x1 (event/action abstract) surprises/startles/is unexpected [and generally
-  sudden] to x2.
-Notes: Also expectation (= {nalspaji}), alarm (= {tepspaji}).  See also {manci}, {jenca},
-  {bredi}, {suksa}.
-Examples: None
+word: spaji
+rafsi:
+- paj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/action abstract) surprises/startles/is unexpected [and
+      generally sudden] to x2.
+    notes:
+    - Also expectation (= {nalspaji}), alarm (= {tepspaji}).  See also {manci}, {jenca},
+      {bredi}, {suksa}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Ereignis/Handlung Abstraktion) überrascht/erschreckt/ist
+      unerwartet [und meist plötzlich] für x2
+    notes:
+    - No notes.
+    glosses:
+    - überraschen
+  es:
+    place structure: x1 (evento) sorprende a x2
+    notes:
+    - No notes.
+    glosses:
+    - sorprender
+  ru:
+    place structure: x1 — неожиданность/сюрприз для x2; x1 захватывает x2 (кого) врасплох
+    notes:
+    - 'Также: ожидание/предвосхищение: {nalspaji}, смятение/тревога: {tepspaji} {manci}
+      (изумленный), {jenca} (потрясать [ошеломлять]), {bredi} (готовый [к чему-либо]),
+      {suksa} (внезапный)'
+    glosses:
+    - сюрприз
+  en-simple:
+    place structure: x1 surprises x2
+    notes:
+    - No notes.
+    glosses:
+    - something surprising
+    - x2=something surprised
+  eo:
+    place structure: x1 (okazo/ago) surprizas x2-on; x1 estas neatendita [kaj ĝenerale
+      subita] por x2
+    notes:
+    - 'Ankaŭ: atendo (= {nalspaji}), alarmo (= {tepspaji}).  Vidu ankaŭ {manci}, {jenca},
+      {bredi}, {suksa}.'
+    glosses:
+    - surprizi
+  hu:
+    place structure: x1 esemény váratlan x2 számára
+    notes:
+    - '(Lásd még: {manci}, {jenca}, {bredi}, {suksa})'
+    glosses:
+    - váratlan
+  ja:
+    place structure: x1 （事）は x2 にとって驚き／思いがけない／不意
+    notes:
+    - ・大意： 驚き ・読み方： スパジ  ・関連語： {manci}, {jenca}, {bredi}, {suksa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/行为谓词子句）惊讶到x2；x1是出乎意料的，对x2来说
+    notes:
+    - 期望/预期/在意料之中= {nalspaji}；警报={tepspaji}；参见 {manci}, {jenca}, {bredi}, {suksa}.
+    glosses:
+    - No glosses.

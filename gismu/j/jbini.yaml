@@ -1,8 +1,99 @@
-Word: jbini
-Rafsi: bin, bi'i
-Definition: x1 is between/among set of points/bounds/limits x2 (set)/amidst mass x2
-  in property x3 (ka).
-Notes: $x_2$ (a complete set, generally ordered) defines the bounds/limits/range for
-  $x_1$.  See also se {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu},
-  {jimte}, {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}.
-Examples: None
+word: jbini
+rafsi:
+- bin
+- bi'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is between/among set of points/bounds/limits x2 (set)/amidst
+      mass x2 in property x3 (ka).
+    notes:
+    - x2 (a complete set, generally ordered) defines the bounds/limits/range for x1.  See
+      also se {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu}, {jimte},
+      {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}.
+    glosses:
+    - between
+  jbo:
+    place structure: 'ro da poi me x2 zo''u su''o de poi me x2 zo''u da x1 de bancu
+      x3 '
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist zwischen/unter einer Menge an Punkten/Grenzen x2 (Menge)/unter
+      Masse x2 mit Eigenschaft x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - zwischen
+  es:
+    place structure: x1 está entre/en medio de x2 en propiedad x3
+    notes:
+    - Ver también se {vasru},  {nenri},  {zvati},  {cpana},  {snuji},  {senta},  {bitmu}.
+    glosses:
+    - entre
+  ru:
+    place structure: x1 находится между/среди/посреди/в пределах точек/границ x2 (множество/масса)
+      в отношении свойства x3 ({ka})
+    notes:
+    - x2 (полностью описанное множество, обычно упорядоченное) определяет границы/пределы/диапазон
+      для x1 {se} {vasru} (содержать), {nenri} (внутри), {zvati} (находиться), {cpana}
+      (на), {snuji} (прослойка), {senta} (слой), {bitmu} (стена), {jimte} (граница),
+      {kuspe} (простираться), {jibni} (близко), {lamji} (смежный), {sruri} (оркужать),
+      {vanbi} (окружающий), {midju} (середина), {cmima} (член), {setca} (вставлять)
+    glosses:
+    - x1=между
+  en-simple:
+    place structure: x1 is between x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something between
+    - x2=something to which something is between
+    - x3=a betweenness property
+  eo:
+    place structure: x1 estas inter aro da punktoj/limoj x2 (aro)/meze de kolektivaĵo
+      x2 en eco x3 (ka)
+    notes:
+    - x2 (kompleta aro, ĝenerale ordigita) difinas la limojn/amplekson por x1.  Vidu
+      ankaŭ se {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu}, {jimte},
+      {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}.
+    glosses:
+    - inter
+  hu:
+    place structure: x1 belül van x2 határokon (azokat beleértve), x3 tulajdonság
+      alapján
+    notes:
+    - 'x2 egy, a határokat leíró, általában rendezett halmaz (Lásd még: {vasru}, {nenri},
+      {zvati}, {cpana}, {snuji}, {senta}, {bitmu}, {jimte}, {kuspe}, {jibni}, {lamji},
+      {sruri}, {vanbi}, {midju}, {cmima}, {setca})'
+    glosses:
+    - között
+  ja:
+    place structure: x1 は x2 （集合）の間に在る、 x3 （性質）に関して；  x1 は x2 の中間
+    notes:
+    - 「midju」と違い、何かに挟まれていることが特に意味される。x3は配列や力など。 ・大意： 間 ・読み方： ジビニ  ・語呂合わせ： jian(間),
+      between ・関連語： {se} {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu},
+      {jimte}, {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är emellan/bland set av punkter/gränser x2 (set)/mitt ibland
+      massa x2 i egenskap x3 (ka).
+    notes:
+    - x2 (ett fullständigt set, i allmänhet i ordning) definierar gränser/omfång för
+      x1.
+    glosses:
+    - emellan
+    - mellan
+    - mitt ibland
+  zh:
+    place structure: x1处于范围/界限/限制/限定x2之中，具有性质x3（ka）；x1处于整体x2之中
+    notes:
+    - x2（完整集合，通常是有序的）界定/限制x1的范围；参见 se {vasru}, {nenri}, {zvati}, {cpana}, {snuji},
+      {senta}, {bitmu}, {jimte}, {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju},
+      {cmima}, {setca}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,75 @@
-Word: ranji
-Rafsi: ra'i
-Definition: x1 (event/state) continues/persists over interval x2; x1 (property - ka)
-  is continuous over x2.
-Notes: See also {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla},
-  {fliba}, {preja}, {tcena}.
-Examples: None
+word: ranji
+rafsi:
+- ra'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) continues/persists over interval x2; x1 (property
+      - ka) is continuous over x2.
+    notes:
+    - See also {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla},
+      {fliba}, {preja}, {tcena}.
+    glosses:
+    - continue
+  de:
+    place structure: x1 (Ereignis/Zustand) dauert fort/währt über Intervall x2; x1
+      (Eigenschaft - ka) ist fortdauernd über x2
+    notes:
+    - No notes.
+    glosses:
+    - fortdauern
+  es:
+    place structure: x1 (evento) es continuo/sin interrupción en intervalo x2
+    notes:
+    - Ver también {temci},  {kuspe},  {renvi},  {cedra},  {citsi}.
+    glosses:
+    - continuo
+  ru:
+    place structure: 'x1 (событие/состояние) продолжается/сохраняется/длится в течение
+      интервала x2; x1 (свойство: {ka} ()) непрерывно на x2'
+    notes:
+    - '{temci} (время [промежуток]), {kuspe} (простираться), {renvi} (выдерживать),
+      {cedra} (эра), {citsi} (сезон), {manfo} (однородный), {vitci} (прерывистый),
+      {cukla} (круг), {fliba} (терпеть неудачу), {preja} (простираться [до чего-либо]),
+      {tcena} (растягиваться)'
+    glosses:
+    - продолжаться
+    - x1=продолжающийся
+    - x2=интервал, в течение которого продолжается
+  en-simple:
+    place structure: x1 persists or continues over interval x2
+    notes:
+    - No notes.
+    glosses:
+    - something persistant
+    - x2=an interval of persistance
+  eo:
+    place structure: x1 (okazo/stato) daŭras/persistas dum intervalo x2; x1 (eco -
+      ka) estas konstanta dum x2
+    notes:
+    - Vidu ankaŭ {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla},
+      {fliba}, {preja}, {tcena}.
+    glosses:
+    - daŭri
+  hu:
+    place structure: x1 esemény/állapot folyamatos x2 intervallumon
+    notes:
+    - '(Lásd még: {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla},
+      {fliba}, {preja}, {tcena})'
+    glosses:
+    - folyamatos
+  ja:
+    place structure: x1 （事／性質）は x2 （時間／期間）にわたって継続する／続く
+    notes:
+    - ・大意： 継続 ・読み方： ランジ  ・語呂合わせ： 継続乱事, continue, ji（継） ・関連語： {temci}, {kuspe}, {renvi},
+      {cedra}, {citsi}, {manfo}, {vitci}, {cukla}, {fliba}, {preja}, {tcena}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）继续/持续进行，在时间区间x2内；状态x1是持续性的，在x2上
+    notes:
+    - 参见 {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla}, {fliba},
+      {preja}, {tcena}.
+    glosses:
+    - No glosses.

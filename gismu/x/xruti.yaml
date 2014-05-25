@@ -1,10 +1,90 @@
-Word: xruti
-Rafsi: xru
-Definition: x1 (agent) returns x2 to origin/earlier state x3 from x4; x1 moves/gives
-  x2 back to x3 from x4.
-Notes: '$x_2$ goes back/reverts/Retreats. to $x_3$ (= {se''ixru} for agent self-returning
-  to a previous location/situation: renumber places in the lujvo); ($x_3$ may be a
-  location or a person or an event/situation; the latter may also be expressed with
-  {krefu} or {rapli} and a causative like {rinka}/{rikygau}).  See also {benji}, {krefu},
-  {rapli}, {rinka}.'
-Examples: None
+word: xruti
+rafsi:
+- xru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) returns x2 to origin/earlier state x3 from x4; x1
+      moves/gives x2 back to x3 from x4.
+    notes:
+    - 'x2 goes back/reverts/Retreats. to x3 (= {se''ixru} for agent self-returning
+      to a previous location/situation: renumber places in the lujvo); (x3 may be
+      a location or a person or an event/situation; the latter may also be expressed
+      with {krefu} or {rapli} and a causative like {rinka}/{rikygau}).  See also {benji},
+      {krefu}, {rapli}, {rinka}.'
+    glosses:
+    - return (to an earlier state)
+    - undo
+  jbo:
+    place structure: x1 gasnu lo nu x2 jai se krefu fai lo nu x3 tcini jo nai vanbi
+      x2 kei noi ke'a basti lo nu x4 tcini jo nai vanbi x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Handelnder) bringt x2 zurück zu Ursprungs-/früherem Zustand
+      x3 von x4; x1 bewegt/gibt x2 zurück zu x3 von x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 vuelve/regresa/retorna a estado/lugar anterior/original x2
+      desde x3
+    notes:
+    - '(def. oficial: x1 devuelve/regresa x2 a persona/estado/lugar anterior/original
+      x3 desde x4)'
+    glosses:
+    - volver
+  ru:
+    place structure: x1 возвращает/восстанавливает x2 (что/кого) в исходное/прежнее
+      состояние x3 из x4
+    notes:
+    - деятельное возвращение; x3 м.б. как местом, так и лицом или событием/ситуацией;
+      в последнем случае применимо также {krefu} или {rapli}, возможно, с сочетанием
+      типа {rinka}/{rikygau}. См. также {benji} - 'передавать (сигнал)', {krefu} -
+      'повторение', {rapli} - 'повторяться', {rinka} - 'причина (физическая)'.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 returns x2 to x3 from x4
+    notes:
+    - No notes.
+    glosses:
+    - a returner
+    - x2=something returned
+    - x3=something that something is returned to
+    - x4=something that something is returned from
+  eo:
+    place structure: x1 (aganto) redonas x2-on al elira/antaŭa stato x3 elde x4; x2
+      revenas/reiras al x3 de x4
+    notes:
+    - '({se''ixru} por aganto reportanta sin mem al antaŭa loko/situacio: renombri
+      lokojn en lujvo); (x3 povas esti loko aŭ homo aŭ okazo/situacio; tiu lasta povas
+      ankaŭ esti esprimata per {krefu} aŭ {rapli} kaj kaŭzativo kiel {rinka}/{rikygau})).
+      Vidu ankaŭ {benji}, {krefu}, {rapli}, {rinka}.'
+    glosses:
+    - redoni
+  hu:
+    place structure: x1 visszaállítja/visszateszi x2-t x3 eredeti/korábbi állapotba/helyzetbe/helyre
+      x4-ből
+    notes:
+    - '(Lásd még: {benji}, {krefu}, {rapli}, {rinka})'
+    glosses:
+    - visszaállít
+  ja:
+    place structure: x1 （者）は x2 （対象）を x3 に x4 から戻す／返す；  x2 は x3 に戻る／帰る
+    notes:
+    - 「私は家に帰る」の場合、x1も x2 も「mi」となる。x1は略して「xruti mi lo zdani」とできる。 ・大意： 戻す ・読み方： クゥルティ  ・関連語：
+      {benji}, {krefu}, {rapli}, {rinka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将x2退回到原位置/状态x3，从位置/状态x4；x1将x2移回x3，从x4处
+    notes:
+    - 也指：x2撤退/返回到x3；x3可能指位置/人/事件/情形/状态；“后者”可以用{krefu}或{rapli}表示；而其原因可以使用{rinka}/{rikygau}；参见
+      {benji}, {krefu}, {rapli}, {rinka}；特别备注：注意该词的两个版本的不同定义
+    glosses:
+    - No glosses.

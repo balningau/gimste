@@ -1,9 +1,98 @@
-Word: cabna
-Rafsi: cab
-Definition: x1 is current at/in the present of/during/concurrent/simultaneous with
-  x2 in time.
-Notes: (default $x_2$ is the present resulting in:) $x_1$ is now; time relationship
-  only, 'aorist' claiming simultaneity does not mean one event does not extend into
-  the past or future of the other. See also {zvati}, {balvi}, {purci}, cmavo list
-  {ca}, cmavo list {ca'a}.
-Examples: None
+word: cabna
+rafsi:
+- cab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is current at/in the present of/during/concurrent/simultaneous
+      with x2 in time.
+    notes:
+    - (default x2 is the present resulting in:) x1 is now; time relationship only,
+      'aorist' claiming simultaneity does not mean one event does not extend into
+      the past or future of the other. See also {zvati}, {balvi}, {purci}, cmavo list
+      {ca}, cmavo list {ca'a}.
+    glosses:
+    - concurrent (simultaneous)
+    - current (present)
+    - now
+    - present (pertaining to the current time)
+    - simultaneous
+  jbo:
+    place structure: x1 dunli x2 le ka ce'u fasnu ca makau
+    notes:
+    - No notes.
+    glosses:
+    - cabna
+  de:
+    place structure: x1 ist gleichzeitig mit/zur selben Zeit wie/in der Gegenwart
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - jetzt
+  es:
+    place structure: x1 está en el presente/durante/simultáneo/al mismo tiempo que
+      x2
+    notes:
+    - Ver también {balvi},  {purci},  {zvati}.
+    glosses:
+    - ahora
+  ru:
+    place structure: x1 происходит в настоящем относительно/одновременно с/в течение
+      x2
+    notes:
+    - 'По умолчанию x2 — настоящее время: x1 происходит сейчас; только об упорядочении
+      во времени; «одновременность» допускает, что одно событие может продолжаться
+      в будущее или прошлое другого {zvati} (находиться), {balvi} (позже), {purci}
+      (раньше), {ca}, {ca''a}'
+    glosses:
+    - x1=современный
+  en-simple:
+    place structure: x1 is current with x2 in time
+    notes:
+    - No notes.
+    glosses:
+    - something current
+    - x2=a reference for being current
+  eo:
+    place structure: x1 estas nuna je/dum/samtempa kun x2
+    notes:
+    - (defaŭlte x2 estas la nuno, rezultante en:) x1 okazas nun; nur tempa rilato,
+      samtempeco ne signifas ke unu okazo ne etendiĝas en la pasintecon aŭ ontecon
+      de la alia. Vidu ankaŭ {zvati}, {balvi}, {purci}, cmavo {ca}, cmavo {ca'a}.
+    glosses:
+    - No glosses.
+  hu:
+    place structure: x1 egy időben történik/létezik x2-vel
+    notes:
+    - 'x2 alapesetben a téridő-referenciapont („most”) (Lásd még: {zvati}, {balvi},
+      {purci})'
+    glosses:
+    - most
+  ja:
+    place structure: x1 は x2 と同時；  x1 は現在／今
+    notes:
+    - ・大意： 現在 ・読み方： シャブナ  ・語呂合わせ： ＜シャブない現在＞, cia(現), now  ・関連語： {zvati}, {balvi},
+      {purci}, {ca}, {ca'a}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är aktuell/innevarande/nuvarande/medan/samtidig med x2 i tid.
+    notes:
+    - (x2 är det som för närvarande resulterar i:) x1 är nu; endast tidsförhållanden,
+      'aorist' som gör anspråk på samtidighet innebär inte att en händelse inte sträcker
+      ut sig i dåtid eller framtid av det andra.
+    glosses:
+    - aktuell
+    - innevarande
+    - nuvarande
+    - samtida
+    - samtidig
+    - x1=nu
+    - x2=samtidig händelse
+  zh:
+    place structure: x1是当前的/当下的/现在的/与x2同时的（特指时间）
+    notes:
+    - 默认x2指“当下的时间”，x1指“现在”；参见 {zvati}, {balvi}, {purci}, {ca},{ca'a}.
+    glosses:
+    - No glosses.

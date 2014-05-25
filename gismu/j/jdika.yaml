@@ -1,6 +1,87 @@
-Word: jdika
-Rafsi: ''
-Definition: x1 (experiencer) decreases/contracts/is reduced/diminished in property/quantity
-  x2 by amount x3.
-Notes: See also {zenba}, {mleca}, {vimcu}.
-Examples: None
+word: jdika
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (experiencer) decreases/contracts/is reduced/diminished in
+      property/quantity x2 by amount x3.
+    notes:
+    - See also {zenba}, {mleca}, {vimcu}.
+    glosses:
+    - decrease
+  jbo:
+    place structure: x1 cenba x2 boi x3 ja'e lo nu lo fanmo cu mleca lo krasi x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Opfer) nimmt ab/wird verringert/vermindert/verkleinert in
+      Eigenschaft/Menge x2 um Betrag/Menge x3
+    notes:
+    - No notes.
+    glosses:
+    - abnehmen
+  es:
+    place structure: x1 disminuye/se reduce en propiedad x2 en cantidad x3
+    notes:
+    - Ver también {zenba},  {cenba},  {mleca}.
+    glosses:
+    - disminuir
+  ru:
+    place structure: x1 убывает/уменьшается в отношении свойства/количеста x2 на величину
+      x3
+    notes:
+    - 'Также: сжимается, сокращается, стягивается; антоним: {zenba} {zenba} (возрастать),
+      {mleca} (меньше), {vimcu} (отнимать)'
+    glosses:
+    - уменьшаться
+    - x1=уменьшающийся
+  en-simple:
+    place structure: x1 decreases in x2 by amount x3
+    notes:
+    - No notes.
+    glosses:
+    - something decreasing
+    - x2=a decreasing property
+    - x3=an amount of decrease
+  eo:
+    place structure: x1 malpliiĝas/malvastiĝas/malgrandiĝas/reduktiĝas laŭ eco x2
+      en kvanto x3
+    notes:
+    - Vidu ankaŭ {zenba}, {mleca}, {vimcu}.
+    glosses:
+    - malpliiĝi
+  hu:
+    place structure: x1 csökken x2 tulajdonságban x3 mennyiséggel
+    notes:
+    - '(Lásd még: {zenba}, {mleca}, {vimcu})'
+    glosses:
+    - csökken
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （数量）ほど減る
+    notes:
+    - ・大意： 減る ・読み方： ジディカ  ・関連語： {zenba}, {mleca}, {vimcu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (den som upplever) förminskas/minskar/avtar/drar sig samman/kontraheras/krymper/är
+      reducerad i egenskap/kvantitet x2 med värde x3.
+    notes:
+    - No notes.
+    glosses:
+    - avtar
+    - drar sig samman (passiv, ej agent)
+    - förminskas
+    - kontraheras
+    - krymper (passiv, ej agent)
+    - minskar (passiv, ej agent)
+    - reduceras
+  zh:
+    place structure: x1减少/递减/减弱/衰退/变小，在性质/数量x2上，减少量为x3
+    notes:
+    - 参见 {zenba}, {mleca}, {vimcu}.
+    glosses:
+    - No glosses.

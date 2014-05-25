@@ -1,5 +1,79 @@
-Word: cinba
-Rafsi: ''
-Definition: x1 (agent) kisses/busses x2 at locus x3.
-Notes: See also {ctebi}.
-Examples: None
+word: cinba
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) kisses/busses x2 at locus x3.
+    notes:
+    - See also {ctebi}.
+    glosses:
+    - kiss
+  jbo:
+    place structure: x1 pencu x2 lo ctebi x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Handelnder) küsst x2 an Stelle x3
+    notes:
+    - No notes.
+    glosses:
+    - küssen
+  es:
+    place structure: x1 besa a x2 en x3
+    notes:
+    - No notes.
+    glosses:
+    - besar
+  ru:
+    place structure: x1 целует/чмокает x2 в x3 (куда)
+    notes:
+    - '{ctebi} (губа)'
+    glosses:
+    - целовать
+    - x1=целующий
+  en-simple:
+    place structure: x1 kisses x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - a kisser
+    - x2=something kissed
+    - x3=a kissed place
+  eo:
+    place structure: x1 (aganto) kisas x2-on je loko x3
+    notes:
+    - Vidu ankaŭ {ctebi}.
+    glosses:
+    - kisi
+  hu:
+    place structure: x1 megcsókolja x2-t x3 ponton
+    notes:
+    - '(Lásd még: {ctebi})'
+    glosses:
+    - megcsókol
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）にキス／接吻／くちづけする
+    notes:
+    - ・大意： くちづけ ・読み方： シンバ  ・語呂合わせ： 唇 ・関連語： {ctebi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 kysser/pussar x2 på ställe x3.
+    notes:
+    - No notes.
+    glosses:
+    - kyssa
+    - pussa
+    - x1=kyssare
+    - x2=pussad
+    - x3=pusställe (ställe på x2)
+  zh:
+    place structure: x1亲/吻x2于部位x3
+    notes:
+    - 参见 {ctebi}.
+    glosses:
+    - No glosses.

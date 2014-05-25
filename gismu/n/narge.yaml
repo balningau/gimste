@@ -1,7 +1,74 @@
-Word: narge
-Rafsi: nag
-Definition: 'x1 is a nut [body-part: hard-shelled fruit] from plant/species x2 with
-  shell x3 and kernel x4.'
-Notes: Also $x_4$ nucleus, center (= {velnarge} for place reordering).  See also {grute},
-  {stagi}, {jbari}, {midju}.
-Examples: None
+word: narge
+rafsi:
+- nag
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a nut [body-part: hard-shelled fruit] from plant/species
+      x2 with shell x3 and kernel x4.'
+    notes:
+    - Also x4 nucleus, center (= {velnarge} for place reordering).  See also {grute},
+      {stagi}, {jbari}, {midju}.
+    glosses:
+    - nut
+  de:
+    place structure: 'x1 ist eine Nuss [Körperteil: Frucht mit harter Schale] von
+      Pflanze/Art x2 mit Schale x3 und Kern x4'
+    notes:
+    - No notes.
+    glosses:
+    - Nuss
+  es:
+    place structure: x1 es una nuez/fruto de cáscara dura de planta/especie x2 con
+      cáscara x3 núcleo x4
+    notes:
+    - No notes.
+    glosses:
+    - nuez
+  ru:
+    place structure: x1 — орех (плод в твердой оболочке) растения/вида x2 со скорлупой
+      x3 и ядром/сердцевиной x4
+    notes:
+    - 'Также: x4 — сердцевина, центр: {velnarge} {grute} (плод [фрукт]), {stagi} (овощ),
+      {jbari} (ягода), {midju} (середина)'
+    glosses:
+    - x1=орех
+    - x3=скорлупа ореха
+    - x4=сердцевина ореха
+  en-simple:
+    place structure: x1 is a nut from plant x2 with shell x3 and core x4
+    notes:
+    - No notes.
+    glosses:
+    - a nut
+    - x2=a species of nut
+    - x3=a nut shell
+    - x4=a nut kernel
+  eo:
+    place structure: 'x1 estas nukso [korpoparto: malmolŝela frukto] el planto/speco
+      x2 kun ŝelo x3 kaj grajno x4'
+    notes:
+    - 'Ankaŭ: x4 nukleo, centro (= velnarge por reordigitaj {lokoj}).  Vidu ankaŭ
+      {grute}, {stagi}, {jbari}, {midju}.'
+    glosses:
+    - nukso
+  hu:
+    place structure: x1 egy csonthéjas gyümölcse egy, az x2 fajból/fajtából származó
+      növénynek, x3 héjjal, x4 béllel
+    notes:
+    - '(Lásd még: {grute}, {stagi}, {jbari}, {midju})'
+    glosses:
+    - dió
+  ja:
+    place structure: x1 は x2 （種類）・ x3 （殻）・ x4 （核／仁）の実（み）／堅果
+    notes:
+    - 硬い実全般 ・大意： 木の実 ・読み方： ナルゲ  ・語呂合わせ： 実が木に生るげ ・関連語： {grute}, {stagi}, {jbari}, {midju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是坚果，属于物种/种类x2，带有壳x3，仁x4
+    notes:
+    - 参见 {grute}, {stagi}, {jbari}, {midju}.
+    glosses:
+    - No glosses.

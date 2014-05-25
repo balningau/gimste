@@ -1,6 +1,69 @@
-Word: rapli
-Rafsi: rap
-Definition: x1 [action] repeats/is repeated for a total of x2 (quantity) occurrences.
-Notes: Practice (= {rapyzu'e}, {rapxelcli}, {rapyzukmo'i}).  See also cmavo list {roi},
-  {cafne}, {krefu}, {fukpi}, {pilji}, {xruti}.
-Examples: None
+word: rapli
+rafsi:
+- rap
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [action] repeats/is repeated for a total of x2 (quantity)
+      occurrences.
+    notes:
+    - Practice (= {rapyzu'e}, {rapxelcli}, {rapyzukmo'i}).  See also cmavo list {roi},
+      {cafne}, {krefu}, {fukpi}, {pilji}, {xruti}.
+    glosses:
+    - repeat (re-occuring action)
+  de:
+    place structure: x1 [Aktion] wiederholt sich/wird wiederholt mit insgesamt x2
+      (Anzahl) Vorkommen
+    notes:
+    - No notes.
+    glosses:
+    - wiederholen
+  es:
+    place structure: x1 (evento) recurre/se repite x2 veces
+    notes:
+    - No notes.
+    glosses:
+    - recurrir
+  ru:
+    place structure: x1 (действие) повторяется в общей сложности x2 (количество) раз
+    notes:
+    - 'Упражняться/тренироваться: {rapyzu''e}, {rapxelcli}, зубрить: {rapyzukmo''i}
+      {roi}, {cafne} (часто), {krefu} (повторение), {fukpi} (копия), {pilji} (произведение
+      [арифметическое]), {xruti} (возвращать)'
+    glosses:
+    - повторение
+  en-simple:
+    place structure: x1 repeats x2 times
+    notes:
+    - No notes.
+    glosses:
+    - something which repeats
+    - x2=a number of repetition
+  eo:
+    place structure: x1 [ago] ripetiĝas por x2 (kvanto) fojoj
+    notes:
+    - Praktiki (= {rapyzu'e}, {rapxelcli}, {rapyzukmo'i}).  Vidu ankaŭ cmavo {roi},
+      {cafne}, {krefu}, {fukpi}, {pilji}, {xruti}.
+    glosses:
+    - ripetiĝi
+  hu:
+    place structure: x1 esemény megismétlődik / ismételten megtörténik, összesen x2-szer
+    notes:
+    - '(Lásd még: {cafne}, {krefu}, {fukpi}, {pilji}, {xruti})'
+    glosses:
+    - ismétlődik
+  ja:
+    place structure: x1 （動作）は x2 （回数）にわたって繰り返す／循環／反復する
+    notes:
+    - ・大意： 繰り返す ・読み方： ラプルィ  ・語呂合わせ： repeat,liu(屢) ・関連語： {roi}, {cafne}, {krefu}, {fukpi},
+      {pilji}, {xruti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（行为）是重复的，重复次数为x2（数量）
+    notes:
+    - 重复练习= {rapyzu'e}/{rapxelcli}/{rapyzukmo'i}；参见 {roi}, {cafne}, {krefu}, {fukpi},
+      {pilji}, {xruti}.
+    glosses:
+    - No glosses.

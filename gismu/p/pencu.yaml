@@ -1,6 +1,80 @@
-Word: pencu
-Rafsi: pec, pe'u
-Definition: x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at x4 [a
-  locus on x2].
-Notes: See also {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}.
-Examples: None
+word: pencu
+rafsi:
+- pec
+- pe'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) touches x2 with x3 [a locus on x1 or an instrument]
+      at x4 [a locus on x2].
+    notes:
+    - See also {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}.
+    glosses:
+    - touch
+  jbo:
+    place structure: x1 gasnu lo nu x3 noi pagbu x1 cu lamji x4 noi pagbu x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Handelnder) berührt x2 mit x3 [eine Stelle auf x1 oder ein
+      Instrument] an x4 [eine Stelle auf x2]
+    notes:
+    - No notes.
+    glosses:
+    - berühren
+  es:
+    place structure: x1 toca/palpa a x2 con instrumento/miembro x3 en parte x4
+    notes:
+    - No notes.
+    glosses:
+    - tocar
+  ru:
+    place structure: 'x1 трогает/касается x2 (что/чего) x3 (чем: участок x1 или инструмент)
+      за/в x4 (участок x2)'
+    notes:
+    - '{ganse} (чувствовать [ощущать]), {darxi} (ударять), {jgari} (держать), {penmi}
+      (встречать), {jorne} (соединенный), {satre} (гладить), {mosra} (трение), {zgana}
+      (наблюдать)'
+    glosses:
+    - трогать
+    - x1=трогающий
+    - x2=трогаемое
+    - x3=то, чем касаются
+  en-simple:
+    place structure: x1 touches x2 with x3 at x4
+    notes:
+    - No notes.
+    glosses:
+    - a toucher
+    - x2=something touched
+    - x3=a touching implement
+    - x4=a location of a touch
+  eo:
+    place structure: x1 (aganto) tuŝas x2-on per x3 [loko en x1 aŭ instrumento] je
+      x4 [loko en x2]
+    notes:
+    - Vidu ankaŭ {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}.
+    glosses:
+    - tuŝi
+  hu:
+    place structure: x1 megérinti x2-t x3-mal, x4 helyen
+    notes:
+    - '(Lásd még: {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana})'
+    glosses:
+    - megérint
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）を x4 で触る
+    notes:
+    - ・大意： 触る ・読み方： ペンシュ  ・関連語： {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre},
+      {mosra}, {zgana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1触摸x2，使用x3（x1上的某位置），触摸位置为x4（x2上某位置）
+    notes:
+    - 参见 {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}.
+    glosses:
+    - No glosses.

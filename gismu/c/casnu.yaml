@@ -1,6 +1,83 @@
-Word: casnu
-Rafsi: snu
-Definition: x1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s)
-  about topic/subject x2.
-Notes: Also chat, converse.  See also {bacru}, {cusku}, {darlu}, {tavla}.
-Examples: None
+word: casnu
+rafsi:
+- snu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s)
+      about topic/subject x2.
+    notes:
+    - Also chat, converse.  See also {bacru}, {cusku}, {darlu}, {tavla}.
+    glosses:
+    - converse (talk about)
+    - discuss
+  de:
+    place structure: x1 (normalerweise eine Masse, aber eine Einzelperson/jo'u ist
+      möglich) diskutiert/redet über/bespricht Thema x2
+    notes:
+    - No notes.
+    glosses:
+    - diskutieren
+  es:
+    place structure: x1 discuten/hablan/conversan/charlan/dialogan/platican acerca
+      de x2
+    notes:
+    - Ver también {tavla}.
+    glosses:
+    - discutir
+  ru:
+    place structure: x1 (обычно масса, возм. также индивид/{jo'u}) беседуют/разговаривают
+      о x2 (предмет/тема); x1 обсуждают x2
+    notes:
+    - '{bacru} (произносить), {cusku} (говорить [кому-либо]), {darlu} (отстаивать
+      [позицию]), {tavla} (говорить [о чем-либо])'
+    glosses:
+    - беседовать
+    - x1=беседующий
+    - x2=предмет беседы
+  en-simple:
+    place structure: x1 discusses or talks about x2
+    notes:
+    - No notes.
+    glosses:
+    - a discusser
+    - x2=a discussion topic
+  eo:
+    place structure: x1 (kutime kolektivaĵo, sed individuo/jo'u eblaj) diskutas/parolas
+      pri temo x2
+    notes:
+    - 'Ankaŭ: babili, konversacii.  Vidu ankaŭ {bacru}, {cusku}, {darlu}, {tavla}.'
+    glosses:
+    - diskuti
+  hu:
+    place structure: x1 csoport megbeszéli/megtárgyalja x2 témát
+    notes:
+    - '(Lásd még: {bacru}, {cusku}, {darlu}, {tavla})'
+    glosses:
+    - megbeszél
+  ja:
+    place structure: x1 （群）は x2 （題目）について話し合う／検討／討議／論議／談議／談合する
+    notes:
+    - ・大意： 話し合う ・読み方： シャスヌ  ・語呂合わせ： can(商), discuss ・関連語： {bacru}, {cusku}, {darlu},
+      {tavla}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 diskuterar/pratar om ämne x2.
+    notes:
+    - x1 är normalt en massa, men 1 individ/jo'u är möjligt.
+    - Även chatta, konversera, samtala, småprata,tjôta.
+    glosses:
+    - diskutera
+    - konversera
+    - prata
+    - tjôta
+    - x1=konversationsdeltagare
+    - x2=samtalsämne
+  zh:
+    place structure: x1（通常团体，但也可能个体/jo'u）谈论/讨论/议论主题/话题x2
+    notes:
+    - 也指聊天、交谈；参见 {bacru}, {cusku}, {darlu}, {tavla}.
+    glosses:
+    - No glosses.

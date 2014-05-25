@@ -1,5 +1,74 @@
-Word: ckunu
-Rafsi: ku'u
-Definition: x1 is a conifer/pine/fir of species/strain x2 with cones x3.
-Notes: See also {tricu}.
-Examples: None
+word: ckunu
+rafsi:
+- ku'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a conifer/pine/fir of species/strain x2 with cones x3.
+    notes:
+    - See also {tricu}.
+    glosses:
+    - conifer
+  de:
+    place structure: x1 ist ein Nadelbaum/Tannenbaum von Art/Gattung x2 mit Zapfen
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Nadelbaum
+  es:
+    place structure: x1 es una conífera/pino/abeto (árbol) de especie/variedad x2
+      con piñas/conos x3
+    notes:
+    - No notes.
+    glosses:
+    - conífera
+  ru:
+    place structure: x1 — хвойное (голосеменное) растение/{ель/сосна/кедр} вида/разновидности
+      x2 с шишками x3
+    notes:
+    - '{tricu} (дерево)'
+    glosses:
+    - x1=хвойное
+  en-simple:
+    place structure: x1 is a conifer of species x2 with cones x3
+    notes:
+    - No notes.
+    glosses:
+    - a conifer
+    - x2=a species of conifer
+    - x3=a cone of a conifer
+  eo:
+    place structure: x1 estas konifero/pino/abio de speco/raso x2 kun strobiloj x3
+    notes:
+    - Vidu ankaŭ {tricu}.
+    glosses:
+    - konifero
+  hu:
+    place structure: x1 egy tűlevelű (fenyő) [Pinophyta törzs] az x2 fajból/fajtából,
+      x3 tobozokkal
+    notes:
+    - '(Lásd még: {tricu})'
+    glosses:
+    - tűlevelű
+  ja:
+    place structure: x1 は x2 （種類）の、 x3 （球果）が生るマツ属／球果植物（マツ／スギ／ヒノキ／イチイ等）
+    notes:
+    - 針葉樹全般。 ・大意： 松 ・読み方： シクヌ  ・関連語： {tricu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en barrväxt/tall/gran av art/sort x2 med kottar x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=barrväxt
+    - x2=barrväxtsort
+    - x3=kotte
+  zh:
+    place structure: x1是松/杉，属于品种/种类x2，具有球果x3
+    notes:
+    - 参见 {tricu}.
+    glosses:
+    - No glosses.

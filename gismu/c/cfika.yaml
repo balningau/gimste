@@ -1,7 +1,74 @@
-Word: cfika
-Rafsi: fik, fi'a
-Definition: x1 is a work of fiction about plot/theme/subject x2/under convention x2
-  by author x3.
-Notes: Also story, lie, untrue.  See also {cukta}, {lisri}, {prosa}, {fatci}, {jitfa},
-  {jetnu}, {xanri}.
-Examples: None
+word: cfika
+rafsi:
+- fik
+- fi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a work of fiction about plot/theme/subject x2/under convention
+      x2 by author x3.
+    notes:
+    - Also story, lie, untrue.  See also {cukta}, {lisri}, {prosa}, {fatci}, {jitfa},
+      {jetnu}, {xanri}.
+    glosses:
+    - fiction
+  de:
+    place structure: x1 ist ein fiktives Werk über die Handlung/das Thema x2/unter
+      Konvention x2 vom Verfasser x3.
+    notes:
+    - Auch Geschichte, Lüge, unwahr.  Siehe auch {cukta}, {lisri}, {prosa}, {fatci},
+      {jitfa}, {jetnu}, {xanri}.
+    glosses:
+    - Fiktion
+  es:
+    place structure: x1 es una obra de ficción sobre tema x2 por autor x3
+    notes:
+    - No notes.
+    glosses:
+    - ficción
+  ru:
+    place structure: x1 — недокументальное/художественное сочинение с сюжетом/на тему
+      о/о предмете/в жанре x2, автора x3
+    notes:
+    - 'Также: история, вымысел, выдумка {cukta} (книга), {lisri} (рассказ), {prosa}
+      (проза), {fatci} (факт), {jitfa} (ложь), {jetnu} (истина), {xanri} (воображаемый)'
+    glosses:
+    - художественное сочинение
+    - x2=сюжет художественного  сочинения
+  en-simple:
+    place structure: x1 is a work of fiction about plot or theme x2 by author x3
+    notes:
+    - No notes.
+    glosses:
+    - a work of fiction
+    - x2=a work of fiction's plot
+    - x3=a work of fiction's author
+  eo:
+    place structure: x1 estas fikcio pri temo/intrigo x2/sub convencio x2 de aŭtoro
+      x3
+    notes:
+    - 'Ankaŭ: mensogo, malveraĵo.  Vidu ankaŭ {cukta}, {lisri}, {prosa}, {fatci},
+      {jitfa}, {jetnu}, {xanri}.'
+    glosses:
+    - fikcio
+  hu:
+    place structure: x1 egy kitalált történet/mese/regény x2 témáról/eseményről, x3
+      szerzőtől
+    notes:
+    - '(Lásd még: {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri})'
+    glosses:
+    - kitaláció
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （著者）のフィクション作品
+    notes:
+    - 「小説」「映画」「マンガ」など。 x2 はテーマ／プロット／ジャンルなども。 ・大意： フィクション ・読み方： シフィカ  ・関連語： {cukta},
+      {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是幻想作品，关于主题/主旨x2，作者为x3
+    notes:
+    - 也指传说/故事/谎言/不真实的；参见 {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}.
+    glosses:
+    - No glosses.

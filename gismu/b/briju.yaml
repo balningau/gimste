@@ -1,5 +1,84 @@
-Word: briju
-Rafsi: bij
-Definition: x1 is an office/bureau/work-place of worker x2 at location x3.
-Notes: See also {jibri}, {gunka}.
-Examples: None
+word: briju
+rafsi:
+- bij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an office/bureau/work-place of worker x2 at location x3.
+    notes:
+    - See also {jibri}, {gunka}.
+    glosses:
+    - office
+  de:
+    place structure: x1 ist das Büro/Arbeitszimmer von x2 am Ort x3
+    notes:
+    - Siehe auch {jibri}, {gunka}.
+    glosses:
+    - Büro (Arbeitsplatz)
+  es:
+    place structure: x1 es una oficina/lugar de trabajo de x2 en localidad x3
+    notes:
+    - No notes.
+    glosses:
+    - oficina
+  ru:
+    place structure: x1 — кабинет/офис/контора/бюро/рабочее место работника x2 в x3
+      (место)
+    notes:
+    - '{jibri} (профессия), {gunka} (работать)'
+    glosses:
+    - кабинет
+  en-simple:
+    place structure: x1 is an office or bureau of worker x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - an office
+    - x2=an office worker
+    - x3=a location of an office
+  eo:
+    place structure: x1 estas oficejo/laborejo de laboristo x2 en loko x3
+    notes:
+    - Vidu ankaŭ {jibri}, {gunka}.
+    glosses:
+    - oficejo
+  hu:
+    place structure: x1 egy iroda/munkahely x2 dolgozó számára, x3 helyen
+    notes:
+    - '(Lásd még: {jibri}, {gunka})'
+    glosses:
+    - iroda
+  ja:
+    place structure: x1 は x2 （従業員）・ x3 （所）の職場／事務所／営業所／局
+    notes:
+    - ・大意： 職場 ・読み方： ブリジュ  ・語呂合わせ：  breau ・関連語： {jibri}, {gunka}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er et kontor/byrå/arbeidsplass for/med arbeider x2 på sted/kontorlokale
+      x3
+    notes:
+    - Se og {jibri}, {gunka}, {stuzi}, {turni} og {nilce}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett kontor/byrå/tjänsterum/expedition/arbetsplats med arbetare
+      x2 på plats x3.
+    notes:
+    - No notes.
+    glosses:
+    - arbetsplats (kontor)
+    - arbetsrum (kontor)
+    - byrå (kontor)
+    - expedition (kontor)
+    - tjänsterum
+    - x1=kontor (arbetsplats)
+    - x2=kontorist
+    - x3=kontorsläge
+  zh:
+    place structure: x1是x2的办公室/工作地点，位于地点x3
+    notes:
+    - 参见 {jibri}, {gunka}.
+    glosses:
+    - No glosses.

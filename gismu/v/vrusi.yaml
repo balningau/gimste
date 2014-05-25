@@ -1,7 +1,78 @@
-Word: vrusi
-Rafsi: vus, vu'i
-Definition: x1 (ka) is a taste/flavor of/emitted by x2; x2 tastes of/like x1.
-Notes: 'Also: $x_2$ tastes of seasoning $x_1$, $x_1$ is a seasoned flavor of $x_2$
-  (= {tsapyvu''i}); vrusi may overlap the senses of taste and smell, since the latter
-  is a significant component of taste.  See also {kukte}, {tsapi}, {cpina}, {panci}.'
-Examples: None
+word: vrusi
+rafsi:
+- vus
+- vu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (ka) is a taste/flavor of/emitted by x2; x2 tastes of/like
+      x1.
+    notes:
+    - 'Also: x2 tastes of seasoning x1, x1 is a seasoned flavor of x2 (= {tsapyvu''i});
+      vrusi may overlap the senses of taste and smell, since the latter is a significant
+      component of taste.  See also {kukte}, {tsapi}, {cpina}, {panci}.'
+    glosses:
+    - taste
+  jbo:
+    place structure: x1 se krasi x2 gi'e ka'e se ganse fi lo'e moklu
+    notes:
+    - '{titla}; {slari}; {kurki}; {jvinu}; {sance}; {panci}; {tengu}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (ka) ist der Geschmack von/ausgesendet von x2; x2 schmeckt
+      nach/wie x1
+    notes:
+    - No notes.
+    glosses:
+    - Geschmack
+  es:
+    place structure: x1 es un gusto/sabor de x2
+    notes:
+    - No notes.
+    glosses:
+    - gusto
+  ru:
+    place structure: x1 ({ka}) — вкус x2 (чего); x2 имеет вкус (напоминающий) x1
+    notes:
+    - 'Вкус приправы: {tsapyvu''i}; [vrusi] может включать как чувство собственно
+      вкуса, так и запаха, являющегося существенным компонентом вкуса {kukte} (вкусный),
+      {tsapi} (приправа), {cpina} (резкий [острый/раздражающий]), {panci} (запах).'
+    glosses:
+    - вкус
+    - x2=имеющий вкус
+  en-simple:
+    place structure: x1 is a taste or flavor of x2
+    notes:
+    - No notes.
+    glosses:
+    - a taste
+    - x2=something with a taste
+  eo:
+    place structure: x1 (ka) estas gusto de/eligita de x2; x2 gustas x1-e
+    notes:
+    - 'Ankaŭ: x2 gustas je spicaĵo x1, x1 estas spica gusto de x2 (= {tsapyvu''i});
+      vrusi povas ampleksi la sensojn de gustumo kaj flaro, ĉar ĉi tiu lasta estas
+      signifa parto de la gustumo.  Vidu ankaŭ {kukte}, {tsapi}, {cpina}, {panci}.'
+    glosses:
+    - gusto
+  hu:
+    place structure: x1 egy íze x2-nek
+    notes:
+    - 'A szaglás is beleszámítható (Lásd még: {kukte}, {tsapi}, {cpina})'
+    glosses:
+    - íz
+  ja:
+    place structure: x1 （性質）は x2 が発する味；  x2 には x1 の風味がある
+    notes:
+    - ・大意： 風味 ・読み方： ヴルスィ  ・関連語： {kukte}, {tsapi}, {cpina}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（ka）是x2的味道/口味；x2尝起来像x1
+    notes:
+    - 也指：x2调味x1的味道；x1是x2调过味的味道={tsapyvu'i}；{vrusi}可能是味觉和嗅觉叠加后的味道；参见 {kukte}, {tsapi},
+      {cpina}, {panci}.
+    glosses:
+    - No glosses.

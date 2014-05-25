@@ -1,6 +1,69 @@
-Word: kanji
-Rafsi: kaj
-Definition: x1 calculates/reckons/computes x2 [value (ni)/state] from data x3 by process
-  x4.
-Notes: See also {kancu}, {jdice}, {skami}.
-Examples: None
+word: kanji
+rafsi:
+- kaj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 calculates/reckons/computes x2 [value (ni)/state] from data
+      x3 by process x4.
+    notes:
+    - See also {kancu}, {jdice}, {skami}.
+    glosses:
+    - calculate
+  de:
+    place structure: x1 errechnet/berechnet/schätzt x2 [Wert (ni)/Zustand] aus Daten
+      x3 mit Prozess x4
+    notes:
+    - No notes.
+    glosses:
+    - rechnen
+  es:
+    place structure: x1 calcula/computa resultado x2 a partir de datos x3 por proceso
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - calcular
+  ru:
+    place structure: x1 вычисляет x2 (значение {ni}/состояние) из данных x3 посредством
+      процесса x4
+    notes:
+    - '{kancu} (пересчитывать), {jdice} (решать [принимать решение]), {skami} (компьютер)'
+    glosses:
+    - вычислять
+    - x1=вычисляющий
+  en-simple:
+    place structure: x1 calculates x2 from data x3 by process x4
+    notes:
+    - No notes.
+    glosses:
+    - a calculater
+    - x2=a calculated value
+    - x3=data for calculation
+    - x4=a calculation process
+  eo:
+    place structure: x1 kalkulas/komputas x2-on [valoro (ni)/stato] el datenoj x3
+      per procedo x4
+    notes:
+    - Vidu ankaŭ {kancu}, {jdice}, {skami}.
+    glosses:
+    - kalkuli
+  hu:
+    place structure: x1 kiszámítja x2 értéket/állapotot x3 adatokból x4 úton
+    notes:
+    - '(Lásd még: {kancu}, {jdice}, {skami})'
+    glosses:
+    - kiszámít
+  ja:
+    place structure: x1 は x2 （数量／事）を x3 （データ）から x4 （過程／手段）によって計算する／算出する
+    notes:
+    - ・大意： 計算 ・読み方： カンジ  ・語呂合わせ： 計算幹事 ・関連語： {kancu}, {jdice}, {skami}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1计算x2（值（ni）/状态）数据来源x3，计算进程为x4
+    notes:
+    - 参见 {kancu}, {jdice}, {skami}.
+    glosses:
+    - No glosses.

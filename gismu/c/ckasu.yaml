@@ -1,6 +1,84 @@
-Word: ckasu
-Rafsi: cas
-Definition: x1 ridicules/mocks/scoffs at x2 about x3 (property/event) by doing activity
-  x4 (event).
-Notes: See also {cmila}.
-Examples: None
+word: ckasu
+rafsi:
+- cas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 ridicules/mocks/scoffs at x2 about x3 (property/event) by
+      doing activity x4 (event).
+    notes:
+    - See also {cmila}.
+    glosses:
+    - ridicule
+  de:
+    place structure: x1 verhöhnt x2/lacht x2 aus/macht sich über x2 lustig/lächerlich/spottet
+      über x2 wegen x3 (Eigenschaft/Ereignis), indem er x4 (Ereignis) tut
+    notes:
+    - No notes.
+    glosses:
+    - verhöhnen
+  es:
+    place structure: x1 ridiculiza/se burla de x2 por ser/hacer x3 con actividad x4
+    notes:
+    - No notes.
+    glosses:
+    - burlarse
+  ru:
+    place structure: x1 насмехается над/высмеивает x2 по поводу x3 (свойство/событие),
+      совершая действие x4 (событие)
+    notes:
+    - 'Также: поднимает на смех/издевается {cmila} (смеяться)'
+    glosses:
+    - насмехаться
+    - x1=насмехающийся
+  en-simple:
+    place structure: x1 ridicules x2 about x3 by doing x4
+    notes:
+    - No notes.
+    glosses:
+    - a ridiculer
+    - x2=something ridiculed
+    - x3=something ridiculed about
+    - x4=an act of ridiculing
+  eo:
+    place structure: x1 mokas/ridindigas x2-on pri x3 (eco/okazo) per ago x4 (okazo)
+    notes:
+    - Vidu ankaŭ {cmila}.
+    glosses:
+    - moki
+  hu:
+    place structure: x1 kigúnyolja/kicsúfolja x2 x3 tulajdonságát/cselekedetét x4
+      tevékenységgel
+    notes:
+    - '(Lásd még: {cmila})'
+    glosses:
+    - kigúnyol
+  ja:
+    place structure: x1 は x2 （者）を x3 （事／性質）について x4 （行為）で嘲る／笑いものにする／ばかにする／ひやかす
+    notes:
+    - ・大意： 嘲る（あざける） ・読み方： シカス  ・関連語： {cmila}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 hånar/förlöjligar/retar/driver med/hånskrattar åt x2 för x3
+      (egenskap/händelse) genom aktivitet x4 (händelse).
+    notes:
+    - Även säger nedsättande kommentarer.
+    - ''
+    - ckasu i sig självt är inte synonymt med kränkning, då kränkning utgår från hur
+      den drabbade känner sig, eller hur stor skada på den personliga integriteten
+      den andras handling har åstadkommit.
+    glosses:
+    - driva med
+    - förlöjliga
+    - håna
+    - x1=hånfull
+    - x2=förlöjligad
+    - x3=förlöjligad för (egenskap/händelse)
+  zh:
+    place structure: x1嘲笑/嘲弄x2，关于性质/事物x3，通过方式/行为x4
+    notes:
+    - 参见 {cmila}.
+    glosses:
+    - No glosses.

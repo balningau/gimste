@@ -1,5 +1,64 @@
-Word: mebri
-Rafsi: meb
-Definition: x1 is a/the brow/forehead [projecting flat/smooth head/body-part] of x2.
-Notes: See also {stedu}, {flira}.
-Examples: None
+word: mebri
+rafsi:
+- meb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the brow/forehead [projecting flat/smooth head/body-part]
+      of x2.
+    notes:
+    - See also {stedu}, {flira}.
+    glosses:
+    - brow
+  de:
+    place structure: x1 ist die Stirn [hervorstehende Fläche/flacher Kopf/Körperteil]
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - Stirn
+  es:
+    place structure: x1 es una frente (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - frente
+  ru:
+    place structure: x1 — лоб (выдающаяся уплощенная/гладкая часть головы/тела) x2
+    notes:
+    - '{stedu} (голова), {flira} (лицо)'
+    glosses:
+    - x1=лоб
+  en-simple:
+    place structure: x1 is a brow or forehead of x2
+    notes:
+    - No notes.
+    glosses:
+    - a brow
+    - x2=something with a brow
+  eo:
+    place structure: x1 estas (la) frunto [elstara plata/glata kapo/korpoparto] de
+      x2
+    notes:
+    - Vidu ankaŭ {stedu}, {flira}.
+    glosses:
+    - frunto
+  hu:
+    place structure: x1 a homloka x2-nek
+    notes:
+    - '(Lásd még: {stedu}, {flira})'
+    glosses:
+    - homlok
+  ja:
+    place structure: x1 は x2 （本体）の額／おでこ
+    notes:
+    - ・大意： 額 ・読み方： メブリ  ・関連語： {stedu}, {flira}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的额头/前额
+    notes:
+    - 参见 {stedu}, {flira}.
+    glosses:
+    - No glosses.

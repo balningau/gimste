@@ -1,8 +1,79 @@
-Word: lidne
-Rafsi: li'e
-Definition: x1 precedes/leads x2 in sequence x3; x1 is former/preceding/previous;
-  x2 is latter/following.
-Notes: Also $x_1$ before, forerunner; leading, as in 'leading indicators'; $x_2$ after,
-  trailing (= {selyli'e} for reordered places).  See also cmavo list {li'e}, {balvi},
-  {ralju}, {rebla}, {purci} for time sequence, {jersi}, {porsi}, {jatna}, {farna}.
-Examples: None
+word: lidne
+rafsi:
+- li'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 precedes/leads x2 in sequence x3; x1 is former/preceding/previous;
+      x2 is latter/following.
+    notes:
+    - Also x1 before, forerunner; leading, as in 'leading indicators'; x2 after, trailing
+      (= {selyli'e} for reordered places).  See also cmavo list {li'e}, {balvi}, {ralju},
+      {rebla}, {purci} for time sequence, {jersi}, {porsi}, {jatna}, {farna}.
+    glosses:
+    - lead (precede)
+    - precede (in sequence)
+  de:
+    place structure: x1 ist vor x2/geht x2 voran in Reihenfolge x3; x1 ist vorheriger/ersterer;
+      x2 ist folgender
+    notes:
+    - No notes.
+    glosses:
+    - vorangehen
+  es:
+    place structure: x1 precede/antecede a x2 en secuencia x3
+    notes:
+    - Ver también {jersi},  {purci}.
+    glosses:
+    - preceder
+  ru:
+    place structure: x1 предшествует x2 в последовательности x3; x1 — предыдущий/предшествующий;
+      x2 — следующий/последующий
+    notes:
+    - 'Также: x1: перед, до, ведущий, лидер, предтеча, предшественник; x2: после,
+      за, замыкающий, хвостовой: {selyli''e} с переставленными местами) {li''e}, {balvi}
+      (позже), {ralju} (главный), {rebla} (хвост), {purci} (раньше) для временн<a>о</a>й
+      последовательности, {jersi} (преследовать), {porsi} (последовательность), {jatna}
+      (лидер), {farna} (направление)'
+    glosses:
+    - предшествовать
+    - x1=предшествующий
+    - x2=то, чему предшествует
+  en-simple:
+    place structure: x1 precedes x2 in sequence x3
+    notes:
+    - No notes.
+    glosses:
+    - a preceder
+    - x2=something preceded
+    - x3=a sequence something precedes in
+  eo:
+    place structure: x1 antaŭas/antaŭiras/malsekvas x2-on en sinsekvo x3; x2 sekvas/postiras
+      x1-on en sinsekvo x3
+    notes:
+    - 'Ankaŭ: x1 antaŭa, antaŭiranto; x2 posta, postiranta, sekvanta (= selyli''e
+      por reordigitaj {lokoj}).  Vidu ankaŭ cmavo {li''e}, {balvi}, {ralju}, {rebla},
+      purci por tempa {sinsekvo}, {jersi}, {porsi}, {jatna}, {farna}.'
+    glosses:
+    - antaŭi
+  hu:
+    place structure: x1 megelőzi x2-t x3 sorozatban
+    notes:
+    - '(Lásd még: {balvi}, {ralju}, {rebla}, {purci}, {jersi}, {porsi}, {jatna}, {farna})'
+    glosses:
+    - megelőz
+  ja:
+    place structure: x1 は x2 を、 x3 （序列）において先行する／先立つ／率先する；  x2 は x1 に続く；  x1 は前者；  x2
+      は後者
+    notes:
+    - ・大意： 先行 ・読み方： ルィドネ ・関連語： {li'e}, {balvi}, {ralju}, {rebla}, {purci}, {jersi},
+      {porsi}, {jatna}, {farna}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1领先于x2/在x2前面，在序列x3中；x1是先前的；x2是随后的
+    notes:
+    - 也指： x1之前的/先驱；x1带领/作为领头人/指导； x2之后的/尾随的 ；参见 {li'e}, {balvi}, {ralju}, {rebla},
+      {purci}用于时间序列, {jersi}, {porsi}, {jatna}, {farna}.
+    glosses:
+    - No glosses.

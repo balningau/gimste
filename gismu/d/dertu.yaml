@@ -1,7 +1,82 @@
-Word: dertu
-Rafsi: der, de'u
-Definition: x1 is a quantity of/contains/is made of dirt/soil/earth/ground from source
-  x2 of composition x3.
-Notes: 'Also: $x_1$ is earthen; $x_3$: composition including $x_3$, which need not
-  be exhaustive of composition.  See also {kliti}, {terdi}, {loldi}.'
-Examples: None
+word: dertu
+rafsi:
+- der
+- de'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of dirt/soil/earth/ground
+      from source x2 of composition x3.
+    notes:
+    - 'Also: x1 is earthen; x3: composition including x3, which need not be exhaustive
+      of composition.  See also {kliti}, {terdi}, {loldi}.'
+    glosses:
+    - dirt
+  de:
+    place structure: x1 ist eine gewisse Menge/enthält/besteht aus Dreck/Erde aus
+      Quelle x2 mit Zusammensatzung unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Dreck
+  es:
+    place structure: x1 es una cantidad de tierra/suelo de origen x2 de composición
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — почва/грунт/земля из источника x2, состава x3
+    notes:
+    - 'x3: в состав входит x3 (не обязательно полное описание состава) {kliti} (глина),
+      {terdi} (земля [планета Земля]), {loldi} (пол [дно])'
+    glosses:
+    - x1=почва
+  en-simple:
+    place structure: x1 is a quantity of soil or dirt from x2 of composition x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of soil
+    - x2=a source of soil
+    - x3=a composition of soil
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el grundo/tero el fonto
+      x2 de konsisto x3
+    notes:
+    - 'Ankaŭ: x1 estas grunda/tera; x3: konsisto inkluzivanta x3-on.  Vidu ankaŭ {kliti},
+      {terdi}, {loldi}.'
+    glosses:
+    - grundo
+  hu:
+    place structure: x1 bizonyos mennyiségű föld/sár/talaj (-t tartalmaz/-ból készült)
+      x2 forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {kliti}, {terdi}, {loldi})'
+    glosses:
+    - föld (talaj)
+  ja:
+    place structure: x1 は x2 （所／起源）・ x3 （成分）の土壌／つち
+    notes:
+    - ・大意： 土壌 ・読み方： デルトゥ  ・関連語： {kliti}, {terdi}, {loldi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är lera/mylla/mull/mark/jord från källa x2 av sammansättning
+      x3.
+    notes:
+    - Även x1 är jordig/jord-.
+    glosses:
+    - mark (geologi (jord))
+    - mylla
+    - x1=jord
+    - x2=jordkälla (ursprung för kvantitet jord)
+    - x3=jordmån (marksammansättning)
+  zh:
+    place structure: x1是/含有土/泥，来源于x2，含有组分x3
+    notes:
+    - x1是土制的；x3不需要详尽包含所有组分；参见 {kliti}, {terdi}, {loldi}.
+    glosses:
+    - No glosses.

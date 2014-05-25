@@ -1,5 +1,75 @@
-Word: gluta
-Rafsi: glu
-Definition: x1 is a mitten/glove [hand and lower arm garment] of material x2.
-Notes: Mitten (= {degycauglu}).  See also {taxfu}.
-Examples: None
+word: gluta
+rafsi:
+- glu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mitten/glove [hand and lower arm garment] of material
+      x2.
+    notes:
+    - Mitten (= {degycauglu}).  See also {taxfu}.
+    glosses:
+    - glove
+  de:
+    place structure: x1 ist ein Handschuh/Fäustling [Bekleidung für Hand und Unterarm]
+      aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Handschuh
+  es:
+    place structure: x1 es un guante/mitón (prenda de vestir) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - guante
+  ru:
+    place structure: x1 — перчатка/рукавица/варежка (одеяние для рук) из материала
+      x2
+    notes:
+    - 'митенка (дамская перчатка без пальцев): {degycauglu} {taxfu} (одежда)'
+    glosses:
+    - перчатка
+  en-simple:
+    place structure: x1 is a glove or mitten of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a glove
+    - x2=a material of a glove
+  eo:
+    place structure: x1 estas ganto [vesto por mano kaj malsupra brako] el materialo
+      x2
+    notes:
+    - Duonganto/miteno (= {degycauglu}).  Vidu ankaŭ {taxfu}.
+    glosses:
+    - ganto
+  hu:
+    place structure: x1 egy kesztyű [kézfejen és esetleg alkaron viselt ruhadarab]
+      x2 anyagból
+    notes:
+    - '(Lásd még: {taxfu})'
+    glosses:
+    - kesztyű
+  ja:
+    place structure: x1 は手袋／グローブ／ミトン
+    notes:
+    - ・大意： 手袋 ・読み方： グルゥタ  ・関連語： {taxfu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en handske/vante/mits [hand-/underarmsklädsel] av material
+      x2.
+    notes:
+    - Tumvante (= {degycauglu}). Se även {taxfu}.
+    glosses:
+    - vante
+    - x1=handske
+    - x2=handskmaterial
+  zh:
+    place structure: x1是由材料x2制成的手套
+    notes:
+    - 露指手套= {degycauglu}； 参见 {taxfu}.
+    glosses:
+    - No glosses.

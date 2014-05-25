@@ -1,9 +1,119 @@
-Word: djuno
-Rafsi: jun, ju'o
-Definition: x1 knows fact(s) x2 (du'u) about subject x3 by epistemology x4.
-Notes: 'Words usable for epistemology typically have a du''u place; know how to -
-  implying knowledge of method but not necessarily having the ability to practice
-  (= {tadjyju''o}). (cf. know/familiar with: se slabu, na''e cnino, na''e fange).  See
-  also cmavo list {du''o}, {krici}, {jinvi}, {cilre}, {certu}, {facki}, {jijnu}, {jimpe},
-  {senpi}, {smadi}, {kakne}, {birti}, {mipri}, {morji}, {saske}, {viska}.'
-Examples: None
+word: djuno
+rafsi:
+- jun
+- ju'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 knows fact(s) x2 (du'u) about subject x3 by epistemology x4.
+    notes:
+    - 'Words usable for epistemology typically have a du''u place; know how to - implying
+      knowledge of method but not necessarily having the ability to practice (= {tadjyju''o}).
+      (cf. know/familiar with: se slabu, na''e cnino, na''e fange).  See also cmavo
+      list {du''o}, {krici}, {jinvi}, {cilre}, {certu}, {facki}, {jijnu}, {jimpe},
+      {senpi}, {smadi}, {kakne}, {birti}, {mipri}, {morji}, {saske}, {viska}.'
+    glosses:
+    - know
+  de:
+    place structure: x1 weiß/kennt den Fakt/die Fakten x2 (du'u) über das Thema x3
+      gemäß Erkenntnistheorie x4
+    notes:
+    - No notes.
+    glosses:
+    - wissen (Faktenwissen)
+  es:
+    place structure: x1 sabe que x2 (du'u) es cierto acerca de x3 por epistemología
+      x4
+    notes:
+    - Ver también {certu}.
+    glosses:
+    - saber
+  fr:
+    place structure: x1 sait x2 (du'u) sur le sujet / domaine x3 par épistémologie
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - connaître
+    - savoir
+  ru:
+    place structure: x1 знает факт(ы) x2 ({du'u}) о предмете x3 в эпистемологии x4;
+      x1 знает, что ({du'u}) x2; ткж. x1 знаком с, x1 (кому) известно
+    notes:
+    - 'Слова, описывающие эпистемологию, обычно имеют место типа {du''u}; «знает,
+      как» — предполагает теоретическое знание способа, но не обязательно практическое
+      умение: {tadjyju''o} знает/знаком с: {se} {slabu} (старый [не новый]), {na''e}
+      {cnino} (новый), {na''e} {fange} (чужой [неродной]); {du''o}, {cilre} (узнавать),
+      {certu} (эксперт), {facki} (открывать [узнавать, находить]), {jijnu} (постигать
+      [интуитивно]), {jimpe} (понимать), {senpi} (сомневаться), {smadi} (догадываться),
+      {kakne} (мочь), {birti} (убежденный [в истинности]), {mipri} (скрывать), {morji}
+      (помнить), {saske} (наука), {viska} (видеть)'
+    glosses:
+    - знать (факт)
+    - x1=знающий (факт)
+    - x2=известное
+  art-guaspi:
+    place structure: \x1 /xou \sa x2 ^su x3
+    notes:
+    - No notes.
+    glosses:
+    - xou
+  en-simple:
+    place structure: x1 knows fact x2 about x3 by epistemology x4
+    notes:
+    - No notes.
+    glosses:
+    - a knower
+    - x2=a fact known
+    - x3=a subject known
+    - x4=an epistemology of knowing
+  eo:
+    place structure: x1 scias fakton x2 (du'u) pri temo x3 laŭ epistemologio x4
+    notes:
+    - 'Vortoj uzeblaj por epistemologio tipe havas du''u-argumenton; scipovi - implicante
+      konon de metodo sed ne nepre kapabli praktiki (= {tadjyju''o}). (kp. koni/familiara
+      kun: se slabu, na''e cnino, na''e fange; cmavo du''o, cilre, certu, facki, jijnu,
+      jimpe, senpi, smadi, kakne, birti, mipri, morji, saske, viska)'
+    glosses:
+    - scii
+  hu:
+    place structure: x1 tudja x2 tény(eke)t x3 tárgyban/-ról, x4 ismeretelmélet szerint
+    notes:
+    - '(Lásd még: {slabu}, {cnino}, {fange}, {cilre}, {certu}, {facki}, {jijnu}, {jimpe},
+      {senpi}, {smadi}, {kakne}, {birti}, {mipri}, {morji}, {saske}, {viska})'
+    glosses:
+    - tud
+  ja:
+    place structure: x1 は x2 （命題）・ x3 （題目）を x4 （認識体系）で知る
+    notes:
+    - ・大意： 知る ・読み方： ヂュノ  ・関連語： {se} {slabu}, {na'e} {cnino}, {na'e} {fange}; {du'o},
+      {cilre}, {certu}, {facki}, {jijnu}, {jimpe}, {senpi}, {smadi}, {kakne}, {birti},
+      {mipri}, {morji}, {saske}, {viska}
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 vet opplysning x2 (du'u) om tema x3 per epistemologi x4
+    notes:
+    - No notes.
+    glosses:
+    - vite
+  sv:
+    place structure: x1 vet/känner till fakta x2 (du'u) om kunskapsområde x3 genom
+      epistemologi x4.
+    notes:
+    - No notes.
+    glosses:
+    - känna till (veta)
+    - x1=veta
+    - x2=fakta (säker kunskap)
+    - x3=kunskapsområde
+    - x4=epistemologi
+  zh:
+    place structure: x1知道x2（du'u），关于主题x3，基于认知论x4
+    notes:
+    - 关于认知论的词都含有du'u位；“知道”只是表示知晓相关的内容，不一定需要实践 (= {tadjyju'o})；参考其它“知道/熟悉”：se {slabu},
+      na'e {cnino}, na'e {fange}；另参见 {du'o}, {krici}, {jinvi}, {cilre}, {certu}, {facki},
+      {jijnu}, {jimpe}, {senpi}, {smadi}, {kakne}, {birti}, {mipri}, {morji}, {saske},
+      {viska}.
+    glosses:
+    - No glosses.

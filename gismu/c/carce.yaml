@@ -1,6 +1,78 @@
-Word: carce
-Rafsi: ''
-Definition: x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled
-  by x3.
-Notes: See also {karce}, {xislu}, {marce}, {matra}.
-Examples: None
+word: carce
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2,
+      propelled by x3.
+    notes:
+    - See also {karce}, {xislu}, {marce}, {matra}.
+    glosses:
+    - cart
+  de:
+    place structure: x1 ist ein Karren/eine Karre/ein Wagen/Wagon [Gefährt mit Rädern]
+      zur Beförderung von x2 mit Antrieb x3
+    notes:
+    - No notes.
+    glosses:
+    - Karren
+  es:
+    place structure: x1 es un carro/carroza/carruaje/carreta/vagón (vehículo con ruedas)
+      para pasajeros/carga x2, propelido/impulsado por x3
+    notes:
+    - No notes.
+    glosses:
+    - carro
+  ru:
+    place structure: x1 — повозка/телега/вагон/карета (колесный экипаж) для перевозки
+      x2 (чего), движимая x3 (чем)
+    notes:
+    - '{karce} (автомобиль), {xislu} (колесо), {marce} (транспорт), {matra} (мотор)'
+    glosses:
+    - телега
+  en-simple:
+    place structure: x1 is a carriage or wagon for carrying x2 propelled by x3
+    notes:
+    - No notes.
+    glosses:
+    - a carriage
+    - x2=something carried by a carriage
+    - x3=a carriage's propulsion
+  eo:
+    place structure: x1 estas ĉaro/kaleŝo/vagono [rada veturilo] por porti x2-on,
+      pelita de x3
+    notes:
+    - Vidu ankaŭ {karce}, {xislu}, {marce}, {matra}.
+    glosses:
+    - ĉaro
+  hu:
+    place structure: x1 egy kocsi/vagon/talicska x2 szállítására, x3 meghajtással
+    notes:
+    - '(Lásd még: {karce}, {xislu}, {marce}, {matra})'
+    glosses:
+    - kocsi
+  ja:
+    place structure: x1 は x2 （荷）を運ぶ、 x3 （原動力）による荷車／小型運搬車／手押し車／農耕車／ショッピングカート
+    notes:
+    - ・大意： 荷車 ・読み方： シャルシェ  ・語呂合わせ： ＜シャープなシェイプ＞, ce(車), kart ・関連語： {karce}, {xislu},
+      {marce}, {matra}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en vagn/kärra/skrinda [fordon med hjul] för transport av
+      x2 som drivs med x3.
+    notes:
+    - No notes.
+    glosses:
+    - kärra
+    - x1=vagn
+    - x2=vagnslast
+    - x3=vagnsdrivmedel
+  zh:
+    place structure: x1是车，为了运输x2，由x3驱动
+    notes:
+    - 参见 {karce}, {xislu}, {marce}, {matra}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,104 @@
-Word: batci
-Rafsi: bat
-Definition: x1 bites/pinches x2 on/at specific locus x3 with x4.
-Notes: Bite through (= {ka'arbatci}, {batygre}); pinch (= {cinzybatci}).  See also
-  {denci}, {jgalu}, {guska}, {citka}.
-Examples: None
+word: batci
+rafsi:
+- bat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 bites/pinches x2 on/at specific locus x3 with x4.
+    notes:
+    - Bite through (= {ka'arbatci}, {batygre}); pinch (= {cinzybatci}).  See also
+      {denci}, {jgalu}, {guska}, {citka}.
+    glosses:
+    - bite
+  jbo:
+    place structure: x1 gasnu lo nu x4 noi pagbu x1 cu tunta x3 noi pagbu x2
+    notes:
+    - '{tunta}, {denci}, {jgalu}, {guska}, {citka}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 beißt/kneift/zwickt x2 an der Stelle x3 mit x4
+    notes:
+    - Siehe auch {denci}, {jgalu}, {guska}, {citka}.
+    glosses:
+    - beißen
+    - x3=Bissstelle
+  es:
+    place structure: x1 muerde/pellizca a x2 en x3 con x4
+    notes:
+    - No notes.
+    glosses:
+    - morder
+  fr:
+    place structure: x1 mord/pince x2 à (spécifique) x3 avec (dents/doigts) x4.
+    notes:
+    - '"Mordre au travers de" = {ka''arbatci}, {batygre}; "pincer" = {cinzybatci};
+      Voir également {denci}, {jgalu}, {guska}, {citka}.'
+    glosses:
+    - mordre
+    - pincer
+  ru:
+    place structure: x1 кусает/щиплет x2 (кого/что) в/за x3 (участок) x4 (чем)
+    notes:
+    - 'Прокусывать: {ka''arbatci}, {batygre}; щипать: {cinzybatci} {denci} (зуб),
+      {jgalu} (коготь), {guska} (соскабливать), {citka} (есть)'
+    glosses:
+    - x1=кусать
+    - x2=кусаемый
+    - x3=место кусания
+  en-simple:
+    place structure: x1 bites or pinches x2 on or at x3 with x4
+    notes:
+    - No notes.
+    glosses:
+    - a biter
+    - x2=something bitten
+    - x3=an area being bitten
+    - x4=something used to bite
+  eo:
+    place structure: x1 mordas/pinĉas x2-on je specifa loko x3 per x4
+    notes:
+    - Tramordi (= {ka'arbatci}, {batygre}); pinĉi (= {cinzybatci}).  Vidu ankaŭ {denci},
+      {jgalu}, {guska}, {citka}.
+    glosses:
+    - mordi
+  hu:
+    place structure: x1 megharapja/megcsípi x2-t x3 ponton, x4-vel
+    notes:
+    - '(Lásd még: {cinza}, {denci}, {jgalu}, {guska}, {citka})'
+    glosses:
+    - harap
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）を x4 で噛む
+    notes:
+    - 「lo te batci be fa lo since co'a punli／蛇に噛まれたところが腫れてきた」 ・大意： 噛む ・読み方： バチ  ・語呂合わせ：
+      ＜ばっちい＞, バチンバチン, bite ・関連語： {denci}, {jgalu}, {guska}, {citka}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 biter/klemmer/trykker på x2 ved spesifikt punkt x3 med x4
+    notes:
+    - Se også {denci}, {jgalu}, {guska}, {citka}, {jgari}, {zalvi}, {cinza}, {katna}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 biter/klämmer x2 på specifikt ställe x3 medelst x4.
+    notes:
+    - Bita igenom (={batygre}); nypa (={cinzybatci}). Se även {denci}, {jgalu}, {guska},
+      {citka}.
+    glosses:
+    - bita
+    - bitsk
+    - klämd
+    - klämma (greppa hårt)
+    - x1=bitare
+    - x2=biten
+    - x3=bettställe
+    - x4=bitredskap (bita)
+  zh:
+    place structure: x1咬/钳/勒紧x2，在特定的部位x3，用的工具/道具是x4
+    notes:
+    - 咬穿={ka'arbatci}/{batygre}；勒/钳={cinzybatci}；参见 {denci}, {jgalu}, {guska}, {citka}.
+    glosses:
+    - No glosses.

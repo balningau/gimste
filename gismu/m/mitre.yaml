@@ -1,8 +1,83 @@
-Word: mitre
-Rafsi: tre
-Definition: x1 is x2 meter(s) [metric unit] in length (default 1) measured in direction
-  x3 by standard x4.
-Notes: See also {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
-  {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti},
-  {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: mitre
+rafsi:
+- tre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 meter(s) [metric unit] in length (default 1) measured
+      in direction x3 by standard x4.
+    notes:
+    - See also {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - meter
+  de:
+    place structure: 'x1 ist x2 Meter [metrische Einheit] lang (Default: 1), gemessen
+      in Richtung x3 gemäß Standard x4'
+    notes:
+    - No notes.
+    glosses:
+    - Meter
+  es:
+    place structure: x1 mide x2 metros de largo (1 por defecto) en dirección x3 según
+      estándar x4
+    notes:
+    - No notes.
+    glosses:
+    - metro
+  ru:
+    place structure: x1 измеряется x2 (по умолчанию 1) метрами в x3 (напр., в длину)
+    notes:
+    - См. {kilto} - 'кило', {centi} - 'санти', {decti} - 'десятый [доля 1/10]', {dekto}
+      - 'дека', {femti} - 'фемто', {gigdo} - 'гига', {gocti} - 'йокто', {gotro} -
+      'йотта', {gutci} - 'измеряться [в футах/дюймах и пр.]', {litce} - 'литр', {megdo}
+      - 'мега', {mikri} - 'микро', {milti} - 'милли', {minli} - 'миля', {nanvi} -
+      'нано', {petso} - 'пета', {picti} - 'пико', {terto} - 'тера', {xatsi} - 'атто',
+      {xecto} - 'гекто', {xexso} - 'экса', {zepti} - 'зепто', {zetro} - 'зетта'
+    glosses:
+    - метр
+  en-simple:
+    place structure: x1 is x2 meters in direction x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in metres
+    - x2=a number of metres
+    - x3=a metre direction
+    - x4=a metre standard
+  eo:
+    place structure: x1 estas x2 metroj [metra unuo] en longeco (defaŭlte 1) mezurita
+      en direkto x3 laŭ normo x4
+    notes:
+    - Vidu ankaŭ {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - metro
+  hu:
+    place structure: x1 hossza x2 [alapesetben 1] méter x3 irányban mérve, x4 mérce
+      szerint
+    notes:
+    - '(Lásd még: {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro},
+      {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - méter
+  ja:
+    place structure: x1 は x2 （数量）・ x3 （方向）・ x4 （基準）のメートル；  x1 は x2 メートル
+    notes:
+    - ・大意： メートル ・読み方： ミトレ  ・関連語： {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi},
+      {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在长度上，x1是x2米的（公制单位，默认为1），在方向x3上测量，基于标准x4
+    notes:
+    - 参见 {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci},
+      {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

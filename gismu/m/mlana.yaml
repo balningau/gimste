@@ -1,8 +1,77 @@
-Word: mlana
-Rafsi: mla
-Definition: x1 is to the side of/lateral to x2 and facing x3 from point of view/in-frame-of-reference
-  x4.
-Notes: (cf. {crane}, {trixe}, {pritu}, {zunle} which differ in that the direction
-  of facing is the front and not the lateral side.  The $x_4$ of mlana may be either
-  the front, or back side of $x_2$, {korbi})
-Examples: None
+word: mlana
+rafsi:
+- mla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is to the side of/lateral to x2 and facing x3 from point of
+      view/in-frame-of-reference x4.
+    notes:
+    - (cf. {crane}, {trixe}, {pritu}, {zunle} which differ in that the direction of
+      facing is the front and not the lateral side.  The x4 of mlana may be either
+      the front, or back side of x2, {korbi})
+    glosses:
+    - side (directional)
+  de:
+    place structure: x1 ist an der Seite/seitlich von x2 und steht x3 gegenüber von
+      Perspektive/Bezugsrahmen x4
+    notes:
+    - No notes.
+    glosses:
+    - seitlich
+  es:
+    place structure: x1 es un lado/lateral de x2 hacia dirección x3 en marco de referencia
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - lado
+  ru:
+    place structure: x1 находится в стороне/сбоку от x2 для (воображаемого) наблюдателя,
+      смотрящего в сторону x3 (внешний объект) от/в системе отсчета x4 (участок x2)
+    notes:
+    - '{crane} (перед), {trixe} (сзади), {pritu} (справа), {zunle} (слева), для которых
+      x2 обращено к x3 передней стороной, в то время как для {mlana} (сбоку) x4 может
+      как быть передняя, так и задняя сторона x2, или специфический участок, угол
+      ({korbi} (край))'
+    glosses:
+    - x1=сбоку
+  en-simple:
+    place structure: x1 is aside x2, facing x3, in reference frame x4
+    notes:
+    - No notes.
+    glosses:
+    - something aside something
+    - x2=something to which something is aside
+    - x3=a direction something aside is facing
+    - x4=a reference frame in which something is aside
+  eo:
+    place structure: x1 estas flanke de x2 kaj fronte al x3 el vidpunkto/referenckadro
+      x4
+    notes:
+    - (kp. crane, trixe, pritu, zunle kiu diferencas je tio, ke la direkto de alfrontado
+      estas la fronta kaj ne la latera flanko. La x4 de mlana povas esti la fronta
+      aŭ malfronta flanko de x2, korbi)
+    glosses:
+    - flanko
+  hu:
+    place structure: x1 az oldalán/a szélén/mellette van x2-nek és x3 felé néz, x4
+      nézőpontból/vonatkoztatási rendszerben
+    notes:
+    - '(Lásd még: {crane}, {trixe}, {pritu}, {zunle}, {korbi})'
+    glosses:
+    - oldalsó
+  ja:
+    place structure: x1 は x2 の脇／側（がわ）（にある／いる）
+    notes:
+    - ・大意： 側（がわ） ・読み方： ムルァナ  ・語呂合わせ： 村な側 ・関連語： {crane}, {trixe}, {pritu}, {zunle},
+      {mlana}, {korbi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在x2旁边/侧边，面向x3，在观察点x4看来/基于参考系x4
+    notes:
+    - x4可以是x2的正面，也可以是背面；参见 {crane}, {trixe}, {pritu}, {zunle}, {korbi}
+    glosses:
+    - No glosses.

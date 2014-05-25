@@ -1,6 +1,72 @@
-Word: cpina
-Rafsi: ''
-Definition: x1 is pungent/piquant/peppery/spicy/irritating to sense x2.
-Notes: Also prickly (= {pecycpina}).  See also {vrusi}, {kukte}, {cidja}, {panci},
-  {sumne}.
-Examples: None
+word: cpina
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is pungent/piquant/peppery/spicy/irritating to sense x2.
+    notes:
+    - Also prickly (= {pecycpina}).  See also {vrusi}, {kukte}, {cidja}, {panci},
+      {sumne}.
+    glosses:
+    - pungent
+  de:
+    place structure: x1 ist stechend/scharf/pikant/würzig/irritierend für Sinn x2
+    notes:
+    - No notes.
+    glosses:
+    - stechend
+  es:
+    place structure: x1 es picante/sazonado/especiado al sentido x2
+    notes:
+    - No notes.
+    glosses:
+    - picante
+  ru:
+    place structure: x1 — резкий/«острый»/раздражающий для чувства x2
+    notes:
+    - 'Колючий: {pecycpina} {vrusi} (вкус), {kukte} (вкусный), {cidja} (пища), {panci}
+      (запах), {sumne} (обонять)'
+    glosses:
+    - x1=острый (раздражающий)
+  en-simple:
+    place structure: x1 is pungent or irritating to sense x2
+    notes:
+    - No notes.
+    glosses:
+    - something pungent
+    - x2=a sense something is pungent to
+  eo:
+    place structure: x1 estas pikanta/pipra/spica/jukiga/agaca al senso x2
+    notes:
+    - 'Ankaŭ: pika (= {pecycpina}).  Vidu ankaŭ {vrusi}, {kukte}, {cidja}, {panci},
+      {sumne}.'
+    glosses:
+    - pikanta
+  hu:
+    place structure: x1 irritáló/kellemetlen (csípős/szúrós/fülsértő stb.) x2 érzékszervnek
+    notes:
+    - '(Lásd még: {vrusi}, {kukte}, {cidja}, {panci}, {sumne})'
+    glosses:
+    - irritáló
+  ja:
+    place structure: x1 は x2 （味覚者）にとってからい／スパイシー
+    notes:
+    - ・大意： 辛い（からい） ・読み方： シピナ  ・関連語： {vrusi}, {kukte}, {cidja}, {panci}, {sumne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är skarp/stickande/frän/pikant/kryddstark/irriterar sinnen
+      x2.
+    notes:
+    - Även irriterande vid beröring (={pecyspina}).
+    glosses:
+    - x1=irriterande (irriterar sinnesorgan(/hud))
+    - x2=irriterat sinnesorgan
+  zh:
+    place structure: x1是辣的，对于感官x2
+    notes:
+    - 让人刺痛的={pecycpina}；参见 {vrusi}, {kukte}, {cidja}, {panci}, {sumne}.
+    glosses:
+    - No glosses.

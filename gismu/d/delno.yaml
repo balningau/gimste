@@ -1,8 +1,91 @@
-Word: delno
-Rafsi: del, de'o
-Definition: x1 is x2 candela [metric unit] in luminosity (default is 1) by standard
-  x3.
-Notes: See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
-  {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
-  {xexso}, {zepti}, {zetro}.
-Examples: None
+word: delno
+rafsi:
+- del
+- de'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 candela [metric unit] in luminosity (default is 1) by
+      standard x3.
+    notes:
+    - See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - candela
+  de:
+    place structure: 'x1 ist x2 Candela [metrische Einheit] in Leuchtkraft (Default:
+      1) gemäß Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Candela
+  es:
+    place structure: x1 tiene luminosidad de x2 candela(s) (1 por defecto) según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - candela
+  ru:
+    place structure: x1 имеет светимость x2 (по умолчанию 1) кандел (метрическая единица)
+      по стандарту x3
+    notes:
+    - '{centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто),
+      {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега),
+      {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико),
+      {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто),
+      {zetro} (зетта)'
+    glosses:
+    - светиться
+    - x1=светящийся
+    - x2=кандел
+  en-simple:
+    place structure: x1 is x2 candela in luminosity
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in candela
+    - x2=an amount of candela
+    - x3=a candela standard
+  eo:
+    place structure: x1 estas x2 kandelaoj [metra unuo] en lumeco (defaŭlte 1) laŭ
+      normo x3
+    notes:
+    - Vidu ankaŭ {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro}.
+    glosses:
+    - kandelao
+  hu:
+    place structure: x1 fényerőssége x2 kandela, x3 mérce szerint
+    notes:
+    - '(Lásd még: {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto},
+      {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto},
+      {xexso}, {zepti}, {zetro})'
+    glosses:
+    - kandela
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のカンデラ／光度
+    notes:
+    - ・大意： カンデラ ・読み方： デルゥノ  ・関連語： {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 candela [metrisk enhet] luminositet (1 om inget annat
+      anges) enligt standard x3.
+    notes:
+    - No notes.
+    glosses:
+    - lysa (med x2 candela)
+  zh:
+    place structure: x1是x2个（默认1）发光强度单位的光量，基于标准x3
+    notes:
+    - 参见 {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo},
+      {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso},
+      {zepti}, {zetro}.
+    glosses:
+    - No glosses.

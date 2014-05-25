@@ -1,7 +1,73 @@
-Word: jgena
-Rafsi: jge
-Definition: x1 is a knot/tangle in/between x2 (object/jo'u-objects).
-Notes: 'Knot (verb = {jgegau}, {jgezu''e}, {jgeri''a}, {jgela''a}), knot: fastening
-  between two or more cords (= {jgeterjo''e}).  See also {pluja}, {julne}, {lasna},
-  {skori}.'
-Examples: None
+word: jgena
+rafsi:
+- jge
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a knot/tangle in/between x2 (object/jo'u-objects).
+    notes:
+    - 'Knot (verb = {jgegau}, {jgezu''e}, {jgeri''a}, {jgela''a}), knot: fastening
+      between two or more cords (= {jgeterjo''e}).  See also {pluja}, {julne}, {lasna},
+      {skori}.'
+    glosses:
+    - knot
+  de:
+    place structure: x1 ist ein Knoten/Gewirr von/zwischen x2 (Objekt/jo'u-Objekte)
+    notes:
+    - No notes.
+    glosses:
+    - Knoten
+  es:
+    place structure: x1 es un nudo/maraña entre x2
+    notes:
+    - No notes.
+    glosses:
+    - nudo
+  fr:
+    place structure: x1 est un noeud dans/entre x2 (objet/jo'u-objets).
+    notes:
+    - Voir aussi {pluja}, {julne}, {lasna}, {skori}.
+    glosses:
+    - x1=noeud
+  ru:
+    place structure: 'x1 — узел/сплетение/переплетение x2 (из чего/чего: объект/{jo''u}-объекты)'
+    notes:
+    - 'Завязывать/связывать: {jgegau}, {jgezu''e}, {jgeri''a}, привязывать: {jgela''a};
+      узел: сплетение двух или более прядей: {jgeterjo''e} {pluja} (сложный [замысловатый]),
+      {julne} (сеть [сито]), {lasna} (прикреплять), {skori} (веревка)'
+    glosses:
+    - узел
+  en-simple:
+    place structure: x1 is a knot in x2
+    notes:
+    - No notes.
+    glosses:
+    - a knot
+    - x2=something with a knot
+  eo:
+    place structure: x1 estas nodo inter x2 (objekto/jo'u-objektoj)
+    notes:
+    - 'Nodi (jgegau, jgezu''e, jgeri''a, jgela''a), nodo: kunliga interplektaĵo inter
+      du aŭ pli ŝnuroj (= {jgeterjo''e}).  Vidu ankaŭ {pluja}, {julne}, {lasna}, {skori}.'
+    glosses:
+    - nodo
+  hu:
+    place structure: x1 egy csomó/bog x2-n / x2 között
+    notes:
+    - '(Lásd még: {pluja}, {julne}, {lasna}, {skori})'
+    glosses:
+    - csomó
+  ja:
+    place structure: x1 は x2 （物）の（間の）結び目／もつれ／こぶ
+    notes:
+    - ・大意： 結び目 ・読み方： ジゲナ  ・語呂合わせ： 地毛なもつれ ・関連語： {pluja}, {julne}, {lasna}, {skori}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2（物体/jo'u物体）之间的结/纠缠/绞缠/绳结
+    notes:
+    - 打结={jgegau}/{jgezu'e}/{jgeri'a}/{jgela'a}；结点= {jgeterjo'e}；参见 {pluja}, {julne},
+      {lasna}, {skori}.
+    glosses:
+    - No glosses.

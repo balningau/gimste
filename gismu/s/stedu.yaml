@@ -1,6 +1,66 @@
-Word: stedu
-Rafsi: sed
-Definition: 'x1 is a/the head [body-part] of x2; [metaphor: uppermost portion].'
-Notes: Skull (= {sedbo'u}).  See also {drudi}, {mebri}, {xedja}, {besna}, {flira},
-  {mapku}.
-Examples: None
+word: stedu
+rafsi:
+- sed
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the head [body-part] of x2; [metaphor: uppermost portion].'
+    notes:
+    - Skull (= {sedbo'u}).  See also {drudi}, {mebri}, {xedja}, {besna}, {flira},
+      {mapku}.
+    glosses:
+    - head
+  de:
+    place structure: 'x1 ist ein/der Kopf [Körperteil] von x2; [im übertragenen Sinn:
+      der oberste Teil]'
+    notes:
+    - No notes.
+    glosses:
+    - Kopf
+  es:
+    place structure: x1 es una cabeza (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - cabeza
+  ru:
+    place structure: x1 — голова (часть тела) x2
+    notes:
+    - 'Метафора: верхняя часть; череп: {sedbo''u} {drudi} (крыша), {mebri} (лоб),
+      {xedja} (челюсть), {besna} (мозг), {flira} (лицо), {mapku} (шапка)'
+    glosses:
+    - x1=голова
+  en-simple:
+    place structure: x1 is a head of x2
+    notes:
+    - No notes.
+    glosses:
+    - a head
+    - x2=something with a head
+  eo:
+    place structure: 'x1 estas (la) kapo [korpoparto] de x2; [metafore: plej supra
+      porcio]'
+    notes:
+    - Kranio (= {sedbo'u}).  Vidu ankaŭ {drudi}, {mebri}, {xedja}, {besna}, {flira},
+      {mapku}.
+    glosses:
+    - kapo
+  hu:
+    place structure: x1 egy/a feje x2-nek
+    notes:
+    - '(Lásd még: {drudi}, {mebri}, {xedja}, {besna}, {flira}, {mapku})'
+    glosses:
+    - fej
+  ja:
+    place structure: x1 は x2 （本体）の頭／頭部
+    notes:
+    - ・大意： 頭 ・読み方： ステドゥ  ・関連語： {drudi}, {mebri}, {xedja}, {besna}, {flira}, {mapku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是头（身体部位）
+    notes:
+    - 骷髅头= {sedbo'u}；参见 {drudi}, {mebri}, {xedja}, {besna}, {flira}, {mapku}.
+    glosses:
+    - No glosses.

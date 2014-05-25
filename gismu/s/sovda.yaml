@@ -1,12 +1,88 @@
-Word: sovda
-Rafsi: sov, so'a
-Definition: x1 is an egg/ovum/sperm/pollen/gamete of/from organism [mother/father]
-  x2.
-Notes: '(poorly metaphorical only due to gender- and species- being unspecified):
-  ovoid, oblate (= {pevyso''aseltai}, but better: {claboi}); egg, specifically female
-  (= {fetso''a}), of a bird (= {cpifetso''a}, {cpiso''a}), of a chicken (= {jipcyfetso''a},
-  {jipcyso''a}. (but note that Lojban does not require specificity, just as English
-  doesn''t for either milk or eggs; "sovda" is fine for most contexts); If fertilized,
-  then {tsiju} or {tarbi}.  (cf. {ganti}, {gutra}, {mamta}, {patfu}, {rorci}, {tsiju},
-  {lanbi}, {tarbi}; also {djine}, {konju} for shape, {tarbi})'
-Examples: None
+word: sovda
+rafsi:
+- sov
+- so'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an egg/ovum/sperm/pollen/gamete of/from organism [mother/father]
+      x2.
+    notes:
+    - '(poorly metaphorical only due to gender- and species- being unspecified): ovoid,
+      oblate (= {pevyso''aseltai}, but better: {claboi}); egg, specifically female
+      (= {fetso''a}), of a bird (= {cpifetso''a}, {cpiso''a}), of a chicken (= {jipcyfetso''a},
+      {jipcyso''a}. (but note that Lojban does not require specificity, just as English
+      doesn''t for either milk or eggs; "sovda" is fine for most contexts); If fertilized,
+      then {tsiju} or {tarbi}.  (cf. {ganti}, {gutra}, {mamta}, {patfu}, {rorci},
+      {tsiju}, {lanbi}, {tarbi}; also {djine}, {konju} for shape, {tarbi})'
+    glosses:
+    - egg
+  de:
+    place structure: x1 ist ein Ei/eine Eizelle/Keimzelle/ein Spermium/Pollen von/aus
+      Organismus [Mutter/Vater] x2
+    notes:
+    - No notes.
+    glosses:
+    - Ei
+  es:
+    place structure: x1 es un huevo de organismo/madre x2
+    notes:
+    - Ver también {tarbi}.
+    glosses:
+    - huevo
+  ru:
+    place structure: x1 — яйцо/яйцеклетка/сперматозоид/пыльца/гамета организма (отец/мать)
+      x2
+    notes:
+    - 'Метафорическое использование не рекомендуется ввиду неопределенности пола и
+      вида: овоид, вытянутый сфероид: {pevyso''aseltai}, но лучше: {claboi}; женская
+      яйцеклетка: {fetso''a}, птичье яйцо: {cpifetso''a}, {cpiso''a}, куриное яйцо:
+      {jipcyfetso''a}, {jipcyso''a} — хотя просто [sovda] достаточно для большинства
+      случаев; оплодотворенное яйцо: {tsiju} или {tarbi} {ganti} (яичко [анатомия]),
+      {gutra} (матка [анатомия]), {mamta} (мать), {patfu} (отец), {rorci} (порождать),
+      {tsiju} (семя [зерно]), {lanbi} (белок), {tarbi} (эмбрион); ткж. {djine} (кольцо),
+      {konju} (конус) для описания формы, {tarbi} (эмбрион)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is an egg from organism x2
+    notes:
+    - No notes.
+    glosses:
+    - an egg
+    - x2=something that makes an egg
+  eo:
+    place structure: x1 estas ovo/spermo/poleno/gameto de/el organismo [patrino/patro]
+      x2
+    notes:
+    - '(nur malbona metaforo pro nespecifo de sekso kaj specio): ovoforma (= pevyso''aseltai,
+      sed prefere: claboi); ovo, specife ina (= {fetso''a}), de birdo (= {cpifetso''a},
+      {cpiso''a}), de kokino (= jipcyfetso''a, jipcyso''a. (sed rimarku ke loĵbano
+      ne postulas specifecon, same kiel esperanto por lakto aŭ ovoj; sovda funkcias
+      en plejmultaj kontekstoj); Se fekundigita, do tsiju aŭ tarbi.  (kp. ganti, gutra,
+      mamta, patfu, rorci, tsiju, lanbi, tarbi; ankaŭ djine, konju por formo, tarbi)'
+    glosses:
+    - ovo
+  hu:
+    place structure: x1 egy tojás/pete/ikra/virágpor/ivarsejt x2 szervezetből
+    notes:
+    - '(Lásd még: {ganti}, {gutra}, {mamta}, {patfu}, {rorci}, {tsiju}, {lanbi}, {tarbi},
+      {djine}, {konju})'
+    glosses:
+    - tojás
+  ja:
+    place structure: x1 は x2 （生体）の卵／卵子／花粉／配偶子
+    notes:
+    - x2 は「父／母」も。 ・大意： 卵 ・読み方： ソヴダ  ・語呂合わせ： ソヴダ、卵を食べよう ・関連語： {ganti}, {gutra}, {mamta},
+      {patfu}, {rorci}, {tsiju}, {lanbi}, {tarbi}; {djine}, {konju}, {tarbi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是生殖细胞/配偶子（如：卵子/精子/花粉/禽蛋等），来自有机体x2
+    notes:
+    - 卵形的= {pevyso'aseltai}/{claboi}，卵/卵子= {fetso'a}，禽蛋= {cpifetso'a}/{cpiso'a}，鸡蛋={jipcyfetso'a}/{jipcyso'a}；如果已经受精，可使用
+      {tsiju}/{tarbi}；参见 {ganti}, {gutra}, {mamta}, {patfu}, {rorci}, {tsiju}, {lanbi},
+      {tarbi}, {djine}, {konju}, {tarbi}
+    glosses:
+    - No glosses.

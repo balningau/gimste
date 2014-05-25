@@ -1,10 +1,99 @@
-Word: cirko
-Rafsi: cri
-Definition: x1 loses person/thing x2 at/near x3; x1 loses property/feature x2 in conditions/situation
-  x3.
-Notes: $x_2$ may be a specific object, a commodity (mass), an event (rare for cirko),
-  or a property; pedantically, for objects/commodities, this is sumti-raising from
-  ownership of the object/commodity (= {po'ecri}, {posyselcri} for unambiguous semantics).  See
-  also {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma},
-  {binra}, {mipri}.
-Examples: None
+word: cirko
+rafsi:
+- cri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 loses person/thing x2 at/near x3; x1 loses property/feature
+      x2 in conditions/situation x3.
+    notes:
+    - x2 may be a specific object, a commodity (mass), an event (rare for cirko),
+      or a property; pedantically, for objects/commodities, this is sumti-raising
+      from ownership of the object/commodity (= {po'ecri}, {posyselcri} for unambiguous
+      semantics).  See also {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji},
+      {canja}, {sfasa}, {dapma}, {binra}, {mipri}.
+    glosses:
+    - lose
+    - x1=loss (something lost)
+  de:
+    place structure: x1 verliert Person/Gegenstand x2 bei/in der Nähe von x3 (aus
+      den Augen); x1 verliert Eigenschaft/Merkmal x2 in Umständen/Situation x3
+    notes:
+    - No notes.
+    glosses:
+    - verlieren
+  es:
+    place structure: x1 pierde x2 en/cerca de x3
+    notes:
+    - Ver también {penmi},  {ralte},  {sisku},  {claxu}.
+    glosses:
+    - perder
+  ru:
+    place structure: x1 теряет/утрачивает вещь/лицо x2 в/возле x3; x1 теряет/утрачивает
+      свойство/черту x2 в условиях/ситуации x3
+    notes:
+    - 'x2 м.б. конкретным объектом, товаром (масса), событием (маловероятно для [cirko])
+      или свойством; строго говоря, для объектов/товаров мы имеем дело с подъемом
+      sumti от владения объектом/товаром: {po''ecri}, {posyselcri} для однозначной
+      семантики) {facki} (открывать [узнавать, находить]), {ralte} (удерживать), {sisku}
+      (искать), {claxu} (без), {jinga} (выигрывать [побеждать]), {pleji} (платить),
+      {canja} (обменивать), {sfasa} (наказывать), {dapma} (проклинать), {binra} (страховать),
+      {mipri} (скрывать)'
+    glosses:
+    - терять
+    - x1=теряющий
+  en-simple:
+    place structure: x1 loses x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - a loser of something
+    - x2=something lost
+    - x3=a place or condition of loss
+  eo:
+    place structure: x1 perdas homon/aĵon x2 je/proksime de x3; x1 perdas econ/trajton
+      x2 sub condiĉoj/situacio x3
+    notes:
+    - x2 povas esti specifa objekto, varo (kolektivaĵo), okazo (malofta por cirko),
+      aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de
+      la objekto/varo (= {po'ecri}, posyselcri por neambigua {semantiko}).  Vidu ankaŭ
+      {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma},
+      {binra}, {mipri}.
+    glosses:
+    - perdi
+  hu:
+    place structure: x1 elveszíti x2 tárgyat/személyt/tulajdonságot/képességet x3
+      helyen/helyzetben/körülmények között
+    notes:
+    - '(Lásd még: {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa},
+      {dapma}, {binra}, {mipri})'
+    glosses:
+    - elveszít
+  ja:
+    place structure: x1 は x2 （物／者）を x3 （所）で失う；  x1 は x2 （性質）を x3 （状況）で失う
+    notes:
+    - 「見失う」も。 ・大意： 失う ・読み方： シルコ  ・語呂合わせ： 汁粉を失う ・関連語： {facki}, {ralte}, {sisku}, {claxu},
+      {jinga}, {pleji}, {canja}, {sfasa}, {dapma}, {binra}, {mipri}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 förlorar person/sak x2 vid/nära x3; x1 förlorar egenskap/kännetecken
+      x2 under omständigheter/situation x3.
+    notes:
+    - x2 kan vara ett specifikt objekt, varor/nyttighet (massa), en händelse (sällsynt
+      för cirko), eller en egenskap; för att vara pedantisk så är detta sumti-höjande
+      från ägarskap för föremål/varor.
+    glosses:
+    - förlora (bli av med)
+    - x1=förlustdrabbad
+    - x2=förlust (något som en blivit av med)
+    - x3=förlustställe (där en blev av med något)
+  zh:
+    place structure: x1失去/丢失了x2（人/物），在位置x3；x1失去/脱离状态/特征x2，在条件/情形x3下
+    notes:
+    - x2可指特定的物体，商品（团体），事件（使用较少），或性质；涉及到所有权的“丢失”={po'ecri}时，丢失的物品/商品={posyselcri}；参见
+      {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma},
+      {binra}, {mipri}.
+    glosses:
+    - No glosses.

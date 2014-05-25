@@ -1,7 +1,83 @@
-Word: stika
-Rafsi: tik
-Definition: x1 (event) adjusts/regulates/changes x2 (ka/ni) in amount/degree x3.
-Notes: Non-resultative, causal change; agentive adjust (= {tikygau}, {tikyzu'e}).  See
-  also {cenba} which need not be causal, {galfi} which is causal and resultative,
-  {binxo} which need not be causal but is resultative, {zasni}, {stodi}.
-Examples: None
+word: stika
+rafsi:
+- tik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) adjusts/regulates/changes x2 (ka/ni) in amount/degree
+      x3.
+    notes:
+    - Non-resultative, causal change; agentive adjust (= {tikygau}, {tikyzu'e}).  See
+      also {cenba} which need not be causal, {galfi} which is causal and resultative,
+      {binxo} which need not be causal but is resultative, {zasni}, {stodi}.
+    glosses:
+    - adjust
+  jbo:
+    place structure: x1 gasnu lo nu x2 cenba fi x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Ereignis) passt an/gleicht an/reguliert/verändert x2 (ka/ni)
+      in/um Menge/Grad x3
+    notes:
+    - No notes.
+    glosses:
+    - anpassen
+  es:
+    place structure: x1 (evento) ajusta/cambia x2 (propiedad) en cantidad/grado x3
+    notes:
+    - Ver también {cenba},  {galfi},  {binxo},  {zasni}.
+    glosses:
+    - ajustar
+  ru:
+    place structure: x1 регулирует/настраивает/изменяет x2 ({ka}/{ni}) в пределах
+      x3
+    notes:
+    - Нерезультативное, деятельное изменение {cenba} (изменчивый [в свойстве]) (не
+      нуждается в деятеле), {galfi} (изменять) (есть деятель, есть результат), {binxo}
+      (становиться) (результативное изменение, в отсутствие деятеля), {zasni} (временный),
+      {stodi} (постоянный)
+    glosses:
+    - регулировать
+    - x1=регулирующий
+    - x2=регулируемое
+  en-simple:
+    place structure: x1 adjusts x2 in degree x3
+    notes:
+    - No notes.
+    glosses:
+    - an adjuster
+    - x2=something adjusted
+    - x3=an amount of adjustment
+  eo:
+    place structure: x1 (okazo) alĝustigas/reguligas/ŝanĝas x2-on (ka/ni) en kvanto/grado
+      x3
+    notes:
+    - Nerezulta, kaŭza ŝanĝo; agenta alĝustigi (= {tikygau}, {tikyzu'e}).  (kp. cenba
+      kiu ne nepre estas kaŭza, galfi kiu estas kaŭza kaj rezulta, binxo kiu ne nepre
+      estas kaŭza sed jes estas rezulta,zasni,stodi)
+    glosses:
+    - alĝustigi
+  hu:
+    place structure: x1 esemény megváltoztatja x2-t x3 mértékben
+    notes:
+    - '(Lásd még: {cenba}, {galfi}, {binxo}, {zasni}, {stodi})'
+    glosses:
+    - megváltoztat
+  ja:
+    place structure: x1 は x2 （性質／数量）を x3 （程度）ほど調整する
+    notes:
+    - 結果（調整した後どうなったか）は含意されない。 ・大意： 調整 ・読み方： スティカ  ・関連語： {cenba}, {galfi}, {binxo},
+      {zasni}, {stodi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件）调整/调节/改变x2（ka/ni），在数量/程度x3方面
+    notes:
+    - 不指明结果，指明变化原因；（施事的）调整={tikygau}/{tikyzu'e}；参见：{cenba}不指明变化原因， {galfi}指明因果，{binxo}不指明原因但指明结果，{zasni},
+      {stodi}.
+    glosses:
+    - No glosses.

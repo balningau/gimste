@@ -1,5 +1,68 @@
-Word: natmi
-Rafsi: nat, nai
-Definition: x1 is a nation/ethnic group of peoples x2; [people sharing a history/culture].
-Notes: See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.
-Examples: None
+word: natmi
+rafsi:
+- nat
+- nai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a nation/ethnic group of peoples x2; [people sharing a
+      history/culture].
+    notes:
+    - See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.
+    glosses:
+    - nation
+  de:
+    place structure: x1 ist ein Volk/eine Nation/ethnische Gruppe von Menschen x2;
+      [Menschen mit gemeinsamer Geschichte/Kultur]
+    notes:
+    - No notes.
+    glosses:
+    - Nation
+  es:
+    place structure: x1 es una nación/grupo étnico de gente x2 con cultura/historia
+      comun
+    notes:
+    - Ver también {gugde},  {kulnu},  {jecta},  {bangu}.
+    glosses:
+    - nación
+  ru:
+    place structure: x1 — народ/нация/этническая группа людей x2 (имеющих общую историю/культуру)
+    notes:
+    - '{jecta} (государство), {kulnu} (культура [этноса]), {lanzu} (семья), {gugde}
+      (страна), {bangu} (язык [лингвистический]), {cecmu} (сообщество [организмов])'
+    glosses:
+    - x1=народ
+  en-simple:
+    place structure: x1 is nation or ethnic group of people x2
+    notes:
+    - No notes.
+    glosses:
+    - a nation
+    - x2=a people of a nation
+  eo:
+    place structure: x1 estas nacio/gento/popolo de homoj x2; [homoj kun komuna historio/kulturo]
+    notes:
+    - Vidu ankaŭ {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.
+    glosses:
+    - nacio
+  hu:
+    place structure: x1 egy nemzet/náció/népcsoport [közös kultúrájú/történelmű nép]
+      x2 népekből
+    notes:
+    - '(Lásd még: {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu})'
+    glosses:
+    - nemzet
+  ja:
+    place structure: x1 は x2 （成員）からなる民族
+    notes:
+    - 歴史と文化を共有する集合全般。場合によっては「国家」も。 ・大意： 民族 ・読み方： ナトミ  ・語呂合わせ： 納豆民族, nation, min（民）
+      ・関連語： {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由人民x2构成的族群/国家（人民共享有历史和文化）
+    notes:
+    - 参见 {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,113 @@
-Word: bapli
-Rafsi: bap, bai
-Definition: x1 [force] (ka) forces/compels event x2 to occur; x1 determines property
-  x2 to manifest.
-Notes: Also constrains; requires success, unlike the physics term (better expressed
-  by {danre}).  See also {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte},
-  {randa}, {danre}, cmavo list {bai}, {marxa}, {tinsa}, {xarnu}.
-Examples: None
+word: bapli
+rafsi:
+- bap
+- bai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [force] (ka) forces/compels event x2 to occur; x1 determines
+      property x2 to manifest.
+    notes:
+    - Also constrains; requires success, unlike the physics term (better expressed
+      by {danre}).  See also {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu},
+      {zukte}, {randa}, {danre}, cmavo list {bai}, {marxa}, {tinsa}, {xarnu}.
+    glosses:
+    - effective (having the power to produce effects)
+    - force
+    - x1=effect (result)
+  de:
+    place structure: x1 [Kraft] (ka) zwingt das Geschehen von/erzwingt Ereignis x2
+    notes:
+    - No notes.
+    glosses:
+    - zwingen
+  es:
+    place structure: x1 (evento) fuerza/obliga/compele a que x2 ocurra
+    notes:
+    - Ver también {jitro},  {rinka},  {krinu},  {zukte}.
+    glosses:
+    - forzar
+  fr:
+    place structure: x1 [force] force que l'évènement x2 se produise.
+    notes:
+    - Aussi "contraindre". Requiert le succès de la force, pas comme le terme en physique,
+      qui se rapproche davantage de {danro}. Voir également {fanta}, {rinju}, {jimte},
+      {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, {marxa}, {tinsa}, {xarnu},
+      {bai}.
+    glosses:
+    - effective (ayant la capacité de produire des effets)
+    - force
+    - x2=effet (résultat)
+  ru:
+    place structure: 'x1 (сила: {ka}) заставляет/вынуждает произойти событие x2; x1
+      заставляет проявиться свойство x2'
+    notes:
+    - Существенна результативность, в отличие от физического термина «сила» (лучше
+      {danre}) {fanta} (препятствовать [не давать произойти]), {rinju} (удерживаться
+      [от чего-либо]), {jimte} (граница), {jitro} (контролировать), {rinka} (причина
+      [физическая]), {krinu} (резон), {zukte} (действовать), {randa} (уступать), {danre}
+      (давить), {bai}, {marxa} (мять), {tinsa} (жесткий), {xarnu} (сопротивляться
+      [противостоять])
+    glosses:
+    - вынуждать
+    - x1=вынуждающий
+    - x2=вынуждаемое событие
+  en-simple:
+    place structure: x1 forces event x2 to occur
+    notes:
+    - No notes.
+    glosses:
+    - an event's force
+    - x2=something forced to occur
+  eo:
+    place structure: x1 [forto] (ka) devigas ke okazo x2 okazu; x1 determinas ke eco
+      x2 evidentiĝu
+    notes:
+    - 'Ankaŭ: igi; implicas sukceson.  Vidu ankaŭ {fanta}, {rinju}, {jimte}, {jitro},
+      {rinka}, {krinu}, {zukte}, {randa}, {danre}, cmavo {bai}, {marxa}, {tinsa},
+      {xarnu}.'
+    glosses:
+    - devigi
+  hu:
+    place structure: x1 [erő] (ka) [sikeresen] kikényszeríti x2 eseményt; x1 megnyilvánulásra
+      készteti x2 tulajdonságot
+    notes:
+    - '(Lásd még: {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa},
+      {danre}, {marxa}, {tinsa}, {xarnu})'
+    glosses:
+    - kikényszerít
+  ja:
+    place structure: x1 （性質／力）は x2 （事）を引き起こす／もたらす
+    notes:
+    - 「danre」と違い、物理的とは限らない。x1は作用力／抑制力も。「le vi verba zo'u lo smadi bapli cu barda／この子は洞察力がある」
+      ・大意： 力 ・読み方： バプルィ  ・語呂合わせ： りき ,li（力）,power ・関連語： {fanta}, {rinju}, {jimte},
+      {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, {bai}, {marxa}, {tinsa},
+      {xarnu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 [kraft] (ka) tvinger hendelse x2 til å skje; x1 avgjør at
+      egenskap x2 skal manifestere seg
+    notes:
+    - Er avhengig av suksess i motsetningen til den fysiske termen som bedre uttykkes
+      med 'danre'. Se også {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte},
+      {randa}, {danre}, cmavo-liste {bai}, {marxa}, {tinsa}, {xarnu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (ka) tvingar (händelse) x2 att ske.
+    notes:
+    - Förutsätter framgång, till skillnad från {danre}. Se även {fanta}, {rinju},
+      {jimte}, {jitro}, {rinka}, {krinu}, {nibli}, {zukte}, {randa}, {bai}.
+    glosses:
+    - tvinga
+    - x1=tvång (tvingande kraft)
+    - x2=tvingad
+  zh:
+    place structure: x1（力，ka）强迫/逼迫事件x2发生；x1决定了性质x2的出现/显现
+    notes:
+    - 也指：驱使，但需要成功驱使；参见 {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte},
+      {randa}, {danre}, {bai}, {marxa}, {tinsa}, {xarnu}
+    glosses:
+    - No glosses.

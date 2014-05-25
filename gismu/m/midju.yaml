@@ -1,6 +1,67 @@
-Word: midju
-Rafsi: mij
-Definition: x1 is in/at the middle/center/midpoint/[is a focus] of x2; (adjective:)
-  x1 is central.
-Notes: See also {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.
-Examples: None
+word: midju
+rafsi:
+- mij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is in/at the middle/center/midpoint/[is a focus] of x2; (adjective:)
+      x1 is central.
+    notes:
+    - See also {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.
+    glosses:
+    - center (middle)
+    - middle
+  de:
+    place structure: x1 ist in der Mitte/im Zentrum/Mittelpunkt/[Fokus] von x2; (Adjektiv:)
+      x1 ist mittig
+    notes:
+    - No notes.
+    glosses:
+    - mittig
+  es:
+    place structure: x1 es/está en el medio/centro de x2
+    notes:
+    - Ver también {jbini},  {nutli},  {snuji}.
+    glosses:
+    - medio
+  ru:
+    place structure: x1 находится в середине/центре/{является фокусом} x2 (чего)
+    notes:
+    - '{lanxe} (равновесие), {jbini} (между), {nutli} (нейтральный), {snuji} (прослойка),
+      {milxe} (умеренный), {denmi} (плотный [в определенном участке]), {ralju} (главный)'
+    glosses:
+    - середина
+    - x2=имеющий середину
+  en-simple:
+    place structure: x1 is at the middle of x2
+    notes:
+    - No notes.
+    glosses:
+    - something at a middle
+    - x2=something with a middle
+  eo:
+    place structure: x1 estas meze/centre de x2; (adjektivo:) x1 estas centra
+    notes:
+    - Vidu ankaŭ {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.
+    glosses:
+    - mezo
+  hu:
+    place structure: x1 a közepén/középpontjában/magjában/fókuszában van x2-nek
+    notes:
+    - '(Lásd még: {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju})'
+    glosses:
+    - középső
+  ja:
+    place structure: x1 は x2 の中央／中心／中枢／真ん中
+    notes:
+    - ・大意： 中央 ・読み方： ミヂュ ・語呂合わせ： ミドル中央 ・関連語： {lanxe}, {jbini}, {nutli}, {snuji}, {milxe},
+      {denmi}, {ralju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是处于x2的中部的/中央的/中心位置处的
+    notes:
+    - 参见 {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.
+    glosses:
+    - No glosses.

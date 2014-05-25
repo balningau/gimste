@@ -1,7 +1,73 @@
-Word: krasi
-Rafsi: kra
-Definition: x1 (site/event) is a source/start/beginning/origin of x2 (object/event/process).
-Notes: Also root (figurative sense); (adjective:) $x_1$ is initial.  See also {fanmo},
-  cmavo list {ra'i}, {sabji}, {cfari}, {jipno}, {traji}, {kojna}, {genja}, {jicmu},
-  {sitna}, {jinto}.
-Examples: None
+word: krasi
+rafsi:
+- kra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (site/event) is a source/start/beginning/origin of x2 (object/event/process).
+    notes:
+    - Also root (figurative sense); (adjective:) x1 is initial.  See also {fanmo},
+      cmavo list {ra'i}, {sabji}, {cfari}, {jipno}, {traji}, {kojna}, {genja}, {jicmu},
+      {sitna}, {jinto}.
+    glosses:
+    - origin (source)
+    - source
+  de:
+    place structure: x1 (Ort/Ereignis) ist eine Quelle/ein Start/Beginn/Ursprung von
+      x2 (Objekt/Ereignis/Prozess)
+    notes:
+    - No notes.
+    glosses:
+    - Ursprung
+  es:
+    place structure: x1 es un origen/fuente/comienzo/inicio de x2
+    notes:
+    - Ver también {cfari}.
+    glosses:
+    - origen
+  ru:
+    place structure: 'x1 (место/событие) есть источник/начало/исходная точка x2 (чего:
+      объект/событие/процесс)'
+    notes:
+    - 'Также: корень (в переносном смысле); прилагательное: начальный/исходный {fanmo}
+      (конец), {ra''i}, {sabji} (поставлять [снабжать]), {cfari} (начинаться), {jipno}
+      (кончик), {traji} (самый), {kojna} (угол [телесный]), {genja} (корень [растения]),
+      {jicmu} (основа), {sitna} (цитировать), {jinto} (колодец)'
+    glosses:
+    - источник
+  en-simple:
+    place structure: x1 is an origin or source of x2
+    notes:
+    - No notes.
+    glosses:
+    - an origin
+    - x2=something with an origin
+  eo:
+    place structure: x1 (loko/okazo) estas fonto/komenco/origino de x2 (objekto/okazo/procedo)
+    notes:
+    - 'Ankaŭ: radiko (figura senco); (adjektivo:) x1 estas komenca.  Vidu ankaŭ {fanmo},
+      cmavo {ra''i}, {sabji}, {cfari}, {jipno}, {traji}, {kojna}, {genja}, {jicmu},
+      {sitna}, {jinto}.'
+    glosses:
+    - fonto
+  hu:
+    place structure: x1 (hely/esemény) a forrása/eredete/kezdete x2-nek (tárgy/esemény/folyamat)
+    notes:
+    - '(Lásd még: {fanmo}, {sabji}, {cfari}, {jipno}, {traji}, {kojna}, {genja}, {jicmu},
+      {sitna}, {jinto})'
+    glosses:
+    - kezdet
+  ja:
+    place structure: x1 （所／事）は x2 （物／者／事）の起源／根源／発祥地
+    notes:
+    - ・大意： 起源 ・読み方： クラスィ  ・語呂合わせ： 暮らすぃの起源 ・関連語： {fanmo}, {ra'i}, {sabji}, {cfari},
+      {jipno}, {traji}, {kojna}, {genja}, {jicmu}, {sitna}, {jinto}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（站点/事件）是x2（物/事/进程）的起点/始发站/来源
+    notes:
+    - 也指：（某种意义上）根源；x1最初的/初始的；参见 {fanmo}, {ra'i}, {sabji}, {cfari}, {jipno}, {traji},
+      {kojna}, {genja}, {jicmu}, {sitna}, {jinto}.
+    glosses:
+    - No glosses.

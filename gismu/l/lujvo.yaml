@@ -1,6 +1,76 @@
-Word: lujvo
-Rafsi: luv, jvo
-Definition: x1 (text) is a compound predicate word with meaning x2 and arguments x3
-  built from metaphor x4.
-Notes: See also {stura}, {cmavo}, {gismu}, {rafsi}, {smuni}.
-Examples: None
+word: lujvo
+rafsi:
+- luv
+- jvo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (text) is a compound predicate word with meaning x2 and arguments
+      x3 built from metaphor x4.
+    notes:
+    - See also {stura}, {cmavo}, {gismu}, {rafsi}, {smuni}.
+    glosses:
+    - affix compound
+  de:
+    place structure: x1 (Text) ist ein zusammengesetztes Prädikat mit der Bedeutung
+      x2 und den Argumenten x3, zusammengesetzt aus dem Tanru x4
+    notes:
+    - No notes.
+    glosses:
+    - Kompositum
+  es:
+    place structure: x1 es una palabra compuesta, con significado x2 y argumentos
+      x3 construido de metáfora x4
+    notes:
+    - No notes.
+    glosses:
+    - compuesto
+  ru:
+    place structure: x1 — lujvo (составное слово) со значением x2 и аргументами x3,
+      построенное из selbri x4
+    notes:
+    - '{stura} (структура [чего-либо]), {cmavo} (), {gismu} (), {rafsi} (аффикс),
+      {smuni} (значение [смысл])'
+    glosses:
+    - составное слово из аффиксов
+    - x2=значение составного слова из аффиксов
+    - x3=аргументы составного слова из аффиксов
+  en-simple:
+    place structure: x1 is a compound word meaning x2 with arguments x3 from phrase
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a compound word
+    - x2=a meaning of a compound word
+    - x3=an argument of a compound word
+    - x4=a source metaphor of a compound word
+  eo:
+    place structure: x1 (teksto) estas kunmetita predikato kun signifo x2 kaj argumentoj
+      x3 konstruita el metaforo x4
+    notes:
+    - Vidu ankaŭ {stura}, {cmavo}, {gismu}, {rafsi}, {smuni}.
+    glosses:
+    - kunmetaĵo
+  hu:
+    place structure: x1 egy szóelemekből felépített, lexikai értelemmel rendelkező
+      szó x2 jelentéssel, x3 helyszerkezettel/vonzatokkal, x4 elemekből
+    notes:
+    - '(Lásd még: {stura}, {cmavo}, {gismu}, {rafsi}, {smuni})'
+    glosses:
+    - összetett szó
+  ja:
+    place structure: x1 （文字列）は x2 （意味）・ x3 （項）を有する、 x4 （形態素）から作られた合成語・複合語
+    notes:
+    - ・大意： 合成語 ・読み方： ルゥジヴォ  ・関連語： {tanru}, {stura}, {cmavo}, {gismu}, {rafsi}, {smuni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（文本）是有着意义 x2，参数 x3 的复合谓词，由比喻 x4 构造
+    notes:
+    - 参见 {stura}, {cmavo}, {gismu}, {rafsi}, {smuni}。
+    glosses:
+    - 复合
+    - 词缀
+    - x4=比喻

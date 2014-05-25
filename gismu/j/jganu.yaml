@@ -1,7 +1,80 @@
-Word: jganu
-Rafsi: jga
-Definition: x1 is an angle [2-dimensional shape/form] from vertex x2 subtended by
-  lateral [segment] x3.
-Notes: Also (adjective:) $x_1$ is angular; $x_2$ corner; (segment $x_3$ can be defined
-  by interval).  See also {kojna}, {linji}, {konju}, {mokca}.
-Examples: None
+word: jganu
+rafsi:
+- jga
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an angle [2-dimensional shape/form] from vertex x2 subtended
+      by lateral [segment] x3.
+    notes:
+    - Also (adjective:) x1 is angular; x2 corner; (segment x3 can be defined by interval).  See
+      also {kojna}, {linji}, {konju}, {mokca}.
+    glosses:
+    - angle
+  de:
+    place structure: x1 ist ein Winkel [Zweidimensionale Form] an Ecke/Punkt x2 dem
+      die Seite [Segment] x3 gegenüberliegt
+    notes:
+    - No notes.
+    glosses:
+    - Winkel
+  es:
+    place structure: x1 es un ángulo (forma bidimensional) de vértice x2 subtendido
+      por lateral x3
+    notes:
+    - No notes.
+    glosses:
+    - ángulo
+  ru:
+    place structure: x1 — угол (2-мерная форма) с вершиной x2, противолежащий дуге/отрезку
+      x3 (стягиваемый дугой/отрезком x3)
+    notes:
+    - '{kojna} (угол [телесный]), {linji} (линия), {konju} (конус), {mokca} (точка)'
+    glosses:
+    - x2=вершина угла
+    - x3=дуга угла
+    - x4=дуга, стягивающая угол
+  en-simple:
+    place structure: x1 is an angle from vertex x2 subtended by lateral x3
+    notes:
+    - No notes.
+    glosses:
+    - an angle
+    - x2=a vertex of an angle
+    - x3=an angle segment
+  eo:
+    place structure: x1 estas angulo [2-dimensia formo] de vertico x2 subtenata de
+      latero [segmento] x3
+    notes:
+    - (segmenton x3 oni povas difini per intervalo)); Vidu ankaŭ {kojna}, {linji},
+      {konju}, {mokca}.
+    glosses:
+    - angulo [dudimensia]
+  hu:
+    place structure: x1 egy szög [síkbeli geometriai fogalom] x2 csúccsal, x3 tartománnyal
+    notes:
+    - '(Lásd még: {kojna}, {linji}, {konju}, {mokca})'
+    glosses:
+    - szög (geometriai fogalom)
+  ja:
+    place structure: x1 は x2 （頂角）・ x3 （辺）による角度；  x1 は角張っている
+    notes:
+    - ・大意： 角度 ・読み方： ジガヌ ・関連語： {kojna}, {linji}, {konju}, {mokca}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en vinkel [2-dimensionell form] från spets x2 mitt emot
+      sidan [segment] x3.
+    notes:
+    - Även (adjektiv:) x1 är vinkelformad; x2 hörn; (segment x3 kan definieras med
+      intervall).
+    glosses:
+    - vinkel
+    - vinkelformad
+  zh:
+    place structure: x1是顶点位于x2的角，具有角度区间x3（由形成角的两边相对定义）
+    notes:
+    - 也指：x1有棱角的；x2角落；参见 {kojna}, {linji}, {konju}, {mokca}.
+    glosses:
+    - No glosses.

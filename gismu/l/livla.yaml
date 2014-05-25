@@ -1,5 +1,69 @@
-Word: livla
-Rafsi: lil
-Definition: x1 is a fuel/energy-source for powering x2.
-Notes: See also {nejni}, {xaksu}, {jelca}.
-Examples: None
+word: livla
+rafsi:
+- lil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fuel/energy-source for powering x2.
+    notes:
+    - See also {nejni}, {xaksu}, {jelca}.
+    glosses:
+    - fuel
+  de:
+    place structure: x1 ist Benzin/ein Kraftstoff/Brennstoff/Energiequelle zum Antreiben
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - Kraftstoff
+  es:
+    place structure: x1 es un combustible/fuente de energia para x2
+    notes:
+    - No notes.
+    glosses:
+    - combustible
+  ru:
+    place structure: x1 — топливо/источник энергии для x2
+    notes:
+    - '{nejni} (энергия), {xaksu} (расходовать), {jelca} (гореть)'
+    glosses:
+    - топливо
+  en-simple:
+    place structure: x1 is a fuel for powering x2
+    notes:
+    - No notes.
+    glosses:
+    - a fuel
+    - x2=something powered by fuel
+  eo:
+    place structure: x1 estas brulaĵo/energifonto por provizi potencon al x2
+    notes:
+    - Vidu ankaŭ {nejni}, {xaksu}, {jelca}.
+    glosses:
+    - brulaĵo
+  hu:
+    place structure: x1 egy/az üzemanyaga/energiaforrása x2-nek
+    notes:
+    - '(Lásd még: {nejni}, {xaksu}, {jelca})'
+    glosses:
+    - üzemanyag
+  ja:
+    place structure: x1 は x2 のための燃料
+    notes:
+    - 比喩的に「餌」「ごはん」も。 ・大意： 燃料 ・読み方： ルィヴルァ  ・語呂合わせ： ranliau（燃料）,fuel ・関連語： {nejni},
+      {xaksu}, {jelca}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er drivstoff/energikilde for å drive x2
+    notes:
+    - Se også {jelca}, {karce}, {nejni}, {xaksu}.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是燃料/能量源，以对x2供能
+    notes:
+    - 参见 {nejni}, {xaksu}, {jelca}.
+    glosses:
+    - No glosses.

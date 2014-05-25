@@ -1,7 +1,102 @@
-Word: jgari
-Rafsi: jai
-Definition: x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at
-  locus x4 (part of x2).
-Notes: Hug (= {birjai}, {pamjai}); handshake (= {xanjaisi'u}); hold with hands (=
-  {xanjai}); handle (= {jaitci}).  See also {ralte}, {pencu}, {darxi}, {batke}, {rinju}.
-Examples: None
+word: jgari
+rafsi:
+- jai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part
+      of x1) at locus x4 (part of x2).
+    notes:
+    - Hug (= {birjai}, {pamjai}); handshake (= {xanjaisi'u}); hold with hands (= {xanjai});
+      handle (= {jaitci}).  See also {ralte}, {pencu}, {darxi}, {batke}, {rinju}.
+    glosses:
+    - grasp
+    - hold (grasp)
+  jbo:
+    place structure: x1 gasnu lo nu x4 noi pagbu x2 cu rinju x3 noi pagbu x1
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 greift/packt/fasst/umklammert/[umarmt] x2 mit x3 [Teil von
+      x1] an Stelle x4 [Teil von x2]
+    notes:
+    - No notes.
+    glosses:
+    - greifen
+  es:
+    place structure: x1 agarra/toma/sostiene a x2 con x3
+    notes:
+    - No notes.
+    glosses:
+    - agarrar
+  fr:
+    place structure: x1 saisit/s'empare de/tient/s'agrippe à x2 par x3 (partie de
+      x1) à l'endroit x4 (partie de x2).
+    notes:
+    - poignée de main (= {xanjaisi'u}); tenir dans les mains (= {xanjai}); poignée
+      (= {jaitci}).  Voir aussi {ralte}, {pencu}, {darxi}, {batke}, {rinju}.
+    glosses:
+    - saisir
+    - tenir (saisir)
+  ru:
+    place structure: 'x1 держит/удерживает/хватается за x2 (что) x3 (чем: часть x1)
+      за x4 (часть/участок x2)'
+    notes:
+    - 'Обнимать/охватывать: {birjai}, {pamjai}, {xadjai}; пожимать руку: {xanjai},
+      {jikyxanjai}; ручка/рукоять: {veljai}, {veljaitci} {ralte} (удерживать), {pencu}
+      (трогать), {darxi} (ударять), {batke} (кнопка), {rinju} (удерживаться [от чего-либо])'
+    glosses:
+    - хвататься за
+    - x1=хватающийся за
+  en-simple:
+    place structure: x1 holds or clutches x2 using x3 at location x4
+    notes:
+    - No notes.
+    glosses:
+    - a holder
+    - x2=something held
+    - x3=something used to hold
+    - x4=a location of hold
+  eo:
+    place structure: x1 tenas/ekprenas/[ĉirkaŭpremas] x2-on per x3 (parto de x1) je
+      loko x4 (parto de x2)
+    notes:
+    - ĉirkaŭbraki (= {birjai}, {pamjai}); ĉirkaŭpremi (= {xadjai}); manpremi (= {xanjai},
+      {jikyxanjai}), tenilo/anso (= {veljai}, {veljaitci}).  Vidu ankaŭ {ralte}, {pencu},
+      {darxi}, {batke}, {rinju}.
+    glosses:
+    - teni
+  hu:
+    place structure: x1 megragadja/megfogja/megmarkolja/megszorítja/megöleli x2-t
+      x3-mal x4 helyen
+    notes:
+    - '(Lásd még: {ralte}, {pencu}, {darxi}, {batke}, {rinju})'
+    glosses:
+    - megfog
+  ja:
+    place structure: x1 は x2 （対象本体）・ x4 （対象箇所）を x3 （ x1 の部分）で掴む／握る
+    notes:
+    - 「抱く」も。 ・大意： 掴む ・読み方： ジガリ ・関連語： {ralte}, {pencu}, {darxi}, {batke}, {rinju}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 greppar/fattar tag i/håller/gripa tag/fånga/[kramar] x2 med
+      x3 (del av x1) på ställe x4 (del av x2).
+    notes:
+    - Krama (= {birjai}, {pamjai}); omfamna (= {xadjai}); skaka hand (= {xanjai},
+      {jikyxanjai}), grepp/handtag (= {veljai}, {veljaitci}).
+    glosses:
+    - fatta tag i
+    - greppa
+    - gripa tag
+    - hålla
+  zh:
+    place structure: x1抓住/握住/紧抓x2，使用肢体/工具x3（x1的一部分），握住点为x4（x2的一部分）
+    notes:
+    - 抱/拥抱= {birjai}/{pamjai}； 互相握手= {xanjaisi'u}；握住手= {xanjai}；把手/手柄= {jaitci}；参见
+      {ralte}, {pencu}, {darxi}, {batke}, {rinju}.
+    glosses:
+    - No glosses.

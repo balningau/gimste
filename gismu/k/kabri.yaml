@@ -1,7 +1,75 @@
-Word: kabri
-Rafsi: ''
-Definition: x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing contents x2, and
-  of material x3.
-Notes: A kabri is normally eaten from by lifting it; a palta is not.  See also {palta},
-  {citka}, {blaci}, {tansi}.
-Examples: None
+word: kabri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing contents
+      x2, and of material x3.
+    notes:
+    - A kabri is normally eaten from by lifting it; a palta is not.  See also {palta},
+      {citka}, {blaci}, {tansi}.
+    glosses:
+    - cup
+  de:
+    place structure: x1 ist ein Becher/Glas/eine Tasse/ein Krug, enthält x2 (Inhalt)
+      und ist aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Becher
+  es:
+    place structure: x1 es una taza/vaso/copa/jarro para contenido x2, de material
+      x3
+    notes:
+    - Ver también {palta}.
+    glosses:
+    - taza
+  ru:
+    place structure: x1 — чашка/стакан/бокал/кубок/кружка/{чаша} с содержимым x2,
+      из материала x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2»; [kabri] обычно подносят ко рту
+      при питье и еде, {palta} — нет {palta} (тарелка), {citka} (есть), {blaci} (стекло),
+      {tansi} (миска)'
+    glosses:
+    - чашка
+    - x2=содержимое чашки
+    - x3=материал чашки
+  en-simple:
+    place structure: x1 is a cup or mug containing x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a cup
+    - x2=a content of a cup
+    - x3=a material of a cup
+  eo:
+    place structure: x1 estas taso/pokalo/glaso/trinkpoto/vazo/ujo/[pelvo] enhavanta
+      x2-on, kaj el materialo x3
+    notes:
+    - Oni manĝas/trinkas el kabri levante ĝin; el palta ne.  Vidu ankaŭ {palta}, {citka},
+      {blaci}, {tansi}.
+    glosses:
+    - taso
+  hu:
+    place structure: x1 egy bögre/pohár/csésze/csupor/korsó/palack x2 tartalommal,
+      x3 anyagból
+    notes:
+    - '(Lásd még: {palta}, {citka}, {blaci}, {tansi})'
+    glosses:
+    - bögre
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）のコップ／カップ／タンブラー／マグ／茶碗／杯
+    notes:
+    - 「palta」と違い、持ち上げて飲食に使う容器。 ・大意： コップ ・読み方： カブリ  ・語呂合わせ： コップかぶり ・関連語： {palta}, {citka},
+      {blaci}, {tansi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是杯/碗/盅/钵，盛有x2，以x3为材料制成
+    notes:
+    - '{kabri} 通常用于举起来吃喝，{plata} 不这样使用'
+    glosses:
+    - No glosses.

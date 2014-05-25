@@ -1,5 +1,68 @@
-Word: ranti
-Rafsi: ran
-Definition: x1 is soft/malleable/moldable/yielding to force x2 in conditions x3.
-Notes: See also {ralci}, {jdari}, {lakse}, {randa}, {gradu}.
-Examples: None
+word: ranti
+rafsi:
+- ran
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is soft/malleable/moldable/yielding to force x2 in conditions
+      x3.
+    notes:
+    - See also {ralci}, {jdari}, {lakse}, {randa}, {gradu}.
+    glosses:
+    - soft
+  de:
+    place structure: x1 ist weich/verformbar/gibt Kraft x2 nach unter Bedingungen
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - weich
+  es:
+    place structure: x1 es blando/maleable/cede ante fuerza x2 bajo condiciones x3
+    notes:
+    - Ver también {jdari},  {lakse},  {randa}.
+    glosses:
+    - blando
+  ru:
+    place structure: x1 — мягкий/ковкий/податливый/поддающийся силе x2 в условиях
+      x3
+    notes:
+    - '{ralci} (хрупкий), {jdari} (крепкий), {lakse} (воск), {randa} (уступать), {gradu}
+      (градус)'
+    glosses:
+    - мягкий
+  en-simple:
+    place structure: x1 is soft to force x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something soft
+    - x2=a force to which something is soft
+    - x2=the force to which something is soft
+    - x3=a condition of softness
+  eo:
+    place structure: x1 estas mola/ceda/nerezista al forto x2 sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {ralci}, {jdari}, {lakse}, {randa}, {gradu}.
+    glosses:
+    - mola
+  hu:
+    place structure: x1 lágy/képlékeny/formálható x2 erő által, x3 körülmények között
+    notes:
+    - '(Lásd még: {ralci}, {jdari}, {lakse}, {randa}, {gradu})'
+    glosses:
+    - lágy
+  ja:
+    place structure: x1 は x2 （力）にたいして x3 （条件）のもと軟らかい
+    notes:
+    - ・大意： 軟らかい ・読み方： ランティ  ・語呂合わせ： 軟らかいランティ（チ）, ruan(軟), soft ・関連語： {ralci}, {jdari},
+      {lakse}, {randa}, {gradu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是柔软的/可塑的/易弯曲的，在力x2的作用下，在条件x3下
+    notes:
+    - 参见 {ralci}, {jdari}, {lakse}, {randa}, {gradu}.
+    glosses:
+    - No glosses.

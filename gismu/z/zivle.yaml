@@ -1,7 +1,79 @@
-Word: zivle
-Rafsi: ziv, vle
-Definition: x1 (agent) invests resources x2 in investment x3 expecting return/profit
-  x4 (object(s)/event).
-Notes: '[also ties up/Risks/gambles.  $x_1$ is an investor; $x_2$ are invested assets
-  of $x_1$; bond (= {jertervle})]; See also {prali}, {canja}, {jbera}, {dejni}, {ponse}.'
-Examples: None
+word: zivle
+rafsi:
+- ziv
+- vle
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) invests resources x2 in investment x3 expecting return/profit
+      x4 (object(s)/event).
+    notes:
+    - '[also ties up/Risks/gambles.  x1 is an investor; x2 are invested assets of
+      x1; bond (= {jertervle})]; See also {prali}, {canja}, {jbera}, {dejni}, {ponse}.'
+    glosses:
+    - invest
+  de:
+    place structure: x1 (Handelnder) investiert Ressourcen x2 in Investition/Anlage
+      x3 und erwartet Erfolg/Gewinn x4 (Objekt(e)/Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - investieren
+  es:
+    place structure: x1 invierte medios/dinero x2 en inversión/proyecto x3 esperando
+      rendimiento/beneficio x4
+    notes:
+    - Ver también {jbera}.
+    glosses:
+    - invertir
+  ru:
+    place structure: x1 вкладывает/инвестирует ресурсы x2 в x3 (во что), ожидая отдачи/прибыли
+      x4 (предмет(ы)/событие)
+    notes:
+    - 'Также: делает ставку, рискует; x1 — инвестор/вкладчик; акция/облигация: {jertervle}
+      {prali} (прибыль), {canja} (обменивать), {jbera} (заимствовать), {dejni} (должник),
+      {ponse} (владеть)'
+    glosses:
+    - инвестировать
+    - x1=инвестирующий
+    - x2=инвестируемые ресурсы
+    - x3=во что инвестируют
+    - x4=ожидаемая отдача от инвестирования
+  en-simple:
+    place structure: x1 invests x2 into x3 expecting profit x4
+    notes:
+    - No notes.
+    glosses:
+    - an invester
+    - x2=something invested
+    - x3=something invested in
+    - x4=an expected profit of an investment
+  eo:
+    place structure: x1 (aganto) investas rimedojn x2 en investo x3 atendanta profiton
+      x4 (objekto(j)/okazo)
+    notes:
+    - '(ankaŭ: ties up/Riski/vetludi.  x1 estas investanto; x2 estas investitaj aktivoj
+      de x1; obligacio (= {jertervle})); Vidu ankaŭ {prali}, {canja}, {jbera}, {dejni},
+      {ponse}.'
+    glosses:
+    - investi
+  hu:
+    place structure: x1 befekteti/leköti x2 javakat/erőforrásokat x3 befektetésbe,
+      x4 haszon/profit reményében
+    notes:
+    - '(Lásd még: {prali}, {canja}, {jbera}, {dejni}, {ponse})'
+    glosses:
+    - befektet
+  ja:
+    place structure: x1 （者）は x2 （資源）を x3 （宛先）に、 x4 （収益）を期待して投資する
+    notes:
+    - ・大意： 投資 ・読み方： ズィヴルェ ・関連語： {prali}, {canja}, {jbera}, {dejni}, {ponse}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将资源x2投资于投资品x3中，预期获得回报/利润x4（物/事）
+    notes:
+    - x1投资者；x2是x1的投入资产；债券= {jertervle}；参见 {prali}, {canja}, {jbera}, {dejni}, {ponse}.
+    glosses:
+    - No glosses.

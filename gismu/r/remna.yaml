@@ -1,6 +1,69 @@
-Word: remna
-Rafsi: rem, re'a
-Definition: x1 is a human/human being/man (non-specific gender-free sense); (adjective:)
-  x1 is human.
-Notes: See also {nanmu}, {ninmu}, {prenu}.
-Examples: None
+word: remna
+rafsi:
+- rem
+- re'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a human/human being/man (non-specific gender-free sense);
+      (adjective:) x1 is human.
+    notes:
+    - See also {nanmu}, {ninmu}, {prenu}.
+    glosses:
+    - human
+  de:
+    place structure: x1 ist ein Mensch; (adjektiv:) x1 ist menschlich.
+    notes:
+    - Siehe auch {nanmu}, {ninmu}, {prenu}.
+    glosses:
+    - Mensch
+  es:
+    place structure: x1 es un ser humano
+    notes:
+    - Ver también {prenu},  {nanmu},  {ninmu}.
+    glosses:
+    - humano
+  ru:
+    place structure: x1 — человек ([Homo sapiens])
+    notes:
+    - '{nanmu} (мужчина), {ninmu} (женщина), {prenu} (персона)'
+    glosses:
+    - человек (Homo sapiens)
+  en-simple:
+    place structure: x1 is a human
+    notes:
+    - No notes.
+    glosses:
+    - a human
+  eo:
+    place structure: x1 estas homo; (adjektivo:) x1 estas homa
+    notes:
+    - Vidu ankaŭ {nanmu}, {ninmu}, {prenu}.
+    glosses:
+    - homo
+  hu:
+    place structure: x1 egy ember [Homo nem]
+    notes:
+    - '(Lásd még: {nanmu}, {ninmu}, {prenu})'
+    glosses:
+    - ember
+  ja:
+    place structure: x1 は生物学的ヒト／ホモサピエンス
+    notes:
+    - ・大意： ヒト ・読み方： レムナ  ・関連語： {nanmu}, {ninmu}, {prenu}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to istota ludzka/człowiek; x1 jest ludzkie/człowiecze.
+    notes:
+    - Cf. {nanmu}, {ninmu}, {prenu}.
+    glosses:
+    - człowiek
+    - istota ludzka
+  zh:
+    place structure: x1是人类，属于品种/种类x2
+    notes:
+    - 参见 {nanmu}, {ninmu}, {prenu}.
+    glosses:
+    - No glosses.

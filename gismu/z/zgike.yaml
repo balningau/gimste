@@ -1,9 +1,91 @@
-Word: zgike
-Rafsi: zgi, gi'e
-Definition: x1 is music performed/produced by x2 (event).
-Notes: $x_2$ event may be person playing instrument, singing, musical source operating/vibrating,
-  etc.; instrument (= {zgica'a}); play an instrument (= {zgica'apli}, {zgiterca'a},
-  {selzgigau}, {selzgizu'e}); song (= {sagzgi}, {selsa'a}); voice, as used musically
-  (= {zgivo'a}); composed music (= {finzgi}).  See also {damri}, {dansu}, {flani},
-  {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}.
-Examples: None
+word: zgike
+rafsi:
+- zgi
+- gi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is music performed/produced by x2 (event).
+    notes:
+    - x2 event may be person playing instrument, singing, musical source operating/vibrating,
+      etc.; instrument (= {zgica'a}); play an instrument (= {zgica'apli}, {zgiterca'a},
+      {selzgigau}, {selzgizu'e}); song (= {sagzgi}, {selsa'a}); voice, as used musically
+      (= {zgivo'a}); composed music (= {finzgi}).  See also {damri}, {dansu}, {flani},
+      {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}.
+    glosses:
+    - music
+  de:
+    place structure: x1 ist Musik gespielt/aufgeführt/produziert von x2 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - Musik
+  es:
+    place structure: x1 es música por compositor x2 ejecutada por x3
+    notes:
+    - No notes.
+    glosses:
+    - música
+  ru:
+    place structure: 'x1 — музыка, исполняемая/производимая x2 (чем: событие)'
+    notes:
+    - 'Событие x2 м.б. игрой на инструменте, пением, вибрацией и т.д. источника звука;
+      инструмент: {zgica''a}; играть на инструменте: {zgica''apli}, {zgiterca''a},
+      {selzgigau}, {selzgizu''e}; песня: {sagzgi}, {selsa''a}; голос, в музыкальном
+      аспекте: {zgivo''a}; сочиненная музыка: {finzgi} {damri} (барабан [ударный муз.
+      инструмент]), {dansu} (танцевать), {flani} (флейта), {janbe} (гонг), {jgita}
+      (струнный [музыкальный инструмент]), {pipno} (пианино), {rilti} (ритм), {tabra}
+      (труба [музыкальный инструмент]), {tonga} (тон), {xagri} (свирель), {siclu}
+      (свистеть)'
+    glosses:
+    - x1=музыка
+    - x2=источник музыки
+  en-simple:
+    place structure: x1 is music performed by x2
+    notes:
+    - No notes.
+    glosses:
+    - music
+    - x2=a performer of music
+  eo:
+    place structure: x1 estas muziko ludata/produktata de x2 (okazo)
+    notes:
+    - Okazo x2 povas esti homo ludanta instrumenton, kantanta, muzika fonto funkcianta/vibranta,
+      ktp.; instrumento (= {zgica'a}); ludi instrumenton (= {zgica'apli}, {zgiterca'a},
+      {selzgigau}, {selzgizu'e}); kanto (= {sagzgi}, {selsa'a}); voĉo, uzita muzike
+      (= {zgivo'a}); componita muziko (= {finzgi}).  Vidu ankaŭ {damri}, {dansu},
+      {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}.
+    glosses:
+    - muziko
+  hu:
+    place structure: x1 zene x2 esemény által/forrással
+    notes:
+    - '(Lásd még: {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra},
+      {tonga}, {xagri}, {siclu})'
+    glosses:
+    - zene
+  ja:
+    place structure: x1 は x2 に演奏／制作される音楽
+    notes:
+    - x2 は者だけでなく事も。 ・大意： 音楽 ・読み方： ズギケ  ・語呂合わせ： ＜ずっと義兄は音楽＞ ・関連語： {damri}, {dansu},
+      {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is muziek uitgevoerd/geproduceerd door x2 (gebeurtenis).
+    notes:
+    - x2 (gebeurtenis) kan een persoon zijn die het instrument bespeelt of zingt.
+      Kan ook de bron van de muziek zelf zijn, zoals het instrument zelf.
+    - 'Zie ook : {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra},
+      {tonga}, {xagri} en {siclu}.'
+    glosses:
+    - muziek
+  zh:
+    place structure: x1是由行为/事件x2导致/产生的音乐
+    notes:
+    - 事件x2可能是人演奏乐器，演唱音乐，音乐器件的运行/震动等；乐器={zgica'a}；演奏乐器={zgica'apli}/{zgiterca'a}/{selzgigau}/{selzgizu'e}；歌曲=
+      {sagzgi}/{selsa'a}；歌声={zgivo'a}；创作音乐= {finzgi}；参见 {damri}, {dansu}, {flani},
+      {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}.
+    glosses:
+    - No glosses.

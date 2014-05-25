@@ -1,5 +1,76 @@
-Word: jinru
-Rafsi: jir
-Definition: x1 (object/person) is immersed/submerged/bathes in liquid x2.
-Notes: Take a bath/bathe (= {jirsezlu'i}).  See also {lumci}, {nenri}, {jinsa}.
-Examples: None
+word: jinru
+rafsi:
+- jir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/person) is immersed/submerged/bathes in liquid x2.
+    notes:
+    - Take a bath/bathe (= {jirsezlu'i}).  See also {lumci}, {nenri}, {jinsa}.
+    glosses:
+    - immerse
+    - immersed
+    - submerged
+  de:
+    place structure: x1 (Objekt/Person) ist eingetaucht/untergetaucht/badet in Flüssigkeit
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - eintauchen
+  es:
+    place structure: x1 está inmerso/sumergido en líquido/fluido/baño x2
+    notes:
+    - No notes.
+    glosses:
+    - sumergirse
+  ru:
+    place structure: x1 (предмет/лицо) погружен/купается в жидкости x2
+    notes:
+    - 'принимать ванну: {jirsezlu''i} {lumci} (мыть), {nenri} (внутри), {jinsa} (чистый
+      [очищенный])'
+    glosses:
+    - купаться
+    - x1=купающийся
+  en-simple:
+    place structure: x1 is immersed or submerged in liquid x2
+    notes:
+    - No notes.
+    glosses:
+    - something immersed
+    - x2=a liquid something is immersed in
+  eo:
+    place structure: x1 (objekto/homo) mergiĝas/surfundiĝas/enlikviĝas/baniĝas en
+      likvaĵo x2
+    notes:
+    - Baniĝi (= {jirsezlu'i}).  Vidu ankaŭ {lumci}, {nenri}, {jinsa}.
+    glosses:
+    - mergiĝi
+  hu:
+    place structure: x1 elmerül(t) x2 folyadékban
+    notes:
+    - '(Lásd még: {lumci}, {nenri}, {jinsa})'
+    glosses:
+    - elmerül
+  ja:
+    place structure: x1 は x2 に漬かる／浸かる／沈む／潜る
+    notes:
+    - 比喩的に「没頭する」「夢中になる」も。 ・大意： 沈む ・読み方： ジンル  ・語呂合わせ： jin（浸）, immerse ・関連語： {lumci},
+      {nenri}, {jinsa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (object/person) är doppad/nedsänkt/bada/[dyka] i vätska x2.
+    notes:
+    - Ta ett bad/bada (= {jirsezlu'i}). Se även {lumci}, {cavlu'i}.
+    glosses:
+    - doppas (i vätska)
+    - nedsänkt (i vätska)
+    - sänks ned (i vätska)
+  zh:
+    place structure: x1被浸入/没入液体x2中
+    notes:
+    - 洗浴/洗澡= {jirsezlu'i}；参见 {lumci}, {nenri}, {jinsa}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,75 @@
-Word: tarti
-Rafsi: tra
-Definition: x1 behaves/conducts oneself as/in-manner x2 (event/property) under conditions
-  x3.
-Notes: Also (adjective:) $x_1$ is behavioral.  See also {cnano}, {frati}, {tcaci},
-  {cilce}, {jikca}, {marde}.
-Examples: None
+word: tarti
+rafsi:
+- tra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 behaves/conducts oneself as/in-manner x2 (event/property)
+      under conditions x3.
+    notes:
+    - Also (adjective:) x1 is behavioral.  See also {cnano}, {frati}, {tcaci}, {cilce},
+      {jikca}, {marde}.
+    glosses:
+    - behave
+    - x2=behaviour
+  de:
+    place structure: x1 verhält sich/benimmt sich als/in Art und Weise x2 (Ereignis/Eigenschaft)
+      unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - verhalten
+  es:
+    place structure: x1 se comporta/se conduce/actúa de manera x2 (evento) bajo condiciones
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - comportarse
+  ru:
+    place structure: 'x1 ведет себя x2 (каким образом: событие/свойство) в условиях/обстоятельствах
+      x3; x2 — поведение x1 (чего/кого)'
+    notes:
+    - '{cnano} (нормальный), {frati} (реагировать), {tcaci} (обычай), {cilce} (дикий),
+      {jikca} (общаться [социально взаимодействовать]), {marde} (мораль)'
+    glosses:
+    - вести себя
+    - x1=ведущий себя
+  en-simple:
+    place structure: x1 behaves oneself in manner x2
+    notes:
+    - No notes.
+    glosses:
+    - a behaver
+    - behave
+    - x1=someone with a behaviour
+    - x2=a behaviour
+    - x2=behaviour
+    - x3=a condition of behaviour
+  eo:
+    place structure: x1 kondutas sin en maniero x2 (okazo/eco) sub kondiĉoj x3
+    notes:
+    - Vidu ankaŭ {cnano}, {frati}, {tcaci}, {cilce}, {jikca}, {marde}.
+    glosses:
+    - konduti
+  hu:
+    place structure: x1 viselkedése x2 módon nyilvánul meg (esemény/tulajdonság) x3
+      körülmények között
+    notes:
+    - '(Lásd még: {cnano}, {frati}, {tcaci}, {cilce}, {jikca}, {marde})'
+    glosses:
+    - viselkedik
+  ja:
+    place structure: x1 は x2 （事／性質）を x3 （条件）で振舞う
+    notes:
+    - 「式典（ x3 ）で行儀よく（ x2 ）振舞う」。 ・大意： 振舞う ・読み方： タルティ  ・関連語： {cnano}, {frati}, {tcaci},
+      {cilce}, {jikca}, {marde}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1以方式x2（事件/性质）进行行为/动作，在条件x3下
+    notes:
+    - x1是行为的；参见 {cnano}, {frati}, {tcaci}, {cilce}, {jikca}, {marde}.
+    glosses:
+    - No glosses.

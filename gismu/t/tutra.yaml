@@ -1,5 +1,66 @@
-Word: tutra
-Rafsi: tut
-Definition: x1 is territory/domain/space of/belonging to/controlled by x2.
-Notes: See also {catni}, {turni}, {jecta}, {gugde}, {ponse}, {steci}, {tumla}.
-Examples: None
+word: tutra
+rafsi:
+- tut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is territory/domain/space of/belonging to/controlled by x2.
+    notes:
+    - See also {catni}, {turni}, {jecta}, {gugde}, {ponse}, {steci}, {tumla}.
+    glosses:
+    - territory
+  de:
+    place structure: x1 ist ein Gebiet/Gelände/Territorium/Raum von/gehörig zu/kontrolliert
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - Gebiet
+  es:
+    place structure: x1 es territorio/dominio/zona/región/espacio perteneciente a/controlado
+      por x2
+    notes:
+    - Ver también {turni},  {jecta},  {gugde},  {ponse},  {steci},  {tumla}.
+    glosses:
+    - territorio
+  ru:
+    place structure: x1 — территория/зона/регион/пространство, принадлежащая/контролируемая
+      x2 (кем)
+    notes:
+    - '{catni} (чиновник), {turni} (править), {jecta} (государство), {gugde} (страна),
+      {ponse} (владеть), {steci} (специфика), {tumla} (суша)'
+    glosses:
+    - x1=территория
+  en-simple:
+    place structure: x1 is territory controlled by x2
+    notes:
+    - No notes.
+    glosses:
+    - territory
+    - x2=a controller of territory
+  eo:
+    place structure: x1 estas teritorio/kampo/spaco de/apartena al/regita de x2
+    notes:
+    - Vidu ankaŭ {catni}, {turni}, {jecta}, {gugde}, {ponse}, {steci}, {tumla}.
+    glosses:
+    - teritorio
+  hu:
+    place structure: x1 a birtokterülete/birodalma x2-nek
+    notes:
+    - '(Lásd még: {catni}, {turni}, {jecta}, {gugde}, {ponse}, {steci}, {tumla})'
+    glosses:
+    - birtokterület
+  ja:
+    place structure: x1 は x2 に属する／管轄されている領域／領土／空間
+    notes:
+    - ・大意： 領土 ・読み方： トゥトラ  ・語呂合わせ： tu（土）, territory ・関連語： {catni}, {turni}, {jecta},
+      {gugde}, {ponse}, {steci}, {tumla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由x2所控制的/属于x2的领土/产业/领域/空间
+    notes:
+    - 参见 {catni}, {turni}, {jecta}, {gugde}, {ponse}, {steci}, {tumla}.
+    glosses:
+    - No glosses.

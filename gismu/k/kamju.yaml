@@ -1,6 +1,64 @@
-Word: kamju
-Rafsi: ''
-Definition: x1 is a column/pillar of material x2.
-Notes: Spine (= {bogykamju}), vertebra (= {kamjybo'u}).  See also {ckana}, {garna},
-  {sanli}, {slanu}.
-Examples: None
+word: kamju
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a column/pillar of material x2.
+    notes:
+    - Spine (= {bogykamju}), vertebra (= {kamjybo'u}).  See also {ckana}, {garna},
+      {sanli}, {slanu}.
+    glosses:
+    - column (pillar)
+  de:
+    place structure: x1 ist eine Säule/Stütze/ein Pfeiler aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Säule
+  es:
+    place structure: x1 es una columna/pilar (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - columna
+  ru:
+    place structure: x1 — колонна/столб из материала x2
+    notes:
+    - 'Позвоночник: {bogykamju}, позвонок: {kamjybo''u} {ckana} (кровать), {garna}
+      (рельс), {sanli} (стоять), {slanu} (цилиндр)'
+    glosses:
+    - x1=колонна
+  en-simple:
+    place structure: x1 is a column of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a pillar
+    - x2=a material of a pillar
+  eo:
+    place structure: x1 estas kolono el materialo x2
+    notes:
+    - Spino (= {bogykamju}), vertebro (= {kamjybo'u}).  Vidu ankaŭ {ckana}, {garna},
+      {sanli}, {slanu}.
+    glosses:
+    - kolono
+  hu:
+    place structure: x1 egy oszlop/pillér x2 anyagból
+    notes:
+    - '(Lásd még: {ckana}, {garna}, {sanli}, {slanu})'
+    glosses:
+    - oszlop
+  ja:
+    place structure: x1 は x2 （素材）の柱／支柱
+    notes:
+    - ・大意： 柱 ・読み方： カムジュ  ・関連語： {ckana}, {garna}, {sanli}, {slanu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由材料x2做成的柱子/柱形物
+    notes:
+    - 脊柱= {bogykamju}，椎骨= {kamjybo'u}；参见 {ckana}, {garna}, {sanli}, {slanu}.
+    glosses:
+    - No glosses.

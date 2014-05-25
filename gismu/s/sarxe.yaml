@@ -1,6 +1,66 @@
-Word: sarxe
-Rafsi: sax
-Definition: x1 is harmonious/concordant/in agreement/concord with x2 in property x3
-  (ka).
-Notes: See also {satci}, {panpi}, {mapti}, {tugni}, {ckini}.
-Examples: None
+word: sarxe
+rafsi:
+- sax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is harmonious/concordant/in agreement/concord with x2 in property
+      x3 (ka).
+    notes:
+    - See also {satci}, {panpi}, {mapti}, {tugni}, {ckini}.
+    glosses:
+    - harmonious
+  de:
+    place structure: x1 ist harmonisch/übereinstimmend/im Einklang mit x2 in Eigenschaft
+      x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - harmonisch
+  es:
+    place structure: x1 es armonioso/entona/acuerda con x2 en propiedad x3
+    notes:
+    - Ver también {mapti}.
+    glosses:
+    - armonioso
+  ru:
+    place structure: x1 находится в гармонии/ладу/согласии с x2 по свойству x3 ({ka});
+      x1 гармонирует с x2
+    notes:
+    - '{satci} (точный [об измерении]), {panpi} (в мире), {mapti} (подходить), {tugni}
+      (соглашаться), {ckini} (иметь отношение)'
+    glosses:
+    - x1=гармоничный
+  en-simple:
+    place structure: x1 is harmonious or in agreement with x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - something harmonious
+    - x2=something in harmony
+    - x3=a property of harmony
+  eo:
+    place structure: x1 estas harmonia/konkordanta/en akordo kun x2 en eco x3 (ka)
+    notes:
+    - Vidu ankaŭ {satci}, {panpi}, {mapti}, {tugni}, {ckini}.
+    glosses:
+    - harmonia
+  hu:
+    place structure: x1 harmonizál/összecseng/rímel x2-vel x3 tulajdonságban
+    notes:
+    - '(Lásd még: {satci}, {panpi}, {mapti}, {tugni}, {ckini})'
+    glosses:
+    - harmonizál
+  ja:
+    place structure: x1 は x2 と x3 （性質）の点で調和／和合している／なごみ合っている
+    notes:
+    - ・大意： 調和 ・読み方： サルクェ  ・関連語： {satci}, {panpi}, {mapti}, {tugni}, {ckini}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1与x2是和谐的/协调的，在性质x3（ka）上
+    notes:
+    - 参见 {satci}, {panpi}, {mapti}, {tugni}, {ckini}.
+    glosses:
+    - No glosses.

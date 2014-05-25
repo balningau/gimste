@@ -1,7 +1,76 @@
-Word: krinu
-Rafsi: rin, ki'u
-Definition: x1 (event/state) is a reason/justification/explanation for/causing/permitting
-  x2 (event/state).
-Notes: See also {ciksi}, {rinka}, {nibli}, {mukti}, se {jalge}, te {zukte}, cmavo
-  list {ki'u}, {bapli}.
-Examples: None
+word: krinu
+rafsi:
+- rin
+- ki'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) is a reason/justification/explanation for/causing/permitting
+      x2 (event/state).
+    notes:
+    - See also {ciksi}, {rinka}, {nibli}, {mukti}, se {jalge}, te {zukte}, cmavo list
+      {ki'u}, {bapli}.
+    glosses:
+    - reason
+  de:
+    place structure: x1 (Ereignis/Zustand) ist ein Grund/eine Rechtfertigung/Erklärung/Ursache
+      für x2 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - Grund
+  es:
+    place structure: x1 (evento) es una razón/justificación/explicación de x2 (evento)
+    notes:
+    - Ver también {rinka},  {nibli},  {mukti},  se {jalge},  te {zukte}.
+    glosses:
+    - No glosses.
+  fr:
+    place structure: x1 justifie x2
+    notes:
+    - No notes.
+    glosses:
+    - justifier
+  ru:
+    place structure: x1 (событие/состояние) есть основание для/оправдание/объяснение/резон/{причина}
+      (чтобы сделать/позволить) x2 (событие/состояние)
+    notes:
+    - '{ciksi} (объяснять), {rinka} (причина [физическая]), {nibli} (влечь [логически]),
+      {mukti} (повод), {se} {jalge} (результат), {te} {zukte} (действовать), {ki''u},
+      {bapli} (заставлять)'
+    glosses:
+    - основание (резон)
+    - x2=то, для чего есть основание (резон)
+  en-simple:
+    place structure: x1 is a justification or reason for x2
+    notes:
+    - No notes.
+    glosses:
+    - a justification
+    - x2=something justified
+  eo:
+    place structure: x1 (okazo/stato) estas kialo/pravigo/klarigo pri x2 (okazo/stato)
+    notes:
+    - Vidu ankaŭ {ciksi}, {rinka}, {nibli}, {mukti}, se {jalge}, te {zukte}, cmavo
+      {ki'u}, {bapli}.
+    glosses:
+    - kialo
+  hu:
+    place structure: x1 esemény/állapot az oka/indítéka/magyarázata x2 eseménynek/állapotnak
+    notes:
+    - '(Lásd még: {ciksi}, {rinka}, {nibli}, {mukti}, {jalge}, {zukte}, {bapli})'
+    glosses:
+    - ok
+  ja:
+    place structure: x1 （事）は x2 （事）を許容する理由
+    notes:
+    - ・大意： 理由 ・読み方： クリヌ  ・語呂合わせ： 理由くりぬき ・関連語： {ciksi}, {rinka}, {nibli}, {mukti},
+      {se} {jalge}, {te} {zukte}, {ki'u}, {bapli}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（事件/状态）是导致x2（事件/状态）的原因/解释/起因
+    notes:
+    - 参见 {ciksi}, {rinka}, {nibli}, {mukti}, se {jalge}, te {zukte}, {ki'u}, {bapli}.
+    glosses:
+    - No glosses.

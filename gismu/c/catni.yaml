@@ -1,6 +1,82 @@
-Word: catni
-Rafsi: ca'i
-Definition: x1 has authority/is an official in/on/over matter/sphere/persons x2 derived
-  on basis x3.
-Notes: See also {turni}, {tutra}, {krati}, cmavo list {ca'i}, {jaspu}, {pulji}.
-Examples: None
+word: catni
+rafsi:
+- ca'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 has authority/is an official in/on/over matter/sphere/persons
+      x2 derived on basis x3.
+    notes:
+    - See also {turni}, {tutra}, {krati}, cmavo list {ca'i}, {jaspu}, {pulji}.
+    glosses:
+    - authority
+    - x1=officer (one who has a position of authority in a hierarchical organization)
+  de:
+    place structure: x1 hat Autorität über/ist zuständig für Thema/Gegenstand/Einflussbereich/Personen
+      x2 aufgrund von x3 (Quelle der Autorität/Bevollmächtigung)
+    notes:
+    - No notes.
+    glosses:
+    - Autorität
+  es:
+    place structure: x1 tiene autoridad/es un oficial en asunto/esfera x2 con autoridad
+      basada en x3
+    notes:
+    - Ver también {turni},  {tutra}.
+    glosses:
+    - autoridad
+  ru:
+    place structure: x1 имеет власть/авторитет в сфере/над людьми x2, основанную на
+      x3; x1 — чиновник/официальное лицо
+    notes:
+    - '{turni} (править), {tutra} (территория), {krati} (представитель), {ca''i},
+      {jaspu} (паспорт), {pulji} (полицейский)'
+    glosses:
+    - иметь власть
+    - x1=имеющий власть
+  en-simple:
+    place structure: x1 has authority over x2 on the basis of x3
+    notes:
+    - No notes.
+    glosses:
+    - something with authority
+    - x2=something under authority
+    - x3=a basis of authority
+  eo:
+    place structure: x1 havas aŭtoritaton/estas oficialulo super afero/sfero/homoj
+      x2 bazitan sur x3
+    notes:
+    - Vidu ankaŭ {turni}, {tutra}, {krati}, cmavo {ca'i}, {jaspu}, {pulji}.
+    glosses:
+    - aŭtoritato
+  hu:
+    place structure: x1-nak törvényes/hivatalos hatalma van x2 személyek/ügy/tárgykör
+      fölött/-ben, x3 alapon
+    notes:
+    - '(Lásd még: {turni}, {tutra}, {krati}, {jaspu}, {pulji})'
+    glosses:
+    - felhatalmazott
+  ja:
+    place structure: x1 は x2 （事項／領域／者）にたいして x3 （基盤）による権威／権限を有する；  x1 は公務員／役人／政府高官
+    notes:
+    - ・大意： 権威 ・読み方： シャトニ  ・語呂合わせ：  cuan(権), authority  ・関連語： {turni}, {tutra}, {krati},
+      {ca'i}, {jaspu}, {pulji}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ämbetsman/har auktoritet över/vad gäller ärende/område/personer
+      x2 på grundval av x3.
+    notes:
+    - No notes.
+    glosses:
+    - officer (en som har en position av auktoritet i en hierarkisk organisation)
+    - ämbetsman
+    - x1=auktoritet
+    - x2=auktoritetsomfattning
+    - x3=mandat (villkor för auktoritet)
+  zh:
+    place structure: x1对于问题/事物/人x2是有权的/官方的，基于/源于基础x3
+    notes:
+    - 参见 {turni}, {tutra}, {krati}, {ca'i}, {jaspu}, {pulji}.
+    glosses:
+    - No glosses.

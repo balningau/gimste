@@ -1,6 +1,68 @@
-Word: kolme
-Rafsi: kol, ko'e
-Definition: x1 is a quantity of/contains/is made of coal/peat/anthracite/bitumen from
-  source x2.
-Notes: See also {tabno}, {tarla}.
-Examples: None
+word: kolme
+rafsi:
+- kol
+- ko'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of coal/peat/anthracite/bitumen
+      from source x2.
+    notes:
+    - See also {tabno}, {tarla}.
+    glosses:
+    - coal
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Kohle/Torf/Anthrazit/Pech
+      aus Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Kohle
+  es:
+    place structure: x1 es una cantidad de carbón/hulla/antracita/bituminoso de origen
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — уголь/торф/битум из источника x2
+    notes:
+    - '{tabno} (углерод), {tarla} (смола)'
+    glosses:
+    - уголь
+    - x2=источник угля
+  en-simple:
+    place structure: x1 is a quantity of coal from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of coal
+    - x2=a source of coal
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el karbo/terkarbo/torfo/antracito/bitumo
+      el fonto x2
+    notes:
+    - Vidu ankaŭ {tabno}, {tarla}.
+    glosses:
+    - karbo
+  hu:
+    place structure: x1 bizonyos mennyiségű kőszén/tőzeg/antracit (-ot tartalmaz/-ból
+      készült) x2 forrásból
+    notes:
+    - '(Lásd még: {tabno}, {tarla})'
+    glosses:
+    - kőszén
+  ja:
+    place structure: x1 は x2 （起源）の石炭／泥炭／ピート／無煙炭／瀝青炭
+    notes:
+    - ・大意： 石炭 ・読み方： コルゥメ  ・語呂合わせ： コール ・関連語： {tabno}, {tarla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是煤，来源于x2
+    notes:
+    - 参见 {tabno}, {tarla}.
+    glosses:
+    - No glosses.

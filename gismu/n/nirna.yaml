@@ -1,6 +1,64 @@
-Word: nirna
-Rafsi: nir
-Definition: 'x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control
-  network connection].'
-Notes: Also (adjective:) $x_1$ is neural.  See also ve {benji}.
-Examples: None
+word: nirna
+rafsi:
+- nir
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control
+      network connection].'
+    notes:
+    - Also (adjective:) x1 is neural.  See also ve {benji}.
+    glosses:
+    - nerve
+  de:
+    place structure: 'x1 ist ein Nerv/Neuron [Körperteil] von x2; [Im übertragenen
+      Sinn: Informations-/Kontroll-Netzverknüpfung]'
+    notes:
+    - No notes.
+    glosses:
+    - Nerv
+  es:
+    place structure: x1 es un nervio/neurona (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - nervio
+  ru:
+    place structure: x1 — нерв/нейрон (часть тела) x2
+    notes:
+    - 'Метафора: информационная/управляющая сеть {ve} {benji} (передавать [сигнал])'
+    glosses:
+    - x1=нерв
+  en-simple:
+    place structure: x1 is a nerve or neuron of x2
+    notes:
+    - No notes.
+    glosses:
+    - a nerve
+    - x2=something with a nerve
+  eo:
+    place structure: 'x1 estas nervo/neŭrono [korpoparto] de x2; [metafore: reta konduko
+      de informo/kontrolo]'
+    notes:
+    - Vidu ankaŭ ve {benji}.
+    glosses:
+    - nervo
+  hu:
+    place structure: x1 egy idegszála x2-nek
+    notes:
+    - '(Lásd még: {benji})'
+    glosses:
+    - ideg
+  ja:
+    place structure: x1 は x2 （本体）の神経（神経網）／ニューロン
+    notes:
+    - 比喩として「ネットワーク」なども。 ・大意： 神経 ・読み方： ニルナ  ・語呂合わせ： 神経煮るな ・関連語： {ve} {benji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的神经（身体部位），带有通孔x3
+    notes:
+    - x1是关于神经的/神经系统的；参见 ve {benji}.
+    glosses:
+    - No glosses.

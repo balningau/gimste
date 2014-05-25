@@ -1,5 +1,78 @@
-Word: burcu
-Rafsi: bru
-Definition: x1 is a brush for purpose x2 (event) with bristles x3.
-Notes: See also {komcu}, {pinsi}.
-Examples: None
+word: burcu
+rafsi:
+- bru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a brush for purpose x2 (event) with bristles x3.
+    notes:
+    - See also {komcu}, {pinsi}.
+    glosses:
+    - brush (tool using bristles)
+  de:
+    place structure: x1 ist eine Bürste für Zweck x2 (Ereignis) mit Borsten x3
+    notes:
+    - No notes.
+    glosses:
+    - Bürste
+  es:
+    place structure: x1 es un cepillo/brocha con propósito x2 con hebras x3
+    notes:
+    - Ver también {komcu}.
+    glosses:
+    - cepillo
+  ru:
+    place structure: x1 — щетка, предназначенная для x2 (событие) с щетиной x3
+    notes:
+    - '{komcu} (гребень), {pinsi} (карандаш)'
+    glosses:
+    - щётка
+  en-simple:
+    place structure: x1 is a brush for x2 with bristles x3
+    notes:
+    - No notes.
+    glosses:
+    - a brush
+    - x2=a purpose for a brush
+    - x3=a brush's bristles
+  eo:
+    place structure: x1 estas broso/peniko por celo x2 (okazo) kun haroj/fadenoj x3
+    notes:
+    - Vidu ankaŭ {komcu}, {pinsi}.
+    glosses:
+    - broso
+  hu:
+    place structure: x1 egy ecset x2 célra/felhasználásra, x3 szőrből
+    notes:
+    - '(Lásd még: {komcu}, {pinsi})'
+    glosses:
+    - ecset
+  ja:
+    place structure: x1 は x2 （用途）・ x3 （毛状物）のブラシ／はけ／モップ／毛筆
+    notes:
+    - ・大意： ブラシ ・読み方： ブルシュ  ・語呂合わせ：  ブラシ, brush ・関連語： {komcu}, {pinsi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en børste for formål x2 (hendelse) med bust x3
+    notes:
+    - Se og {komcu}, {pinsi}, {penbi}, {spali}, {lumci}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en pensel/borste för ändamål x2 (händelse) med borst x3.
+    notes:
+    - No notes.
+    glosses:
+    - borsta
+    - pensel
+    - x1=borste
+    - x2=borst funktion
+    - x3=borst (på borste/pensel)
+  zh:
+    place structure: x1是刷子，为了目的x2（事件），带有刷毛x3
+    notes:
+    - 参见 {komcu}, {pinsi}.
+    glosses:
+    - No glosses.

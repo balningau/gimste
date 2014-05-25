@@ -1,6 +1,72 @@
-Word: plixa
-Rafsi: lix
-Definition: x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3
-  propelled by x4.
-Notes: See also {kakpa}, {sraku}, {katna}, {skuro}.
-Examples: None
+word: plixa
+rafsi:
+- lix
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with
+      tool x3 propelled by x4.
+    notes:
+    - See also {kakpa}, {sraku}, {katna}, {skuro}.
+    glosses:
+    - plow (to turn earth)
+  de:
+    place structure: x1 (Handelnder) pflügt x2/gräbt x2 um mit Werkzeug x3 angetrieben
+      durch x4
+    notes:
+    - No notes.
+    glosses:
+    - pflügen
+  es:
+    place structure: x1 ara/labra/remueve x2 con herramienta/arado x3 propelido/impulsado
+      por x4
+    notes:
+    - Ver también {kakpa},  {sraku}.
+    glosses:
+    - arar
+  ru:
+    place structure: x1 пашет/вспахивает (надрезает и переворачивает пласт) x2 с помощью
+      орудия x3, приводимого в движение посредством x4
+    notes:
+    - '{kakpa} (выкапывать), {sraku} (царапать), {katna} (разрезать), {skuro} (борозда)'
+    glosses:
+    - пахать
+    - x1=пашуший
+    - x2=вспахиваемое
+    - x3=устройство для вспашки
+  en-simple:
+    place structure: x1 plows x2 with tool x3 propelled by x4
+    notes:
+    - No notes.
+    glosses:
+    - a plougher
+    - x2=something ploughed
+    - x3=a plough
+    - x4=a propulsion of a plough
+  eo:
+    place structure: x1 (aganto) plugas/sulkigas/kulturas [tranĉas kaj renversas]
+      x2-on per ilo x3 pelita de x4
+    notes:
+    - Vidu ankaŭ {kakpa}, {sraku}, {katna}, {skuro}.
+    glosses:
+    - plugi
+  hu:
+    place structure: x1 felszántja x2-t, x3 eszközzel, x4 meghajtással
+    notes:
+    - '(Lásd még: {kakpa}, {sraku}, {katna}, {skuro})'
+    glosses:
+    - szánt
+  ja:
+    place structure: x1 （者）は x2 を x3 （道具）で耕す／すき込む
+    notes:
+    - 農作における耕しに限らない。 ・大意： 耕す ・読み方： プルィクァ  ・語呂合わせ： 耕しっぷりかぁ？ ・関連語： {kakpa}, {sraku},
+      {katna}, {skuro}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1耕/犁x2，使用工具x3，由x4驱动
+    notes:
+    - 参见 {kakpa}, {sraku}, {katna}, {skuro}.
+    glosses:
+    - No glosses.

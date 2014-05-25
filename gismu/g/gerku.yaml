@@ -1,5 +1,94 @@
-Word: gerku
-Rafsi: ger, ge'u
-Definition: x1 is a dog/canine/[bitch] of species/breed x2.
-Notes: See also {lorxu}, {labno}, {mlatu}.
-Examples: None
+word: gerku
+rafsi:
+- ger
+- ge'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a dog/canine/[bitch] of species/breed x2.
+    notes:
+    - See also {lorxu}, {labno}, {mlatu}.
+    glosses:
+    - bitch (female dog)
+    - canine (animal)
+    - dog (animal)
+    - x1=dog (DELETE)
+    - x2=breed (of dog)
+  de:
+    place structure: x1 ist ein Hund/[eine Hündin] der Art/Rasse x2.
+    notes:
+    - Siehe auch {lorxu}, {labno}, {mlatu}.
+    glosses:
+    - Hund
+  es:
+    place structure: x1 es un perro/can de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - perro
+  ru:
+    place structure: x1 — собака/пес/{представитель семейства собачьих} вида/породы
+      x2
+    notes:
+    - '{lorxu} (лиса), {labno} (волк), {mlatu} (кошка)'
+    glosses:
+    - собака
+    - x2=вид собак
+  en-simple:
+    place structure: x1 is a dog of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a dog
+    - x2=a species of dog
+  eo:
+    place structure: x1 estas hundo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {lorxu}, {labno}, {mlatu}.
+    glosses:
+    - hundo
+  hu:
+    place structure: x1 egy kutya(féle) az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {lorxu}, {labno}, {mlatu})'
+    glosses:
+    - kutya
+  ja:
+    place structure: x1 は x2 （種類）のイヌ科動物（オオカミ／イエイヌ／コヨーテ／ジャッカル／リカオン／タヌキ／キツネ等）
+    notes:
+    - ・大意： 犬 ・読み方： ゲルク  ・語呂合わせ： ＜下痢で苦しむ＞狗 ・関連語： {lorxu} (下位概念), {labno} (下位概念), {mlatu}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to pies [suka]/psowate z gatunku/rasy x2.
+    notes:
+    - Cf. {lorxu}, {labno}, {tcakali}, {ko'otli}.
+    glosses:
+    - pies (zwierzę domowe)
+    - suka (samica psa)
+  sv:
+    place structure: x1 är en hund/(hunddjur) [tamhund om inget annat anges] av art/ras/sort
+      x2.
+    notes:
+    - Både gerku, {labno} (="varg") och {lorxu} (="räv") gör anspråk på delar av den
+      biologiska familjen Canidae (hunddjur). x1 är tamhund (Canis lupus familiaris)
+      om inte annat anges. Använd labno om arter inom tribe Canini (äkta hundar förutom
+      tamhund) respektive lorxu om arter inom tribe Vulpini (äkta rävar).
+    glosses:
+    - tamhund
+    - x1=hund
+    - x2=hundras
+  vi:
+    place structure: x1 là chó thuộc giống x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=chó
+    - x2=giống chó (loại chó)
+  zh:
+    place structure: x1是狗/犬，属于品种/种类x2
+    notes:
+    - 参见 {lorxu}, {labno}, {mlatu}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,88 @@
-Word: diklo
-Rafsi: klo
-Definition: x1 is local to x2; x1 is confined to locus x2 within range x3; x1 is regional
-Notes: Indicates a specific location/value within a range; e.g. a hits b.  What is
-  the locality on b that a hits?  Thus $x_1$ is associated with a specific narrow
-  region/interval $x_2$ of wider space/range $x_3$.  See also cmavo list {di'o}, {jibni},
-  {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}.
-Examples: None
+word: diklo
+rafsi:
+- klo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is local to x2; x1 is confined to locus x2 within range x3;
+      x1 is regional
+    notes:
+    - Indicates a specific location/value within a range; e.g. a hits b.  What is
+      the locality on b that a hits?  Thus x1 is associated with a specific narrow
+      region/interval x2 of wider space/range x3.  See also cmavo list {di'o}, {jibni},
+      {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}.
+    glosses:
+    - local
+    - regional
+  de:
+    place structure: x1 ist örtlich zu x2; x1 ist beschränkt auf Stelle x2 und Reichweite
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - örtlich
+  es:
+    place structure: x1 es local/vecino/lugareño de x2 en región/localidad/vecindad
+      x3
+    notes:
+    - Ver también {jibni},  {zvati},  {cpana},  {nenri},  {lamji},  {stuzi},  {tcila}.
+    glosses:
+    - local
+  ru:
+    place structure: x1 локализован/сосредоточен в x2, в пределах x3
+    notes:
+    - 'Также: местный, локальный; также: x1 привязан/прикован к x2, ограничен областью
+      x2; указывает на определенное место/значение в пределах некой области; напр.
+      «A ударяет B» — в какое место на B? Тем самым, x1 связывается с определенным
+      узким районом/интервалом более широкого пространства {di''o}, {jibni} (близко),
+      {zvati} (находиться), {cpana} (на), {nenri} (внутри), {lamji} (смежный), {stuzi}
+      (место [постоянное]), {tcila} (черта [особенность])'
+    glosses:
+    - x1=локализованный
+  en-simple:
+    place structure: x1 is confined to location x2 within range x3
+    notes:
+    - No notes.
+    glosses:
+    - something local
+    - x2=a center of locality
+    - x3=a range of locality
+  eo:
+    place structure: x1 estas loka al x2; x1 estas limigita al loko x2 ene de amplekso
+      x3
+    notes:
+    - Indikas specifan lokon/valoron ene de amplekso; ekz. a batas b-on. Kiu estas
+      la loko sur b, kiun a batas? Do x1 rilatas al specifa malvasta regiono/intervalo
+      x2 en amplekso x3.  Vidu ankaŭ cmavo {di'o}, {jibni}, {zvati}, {cpana}, {nenri},
+      {lamji}, {stuzi}, {tcila}.
+    glosses:
+    - loka
+  hu:
+    place structure: x1 köthető x2 helyhez, az x3 tartományon belül
+    notes:
+    - '(Lásd még: {jibni}, {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila})'
+    glosses:
+    - helyi
+  ja:
+    place structure: x1 は x2 （局所）・ x3 （領域）について局所的／ローカル； x1 は x2 に局在する
+    notes:
+    - 特定の領域における部分的な範囲を表す。「AはBを殴った」「Bのどこを殴った？」における「どこ」が x2 に、「B」が x3 に当たる。「猫は部屋のベッドにいる／lo
+      mlatu cu diklo lo ckana lo kumfa」 ・大意： 局所 ・読み方： ディクルォ ・関連語： {di'o}, {jibni},
+      {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 har lokal anknytning till x2; x1 är begränsad till ställe
+      [lokus] x2 inom räckvidd/utbredningsområde x3;  x1 är regional/lokal.
+    notes:
+    - No notes.
+    glosses:
+    - lokal (begränsad till visst område)
+    - regional (begränsad till visst område)
+  zh:
+    place structure: x1是限制在地点x2的事物，范围为x3；x1是x2当地的；x1是具有地区性的
+    notes:
+    - 指具有范围的特定的位置和值；比如：A打B，那么A打的B上的那个位置呢？也指：x1是跟某个特定区域/区间相关的，x2属于更宽的区域/区间x3；参见：{di'o},
+      {jibni}, {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}.
+    glosses:
+    - No glosses.

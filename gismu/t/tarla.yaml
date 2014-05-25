@@ -1,5 +1,64 @@
-Word: tarla
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of tar/asphalt from source x2.
-Notes: See also {kolme}, {pesxu}, {snipa}.
-Examples: None
+word: tarla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of tar/asphalt from source
+      x2.
+    notes:
+    - See also {kolme}, {pesxu}, {snipa}.
+    glosses:
+    - tar
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Teer/Asphalt aus Quelle
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Teer
+  es:
+    place structure: x1 es una cantidad de brea/asfalto/alquitrán de origen x2
+    notes:
+    - Ver también {pesxu},  {snipa}.
+    glosses:
+    - brea
+  ru:
+    place structure: x1 — смола/асфальт из источника x2
+    notes:
+    - '{kolme} (уголь), {pesxu} (паста), {snipa} (прилипать)'
+    glosses:
+    - смола
+  en-simple:
+    place structure: x1 is a quantity of tar from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of tar
+    - x2=a source of tar
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el gudro/asfalto el fonto
+      x2
+    notes:
+    - (kp. kolme, peŝu, snipa)
+    glosses:
+    - gudro
+  hu:
+    place structure: x1 bizonyos mennyiségű szurok/kátrány/bitumen x2 forrásból
+    notes:
+    - '(Lásd még: {kolme}, {pesxu}, {snipa})'
+    glosses:
+    - szurok
+  ja:
+    place structure: x1 は x2 （起源）のタール／アスファルト
+    notes:
+    - 道路舗装／木材防腐剤／染料に含まれる。 ・大意： タール ・読み方： タルルァ  ・関連語： {kolme}, {pesxu}, {snipa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是沥青/柏油，来源于x2
+    notes:
+    - 参见 {kolme}, {pesxu}, {snipa}.
+    glosses:
+    - No glosses.

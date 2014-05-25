@@ -1,5 +1,73 @@
-Word: ctile
-Rafsi: ''
-Definition: x1 is a quantity of petroleum/oil from source x2.
-Notes: See also {grasu}.
-Examples: None
+word: ctile
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of petroleum/oil from source x2.
+    notes:
+    - See also {grasu}.
+    glosses:
+    - oil (petroleum)
+    - petroleum
+  de:
+    place structure: x1 ist eine gewisse Menge/besteht aus/enthält Erdöl/Mineralöl/Öl
+      aus Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Erdöl
+  es:
+    place structure: x1 es una cantidad de petróleo/nafta de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - petróleo
+  ru:
+    place structure: x1 — нефть из источника x2
+    notes:
+    - '{grasu} (жир)'
+    glosses:
+    - нефть
+  en-simple:
+    place structure: x1 is a quantity of petroleum from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of petroleum
+    - x2=a source of petroleum
+  eo:
+    place structure: x1 estas kvanto da petrolo/ŝtonoleo/nafto el fonto x2
+    notes:
+    - Vidu ankaŭ {grasu}.
+    glosses:
+    - petrolo
+  hu:
+    place structure: x1 bizonyos mennyiségű kőolaj x2 forrásból
+    notes:
+    - '(Lásd még: {grasu})'
+    glosses:
+    - kőolaj
+  ja:
+    place structure: x1 は x2 （起源）の石油／オイル／化石燃料
+    notes:
+    - ・大意： 石油 ・読み方： シティルェ ・関連語： {grasu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är olja/petroleum från ursprungskälla x2.
+    notes:
+    - Se även {grasu}.
+    glosses:
+    - mineralolja
+    - petroleum
+    - råolja
+    - x1=olja (petroleum)
+    - x2=oljekälla (petroleum)
+  zh:
+    place structure: x1是石油，来源于x2
+    notes:
+    - 参见 {grasu}.
+    glosses:
+    - No glosses.

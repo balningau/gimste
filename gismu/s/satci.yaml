@@ -1,6 +1,67 @@
-Word: satci
-Rafsi: ''
-Definition: x1 [measurement/match] is exact/precise to precision x2 in property/quantity
-  x3 (ka/ni).
-Notes: See also {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.
-Examples: None
+word: satci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [measurement/match] is exact/precise to precision x2 in property/quantity
+      x3 (ka/ni).
+    notes:
+    - See also {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.
+    glosses:
+    - exact
+  de:
+    place structure: x1 [Messung/Passung] ist genau/präzise mit Genauigkeit/Präzision
+      x2 in Eigenschaft/Menge/Größe (ka/ni)
+    notes:
+    - No notes.
+    glosses:
+    - genau
+  es:
+    place structure: x1 es exacto con precisión x2 en propiedad/cantidad x3
+    notes:
+    - Ver también {sarxe},  {dunli},  {merli},  {mapti},  {kancu}.
+    glosses:
+    - exacto
+  ru:
+    place structure: x1 — точное, с погрешностью x2, измерение/совпадение свойства/величины
+      ({ka}/{ni}) x3
+    notes:
+    - '{sarxe} (гармонировать), {dunli} (равный), {merli} (измерять), {mapti} (подходить),
+      {kancu} (пересчитывать), {mintu} (идентичный)'
+    glosses:
+    - x1=точный
+  en-simple:
+    place structure: x1 is exact to precision x2 in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something exact
+    - x2=a precision of exactness
+    - x3=a property of exactness
+  eo:
+    place structure: x1 [mezuro] estas preciza je grado x2 laŭ eco/kvanto x3 (ka/ni)
+    notes:
+    - Vidu ankaŭ {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.
+    glosses:
+    - preciza
+  hu:
+    place structure: x1 mérték/hasonlóság pontos x2 pontosságig, x3 tulajdonságban
+    notes:
+    - '(Lásd még: {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu})'
+    glosses:
+    - pontos
+  ja:
+    place structure: x1 は x2 （基準）に関して x3 （性質／数量）の点で精確
+    notes:
+    - ・大意： 精確 ・読み方： サチ ・語呂合わせ： precise, cie(切)　精確だから幸あれ ・関連語： {sarxe}, {dunli}, {merli},
+      {mapti}, {kancu}, {mintu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（测量/匹配）是精确地/准确的，以精密度x2来说，在性质/数量x3（ka/ni）上
+    notes:
+    - 参见 {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.
+    glosses:
+    - No glosses.

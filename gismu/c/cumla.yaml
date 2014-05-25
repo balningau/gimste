@@ -1,6 +1,70 @@
-Word: cumla
-Rafsi: cul
-Definition: x1 is humble/modest about x2 (abstraction); x1 displays humility about
-  x2.
-Notes: See also {cinmo}, {jgira}.
-Examples: None
+word: cumla
+rafsi:
+- cul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is humble/modest about x2 (abstraction); x1 displays humility
+      about x2.
+    notes:
+    - See also {cinmo}, {jgira}.
+    glosses:
+    - humble
+  de:
+    place structure: x1 ist bescheiden/demütig über x2 (Abstraktion); x1 zeigt Demut
+      über x2
+    notes:
+    - No notes.
+    glosses:
+    - bescheiden
+  es:
+    place structure: x1 es humilde/modesto sobre x2 (abstracción)
+    notes:
+    - Ver también {jgira}.
+    glosses:
+    - humilde
+  ru:
+    place structure: x1 скромен/умерен/сдержан/непритязателен в отношении x2 (абстракция)
+    notes:
+    - 'Также: смиренный {cinmo} (эмоциональный), {jgira} (гордиться)'
+    glosses:
+    - непритязательный
+  en-simple:
+    place structure: x1 is modest or humble about x2
+    notes:
+    - No notes.
+    glosses:
+    - something modest
+    - x2=something that something is modest about
+  eo:
+    place structure: x1 estas humila/modesta pri x2 (abstraktaĵo); x1 elmontras humilon
+      pri x2
+    notes:
+    - Vidu ankaŭ {cinmo}, {jgira}.
+    glosses:
+    - humila
+  hu:
+    place structure: x1 alázatosságot/szerénységet mutat x2-vel szemben
+    notes:
+    - '(Lásd még: {cinmo}, {jgira})'
+    glosses:
+    - alázatos
+  ja:
+    place structure: x1 は x2 （事）に関して謙虚／穏当／謙遜している／慎ましい／控えめ／腰が低い
+    notes:
+    - ・大意： 慎ましい ・読み方： シュムルァ ・語呂合わせ： humility, cun（遜） ・関連語： {cinmo}, {jgira}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ödmjuk/blygsam/anspråkslös vad gäller x2 (abstraktion).
+    notes:
+    - No notes.
+    glosses:
+    - ödmjuk
+  zh:
+    place structure: x1是谦虚的/谦逊的，关于x2（谓词子句）；x1表现得谦卑，关于x2
+    notes:
+    - 参见 {cinmo}, {jgira}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,78 @@
-Word: cecmu
-Rafsi: cem, ce'u
-Definition: x1 is a community/colony of organisms x2.
-Notes: See also {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
-Examples: None
+word: cecmu
+rafsi:
+- cem
+- ce'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a community/colony of organisms x2.
+    notes:
+    - See also {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
+    glosses:
+    - community
+  de:
+    place structure: x1 ist eine Gemeinschaft/Kolonie/Gesellschaft/ein Gemeinwesen
+      von Organismen x2
+    notes:
+    - No notes.
+    glosses:
+    - Gemeinschaft
+  es:
+    place structure: x1 es una comunidad/colonia de organismos x2
+    notes:
+    - No notes.
+    glosses:
+    - comunidad
+  ru:
+    place structure: x1 — сообщество/колония организмов x2
+    notes:
+    - '{bende} (команда), {kulnu} (культура [этноса]), {natmi} (народ), {tcadu} (город),
+      {jecta} (государство), {girzu} (группа)'
+    glosses:
+    - x1=сообщество
+  en-simple:
+    place structure: x1 is a community or colony of organisms x2
+    notes:
+    - No notes.
+    glosses:
+    - a community
+    - x2=organisms in a community
+  eo:
+    place structure: x1 estas komunumo/kolonio de organismoj x2
+    notes:
+    - Vidu ankaŭ {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
+    glosses:
+    - komunumo
+  hu:
+    place structure: x1 egy közösség/kolónia/társadalom, x2 tagokkal/élőlényekből
+    notes:
+    - '(Lásd még: {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu})'
+    glosses:
+    - közösség
+  ja:
+    place structure: x1 は x2 （有機体）の共同体／社会／コミュニティ／群落／集団営巣地／植民地
+    notes:
+    - ・大意： 共同体 ・読み方： シェシム  ・語呂合わせ：  community ・関連語： {bende}, {kulnu}, {natmi}, {tcadu},
+      {jecta}, {girzu}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is gemeenschap/kolonie van organismen x2.
+    notes:
+    - 'Zie ook : {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.'
+    glosses:
+    - gemeenschap
+  sv:
+    place structure: x1 är ett samhälle/koloni med organismer x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=samhälle
+    - x2=medborgare (samhällsmedborgare)
+  zh:
+    place structure: x1是生物x2聚集的群落/聚集地/社区
+    notes:
+    - 参见 {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
+    glosses:
+    - No glosses.

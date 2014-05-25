@@ -1,5 +1,63 @@
-Word: maxri
-Rafsi: xri
-Definition: x1 is a quantity of wheat [grain] of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: maxri
+rafsi:
+- xri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of wheat [grain] of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - wheat
+  de:
+    place structure: x1 ist eine Menge an Weizen [Getreide/Korn] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Weizen
+  es:
+    place structure: x1 es una cantidad de trigo (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - trigo
+  ru:
+    place structure: x1 — пшеница (зерно) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - пшеница
+    - x2=вид пшеницы
+  en-simple:
+    place structure: x1 is a quantity of wheat of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of wheat
+    - x2=a species of wheat
+  eo:
+    place structure: x1 estas kvanto da tritiko [greno] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - tritiko
+  hu:
+    place structure: x1 bizonyos menniségű búzamag az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - búzamag
+  ja:
+    place structure: x1 は x2 （品種）のコムギ粒
+    notes:
+    - ・大意： 小麦 ・読み方： マクゥリ  ・関連語： {gurni}
+    - ''
+    glosses:
+    - 小麦 (穀粒)
+    - x1=コムギ (穀粒)
+  zh:
+    place structure: x1是小麦，属于种族/种类
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

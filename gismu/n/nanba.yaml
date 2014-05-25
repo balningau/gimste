@@ -1,6 +1,66 @@
-Word: nanba
-Rafsi: nab
-Definition: x1 is a quantity of/contains bread [leavened or unleavened] made from
-  grains x2.
-Notes: See also {gurni}, {panlo}, {toknu}.
-Examples: None
+word: nanba
+rafsi:
+- nab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains bread [leavened or unleavened] made
+      from grains x2.
+    notes:
+    - See also {gurni}, {panlo}, {toknu}.
+    glosses:
+    - bread
+  de:
+    place structure: x1 ist eine Menge an/enthält Brot [gesäuert oder ungesäuert]
+      hergestellt aus Getreide/Korn x2
+    notes:
+    - No notes.
+    glosses:
+    - Brot
+  es:
+    place structure: x1 es una cantidad de pan hecho de grano/harina x2
+    notes:
+    - No notes.
+    glosses:
+    - pan
+  ru:
+    place structure: x1 — хлеб (дрожжевой или пресный), сделанный из зерен x2
+    notes:
+    - '{gurni} (зерно), {panlo} (ломтик), {toknu} (духовка)'
+    glosses:
+    - x1=хлеб
+    - x2=зерна для хлеба
+  en-simple:
+    place structure: x1 is a quantity of bread from grains x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of bread
+    - x2=a source of bread
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el pano [fermentigita aŭ
+      ne] farita el grajnoj x2
+    notes:
+    - Vidu ankaŭ {gurni}, {panlo}, {toknu}.
+    glosses:
+    - pano
+  hu:
+    place structure: x1 bizonyos mennyiségű kenyér x2 magból
+    notes:
+    - '(Lásd még: {gurni}, {panlo}, {toknu})'
+    glosses:
+    - kenyér
+  ja:
+    place structure: x1 は x2 （種類／原料／穀物）のパン
+    notes:
+    - 酵母を使っても使わなくても良い。 ・大意： パン ・読み方： ナンバ  ・語呂合わせ： パンはナンばかり, mianbau(面包), bread ・関連語：
+      {gurni}, {panlo}, {toknu}
+    - ''
+    glosses:
+    - x1=パン (食品)
+  zh:
+    place structure: x1是面包（不论发酵与否），由谷物x2制成
+    notes:
+    - 参见 {gurni}, {panlo}, {toknu}.
+    glosses:
+    - No glosses.

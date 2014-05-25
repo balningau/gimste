@@ -1,12 +1,119 @@
-Word: ganse
-Rafsi: gas, ga'e
-Definition: x1 [observer] senses/detects/notices stimulus property x2 (ka) by means
-  x3 under conditions x4.
-Notes: $x_1$ is sensitive to $x_2$; also feels, spots, perceives, makes out, discerns/recognizes
-  (but only implying reaction without necessarily any significant mental processing);
-  note that the emphasis is on a property which stimulates $x_1$ and is detected (sanji
-  is passive about the sensing, and is not limited to sensory input, as well as presuming
-  some kind of discernment/recognition, while not being concerned with the means of
-  detection); $x_3$ sense/sensory channel.  See also {pencu}, {sanji}, {viska}, {sumne},
-  {tirna}, {zgana}, {canci}, {simlu}.
-Examples: None
+word: ganse
+rafsi:
+- gas
+- ga'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [observer] senses/detects/notices stimulus property x2 (ka)
+      by means x3 under conditions x4.
+    notes:
+    - x1 is sensitive to x2; also feels, spots, perceives, makes out, discerns/recognizes
+      (but only implying reaction without necessarily any significant mental processing);
+      note that the emphasis is on a property which stimulates x1 and is detected
+      (sanji is passive about the sensing, and is not limited to sensory input, as
+      well as presuming some kind of discernment/recognition, while not being concerned
+      with the means of detection); x3 sense/sensory channel.  See also {pencu}, {sanji},
+      {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}.
+    glosses:
+    - feel (become aware of through the skin)
+    - sense
+  de:
+    place structure: x1 [Erfahrender] nimmt wahr/erfasst/bemerkt Reiz-Eigenschaft
+      x2 (ka) mit Mitteln x3 unter Umständen x4
+    notes:
+    - No notes.
+    glosses:
+    - wahrnehmen
+  es:
+    place structure: x1 siente/detecta/nota/percibe/se da cuenta de estímulo x2 por
+      medio de sentido x3 bajo condiciones x4
+    notes:
+    - No notes.
+    glosses:
+    - sentir
+  ru:
+    place structure: 'x1 (наблюдатель) чувствует/ощущает/замечает x2 ({ka}: свойство
+      стимула) посредством x3 в условиях x4'
+    notes:
+    - 'x1 чувствителен к x2; Также: обнаруживает/узнает/различает, но только, когда
+      имеется в виду реакция, не обязательно предполагающая существенное умственное
+      усилие/работу; существенно наличие свойства, которое стимулирует x1 и обнаруживается
+      им ({sanji} подразумевает пассивное восприятие и не ограничено чувственным восприятием,
+      ударение при этом делается на факте осознания/узнавания, а не на средствах обнаружения);
+      x3 — чувство/сенсорный канал {pencu} (трогать), {sanji} (осознавать), {viska}
+      (видеть), {sumne} (обонять), {tirna} (слышать), {zgana} (наблюдать), {canci}
+      (исчезать), {simlu} (казаться)'
+    glosses:
+    - чувствовать боль
+  en-simple:
+    place structure: x1 detects or senses x2 by means x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=a detecter
+    - x2=something detected
+    - x3=a detection means
+    - x4=a detection conditions
+  eo:
+    place structure: x1 [observanto] sensas/rimarkas stimulan econ x2 (ka) per rimedoj
+      x3 sub kondiĉoj x4
+    notes:
+    - x1 estas sensema al x2; ankaŭ sentas, rimarkas, perceptas, distingas, diferencigas,
+      rekonas (sed implicas nur reagon sen necese ia ajn signifa mensa pritrakto);
+      rimarku ke la emfazo estas sur eco kiu stimulas x1-on kaj estas detektata (sanji
+      estas pasiva pri la sensado, kaj ne estas limigita al sensa enigo, krom supozanta
+      ian distingon/rekonon, dum ĝin ne koncernas la rimedoj de detekto); x3 senso/sensa
+      kanalo.  Vidu ankaŭ {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci},
+      {simlu}.
+    glosses:
+    - sensi
+  hu:
+    place structure: x1 megfigyelő érzékeli/észreveszi x2 tulajdonságot, x3 módon,
+      x4 körülmények között
+    notes:
+    - 'Továbbá: megérez, felismer (jelentős szellemi feldolgozás nélkül) (Lásd még:
+      {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu})'
+    glosses:
+    - érzékel
+  ja:
+    place structure: x1 （者）は x2 （性質）を x3 （手段）によって、 x4 （環境条件）のもと感知／感得する／感じ取る；  x1 は
+      x2 にたいして敏感／センシティヴ
+    notes:
+    - ・大意： 感知 ・読み方： ガンセ  ・関連語： {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana},
+      {canci}, {simlu}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 czuje/odczuwa cechy bodźca x2 (ka) poprzez x3 w warunkach
+      x4.
+    notes:
+    - Cf. {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}.
+    glosses:
+    - czuć
+    - odczuwać
+  sv:
+    place structure: x1 [observatör] känner/förnimmer/upptäcker stimulus egenskap
+      x2 (ka) med medel x3 under omständigheter/villkor x4.
+    notes:
+    - x1 är sensitiv/inkännande/känslig av/för x2; även få syn på, uppfattar, lägger
+      märke till, urskilja, känner igen (men som endast avser reaktion utan nödvändigtvis
+      någon betydande mental process); lägg märke till att betoningen är på egenskapen
+      som stimulerar x1 och vilken läggs märke till (sanji är passiv och är inte begränsad
+      till sinnesintryck, likväl som att anta någon form av urskiljande/igenkännande,
+      medan den inte bryr sig om att specificera med vilka medel något upptäcks).
+    glosses:
+    - förnimma
+    - känna (förnimma m sinnen)
+    - upptäcka (förnimma m sinnen)
+    - x1=sensitiv (förnimmer egenskaper m sinnen)
+    - x2=upptäckt (adj; förnummen m sinnen)
+    - x3=sinne (smak, syn, hörsel, känsel, lukt etc)
+  zh:
+    place structure: x1（观察者）观察/探测/感受/感觉到刺激物的性质x2（ka），依靠方法x3，在条件x4下
+    notes:
+    - x1对x2是有感觉的；也指：感知/察觉/认知/领悟/识别（不暗示存在反应，不必要任何心智上的处理过程）； 注意其强调的是刺激x1或被感受到的性质；（{sanji}是被动的“感知”，且并不限于感觉器的输入，也可能只是某种心理上的感受/识别，而与探知的方式无关）；x3感官/感受信道；参见
+      {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}.
+    glosses:
+    - No glosses.

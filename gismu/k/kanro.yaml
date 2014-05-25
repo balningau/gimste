@@ -1,5 +1,69 @@
-Word: kanro
-Rafsi: ka'o
-Definition: x1 is healthy/fit/well/in good health by standard x2.
-Notes: See also {bilma}, {mikce}.
-Examples: None
+word: kanro
+rafsi:
+- ka'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is healthy/fit/well/in good health by standard x2.
+    notes:
+    - See also {bilma}, {mikce}.
+    glosses:
+    - healthy
+    - well (in good health)
+  de:
+    place structure: x1 ist gesund/fit/von guter Gesundheit gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - gesund
+  es:
+    place structure: x1 está sano/funciona en propiedad/aspecto x2
+    notes:
+    - Ver también {spofu}.
+    glosses:
+    - sano
+  ru:
+    place structure: x1 здоров/находится в хорошей форме, относительно стандарта x2
+    notes:
+    - '{bilma} (больной), {mikce} (лечить)'
+    glosses:
+    - здоровый
+  en-simple:
+    place structure: x1 is healthy or well by standard x2
+    notes:
+    - No notes.
+    glosses:
+    - something healthy
+    - x2=a standard of health
+  eo:
+    place structure: x1 estas sana/bonfarta laŭ normo x2
+    notes:
+    - Vidu ankaŭ {bilma}, {mikce}.
+    glosses:
+    - sana
+  hu:
+    place structure: x1 egészséges/fitt x2 mérce szerint
+    notes:
+    - '(Lásd még: {bilma}, {mikce})'
+    glosses:
+    - egészséges
+  ja:
+    place structure: x1 は x2 （基準）において健康／すこやか
+    notes:
+    - ・大意： 健康 ・読み方： カンロ  ・語呂合わせ： kang(康), sano 甘露 ・関連語： {bilma}, {mikce}
+    - ''
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 khỏe mạnh theo tiêu chuẩn x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=khỏe
+    - x2=tiêu chuẩn
+  zh:
+    place structure: x1是健康的，基于标准x2
+    notes:
+    - 参见 {bilma}, {mikce}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: xance
-Rafsi: xan, xa'e
-Definition: 'x1 is a/the hand [body-part] of x2; [metaphor: manipulating tool, waldo].'
-Notes: (adjective:) $x_1$ is manual.  See also {birka}, {degji}, {jitro}, {xlura},
-  {jamfu}, {tamji}.
-Examples: None
+word: xance
+rafsi:
+- xan
+- xa'e
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the hand [body-part] of x2; [metaphor: manipulating
+      tool, waldo].'
+    notes:
+    - (adjective:) x1 is manual.  See also {birka}, {degji}, {jitro}, {xlura}, {jamfu},
+      {tamji}.
+    glosses:
+    - hand
+  de:
+    place structure: 'x1 ist ein Hand [Körperteil] von x2; [Im übertragenen Sinn:
+      betätigendes Werkzeug]'
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es una mano (parte del cuerpo) de x2
+    notes:
+    - Ver también {birka},  {degji},  {jamfu},  {tamji}.
+    glosses:
+    - mano
+  ru:
+    place structure: x1 — кисть руки (часть тела) x2
+    notes:
+    - 'Метафора: механический манипулятор {birka} (рука), {degji} (палец), {jitro}
+      (контролировать), {xlura} (влиять), {jamfu} (ступня), {tamji} (большой палец)'
+    glosses:
+    - x1=кисть (руки)
+  en-simple:
+    place structure: x1 is a hand of x2
+    notes:
+    - No notes.
+    glosses:
+    - a hand
+    - x2=something with a hand
+  eo:
+    place structure: 'x1 estas mano [korpoparto] de x2; [metafore: manipulilo]'
+    notes:
+    - Vidu ankaŭ {birka}, {degji}, {jitro}, {xlura}, {jamfu}, {tamji}.
+    glosses:
+    - mano
+  hu:
+    place structure: x1 egy/a keze x2-nek
+    notes:
+    - '(Lásd még: {birka}, {degji}, {jitro}, {xlura}, {jamfu}, {tamji})'
+    glosses:
+    - kéz
+  ja:
+    place structure: x1 は x2 （本体）の手
+    notes:
+    - ・大意： 手 ・読み方： クァンシェ  ・語呂合わせ： ＜半分シェイク＞,hand ・関連語： {birka}, {degji}, {jitro}, {xlura},
+      {jamfu}, {tamji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的手（身体部位）
+    notes:
+    - x1是关于手的/手动的；参见 {birka}, {degji}, {jitro}, {xlura}, {jamfu}, {tamji}.
+    glosses:
+    - No glosses.

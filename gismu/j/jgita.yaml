@@ -1,6 +1,74 @@
-Word: jgita
-Rafsi: git
-Definition: x1 is guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow
-  x2.
-Notes: Also lute, viola, cello.  See also {zgike}.
-Examples: None
+word: jgita
+rafsi:
+- git
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is guitar/violin/fiddle/harp [stringed musical instrument]
+      with actuator/plectrum/bow x2.
+    notes:
+    - Also lute, viola, cello.  See also {zgike}.
+    glosses:
+    - guitar
+  de:
+    place structure: x1 ist eine Gitarre/Violine/Geige/Harfe [Saiteninstrument] mit
+      Auslöser/Plektrum/Bogen x2
+    notes:
+    - No notes.
+    glosses:
+    - Gitarre
+  es:
+    place structure: x1 es una guitarra/violín/viola/cello/arpa (instrumento musical
+      de cuerdas) con arco x2
+    notes:
+    - No notes.
+    glosses:
+    - guitarra
+  ru:
+    place structure: x1 — гитара/скрипка/арфа/балалайка (струнный музыкальный инструмент)
+      с приспособлением для извлечения звука (плектром/смычком) x2
+    notes:
+    - '{zgike} (музыка)'
+    glosses:
+    - x1=гитара
+  en-simple:
+    place structure: x1 is a stringed musical instrument with plectrum or bow x2
+    notes:
+    - No notes.
+    glosses:
+    - a stringed musical instrument
+    - x2=a stringed musical instrument's bow
+  eo:
+    place structure: x1 estas gitaro/violono/violonĉelo/harpo [korda muzikinstrumento]
+      kun plektro/arĉo x2
+    notes:
+    - 'Ankaŭ: mandolino, liuto.  Vidu ankaŭ {zgike}.'
+    glosses:
+    - gitaro
+  hu:
+    place structure: x1 egy gitár/hegedű/cselló/nagybőgő/lant/citera/hárfa/egyéb húros
+      hangszer x2 pengetővel/vonóval/ütővel
+    notes:
+    - '(Lásd még: {zgike})'
+    glosses:
+    - gitár
+  ja:
+    place structure: x1 は x2 （特性）の弦楽器
+    notes:
+    - 「ギター」「バイオリン」「ハープ」「リュート」「三味線」など。 ・大意： 弦楽器 ・読み方： ジギタ  ・語呂合わせ： 地ギター ・関連語： {zgike}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en gitarr/violin/fiol/harpa [stränginstrument; musik] med
+      anslagsdon/plektrum/stråke x2.
+    notes:
+    - Även oud, sitar, luta, lyra, mandolin, cello, bas, nyckelharpa osv.
+    glosses:
+    - stränginstrument
+  zh:
+    place structure: x1是弦乐器（如：吉他/提琴等），带有琴拔/琴弓/激励器x2
+    notes:
+    - 也指：琵琶，大提琴，中提琴等；参见 {zgike}.
+    glosses:
+    - No glosses.

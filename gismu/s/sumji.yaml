@@ -1,5 +1,72 @@
-Word: sumji
-Rafsi: suj
-Definition: x1 is a mathematical sum/result/total of x2 plus/increased by x3.
-Notes: See also {jmina}, {jalge}, {mulno}, {pilji}.
-Examples: None
+word: sumji
+rafsi:
+- suj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mathematical sum/result/total of x2 plus/increased by
+      x3.
+    notes:
+    - See also {jmina}, {jalge}, {mulno}, {pilji}.
+    glosses:
+    - sum (mathematical gismu)
+    - total (sum)
+  jbo:
+    place structure: x1 ve jmina x2 boi x3 zi'o .i x1 nu'a su'i x2 boi x3
+    notes:
+    - '{jmina}; {su''i}'
+    glosses:
+    - sumji
+  de:
+    place structure: x1 ist die mathematische Summe/das Ergebnis von x2 plus/erhöht
+      um x3
+    notes:
+    - No notes.
+    glosses:
+    - Summe
+  es:
+    place structure: x1 es la suma/adición de x2 mas x3
+    notes:
+    - Ver también {jmina}.
+    glosses:
+    - suma
+  ru:
+    place structure: x1 — математическая сумма/результат сложения x2 и x3
+    notes:
+    - '{jmina} (добавлять), {jalge} (результат), {mulno} (законченный), {pilji} (произведение
+      [арифметическое])'
+    glosses:
+    - сумма
+  en-simple:
+    place structure: x1 is the sum of x2 plus x3
+    notes:
+    - No notes.
+    glosses:
+    - a total of a sum
+    - x2=something summed
+    - x3=something summed with
+  eo:
+    place structure: x1 estas matematika sumo/rezulto/totalo de x2 plus x3
+    notes:
+    - Vidu ankaŭ {jmina}, {jalge}, {mulno}, {pilji}.
+    glosses:
+    - sumo
+  hu:
+    place structure: x1 az összege x2-nek és x3-nak
+    notes:
+    - '(Lásd még: {jmina}, {jalge}, {mulno}, {pilji})'
+    glosses:
+    - összeg
+  ja:
+    place structure: x1 は x2 ・ x3 の合計／総計
+    notes:
+    - ・大意： 合計 ・読み方： スムジ  ・語呂合わせ： 合計で済むじゃん ・関連語： {jmina}, {jalge}, {mulno}, {pilji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2加上x3的和（数学概念）
+    notes:
+    - 参见 {jmina}, {jalge}, {mulno}, {pilji}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,84 @@
-Word: curmi
-Rafsi: cru
-Definition: x1 (agent) lets/permits/allows x2 (event) under conditions x3; x1 grants
-  privilege x2.
-Notes: Sufficient condition (= {crutcini}), agent that permits a situation (= {tcinycru}).  See
-  also {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre}.
-Examples: None
+word: curmi
+rafsi:
+- cru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) lets/permits/allows x2 (event) under conditions x3;
+      x1 grants privilege x2.
+    notes:
+    - Sufficient condition (= {crutcini}), agent that permits a situation (= {tcinycru}).  See
+      also {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre}.
+    glosses:
+    - let
+    - permit
+  de:
+    place structure: x1 (Handelnder) erlaubt/lässt x2 (Ereignis) (zu) unter Umständen
+      x3; x1 gewährt das Vorrecht x3
+    notes:
+    - No notes.
+    glosses:
+    - erlauben
+  es:
+    place structure: x1 agente permite/autoriza/deja que ocurra x2 bajo condiciones
+      x3
+    notes:
+    - Ver también {fanta}.
+    glosses:
+    - permitir
+  ru:
+    place structure: x1 разрешает/позволяет событию x2 произойти при условиях x3;
+      x1 допускает, чтобы x2 произошло; x1 дает разрешение на x2
+    notes:
+    - 'Достаточное условие: {crutcini}; деятель, допускающий ситуацию: {tcinicru}
+      {rinju} (удерживаться [от чего-либо]), {banzu} (достаточный), {ralte} (удерживать),
+      {jimte} (граница), {jaspu} (паспорт), {zifre} (свободный)'
+    glosses:
+    - позволять
+    - x1=позволяющий
+  en-simple:
+    place structure: x1 allows or permits x2
+    notes:
+    - No notes.
+    glosses:
+    - allow
+    - x1=something which allows
+    - x2=something allowed
+    - x3=a condition for allowing
+  eo:
+    place structure: x1 (aganto) permesas/lasas/ne malhelpas x2-on (okazo) sub kondiĉoj
+      x3; x1 donas privilegion x2
+    notes:
+    - Sufiĉa kondiĉo (= {crutcini}), agento kiu permesas situacion (= {tcinycru}).  Vidu
+      ankaŭ {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre}.
+    glosses:
+    - permesi
+  hu:
+    place structure: x1 hagyja/megengedi/engedélyezi, hogy x2 megtörténjen, x3 feltételek
+      mellett
+    notes:
+    - '(Lásd még: {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre})'
+    glosses:
+    - megenged
+  ja:
+    place structure: x1 （者）は x2 （事）を x3 （条件）において許容／許可する
+    notes:
+    - ・大意： 許容 ・読み方： シュルミ  ・関連語： {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (agent) låter/tillåter/medger x2 (händelse) under villkor/omständigheter
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - låta (tillåta)
+    - tillåta
+  zh:
+    place structure: x1准许/准允x2（事件），在条件x3下；x1授权x2
+    notes:
+    - 充分条件={crutcini}；条件的准许者= {tcinycru}；参见 {rinju}, {banzu}, {ralte}, {jimte}, {jaspu},
+      {zifre}.
+    glosses:
+    - No glosses.

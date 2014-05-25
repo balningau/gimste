@@ -1,6 +1,70 @@
-Word: janli
-Rafsi: jal
-Definition: x1 collides with/crashes/bumps/runs into x2.
-Notes: (also collide = {simjanli} for a collision between two moving objects); See
-  also {darxi}.
-Examples: None
+word: janli
+rafsi:
+- jal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 collides with/crashes/bumps/runs into x2.
+    notes:
+    - (also collide = {simjanli} for a collision between two moving objects); See
+      also {darxi}.
+    glosses:
+    - collide
+  jbo:
+    place structure: x1 binxo lo lamji be x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 kollidiert mit/stößt zusammen mit/prallt auf x2
+    notes:
+    - No notes.
+    glosses:
+    - kollidieren
+  es:
+    place structure: x1 choca/colisiona/se estrella contra x2
+    notes:
+    - No notes.
+    glosses:
+    - chocar
+  ru:
+    place structure: x1 ударяется об/врезается в x2
+    notes:
+    - 'Также: сталкивается/соударяется с: {simjanli} для столкновения между двумя
+      движущимися объектами {darxi} (ударять)'
+    glosses:
+    - ударяться о
+    - x1=ударяющийся о
+  en-simple:
+    place structure: x1 collides with or crashes into x2
+    notes:
+    - No notes.
+    glosses:
+    - something colliding
+    - x2=something collided with
+  eo:
+    place structure: x1 kolizias/karambolas/frapiĝas/batas kontraŭ x2
+    notes:
+    - (simjanli por kolizio inter du moviĝantaj objektoj); Vidu ankaŭ {darxi}.
+    glosses:
+    - kolizii
+  hu:
+    place structure: x1 beleütközik x2-be
+    notes:
+    - '(Lásd még: {darxi})'
+    glosses:
+    - ütközik
+  ja:
+    place structure: x1 は x2 に衝突／激突する／ぶつかる
+    notes:
+    - ・大意： 衝突 ・読み方： ジャンルィ  ・語呂合わせ： juan(撞), collide ・関連語： {darxi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1撞击/碰撞/撞向x2
+    notes:
+    - 冲撞/对撞={simjanli}，指两个运动的物体相撞；参见 {darxi}.
+    glosses:
+    - No glosses.

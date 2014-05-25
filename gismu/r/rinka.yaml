@@ -1,8 +1,87 @@
-Word: rinka
-Rafsi: rik, ri'a
-Definition: x1 (event/state) effects/physically causes effect x2 (event/state) under
-  conditions x3.
-Notes: $x_1$ is a material condition for $x_2$; $x_1$ gives rise to $x_2$.  See also
-  {gasnu}, {krinu}, {nibli}, te {zukte}, se {jalge}, {bapli}, {jitro}, cmavo list
-  {ri'a}, {mukti}, {ciksi}, {xruti}.
-Examples: None
+word: rinka
+rafsi:
+- rik
+- ri'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) effects/physically causes effect x2 (event/state)
+      under conditions x3.
+    notes:
+    - x1 is a material condition for x2; x1 gives rise to x2.  See also {gasnu}, {krinu},
+      {nibli}, te {zukte}, se {jalge}, {bapli}, {jitro}, cmavo list {ri'a}, {mukti},
+      {ciksi}, {xruti}.
+    glosses:
+    - cause
+  de:
+    place structure: x1 (Ereignis/Zustand) bewirkt/verursacht (physikalisch) x2 (Ereignis/Zustand)
+      unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - verursachen
+  es:
+    place structure: x1 (evento) causa físicamente efecto x2 bajo condiciones x3
+    notes:
+    - Ver también {mukti},  {gasnu},  {krinu},  {nibli},  te {zukte},  se {jalge},  {bapli}.
+    glosses:
+    - causar
+  fr:
+    place structure: x1 [événement/état] est la cause physique de x2 [événement/état]
+      à condition que x3 soit remplie
+    notes:
+    - No notes.
+    glosses:
+    - cause
+  ru:
+    place structure: x1 (событие/состояние) есть физическая причина эффекта x2 (событие/состояние)
+      при/в условиях x3; x1 вызывает x2
+    notes:
+    - '{gasnu} (делать), {krinu} (резон), {nibli} (влечь [логически]), {te} {zukte}
+      (действовать), {se} {jalge} (результат), {bapli} (заставлять), {jitro} (контролировать),
+      {ri''a}, {mukti} (повод), {ciksi} (объяснять), {xruti} (возвращать)'
+    glosses:
+    - физическая причина
+    - x2=физический эффект
+    - x3=условия физического эффекта
+  en-simple:
+    place structure: x1 causes effect x2
+    notes:
+    - No notes.
+    glosses:
+    - effect's cause
+    - x1=an effect's cause
+    - x2=an effect caused
+    - x2=the effect caused
+    - x3=a condition of an effect
+  eo:
+    place structure: x1 (okazo/stato) kaŭzas efikon x2 (okazo/stato) sub kondiĉoj
+      x3
+    notes:
+    - x1 estas materiala kondiĉo por x2; x1 okazigas x2-on.  Vidu ankaŭ {gasnu}, {krinu},
+      {nibli}, te {zukte}, se {jalge}, {bapli}, {jitro}, cmavo {ri'a}, {mukti}, {ciksi},
+      {xruti}.
+    glosses:
+    - kaŭzi
+  hu:
+    place structure: x1 esemény/állapot a fizikai oka/okozója x2 eseménynek/állapotnak,
+      x3 körülmények között
+    notes:
+    - '(Lásd még: {gasnu}, {krinu}, {nibli}, {zukte}, {jalge}, {bapli}, {jitro}, {mukti},
+      {ciksi}, {xruti})'
+    glosses:
+    - okoz
+  ja:
+    place structure: x1 （事）は x2 （事）を x3 （条件）において引き起こす
+    notes:
+    - 「lo kamgla cu rinka lo nu febvi／熱が沸騰を引き起こす」「zo'e rinka lo nu mi tolmo'i／何らかが私に忘れさせる」
+      ・大意： 原因 ・読み方： リンカ  ・語呂合わせ： 引き起こすのは隣家 ・関連語： {gasnu}, {krinu}, {nibli}, {te} {zukte},
+      {se} {jalge}, {bapli}, {jitro}, {ri'a}, {mukti}, {ciksi}, {xruti}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 (事件/状态)导致/是物理原因,   对效果x2 (事件/状态)而言,.在情况 x3下.
+    notes:
+    - No notes.
+    glosses:
+    - 因

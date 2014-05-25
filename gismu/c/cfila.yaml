@@ -1,5 +1,77 @@
-Word: cfila
-Rafsi: cfi
-Definition: x1 (property - ka) is a flaw/fault/defect in x2 causing x3.
-Notes: See also {cikre}, {srera}, {fenra}, {fliba}, {prane}.
-Examples: None
+word: cfila
+rafsi:
+- cfi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (property - ka) is a flaw/fault/defect in x2 causing x3.
+    notes:
+    - See also {cikre}, {srera}, {fenra}, {fliba}, {prane}.
+    glosses:
+    - flaw
+  de:
+    place structure: x1 (Eigenschaft) ist ein Makel/Fehler/Defekt in x2, der x3 hervorruft.
+    notes:
+    - Siehe auch {cikre}, {srera}, {fenra}, {fliba}, {prane}.
+    glosses:
+    - Defekt
+    - Fehler
+    - Makel
+  es:
+    place structure: x1 es una falla/defecto en x2 con efecto x3
+    notes:
+    - No notes.
+    glosses:
+    - falla
+  ru:
+    place structure: 'x1 (свойство: {ka}) — дефект/порок/брак/неисправность в x2,
+      приводящий к x3'
+    notes:
+    - '{cikre} (чинить), {srera} (ошибаться), {fenra} (трещина), {fliba} (терпеть
+      неудачу), {prane} (совершенный)'
+    glosses:
+    - x1=дефект
+    - x2=дефектный
+  en-simple:
+    place structure: x1 is a flaw or defect in x2 causing x3
+    notes:
+    - No notes.
+    glosses:
+    - a flaw
+    - x2=something with a flaw
+    - x3=something caused by a flaw
+  eo:
+    place structure: x1 (eco - ka) estas makulo/difekto sur x2 kaŭzanta x3
+    notes:
+    - Vidu ankaŭ {cikre}, {srera}, {fenra}, {fliba}, {prane}.
+    glosses:
+    - makulo
+  hu:
+    place structure: x1 egy hiba/hiányosság/tévedés x2-ben, x3 következményekkel
+    notes:
+    - '(Lásd még: {cikre}, {srera}, {fenra}, {fliba}, {prane})'
+    glosses:
+    - hiba
+  ja:
+    place structure: x1 （性質）は x2 の、 x3 （問題／厄介／危険）をもたらす欠陥／欠点／弱点／不備／短所／落度／過失
+    notes:
+    - ・大意： 欠陥 ・読み方： シフィルァ ・関連語： {cikre}, {srera}, {fenra}, {fliba}, {prane}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett fel/brist/defekt hos x2 som leder till/orsakar x3.
+    notes:
+    - No notes.
+    glosses:
+    - brist (felaktig egenskap/handling/händelse)
+    - fel (brist i egenskap/handling/händelse)
+    - x1=fel
+    - x2=defekt (behäftad med fel)
+    - x3=konsekvens (effekt av felaktig egenskap/handling)
+  zh:
+    place structure: x1（ka）是x2的缺点/缺陷，导致x3
+    notes:
+    - 参见 {cikre}, {srera}, {fenra}, {fliba}, {prane}.
+    glosses:
+    - No glosses.

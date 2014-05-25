@@ -1,5 +1,68 @@
-Word: cakla
-Rafsi: ''
-Definition: x1 is made of/contains/is a quantity of chocolate/cocoa.
-Notes: See also {ckafi}.
-Examples: None
+word: cakla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of chocolate/cocoa.
+    notes:
+    - See also {ckafi}.
+    glosses:
+    - chocolate
+  de:
+    place structure: x1 ist aus Schoklade/Kakao gemacht; x1 enthält Schoklade/Kakao
+    notes:
+    - No notes.
+    glosses:
+    - Kakao
+    - Schokolade
+  es:
+    place structure: x1 es una cantidad de chocolate/cacao
+    notes:
+    - No notes.
+    glosses:
+    - chocolate
+  ru:
+    place structure: x1 — шоколад/какао
+    notes:
+    - '{ckafi} (кофе)'
+    glosses:
+    - x1=шоколад
+  en-simple:
+    place structure: x1 is made of or contains a quantity of chocolate or cocoa
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of chocolate
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el ĉokolado/kakao
+    notes:
+    - Vidu ankaŭ {ckafi}.
+    glosses:
+    - ĉokolado
+  hu:
+    place structure: x1 bizonyos mennyiségű csokoládé/kakaó (-t tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {ckafi})'
+    glosses:
+    - csokoládé
+  ja:
+    place structure: x1 は x2 （種類）のチョコレート／ココア
+    notes:
+    - ・大意： チョコレート ・読み方： シャクルゥア  ・語呂合わせ： ＜しゃくなランチ＞, ショコラ ・関連語： {ckafi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet/gjord av/innehåller kakao/choklad.
+    notes:
+    - No notes.
+    glosses:
+    - kakao
+    - x1=choklad
+  zh:
+    place structure: x1是/含有巧克力/可可；x1由巧克力/可可组成
+    notes:
+    - 参见 {ckafi}.
+    glosses:
+    - No glosses.

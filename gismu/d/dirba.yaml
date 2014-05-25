@@ -1,8 +1,88 @@
-Word: dirba
-Rafsi: dib
-Definition: x1 is dear/precious/darling to x2; x1 is emotionally valued by x2.
-Notes: $x_1$ may be a specific object, a commodity (mass), an event, or a property;
-  pedantically, for objects/commodities, this is sumti-raising from ownership of the
-  object/commodity (= {posydirba} for unambiguous semantics).  See also {tcika}, {kargu},
-  {vamji}, {vajni}, {pleji}, {jadni}, {jemna}.
-Examples: None
+word: dirba
+rafsi:
+- dib
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dear/precious/darling to x2; x1 is emotionally valued by
+      x2.
+    notes:
+    - x1 may be a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {posydirba} for unambiguous semantics).  See also {tcika}, {kargu}, {vamji},
+      {vajni}, {pleji}, {jadni}, {jemna}.
+    glosses:
+    - dear
+  de:
+    place structure: x1 ist x2 lieb/teuer/kostbar; x2 schätzt x1 (emotional)
+    notes:
+    - No notes.
+    glosses:
+    - kostbar
+  es:
+    place structure: x1 es querido/preciado por x2
+    notes:
+    - No notes.
+    glosses:
+    - querido
+  ru:
+    place structure: x1 дорог/мил/эмоционально значим для x2
+    notes:
+    - 'Также: любимый; x1 м.б. конкретный предмет/лицо, товар (масса), событие или
+      собственность; строго говоря, для объектов/товаров мы имеем дело с подъемом
+      sumti от владения объектом/товаром: {posydirba} для однозначной семантики);
+      «дорогой» в смысле «дорогостоящий» — {kargu} {tcika} (время [события]), {kargu}
+      (дорогой [дорогостоящий]), {vamji} (ценность [стоимость]), {vajni} (важный [имеющий
+      значение]), {pleji} (платить), {jadni} (украшать [деятельный процесс]), {jemna}
+      (самоцвет)'
+    glosses:
+    - милый
+  en-simple:
+    place structure: x1 is dear or precious to x2
+    notes:
+    - No notes.
+    glosses:
+    - something precious
+    - x2=something to which something is precious
+  eo:
+    place structure: x1 estas kara al x2; x1 estas emocie valorigita de x2
+    notes:
+    - x1 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por
+      objektoj/varoj, ĉi tio estas sumti-levado el posedo de la objekto/varo (= posydirba
+      por neambigua {semantiko}).  Vidu ankaŭ {tcika}, {kargu}, {vamji}, {vajni},
+      {pleji}, {jadni}, {jemna}.
+    glosses:
+    - kara
+  hu:
+    place structure: x1 kedves/drága [érzelmileg értékes] x2 számára
+    notes:
+    - '(Lásd még: {tcika}, {kargu}, {vamji}, {vajni}, {pleji}, {jadni}, {jemna})'
+    glosses:
+    - kedves (fontos)
+  ja:
+    place structure: x1 は x2 （者）にとって貴重／あいらしい／大切
+    notes:
+    - 感情的／精神的に重宝すること。x1は物だけでなく事や性質も。 ・大意： 貴重 ・読み方： ディルバ  ・関連語： {tcika}, {kargu}, {vamji},
+      {vajni}, {pleji}, {jadni}, {jemna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är omtyckt/älskad/dyrbar av/för x2; x1 har affektionsvärde/är
+      emotionellt värdefull för x2.
+    notes:
+    - x1 kan vara ett specifikt objekt, en entitet (massa), en händelse, eller en
+      egenskap; för att vara pedantisk så är objekt/entitet sumti-höjande från ägarskap
+      av objektet(= {posydirba} för otvetydigt ord).
+    - ''
+    glosses:
+    - dyrbar (emotionellt värdefull)
+    - omtyckt (emotionellt värdefull)
+    - älskling
+  zh:
+    place structure: x1是宝贵的/珍贵的/主观上具有价值的，对x2来说
+    notes:
+    - x1可指物体/商品（团体）/事件/性质；当表示物品/商品，并涉及到所有权时，可用{posydirba}；参见 {tcika}, {kargu}, {vamji},
+      {vajni}, {pleji}, {jadni}, {jemna}.
+    glosses:
+    - No glosses.

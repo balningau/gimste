@@ -1,5 +1,63 @@
-Word: vlagi
-Rafsi: lag
-Definition: x1 is a/the vulva [body-part] of x2.
-Notes: See also {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla}.
-Examples: None
+word: vlagi
+rafsi:
+- lag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the vulva [body-part] of x2.
+    notes:
+    - See also {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla}.
+    glosses:
+    - vulva
+  de:
+    place structure: x1 ist die Vulva [Körperteil] von x2
+    notes:
+    - No notes.
+    glosses:
+    - Vulva
+  es:
+    place structure: x1 es una vulva (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - vulva
+  ru:
+    place structure: x1 — вульва (часть тела)/влагалище (женское) x2
+    notes:
+    - '{cinse} (сексуальный), {gletu} (совокупляться), {pinji} (пенис), {plibu} (лобок),
+      {vibna} (влагалище), {mabla} (негативный [о значении/смысле слова])'
+    glosses:
+    - влагалище (женское)
+  en-simple:
+    place structure: x1 is a vulva of x2
+    notes:
+    - No notes.
+    glosses:
+    - a vulva
+    - x2=something with a vulva
+  eo:
+    place structure: x1 estas (la) vulvo [korpoparto] de x2
+    notes:
+    - Vidu ankaŭ {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla}.
+    glosses:
+    - vulvo
+  hu:
+    place structure: x1 egy/a vulvája x2-nek
+    notes:
+    - '(Lásd még: {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla})'
+    glosses:
+    - vulva
+  ja:
+    place structure: x1 は x2 （本体）の外陰部
+    notes:
+    - 女性。 ・大意： 外陰部 ・読み方： ヴルァギ  ・関連語： {cinse}, {gletu}, {pinji}, {plibu}, {vibna},
+      {mabla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的阴户（身体部位）
+    notes:
+    - 参见 {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla}.
+    glosses:
+    - No glosses.

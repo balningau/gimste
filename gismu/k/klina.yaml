@@ -1,8 +1,73 @@
-Word: klina
-Rafsi: kli
-Definition: x1 (object/medium) is clear/transparent/without obstacle to in-the-clear
-  x2 [transmission].
-Notes: Also lucid; $x_2$ remains apparent/lucid/clear (figurative use for 'understandable'
-  is discouraged, better expressed as = {filseljmi} or {filsmu}).  (cf. {kandi}, {zunti}
-  - {nalzu'i} is better for 'unhindered')
-Examples: None
+word: klina
+rafsi:
+- kli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (object/medium) is clear/transparent/without obstacle to in-the-clear
+      x2 [transmission].
+    notes:
+    - Also lucid; x2 remains apparent/lucid/clear (figurative use for 'understandable'
+      is discouraged, better expressed as = {filseljmi} or {filsmu}).  (cf. {kandi},
+      {zunti} - {nalzu'i} is better for 'unhindered')
+    glosses:
+    - clear
+    - direct (straight/constant without interruption)
+  de:
+    place structure: x1 (Objekt/Medium) ist durchsichtig/transparent/ohne Hindernis
+      für Übertragung von x2
+    notes:
+    - No notes.
+    glosses:
+    - transparent
+  es:
+    place structure: x1 es transparente/claro/sin obstáculo para x2 (transmisión)
+    notes:
+    - Ver también {julne}.
+    glosses:
+    - transparente
+  ru:
+    place structure: x1 (объект/среда) прозрачен/проницаем/не представляет препятствия
+      для x2 (сигнал/излучение)
+    notes:
+    - 'Также: «ясный»; x2 виден/различим/проходит сквозь x1; не рекомендуется употребление
+      в переносном смысле «понятный»: {filseljmi} {kandi} (тусклый), {zunti} (мешать
+      [препятствовать]); для «беспрепятственный» лучше {nalzu''i}'
+    glosses:
+    - прозрачный
+  en-simple:
+    place structure: x1 is transparent or clear to x2
+    notes:
+    - No notes.
+    glosses:
+    - something transparent
+    - x2=something to which something is transparent
+  eo:
+    place structure: x1 (objekto/medio) estas klara/travidebla/sen obstaklo por x2
+      [transigitaĵo]
+    notes:
+    - x2 restas videbla/klara (figura uzo por 'komprenebla' estas malrekomendinda,
+      pli bone esprimita kiel = filseljmi).  (kp. kandi, zunti - nalzu'i estas pli
+      bona por 'nemalhelpita')
+    glosses:
+    - klara
+  hu:
+    place structure: x1 tisztán átereszti x2 jelet/adást
+    notes:
+    - '(Lásd még: {kandi}, {zunti})'
+    glosses:
+    - áttetsző
+  ja:
+    place structure: x1 （物／媒体）は x2 （伝わるもの）に関して明らか／透過性がある／遮られていない；  x2 は減衰も散乱もあまりせずにそのまま伝わる
+    notes:
+    - x2 は光や電波や音波など。「理解できる」ということを表すには {filseljmi} や {filsmu} という表現を使う。 klina を比喩的な意味で使うことは推奨されない。
+      ・大意： 透過 ・読み方： クルィナ  ・語呂合わせ： クリスタルな透過, clear,cin（清） ・関連語： {kandi}, {zunti}, {nalzu'i}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体/媒介）是清澈的/无障碍的/透明的/通透的，对x2的传输来说
+    notes:
+    - 也指：明晰的/易懂的； x2是显然的/明晰的/清楚的（可喻为“易懂的/易于理解的”= {filseljmi}/{filsmu}）；参见 {kandi},
+      {zunti} - {nalzu'i}不受阻碍的
+    glosses:
+    - No glosses.

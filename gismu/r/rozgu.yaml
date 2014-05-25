@@ -1,7 +1,70 @@
-Word: rozgu
-Rafsi: roz, zgu
-Definition: x1 is a rose [flower - characterized by prickly stem/fragrance] of species/strain
-  x2.
-Notes: Roses are not all pink; avoid using for color rose, which might be {labyxu'e}.  See
-  also {spati}, {xunre}.
-Examples: None
+word: rozgu
+rafsi:
+- roz
+- zgu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rose [flower - characterized by prickly stem/fragrance]
+      of species/strain x2.
+    notes:
+    - Roses are not all pink; avoid using for color rose, which might be {labyxu'e}.  See
+      also {spati}, {xunre}.
+    glosses:
+    - rose
+  de:
+    place structure: x1 ist eine Rose [Blume - charakterisiert durch stachligen Stängel/Duft]
+      von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Rose
+  es:
+    place structure: x1 es una rosa (flor) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - rosa
+  ru:
+    place structure: x1 — роза (цветок с характерным шипастым стеблем/ароматом) вида/сорта
+      x2
+    notes:
+    - Не все розы розовые; для обозначения розового цвета предпочтительнее {labyxu'e}
+      {spati} (растение), {xunre} (красный)
+    glosses:
+    - роза
+    - x2=вид розы
+  en-simple:
+    place structure: x1 a rose of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a rose
+    - x2=a species of rose
+  eo:
+    place structure: x1 estas rozo [floro - karakterizita de pika tigo/aromo] de speco/raso
+      x2
+    notes:
+    - Ne ĉiuj rozoj estas rozkoloraj; evitu uzon por koloro, kiu povas esti labyxu'e.  Vidu
+      ankaŭ {spati}, {xunre}.
+    glosses:
+    - rozo
+  hu:
+    place structure: x1 egy rózsa [a Rosa nemzetség növényeinek virága] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {spati}, {xunre})'
+    glosses:
+    - rózsa
+  ja:
+    place structure: x1 は x2 （種類）のバラ属植物
+    notes:
+    - 通常は花を指す。 ・大意： 薔薇 ・読み方： ロズグ  ・語呂合わせ： ローズ ・関連語： {spati}, {xunre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是玫瑰，属于品种/种类x2
+    notes:
+    - 参见 {spati}, {xunre}.
+    glosses:
+    - No glosses.

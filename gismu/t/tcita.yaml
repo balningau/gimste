@@ -1,5 +1,63 @@
-Word: tcita
-Rafsi: ''
-Definition: x1 is a label/tag of x2 showing information x3.
-Notes: See also {sinxa}, {cmene}, {judri}.
-Examples: None
+word: tcita
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a label/tag of x2 showing information x3.
+    notes:
+    - See also {sinxa}, {cmene}, {judri}.
+    glosses:
+    - label
+  de:
+    place structure: x1 ist ein Etikett/eine Aufschrift/Beschriftung von x2 und zeigt
+      Information x3
+    notes:
+    - No notes.
+    glosses:
+    - Etikett
+  es:
+    place structure: x1 es una etiqueta de x2 con información x3
+    notes:
+    - Ver también {sinxa}.
+    glosses:
+    - etiqueta
+  ru:
+    place structure: x1 — метка/этикетка/ярлык на/для x2, несущая информацию x3
+    notes:
+    - '{sinxa} (символ), {cmene} (имя), {judri} (адрес)'
+    glosses:
+    - x1=метка
+  en-simple:
+    place structure: x1 is a label or tag of x2 showing x3
+    notes:
+    - No notes.
+    glosses:
+    - a tag
+    - x2=something with a tag
+    - x3=information on a tag
+  eo:
+    place structure: x1 estas etikedo de x2 montranta informon x3
+    notes:
+    - Vidu ankaŭ {sinxa}, {cmene}, {judri}.
+    glosses:
+    - etikedo
+  hu:
+    place structure: x1 egy címke x2-n, x3 információval
+    notes:
+    - '(Lásd még: {sinxa}, {cmene}, {judri})'
+    glosses:
+    - címke
+  ja:
+    place structure: x1 は x2 の x3 （情報）を表す札／タグ
+    notes:
+    - ・大意： 札 ・読み方： チタ  ・語呂合わせ： ciiru シール, tag タグ ・関連語： {sinxa}, {cmene}, {judri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的标签/标注，展现信息x3
+    notes:
+    - 参见 {sinxa}, {cmene}, {judri}.
+    glosses:
+    - No glosses.

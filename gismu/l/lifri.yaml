@@ -1,9 +1,78 @@
-Word: lifri
-Rafsi: lif, fri
-Definition: x1 [person/passive/state] undergoes/experiences x2 (event/experience);
-  x2 happens to x1.
-Notes: 'Also has/have (of events/experiences); (adjective:) $x_1$ is empirical; suggests
-  passive undergoing but does not exclude active (per zukte) intent; a deserved experience:
-  reward or punishment (= {jernyfri}, {zanjernyfri}, {maljernyfri}).  See also cmavo
-  list {ri''i}, {jmive}, {fasnu}, {renvi}.'
-Examples: None
+word: lifri
+rafsi:
+- lif
+- fri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [person/passive/state] undergoes/experiences x2 (event/experience);
+      x2 happens to x1.
+    notes:
+    - 'Also has/have (of events/experiences); (adjective:) x1 is empirical; suggests
+      passive undergoing but does not exclude active (per zukte) intent; a deserved
+      experience: reward or punishment (= {jernyfri}, {zanjernyfri}, {maljernyfri}).  See
+      also cmavo list {ri''i}, {jmive}, {fasnu}, {renvi}.'
+    glosses:
+    - experience
+    - face (deal with)
+  de:
+    place structure: x1 [Person/Opfer/Zustand] erlebt/durchlebt/erfährt x2 (Ereignis/Erfahrung);
+      x2 passiert x1
+    notes:
+    - No notes.
+    glosses:
+    - erleben
+  es:
+    place structure: x1 experimenta/sufre/padece experiencia x2
+    notes:
+    - No notes.
+    glosses:
+    - experimentar
+  ru:
+    place structure: x1 (лицо/пассивный объект/состояние) испытывает/переживает/претерпевает
+      x2 (событие/переживание); с x1 происходит x2
+    notes:
+    - 'Также: опыт (напр. жизненный); прилагательное: эмпирический; подразумевается
+      пассивность, хотя активное намерение (ср. {zukte}) не исключается; заслуженное
+      переживание: награда или наказание: {jernyfri}, {zanjernyfri}, {maljernyfri}
+      {ri''i}, {jmive} (живой), {fasnu} (происходить [случаться]), {renvi} (выдерживать)'
+    glosses:
+    - переживать (испытывать)
+    - x1=переживающий (испытываюший)
+    - x2=испытываемое
+  en-simple:
+    place structure: x1 experiences x2
+    notes:
+    - No notes.
+    glosses:
+    - an experiencer
+    - x2=something experienced
+  eo:
+    place structure: x1 [homo/pasivo/stato] spertas/travivas/suferas/ĝuas x2-on (okazo/sperto);
+      x2 okazas al x1
+    notes:
+    - 'Ankaŭ: havi (okazojn/spertojn); (adjektivo:) x1 estas empiria; sugestas pasivan
+      aperton sed ne ekscludas activan (per zukte) intencon; meritita sperto: rekompenco
+      aŭ puno (=jernyfri, zanjernyfri, maljernyfri).  Vidu ankaŭ cmavo {ri''i}, {jmive},
+      {fasnu}, {renvi}.'
+    glosses:
+    - sperti
+  hu:
+    place structure: x1 megtapasztalja/átéli/elszenvedi x2-t / átesik x2-n
+    notes:
+    - '(Lásd még: {jmive}, {fasnu}, {renvi})'
+    glosses:
+    - megtapasztal
+  ja:
+    place structure: x1 （者／事）は x2 （事）を経験する；  x2 に x1 は見舞われる；  x2 は経験的／実験上／実証可能
+    notes:
+    - ・大意： 経験 ・読み方： ルィフゥリ  ・語呂合わせ： 実験上古いふり経験する ・関連語： {ri'i}, {jmive}, {fasnu}, {renvi}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1经历/经过x2（事件/经历）；x2发生在x1身上
+    notes:
+    - 也指：x1对x2有经验/经历； 暗示被动接受，但不排除积极参与；一段有所回报的经历（奖励或惩罚）：（= {jernyfri}, {zanjernyfri},
+      {maljernyfri}）；参见 {ri'i}, {jmive}, {fasnu}, {renvi}.
+    glosses:
+    - No glosses.

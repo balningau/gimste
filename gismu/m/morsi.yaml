@@ -1,5 +1,61 @@
-Word: morsi
-Rafsi: mro
-Definition: x1 is dead/has ceased to be alive.
-Notes: Die/mortal (= {mrobi'o}, {co'urji'e}).  See also {jmive}, {catra}, {betri}.
-Examples: None
+word: morsi
+rafsi:
+- mro
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dead/has ceased to be alive.
+    notes:
+    - Die/mortal (= {mrobi'o}, {co'urji'e}).  See also {jmive}, {catra}, {betri}.
+    glosses:
+    - dead
+  de:
+    place structure: x1 ist tot/lebt nicht mehr.
+    notes:
+    - Siehe auch {jmive}, {catra}, {betri}.
+    glosses:
+    - tot
+  es:
+    place structure: x1 está muerto
+    notes:
+    - Ver también {jmive}.
+    glosses:
+    - muerto
+  ru:
+    place structure: x1 мертв
+    notes:
+    - 'Умирать: {mrobi''o} {jmive} (живой), {catra} (убивать), {betri} (беда)'
+    glosses:
+    - x1=мёртвый
+  en-simple:
+    place structure: x1 is dead
+    notes:
+    - No notes.
+    glosses:
+    - something dead
+  eo:
+    place structure: x1 estas mortinta/jam ne vivas
+    notes:
+    - Morti (= {mrobi'o}, {co'urji'e}).  Vidu ankaŭ {jmive}, {catra}, {betri}.
+    glosses:
+    - mortinta
+  hu:
+    place structure: x1 halott/életvesztett
+    notes:
+    - '(Lásd még: {jmive}, {catra}, {betri})'
+    glosses:
+    - halott
+  ja:
+    place structure: x1 は死んでいる／生が無い
+    notes:
+    - 死んでいる状態。「死ぬ」は「morsi binxo / mrobi'o」。 ・大意： 死 ・読み方： モルスィ  ・語呂合わせ： si 死 ・関連語：
+      {jmive}, {catra}, {betri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是死亡的/不再存活的
+    notes:
+    - 死去/死亡= {mrobi'o}/{co'urji'e}；参见 {jmive}, {catra}, {betri}.
+    glosses:
+    - No glosses.

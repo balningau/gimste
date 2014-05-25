@@ -1,7 +1,75 @@
-Word: lafti
-Rafsi: laf
-Definition: x1 (force) lifts/applies raising/supporting force to x2 at locus x3 in
-  gravity well x4.
-Notes: ($x_1$ may be an abstract); verb lift/raise/elevate (= {lafmuvgau}). See also
-  {farlu}, {plipe}.
-Examples: None
+word: lafti
+rafsi:
+- laf
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (force) lifts/applies raising/supporting force to x2 at locus
+      x3 in gravity well x4.
+    notes:
+    - (x1 may be an abstract); verb lift/raise/elevate (= {lafmuvgau}). See also {farlu},
+      {plipe}.
+    glosses:
+    - lift
+  de:
+    place structure: x1 (Kraft) hebt x2/setzt hebende/unterstützende Kraft an x2 an,
+      an Stelle x3 in Gravitationsfeld x4
+    notes:
+    - No notes.
+    glosses:
+    - heben
+  es:
+    place structure: x1 levanta/eleva a x2 aplicando fuerza en parte x3 contra gravedad
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - levanta
+  ru:
+    place structure: x1 (сила) тянет вверх/поддерживает/{(при)поднимает} x2, прикладывая
+      силу к участку x3 против силы тяжести x4
+    notes:
+    - 'Фактическое движение вверх не подразумевается; поднимать: {lafmuvgau} {farlu}
+      (падать), {plipe} (прыгать)'
+    glosses:
+    - приподнимать
+    - x1=приподнимающий
+    - x2=поднимаемое
+    - x3=за что поднимают
+  en-simple:
+    place structure: x1 lifts x2 at location x3 in gravity well x4
+    notes:
+    - No notes.
+    glosses:
+    - a lifter
+    - x2=something lifted
+    - x3=a location of lifting
+    - x4=a gravity against lift
+  eo:
+    place structure: x1 (forto) levas/aplikas levan/subtenan forton al x2 je loko
+      x3 en gravito x4
+    notes:
+    - 'Ankaŭ: lifto; (x1 povas esti abstraktaĵo); levi/lifti/suprenigi (= {lafmuvgau}).
+      Vidu ankaŭ {farlu}, {plipe}.'
+    glosses:
+    - levi
+  hu:
+    place structure: x1 emeli x2-t x3-nál fogva, x4 (gravitációs) erő ellenében
+    notes:
+    - '(Lásd még: {farlu}, {plipe})'
+    glosses:
+    - emel
+  ja:
+    place structure: x1 （力）は x2 （対象本体）・ x3 （対象箇所）を x4 （重力）に対して持ち上げる／拾う／すくう
+    notes:
+    - ・大意： 持ち上げる ・読み方： ルァフゥティ  ・関連語： {farlu}, {plipe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（力）支撑x2，支撑点是x3，处于重力阱x4中
+    notes:
+    - x1可能是一个抽象概念；动词“举起/抬起”={lafmuvgau}；查看{farlu},{plipe}
+    glosses:
+    - 举
+    - 支撑

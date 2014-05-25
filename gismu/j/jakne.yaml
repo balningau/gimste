@@ -1,6 +1,68 @@
-Word: jakne
-Rafsi: ''
-Definition: x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload
-  x3.
-Notes: See also {cecla}, {danti}, {spoja}.
-Examples: None
+word: jakne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rocket [vehicle] propelled by jet expelling x2 carrying
+      payload x3.
+    notes:
+    - See also {cecla}, {danti}, {spoja}.
+    glosses:
+    - rocket
+  de:
+    place structure: x1 ist eine Rakete [Fahrzeug], angetrieben durch Düse, die x2
+      ausstößt, mit Nutzlast x3
+    notes:
+    - No notes.
+    glosses:
+    - Rakete
+  es:
+    place structure: x1 es un cohete (vehículo) propelido/impulsado por chorro/expulsión
+      x3 con carga x4
+    notes:
+    - No notes.
+    glosses:
+    - cohete
+  ru:
+    place structure: x1 — ракета (транспортное средство), приводимая в движение струей
+      вещества x2, несущая груз x3
+    notes:
+    - '{cecla} (стрелять), {danti} (снаряд [метательный]), {spoja} (взрываться)'
+    glosses:
+    - ракета
+  en-simple:
+    place structure: x1 is a rocket propelled by x2 carrying x3
+    notes:
+    - No notes.
+    glosses:
+    - a rocket
+    - x2=something expelled by rocket jet
+    - x3=a rocket payload
+  eo:
+    place structure: x1 estas rakedo [veturilo] pelita de elĵetaĵo x2 kaj portanta
+      kargon x3
+    notes:
+    - Vidu ankaŭ {cecla}, {danti}, {spoja}.
+    glosses:
+    - rakedo
+  hu:
+    place structure: x1 egy rakéta [jármű] x2 hajtóanyaggal, x3 hasznos teherrel
+    notes:
+    - '(Lásd még: {cecla}, {danti}, {spoja})'
+    glosses:
+    - rakéta
+  ja:
+    place structure: x1 は x2 （原動力）・ x3 （乗員／荷）のロケット／シャトル
+    notes:
+    - 「スペースシャトル」も。 ・大意： ロケット ・読み方： ジャクネ  ・語呂合わせ： ロケットジャックね ・関連語： {cecla}, {danti},
+      {spoja}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是火箭（载具），由驱动装置x2驱动，运输负载x3
+    notes:
+    - 参见 {cecla}, {danti}, {spoja}.
+    glosses:
+    - No glosses.

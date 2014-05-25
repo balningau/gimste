@@ -1,5 +1,70 @@
-Word: dinju
-Rafsi: dij, di'u
-Definition: x1 is a building/edifice for purpose x2.
-Notes: See also {ginka}, {zdani}, {zarci}.
-Examples: None
+word: dinju
+rafsi:
+- dij
+- di'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a building/edifice for purpose x2.
+    notes:
+    - See also {ginka}, {zdani}, {zarci}.
+    glosses:
+    - building
+  de:
+    place structure: x1 ist ein Gebäude für den Zweck x2.
+    notes:
+    - Siehe auch {ginka}, {zdani}, {zarci}.
+    glosses:
+    - Gebäude
+  es:
+    place structure: x1 es un edificio con propósito/función x2
+    notes:
+    - No notes.
+    glosses:
+    - edificio
+  ru:
+    place structure: x1 — здание/строение/сооружение, предназначенное для x2 (функция)
+    notes:
+    - '{ginka} (лагерь [стоянка]), {zdani} (дом), {zarci} (рынок)'
+    glosses:
+    - сооружение
+  en-simple:
+    place structure: x1 is a building for purpose x2
+    notes:
+    - No notes.
+    glosses:
+    - a building
+    - x2=a purpose of a building
+  eo:
+    place structure: x1 estas konstruaĵo/edifico por celo x2
+    notes:
+    - Vidu ankaŭ {ginka}, {zdani}, {zarci}.
+    glosses:
+    - konstruaĵo
+  hu:
+    place structure: x1 egy épület x2 célra
+    notes:
+    - '(Lásd még: {ginka}, {zdani}, {zarci})'
+    glosses:
+    - épület
+  ja:
+    place structure: x1 は x2 （目的）のための建造物
+    notes:
+    - ・大意： 建物 ・読み方： ディンジュ  ・関連語： {ginka}, {zdani}, {zarci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en byggnad/anläggning för ändamål x2.
+    notes:
+    - Se även {ginka}, {zdani}, {zarci}.
+    glosses:
+    - anläggning (byggnad för visst ändamål)
+    - x1=byggnad
+    - x2=byggnadsändamål
+  zh:
+    place structure: x1是建筑物/大厦，具有目的/功能x2
+    notes:
+    - 参见 {ginka}, {zdani}, {zarci}.
+    glosses:
+    - No glosses.

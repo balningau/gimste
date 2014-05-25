@@ -1,6 +1,90 @@
-Word: cradi
-Rafsi: ''
-Definition: x1 broadcasts/transmits [using radio waves] x2 via station/frequency x3
-  to [radio] receiver x4.
-Notes: Also $x_1$ is a broadcaster.  See also {tivni}, {benji}, {tcana}.
-Examples: None
+word: cradi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 broadcasts/transmits [using radio waves] x2 via station/frequency
+      x3 to [radio] receiver x4.
+    notes:
+    - Also x1 is a broadcaster.  See also {tivni}, {benji}, {tcana}.
+    glosses:
+    - radio
+  de:
+    place structure: x1 sendet/strahlt aus/überträgt [mit Radiowellen/über Rundfunk]
+      x2 über Station/Frequenz x3 an [Radio-]Empfänger x4
+    notes:
+    - No notes.
+    glosses:
+    - Radio
+  es:
+    place structure: x1 radiotransmite x2 por estación/emisora/frecuencia x3 a receptor
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - radiotransmitir
+  ru:
+    place structure: x1 передает по радио/радирует/вещает/транслирует (программу)
+      x2 через станцию/на частоте x3, для (радио)приемника x4
+    notes:
+    - '{tivni} (телевещание), {benji} (передавать [сигнал]), {tcana} (станция)'
+    glosses:
+    - вещать (радио)
+    - x1=вещающий (о радио)
+    - x2=вещаемая по радио программа
+    - x3=радиостанция
+    - x4=радиоприемник
+  en-simple:
+    place structure: x1 broadcasts or transmits x2 via station or frequency x3 to
+      receiver x4
+    notes:
+    - No notes.
+    glosses:
+    - a broadcaster
+    - x2=something broadcast
+    - x3=a broadcasting station
+    - x4=a broadcast receiver
+  eo:
+    place structure: x1 brodkastas/disaŭdigas [per radioondoj] x2-on per stacio/frekvenco
+      x3 al [radio]ricevilo x4
+    notes:
+    - 'Ankaŭ: x1 estas brodkastanto.  Vidu ankaŭ {tivni}, {benji}, {tcana}.'
+    glosses:
+    - radio
+  hu:
+    place structure: x1 rádióhullámokkal küldi/közvetíti x2-t, x3 csatornán/frekvencián,
+      x4 rádióvevőnek
+    notes:
+    - '(Lásd még: {tivni}, {benji}, {tcana})'
+    glosses:
+    - rádión közvetít
+  ja:
+    place structure: x1 は x2 （放送内容／信号内容）を x3 （周波数）で x4 （受信機） に放送／通信する放送送信所／放送局／無線局
+    notes:
+    - 「ラジオ」「モールス信号」など。関連語： {tivni}, {benji}, {tcana}
+    glosses:
+    - 放送 (無線放送)
+    - 無線通信
+    - x1=放送局 (無線放送)
+    - x2=放送内容／信号内容 (無線放送／無線通信)
+    - x3=周波数 (無線放送／無線通信)
+    - x4=ラジオ (受信機)
+  sv:
+    place structure: x1 sänder/överför [använder radiovågor] x2 via station/frekvens
+      x3 till [radiovågs-] mottagare x4.
+    notes:
+    - 'Även: x1 kan vara någon/något med ansvar för tv- och radiosändningar (exv.
+      mediabolag).'
+    glosses:
+    - sända (använda radiovågor)
+    - x1=sändare (användare av radiovågor (person/företag mm))
+    - x2=överföring (innehåll som överförs m radiovågor)
+    - x3=frekvens (radio/tv-frekvens (äv station))
+    - x4=mottagare (av radiovågor)
+  zh:
+    place structure: x1使用无线电信号广播/传送信息/信号x2，通过基站/频率x3，给接受者x4
+    notes:
+    - x1是广播公司/广播员；参见 {tivni}, {benji}, {tcana}.
+    glosses:
+    - No glosses.

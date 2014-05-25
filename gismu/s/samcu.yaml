@@ -1,6 +1,67 @@
-Word: samcu
-Rafsi: ''
-Definition: x1 is a quantity of cassava/taro/manioc/tapioca/yam [edible starchy root]
-  of species/strain x2.
-Notes: See also {patlu}, {genja}, {jalna}.
-Examples: None
+word: samcu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of cassava/taro/manioc/tapioca/yam [edible starchy
+      root] of species/strain x2.
+    notes:
+    - See also {patlu}, {genja}, {jalna}.
+    glosses:
+    - cassava
+  de:
+    place structure: x1 ist eine Menge an Kassava/Maniok/Taro (Wasserbrotwurzel)/Tapioka/Yams(wurzel)
+      [essbare stärkehaltige Wurzel] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Kassava
+  es:
+    place structure: x1 es una mandioca/tapioca de especie/variedad x2
+    notes:
+    - Ver también {patlu},  {genja}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — кассава/таро/маниока/тапиока/ямс (съедобный крахмалистый
+      корень) вида/сорта x2
+    notes:
+    - '{patlu} (картофель), {genja} (корень [растения]), {jalna} (крахмал)'
+    glosses:
+    - x1=ямс
+    - x2=вид ямса
+  en-simple:
+    place structure: x1 is a cassava or yam of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a cassava
+    - x2=a species of cassava
+  eo:
+    place structure: x1 estas kvanto da kasavo/manihoto/tapioko/ignamo [manĝebla amela
+      radiko] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {patlu}, {genja}, {jalna}.
+    glosses:
+    - kasavo
+  hu:
+    place structure: x1 bizonyos mennyiségű manióka/tápióka/jamgyökér/édesburgonya
+      [ehető keményítőtartalmú gyökér] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {patlu}, {genja}, {jalna})'
+    glosses:
+    - manióka
+  ja:
+    place structure: x1 は x2 （種類）のキャッサバ／タロイモ／ヤムイモ
+    notes:
+    - 食用のデンプン質球根のうち、芽から栽培できないもの。 ・大意： キャッサバ ・読み方： サムシュ  ・関連語： {patlu}, {genja}, {jalna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是可食用的淀粉根（如：芋头/木薯等），属于种族/种类x2
+    notes:
+    - 参见 {patlu}, {genja}, {jalna}.
+    glosses:
+    - No glosses.

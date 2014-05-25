@@ -1,5 +1,81 @@
-Word: fraso
-Rafsi: fas
-Definition: x1 reflects French/Gallic culture/nationality/language in aspect x2.
-Notes: See also {ropno}.
-Examples: None
+word: fraso
+rafsi:
+- fas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects French/Gallic culture/nationality/language in aspect
+      x2.
+    notes:
+    - See also {ropno}.
+    glosses:
+    - French
+  de:
+    place structure: x1 repräsentiert französische/gallische Kultur/Nationalität/Sprache
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - französisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma francés/galo en aspecto
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - francés
+  ru:
+    place structure: x1 — французский/галльский в аспекте x2
+    notes:
+    - '{ropno} (европейский)'
+    glosses:
+    - французский
+  en-simple:
+    place structure: x1 is French in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something French
+    - x2=a French aspect
+  eo:
+    place structure: x1 montras francan/gaŭlan kulturon/naciecon/lingvon laŭ aspekto
+      x2
+    notes:
+    - Vidu ankaŭ {ropno}.
+    glosses:
+    - franca
+  hu:
+    place structure: x1 francia/gall kultúrát/nemzetiséget/nyelvet tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {ropno})'
+    glosses:
+    - francia
+  ja:
+    place structure: x1 は x2 （性質面）に関してフランス／ガリア／ゴール系（言語／文化／民族／地理）
+    notes:
+    - ・大意： フランス ・読み方： フゥラソ ・関連語： {ropno}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 odzwierciedla francuską/galijską kulturę/narodowość/język
+      w aspekcie x2.
+    notes:
+    - No notes.
+    glosses:
+    - francuski
+    - galijski
+  sv:
+    place structure: x1 reflekterar fransk/gallisk kultur/nationalitet/språk i aspekt
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=fransk
+    - x2=fransk aspekt
+  zh:
+    place structure: x1是关于法国/高卢的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {ropno}.
+    glosses:
+    - No glosses.

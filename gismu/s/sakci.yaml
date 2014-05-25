@@ -1,7 +1,72 @@
-Word: sakci
-Rafsi: sak
-Definition: x1 sucks/is suction/vacuum/relatively low pressure of fluid/gas x2 relative
-  to high pressure x3.
-Notes: Also suck object/fluid (= {sakcpu} or {sakmuvgau}).  See also {cokcu}, {lacpu},
-  {flecu}.
-Examples: None
+word: sakci
+rafsi:
+- sak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sucks/is suction/vacuum/relatively low pressure of fluid/gas
+      x2 relative to high pressure x3.
+    notes:
+    - Also suck object/fluid (= {sakcpu} or {sakmuvgau}).  See also {cokcu}, {lacpu},
+      {flecu}.
+    glosses:
+    - suck
+  de:
+    place structure: x1 saugt/ist ein Sog/Vakuum/Unterdruck von Flüssigkeit/Gas x2
+      relativ zum hohen Druck x3
+    notes:
+    - No notes.
+    glosses:
+    - saugen
+  es:
+    place structure: x1 chupa/succiona/aspira/extrae x2 de x3
+    notes:
+    - Ver también {setca}.
+    glosses:
+    - chupar
+  ru:
+    place structure: x1 (зона низкого давления) засасывает/всасывает x2 (жидкость/газ)
+      из x3 (зона высокого давления)
+    notes:
+    - 'Также: для всасывания объекта или жидкости: {sakcpu} или {sakmuvgau} {cokcu}
+      (впитывать), {lacpu} (тянуть), {flecu} (поток)'
+    glosses:
+    - засасывать
+    - x1=сосущий
+    - x2=всасываемое
+  en-simple:
+    place structure: x1 sucks x2 into x3
+    notes:
+    - No notes.
+    glosses:
+    - a sucker
+    - x2=something sucked
+    - x3=a source of suction
+  eo:
+    place structure: x1 (relative malalta premo) suĉas fluidon/gason x2 el x3 (relative
+      alta premo)
+    notes:
+    - 'Ankaŭ: suĉi objekton/fluidon (= sakcpu aŭ sakmuvgau).  Vidu ankaŭ {cokcu},
+      {lacpu}, {flecu}.'
+    glosses:
+    - suĉi
+  hu:
+    place structure: x1 viszonylag alacsony nyomás/vákuum x2 közegben, x3 nyomáshoz
+      viszonyítva
+    notes:
+    - '(Lásd még: {cokcu}, {lacpu}, {flecu})'
+    glosses:
+    - alacsony nyomás
+  ja:
+    place structure: x1 は x2 （低圧下のもの）を x3 （高圧下のもの）で吸う／吸引する
+    notes:
+    - ・大意： 吸引 ・読み方： サクシ  ・語呂合わせ： 策士吸引 suck, ci（吸） ・関連語： {cokcu}, {lacpu}, {flecu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是真空/相对低压的流体/气体x2，相对于高压x3
+    notes:
+    - 吸取流体/物体= {sakcpu}/{sakmuvgau}；参见 {cokcu}, {lacpu}, {flecu}.
+    glosses:
+    - No glosses.

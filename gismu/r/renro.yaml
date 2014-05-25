@@ -1,6 +1,68 @@
-Word: renro
-Rafsi: rer, re'o
-Definition: x1 throws/launches/casts/hurls x2 to/at/in direction x3 (propulsion derives
-  internally to x1).
-Notes: (cf. {cecla} (more general term), {danti})
-Examples: None
+word: renro
+rafsi:
+- rer
+- re'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 throws/launches/casts/hurls x2 to/at/in direction x3 (propulsion
+      derives internally to x1).
+    notes:
+    - (cf. {cecla} (more general term), {danti})
+    glosses:
+    - throw
+  de:
+    place structure: x1 wirft/schleudert x2/schießt x2 ab in Richtung x3 (Der Antrieb
+      geht von x1 aus)
+    notes:
+    - No notes.
+    glosses:
+    - werfen
+  es:
+    place structure: x1 arroja/tira/lanza x2 a/hacia x3
+    notes:
+    - Ver también {cokcu},  {cecla},  {danti}.
+    glosses:
+    - arrojar
+  ru:
+    place structure: x1 бросает/кидает/швыряет/мечет x2 в/к/в направлении x3 (источник
+      движения — x1)
+    notes:
+    - '{cecla} (стрелять) (more general term), {danti} (снаряд [метательный])'
+    glosses:
+    - бросать
+    - x1=бросающий
+    - x2=бросаемое
+    - x3=направление броска
+  en-simple:
+    place structure: x1 throws or launches x2 to or at x3
+    notes:
+    - No notes.
+    glosses:
+    - a thrower
+    - x2=something thrown
+    - x3=something at which something is thrown
+  eo:
+    place structure: x1 ĵetas/lanĉas x2-on al/en direkto x3 (pelo interna al x1)
+    notes:
+    - (kp. cecla (pli ĝenerala termino), danti)
+    glosses:
+    - ĵeti
+  hu:
+    place structure: x1 eldobja/elhajítja x2-t x3-ba/-nak/irányba
+    notes:
+    - '(Lásd még: {cecla}, {danti})'
+    glosses:
+    - dob (hajít)
+  ja:
+    place structure: x1 は x2 を x3 （方向）に投げる
+    notes:
+    - ・大意： 投げる ・読み方： レンロ  ・語呂合わせ： ren (扔) ・関連語： {cecla} (more general term}, {danti}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1投掷/扔出x2，在/向方向x3 （推动力来自x1内部）
+    notes:
+    - 参见 {cecla}更常见的术语, {danti}
+    glosses:
+    - No glosses.

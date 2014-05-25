@@ -1,6 +1,70 @@
-Word: morji
-Rafsi: moj, mo'i
-Definition: x1 remembers/recalls/recollects fact(s)/memory x2 (du'u) about subject
-  x3.
-Notes: See also cmavo list {ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}.
-Examples: None
+word: morji
+rafsi:
+- moj
+- mo'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 remembers/recalls/recollects fact(s)/memory x2 (du'u) about
+      subject x3.
+    notes:
+    - See also cmavo list {ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}.
+    glosses:
+    - remember
+    - x1=memory (record of a thing/event)
+  de:
+    place structure: x1 erinnert/entsinnt sich an Tatsachen/Erinnerung x2 (du'u) über
+      Thema x3
+    notes:
+    - No notes.
+    glosses:
+    - erinnern
+  es:
+    place structure: x1 recuerda hechos/memorias x2 (du'u) acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - recordar
+  ru:
+    place structure: x1 помнит факты/воспоминания x2 ({du'u}) о предмете x3; x1 помнит,
+      что x2 ({du'u})
+    notes:
+    - '{ba''anai}, {menli} (разум), {pensi} (думать), {sanji} (осознавать), {djuno}
+      (знать), {notci} (статья)'
+    glosses:
+    - помнить
+    - x1=помнящий
+    - x2=воспоминания
+    - x3=вспоминаемое
+  en-simple:
+    place structure: x1 remembers x2 about subject x3
+    notes:
+    - No notes.
+    glosses:
+    - a rememberer
+    - x2=something remembered
+    - x3=a remembered subject
+  eo:
+    place structure: x1 memoras/rememoras faktojn/memoraĵon x2 (du'u) pri temo x3
+    notes:
+    - Vidu ankaŭ cmavo {ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}.
+    glosses:
+    - memori
+  hu:
+    place structure: x1 (vissza)emlékszik x2 tényre x3-ról
+    notes:
+    - '(Lásd még: {menli}, {pensi}, {sanji}, {djuno}, {notci})'
+    glosses:
+    - emlékszik
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について思い出す／回想する
+    notes:
+    - ・大意： 思い出す ・読み方： モルジ  ・関連語： {ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1想起/记起/记得事实/记忆x2（du'u），关于主题x3
+    notes:
+    - 参见：{ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}.
+    glosses:
+    - No glosses.

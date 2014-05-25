@@ -1,6 +1,69 @@
-Word: snuji
-Rafsi: nuj
-Definition: x1 is a sandwich/layering [not restricted to food] of x2 sandwiched between
-  x3.
-Notes: See also {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
-Examples: None
+word: snuji
+rafsi:
+- nuj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sandwich/layering [not restricted to food] of x2 sandwiched
+      between x3.
+    notes:
+    - See also {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
+    glosses:
+    - sandwich
+  de:
+    place structure: x1 ist ein Sandwich/eine Schichtung [nicht beschränkt auf Essen]
+      von x2 eingelegt zwischen x3
+    notes:
+    - No notes.
+    glosses:
+    - Sandwich
+  es:
+    place structure: x1 es un sandwich/emparedado/bocadillo de x2 entre x3
+    notes:
+    - Ver también {senta},  {jbini},  {bitmu},  {sruri}.
+    glosses:
+    - sandwich
+  ru:
+    place structure: x1 - это сэндич с x2 (не обязательно пищей), зажатым между слоями
+      x3
+    notes:
+    - См. {midju} - 'середина', {nenri} - 'внутри', {sepli} - 'отделенный'), {senta}
+      - 'слой', {jbini} - 'между', {bitmu} - 'стена', {sruri} - 'окружать'
+    glosses:
+    - слой
+    - x1=сэндвич
+  en-simple:
+    place structure: x1 is a sandwich of x2 sandwiched between x3
+    notes:
+    - No notes.
+    glosses:
+    - a sandwich
+    - x2=a sandwich filling
+    - x3=a sandwich casing
+  eo:
+    place structure: x1 estas sandviĉo/tavolaro [ne limigita al manĝaĵo] de x2 sandviĉita
+      inter x3
+    notes:
+    - Vidu ankaŭ {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
+    glosses:
+    - sandviĉo
+  hu:
+    place structure: x1 egy szendvics/egyéb elrendezés, ahol x2 x3-k közé van ékelve
+    notes:
+    - '(Lásd még: {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri})'
+    glosses:
+    - szendvics
+  ja:
+    place structure: x1 は x2 （中身）・ x3 （挟む物）のサンドイッチ
+    notes:
+    - ・大意： サンドイッチ ・読み方： スヌジ  ・関連語： {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu},
+      {sruri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是三明治/三明治状的/有层次的（不特指食物），有x2被夹在x3之间
+    notes:
+    - 参见 {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
+    glosses:
+    - No glosses.

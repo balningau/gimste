@@ -1,9 +1,83 @@
-Word: pluta
-Rafsi: lut, lu'a
-Definition: x1 is a route/path/way/course/track to x2 from x3 via/defined by points
-  including x4 (set).
-Notes: A route merely connects origin/destination, but need not be improved in any
-  way; ($x_4$ is a set of points at least sufficient to constrain the route relevantly).  (cf.
-  {litru}, {naxle}, {tcana}, {dargu}, {klaji}, ve {klama}; {tadji}, {zukte} for means
-  to a goal, {klama}, {pagre})
-Examples: None
+word: pluta
+rafsi:
+- lut
+- lu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a route/path/way/course/track to x2 from x3 via/defined
+      by points including x4 (set).
+    notes:
+    - A route merely connects origin/destination, but need not be improved in any
+      way; (x4 is a set of points at least sufficient to constrain the route relevantly).  (cf.
+      {litru}, {naxle}, {tcana}, {dargu}, {klaji}, ve {klama}; {tadji}, {zukte} for
+      means to a goal, {klama}, {pagre})
+    glosses:
+    - route (any path along defined points)
+    - way (path)
+  de:
+    place structure: x1 ist eine Route/Spur/ein Pfad/Weg nach x2 von x3 über/festgelegt
+      durch Punkte unter anderem x4 (Menge)
+    notes:
+    - No notes.
+    glosses:
+    - Route
+  es:
+    place structure: x1 es una ruta/camino/senda hacia x2 desde x3 vía puntos x4
+    notes:
+    - Ver también {dargu},  {klaji},  ve {klama}.
+    glosses:
+    - ruta
+  ru:
+    place structure: x1 — путь/маршрут/курс к/в x2 из/от x3 через точки x4 (множество)
+    notes:
+    - 'Также: трасса, траектория, орбита; путь просто соединяет исходную и конечную
+      точки, инженерное обустройство не подразумевается; x4, как множество, включает
+      достаточное число точек, чтобы разумно определить маршрут {litru} (путешествовать),
+      {naxle} (канал), {tcana} (станция), {dargu} (дорога), {klaji} (улица), {ve}
+      {klama} (перемещаться); {tadji} (метод), {zukte} (действовать) для «пути», как
+      средства достижения цели; {klama} (перемещаться), {pagre} (проникать [проходить
+      сквозь])'
+    glosses:
+    - путь
+  en-simple:
+    place structure: x1 is a route to x2 from x3 via points x4
+    notes:
+    - No notes.
+    glosses:
+    - a route
+    - x2=a destination of a route
+    - x3=an origin of a route
+    - x4=a point on a route
+  eo:
+    place structure: x1 estas kurso/vojo/irvojo al x2 el x3 tra/difinita de punktoj
+      x4 (aro)
+    notes:
+    - Kurso nur interkonektas deirpunkton kaj celon, sed ne nepre estas iel ajn plibonigita;
+      (x4 estas aro de punktoj almenaŭ sufiĉaj por difini la kurson).  (kp. litru,
+      naxle, tcana, dargu, klaji, ve klama; tadji, zukte por rimedoj por iu celo,
+      klama, pagre)
+    glosses:
+    - kurso
+  hu:
+    place structure: x1 egy útvonal x2-be, x3-ból, x4 pontok által meghatározva
+    notes:
+    - '(Lásd még: {litru}, {naxle}, {tcana}, {dargu}, {klaji}, {klama}, {tadji}, {zukte},
+      {pagre})'
+    glosses:
+    - útvonal
+  ja:
+    place structure: x1 は x2 （終点）・ x3 （起点）・ x4 （途中の点の集合）の経路／道筋
+    notes:
+    - ・大意： 経路 ・読み方： プルゥタ  ・関連語： {litru}, {naxle}, {tcana}, {dargu}, {klaji}, {ve}
+      {klama}; {tadji}, {zukte}, {klama}, {pagre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是路线/航道/道路，通向x2，由来处x3，由点集x4（集合）所定义
+    notes:
+    - 路径仅仅起连接起点与终点的作用，而并不特定指任一某种通路；x4是足有有效确认路径的点集；参见 {litru}, {naxle}, {tcana}, {dargu},
+      {klaji}, ve {klama}; {tadji}, {zukte}, {klama}, {pagre})
+    glosses:
+    - No glosses.

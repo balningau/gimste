@@ -1,10 +1,81 @@
-Word: steci
-Rafsi: tec, te'i
-Definition: x1 (ka) is specific/particular/specialized/[special]/a defining property
-  of x2 among x3 (set).
-Notes: '[$x_2$ are members/individuals of a subset of $x_3$; object whose association
-  is specific/defining of a subset or individuals (= {tecra''a}, also cf. cmavo list
-  {po''e}, [$x_2$ is also special to $x_1$]); also: especially/strongly/specifically
-  associated]; ($x_3$ is completely specified set)]; See also {srana}, se {ponse},
-  {ckini}, {tcila}, {tutra}.'
-Examples: None
+word: steci
+rafsi:
+- tec
+- te'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (ka) is specific/particular/specialized/[special]/a defining
+      property of x2 among x3 (set).
+    notes:
+    - '[x2 are members/individuals of a subset of x3; object whose association is
+      specific/defining of a subset or individuals (= {tecra''a}, also cf. cmavo list
+      {po''e}, [x2 is also special to x1]); also: especially/strongly/specifically
+      associated]; (x3 is completely specified set)]; See also {srana}, se {ponse},
+      {ckini}, {tcila}, {tutra}.'
+    glosses:
+    - particular (specific)
+    - special (of particular interest/value)
+    - specific
+  de:
+    place structure: x1 (Eigenschaft) ist spezifisch/besonders/speziell/eine bestimmende
+      Eigenschaft von x2 unter x3 (Menge)
+    notes:
+    - No notes.
+    glosses:
+    - spezifisch
+  es:
+    place structure: x1 es especial/específico/particular/especializado de x2 entre
+      grupo x3
+    notes:
+    - Ver también {srana},  se {ponse}.
+    glosses:
+    - especial
+  ru:
+    place structure: x1 ({ka}) — специальное/специфическое/частное/особое/определяющее
+      свойство x2 (чего) среди членов множества x3
+    notes:
+    - 'x2 — члены подмножества x3; Также: объект, ассоциация с которым специфична
+      для выделяемого подмножества: {tecra''a}, ср. Также: {po''e}; Также: особенно,
+      связанный с {srana} (иметь отношение [к чему-либо]), {se} {ponse} (владеть),
+      {ckini} (иметь отношение), {tcila} (черта [особенность]), {tutra} (территория)'
+    glosses:
+    - специфический
+  en-simple:
+    place structure: x1 is specific or particular to member x2 among set x3
+    notes:
+    - No notes.
+    glosses:
+    - a specific feature
+    - x2=something with a specific feature
+    - x3=a group which has a member with a specific feature
+  eo:
+    place structure: x1 (ka) estas specifa/partikulara/speciala/difina eco de x2 inter
+      x3 (aro)
+    notes:
+    - '(x2 estas membroj/individuoj de subaro de x3; objekto kies rilato estas specifa/difina
+      de subaro aŭ individuoj (= tecra''a, ankaŭ kp. cmavo po''e, (x2 estas ankaŭ
+      speciala por x1)); ankaŭ: aparte/forte/specife rilata); (x3 estas komplete specifita
+      aro)); Vidu ankaŭ {srana}, se {ponse}, {ckini}, {tcila}, {tutra}.'
+    glosses:
+    - specifa
+  hu:
+    place structure: x1 tulajdonság speciális/egyedi/meghatározó tulajdonsága x2-nek
+      x3 halmazban
+    notes:
+    - '(Lásd még: {srana}, {ponse}, {ckini}, {tcila}, {tutra})'
+    glosses:
+    - speciális
+  ja:
+    place structure: x1 （性質）は x2 （個）の x3 （集合）における特質／個性
+    notes:
+    - ・大意： 特質 ・読み方： ステシ  ・関連語： {srana}, {se} {ponse}, {ckini}, {tcila}, {tutra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（ka）是x2上特别的/特殊的/特一的/具有特别的属性的，x2位于集合x3之中
+    notes:
+    - 也指：奇怪的/特有的；x3是完全指明的的集合；参见 {srana}, se {ponse}, {ckini}, {tcila}, {tutra}.
+    glosses:
+    - No glosses.

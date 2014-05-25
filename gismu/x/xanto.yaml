@@ -1,5 +1,68 @@
-Word: xanto
-Rafsi: ''
-Definition: x1 is an elephant of species/breed x2.
-Notes: See also {mabru}, {barda}.
-Examples: None
+word: xanto
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an elephant of species/breed x2.
+    notes:
+    - See also {mabru}, {barda}.
+    glosses:
+    - elephant
+  de:
+    place structure: x1 ist ein Elefant von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Elefant
+  es:
+    place structure: x1 es un elefante de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - elefante
+  fr:
+    place structure: x1 est un éléphant d'espèce x2
+    notes:
+    - voir aussi {mabru}, {barda}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — слон вида/разновидности x2
+    notes:
+    - '{mabru} (зверь), {barda} (большой)'
+    glosses:
+    - слон
+    - x2=вид слона
+  en-simple:
+    place structure: x1 is an elephant of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an elephant
+    - x2=a species of elephant
+  eo:
+    place structure: x1 estas elefanto de speco/raso x2
+    notes:
+    - Vidu ankaŭ {mabru}, {barda}.
+    glosses:
+    - elefanto
+  hu:
+    place structure: x1 egy elefánt/mammut [Proboscidea rend] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {mabru}, {barda})'
+    glosses:
+    - elefánt
+  ja:
+    place structure: x1 は x2 （種類）のゾウ科動物
+    notes:
+    - ・大意： 象 ・読み方： クァント  ・語呂合わせ： ＜半分捕る＞, エレファント ・関連語： {mabru}, {barda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是豚，属于品种/种类x2
+    notes:
+    - 参见 {mabru}, {barda}.
+    glosses:
+    - No glosses.

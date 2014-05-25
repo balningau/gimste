@@ -1,5 +1,64 @@
-Word: smuci
-Rafsi: muc
-Definition: x1 is a spoon/scoop (tool) for use x2, made of material x3.
-Notes: See also {dakfu}, {forca}, {tutci}.
-Examples: None
+word: smuci
+rafsi:
+- muc
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a spoon/scoop (tool) for use x2, made of material x3.
+    notes:
+    - See also {dakfu}, {forca}, {tutci}.
+    glosses:
+    - spoon
+  de:
+    place structure: x1 ist ein Löffel/eine Schöpfkelle (Werkzeug) zur Verwendung
+      x2, hergestellt aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Löffel
+  es:
+    place structure: x1 es una cuchara/cucharón para uso x2, hecho de material x3
+    notes:
+    - No notes.
+    glosses:
+    - cuchara
+  ru:
+    place structure: x1 — ложка/ковш/черпак, предназначенная для x2, из материала
+      x3
+    notes:
+    - '{dakfu} (нож), {forca} (вилка), {tutci} (инструмент)'
+    glosses:
+    - ложка
+  en-simple:
+    place structure: x1 is a spoon or scoop for use x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a spoon
+    - x2=a purpose of a spoon
+    - x3=a material of a spoon
+  eo:
+    place structure: x1 estas kulero/ŝovelilo (ilo) por uzo x2, el materialo x3
+    notes:
+    - Vidu ankaŭ {dakfu}, {forca}, {tutci}.
+    glosses:
+    - kulero
+  hu:
+    place structure: x1 egy kanál/lapát x2 használatra, x3 anyagból
+    notes:
+    - '(Lásd még: {dakfu}, {forca}, {tutci})'
+    glosses:
+    - kanál
+  ja:
+    place structure: x1 は x2 （用途）・ x3 （素材）のスプーン／さじ／ひしゃく
+    notes:
+    - ・大意： スプーン ・読み方： スムシ  ・語呂合わせ： スプーンで済むし ・関連語： {dakfu}, {forca}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是勺子/汤匙/铲，具有用途x2，由材料x3制成
+    notes:
+    - 参见 {dakfu}, {forca}, {tutci}.
+    glosses:
+    - No glosses.

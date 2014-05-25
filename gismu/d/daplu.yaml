@@ -1,6 +1,78 @@
-Word: daplu
-Rafsi: plu
-Definition: x1 is an island/atoll/key of [material/properties] x2 in surroundings/body
-  x3; x1 is insular.
-Notes: See also {lalxu}, {rirxe}, {xamsi}, {dirgo}.
-Examples: None
+word: daplu
+rafsi:
+- plu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an island/atoll/key of [material/properties] x2 in surroundings/body
+      x3; x1 is insular.
+    notes:
+    - See also {lalxu}, {rirxe}, {xamsi}, {dirgo}.
+    glosses:
+    - island
+  de:
+    place structure: x1 ist eine Insel/ein Atoll aus [Material/Eigenschaften] x2 in
+      Umgebung x3
+    notes:
+    - No notes.
+    glosses:
+    - Insel
+  es:
+    place structure: x1 es una isla/atolón/cayo (forma) de material x2 en alrededores/cuerpo
+      circundante x3
+    notes:
+    - Ver también {dirgo}.
+    glosses:
+    - isla
+  ru:
+    place structure: x1 — остров/атолл из материала/со свойствами x2 в окружающей
+      среде x3
+    notes:
+    - 'Также: мол/пирс/причал {lalxu} (озеро), {rirxe} (река), {xamsi} (море), {dirgo}
+      (капля)'
+    glosses:
+    - остров
+  en-simple:
+    place structure: x1 is an island of material or property x2 surrounded by x3
+    notes:
+    - No notes.
+    glosses:
+    - an island
+    - x2=a material of an island
+    - x3=an island's surroundings
+  eo:
+    place structure: x1 estas insulo/atolo el [materio/kvalitoj] x2 en ĉirkaŭaĵo/korpo
+      x3; x1 estas insula
+    notes:
+    - Vidu ankaŭ {lalxu}, {rirxe}, {xamsi}, {dirgo}.
+    glosses:
+    - insulo
+  hu:
+    place structure: x1 egy sziget/zátony x2 anyagból/tulajdonságokkal, x3 környezetben
+    notes:
+    - '(Lásd még: {lalxu}, {rirxe}, {xamsi}, {dirgo})'
+    glosses:
+    - sziget
+  ja:
+    place structure: x1 は x2 （特性）の島／環礁；  x1 は島国的
+    notes:
+    - 「環状珊瑚礁」も。 ・大意： 島 ・読み方： ダプルゥ  ・関連語： {lalxu}, {rirxe}, {xamsi}, {dirgo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ö/holme/kobbe/atoll av [material/egenskaper] x2 omgiven
+      av x3.
+    notes:
+    - x1 är insulär/ö-. Även holme (=cmalu daplu), kobbe (=bolci cmalu bo daplu),
+      skär (=rokci caxno), grund (=caxno).
+    glosses:
+    - x1=ö (land omgivet av vatten)
+    - x2=ö egenskap (land omgivet av vatten)
+    - x3=ö omgivning
+  zh:
+    place structure: x1是岛/环礁，由x2构成，在x3的环绕下
+    notes:
+    - 参见 {lalxu}, {rirxe}, {xamsi}, {dirgo}.
+    glosses:
+    - No glosses.

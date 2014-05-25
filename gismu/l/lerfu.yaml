@@ -1,8 +1,100 @@
-Word: lerfu
-Rafsi: ler, le'u
-Definition: x1 (la'e zo BY/word-bu) is a letter/digit/symbol in alphabet/character-set
-  x2 representing x3.
-Notes: Also $x_1$ glyph, rune, character (also me'o BY/word-bu), $x_2$ symbol set;
-  (adjective:) $x_1$ is alphabetic/symbolic; "letteral" used by analogy with "numeral";
-  sinxa is the more generic symbol.  See also {mifra}, {namcu}, {sinxa}, {pandi}.
-Examples: None
+word: lerfu
+rafsi:
+- ler
+- le'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (la'e zo BY/word-bu) is a letter/digit/symbol in alphabet/character-set
+      x2 representing x3.
+    notes:
+    - Also x1 glyph, rune, character (also me'o BY/word-bu), x2 symbol set; (adjective:)
+      x1 is alphabetic/symbolic; "letteral" used by analogy with "numeral"; sinxa
+      is the more generic symbol.  See also {mifra}, {namcu}, {sinxa}, {pandi}.
+    glosses:
+    - letteral
+  jbo:
+    place structure: x1 selci lo'e sinxa gi'e cmima x2 gi'e sinxa x3
+    notes:
+    - '{sinxa} {selci}; {abu}, {by}, {cy}, {dy}, {ebu}, {fy}, {gy}, {ibu}, {jy}, {ky},
+      {ly}, {my}, {ny}, {obu}, {py}, {ry}, {sy}, {ty}, {ubu}, {vy}, {xy}, {ybu}, {zy},
+      {y''y}; {ga''e}, {to''a}, {lo''a}, {ge''o}, {je''o}, {jo''o}, {ru''o}, {se''e},
+      {na''a}; {tau}, {zai}, {ce''a}, {lau}; {tei}, {foi}'
+    - ''
+    glosses:
+    - lerfu
+  de:
+    place structure: x1 (la'e zo BY/word-bu) ist ein Buchstabe/Symbol/eine Ziffer
+      in Alphabet/Zeichensatz x2 und repräsentiert x3
+    notes:
+    - No notes.
+    glosses:
+    - Buchstabe
+  es:
+    place structure: x1 es una letra/dígito/símbolo en alfabeto x2, que representa
+      x3
+    notes:
+    - Ver también {sinxa}.
+    glosses:
+    - letra
+  ru:
+    place structure: x1 — буква/цифра/литера/символ в алфавите x2, представляющая
+      x3
+    notes:
+    - 'x1 должен иметь вид {la''e} {zo} BY/{bu}-слово. Также: x1 — глиф/руна/иероглиф
+      (или {me''o} BY/слово-{bu}), x2 — набор символов; прилагательное: x1 — алфавитный/символьный
+      {mifra} (шифровка), {namcu} (число); {sinxa} (символ) — символ в более общем
+      смысле; {pandi} (расставлять [знаки препинания])'
+    glosses:
+    - буква
+    - x2=алфавит
+  en-simple:
+    place structure: x1 is a symbol in alphabet x2 representing x3
+    notes:
+    - No notes.
+    glosses:
+    - a symbol
+    - x2=an alphabet with a symbol
+    - x3=something represented by a symbol
+  eo:
+    place structure: x1 (la'e zo BY/vorto-bu) estas litero/cifero/simbolo en alfabeto/karaktraro
+      x2 simbolanta x3-on
+    notes:
+    - 'Ankaŭ: x1 glifo, runo, karaktro (ankaŭ me''o BY/vorto-bu), x2 simbolaro; (adjektivo:)
+      x1 estas alfabeta/simbola; sinxa estas pli ĝenerala simbolo.  Vidu ankaŭ {mifra},
+      {namcu}, {sinxa}, {pandi}.'
+    glosses:
+    - litero
+  hu:
+    place structure: x1 (la’e zo BY / me’o BY) egy betűjegy/számjegy/szimbólum/karakter
+      az x2 ábécében/karakterkészletben, x3 jelentéssel
+    notes:
+    - '(Lásd még: {mifra}, {namcu}, {sinxa}, {pandi})'
+    glosses:
+    - betű
+  ja:
+    place structure: x1 は x2 （文字体系）において x3 を表す字（文字／数字）
+    notes:
+    - x1は「la'e zo ...」「... bu」。 ・大意： 文字 ・読み方： ルェルフゥ ・関連語： {mifra}, {namcu}, {sinxa},
+      {pandi}
+    - ''
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 là chữ cái/chữ số/biểu tượng trong bảng chữ cái/bộ kí tự x2,
+      biểu thị x3
+    notes:
+    - No notes.
+    glosses:
+    - biểu tượng (kí tự)
+    - chữ số
+    - kí tự
+    - x1=chữ cái
+    - x2=bảng chữ cái
+  zh:
+    place structure: x1（la'e zo BY/字母等）是字母/数字/符号，在字母表/符号集x2中，代表/表征x3
+    notes:
+    - 也指： x1是图符/字符/记号（也指 me'o BY/词-bu），x2是字符集；（形容词）x1是字母的/符号的； {sinxa}指更通用的符号；参见 {mifra},
+      {namcu}, {sinxa}, {pandi}.
+    glosses:
+    - No glosses.

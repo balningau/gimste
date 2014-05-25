@@ -1,5 +1,66 @@
-Word: pinta
-Rafsi: pin
-Definition: x1 is flat/level/horizontal in gravity/frame of reference x2.
-Notes: See also {sraji}, {plita}, {xutla}.
-Examples: None
+word: pinta
+rafsi:
+- pin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is flat/level/horizontal in gravity/frame of reference x2.
+    notes:
+    - See also {sraji}, {plita}, {xutla}.
+    glosses:
+    - flat (having no variations in altitude)
+    - horizontal
+    - level
+  de:
+    place structure: x1 ist eben/flach/horizontal unter Schwerkraft/in Bezugssystem
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - eben
+  es:
+    place structure: x1 es horizontal en marco de referencia x2
+    notes:
+    - Ver también {sraji}.
+    glosses:
+    - horizontal
+  ru:
+    place structure: x1 горизонтален в гравитационном поле/системе отсчета x2
+    notes:
+    - 'Также: ровный (в некоторых значениях) {sraji} (вертикальный), {plita} (плоскость),
+      {xutla} (гладкий)'
+    glosses:
+    - x1=горизонтальный
+  en-simple:
+    place structure: x1 is flat or horizontal in frame of reference x2
+    notes:
+    - No notes.
+    glosses:
+    - horizontal
+    - x1=something level
+    - x2=a frame of reference of levelness
+  eo:
+    place structure: x1 estas ebena/plata/horizontala en gravito/referenckadro x2
+    notes:
+    - Vidu ankaŭ {sraji}, {plita}, {xutla}.
+    glosses:
+    - ebena
+  hu:
+    place structure: x1 vízszintes x2 vonatkoztatási rendszerben
+    notes:
+    - '(Lásd még: {sraji}, {plita}, {xutla})'
+    glosses:
+    - vízszintes
+  ja:
+    place structure: x1 は x2 （基準）において水平
+    notes:
+    - ・大意： 水平 ・読み方： ピンタ  ・語呂合わせ： taira　ピーン、平ら ・関連語： {sraji}, {plita}, {xutla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是水平的，在重力环境/参考系x2中
+    notes:
+    - 参见 {sraji}, {plita}, {xutla}.
+    glosses:
+    - No glosses.

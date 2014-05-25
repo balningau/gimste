@@ -1,7 +1,78 @@
-Word: stodi
-Rafsi: sto
-Definition: x1 is constant/invariant/unchanging in property x2 (ka) in response to
-  stimulus/conditions x3.
-Notes: Also stable/consistent/steadfast/firm/steady.  See also {cenba}, {stika}, {stali},
-  {vitno}, {manfo}, {zasni}, {tinsa}, {jdari}.
-Examples: None
+word: stodi
+rafsi:
+- sto
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is constant/invariant/unchanging in property x2 (ka) in response
+      to stimulus/conditions x3.
+    notes:
+    - Also stable/consistent/steadfast/firm/steady.  See also {cenba}, {stika}, {stali},
+      {vitno}, {manfo}, {zasni}, {tinsa}, {jdari}.
+    glosses:
+    - constant
+  jbo:
+    place structure: x1 na'e cenba x2 va'o x3 i x1 cenba x2 lo nomei x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist konstant/invariant/gleich bleibend in Eigenschaft x2 (ka)
+      als Antwort auf Reiz/Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - konstant
+  es:
+    place structure: x1 es constante/invariante/estable/inmutable en propiedad x2
+    notes:
+    - Ver también {stali},  {vitno},  {manfo},  {zasni}.
+    glosses:
+    - constante
+  ru:
+    place structure: x1 постоянен/неизменен по свойству x2 ({ka}) при воздействии/в
+      условиях x3
+    notes:
+    - 'Также: устойчивый, стойкий, стабильный, неуклонный {cenba} (изменчивый [в свойстве]),
+      {stika} (регулировать), {stali} (оставаться), {vitno} (длительный), {manfo}
+      (однородный), {zasni} (временный), {tinsa} (жесткий), {jdari} (крепкий)'
+    glosses:
+    - x1=неизменный
+  en-simple:
+    place structure: x1 is constant or unchanging in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something constant
+    - x2=a constant property
+    - x3=a condition of constancy
+  eo:
+    place structure: x1 estas konstanta/nevaria/senŝanĝa en eco x2 (ka) responde al
+      stimulo/kondiĉoj x3
+    notes:
+    - 'Ankaŭ: stabila/konsekvenca/firma/regula.  Vidu ankaŭ {cenba}, {stika}, {stali},
+      {vitno}, {manfo}, {zasni}, {tinsa}, {jdari}.'
+    glosses:
+    - konstanta
+  hu:
+    place structure: x1 állandó/nem változó x2 tulajdonságában, x3 körülmények között/hatására
+    notes:
+    - '(Lásd még: {cenba}, {stika}, {stali}, {vitno}, {manfo}, {zasni}, {tinsa}, {jdari})'
+    glosses:
+    - állandó
+  ja:
+    place structure: x1 は x2 （性質）の面で x3 （刺激／状況）にたいして不変／一定
+    notes:
+    - 「しっかりしている」も。 ・大意： 不変 ・読み方： ストディ  ・関連語： {cenba}, {stika}, {stali}, {vitno}, {manfo},
+      {zasni}, {tinsa}, {jdari}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是不变的/恒定的，在性质x2（ka）上，在刺激/条件x3下
+    notes:
+    - 也指：稳定的/稳固的/坚定的；参见 {cenba}, {stika}, {stali}, {vitno}, {manfo}, {zasni}, {tinsa},
+      {jdari}.
+    glosses:
+    - No glosses.

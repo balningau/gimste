@@ -1,7 +1,81 @@
-Word: cmoni
-Rafsi: cmo, co'i
-Definition: x1 utters moan/groan/howl/scream [non-linguistic utterance] x2 expressing
-  x3 (property).
-Notes: Also shriek, most animal sounds, e.g. bark, cackle, meow, neigh, moo, honk,
-  baa, crow. See also {krixa}, {bacru}, {cusku}, {cortu}.
-Examples: None
+word: cmoni
+rafsi:
+- cmo
+- co'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 utters moan/groan/howl/scream [non-linguistic utterance] x2
+      expressing x3 (property).
+    notes:
+    - Also shriek, most animal sounds, e.g. bark, cackle, meow, neigh, moo, honk,
+      baa, crow. See also {krixa}, {bacru}, {cusku}, {cortu}.
+    glosses:
+    - moan
+  de:
+    place structure: x1 stöhnt/gröhlt/heult/schreit/ächzt [nichtsprachliche Äußerung]
+      x2 und drückt damit x3 (Eigenschaft) aus
+    notes:
+    - No notes.
+    glosses:
+    - stöhnen
+  es:
+    place structure: x1 gime/brama/chilla/grita/aulla/emite queja/alarido/berrido
+      x2 que expresa x3
+    notes:
+    - No notes.
+    glosses:
+    - gemir
+  ru:
+    place structure: x1 испускает стон/вой/визг/(нечленораздельные звуки) x2, выражая
+      x3 (свойство); x1 стонет/воет/визжит/…
+    notes:
+    - 'Также: крик, большинство звуков, издаваемых животными: рычит, мычит, лает,
+      мяукает, чирикает и т.п. {krixa} (кричать), {bacru} (произносить), {cusku} (говорить
+      [кому-либо]), {cortu} (испытывать [боль])'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 moans or howls x2 expressing x3
+    notes:
+    - No notes.
+    glosses:
+    - a moaner
+    - x2=a moan
+    - x3=something expressed by a moan
+  eo:
+    place structure: x1 eligas ĝemon/krion [ne-lingva eligo] x2 esprimante x3-on (eco)
+    notes:
+    - 'Ankaŭ: kriegi, plejmultaj bestaj blekoj, ekz. boji, kluki, miaŭi, heni, muĝi,
+      grunti, ululi, trili, ĉirpi, pepi. Vidu ankaŭ {krixa}, {bacru}, {cusku}, {cortu}.'
+    glosses:
+    - ĝemi
+  hu:
+    place structure: x1 nyög/morog/vonít/ordít/visít [nem nyelvi vokális érzelemnyilvánítást
+      tesz] x2 formájában, x3-at fejezve ki
+    notes:
+    - 'Használható állathangokra is (Lásd még: {krixa}, {bacru}, {cusku}, {cortu})'
+    glosses:
+    - nyöszörög
+  ja:
+    place structure: x1 は x2 （音声）を x3 （意味／目的／原因）のために呻く／唸る
+    notes:
+    - ・大意： 呻く ・読み方： シモニ  ・語呂合わせ： 霜に呻る ・関連語： {krixa}, {bacru}, {cusku}, {cortu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 stönar/jämrar sig/gnäller/ylar/vrålar/skriker/gör läte [icke-lingvistiskt
+      yttrande] x2 vilket uttrycker x3 (ka).
+    notes:
+    - Även skri, de flesta djurlätena, dvs skälla, kackla, jama, gnägga, råma, bräka,
+      grymta, gala.
+    glosses:
+    - låta (gör läte)
+    - stöna
+  zh:
+    place structure: x1发出呐喊/咆哮/尖叫x2（不具有语义的表达），为了表达性质/情绪x3
+    notes:
+    - 也指：尖叫，大部分动物的叫（如：鸣/吠/嚎等）；参见 {krixa}, {bacru}, {cusku}, {cortu}.
+    glosses:
+    - No glosses.

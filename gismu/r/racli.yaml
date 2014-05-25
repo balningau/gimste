@@ -1,5 +1,63 @@
-Word: racli
-Rafsi: ''
-Definition: x1 (action/activity/behavior) is sane/rational by standard x2.
-Notes: See also {fenki}.
-Examples: None
+word: racli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (action/activity/behavior) is sane/rational by standard x2.
+    notes:
+    - See also {fenki}.
+    glosses:
+    - sane
+  de:
+    place structure: x1 (Handlung/Tätigkeit/Verhalten) ist vernünftig/rational gemäß
+      Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - vernünftig
+  es:
+    place structure: x1 (evento) es racional/cuerdo según estándar x2
+    notes:
+    - Ver también {fenki}.
+    glosses:
+    - racional
+  ru:
+    place structure: x1 (действие/деятельность/поведение) разумно/рационально относительно
+      стандарта x2
+    notes:
+    - '{fenki} (сумасшедший)'
+    glosses:
+    - разумный
+  en-simple:
+    place structure: x1 is rational or sane by standard x2
+    notes:
+    - '"Logical" in colloquial sense often means {racli}.'
+    glosses:
+    - x1=something rational
+    - x2=a standard of rationality
+  eo:
+    place structure: x1 (ago/konduto) estas racia/sana laŭ normo x2
+    notes:
+    - Vidu ankaŭ {fenki}.
+    glosses:
+    - racia
+  hu:
+    place structure: x1 cselekedet/viselkedés ésszerű/racionális x2 mérce szerint
+    notes:
+    - '(Lásd még: {fenki})'
+    glosses:
+    - ésszerű
+  ja:
+    place structure: x1 （行動）は x2 （基準）において理性的／正気／穏健
+    notes:
+    - ・大意： 理性的 ・読み方： ラシルィ  ・語呂合わせ： 理性的なら尻 ・関連語： {fenki}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（行为）是理智的/神智正常的，基于标准x2
+    notes:
+    - 参见 {fenki}.
+    glosses:
+    - No glosses.

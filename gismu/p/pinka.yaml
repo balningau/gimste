@@ -1,7 +1,76 @@
-Word: pinka
-Rafsi: pik
-Definition: x1 (text) is a comment/remark/observation about subject x2 expressed by
-  x3 to audience x4.
-Notes: 'Also: $x_3$ comments/remarks/says $x_1$ about $x_2$ (= terselpinka for reordered
-  places).  See also {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}.'
-Examples: None
+word: pinka
+rafsi:
+- pik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (text) is a comment/remark/observation about subject x2 expressed
+      by x3 to audience x4.
+    notes:
+    - 'Also: x3 comments/remarks/says x1 about x2 (= terselpinka for reordered places).  See
+      also {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}.'
+    glosses:
+    - comment
+    - remark (comment)
+  de:
+    place structure: x1 (Text) ist ein Kommentar/Hinweis/eine Bemerkung/Vermerk/Anmerkung/Beobachtung
+      über Thema x2 geäußert von x3 gegenüber Publikum x4
+    notes:
+    - No notes.
+    glosses:
+    - Kommentar
+  es:
+    place structure: x1 es un comentario/observación sobre tema x2 expresado por x3
+      ante audiencia x4
+    notes:
+    - No notes.
+    glosses:
+    - comentario
+  ru:
+    place structure: x1 (текст) есть комментарий/замечание/примечание/наблюдение о
+      предмете x2, сделанное/высказанное x3 (кем) для аудитории x4
+    notes:
+    - 'Также: x3 комментирует/делает замечание x1 об x2: {terselpinka} с переставленными
+      местами {jinvi} (считать [полагать]), {cusku} (говорить [кому-либо]), {zgana}
+      (наблюдать), {lanli} (анализировать), {bacru} (произносить), {ciska} (писать)'
+    glosses:
+    - комментарий
+    - x2=предмет комментария
+    - x3=автор комментария
+  en-simple:
+    place structure: x1 is a comment about x2 made by x3 to x4
+    notes:
+    - No notes.
+    glosses:
+    - a comment
+    - x2=a subject of a comment
+    - x3=an expresser of a comment
+    - x4=an audience for a comment
+  eo:
+    place structure: x1 (teksto) estas rimarko/observo/komento pri temo x2 esprimita
+      de x3 al publiko x4
+    notes:
+    - 'Ankaŭ: x3 rimarkas/mencias/diras x1-on pri x2 (= terselpinka por reordigitaj
+      {lokoj}).  Vidu ankaŭ {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}.'
+    glosses:
+    - rimarko
+  hu:
+    place structure: x1 egy megjegyzés x2-ről, x3 által, x4-nek
+    notes:
+    - '(Lásd még: {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska})'
+    glosses:
+    - megjegyzés
+  ja:
+    place structure: x1 は x2 （主題）・ x3 （作者）・ x4 （読者）のコメント／評言；  x3 は x2 について x1 をコメントする
+    notes:
+    - ・大意： コメント ・読み方： ピンカ  ・関連語： {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（文本）是评论/评价/观察报告，关于主题x2，由x3所表达，给读者/受者x4
+    notes:
+    - 也指：x3说出/给出评价x1，关于x2（= terselpinka）；参见 {jinvi}, {cusku}, {zgana}, {lanli}, {bacru},
+      {ciska}.
+    glosses:
+    - No glosses.

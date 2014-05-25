@@ -1,7 +1,72 @@
-Word: kubli
-Rafsi: kub
-Definition: x1 is a cube/regular polyhedron/polygon of dimensions x2 (def. 3), surfaces/sides
-  x3 (def. 6).
-Notes: (cf. {kurfa} - needed for 'cube', {bliku} for a physical object; {tanbo}, {tapla},
-  {tarmi})
-Examples: None
+word: kubli
+rafsi:
+- kub
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cube/regular polyhedron/polygon of dimensions x2 (def.
+      3), surfaces/sides x3 (def. 6).
+    notes:
+    - (cf. {kurfa} - needed for 'cube', {bliku} for a physical object; {tanbo}, {tapla},
+      {tarmi})
+    glosses:
+    - cube
+  de:
+    place structure: 'x1 ist ein Würfel/regelmäßiger Polyeder/Polygon von Dimensionen
+      x2 (Default: 3), mit Seiten x3 (Default: 6)'
+    notes:
+    - No notes.
+    glosses:
+    - Würfel
+  es:
+    place structure: x1 es un cubo/poliedro/polígono regular en x2 dimensiones (3
+      por defecto), con x3 caras/lados (6)
+    notes:
+    - No notes.
+    glosses:
+    - cubo
+  ru:
+    place structure: x1 — куб/правильный многогранник/правильный многоугольник размерности
+      x2 (по умолчанию 3), с гранями/сторонами x3 (по умолчанию 6)
+    notes:
+    - '{kurfa} (прямоугольник) — для куба в собственном смысле, {bliku} (блок [глыба])
+      для физического объекта; {tanbo} (доска), {tapla} (плитка), {tarmi} (идея [концептуальная
+      форма])'
+    glosses:
+    - x1=куб
+  en-simple:
+    place structure: x1 is a cube of dimensions x2 and sides x3
+    notes:
+    - No notes.
+    glosses:
+    - a cube
+    - x2=a cube dimension
+    - x3=a cube side
+  eo:
+    place structure: x1 estas kubo/regula multedro/multlatero de dimensio x2 (def.
+      3), edroj/lateroj x3 (def. 6)
+    notes:
+    - (kp. kurfa - bezonata por 'kubo', bliku por fizika objekto; tanbo, tapla, tarmi)
+    glosses:
+    - kubo
+  hu:
+    place structure: x1 egy kocka/egyéb szabályos poliéder/sokszög x2 dimenzióban
+      (alapesetben térbeli), x3 oldalakkal/lapokkal
+    notes:
+    - '(Lásd még: {kurfa}, {bliku}, {tanbo}, {tapla}, {tarmi})'
+    glosses:
+    - kocka
+  ja:
+    place structure: x1 は x2 （次元）・ x3 （面）の立方体／多面体／多角形／多辺形／ポリゴン
+    notes:
+    - 通常は三次元（ x2 ）・六面（ x3 ）。 ・大意： 立方体 ・読み方： クブルィ  ・語呂合わせ： キューブリック ・関連語： {kurfa}, {bliku};
+      {tanbo}, {tapla}, {tarmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是立方体/规则多面体，具有维度x2（默认3），具有面数x3（默认6)
+    notes:
+    - 参见 {kurfa}，{bliku}，{tanbo}, {tapla}, {tarmi}
+    glosses:
+    - No glosses.

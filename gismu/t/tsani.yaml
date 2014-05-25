@@ -1,5 +1,64 @@
-Word: tsani
-Rafsi: tan
-Definition: x1 is an expanse of sky/the heavens at place x2; [celestial].
-Notes: See also {gapru}, {kensa}, {tarci}, {terdi}.
-Examples: None
+word: tsani
+rafsi:
+- tan
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an expanse of sky/the heavens at place x2; [celestial].
+    notes:
+    - See also {gapru}, {kensa}, {tarci}, {terdi}.
+    glosses:
+    - sky
+  de:
+    place structure: x1 ist eine Fläche des Himmels an Ort x2; [astronomisch]
+    notes:
+    - No notes.
+    glosses:
+    - Himmel
+  es:
+    place structure: x1 es una expansión de cielo en lugar x2; (celestial)
+    notes:
+    - Ver también {gapru}.
+    glosses:
+    - cielo
+  ru:
+    place structure: x1 — небо/небесный простор/небеса над x2 (место)
+    notes:
+    - '{gapru} (над), {kensa} (космос), {tarci} (звезда [небесное тело]), {terdi}
+      (земля [планета Земля])'
+    glosses:
+    - небо
+  en-simple:
+    place structure: x1 is the sky of x2
+    notes:
+    - No notes.
+    glosses:
+    - a sky
+    - x2=a place with a sky
+  eo:
+    place structure: '                                    x1 estas amplekso de ĉielo
+      ĉe loko x2; [ĉiela]                                                                                               4h  88     (kp.
+      gapru, kensa, tarci, terdi'
+    notes:
+    - )
+    glosses:
+    - ĉielo
+  hu:
+    place structure: x1 az égbolt/mennybolt egy tartománya x2 helyen
+    notes:
+    - '(Lásd még: {gapru}, {kensa}, {tarci}, {terdi})'
+    glosses:
+    - ég (égbolt)
+  ja:
+    place structure: x1 は x2 （所）の空／天空
+    notes:
+    - ・大意： 空（そら） ・読み方： ツァニ  ・関連語： {gapru}, {kensa}, {tarci}, {terdi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是位置x2处的天空
+    notes:
+    - 参见 {gapru}, {kensa}, {tarci}, {terdi}.
+    glosses:
+    - No glosses.

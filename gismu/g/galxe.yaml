@@ -1,6 +1,72 @@
-Word: galxe
-Rafsi: ''
-Definition: 'x1 is a/the throat/gullet [body-part] of x2; [metaphor: narrow(ing) opening
-  of a deep hole].'
-Notes: See also {cnebo}, {kevna}, {tunlo}.
-Examples: None
+word: galxe
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the throat/gullet [body-part] of x2; [metaphor: narrow(ing)
+      opening of a deep hole].'
+    notes:
+    - See also {cnebo}, {kevna}, {tunlo}.
+    glosses:
+    - throat
+  de:
+    place structure: 'x1 ist ein/der Hals/Rachen [Körperteil] von x2; [im übertragenen
+      Sinne: schmale Öffnung eines tiefen Loches]'
+    notes:
+    - No notes.
+    glosses:
+    - Hals
+  es:
+    place structure: x1 es una garganta (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - garganta
+  ru:
+    place structure: x1 — горло/глотка/пищевод (часть тела) x2
+    notes:
+    - 'Метафора: узкий/сужающийся вход в глубокую полость {cnebo} (шея), {kevna} (впадина),
+      {tunlo} (глотать)'
+    glosses:
+    - x1=горло
+  en-simple:
+    place structure: x1 is a throat of x2
+    notes:
+    - No notes.
+    glosses:
+    - a throat
+    - x2=something with a throat
+  eo:
+    place structure: 'x1 estas (la) gorĝo/ezofago [korpoparto] de x2; [metafore: mallarĝa
+      aperturo de profunda truo]'
+    notes:
+    - Vidu ankaŭ {cnebo}, {kevna}, {tunlo}.
+    glosses:
+    - gorĝo
+  hu:
+    place structure: x1 a torka/garatnyelőcsöve x2-nek
+    notes:
+    - '(Lásd még: {cnebo}, {kevna}, {tunlo})'
+    glosses:
+    - torok
+  ja:
+    place structure: x1 は x2 （本体）の喉／咽喉／食道
+    notes:
+    - ・大意： 喉 ・読み方： ガルゥクェ  ・関連語： {cnebo}, {kevna}, {tunlo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en strupe [luft-/matstrupe] av x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=strupe
+    - x2=strupförsedd
+  zh:
+    place structure: x1是x2的咽喉/喉咙；（可比喻：狭窄的深洞）
+    notes:
+    - 参见 {cnebo}, {kevna}, {tunlo}.
+    glosses:
+    - No glosses.

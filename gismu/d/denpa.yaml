@@ -1,7 +1,85 @@
-Word: denpa
-Rafsi: dep, de'a
-Definition: x1 awaits/waits/pauses for/until x2 at state x3 before starting/continuing
-  x4 (activity/process).
-Notes: '($x_2$ is an event, usually a point event); also: resuming $x_4$.  See also
-  {dicra}, {fanmo}, {sisti}, {fliba}, {pandi}.'
-Examples: None
+word: denpa
+rafsi:
+- dep
+- de'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 awaits/waits/pauses for/until x2 at state x3 before starting/continuing
+      x4 (activity/process).
+    notes:
+    - '(x2 is an event, usually a point event); also: resuming x4.  See also {dicra},
+      {fanmo}, {sisti}, {fliba}, {pandi}.'
+    glosses:
+    - wait (pause)
+  de:
+    place structure: x1 erwartet/wartet auf/bis x2 in Zustand x3 bevor er anfängt,
+      x4 (Aktivität/Vorgang) zu tun/weiterzuführen
+    notes:
+    - No notes.
+    glosses:
+    - warten
+  es:
+    place structure: x1 espera/hace una pausa hasta x2 en estado x3 antes de continuar/comenzar
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 ждет/ожидает/делает паузу до x2 в состоянии x3 перед тем,
+      как начать/продолжить/возобновить x4 (действие/процесс)
+    notes:
+    - x2 — событие, обычно точечное {dicra} (прерывать), {fanmo} (конец), {sisti}
+      (останавливать), {fliba} (терпеть неудачу), {pandi} (расставлять [знаки препинания])
+    glosses:
+    - ожидать
+    - x1=ожидающий
+  en-simple:
+    place structure: x1 waits or pauses for x2 at state x3 before doing x4
+    notes:
+    - No notes.
+    glosses:
+    - a pauser
+    - x2=something paused for
+    - x3=a state of pause
+    - x4=a paused state or activity
+  eo:
+    place structure: x1 atendas/paŭzas ĝis x2 en stato x3 antaŭ ol komenci/rekomenci
+      x4-on (ago/procedo)
+    notes:
+    - '(x2 estas okazo, ĝenerale punkta okazo); ankaŭ: repreni x4-on.  Vidu ankaŭ
+      {dicra}, {fanmo}, {sisti}, {fliba}, {pandi}.'
+    glosses:
+    - atendi
+  hu:
+    place structure: x1 várakozik/szünetet tart x2 eseményig, x3 állapotban, x4 tevékenység/folyamat
+      megkezdése/folytatása előtt
+    notes:
+    - '(Lásd még: {dicra}, {fanmo}, {sisti}, {fliba}, {pandi})'
+    glosses:
+    - várakozik
+  ja:
+    place structure: x1 は x2 （事）を x3 （状態）ながら待つ、 x4 （事）の開始以前／再開以前に
+    notes:
+    - x4は待ったあとに行われる事。 ・大意： 待つ ・読み方： デンパ  ・語呂合わせ： 電波待つ ・関連語： {dicra}, {fanmo}, {sisti},
+      {fliba}, {pandi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 inväntar/avvaktar/pausar/väntar på/tills x2 i tillstånd x3
+      innan startar/fortsätter (med/att) x4 (aktivitet/process).
+    notes:
+    - 'x2 är en händelse (vanligtvis en punkthändelse); även: återupptar x4.'
+    glosses:
+    - avvakta
+    - invänta
+    - pausa
+    - vänta (på något ska ske)
+  zh:
+    place structure: x1等待/暂停为了x2，处于状态x3，在开始/继续行为/进程x4之前。
+    notes:
+    - x2是事件，通常是点事件；也指：继续x4. 参见 {dicra}, {fanmo}, {sisti}, {fliba}, {pandi}.
+    glosses:
+    - No glosses.

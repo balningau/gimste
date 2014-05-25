@@ -1,7 +1,89 @@
-Word: grake
-Rafsi: gra
-Definition: x1 is x2 gram(s) [metric unit] in mass (default is 1) by standard x3.
-Notes: See also {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
-  {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
-  {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
-Examples: None
+word: grake
+rafsi:
+- gra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 gram(s) [metric unit] in mass (default is 1) by standard
+      x3.
+    notes:
+    - See also {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - gram
+  de:
+    place structure: 'x1 ist x2 Gramm [metrische Einheit] an Masse (Default: 1) gemäß
+      Standard x3'
+    notes:
+    - No notes.
+    glosses:
+    - Gramm
+  es:
+    place structure: x1 tiene una masa de x2 gramos (1 por defecto) según estándar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - gramo
+  ru:
+    place structure: x1 имеет массу x2 (по умолчанию 1) граммов (метрическая единица)
+      по стандарту x3
+    notes:
+    - '{junta} (вес), {kilto} (кило), {bunda} (весить [в неметрических единицах]),
+      {centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто),
+      {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {litce} (литр), {megdo} (мега),
+      {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико),
+      {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто),
+      {zetro} (зетта)'
+    glosses:
+    - x1=грамм
+  en-simple:
+    place structure: x1 is x2 grams
+    notes:
+    - No notes.
+    glosses:
+    - x1=something weighed in grams
+    - x2=a weight in grams
+    - x3=a gram standard
+  eo:
+    place structure: x1 estas x2 gramoj [metra unuo] en maso (defaŭlte 1) laŭ normo
+      x3
+    notes:
+    - Vidu ankaŭ {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - gramo
+  hu:
+    place structure: x1 tömege x2 gramm, x3 mérce szerint
+    notes:
+    - '(Lásd még: {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo},
+      {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti},
+      {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro})'
+    glosses:
+    - gramm
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）のグラム
+    notes:
+    - ・大意： グラム ・読み方： グラケ  ・関連語： {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto},
+      {femti}, {gigdo}, {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi},
+      {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 gram [metrisk enhet] i massa (1 om inget annat anges)
+      enligt standard x3.
+    notes:
+    - No notes.
+    glosses:
+    - gram
+  zh:
+    place structure: x1具有x2克的质量（公制单位），基于标准x3
+    notes:
+    - 参见 {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti},
+      {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto},
+      {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+    glosses:
+    - No glosses.

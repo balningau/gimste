@@ -1,6 +1,80 @@
-Word: mensi
-Rafsi: mes, me'i
-Definition: x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s) x3; [not
-  necessarily biological].
-Notes: See also {bruna}, {tunba}, {tamne}, {famti}.
-Examples: None
+word: mensi
+rafsi:
+- mes
+- me'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s)
+      x3; [not necessarily biological].
+    notes:
+    - See also {bruna}, {tunba}, {tamne}, {famti}.
+    glosses:
+    - sister
+  jbo:
+    place structure: x1 fetsi gi'e tunba x2 boi x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Schwester von x2 bezüglich/durch Verbindung x3; [nicht
+      notwendigerweise biologisch].
+    notes:
+    - Siehe auch {bruna}, {tunba}, {tamne}, {famti}.
+    glosses:
+    - Schwester
+  es:
+    place structure: x1 es hermana de x2 por lazo/relación x3
+    notes:
+    - (no necesariamente biológica) Ver tambiÃ©n {bruna},  {tunba},  {tamne}.
+    glosses:
+    - hermana
+  ru:
+    place structure: x1 — сестра x2 (чья) по виду родства/критерию/родител(ю/ям) x3
+      (не обязательно биологическая)
+    notes:
+    - '{bruna} (брат), {tunba} (брат или сестра), {tamne} (двоюродный), {famti} (тетя)'
+    glosses:
+    - сестра
+  en-simple:
+    place structure: x1 is a sister of x2 by bond x3
+    notes:
+    - No notes.
+    glosses:
+    - a sister
+    - x2=something with a sister
+    - x3=a bond of sisterhood
+  eo:
+    place structure: x1 estas fratino de x2 laŭ ligilo/normo/gepatro(j) x3; [ne nepre
+      biologiaj]
+    notes:
+    - Vidu ankaŭ {bruna}, {tunba}, {tamne}, {famti}.
+    glosses:
+    - fratino
+  hu:
+    place structure: x1 nővére/húga x2-nek x3 szülő(k)/kötelék/hagyomány által
+    notes:
+    - 'Nem feltétlenül utal biológiai rokonságra (Lásd még: {bruna}, {tunba}, {tamne},
+      {famti})'
+    glosses:
+    - nővér
+  ja:
+    place structure: x1 は x2 と、 x3 （血縁）によって姉妹関係にある；  x1 は x2 の姉／妹
+    notes:
+    - ・大意： 姉妹 ・読み方： メンスィ  ・語呂合わせ： 姉 ・関連語： {bruna}, {tunba}, {tamne}, {famti}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to siostra x2 poprzez więzi x3; [nie koniecznie biologiczne].
+    notes:
+    - Cf. {bruna}, {tunba}, {tamne}, {famti}, {lanzu}.
+    glosses:
+    - x1=siostra
+  zh:
+    place structure: x1是x2的姐妹，依据标准/关系x3（不一定是生理学上的姐妹关系）
+    notes:
+    - 参见 {bruna}, {tunba}, {tamne}, {famti}.
+    glosses:
+    - No glosses.

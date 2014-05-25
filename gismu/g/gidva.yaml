@@ -1,9 +1,98 @@
-Word: gidva
-Rafsi: gid, gi'a
-Definition: x1 (person/object/event) guides/conducts/pilots/leads x2 (active participants)
-  in/at x3 (event).
-Notes: A guiding person advises/suggests/sets an example to be followed, but does
-  not necessarily control/direct/manage actual execution of an event; an event may
-  serve as a guide by setting a pattern/example to be emulated.  See also {jitro},
-  {ralju}, {sazri}, te {bende}, {jatna}, {fukpi}, {morna}.
-Examples: None
+word: gidva
+rafsi:
+- gid
+- gi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person/object/event) guides/conducts/pilots/leads x2 (active
+      participants) in/at x3 (event).
+    notes:
+    - A guiding person advises/suggests/sets an example to be followed, but does not
+      necessarily control/direct/manage actual execution of an event; an event may
+      serve as a guide by setting a pattern/example to be emulated.  See also {jitro},
+      {ralju}, {sazri}, te {bende}, {jatna}, {fukpi}, {morna}.
+    glosses:
+    - conduct (guide)
+    - guide
+    - lead (guide)
+    - x1=director (one who directs)
+  de:
+    place structure: x1 (Person/Objekt/Ereignis) führt/leitet/steuert x2 (aktive Teilnehmer)
+      bei x3 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - Führer
+  es:
+    place structure: x1 guía/dirige asunto x2
+    notes:
+    - No notes.
+    glosses:
+    - guiar
+  ru:
+    place structure: 'x1 (лицо/объект/событие) ведет/направляет x2 (активных участников)
+      в x3 (в чем: событие)'
+    notes:
+    - Лидер подает советы/пример, однако не обязательно напрямую контролирует/управляет
+      фактическим исполнением; событие также может служить руководством/ориентиром,
+      предоставляя пример/образец для подражания {jitro} (контролировать), {ralju}
+      (главный), {sazri} (управлять [механизмом]), {te} {bende} (команда), {jatna}
+      (лидер), {fukpi} (копия), {morna} (узор)
+    glosses:
+    - вести (направлять)
+    - x1=ведущий (направляющий)
+  en-simple:
+    place structure: x1 guides or leads x2 in x3
+    notes:
+    - No notes.
+    glosses:
+    - a guider
+    - x2=something guided
+    - x3=an event something is guided in
+  eo:
+    place structure: x1 (homo/objekto/okazo) gvidas/kondukas/direktas x2-on (activaj
+      partoprenantoj) je x3 (okazo)
+    notes:
+    - Gvidanto konsilas/sugestas/donas sekvotan ekzemplon, sed ne nepre regas/direktas
+      efektivan agon; okazo povas servi kiel gvido per prezento de emulota modelo/ekzemplo.  Vidu
+      ankaŭ {jitro}, {ralju}, {sazri}, te {bende}, {jatna}, {fukpi}, {morna}.
+    glosses:
+    - gvidi
+  hu:
+    place structure: x1 vezeti x2 cselekvő résztvevőket x3 eseményben
+    notes:
+    - 'x1 személy példaként áll a többiek előtt, nem feltétlenül irányítja őket (Lásd
+      még: {jitro}, {ralju}, {sazri}, {bende}, {jatna}, {fukpi}, {morna})'
+    glosses:
+    - vezet
+  ja:
+    place structure: x1 （者／物／事）は x2 （者）を x3 （事）について案内する
+    notes:
+    - x1は案内者だが、 x2 の行動を制限／支配する指揮者（jatna）とは区別される。 ・大意： 案内 ・読み方： ギドヴァ  ・関連語： {jitro},
+      {ralju}, {sazri}, {te} {bende}, {jatna}, {fukpi}, {morna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (person/objekt/händelse) guidar/vägleder/lotsar/leder x2 (aktiva
+      deltagare) i x3.
+    notes:
+    - En vägledande person ger råd/föreslår/ger en förebild som ska följas, men kontrollerar/leder/hanterar
+      inte nödvändigtvis det faktiska utörandet av en händelse; en händelse kan tjäna
+      som en vägledning genom att sätta ett mönster/exempel att söka efterlikna.
+    glosses:
+    - direktör
+    - guida
+    - guide
+    - leda (vägleda)
+    - ledare (en som (väg)leder (indirekt eller direkt))
+    - vägleda
+    - x1=vägledare
+  zh:
+    place structure: x1（人/物/事）引导/指导/带领参与者x2进入/处于事件x3
+    notes:
+    - 指导者x1可能提建议/提意见/做表率，但并不必要直接用行动介入具体的事件中；可供指导的事件可能是作为可模仿的事件模式/范例；参见 {jitro}, {ralju},
+      {sazri}, te {bende}, {jatna}, {fukpi}, {morna}.
+    glosses:
+    - No glosses.

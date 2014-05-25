@@ -1,5 +1,79 @@
-Word: ckini
-Rafsi: ki'i
-Definition: x1 is related to/associated with/akin to x2 by relationship x3.
-Notes: See also cmavo list {ki'i}, {ponse}, {srana}, {steci}, {mapti}, {sarxe}, {fange}.
-Examples: None
+word: ckini
+rafsi:
+- ki'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is related to/associated with/akin to x2 by relationship x3.
+    notes:
+    - See also cmavo list {ki'i}, {ponse}, {srana}, {steci}, {mapti}, {sarxe}, {fange}.
+    glosses:
+    - related
+    - x3=relationship
+  de:
+    place structure: x1 ist verwandt mit x2 durch Verwandtschaft/Beziehung x3; x1
+      steht mit x2 in Beziehung x3
+    notes:
+    - No notes.
+    glosses:
+    - verwandt
+  es:
+    place structure: x1 está relacionado/emparentado/pariente/tiene que ver con x2
+      por relación x3
+    notes:
+    - Ver también {srana}.
+    glosses:
+    - relacionado
+  ru:
+    place structure: x1 связан с/ассоциируется с x2 отношением/связью x3; x1 находится
+      в отношении x3 к x2; между x1 и x2 существует связь/отношение x3
+    notes:
+    - '{ki''i}, {ponse} (владеть), {srana} (иметь отношение [к чему-либо]), {steci}
+      (специфика), {mapti} (подходить), {sarxe} (гармонировать), {fange} (чужой [неродной])'
+    glosses:
+    - ассоциирующийся с
+    - относящийся
+    - x1=относящийся к
+  en-simple:
+    place structure: x1 is related to x2 by relationship x3
+    notes:
+    - No notes.
+    glosses:
+    - something related
+    - x2=something that something is related to
+    - x3=a relationship
+  eo:
+    place structure: x1 estas rilata/parenca al x2 laŭ rilato x3
+    notes:
+    - Vidu ankaŭ cmavo {ki'i}, {ponse}, {srana}, {steci}, {mapti}, {sarxe}, {fange}.
+    glosses:
+    - rilata
+  hu:
+    place structure: x1 összefüggésben van x2-vel, x3 kapcsolattal
+    notes:
+    - '(Lásd még: {ponse}, {srana}, {steci}, {mapti}, {sarxe}, {fange})'
+    glosses:
+    - összefügg
+  ja:
+    place structure: x1 は x2 と x3 （関係性）によって繋がりがある／同系
+    notes:
+    - ・大意： 親戚 ・読み方： シキニ  ・語呂合わせ： 親戚に ・関連語： {ki'i}, {ponse}, {srana}, {steci}, {mapti},
+      {sarxe}, {fange}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är förbunden med/släkt med/har relation till/med x2 genom
+      relationsförhållande x3.
+    notes:
+    - No notes.
+    glosses:
+    - besläktad
+    - x1=relation
+    - x2=relaterad
+    - x3=relationsförhållande (typ av relation)
+  zh:
+    place structure: x1与x2是相关的/有联系的，其联系/关系为x3
+    notes:
+    - 参见 {ki'i}, {ponse}, {srana}, {steci}, {mapti}, {sarxe}, {fange}.
+    glosses:
+    - No glosses.

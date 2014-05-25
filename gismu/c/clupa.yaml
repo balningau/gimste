@@ -1,7 +1,75 @@
-Word: clupa
-Rafsi: cup
-Definition: x1 is a loop/circuit of x2 [material].
-Notes: Also noose (= {skoclupa}, {saljgeclupa}; there is no indication of shape, but
-  merely that the ends join/meet); closed curve defined by set of points (= {cuptai}).  See
-  also {djine}.
-Examples: None
+word: clupa
+rafsi:
+- cup
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a loop/circuit of x2 [material].
+    notes:
+    - Also noose (= {skoclupa}, {saljgeclupa}; there is no indication of shape, but
+      merely that the ends join/meet); closed curve defined by set of points (= {cuptai}).  See
+      also {djine}.
+    glosses:
+    - loop
+  de:
+    place structure: x1 ist eine Schleife/Schlaufe/ein Ring aus x2 [Material]
+    notes:
+    - No notes.
+    glosses:
+    - Schleife
+  es:
+    place structure: x1 es un lazo/circuito/bucle/rizo (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - lazo
+  ru:
+    place structure: x1 — петля/виток из x2 (материал)
+    notes:
+    - 'Также: петля-удавка/аркан/лассо: {skoclupa}, {saljgeclupa}; форма несущественна,
+      важно лишь, чтобы концы сходились/встречались; замкнутая кривая, определяемая
+      набором точек: {cuptai} {djine} (кольцо)'
+    glosses:
+    - x1=петля
+  en-simple:
+    place structure: x1 is a loop of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a loop
+    - x2=a material of a loop
+  eo:
+    place structure: x1 estas maŝo/cirkvito de x2 [materialo]
+    notes:
+    - 'Ankaŭ: maŝo (= skoclupa, saljgeclupa; ne estas indiko pri formo, nur ke la
+      ekstremoj kuniĝas); ferma kurbo difinita de aro da punktoj (= {cuptai}).  Vidu
+      ankaŭ {djine}.'
+    glosses:
+    - maŝo
+  hu:
+    place structure: x1 egy hurok/zárt görbe x2 anyagból
+    notes:
+    - '(Lásd még: {djine})'
+    glosses:
+    - hurok
+  ja:
+    place structure: x1 は回路／循環系／ループ
+    notes:
+    - ・大意： 回路 ・読み方： シルゥパ  ・関連語： {djine}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ögla/snodd/krets av material x2.
+    notes:
+    - No notes.
+    glosses:
+    - snodd (form av ögla)
+    - x1=ögla
+    - x2=öglematerial
+  zh:
+    place structure: x1是由x2（材料）构成的回路/环路
+    notes:
+    - 索套/绳套={skoclupa}/{saljgeclupa}，不特指何种形状，但需构成环路； 由点集构成的闭合曲线= {cuptai}； 参见 {djine}.
+    glosses:
+    - No glosses.

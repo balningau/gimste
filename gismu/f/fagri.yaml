@@ -1,6 +1,83 @@
-Word: fagri
-Rafsi: fag
-Definition: x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default
-  air/oxygen).
-Notes: See also {jelca}, {sacki}.
-Examples: None
+word: fagri
+rafsi:
+- fag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer
+      x3 (default air/oxygen).
+    notes:
+    - See also {jelca}, {sacki}.
+    glosses:
+    - fire
+  de:
+    place structure: 'x1 ist (ein) Feuer/eine Flamme mit Brennstoff x2 und brennt
+      in/reagiert mit Oxidationsmittel x3 (Default: Luft/Sauerstoff)'
+    notes:
+    - No notes.
+    glosses:
+    - Feuer
+  es:
+    place structure: x1 es fuego/llama en combustible x2 con oxidante/aire x3
+    notes:
+    - No notes.
+    glosses:
+    - fuego
+  ru:
+    place structure: x1 — огонь/пламя, образуемое горючим x2, горящим в/реагирующим
+      с окислителем x3 (по умолчанию воздух/кислород)
+    notes:
+    - '{jelca} (гореть), {sacki} (спичка)'
+    glosses:
+    - огонь
+  en-simple:
+    place structure: x1 is a fire in fuel x2 burning in x3
+    notes:
+    - No notes.
+    glosses:
+    - a fire
+    - x2=a fuel of fire
+    - x3=an oxidizer of fire
+  eo:
+    place structure: x1 estas fajro/flamo en x2 brulanta-en/reakcianta-kun oksidiganto
+      x3 (defaŭlte aero/oksigeno)
+    notes:
+    - Vidu ankaŭ {jelca}, {sacki}.
+    glosses:
+    - fajro
+  he:
+    place structure: x1 היא אש/להבה, השורפת דלק x2 בעזרת חומר מחמצן x3.
+    notes:
+    - כברירת מחדל, x3 הוא אויר.
+    glosses:
+    - אש
+    - שריפה
+  hu:
+    place structure: x1 egy tűz/láng, x2 égéséből, x3 oxidáló/égéstápláló anyagban
+    notes:
+    - '(Lásd még: {jelca}, {sacki})'
+    glosses:
+    - tűz
+  ja:
+    place structure: x1 は x2 （燃料）・ x3 （酸化料）による火／炎
+    notes:
+    - 「o'i fagri snuti／火の用心」 ・大意： 火 ・読み方： ファグリ  ・関連語： {jelca}, {sacki}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en eld/flamma i brännbart ämne/bränsle x2 med oxidationsmedel
+      x3 (luft/syre om inget annat anges).
+    notes:
+    - No notes.
+    glosses:
+    - flamma
+    - x1=eld
+    - x2=bränsle (brännbart ämne)
+    - x3=oxidationsmedel (som får eld att brinna)
+  zh:
+    place structure: x1是火/火焰，燃料为x2，助燃物为x3（默认为氧气/空气）
+    notes:
+    - 参见 {jelca}, {sacki}.
+    glosses:
+    - No glosses.

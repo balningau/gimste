@@ -1,5 +1,57 @@
-Word: spisa
-Rafsi: spi
-Definition: x1 [object/substance] is a piece/portion/lump/chunk/particle of x2 [substance].
-Notes: See also {pagbu}.
-Examples: None
+word: spisa
+rafsi:
+- spi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [object/substance] is a piece/portion/lump/chunk/particle
+      of x2 [substance].
+    notes:
+    - See also {pagbu}.
+    glosses:
+    - piece
+  de:
+    place structure: x1 [Objekt/Stoff] ist ein Teil/Stück/eine Portion/ein Klumpen
+      von x2 [Stoff]
+    notes:
+    - No notes.
+    glosses:
+    - Stück
+  es:
+    place structure: x1 es un pedazo/porción/fragmento/trozo de x2
+    notes:
+    - Ver también {pagbu}.
+    glosses:
+    - pedazo
+  ru:
+    place structure: 'x1 (объект/вещество) есть кусок/порция/{частица} x2 (чего: вещество)'
+    notes:
+    - '{pagbu} (часть)'
+    glosses:
+    - кусок
+  en-simple:
+    place structure: x1 is a portion or piece of x2
+    notes:
+    - No notes.
+    glosses:
+    - a portion
+    - x2=something portioned
+  eo:
+    place structure: x1 [objekto/substanco] estas peco/porcio/partiklo de x2 [substanco]
+    notes:
+    - Vidu ankaŭ {pagbu}.
+    glosses:
+    - peco
+  ja:
+    place structure: x1 は x2 （本体）の欠片／破片／切抜き
+    notes:
+    - 本体からの分離が含意される。 ・大意： かけら ・読み方： スピサ  ・関連語： {pagbu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物体/物质）是物质x2上的一块/一部分
+    notes:
+    - 参见 {pagbu}.
+    glosses:
+    - No glosses.

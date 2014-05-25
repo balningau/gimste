@@ -1,6 +1,76 @@
-Word: canti
-Rafsi: ''
-Definition: x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system
-  [body-part] of x2.
-Notes: 'Metaphor: process hub.  See also {betfu}.'
-Examples: None
+word: canti
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive
+      system [body-part] of x2.
+    notes:
+    - 'Metaphor: process hub.  See also {betfu}.'
+    glosses:
+    - gut
+    - intestines
+  de:
+    place structure: x1 ist ein/der Darm/die Eingeweide/Innereien/das Verdauungssystem
+      [Körperteil] von x2
+    notes:
+    - No notes.
+    glosses:
+    - Eingeweide
+  es:
+    place structure: x1 son entrañas/intestinos/tripas/sistema digestivo (parte del
+      cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - entrañas
+  ru:
+    place structure: x1 — внутренности/кишки/потроха/пищеварительная система (часть
+      тела) x2 (кого)
+    notes:
+    - '{betfu} (живот)'
+    glosses:
+    - x1=кишки
+  en-simple:
+    place structure: x1 is the intestines or guts of x2
+    notes:
+    - No notes.
+    glosses:
+    - an intestine
+    - x2=something with intestines
+  eo:
+    place structure: x1 estas (la) intesto/internaĵoj/digesta sistemo [korpoparto]
+      de x2
+    notes:
+    - 'Metafore: proceda nodo.  Vidu ankaŭ {betfu}.'
+    glosses:
+    - intesto
+  hu:
+    place structure: x1 egy/a bele(i)/zsigere(i)/emésztőrendszere x2-nek
+    notes:
+    - '(Lásd még: {betfu})'
+    glosses:
+    - belek
+  ja:
+    place structure: x1 は x2 （本体）の消化器官／胃腸
+    notes:
+    - ・大意： 消化器官 ・読み方： シャンティ  ・語呂合わせ：  ＜シャンするティー＞,　entrails ・関連語： {betfu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är inälvor/tarm/viscera/matsmältningssystem i organism x2.
+    notes:
+    - No notes.
+    glosses:
+    - inälvor
+    - viscera
+    - x1=tarm
+    - x2=tarmförsedd
+  zh:
+    place structure: x1是x2的肠道/消化系统
+    notes:
+    - 可比喻：处理中心；参见 {betfu}.
+    glosses:
+    - No glosses.

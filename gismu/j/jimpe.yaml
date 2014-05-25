@@ -1,6 +1,107 @@
-Word: jimpe
-Rafsi: jmi
-Definition: x1 understands/comprehends fact/truth x2 (du'u) about subject x3; x1 understands
-  (fi) x3.
-Notes: See also {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.
-Examples: None
+word: jimpe
+rafsi:
+- jmi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 understands/comprehends fact/truth x2 (du'u) about subject
+      x3; x1 understands (fi) x3.
+    notes:
+    - See also {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.
+    glosses:
+    - understand
+  de:
+    place structure: x1 versteht/begreift Tatsache/Wahrheit x2 (du'u) über Thema x3;
+      x1 versteht (fi) x3
+    notes:
+    - No notes.
+    glosses:
+    - verstehen
+  es:
+    place structure: x1 entiende/comprende que x2 (du'u) es cierto acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - entender
+  fr:
+    place structure: x1 comprends que le fait x2 (du'u) est vrai à propos du sujet
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - comprendre
+  ru:
+    place structure: x1 понимает факт/истину x2 ({du'u}) о предмете x3; x1 понимает,
+      что x2 ({du'u}); x1 понимает ({fi}) x3
+    notes:
+    - '{djuno} (знать), {jijnu} (постигать [интуитивно]), {morna} (узор), {smuni}
+      (значение [смысл]), {saske} (наука), {viska} (видеть)'
+    glosses:
+    - понимать
+    - x1=понимающий
+    - x2=понимаемое
+    - x3=предмет понимания
+  en-simple:
+    place structure: x1 understands x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - an understander
+    - x2=something understood
+    - x3=a subject of something understood
+  eo:
+    place structure: x1 komprenas fakton/veron x2 (du'u) pri temo x3; x1 komprenas
+      (fi) x3-on
+    notes:
+    - Vidu ankaŭ {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.
+    glosses:
+    - kompreni
+  hu:
+    place structure: x1 megérti x2 tényt x3-ról
+    notes:
+    - '(Lásd még: {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska})'
+    glosses:
+    - megért
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について理解する； x1 は x3 がわかる
+    notes:
+    - ・大意： 理解 ・読み方： ジムペ  ・関連語： {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 begrijpt feit/waarheid x2 (du'u) over onderwerp x3; x1 begrijpt
+      (fi) x3.
+    notes:
+    - 'Zie ook : {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.'
+    glosses:
+    - begrijpen
+  'no':
+    place structure: x1 forstår faktum/opplysning/sannhet x2 (du'u) om tema x3; x1
+      forstår (fi) x3
+    notes:
+    - No notes.
+    glosses:
+    - forstå
+  pl:
+    place structure: x1 rozumie/pojmuje fakt/prawdę x2 na temat/o podmiocie x3.
+    notes:
+    - Cf. {djuno}, {jijnu}.
+    glosses:
+    - pojmować
+    - rozumieć
+  sv:
+    place structure: x1 förstår/fattar/begriper fakta/sanning x2 (du'u) om ämne x3;
+      x1 förstår sig på (fi) x3.
+    notes:
+    - No notes.
+    glosses:
+    - begripa
+    - fatta (förstå)
+    - förstå
+  zh:
+    place structure: x1了解/理解事实/真相x2（du'u），关于主题x3；x1了解(fi) x3
+    notes:
+    - 参见 {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.
+    glosses:
+    - No glosses.

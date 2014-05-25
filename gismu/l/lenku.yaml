@@ -1,5 +1,61 @@
-Word: lenku
-Rafsi: lek
-Definition: x1 is cold/cool by standard x2.
-Notes: See also {glare}, {bisli}.
-Examples: None
+word: lenku
+rafsi:
+- lek
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is cold/cool by standard x2.
+    notes:
+    - See also {glare}, {bisli}.
+    glosses:
+    - cold
+  de:
+    place structure: x1 ist kalt/kühl gemäß Standard x2
+    notes:
+    - No notes.
+    glosses:
+    - kalt
+  es:
+    place structure: x1 esta frío/fresco según estándar x2
+    notes:
+    - Ver también {glare}.
+    glosses:
+    - frío
+  ru:
+    place structure: x1 — холодный/прохладный относительно стандарта x2
+    notes:
+    - '{glare} (горячий), {bisli} (лед)'
+    glosses:
+    - холодный
+  en-simple:
+    place structure: x1 is cold
+    notes:
+    - No notes.
+    glosses:
+    - x1=something cold
+    - x2=a coldness standard
+  eo:
+    place structure: x1 estas malvarma/frida laŭ normo x2
+    notes:
+    - Vidu ankaŭ {glare}, {bisli}.
+    glosses:
+    - malvarma
+  hu:
+    place structure: x1 hideg/hűvös x2 mérce szerint
+    notes:
+    - '(Lásd még: {glare}, {bisli})'
+    glosses:
+    - hideg
+  ja:
+    place structure: x1 は x2 （基準）において冷たい／涼しい
+    notes:
+    - ・大意： 冷たい ・読み方： ルェンク  ・語呂合わせ： lei 冷 ・関連語： {glare}, {bisli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是冷的，基于标准x2
+    notes:
+    - 参见 {glare}, {bisli}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,72 @@
-Word: kantu
-Rafsi: ka'u
-Definition: x1 is a quantum/ray/elementary particle/smallest measurable increment
-  of property/activity x2.
-Notes: Quantum ray (= {bonka'u}).  (cf. {selci} for masses and most objects; {ratni},
-  {gradu}, {gusni}, {nejni}, {linji})
-Examples: None
+word: kantu
+rafsi:
+- ka'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantum/ray/elementary particle/smallest measurable increment
+      of property/activity x2.
+    notes:
+    - Quantum ray (= {bonka'u}).  (cf. {selci} for masses and most objects; {ratni},
+      {gradu}, {gusni}, {nejni}, {linji})
+    glosses:
+    - quantum
+  de:
+    place structure: x1 ist ein Quant/Strahl/Elementarteilchen/die kleinste messbare
+      Zunahme von Eigenschaft/Aktivität x2
+    notes:
+    - No notes.
+    glosses:
+    - Quant
+  es:
+    place structure: x1 es un cuanto/partícula elemental/mínimo incremento medible
+      de propiedad/actividad x2
+    notes:
+    - Ver también {selci}.
+    glosses:
+    - cuanto
+    - cuanto (física cuántica)
+  ru:
+    place structure: x1 — квант/элементарная частица/мельчайшее измеримое приращение
+      свойства/активности x2
+    notes:
+    - '{selci} (частица [неделимая]) для масс и большинства объектов; {ratni} (атом),
+      {gradu} (градус), {gusni} (свет), {nejni} (энергия), {linji} (линия)'
+    glosses:
+    - квант
+  en-simple:
+    place structure: x1 is a quantum particle of property x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantum particle
+    - x2=a property of a quantum particle
+  eo:
+    place structure: x1 estas kvantumo/radio/elementa partiklo/plej malgranda mezurebla
+      pliaĵo de eco/ago x2
+    notes:
+    - Kvantuma radio (= {bonka'u}).  (kp. selci por kolektivaĵoj kaj plejmultaj objektoj;
+      ratni, gradu, gusni, nejni, linji)
+    glosses:
+    - kvantumo
+  hu:
+    place structure: x1 egy kvantum/[elemi] részecske/hullám / legkisebb mérhető egysége
+      x2 tulajdonságnak/jelenségnek
+    notes:
+    - '(Lásd még: {selci}, {ratni}, {gradu}, {gusni}, {nejni}, {linji})'
+    glosses:
+    - részecske
+  ja:
+    place structure: x1 は x2 （性質／動作）の量子
+    notes:
+    - 「光子」なども。 ・大意： 量子 ・読み方： カントゥ  ・関連語： {selci}; {ratni}, {gradu}, {gusni}, {nejni},
+      {linji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是有关量子的/基本粒子的/最小可测量的，关于性质/运动x2
+    notes:
+    - 量子波= {bonka'u}；参见 {selci}, {ratni}, {gradu}, {gusni}, {nejni}, {linji}
+    glosses:
+    - No glosses.

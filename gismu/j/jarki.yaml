@@ -1,6 +1,74 @@
-Word: jarki
-Rafsi: jak
-Definition: x1 is narrow in dimension x2 [2nd most significant dimension] by standard
-  x3.
-Notes: See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}.
-Examples: None
+word: jarki
+rafsi:
+- jak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is narrow in dimension x2 [2nd most significant dimension]
+      by standard x3.
+    notes:
+    - See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}.
+    glosses:
+    - narrow
+  jbo:
+    place structure: x1 cmalu x2 noi remoi cimde x1 ku'o x3
+    notes:
+    - No notes.
+    glosses:
+    - jarki
+  de:
+    place structure: x1 ist schmal in Dimension x2 [zweitwichtigste Dimension] gemäß
+      Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - schmal
+  es:
+    place structure: x1 es angosto/estrecho en dimensión/dirección x2 (la segunda
+      en importancia) según estándar x3
+    notes:
+    - Ver también {ganra},  {tordu},  {cinla},  {caxno}.
+    glosses:
+    - angosto
+  ru:
+    place structure: x1 — узкий в измерении x2 (2-е по важности измерение) относительно
+      стандарта x3
+    notes:
+    - '{caxno} (мелкий [неглубокий]), {cinla} (тонкий), {tordu} (короткий), {tagji}
+      (облегать [тесно]), {cinla} (тонкий), {cmalu} (маленький)'
+    glosses:
+    - узкий
+  en-simple:
+    place structure: x1 is narrow in dimension x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something narrow
+    - x2=a narrow dimension
+    - x3=a standard of narrowness
+  eo:
+    place structure: x1 estas mallarĝa/malvasta laŭ dimensio x2 [2-a plej signifa
+      dimensio] laŭ normo x3
+    notes:
+    - Vidu ankaŭ {caxno}, {cinla}, {tordu}, {tagji}, {cinla}, {cmalu}.
+    glosses:
+    - mallarĝa
+  hu:
+    place structure: x1 keskeny x2 méretében/irányban, x3 mérce szerint
+    notes:
+    - '(Lásd még: {caxno}, {cinla}, {tordu}, {tagji}, {cinla}, {cmalu})'
+    glosses:
+    - keskeny
+  ja:
+    place structure: x1 は x2 （次元）・ x3 （基準）において狭い
+    notes:
+    - ・大意： 狭い ・読み方： ジャルキ  ・関連語： {caxno}, {cinla}, {tordu}, {tagji}, {cinla}, {cmalu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是窄的，在尺寸/规格x2（第二重要的维度）上，基于测量标准x3
+    notes:
+    - 参见 {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,65 @@
-Word: tuple
-Rafsi: tup, tu'e
-Definition: 'x1 is a/the leg [body-part] of x2; [metaphor: supporting branch].'
-Notes: See also {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}.
-Examples: None
+word: tuple
+rafsi:
+- tup
+- tu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the leg [body-part] of x2; [metaphor: supporting branch].'
+    notes:
+    - See also {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}.
+    glosses:
+    - leg
+  de:
+    place structure: 'x1 ist ein Bein [Körperteil] von x2; [Im übertragenen Sinn:
+      stützender Ast]'
+    notes:
+    - No notes.
+    glosses:
+    - Bein
+  es:
+    place structure: x1 es una pierna/pata (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - pierna
+  ru:
+    place structure: x1 — нога (часть тела) x2
+    notes:
+    - 'Метафора: опорный отросток {stani} (стебель), {zbepi} (подставка), {jamfu}
+      (ступня), {jimca} (ветвь), {sanli} (стоять)'
+    glosses:
+    - x1=нога
+  en-simple:
+    place structure: x1 is a leg of x2
+    notes:
+    - No notes.
+    glosses:
+    - a leg
+    - x2=something with a leg
+  eo:
+    place structure: 'x1 estas kruro [korpoparto] de x2; [metafore: subtenanta branĉo]'
+    notes:
+    - Vidu ankaŭ {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}.
+    glosses:
+    - kruro
+  hu:
+    place structure: x1 egy/a lába x2-nek
+    notes:
+    - '(Lásd még: {stani}, {zbepi}, {jamfu}, {jimca}, {sanli})'
+    glosses:
+    - láb
+  ja:
+    place structure: x1 は x2 （本体）の脚
+    notes:
+    - 股間から足首までの、腿と脛の部分。 ・大意： 脚 ・読み方： トゥプルェ  ・関連語： {stani}, {zbepi}, {jamfu}, {jimca},
+      {sanli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的腿（身体部位）
+    notes:
+    - 参见 {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}.
+    glosses:
+    - No glosses.

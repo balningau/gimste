@@ -1,5 +1,70 @@
-Word: ractu
-Rafsi: ''
-Definition: x1 is a rabbit/hare/[doe] of species/breed x2.
-Notes: See also {mabru}, {kerlo}.
-Examples: None
+word: ractu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rabbit/hare/[doe] of species/breed x2.
+    notes:
+    - See also {mabru}, {kerlo}.
+    glosses:
+    - bunny (rabbit)
+    - rabbit
+  de:
+    place structure: x1 ist ein Hase/Kaninchen/Karnickel der Art/Gattung x2.
+    notes:
+    - Siehe auch {mabru}, {kerlo}.
+    glosses:
+    - Hase
+    - Kaninchen
+    - Karnickel
+  es:
+    place structure: x1 es un conejo/liebre de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - conejo
+  fr:
+    place structure: x1 est un lapin de l'espèce x2
+    notes:
+    - No notes.
+    glosses:
+    - lapin
+  ru:
+    place structure: x1 — заяц/кролик вида/породы x2
+    notes:
+    - '{mabru} (зверь), {kerlo} (ухо)'
+    glosses:
+    - заяц
+  en-simple:
+    place structure: x1 is a rabbit of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a rabbit
+    - x2=a species of rabbit
+  eo:
+    place structure: x1 estas kuniklo/leporo de speco/raso x2
+    notes:
+    - Vidu ankaŭ {mabru}, {kerlo}.
+    glosses:
+    - kuniklo
+  hu:
+    place structure: x1 egy nyúl [Leporidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {mabru}, {kerlo})'
+    glosses:
+    - nyúl
+  ja:
+    place structure: x1 は x2 （種類）のウサギ目（もく）動物
+    notes:
+    - ・大意： 兎 ・読み方： ラシトゥ ・関連語： {mabru}, {kerlo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是兔，属于品种/种类x2
+    notes:
+    - 参见 {mabru}, {kerlo}.
+    glosses:
+    - No glosses.

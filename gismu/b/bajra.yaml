@@ -1,5 +1,118 @@
-Word: bajra
-Rafsi: baj
-Definition: x1 runs on surface x2 using limbs x3 with gait x4.
-Notes: See also {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
-Examples: None
+word: bajra
+rafsi:
+- baj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 runs on surface x2 using limbs x3 with gait x4.
+    notes:
+    - See also {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - run
+  de:
+    place structure: x1 rennt/läuft auf der Oberfläche x2 mit den Gliedmaßen x3 in
+      der Gangart x4.
+    notes:
+    - Siehe auch {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - laufen
+    - rennen
+  es:
+    place structure: x1 corre sobre superficie x2 usando miembros x3 con paso x4
+    notes:
+    - Ver también {cadzu},  {klama},  {litru},  {stapa}.
+    glosses:
+    - correr
+  fr:
+    place structure: x1 court sur x2 (surface) en se servant de jambe(s)/membre(s)
+      x3 ayant comme démarche x4.
+    notes:
+    - Voir aussi {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - courir
+  ru:
+    place structure: x1 бежит по поверхности x2 на конечностях x3 способом/манерой
+      x4
+    notes:
+    - См. {cadzu} (идти пешком), {klama} (перемещаться), {litru} (путешествовать),
+      {stapa} (шагать), {plipe} (прыгать), {cpare} (карабкаться).
+    glosses:
+    - бежать
+    - x1=бегун
+    - x4=манера бега
+  en-simple:
+    place structure: x1 runs on x2 using limbs x3 with gait x4
+    notes:
+    - No notes.
+    glosses:
+    - a runner
+    - x2=a running surface
+    - x3=limbs runs with
+    - x4=a running gait
+  eo:
+    place structure: x1 kuras sur supraĵo x2 per membroj x3 kun irmaniero x4
+    notes:
+    - Vidu ankaŭ {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - kuri
+  hu:
+    place structure: x1 fut/szalad x2 felületen, x3 végtagokkal, x4 módon
+    notes:
+    - '(Lásd még: {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare})'
+    glosses:
+    - fut
+  ja:
+    place structure: x1 は x2 （表面）を x3 （肢）・ x4 （調子）で走る
+    notes:
+    - 「mi sutra bajra／私は速く走る」「le bajra cu jinga ja te jinga／その走者は勝者または敗者である」 ・大意：
+      走る ・読み方： バジラ  ・語呂合わせ： ＜場をじらす＞, run
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 springer på underlag x2 med kroppsdeler x3 og ganglag x4
+    notes:
+    - Se og {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 biegnie po powierzchni x2 używając kończyn x3 chodem/biegiem/sposobem
+      chodzenia x4.
+    notes:
+    - Patrz też {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - biec
+    - biegać
+  sv:
+    place structure: x1 springer/löper på underlag x2 med lemmar x3 med löpstil x4.
+    notes:
+    - Se även {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+    glosses:
+    - löpa (snabbt förflytta sig med sina lemmar)
+    - springa (snabbt förflytta sig med sina lemmar)
+    - x1=löpare (en som snabbt förflyttar sig med sina lemmar)
+    - x2=underlag för löpning
+    - x3=lem för löpning
+    - x4=löpstil
+  vi:
+    place structure: x1 chạy trên x2 dùng x3 theo cách x4
+    notes:
+    - No notes.
+    glosses:
+    - chạy
+    - x1=người chạy
+    - x2=bề mặt
+    - x3=chi (tay; chân)
+    - x4=dáng đi
+  zh:
+    place structure: x1在x2路面上用身体上的x3以x4的步态走路或跑步
+    notes:
+    - 参见{cadzu}、{klama}、{litru}、{stapa}、{plipe}、{cpare}
+    glosses:
+    - 行走
+    - 走路
+    - 跑步
+    - x1=行人
+    - x2=路面
+    - x3=走路时用的肢节
+    - x4=步态

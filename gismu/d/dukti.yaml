@@ -1,5 +1,66 @@
-Word: dukti
-Rafsi: dut
-Definition: x1 is polar opposite from/contrary to x2 in property/on scale x3 (property/si'o).
-Notes: See also {ranxi}, {ragve}, {fatne}.
-Examples: None
+word: dukti
+rafsi:
+- dut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is polar opposite from/contrary to x2 in property/on scale
+      x3 (property/si'o).
+    notes:
+    - See also {ranxi}, {ragve}, {fatne}.
+    glosses:
+    - opposite
+  de:
+    place structure: x1 ist das (entgegengesetzte) Gegenteil von x2 in Eigenschaft/auf
+      Skala x3 (Eigenschaft/si'o)
+    notes:
+    - No notes.
+    glosses:
+    - Gegenteil
+  es:
+    place structure: x1 es lo contrario/opuesto polar de x2 en propiedad/en escala
+      x3
+    notes:
+    - Ver también {ragve},  {fatne}.
+    glosses:
+    - contrario
+  ru:
+    place structure: x1 полярно противоположен x2 в свойстве/по шкале x3 (свойство/{si'o})
+    notes:
+    - '{ranxi} (парадоксальный), {ragve} (напротив [по ту сторону]), {fatne} (обращение
+      [обратный порядок])'
+    glosses:
+    - x1=противоположный
+  en-simple:
+    place structure: x1 is opposite or contrary to x2 in property or on scale x3
+    notes:
+    - No notes.
+    glosses:
+    - an opposite
+    - x2=something with an opposite
+    - x3=a scale of an opposite
+  eo:
+    place structure: x1 estas malo de/kontraŭo al x2 en eco/laŭ skalo x3 (eco/si'o)
+    notes:
+    - Vidu ankaŭ {ranxi}, {ragve}, {fatne}.
+    glosses:
+    - malo
+  hu:
+    place structure: x1 ellentéte x2-nek, x3 tulajdonságában/skálán
+    notes:
+    - '(Lásd még: {ranxi}, {ragve}, {fatne})'
+    glosses:
+    - ellentét
+  ja:
+    place structure: x1 は x2 の正反対、 x3 （基準／性質）において
+    notes:
+    - ・大意： 正反対 ・読み方： ドゥクティ  ・関連語： {ranxi}, {ragve}, {fatne}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是与x2相反的/相对的，在性质/程度x3（性质/si'o）
+    notes:
+    - 参见 {ranxi}, {ragve}, {fatne}.
+    glosses:
+    - No glosses.

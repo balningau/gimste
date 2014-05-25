@@ -1,6 +1,85 @@
-Word: fanva
-Rafsi: ''
-Definition: x1 translates text/utterance x2 to language x3 from language x4 with translation
-  result x5.
-Notes: See also {cusku}, {bangu}.
-Examples: None
+word: fanva
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 translates text/utterance x2 to language x3 from language
+      x4 with translation result x5.
+    notes:
+    - See also {cusku}, {bangu}.
+    glosses:
+    - translate
+  de:
+    place structure: x1 übersetzt Text/Äußerung x2 in Sprache x3 aus Sprache x4 mit
+      Übersetzungsergebnis x5.
+    notes:
+    - Siehe auch {cusku}, {bangu}.
+    glosses:
+    - übersetzen
+  es:
+    place structure: x1 traduce texto/frase x2 a idioma x3 de idioma x4 con resultado/traducción
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - traducir
+  ru:
+    place structure: x1 переводит текст/речь x2 на язык x3 с языка x4 с результатом
+      перевода x5
+    notes:
+    - '{cusku} (говорить [кому-либо]), {bangu} (язык [лингвистический])'
+    glosses:
+    - переводить (с языка)
+    - x1=переводящий (с языка)
+    - x3=язык (лингвистика)
+  en-simple:
+    place structure: x1 translates x2 to language x3 from language x4 with result
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - a translateer
+    - x2=a source text for translation
+    - x3=a target language for translation
+    - x4=a source language for translation
+    - x5=a result of translation
+  eo:
+    place structure: x1 tradukas tekston/elparolaĵon x2 en lingvo x3 el lingvo x4
+      kun traduka rezulto x5
+    notes:
+    - Vidu ankaŭ {cusku}, {bangu}.
+    glosses:
+    - traduki
+  hu:
+    place structure: x1 lefordítja x2 szöveget/kijelentést x3 nyelvre, x4 nyelvről,
+      x5 eredménnyel
+    notes:
+    - '(Lásd még: {cusku}, {bangu})'
+    glosses:
+    - lefordít
+  ja:
+    place structure: x1 は x2 （文字列）を x3 （言語）に x4 （言語）から翻訳し、 x5 （文字列）を生む
+    notes:
+    - ・大意： 翻訳 ・読み方： ファンヴァ  ・語呂合わせ： ＜ファン、バラエティ＞ ・関連語： {cusku}, {bangu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 översätter text/yttrande x2 till språk x3 från språk x4 med
+      översättningsresultat x5.
+    notes:
+    - No notes.
+    glosses:
+    - översätta
+    - x1=översättare
+    - x2=översatt (text/yttrande)
+    - x3=språk (översatt från)
+    - x4=språk (översatt till)
+    - x5=översättning (resultat av översättning)
+  zh:
+    place structure: x1翻译文本/话语x2至目标语言x3，来自源语言x4，得到翻译结果x5
+    notes:
+    - 参见 {cusku}, {bangu}.
+    glosses:
+    - No glosses.

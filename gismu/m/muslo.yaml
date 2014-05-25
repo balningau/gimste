@@ -1,6 +1,68 @@
-Word: muslo
-Rafsi: mus
-Definition: x1 pertains to the Islamic/Moslem/Koranic [Quranic] culture/religion/nation
-  in aspect x2.
-Notes: Also Muslim.  See also {jegvo}, {lijda}.
-Examples: None
+word: muslo
+rafsi:
+- mus
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pertains to the Islamic/Moslem/Koranic [Quranic] culture/religion/nation
+      in aspect x2.
+    notes:
+    - Also Muslim.  See also {jegvo}, {lijda}.
+    glosses:
+    - Islamic
+    - Koranic
+    - Moslem
+    - Muslim
+    - Quranic
+  de:
+    place structure: x1 gehört zur islamischen/muslimischen/koranischen Kultur/Religion/Nation
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - islamisch
+  es:
+    place structure: x1 refleja cultura/religión islámica/musulmana en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - islámico
+  ru:
+    place structure: x1 — исламский/мусульманский в аспекте x2
+    notes:
+    - '{jegvo} (иеговистский), {lijda} (религия)'
+    glosses:
+    - x1=мусульманский
+  en-simple:
+    place structure: x1 is Islamic or Moslem in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Islamic
+    - x2=an Islamic aspect
+  eo:
+    place structure: x1 apartenas al la islama/mahometana/Korana kulturo/religio/nacio
+      laŭ aspekto x2
+    notes:
+    - 'Ankaŭ: muzlo.  Vidu ankaŭ {jegvo}, {lijda}.'
+    glosses:
+    - islama
+  hu:
+    place structure: x1 iszlám/muszlim/mohamedán kultúrát/vallást tükröz x2 szempontból
+    notes:
+    - '(Lásd még: {jegvo}, {lijda})'
+    glosses:
+    - iszlám
+  ja:
+    place structure: x1 は x2 （性質面）に関してイスラム教系
+    notes:
+    - ・大意： イスラム ・読み方： ムスルォ  ・関連語： {jegvo}, {lijda}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于伊斯兰/穆斯林/古兰经的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 也指：穆斯林；参见 {jegvo}, {lijda}.
+    glosses:
+    - No glosses.

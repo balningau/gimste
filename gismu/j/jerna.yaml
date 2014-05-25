@@ -1,12 +1,105 @@
-Word: jerna
-Rafsi: ''
-Definition: x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service
-  x3 (activity).
-Notes: Also $x_2$ earnings, reward (= {zanseljerna} or {nemjerna}), punishment/comeuppance
-  (= {sfaseljerna}, {malseljerna}); $x_3$ behavior; job (= {terjerna}); $x_2$ may
-  be a specific object, a commodity (mass), an event, or a property; pedantically,
-  for objects/commodities, this is sumti-raising from ownership of the object/commodity
-  (= {posyjerna}, {posyseljerna} for unambiguous semantics).  See also {jibri}, {pleji},
-  {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta}, {kargu},
-  {vamji}.
-Examples: None
+word: jerna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2
+      for work/service x3 (activity).
+    notes:
+    - Also x2 earnings, reward (= {zanseljerna} or {nemjerna}), punishment/comeuppance
+      (= {sfaseljerna}, {malseljerna}); x3 behavior; job (= {terjerna}); x2 may be
+      a specific object, a commodity (mass), an event, or a property; pedantically,
+      for objects/commodities, this is sumti-raising from ownership of the object/commodity
+      (= {posyjerna}, {posyseljerna} for unambiguous semantics).  See also {jibri},
+      {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta},
+      {kargu}, {vamji}.
+    glosses:
+    - deserve (merit)
+    - earn
+    - merit (deserve)
+    - x1=-
+    - x2=wage (salary)
+  de:
+    place structure: x1 (Person/Handelnder) verdient Lohn/Bezahlung x2 für Arbeit/Dienstleistung
+      x3 (Aktivität)
+    notes:
+    - No notes.
+    glosses:
+    - verdienen
+  es:
+    place structure: x1 gana sueldo/salario/paga x2 por trabajo/servicio x3
+    notes:
+    - Ver también {pegji},  {vecnu},  {cnemu}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 (деятель/лицо) зарабатывает/{заслуживает} заработную плату/жалованье
+      x2 за работу/услуги x3 (деятельность)
+    notes:
+    - 'Также: x2 — доход, вознаграждение: {zanseljerna} или {nemjerna}, наказание/штраф:
+      {sfaseljerna}, {malseljerna}; x3 — поведение; работа: {terjerna}; x2 м.б. конкретным
+      объектом, товаром (масса), событием или свойством; строго говоря, для объектов/товаров
+      мы имеем дело с подъемом sumti от владения объектом/товаром: {posyjerna}, {posyseljerna}
+      для однозначной семантики) {jibri} (профессия), {pleji} (платить), {vecnu} (продавать),
+      {cnemu} (воздавать), {canja} (обменивать), {jdima} (цена), {jinga} (выигрывать
+      [побеждать]), {prali} (прибыль), {sfasa} (наказывать), {janta} (счет [к оплате]),
+      {kargu} (дорогой [дорогостоящий]), {vamji} (ценность [стоимость])'
+    glosses:
+    - зарабатывать
+    - x1=зарабатывающий
+  en-simple:
+    place structure: x1 earns salary or pay x2 for work x3
+    notes:
+    - No notes.
+    glosses:
+    - an earner of salary
+    - x2=a salary
+    - x3=a salaried work
+  eo:
+    place structure: x1 (aganto/homo) gajnas/perlaboras/[meritas] salajron/pagon x2
+      pro laboro/servo x3 (ago)
+    notes:
+    - 'Ankaŭ: x2 gajnaĵo, rekompenco (= zanseljerna aŭ nemjerna), puno (= {sfaseljerna},
+      {malseljerna}); x3 konduto; ofico (= {terjerna}); x2 povas esti specifa objekto,
+      varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas
+      sumti-levado el posedo de la objekto/varo (= {posyjerna}, posyseljerna por neambigua
+      {semantiko}).  Vidu ankaŭ {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima},
+      {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}.'
+    glosses:
+    - perlabori
+  hu:
+    place structure: x1 megkeresi x2 bért/fizetést x3 munkáért/szolgálatért
+    notes:
+    - '(Lásd még: {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali},
+      {sfasa}, {janta}, {kargu}, {vamji})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 （者）は x2 （収益）を x3 （行動）から稼ぐ；  x2 は x1 の給料／報酬
+    notes:
+    - ・大意： 稼ぐ ・読み方： ジェルナ  ・関連語： {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima},
+      {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (agent/person) tjänar/[förtjänar] lön/(av)löning/betalning/hyra
+      [sjöfart] x2 för arbete/tjänst x3 (aktivitet).
+    notes:
+    - Även x2 arbetsförtjänst/inkomst, belöning (= {zanseljerna} eller {nemjerna}),
+      straff (= {sfaseljerna}, {malseljerna}); x3 beteende; jobb/levebröd (= {terjerna});
+      x2 kan vara ett specifikt föremål, en mängdvara (massa), en händelse, eller
+      en egenskap; för att vara pedantisk, så är detta sumti-höjande för föremål/mängdvara
+      genom ägandeskap av densamma (= {posyjerna}, {posyseljerna} för otvetydig semantik).
+    glosses:
+    - förtjäna
+    - tjäna (få lön)
+  zh:
+    place structure: x1给予接受者x2报酬/工资/回报，因为工作/服务x3（行为）
+    notes:
+    - 也指：x2获得报酬/得到回报 （= {zanseljerna}或{nemjerna}）；x2遭受惩罚/得到报应（= {sfaseljerna}, {malseljerna}）；x3指行为；工作={terjerna}；x2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posyjerna},{posyseljerna}；参见
+      {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa},
+      {janta}, {kargu}, {vamji}.
+    glosses:
+    - No glosses.

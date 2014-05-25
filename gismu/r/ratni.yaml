@@ -1,7 +1,73 @@
-Word: ratni
-Rafsi: rat
-Definition: x1 is an atom of element/atomic number x2 of isotope number/atomic weight
-  x3.
-Notes: (cf. {kantu} for a basic unit of a property or activity; {selci} for a basic
-  physical subunit, generally of a mass)
-Examples: None
+word: ratni
+rafsi:
+- rat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an atom of element/atomic number x2 of isotope number/atomic
+      weight x3.
+    notes:
+    - (cf. {kantu} for a basic unit of a property or activity; {selci} for a basic
+      physical subunit, generally of a mass)
+    glosses:
+    - atom
+  de:
+    place structure: x1 ist ein Atom von Element/mit Ordnungszahl x2 von Isotop-Nummer/mit
+      Atomgewicht x3
+    notes:
+    - No notes.
+    glosses:
+    - Atom
+  es:
+    place structure: x1 es un átomo de elemento/número atómico x2 de isótopo/peso
+      atómico x3
+    notes:
+    - Ver también {selci}.
+    glosses:
+    - átomo
+  ru:
+    place structure: x1 — атом элемента/с атомным номером x2 изотопа с номером/атомным
+      весом x3
+    notes:
+    - '{kantu} (квант) для основной единицы свойства/деятельности; {selci} (частица
+      [неделимая]) для основной физической частицы, обычно объекта, описанного как
+      масса'
+    glosses:
+    - x1=атом
+    - x2=атомный номер
+    - x3=атомный вес
+  en-simple:
+    place structure: x1 is an atom of element x2 of isotope number x3
+    notes:
+    - No notes.
+    glosses:
+    - an atom
+    - x2=an atomic number
+    - x3=an isotope of an atom
+  eo:
+    place structure: x1 estas atomo de elemento/atomnombro x2 de isotopa nombro/atoma
+      pezo x3
+    notes:
+    - (kp. kantu por baza unuo de eco aŭ ago; selci por baza fizika subunuo, ĝenerale
+      de kolektivaĵo)
+    glosses:
+    - atomo
+  hu:
+    place structure: x1 egy atomja x2 elemnek/[protonszámnak], x3 neutron-/izotóp-/tömegszámmal
+    notes:
+    - '(Lásd még: {kantu}, {selci})'
+    glosses:
+    - atom
+  ja:
+    place structure: x1 は x2 （原子番号）・ x3 （原子量）の元素
+    notes:
+    - ・大意： 元素 ・読み方： ラトニ  ・語呂合わせ： 元素、ラットに ・関連語： {kantu}; {selci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是元素/原子序数x2的原子，属于同位素x3/原子量为x3
+    notes:
+    - 参见 {kantu} 基本单元的性质和行为；{selci}基本物理单元，通常是团体
+    glosses:
+    - No glosses.

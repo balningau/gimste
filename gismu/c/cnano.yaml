@@ -1,7 +1,86 @@
-Word: cnano
-Rafsi: na'o
-Definition: x1 [value] is a norm/average in property/amount x2 (ka/ni) among x3(s)
-  (set) by standard x4.
-Notes: Also mean, normal, usual; ($x_3$ specifies the complete set).  See also {tcaci},
-  {fadni}, {kampu}, {lakne}, {tarti}, {rirci}.
-Examples: None
+word: cnano
+rafsi:
+- na'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [value] is a norm/average in property/amount x2 (ka/ni) among
+      x3(s) (set) by standard x4.
+    notes:
+    - Also mean, normal, usual; (x3 specifies the complete set).  See also {tcaci},
+      {fadni}, {kampu}, {lakne}, {tarti}, {rirci}.
+    glosses:
+    - average (norm)
+    - norm (average)
+  de:
+    place structure: x1 [Wert] ist die Norm/der Durchschnitt in Eigenschaft/Menge
+      x2 (ka/ni) unter x3 (Menge) gemäß Standard x4
+    notes:
+    - No notes.
+    glosses:
+    - Norm
+  es:
+    place structure: x1 es normal/promedio en propiedad x2 entre x3 según estándar
+      x4
+    notes:
+    - Ver también {tcaci},  {fadni},  {kamtu}.
+    glosses:
+    - normal
+  ru:
+    place structure: x1 — норма/среднее значение свойства/количества x2 ({ka}/{ni})
+      среди x3 (множество) относительно стандарта x4
+    notes:
+    - 'Также: средний, нормальный, обычный; x3 — полное описание множества {tcaci}
+      (обычай), {fadni} (типичный), {kampu} (общий [о свойстве]), {lakne} (вероятный),
+      {tarti} (вести [себя: поведение]), {rirci} (нетипичный)'
+    glosses:
+    - x1=норма
+  en-simple:
+    place structure: x1 is an average in property or amount x2 among set x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=an average
+    - x2=a average's property
+    - x3=a set of an average
+    - x4=an average's standard
+  eo:
+    place structure: x1 [valoro] estas mezkvanto/averaĝo en eco/kvanto x2 (ka/ni)
+      inter x3 (aro) laŭ normo x4
+    notes:
+    - (x3 specifas la kompletan aron)); Vidu ankaŭ {tcaci}, {fadni}, {kampu}, {lakne},
+      {tarti}, {rirci}.
+    glosses:
+    - mezkvanto
+  hu:
+    place structure: x1 érték átlagos/megszokott x2 tulajdonságban/mennyiségben, az
+      x3 halmazon belül, x4 mérce szerint
+    notes:
+    - '(Lásd még: {tcaci}, {fadni}, {kampu}, {lakne}, {tarti}, {rirci})'
+    glosses:
+    - átlagos
+  ja:
+    place structure: x1 は性質 x2 (ka, ni) に関する、 x3 （集合）の観点 x4 (si'o) による標準／平均／スタンダード
+    notes:
+    - ・大意： 平均 ・読み方： シナノ  ・語呂合わせ： 信濃は標準 ・関連語： {tcaci}, {fadni}, {kampu}, {lakne}, {tarti},
+      {rirci}
+    glosses:
+    - 標準
+    - x1=平均値
+  sv:
+    place structure: x1 [värdering] är en norm/genomsnitt i egenskap/belopp x2 (ka/ni)
+      bland x3 (set) enligt standard x4.
+    notes:
+    - No notes.
+    glosses:
+    - genomsnitt (norm)
+    - x1=norm
+    - x2=normtyp
+    - x3=normgrupp (grupp som omfattas av norm)
+    - x4=normstandard
+  zh:
+    place structure: x1是基准的/普通的/平均的，在性质/数量x2（ni/ka）上，在集合x3中，依据标准x4
+    notes:
+    - x3指完整的集合；参见 {tcaci}, {fadni}, {kampu}, {lakne}, {tarti}, {rirci}.
+    glosses:
+    - No glosses.

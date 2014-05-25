@@ -1,10 +1,122 @@
-Word: banli
-Rafsi: bal, ba'i
-Definition: x1 is great/grand in property x2 (ka) by standard x3.
-Notes: Indicates a subjective greatness, as compared to the objective standard implied
-  for {barda}; (synonyms, possibly requiring tanru:) extraordinary, illustrious, magnificent,
-  impressive, awesome, grandiose, august, inspiring, special, majestic, distinguished,
-  eminent, splendor, stately, imposing (all generally {zabna}); terrible ({mabla}).  See
-  also {barda}, {nobli}, {se} {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra},
-  {traji}, {mutce}, {se} {manci}.
-Examples: None
+word: banli
+rafsi:
+- bal
+- ba'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is great/grand in property x2 (ka) by standard x3.
+    notes:
+    - Indicates a subjective greatness, as compared to the objective standard implied
+      for {barda}; (synonyms, possibly requiring tanru:) extraordinary, illustrious,
+      magnificent, impressive, awesome, grandiose, august, inspiring, special, majestic,
+      distinguished, eminent, splendor, stately, imposing (all generally {zabna});
+      terrible ({mabla}).  See also {barda}, {nobli}, {se} {sinma}, {pluja}, {misno},
+      {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se} {manci}.
+    glosses:
+    - great
+  de:
+    place structure: x1 ist großartig/eindrucksvoll/erhaben in Eigenschaft x2 (ka)
+      gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - großartig
+  es:
+    place structure: x1 es grandioso en propiedad x2 según estándar x3
+    notes:
+    - Ver también {barda},  {nobli},  se {sinma},  {pluja}.
+    glosses:
+    - grandioso
+  fr:
+    place structure: x1 est grand/grandiose/magnifique/formidable dans la dimension/au
+      niveau de x2 (ka) selon le standard x3.
+    notes:
+    - 'Indique une grandeur subjective, comparée à la grandeur objective exprimée
+      par {barda}. Synonyme de: extraordinaire, illustre, impressionnant, auguste,
+      spécial, majestueux, dintingué, splendide, imposant. Implique généralement {zabna},
+      mais l''utilisation de {mabla} peut entraîner une très différente signification.
+      Voir également {barda}, {nobli}, {se} {sinma}, {pluja}, {misno}, {vajni}, {fasnu},
+      {cizra}.'
+    glosses:
+    - formidable
+    - grandiose
+    - magnifique
+  ru:
+    place structure: x1 — великий/выдающийся/элитный/высший/грандиозный по свойству
+      x2 ({ka}) относительно стандарта x3
+    notes:
+    - 'Относится к субъективному величию, в отличие от объективного стандарта, предполагаемого
+      в {barda}; синонимы, возможно, требующие tanru: великолепный, впечатляющий,
+      внушительный, величественный, роскошный (все, в основном, [zabna]); ужасный,
+      чудовищный ([mabla]) {barda} (большой), {nobli} (аристократ), {se} {sinma} (уважать),
+      {pluja} (сложный [замысловатый]), {misno} (известный), {vajni} (важный [имеющий
+      значение]), {fasnu} (происходить [случаться]), {cizra} (странный), {traji} (самый),
+      {mutce} (очень), {se} {manci} (изумленный)'
+    glosses:
+    - великий
+  en-simple:
+    place structure: x1 is great in property x2 by the standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something great
+    - x2=a property of greatness
+    - x3=a standard of greatness
+  eo:
+    place structure: x1 estas grandioza/bonega/majesta en eco x2 (ka) laŭ normo x3
+    notes:
+    - Indikas subjektivan grandecon, kompare kun la objektiva normo implica por barda;
+      (sinonimoj, eble bezonantaj tanru:) eksterordinara, glora, impresa, inspira,
+      speciala, eminenta, splenda, impona (ĉiuj ĝenerale zabna); terura (mabla).  Vidu
+      ankaŭ {barda}, {nobli}, se {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra},
+      {traji}, {mutce}, se {manci}.
+    glosses:
+    - grandioza
+  hu:
+    place structure: x1 kiemelkedő x2 tulajdonságában, x3 mérce szerint
+    notes:
+    - '(Lásd még: {barda}, {nobli}, {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra},
+      {traji}, {mutce}, {manci})'
+    glosses:
+    - kiemelkedő
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （基準）で偉大／壮大／尊大
+    notes:
+    - 「barda」が客観的な大きさを表すのたいし、「banli」は主観的な大きさ。「la al,lax. cu banli／アッラーフは偉大なり」 ・大意：
+      偉大 ・読み方： バンルィ  ・語呂合わせ： ＜万事リーダー＞,  gran ・関連語： {barda}, {nobli}, {se} {sinma},
+      {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se} {manci}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er stor i egenskap x2 (ka) etter standard x3
+    notes:
+    - 'Indikerer en subjektiv storhet, i sammenligning med den objektive standarden
+      hos {barda}; (synonymer som trolig trenger tanru): ekstraordinær, fantastisk,
+      grandios, utmerket, emminent. Se også {barda}, {nobli}, se {sinma}, {pluja},
+      {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, se {manci}.'
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är storslagen i egenskap x2 (ka) enligt kriterium x3
+    notes:
+    - 'Indikerar en subjektiv storslagenhet, i jämförelse med de objektiva kriterier
+      som {barda} implicerar; synonymer som möjligen kräver tanru: enastående, lysande,
+      magnifik, imponerande, grandios, upphöjd, speciell, majestätisk,  eminent (alla
+      generellt {zabna}); fruktansvärd ({mabla}). Se även {barda}, {nobli}, {se sinma},
+      {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se manci}.'
+    glosses:
+    - grandios
+    - magnifik
+    - majestätisk
+    - x1=storslagen
+    - x2=storslagenhet på vilket sätt
+    - x3=storslagenhet standard
+  zh:
+    place structure: x1是伟大的，在性质x2（ka）上，依据标准x3
+    notes:
+    - 此伟大是指主观上，客观上的“大”={barda}；也指（可能需要tanru）：了不起/太厉害了等；参见 {barda}, {nobli}, {se} {sinma},
+      {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se} {manci}
+    glosses:
+    - No glosses.

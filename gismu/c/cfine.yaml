@@ -1,5 +1,74 @@
-Word: cfine
-Rafsi: ''
-Definition: x1 is a wedge [shape/form/tool] of material x2.
-Notes: See also {tutci}.
-Examples: None
+word: cfine
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wedge [shape/form/tool] of material x2.
+    notes:
+    - See also {tutci}.
+    glosses:
+    - wedge
+  de:
+    place structure: x1 ist ein Keil [Form/Werkzeug] aus Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Keil
+  es:
+    place structure: x1 es una cuña (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - cuña
+  ru:
+    place structure: x1 — клин (форма/орудие) из материала x2
+    notes:
+    - '{tutci} (инструмент)'
+    glosses:
+    - клин
+  en-simple:
+    place structure: x1 is a wedge of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a wedge
+    - x2=a material of a wedge
+  eo:
+    place structure: x1 estas kojno [formo/ilo] el materialo x2
+    notes:
+    - Vidu ankaŭ {tutci}.
+    glosses:
+    - kojno
+  hu:
+    place structure: x1 egy ék alakú test/eszköz x2 anyagból
+    notes:
+    - '(Lásd még: {tutci})'
+    glosses:
+    - ék
+  it:
+    place structure: x1 è un cuneo [strumento/forma] di materiale x2.
+    notes:
+    - No notes.
+    glosses:
+    - cuneo
+  ja:
+    place structure: x1 は角柱／くさび形
+    notes:
+    - ・大意： 角柱 ・読み方： シフィネ  ・関連語： {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kil [form/verktyg] av material x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=kil (verktyg/form)
+    - x2=kilmaterial
+  zh:
+    place structure: x1是由x2材料做成的楔子
+    notes:
+    - 参见 {tutci}.
+    glosses:
+    - No glosses.

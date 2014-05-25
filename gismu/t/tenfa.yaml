@@ -1,5 +1,72 @@
-Word: tenfa
-Rafsi: tef
-Definition: x1 is the exponential result of base x2 to power/exponent x3.
-Notes: See also {dugri}.
-Examples: None
+word: tenfa
+rafsi:
+- tef
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the exponential result of base x2 to power/exponent x3.
+    notes:
+    - See also {dugri}.
+    glosses:
+    - exponential
+  jbo:
+    place structure: 'x1 jalge le nu le nu pilji x2 cu rapli x3 .i x1 nu''a te''a
+      x2 boi x3 '
+    notes:
+    - '{pilji} {rapli}; {te''a}'
+    glosses:
+    - tenfa
+  de:
+    place structure: x1 ist die Potenz von Basis x2 hoch/mit Exponent x3; x1 ist x2
+      hoch x3
+    notes:
+    - No notes.
+    glosses:
+    - Potenz
+  es:
+    place structure: x1 es la exponencial de base x2 a la potencia/exponente x3
+    notes:
+    - Ver también {dugri}.
+    glosses:
+    - exponencial
+  ru:
+    place structure: x1 — результат возведения x2 в степень x3; x1 — экспонента с
+      основанием x2 и показателем x3
+    notes:
+    - '{dugri} (логарифм)'
+    glosses:
+    - экспонента
+  en-simple:
+    place structure: x1 is the exponential result of x2 to the power of x3
+    notes:
+    - No notes.
+    glosses:
+    - something exponential
+    - x2=an exponential base
+    - x3=an exponent
+  eo:
+    place structure: x1 estas la eksponencialo de bazo x2 altigata ĝis potenco/eksponento
+      x3
+    notes:
+    - Vidu ankaŭ {dugri}.
+    glosses:
+    - eksponencialo
+  hu:
+    place structure: x1 a hatványa x2 alapnak és x3 kitevőnek
+    notes:
+    - '(Lásd még: {dugri})'
+    glosses:
+    - hatvány
+  ja:
+    place structure: x1 は x2 （底）・ x3 （指数／累乗）の指数関数（の結果）
+    notes:
+    - ・大意： 指数関数 ・読み方： テンファ  ・関連語： {dugri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是底数为x2，指数为x3的指数结果
+    notes:
+    - 参见 {dugri}.
+    glosses:
+    - No glosses.

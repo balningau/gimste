@@ -1,9 +1,79 @@
-Word: spuda
-Rafsi: spu
-Definition: x1 answers/replies to/responds to person/object/event/situation/stimulus
-  x2 with response x3.
-Notes: $x_3$ also answer/reply.  If $x_2$ is a person/object, it will usually require
-  "tu'a" indicating that the reply/response is to that person/object doing something.  "tu'a"
-  may not be needed if the person/object itself is the stimulus, rather than something
-  it is doing. See also {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}.
-Examples: None
+word: spuda
+rafsi:
+- spu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 answers/replies to/responds to person/object/event/situation/stimulus
+      x2 with response x3.
+    notes:
+    - x3 also answer/reply.  If x2 is a person/object, it will usually require "tu'a"
+      indicating that the reply/response is to that person/object doing something.  "tu'a"
+      may not be needed if the person/object itself is the stimulus, rather than something
+      it is doing. See also {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}.
+    glosses:
+    - reply
+  de:
+    place structure: x1 antwortet/entgegnet/reagiert auf Person/Objekt/Ereignis/Situation/Reiz
+      x2 mit Antwort x3
+    notes:
+    - No notes.
+    glosses:
+    - antworten
+  es:
+    place structure: x1 responde/contesta a persona/objeto/evento/situación x2 con
+      respuesta x3
+    notes:
+    - Ver también {danfu},  {frati}.
+    glosses:
+    - responder
+  ru:
+    place structure: x1 отвечает/реагирует на событие/ситуацию/стимул/{лицо/объект}
+      x2 ответом/реакцией x3; x1 отвечает x2 (кому); x3 есть ответ x1 (чей) на x2
+    notes:
+    - если x3 есть лицо/объект, то обычно используется {tu'a} в знак того, что реакцию/ответ
+      вызывает какое-то действие этого лица/объекта; маркер {tu'a} м.б. опущен, если
+      стимулом является само лицо/объект, а не его действия {cusku} (говорить [кому-либо]),
+      {preti} (вопрос), {nabmi} (проблема), {danfu} (ответ), {frati} (реагировать),
+      {cpedu} (просить)
+    glosses:
+    - реагировать на
+    - x1=реагирующий на
+    - x2=стимул
+    - x3=ответная реакция
+  en-simple:
+    place structure: x1 responds or answers to x2 with response x3
+    notes:
+    - No notes.
+    glosses:
+    - x2=a responder's stimlus
+  eo:
+    place structure: x1 respondas al homo/objekto/okazo/situacio/stimulo/incito x2
+      per respondo x3
+    notes:
+    - x3 ankaŭ respondo.  Se x2 estas homo/objekto, ĝi kutime bezonos je tu'a indikanta
+      ke la respondo estas al tiu homo/objekto faranta ion. tu'a povas ne esti necesa
+      se la homo/objekto mem estas la stimulo, kaj ne io kion ĝi faras. Vidu ankaŭ
+      {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}.
+    glosses:
+    - respondi
+  hu:
+    place structure: x1 válaszol/felel x2 személynek/eseményre/helyzetre x3 válasszal
+    notes:
+    - '(Lásd még: {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu})'
+    glosses:
+    - válaszol
+  ja:
+    place structure: x1 は x2 （者／物／事）に x3 （動作／発言）で返信する
+    notes:
+    - ・大意： 返信 ・読み方： スプダ  ・関連語： {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2（人/物/事/情形/刺激）做出回应/回答/回复x3
+    notes:
+    - x3指答复/回应/响应；如果x2位是人/物，使用tu'a是对此人/物的某种行为的回应，但如果人/物本身是刺激源，则不需要tu'a；参见 {cusku},
+      {preti}, {nabmi}, {danfu}, {frati}, {cpedu}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,78 @@
-Word: xekri
-Rafsi: xek, xe'i
-Definition: x1 is black/extremely dark-colored [color adjective].
-Notes: See also {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu},
-  {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
-Examples: None
+word: xekri
+rafsi:
+- xek
+- xe'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is black/extremely dark-colored [color adjective].
+    notes:
+    - See also {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - black
+  jbo:
+    place structure: x1 skari lo'e kolme .a lo'e na'e gusni
+    notes:
+    - '{skari}; {kolme}'
+    glosses:
+    - xekri
+  de:
+    place structure: x1 ist schwarz/hat eine sehr dunkle Farbe [Farbadjektiv].
+    notes:
+    - Siehe auch {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - schwarz
+  es:
+    place structure: x1 es negro/muy oscuro (color)
+    notes:
+    - No notes.
+    glosses:
+    - negro
+  ru:
+    place structure: x1 — чёрный/очень тёмного цвета; x1 чернеет
+    notes:
+    - '{blabi} (белый), {grusi} (серый [цвет]), {manku} (темный), {skari} (иметь цвет),
+      {xekri} (черный), {kandi} (тусклый), {carmi} (интенсивный), {blanu} (синий),
+      {bunre} (коричневый), {cicna} (бирюзовый), {crino} (зеленый), {narju} (оранжевый),
+      {nukni} (пурпурный), {pelxu} (желтый), {xunre} (красный), {zirpu} (сиреневый)'
+    glosses:
+    - чернеть
+    - x1=чёрный
+  en-simple:
+    place structure: x1 is black
+    notes:
+    - No notes.
+    glosses:
+    - something black
+  eo:
+    place structure: x1 estas nigra/tre malhela [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - nigra
+  hu:
+    place structure: x1 fekete/nagyon sötét színű
+    notes:
+    - '(Lásd még: {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu})'
+    glosses:
+    - fekete
+  ja:
+    place structure: x1 は黒色
+    notes:
+    - ・大意： 黒色 ・語呂合わせ： xei（黒）, negro ・関連語： {blabi}, {grusi}, {manku}, {skari}, {xekri},
+      {kandi}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu},
+      {xunre}, {zirpu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是黑色的/颜色很深的
+    notes:
+    - 参见 {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu}, {bunre},
+      {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - No glosses.

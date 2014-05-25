@@ -1,5 +1,66 @@
-Word: kluza
-Rafsi: luz
-Definition: x1 (obj.) is loose/bloused/not tight on x2 (obj.) at locus x3.
-Notes: See also {tagji}, {trati}, {rinju}.
-Examples: None
+word: kluza
+rafsi:
+- luz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (obj.) is loose/bloused/not tight on x2 (obj.) at locus x3.
+    notes:
+    - See also {tagji}, {trati}, {rinju}.
+    glosses:
+    - loose
+  de:
+    place structure: x1 (Objekt) ist locker/lose/nicht fest an x2 (Objekt) an Stelle
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - lose
+  es:
+    place structure: x1 es flojo/suelto/ablusado sobre x2 en parte/posición x3
+    notes:
+    - Ver también {tagji}.
+    glosses:
+    - flojo
+  ru:
+    place structure: x1 (объект) свободно облегает x2 (объект) в участке x3
+    notes:
+    - 'Также: распущенный, обвислый, просторный; антонимы: тугой, тесный {tagji} (облегать
+      [тесно]), {trati} (натянутый), {rinju} (удерживаться [от чего-либо])'
+    glosses:
+    - свободно облегать
+    - x1=свободно облегающий
+  en-simple:
+    place structure: x1 is loose on x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - something loose
+    - x2=something with something loose
+    - x3=a location of looseness
+  eo:
+    place structure: x1 (obj.) estas malstrikta/neprema/malkompakta/pufa sur x2 (obj.)
+      je loko x3
+    notes:
+    - Vidu ankaŭ {tagji}, {trati}, {rinju}.
+    glosses:
+    - malstrikta
+  hu:
+    place structure: x1 laza/buggyos/bő x2-n, x3 helyen
+    notes:
+    - '(Lásd még: {tagji}, {trati}, {rinju})'
+    glosses:
+    - laza
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）において緩い／弛んでいる
+    notes:
+    - ・大意： 緩い ・読み方： クルゥザ  ・関連語： {tagji}, {trati}, {rinju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（物）是松弛的/宽松的/不紧的，在位置x3处
+    notes:
+    - 参见 {tagji}, {trati}, {rinju}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: cicna
-Rafsi: ''
-Definition: x1 is cyan/turquoise/greenish-blue [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu}.
-Examples: None
+word: cicna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is cyan/turquoise/greenish-blue [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu}.
+    glosses:
+    - cyan
+  de:
+    place structure: x1 ist blaugrün/türkis/cyan [Farbadjektiv]
+    notes:
+    - No notes.
+    glosses:
+    - blaugrün
+  es:
+    place structure: x1 es cyan/turquesa/azul verdoso (color)
+    notes:
+    - No notes.
+    glosses:
+    - cyan
+  ru:
+    place structure: x1 — бирюзовый/аквамариновый/сине-зеленый (о цвете)
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {crino} (зеленый), {blanu} (синий)'
+    glosses:
+    - бирюзовый
+  en-simple:
+    place structure: x1 is cyan or torquoise
+    notes:
+    - No notes.
+    glosses:
+    - something cyan
+  eo:
+    place structure: x1 estas bluverda/turkiskolora [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu}.
+    glosses:
+    - bluverda
+  hu:
+    place structure: x1 türkiz/cián/kékeszöld színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu})'
+    glosses:
+    - türkiz
+  ja:
+    place structure: x1 は青緑色／シアン／ターコイズ
+    notes:
+    - ・大意： シアン色 ・読み方： シシナ  ・語呂合わせ： 死すな ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi},
+      {crino}, {blanu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är cyan/turkosblå/grönaktigt blå [färgnyans].
+    notes:
+    - No notes.
+    glosses:
+    - cyan
+    - turkosblå
+  zh:
+    place structure: x1是蓝绿色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu}.
+    glosses:
+    - No glosses.

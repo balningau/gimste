@@ -1,6 +1,69 @@
-Word: karda
-Rafsi: ''
-Definition: x1 is a card [small nearly-2-dimensional shape/form] of material x2, shape
-  x3.
-Notes: ($x_3$ shape default rectangular); See also {matci}, {tapla}, {plita}.
-Examples: None
+word: karda
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a card [small nearly-2-dimensional shape/form] of material
+      x2, shape x3.
+    notes:
+    - (x3 shape default rectangular); See also {matci}, {tapla}, {plita}.
+    glosses:
+    - card
+  de:
+    place structure: x1 ist eine Karte [kleine fast zweidimensionale Form] aus Material
+      x2 mit Form x3
+    notes:
+    - No notes.
+    glosses:
+    - Karte
+  es:
+    place structure: x1 es una tarjeta/carta (forma) de material x2
+    notes:
+    - Ver también {tapla}.
+    glosses:
+    - tarjeta
+  ru:
+    place structure: x1 — карточка (маленькая, практически 2-мерная форма) из материала
+      x2, формы x3
+    notes:
+    - Форма x3 по умолчанию прямоугольная {matci} (матрац), {tapla} (плитка), {plita}
+      (плоскость)
+    glosses:
+    - карточка
+  en-simple:
+    place structure: x1 is a card of material x2 and shape x3
+    notes:
+    - No notes.
+    glosses:
+    - a card
+    - x2=a material of a card
+    - x3=a card shape
+  eo:
+    place structure: x1 estas karto [malgranda preskaŭ-2-dimensia formo] el materialo
+      x2, formo x3
+    notes:
+    - (x3 formo, defaŭlte rektangula); Vidu ankaŭ {matci}, {tapla}, {plita}.
+    glosses:
+    - karto
+  hu:
+    place structure: x1 egy kártya/lap/cetli [kisméretű, lapos, elhanyagolhatóan vékony
+      forma] x2 anyagból, x3 alakban
+    notes:
+    - 'x3 alapértelmezett értéke téglalap (Lásd még: {matci}, {tapla}, {plita})'
+    glosses:
+    - kártya
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （形状）のカード／札
+    notes:
+    - 「はがき」「トランプ」「名刺」「カルタ」なども。 ・大意： カード ・読み方： カルダ  ・語呂合わせ： card,carda ・関連語： {matci},
+      {tapla}, {plita}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是卡片，由材料x2做成，形状为x3
+    notes:
+    - x3默认是呈直角的；参见 {matci}, {tapla}, {plita}.
+    glosses:
+    - No glosses.

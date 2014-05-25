@@ -1,6 +1,80 @@
-Word: cfipu
-Rafsi: fi'u
-Definition: x1 (event/state) confuses/baffles x2 [observer] due to [confusing] property
-  x3 (ka).
-Notes: See also {pluja}, {cfipu}, {zunti}.
-Examples: None
+word: cfipu
+rafsi:
+- fi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event/state) confuses/baffles x2 [observer] due to [confusing]
+      property x3 (ka).
+    notes:
+    - See also {pluja}, {cfipu}, {zunti}.
+    glosses:
+    - confusing
+  de:
+    place structure: x1 (Ereignis/Zustand) verwirrt x2 [Beobachter] durch [verwirrende]
+      Eigenschaft x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - verwirrend
+  es:
+    place structure: x1 (evento) confunde/desconcierta a x2 por propiedad/aspecto
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - confundir
+  ru:
+    place structure: x1 (событие/состояние) дезориентирует/морочит/озадачивает/смущает/запутывает
+      x2 (наблюдателя) свойством/аспектом x3
+    notes:
+    - 'Также: сбивает с толку/конфузит/ставит в тупик {pluja} (сложный [замысловатый]),
+      {cfipu} (морочить), {zunti} (мешать [препятствовать])'
+    glosses:
+    - озадачивать
+    - x1=озадачивающий
+  en-simple:
+    place structure: x1 confuses or baffles x2 due to property x3
+    notes:
+    - No notes.
+    glosses:
+    - something confusing
+    - x2=something confused
+    - x3=a confusing property
+  eo:
+    place structure: x1 (okazo/stato) konfuzas/perpleksigas x2-on [observanto] pro
+      [konfuza] eco x3 (ka)
+    notes:
+    - Vidu ankaŭ {pluja}, {cfipu}, {zunti}.
+    glosses:
+    - konfuzi
+  hu:
+    place structure: x1 állapot/helyzet/esemény megzavarja/összezavarja/megtéveszti
+      x2-t x3 tulajdonsága miatt
+    notes:
+    - '(Lásd még: {pluja}, {cfipu}, {zunti})'
+    glosses:
+    - zavarba ejtő
+  ja:
+    place structure: x1 （事）は x2 （観者）にとって x3 （性質）の点で紛らわしい／混乱をまねく
+    notes:
+    - ・大意： 紛らわしい ・読み方： シフィプ  ・語呂合わせ： confuse ・関連語： {pluja}, {zunti}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (händelse/tillstånd) förvirrar/förbryllar x2 [observatör]
+      på grund av förvirrande egenskap x3 (ka).
+    notes:
+    - No notes.
+    glosses:
+    - förbrylla
+    - x1=förbryllande
+    - x2=förbryllad
+    - x3=förbryllande egenskap
+  zh:
+    place structure: x1（事物/状态）让观察者x2感到困惑/疑惑，因为让人困惑的性质x3
+    notes:
+    - 参见 {pluja}, {cfipu}, {zunti}.
+    glosses:
+    - No glosses.

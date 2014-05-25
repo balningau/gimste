@@ -1,9 +1,91 @@
-Word: fadni
-Rafsi: fad
-Definition: x1 [member] is ordinary/common/typical/usual in property x2 (ka) among
-  members of x3 (set).
-Notes: 'Also: $x_2$ is a normal/common/ordinary/typical property among set $x_3$ (=
-  selterfadni for reordered places); also regular, (mabla forms:) banal, trite, vulgar;
-  ($x_3$ is complete set).  See also {cafne}, {rirci}, {kampu}, {lakne}, {tcaci},
-  {cnano}.'
-Examples: None
+word: fadni
+rafsi:
+- fad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [member] is ordinary/common/typical/usual in property x2 (ka)
+      among members of x3 (set).
+    notes:
+    - 'Also: x2 is a normal/common/ordinary/typical property among set x3 (= selterfadni
+      for reordered places); also regular, (mabla forms:) banal, trite, vulgar; (x3
+      is complete set).  See also {cafne}, {rirci}, {kampu}, {lakne}, {tcaci}, {cnano}.'
+    glosses:
+    - ordinary
+  de:
+    place structure: x1 [Mengenelement] ist normal/gewöhnlich/üblich/typisch in Eigenschaft
+      x2 (ka) unter Elementen von x3 (Menge)
+    notes:
+    - No notes.
+    glosses:
+    - gewöhnlich
+  es:
+    place structure: x1 es ordinario/común/típico/usual/normal en propiedad x2 entre
+      miembros de x3
+    notes:
+    - Ver también {rirci},  {cafne},  {kampu},  {lakne},  {tcaci}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 — рядовой/заурядный/обычный/ординарный/типичный в отношении
+      свойства x2 ({ka}) среди членов множества x3
+    notes:
+    - 'Также: x2 — типичное/обычное свойство среди x3: {selterfadni} с переставленными
+      местами); ([mabla]:) банальный, вульгарный; x3 — полное описание множества {cafne}
+      (часто), {rirci} (нетипичный), {kampu} (общий [о свойстве]), {lakne} (вероятный),
+      {tcaci} (обычай), {cnano} (нормальный)'
+    glosses:
+    - заурядный
+  en-simple:
+    place structure: x1 is ordinary in property x2 among members of x3
+    notes:
+    - No notes.
+    glosses:
+    - something typical
+    - x2=a typical property
+    - x3=a group of typicals
+  eo:
+    place structure: x1 [membro] estas ordinara/tipa/kutima en eco x2 (ka) inter membroj
+      de x3 (aro)
+    notes:
+    - 'Ankaŭ: x2 estas normala/kutima/ordinara/tipa eco inter aro x3 (= selterfadni
+      por reordigitaj {lokoj}); (formoj kun mabla:) banala, triviala, vulgara; (x3
+      estas kompleta aro).  Vidu ankaŭ {cafne}, {rirci}, {kampu}, {lakne}, {tcaci},
+      {cnano}.'
+    glosses:
+    - ordinara
+  fi:
+    place structure: x1 [medlem] är vanlig/allmän/typisk/sedvanlig/ordinär i egenskap
+      x2 (ka) bland medlemmar x3 (set).
+    notes:
+    - Även reguljär; mabla-former är banal, trivial, vulgär; (x3 är ett fullständigt
+      set).
+    glosses:
+    - allmän (ordinär/vanlig)
+    - sedvanlig
+    - vanlig (ordinär)
+    - x1=typisk (ordinär)
+    - x2=typisk egenskap (ordinär)
+  hu:
+    place structure: x1 közönséges/általános/tipikus/megszokott x2 tulajdonságában,
+      az x3 halmaz elemeinek körében
+    notes:
+    - 'Továbbá: szabványos, illetve vulgáris (Lásd még: {cafne}, {rirci}, {kampu},
+      {lakne}, {tcaci}, {cnano})'
+    glosses:
+    - közönséges
+  ja:
+    place structure: x1 は x2 （性質）・ x3 （集合）において平凡／通常／普通
+    notes:
+    - 「ra fadni lo ni clani lo'i se gugdenulu／彼の身長はオランダ人としては普通だ」 ・大意： 平凡 ・読み方： ファドニ  ・関連語：
+      {cafne}, {rirci}, {kampu}, {lakne}, {tcaci}, {cnano}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（成员）是普通的/典型的/常见的，在性质x2上（ka），在成员集合x3中
+    notes:
+    - x2是集合x3中普偏的/典型的性质；也指：平凡的/平庸的/庸俗的；x3是完整集合；参见 {cafne}, {rirci}, {kampu}, {lakne},
+      {tcaci}, {cnano}.
+    glosses:
+    - No glosses.

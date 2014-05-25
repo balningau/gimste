@@ -1,5 +1,70 @@
-Word: flira
-Rafsi: fir
-Definition: x1 is a/the face [head/body-part] of x2; (adjective:) x1 is facial.
-Notes: See also {sefta}, {stedu}, {crane}, {mebri}.
-Examples: None
+word: flira
+rafsi:
+- fir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the face [head/body-part] of x2; (adjective:) x1 is facial.
+    notes:
+    - See also {sefta}, {stedu}, {crane}, {mebri}.
+    glosses:
+    - face
+  de:
+    place structure: x1 ist ein/das Gesicht [Kopf-/Körperteil] von x2
+    notes:
+    - No notes.
+    glosses:
+    - Gesicht
+  es:
+    place structure: x1 es una cara/rostro/faz (parte del cuerpo) de x2
+    notes:
+    - Ver también {sefta},  {crane}.
+    glosses:
+    - cara
+  ru:
+    place structure: x1 — лицо/морда (часть головы/тела) x2
+    notes:
+    - '{sefta} (поверхность), {stedu} (голова), {crane} (перед), {mebri} (лоб)'
+    glosses:
+    - лицо
+  en-simple:
+    place structure: x1 is the face of x2
+    notes:
+    - No notes.
+    glosses:
+    - a face
+    - x2=something with a face
+  eo:
+    place structure: x1 estas (la) vizaĝo [kapo/korpoparto] de x2; (adjektivo:) x1
+      estas vizaĝa
+    notes:
+    - Vidu ankaŭ {sefta}, {stedu}, {crane}, {mebri}.
+    glosses:
+    - vizaĝo
+  hu:
+    place structure: x1 egy/az arca x2-nek
+    notes:
+    - '(Lásd még: {sefta}, {stedu}, {crane}, {mebri})'
+    glosses:
+    - arc
+  ja:
+    place structure: x1 は x2 （本体）の顔；  x1 は表情的
+    notes:
+    - ・大意： 顔 ・読み方： フゥルィラ  ・関連語： {sefta}, {stedu}, {crane}, {mebri}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett ansikte/ansiktet [huvud/kroppsdel] av x2.
+    notes:
+    - x1 är facial/ansikts-.
+    glosses:
+    - facial (ansikts-)
+    - x1=ansikte
+    - x2=ansiktsförsedd
+  zh:
+    place structure: x1是脸/面部的
+    notes:
+    - 参见 {sefta}, {stedu}, {crane}, {mebri}.
+    glosses:
+    - No glosses.

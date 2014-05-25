@@ -1,7 +1,78 @@
-Word: lamji
-Rafsi: lam, la'i
-Definition: x1 is adjacent/beside/next to/in contact with x2 in property/sequence
-  x3 in direction x4.
-Notes: Also touching, contiguous, against.  See also {zvati}, {cpana}, {jibni}, {diklo},
-  {stuzi}, {bartu}, {jbini}.
-Examples: None
+word: lamji
+rafsi:
+- lam
+- la'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is adjacent/beside/next to/in contact with x2 in property/sequence
+      x3 in direction x4.
+    notes:
+    - Also touching, contiguous, against.  See also {zvati}, {cpana}, {jibni}, {diklo},
+      {stuzi}, {bartu}, {jbini}.
+    glosses:
+    - adjacent
+    - immediate (adjacent)
+    - immediate (happening right away)
+  de:
+    place structure: x1 ist angrenzend/anliegend/benachbart/nahe/in Kontakt mit x2
+      in Eigenschaft/Folge x3 in Richtung x4
+    notes:
+    - No notes.
+    glosses:
+    - angrenzend
+  es:
+    place structure: x1 esta adyacente/tocando/pegado/junto a x2 en propiedad/secuencia
+      x3 en dirección x4
+    notes:
+    - Ver también {zvati},  {cpana},  {jibni},  {diklo}.
+    glosses:
+    - adyacente
+  ru:
+    place structure: x1 — смежный с/соседний с/рядом с/следующий за x2 по свойству/последовательности
+      x3 в направлении x4
+    notes:
+    - 'Также: соприкасающийся, прилегающий, возле {zvati} (находиться), {cpana} (на),
+      {jibni} (близко), {diklo} (локальный), {stuzi} (место [постоянное]), {bartu}
+      (вне), {jbini} (между)'
+    glosses:
+    - смежный
+  en-simple:
+    place structure: x1 is adjacent or next to x2 in property x3 in direction x4
+    notes:
+    - No notes.
+    glosses:
+    - something adjacent
+    - x2=something to which something is adjacent
+    - x3=an adjacency property
+    - x4=an adjacency direction
+  eo:
+    place structure: x1 estas apud/flanke de/en kontakto kun x2 laŭ eco/sinsekvo x3
+      en direkto x4
+    notes:
+    - 'Ankaŭ: tuŝanta, kontraŭ.  Vidu ankaŭ {zvati}, {cpana}, {jibni}, {diklo}, {stuzi},
+      {bartu}, {jbini}.'
+    glosses:
+    - apud
+  hu:
+    place structure: x1 szomszédos/érintkezik x2-vel x3 tulajdonságban/sorozatban,
+      x4 irányban
+    notes:
+    - '(Lásd még: {zvati}, {cpana}, {jibni}, {diklo}, {stuzi}, {bartu}, {jbini})'
+    glosses:
+    - szomszédos
+  ja:
+    place structure: x1 は x2 に、 x3 （並列特性）・ x4 （並列方向）で隣接する／隣り合う；  x1 は x2 の隣
+    notes:
+    - ・大意： 隣接 ・読み方： ルァムジ  ・関連語： {zvati}, {cpana}, {jibni}, {diklo}, {stuzi}, {bartu},
+      {jbini}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1临近x2（或在x2旁边，紧靠着x2)，以性质/序列x3，方向为x4
+    notes:
+    - 也指：接触的，临近，紧靠，查看{zvati},{cpana},{jibni},{diklo},{stuzi},{bartu}
+    glosses:
+    - 临近
+    - 紧靠

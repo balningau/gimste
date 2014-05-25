@@ -1,5 +1,78 @@
-Word: bidju
-Rafsi: ''
-Definition: x1 is a bead/pebble [shape/form] of material x2.
-Notes: See also {bolci}, {canre}, {lakse}, {dirgo}.
-Examples: None
+word: bidju
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bead/pebble [shape/form] of material x2.
+    notes:
+    - See also {bolci}, {canre}, {lakse}, {dirgo}.
+    glosses:
+    - bead
+  de:
+    place structure: x1 ist eine (Glas-/Holz-/usw)perle/ein Kügelchen [Form] aus Material
+      x2 (z.B. Glasperle = blaci bidju)
+    notes:
+    - No notes.
+    glosses:
+    - Perle
+  es:
+    place structure: x1 es un abalorio/canica/bolita (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - abalorio
+  ru:
+    place structure: x1 — бусина/бисер (форма) из материала x2
+    notes:
+    - '{bolci} (шар), {canre} (песок), {lakse} (воск), {dirgo} (капля)'
+    glosses:
+    - x1=бусина
+    - x2=материал бусины
+  en-simple:
+    place structure: x1 is a bead or pebble made of x2
+    notes:
+    - No notes.
+    glosses:
+    - a bead
+    - x2=a material of a bead
+  eo:
+    place structure: x1 estas bido/globeto [formo] el materialo x2
+    notes:
+    - Vidu ankaŭ {bolci}, {canre}, {lakse}, {dirgo}.
+    glosses:
+    - bido
+  hu:
+    place structure: x1 egy szemcse/kavics/morzsa x2 anyagból
+    notes:
+    - '(Lásd még: {bolci}, {canre}, {lakse}, {dirgo})'
+    glosses:
+    - szemcse
+  ja:
+    place structure: x1 は x2 （素材）の数珠／ビーズ
+    notes:
+    - ・大意： 数珠 ・読み方： ビヂュ ・語呂合わせ： ＜美度十分＞, ビーズ,  bead, ju(珠)  ・関連語： {bolci}, {canre},
+      {lakse}, {dirgo}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en perle/liten kule [form] av materiale x2
+    notes:
+    - Se også {bolci}, {canre}, {lakse}, {dirgo}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett korn/pärla/droppe (form) av material x2.
+    notes:
+    - Se även {bolci}, canre, lakse, dirgo.
+    glosses:
+    - pärla (liten kula med hål genom mitten)
+    - x1=korn (form)
+    - x2=kornmaterial
+  zh:
+    place structure: x1是珠子/卵石/卵球状的物体，由材料x2构成
+    notes:
+    - 参见 {bolci}, {canre}, {lakse}, {dirgo}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: kecti
-Rafsi: kec, ke'i
-Definition: x1 (person) pities/feels sorry for x2 (person) about x3 (abstraction).
-Notes: See also {cinmo}, {xendo}.
-Examples: None
+word: kecti
+rafsi:
+- kec
+- ke'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (person) pities/feels sorry for x2 (person) about x3 (abstraction).
+    notes:
+    - See also {cinmo}, {xendo}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Person) bemitleidet/hat Mitleid mit x2 (Person) wegen x3
+      (Abstraktion).
+    notes:
+    - Siehe auch {cinmo}, {xendo}.
+    glosses:
+    - Mitleid
+  es:
+    place structure: x1 compadece/siente pena/compasión por x2 por evento/propiedad
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - compadecer
+  ru:
+    place structure: x1 сочувствует/сострадает/жалеет/{соболезнует} x2 (лицу) по поводу
+      x3 (абстракция)
+    notes:
+    - '{cinmo} (эмоциональный), {xendo} (добрый)'
+    glosses:
+    - сочувствовать
+    - x1=сочувствующий
+    - x2=сострадаемый
+    - x3=повод для сострадания
+  en-simple:
+    place structure: x1 feels sorry for x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - something that feels sorry
+    - x2=something felt sorry for
+    - x3=something felt sorry about
+  eo:
+    place structure: x1 (homo) kompatas x2-on (homo) pri x3 (abstraktaĵo)
+    notes:
+    - Vidu ankaŭ {cinmo}, {xendo}.
+    glosses:
+    - kompati
+  hu:
+    place structure: x1 sajnálja x2-t / szánalmat érez x2 iránt, x3 miatt
+    notes:
+    - '(Lásd még: {cinmo}, {xendo})'
+    glosses:
+    - sajnál
+  ja:
+    place structure: x1 は x2 を x3 （事）について哀れむ／慈しむ／かわいそうだと思う；  x1 は慈悲的
+    notes:
+    - ・大意： 哀れむ ・読み方： ケシティ  ・語呂合わせ： 決してぃ哀れんではいませんよ。 ・関連語： {cinmo}, {xendo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1对x2感到同情/遗憾，关于x3（谓词子句）
+    notes:
+    - 参见 {cinmo}, {xendo}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,88 @@
-Word: burna
-Rafsi: ''
-Definition: x1 is embarrassed/disconcerted/flustered/ill-at-ease about/under conditions
-  x2 (abstraction).
-Notes: See also {cinmo}.
-Examples: None
+word: burna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is embarrassed/disconcerted/flustered/ill-at-ease about/under
+      conditions x2 (abstraction).
+    notes:
+    - See also {cinmo}.
+    glosses:
+    - embarrassed
+  de:
+    place structure: x1 ist verlegen/peinlich berührt/verwirrt/nervös/wird in Verlegenheit
+      gebracht unter Umständen x2 (Abstraktion); x2 ist x1 peinlich
+    notes:
+    - No notes.
+    glosses:
+    - peinlich
+  es:
+    place structure: x1 se siente incómodo/embarazado/desconcertado/turbado por x2
+      (evento)
+    notes:
+    - Ver también {kufra}.
+    glosses:
+    - incómodo
+  ru:
+    place structure: x1 смущен/сбит с толку/в замешательстве/в смятении/обескуражен/не
+      в своей тарелке в условиях x2 (абстракция); x1 (кому) не по себе от x2 (чего)
+    notes:
+    - '{cinmo} (эмоциональный)'
+    glosses:
+    - смущённый
+  en-simple:
+    place structure: x1 is embarrassed about x2
+    notes:
+    - No notes.
+    glosses:
+    - something embarrassed
+    - x2=a condition for embarrassment
+  eo:
+    place structure: x1 estas embarasita/agitita/ĝenata/malkomforta pri/sub kondiĉoj
+      x2 (abstraktaĵo)
+    notes:
+    - Vidu ankaŭ {cinmo}.
+    glosses:
+    - embarasita
+  hu:
+    place structure: x1 zavarban van/szégyenkezik/kellemetlenül érzi magát x2 miatt/körülmények
+      között
+    notes:
+    - '(Lásd még: {cinmo})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は x2 （状況）においてどぎまぎする／緊張する／落ち着かない／きまりの悪さを感じる／当惑する
+    notes:
+    - 「ckeji」と違い、恥ずかしさを含意しない。「xanka」と違い、未然／未知の事柄でなく現在知覚されている事柄にたいする心理的動揺を表す。 ・大意：
+      どぎまぎ ・読み方： ブルナ  ・語呂合わせ： 善人ぶるな, embarass, ・関連語： {cinmo}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er flau/utilpass/brydd/pinlig berørt over/under forhold x2
+      (abstraksjon)
+    notes:
+    - Se og {cinmo}, {xanka}, {cfipu}, {zungi}, {steba}, {fanza}, na {kufra}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är generad/ställd/förlägen/illa till mods över/under omständigheter
+      x2 (abstraktion).
+    notes:
+    - No notes.
+    glosses:
+    - besvärad (förlägen)
+    - förlägen
+    - illa till mods
+    - pinsam
+    - ställd (förlägen)
+    - x1=generad
+    - x2=genant
+  zh:
+    place structure: x1是尴尬的/不自在的/窘迫的，在环境x2下/关于x2（谓词子句）时
+    notes:
+    - 参见 {cinmo}.
+    glosses:
+    - No glosses.

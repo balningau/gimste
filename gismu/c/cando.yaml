@@ -1,6 +1,75 @@
-Word: cando
-Rafsi: cad
-Definition: x1 is idle/at rest/inactive.
-Notes: '“in motion”, not implying a change in location, is negation of this: {narcando}.
-  See also {surla}.'
-Examples: None
+word: cando
+rafsi:
+- cad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is idle/at rest/inactive.
+    notes:
+    - '“in motion”, not implying a change in location, is negation of this: {narcando}.
+      See also {surla}.'
+    glosses:
+    - idle
+  de:
+    place structure: x1 ruht/inaktiv/nicht in Bewegung.
+    notes:
+    - '»in Bewegung«, was nicht eine Änderung der Position im Raum impliziert, ist
+      die Negation davon: {narcando}. Siehe auch {surla}.'
+    glosses:
+    - gleichförmige Bewegung
+    - ruhen (physikalisch)
+  es:
+    place structure: x1 está quieto/inactivo/en reposo/inmóvil/ocioso
+    notes:
+    - Ver también {muvdu}.
+    glosses:
+    - quieto
+  ru:
+    place structure: x1 покоится/неактивен
+    notes:
+    - 'антоним: «в движении» (не подразумевает изменение местоположения) {surla} (отдыхать)'
+    glosses:
+    - покоиться
+    - x1=покоящийся
+  en-simple:
+    place structure: x1 is idle or at rest
+    notes:
+    - No notes.
+    glosses:
+    - something idle
+  eo:
+    place structure: x1 estas kvieta/senmova/neokupata/nefunkcianta/neaktiva/ripozanta
+    notes:
+    - Vidu ankaŭ {surla}.
+    glosses:
+    - kvieta
+  hu:
+    place structure: x1 tétlen/nyugalmi állapotban van/inaktív
+    notes:
+    - '(Lásd még: {surla})'
+    glosses:
+    - tétlen
+  ja:
+    place structure: x1 は無動作／怠惰／怠けている／アイドリング状態
+    notes:
+    - 悲観的な意味合とは限らない。「暇」も。 ・大意： 怠惰 ・読み方： シャンド  ・語呂合わせ： ＜シャンと動作＞, cian(閒), idle ・関連語：
+      {surla}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är i vila/overksam/inaktiv/stillastående.
+    notes:
+    - Motsatsen till att vara i rörelse.
+    glosses:
+    - inaktiv
+    - overksam
+    - stilla (stillastående)
+    - vila (i vila (stillastående))
+    - x1=stillastående
+  zh:
+    place structure: x1是闲置的/休息的
+    notes:
+    - 指动作；参见 {surla}.
+    glosses:
+    - No glosses.

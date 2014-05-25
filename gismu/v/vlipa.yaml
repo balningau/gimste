@@ -1,6 +1,77 @@
-Word: vlipa
-Rafsi: vli
-Definition: x1 has the power to bring about x2 under conditions x3; x1 is powerful
-  in aspect x2 under x3.
-Notes: Also potent, has control/mastery.  See also {tsali}, {jitro}, {ruble}.
-Examples: None
+word: vlipa
+rafsi:
+- vli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 has the power to bring about x2 under conditions x3; x1 is
+      powerful in aspect x2 under x3.
+    notes:
+    - Also potent, has control/mastery.  See also {tsali}, {jitro}, {ruble}.
+    glosses:
+    - powerful
+  de:
+    place structure: x1 hat die Macht, um x2 zu verursachen, unter Bedingungen x3;
+      x1 ist mächtig in Aspekt x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - mächtig
+  es:
+    place structure: x1 puede/tiene el poder/potencia/fuerza para hacer x2 (evento)
+      bajo condiciones x3
+    notes:
+    - Ver también {tsali},  {jitro}.
+    glosses:
+    - poder
+  fr:
+    place structure: x1 a le pouvoir de faire en sorte que x2 sous conditions x3;
+      x1 est puissant aspect x2 sous x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 имеет могущество/в силах осуществить x2 в условиях x3; x1
+      — могучий/могущественный/мощный в аспекте x2
+    notes:
+    - 'Также: сильнодействующий {tsali} (сильный), {jitro} (контролировать), {ruble}
+      (слабый)'
+    glosses:
+    - мощный
+  en-simple:
+    place structure: x1 has the power to bring about x2 (nu)
+    notes:
+    - No notes.
+    glosses:
+    - powerful
+    - x1=something with power
+    - x2=something brought about by power
+    - x3=a condition for having power
+  eo:
+    place structure: x1 havas potencon por kaŭzi x2-on sub kondiĉoj x3; x1 estas potenca
+      laŭ aspekto x2 sub x3
+    notes:
+    - 'Ankaŭ: havas regon.  Vidu ankaŭ {tsali}, {jitro}, {ruble}.'
+    glosses:
+    - potenca
+  hu:
+    place structure: x1-nak van hatalma/ereje/képessége x2 véghezvitelére/előidézésére
+      x3 körülmények között
+    notes:
+    - '(Lásd még: {tsali}, {jitro}, {ruble})'
+    glosses:
+    - hatalma van
+  ja:
+    place structure: x1 は x2 （事）を x3 （状態条件）のもとにもたらす力能を持つ；  x1 は x2 に関して有力／有能
+    notes:
+    - 物理的な力でなく人格や権威の力。 ・大意： 力能 ・読み方： ヴルィパ  ・関連語： {jitro} (制御), {tsali} (強い), {ruble}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1具有引发x2的力量，在条件x3下；x1是强大的，在x2方面，在条件x3下
+    notes:
+    - 也指：强有力的/控制/掌握；参见 {tsali}, {jitro}, {ruble}.
+    glosses:
+    - No glosses.

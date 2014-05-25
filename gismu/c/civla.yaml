@@ -1,6 +1,76 @@
-Word: civla
-Rafsi: civ
-Definition: x1 is a louse/flea [blood-sucking arthropod] of species/breed x2, parasitic
-  on x3.
-Notes: See also {cinki}, {jalra}.
-Examples: None
+word: civla
+rafsi:
+- civ
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a louse/flea [blood-sucking arthropod] of species/breed
+      x2, parasitic on x3.
+    notes:
+    - See also {cinki}, {jalra}.
+    glosses:
+    - louse
+  de:
+    place structure: x1 ist eine Laus/Milbe/ein Floh [blutsaugender Gliederfüßler]
+      von Art/Gattung x2, ein Parasit von x3
+    notes:
+    - No notes.
+    glosses:
+    - Laus
+  es:
+    place structure: x1 es una pulga/piojo de especie/raza x2 parásito de x3
+    notes:
+    - No notes.
+    glosses:
+    - pulga
+  ru:
+    place structure: x1 — вошь/блоха/клоп/клещ (кровососущее членистоногое) вида x2,
+      паразитирующее на x3
+    notes:
+    - '{cinki} (насекомое), {jalra} (таракан)'
+    glosses:
+    - вошь
+  en-simple:
+    place structure: x1 is a flea or louse of species x2 parasitic on x3
+    notes:
+    - No notes.
+    glosses:
+    - a flea
+    - x2=a species of flea
+    - x3=a flea's victim
+  eo:
+    place structure: x1 estas pediko/pulo [sangosuĉanta artropodo] de speco/raso x2,
+      parasita de x3
+    notes:
+    - Vidu ankaŭ {cinki}, {jalra}.
+    glosses:
+    - pediko
+  hu:
+    place structure: x1 egy tetű/bolha [vérszívó ízeltlábú] az x2 fajból/fajtából,
+      amely x3-n élősködik
+    notes:
+    - '(Lásd még: {cinki}, {jalra})'
+    glosses:
+    - tetű
+  ja:
+    place structure: x1 は x2 （種類）・ x3 （寄生対象）のシラミ亜目／ノミ目
+    notes:
+    - ・大意： 虱（しらみ） ・読み方： シヴルァ ・関連語： {cinki}, {jalra}, {parji}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en lus/loppa [blodsugande leddjur] av art/sort x2 som parasiterar
+      på x3.
+    notes:
+    - No notes.
+    glosses:
+    - loppa (insekt)
+    - x1=lus (insekt)
+    - x2=lössmittad (har löss e.dyl.)
+  zh:
+    place structure: x1是虱子/跳蚤，属于品种/种类x2，寄生于x3上
+    notes:
+    - 参见 {cinki}, {jalra}.
+    glosses:
+    - No glosses.

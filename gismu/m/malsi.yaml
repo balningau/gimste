@@ -1,8 +1,76 @@
-Word: malsi
-Rafsi: mas
-Definition: x1 is a temple/church/sanctuary/synagogue/shrine of religion x2 at location/serving
-  area x3.
-Notes: $x_2$ may be event of form (... worships/pays/respect to ...), hence (metaphorically
-  extending to) monument (= {mojmalsi}, {si'armalsi}).  See also {cevni}, {krici},
-  {lijda}, {ritli}.
-Examples: None
+word: malsi
+rafsi:
+- mas
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a temple/church/sanctuary/synagogue/shrine of religion
+      x2 at location/serving area x3.
+    notes:
+    - x2 may be event of form (... worships/pays/respect to ...), hence (metaphorically
+      extending to) monument (= {mojmalsi}, {si'armalsi}).  See also {cevni}, {krici},
+      {lijda}, {ritli}.
+    glosses:
+    - temple
+  de:
+    place structure: x1 ist ein Tempel/Heiligtum/Schrein/eine Kirche/Synagoge von
+      Religion x2 an Ort/Einzugsbereich x3
+    notes:
+    - No notes.
+    glosses:
+    - Tempel
+  es:
+    place structure: x1 es un templo/iglesia/santuario/sinagoga/mezquita/capilla de
+      religión x2 en localidad x3
+    notes:
+    - No notes.
+    glosses:
+    - templo
+  ru:
+    place structure: x1 — храм/церковь/синагога/мечеть/святилище/капище религии x2
+      в/обслуживающий x3 (место/область)
+    notes:
+    - 'x2 м.б. событием вида (y1 поклоняется/чтит y2), отсюда, как метафорическое
+      продолжение, монумент: {mojmalsi}, {si''armalsi} {cevni} (бог), {krici} (верить),
+      {lijda} (религия), {ritli} (ритуал)'
+    glosses:
+    - x1=храм
+  en-simple:
+    place structure: x1 is a church or temple of religion x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a church
+    - x2=a religion of a church
+    - x3=a location of a church
+  eo:
+    place structure: x1 estas templo/preĝejo/sanktejo/sinagogo/sanktujo de religio
+      x2 ĉe loko/servanta regiono x3
+    notes:
+    - x2 povas esti okazo de formo (... adoras/omaĝas ...), do (metafore etendiĝas
+      al) monumento (= {mojmalsi}, {si'armalsi}).  Vidu ankaŭ {cevni}, {krici}, {lijda},
+      {ritli}.
+    glosses:
+    - templo
+  hu:
+    place structure: x1 egy templom/szentély/kápolna/zsinagóga az x2 vallásból, x3
+      helyen
+    notes:
+    - '(Lásd még: {cevni}, {krici}, {lijda}, {ritli})'
+    glosses:
+    - templom
+  ja:
+    place structure: x1 は x2 （宗教体系）・ x3 （所）の寺／寺院／神社／教会／モスク／シナゴーグ
+    notes:
+    - 礼拝地全般。 x2 は事も可能。 ・大意： 寺 ・読み方： マルゥスィ  ・語呂合わせ： temple, si（寺） ・関連語： {cevni}, {krici},
+      {lijda}, {ritli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是寺庙/教堂/神殿/圣祠，属于宗教x2，位于地点x3
+    notes:
+    - x2可能指某些值得推崇/尊敬/崇拜的事件形式，因此x1可喻为：纪念碑= {mojmalsi}/{si'armalsi}；参见 {cevni}, {krici},
+      {lijda}, {ritli}.
+    glosses:
+    - No glosses.

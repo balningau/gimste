@@ -1,7 +1,97 @@
-Word: catlu
-Rafsi: cta
-Definition: x1 looks at/examines/views/inspects/regards/watches/gazes at x2.
-Notes: Also look through (= {grecta}, {ravycta}, {bacycta}); note that English "look"
-  often means a more generic "observe".  See also {jvinu}, {minra}, {simlu}, {viska},
-  {lanli}, {zgana}, {setca}, {viska}.
-Examples: None
+word: catlu
+rafsi:
+- cta
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 looks at/examines/views/inspects/regards/watches/gazes at
+      x2.
+    notes:
+    - Also look through (= {grecta}, {ravycta}, {bacycta}); note that English "look"
+      often means a more generic "observe".  See also {jvinu}, {minra}, {simlu}, {viska},
+      {lanli}, {zgana}, {setca}, {viska}.
+    glosses:
+    - look
+  de:
+    place structure: x1 betrachtet/sieht an/untersucht/besichtigt/prüft/beobachtet/überwacht/blickt
+      auf x2
+    notes:
+    - No notes.
+    glosses:
+    - betrachten
+  es:
+    place structure: x1 mira/examina/inspecciona/observa/vigila x2
+    notes:
+    - No notes.
+    glosses:
+    - mirar
+  fr:
+    place structure: x1 regarde / observe x2
+    notes:
+    - No notes.
+    glosses:
+    - observer
+    - regarder
+  ru:
+    place structure: x1 смотрит на/разглядывает/осматривает/глядит на x2
+    notes:
+    - 'Смотрит через/сквозь: {grecta}, {ravycta}, {bacycta} {jvinu} (вид [панорама]),
+      {minra} (отражать), {simlu} (казаться), {viska} (видеть), {lanli} (анализировать),
+      {zgana} (наблюдать), {setca} (вставлять), {viska} (видеть)'
+    glosses:
+    - глядеть
+    - x1=глядящий
+    - x2=разглядываемый
+  en-simple:
+    place structure: x1 looks at x2
+    notes:
+    - No notes.
+    glosses:
+    - something looking
+    - x2=something looked at
+  eo:
+    place structure: x1 rigardas/ekzamenas/inspektas x2-on
+    notes:
+    - 'Ankaŭ: trarigardi (= {grecta}, {ravycta}, {bacycta}).  Vidu ankaŭ {jvinu},
+      {minra}, {simlu}, {viska}, {lanli}, {zgana}, {setca}, {viska}.'
+    glosses:
+    - rigardi
+  hu:
+    place structure: x1 megnézi/megvizsgálja x2-t
+    notes:
+    - '(Lásd még: {jvinu}, {minra}, {simlu}, {viska}, {lanli}, {zgana}, {setca}, {viska})'
+    glosses:
+    - megnéz
+  ja:
+    place structure: x1 は x2 を見る／見つめる／見入る
+    notes:
+    - 「見極める」も。 ・大意： 見る ・読み方： シャトルゥ  ・語呂合わせ： ＜シャトーをルック＞, look ・関連語： {jvinu}, {minra},
+      {simlu}, {viska}, {lanli}, {zgana}, {setca}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 ser/tittar på/undersöker/synar/inspekterar/iakttager/betraktar/skådar/blickar
+      över x2.
+    notes:
+    - No notes.
+    glosses:
+    - betrakta (med syn)
+    - blicka
+    - iaktta (med syn)
+    - inspektera (med syn)
+    - se på
+    - skåda
+    - syna (undersöka med syn)
+    - titta på
+    - undersöka (med syn)
+    - x1=betraktare
+    - x2=betraktad
+  zh:
+    place structure: x1 瞧/看/审视/盯/瞅/注视 x2.
+    notes:
+    - No notes.
+    glosses:
+    - 盯
+    - 看
+    - 瞧

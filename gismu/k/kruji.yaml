@@ -1,7 +1,69 @@
-Word: kruji
-Rafsi: ruj
-Definition: x1 is made of/contains/is a quantity of cream/emulsion/puree [consistency]
-  of composition x2.
-Notes: '[$x_2$: composition including $x_2$, which need not be complete specification]];
-  See also {ladru}, {matne}.'
-Examples: None
+word: kruji
+rafsi:
+- ruj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of cream/emulsion/puree
+      [consistency] of composition x2.
+    notes:
+    - '[x2: composition including x2, which need not be complete specification]];
+      See also {ladru}, {matne}.'
+    glosses:
+    - cream
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Creme/Püree/einer Emulsion
+      [Festigkeit] mit Zusammensetzung x2
+    notes:
+    - No notes.
+    glosses:
+    - Creme
+  es:
+    place structure: x1 es una cantidad de crema/emulsión/pasta/puré de composición
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - crema
+  ru:
+    place structure: x1 — крем/эмульсия/пюре (консистенция) состава x2
+    notes:
+    - 'x2: содержит x2, не обязательно полное описание состава {ladru} (молоко), {matne}
+      (масло [съедобное]), {pesxu} (паста)'
+    glosses:
+    - x1=крем
+  en-simple:
+    place structure: x1 is a quantity of cream of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of cream
+    - x2=a composition of cream
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el kremo/emulsio/pureo [denseco]
+      de konsisto x2
+    notes:
+    - '(x2: konsisto inkluzivanta x2-on, kiu ne nepre estas kompleta specifado));
+      Vidu ankaŭ {ladru}, {matne}.'
+    glosses:
+    - kremo
+  hu:
+    place structure: x1 bizonyos mennyiségű krém/emulzió/püré (-t tartalmaz/-ból készült)
+      x2 összetétellel
+    notes:
+    - '(Lásd még: {ladru}, {matne})'
+    glosses:
+    - krém
+  ja:
+    place structure: x1 は x2 （成分）のクリーム／乳濁液（エマルション）／プーリ
+    notes:
+    - 「アイスクリーム」や「栄養クリーム」なども。 ・大意： クリーム ・読み方： クルジ  ・関連語： {ladru}, {matne}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是乳液/乳状物，由成分x2构成
+    notes:
+    - 物质构成中需包含x2，但x2位不需要指明全部构成；参见 {ladru}, {matne}.
+    glosses:
+    - No glosses.

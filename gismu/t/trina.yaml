@@ -1,7 +1,70 @@
-Word: trina
-Rafsi: tri
-Definition: x1 attracts/appeals to/lures x2 (person/event) with property/quality x3
-  (ka).
-Notes: 'Also: $x_1$ is alluring to $x_2$.  See also {djica}, {nelci}, {rigni}, {xlura},
-  {maksi}.'
-Examples: None
+word: trina
+rafsi:
+- tri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 attracts/appeals to/lures x2 (person/event) with property/quality
+      x3 (ka).
+    notes:
+    - 'Also: x1 is alluring to x2.  See also {djica}, {nelci}, {rigni}, {xlura}, {maksi}.'
+    glosses:
+    - attract
+  de:
+    place structure: x1 lockt/zieht an/findet Anklang bei/ködert x2 (Person/Ereignis)
+      mit Eigenschaft/Qualität x3 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - anziehen
+  es:
+    place structure: x1 atrae a x2 por propiedad/aspecto x3
+    notes:
+    - No notes.
+    glosses:
+    - atraer
+  ru:
+    place structure: x1 привлекателен/соблазнителен для x2 (лицо/событие) свойством/качеством
+      x3 ({ka})
+    notes:
+    - 'Также: влечет/манит/прельщает {djica} (хотеть), {nelci} (любить [предпочитать]),
+      {rigni} (отвратительный), {xlura} (влиять), {maksi} (магнит)'
+    glosses:
+    - привлекать
+    - x1=привлекающий
+  en-simple:
+    place structure: x1 appeals to x2 with property x3
+    notes:
+    - No notes.
+    glosses:
+    - something attractive
+    - x2=something attracted
+    - x3=a property of attractiveness
+  eo:
+    place structure: x1 altiras/allogas x2-on (homo/okazo) per eco/kvalito x3 (ka)
+    notes:
+    - 'Ankaŭ: x1 estas alloga por x2.  Vidu ankaŭ {djica}, {nelci}, {rigni}, {xlura},
+      {maksi}.'
+    glosses:
+    - altiri
+  hu:
+    place structure: x1 vonzza/csalogatja/valószínűbbé teszi x2 személyt/eseményt
+      x3 tulajdonsággal
+    notes:
+    - '(Lásd még: {djica}, {nelci}, {rigni}, {xlura}, {maksi})'
+    glosses:
+    - vonz
+  ja:
+    place structure: x1 は x2 を x3 （性質）で誘惑する；  x1 は x2 にとって魅力的
+    notes:
+    - 「lo'e te melbi cu trina lo prenu／美というものには人を魅了する力がある」 ・大意： 誘惑 ・読み方： トリナ  ・語呂合わせ：
+      toriko とりこ ・関連語： {djica}, {nelci}, {rigni}, {xlura}, {maksi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1吸引/诱惑x2（人/事），通过性质x3（ka）
+    notes:
+    - 也指：x1是诱人的，对x2来说；参见 {djica}, {nelci}, {rigni}, {xlura}, {maksi}.
+    glosses:
+    - No glosses.

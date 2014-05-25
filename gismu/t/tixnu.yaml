@@ -1,5 +1,78 @@
-Word: tixnu
-Rafsi: tix, ti'u
-Definition: x1 is a daughter of mother/father/parents x2; [not necessarily biological].
-Notes: See also {bersa}, {panzi}.
-Examples: None
+word: tixnu
+rafsi:
+- tix
+- ti'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a daughter of mother/father/parents x2; [not necessarily
+      biological].
+    notes:
+    - See also {bersa}, {panzi}.
+    glosses:
+    - daughter
+  jbo:
+    place structure: x1 fetsi gi'e se rirni x2
+    notes:
+    - No notes.
+    glosses:
+    - tixnu
+  de:
+    place structure: x1 ist eine Tochter von Mutter/Vater/Eltern x2; [nicht zwingend
+      biologisch]
+    notes:
+    - No notes.
+    glosses:
+    - Tochter
+  es:
+    place structure: x1 es hija de madre/padre x2 (no necesariamente biológica)
+    notes:
+    - Ver también {bersa},  {panzi}.
+    glosses:
+    - hija
+  ru:
+    place structure: x1 — дочь матери/отца/родителей x2 (не обязательно биологическая)
+    notes:
+    - '{bersa} (сын), {panzi} (потомок)'
+    glosses:
+    - x1=дочь
+    - x2=родитель дочери
+  en-simple:
+    place structure: x1 is a daughter of x2
+    notes:
+    - No notes.
+    glosses:
+    - a daughter
+    - x2=a parent of a daughter
+  eo:
+    place structure: x1 estas filino de patro/patrino/gepatroj x2; [ne nepre biologiaj]
+    notes:
+    - Vidu ankaŭ {bersa}, {panzi}.
+    glosses:
+    - filino
+  hu:
+    place structure: x1 egy/a lánya x2 szülő(k)nek
+    notes:
+    - 'Nem feltétlenül utal biológiai rokonságra (Lásd még: {bersa}, {panzi})'
+    glosses:
+    - lány (nőnemű leszármazott)
+  ja:
+    place structure: x1 は x2 （親）の娘
+    notes:
+    - 実の娘に限らない。 ・大意： 娘 ・読み方： ティクゥヌ ・関連語： {bersa}, {panzi}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to córka matki/ojca/rodziców x2 [nie koniecznie biologicznych].
+    notes:
+    - Cf. {verba}, {bersa}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna},
+      {rirni}, {rorci}, {panzi}.
+    glosses:
+    - córka
+  zh:
+    place structure: x1是x2的女儿（不必要一定是生物学上的女儿）
+    notes:
+    - 参见 {bersa}, {panzi}.
+    glosses:
+    - No glosses.

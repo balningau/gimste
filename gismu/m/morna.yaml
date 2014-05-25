@@ -1,10 +1,88 @@
-Word: morna
-Rafsi: mon, mo'a
-Definition: x1 is/reflects/represents a pattern of forms/events x2 arranged according
-  to structure x3.
-Notes: '[$x_3$ is a model for $x_1$ (= {termontai}, or the more abstract = {termonsi''o});
-  image (= {gusmo''a}, {nenmo''a}, {dairmo''a}, {selylenmo''a}, {selmirmo''a}, {velmirmo''a},
-  but also all of these -tai instead of -mo''a for the ideal)]; See also {ciste},
-  {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe},
-  {rilti}.'
-Examples: None
+word: morna
+rafsi:
+- mon
+- mo'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is/reflects/represents a pattern of forms/events x2 arranged
+      according to structure x3.
+    notes:
+    - '[x3 is a model for x1 (= {termontai}, or the more abstract = {termonsi''o});
+      image (= {gusmo''a}, {nenmo''a}, {dairmo''a}, {selylenmo''a}, {selmirmo''a},
+      {velmirmo''a}, but also all of these -tai instead of -mo''a for the ideal)];
+      See also {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde},
+      {gidva}, {jimpe}, {rilti}.'
+    glosses:
+    - pattern
+  de:
+    place structure: x1 ist/repräsentiert/spiegelt ein Muster von Formen/Ereignissen
+      x2 (wieder), die angeordnet nach Struktur x3 sind
+    notes:
+    - No notes.
+    glosses:
+    - Muster
+  es:
+    place structure: x1 es un modelo/patrón/motivo de formas/eventos x2 arreglados/ubicados
+      según estructura x3
+    notes:
+    - Ver también {tarmi}.
+    glosses:
+    - modelo
+  ru:
+    place structure: x1 отражает/представляет регулярность/закономерность/упорядоченность/мотив/узор
+      форм/событий x2, упорядоченных согласно структуре/модели x3
+    notes:
+    - 'x3 — модель/образец для x1: {termontai}, или, более абстрактно, {termonsi''o};
+      образ, изображение: {gusmo''a}, {nenmo''a}, {dairmo''a}, {selylenmo''a}, {selmirmo''a},
+      {velmirmo''a}, а также аналогичные lujvo с компонентом {tai} вместо {mo''a},
+      если речь идет об идеальной, а не физической модели (принцип/идея)) {ciste}
+      (система), {ganzu} (организовывать [упорядочивать]), {marji} (материя [вещество]),
+      {slilu} (колебаться), {stura} (структура [чего-либо]), {tarmi} (идея [концептуальная
+      форма]), {boxna} (волна), {cimde} (измерение [пространственное]), {gidva} (вести
+      [направлять/быть лидером]), {jimpe} (понимать), {rilti} (ритм)'
+    glosses:
+    - x1=модель (шаблон)
+    - x1=модель (шаблон)
+  en-simple:
+    place structure: x1 is a pattern of x2 arranged according to x3
+    notes:
+    - No notes.
+    glosses:
+    - a pattern
+    - x2=something with a pattern
+    - x3=a pattern structure
+  eo:
+    place structure: x1 estas/elmontras/reprezentas modelon/desegnon de formoj/okazoj
+      x2 aranĝitaj laŭ strukturo x3
+    notes:
+    - (x3 estas Modelo. por x1 (= termontai, aŭ la pli abstrakta = termonsi'o); bildo
+      (= gusmo'a, nenmo'a, dairmo'a, selylenmo'a, selmirmo'a, velmirmo'a, sed ankaŭ
+      ĉiuj tiuj kun -tai anstataŭ -mo'a por la idealo)); Vidu ankaŭ {ciste}, {ganzu},
+      {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}.
+    glosses:
+    - modelo
+  hu:
+    place structure: x1 egy minta/mintát alkot x2 formákból/eseményekből x3 elrendezésben/rendszerben
+    notes:
+    - '(Lásd még: {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde},
+      {gidva}, {jimpe}, {rilti})'
+    glosses:
+    - minta
+  ja:
+    place structure: x1 は x2 （様式／事）が x3 （構造）で表れているパターン／型
+    notes:
+    - ・大意： 型 ・読み方： モルナ  ・語呂合わせ： 型に漏るるな ・関連語： {ciste}, {ganzu}, {marji}, {slilu}, {stura},
+      {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是行为/事件x2的反应/表现，按照计划结构x3
+    notes:
+    - x3是x1的模范/模型/模式= {termontai}/{termonsi'o}； 图像= {gusmo'a}, {nenmo'a}, {dairmo'a},
+      {selylenmo'a}, {selmirmo'a}, {velmirmo'a}；这里将-mo'a改为-tai时，是表示概念上的；参见 {ciste},
+      {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe},
+      {rilti}.
+    glosses:
+    - No glosses.

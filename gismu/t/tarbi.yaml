@@ -1,6 +1,70 @@
-Word: tarbi
-Rafsi: ''
-Definition: x1 is an embryo/zygote/fetus/fertilized egg with mother x2, and father
-  x3.
-Notes: See also {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute}.
-Examples: None
+word: tarbi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an embryo/zygote/fetus/fertilized egg with mother x2, and
+      father x3.
+    notes:
+    - See also {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute}.
+    glosses:
+    - embryo
+  de:
+    place structure: x1 ist ein Embryo/Fötus/befruchtetes Ei/eine Zygote von Mutter
+      x2 und Vater x3
+    notes:
+    - No notes.
+    glosses:
+    - Embryo
+  es:
+    place structure: x1 es un embrión/feto/huevo fertilizado con madre x2 y padre
+      x3
+    notes:
+    - Ver también {sovda},  {rorci}.
+    glosses:
+    - embrión
+  ru:
+    place structure: x1 — эмбрион/зародыш/зигота/оплодотворенное яйцо от матери x2
+      и отца x3
+    notes:
+    - '{gutra} (матка [анатомия]), {mamta} (мать), {patfu} (отец), {sovda} (яйцо),
+      {rorci} (порождать), {tsiju} (семя [зерно]), {grute} (плод [фрукт])'
+    glosses:
+    - x1=эмбрион
+  en-simple:
+    place structure: x1 is an embryo with mother x2 and father x3
+    notes:
+    - No notes.
+    glosses:
+    - an embryo
+    - x2=a mother of an embryo
+    - x3=a father of an embryo
+  eo:
+    place structure: x1 estas embrio/zigoto/feto/fekundigita ovo kun patrino x2, kaj
+      patro x3
+    notes:
+    - Vidu ankaŭ {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute}.
+    glosses:
+    - embrio
+  hu:
+    place structure: x1 egy magzat/embrió/zigóta/megtermékenyített petesejt x2 anyától,
+      x3 apától
+    notes:
+    - '(Lásd még: {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute})'
+    glosses:
+    - embrió
+  ja:
+    place structure: x1 は x2 （母）・ x3 （父）による胎芽／胎児／胚芽／接合体
+    notes:
+    - ヒトの場合、受精後８週未満の生体。 ・大意： 胎芽 ・読み方： タルビ  ・関連語： {gutra}, {mamta}, {patfu}, {sovda},
+      {rorci}, {tsiju}, {grute}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是胚胎/胚芽/受精卵/结合子，来自母本x2，父本x3
+    notes:
+    - 参见 {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute}.
+    glosses:
+    - No glosses.

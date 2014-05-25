@@ -1,6 +1,74 @@
-Word: jendu
-Rafsi: jed
-Definition: x1 is an axle/spindle [tool] on which x2 rotates, of material/properties
-  x3.
-Notes: See also se {carna}, {gunro}, {tutci}.
-Examples: None
+word: jendu
+rafsi:
+- jed
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an axle/spindle [tool] on which x2 rotates, of material/properties
+      x3.
+    notes:
+    - See also se {carna}, {gunro}, {tutci}.
+    glosses:
+    - axle
+  de:
+    place structure: x1 ist eine Achse/Spindel auf der sich x2 dreht, aus Material/mit
+      Eigenschaft x3
+    notes:
+    - No notes.
+    glosses:
+    - Achse
+  es:
+    place structure: x1 es un eje alrededor del cual gira/rota/da vueltas x2, de material
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - eje
+  ru:
+    place structure: x1 — ось/вал/шпиндель, на которой вращается x2, из материала/со
+      свойствами x3
+    notes:
+    - '{se} {carna} (вращаться), {gunro} (катиться), {tutci} (инструмент)'
+    glosses:
+    - x1=ось
+  en-simple:
+    place structure: x1 is an axle on which x2 rotates, of material x3
+    notes:
+    - No notes.
+    glosses:
+    - an axle
+    - x2=something rotating on an axle
+    - x3=a material of an axle
+  eo:
+    place structure: x1 estas akso/spindelo [ilo] ĉirkaŭ kiu turniĝas x2, el materialo/ecoj
+      x3
+    notes:
+    - Vidu ankaŭ se {carna}, {gunro}, {tutci}.
+    glosses:
+    - akso
+  hu:
+    place structure: x1 egy tengely/orsó, amin x2 elforoghat, x3 anyagból/tulajdonságokkal
+    notes:
+    - '(Lásd még: {carna}, {gunro}, {tutci})'
+    glosses:
+    - tengely
+  ja:
+    place structure: x1 は x2 （回転物）・ x3 （素材）の軸／車軸／心棒／つむ／スピンドル／シャフト
+    notes:
+    - ・大意： 軸 ・読み方： ジェンドゥ  ・関連語： {se} {carna}, {gunro}, {tutci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en axel/spole/slända/spindel [verktyg] på vilken x2 roterar,
+      av material/egenskaper x3.
+    notes:
+    - No notes.
+    glosses:
+    - axel (rotationsaxel)
+  zh:
+    place structure: x1是轴/锭子，x2绕其上旋转，由材料x3构成/具有品质x3
+    notes:
+    - 参见 se {carna}, {gunro}, {tutci}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,68 @@
-Word: purdi
-Rafsi: pud
-Definition: x1 is a garden/tended/cultivated field of family/community/farmer x2 growing
-  plants/crop x3.
-Notes: Orchard (= {ricpurdi}).  See also {foldi}, {cange}, {panka}.
-Examples: None
+word: purdi
+rafsi:
+- pud
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a garden/tended/cultivated field of family/community/farmer
+      x2 growing plants/crop x3.
+    notes:
+    - Orchard (= {ricpurdi}).  See also {foldi}, {cange}, {panka}.
+    glosses:
+    - garden
+  de:
+    place structure: x1 ist ein Garten/ein gepflegtes/kultiviertes Feld von Familie/Gemeinschaft/Bauer
+      x2 und enthält Pflanzen/Ernte x3
+    notes:
+    - No notes.
+    glosses:
+    - Garten
+  es:
+    place structure: x1 es un jardín de familia/comunidad x2 con plantas/cultivo x3
+    notes:
+    - Ver también {cange},  {panka}.
+    glosses:
+    - jardin
+  ru:
+    place structure: x1 — сад/огород/плантация/возделываемое поле, принадлежащее семье/общине/фермеру
+      x2, выращивающему растения x3
+    notes:
+    - 'Фруктовый сад: {ricpurdi} {foldi} (поле [луг/лес]), {cange} (ферма), {panka}
+      (парк)'
+    glosses:
+    - сад
+  en-simple:
+    place structure: x1 is a garden or field tended by x2 growing x3
+    notes:
+    - No notes.
+    glosses:
+    - a garden
+    - x2=a gardener
+    - x3=something growing in a garden
+  eo:
+    place structure: x1 estas ĝardeno/prizorgita/kultivita kampo de familio/komunumo
+      x2 kun plantojn/kultivon x3
+    notes:
+    - Fruktarbejo (= {ricpurdi}).  Vidu ankaŭ {foldi}, {cange}, {panka}.
+    glosses:
+    - ĝardeno
+  hu:
+    place structure: x1 egy kert / gondozott/megművelt föld x2 család/közösség/gazda
+      tulajdonában, x3 növények termesztésére
+    notes:
+    - '(Lásd még: {foldi}, {cange}, {panka})'
+    glosses:
+    - kert
+  ja:
+    place structure: x1 は x2 （家族／共同体／農耕者）・ x3 （繁殖物／作物）の庭
+    notes:
+    - ・大意： 庭 ・読み方： プルディ  ・関連語： {foldi}, {cange}, {panka}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是农田/耕地，属于家庭/团体/农民x2，种植有作物x3
+    notes:
+    - 树园/果树园= {ricpurdi}；参见 {foldi}, {cange}, {panka}.
+    glosses:
+    - No glosses.

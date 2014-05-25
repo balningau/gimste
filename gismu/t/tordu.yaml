@@ -1,6 +1,75 @@
-Word: tordu
-Rafsi: tor, to'u
-Definition: x1 is short in dimension/direction x2 (default longest dimension) by measurement
-  standard x3.
-Notes: See also {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
-Examples: None
+word: tordu
+rafsi:
+- tor
+- to'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is short in dimension/direction x2 (default longest dimension)
+      by measurement standard x3.
+    notes:
+    - See also {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
+    glosses:
+    - short
+  jbo:
+    place structure: x1 cmalu x2 noi brarai cimde x1 ku'o x3
+    notes:
+    - No notes.
+    glosses:
+    - tordu
+  de:
+    place structure: x1 ist kurz in Dimension/Richtung x3 (gewöhnlich längste Ausbreitung)
+      nach Mess-Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - kurz
+  es:
+    place structure: x1 es corto en dimensión/dirección x2 (la más larga) según estándar
+      x3
+    notes:
+    - Ver también {clani},  {jarki},  {cinla},  {caxno}.
+    glosses:
+    - corto
+  ru:
+    place structure: x1 — короткий в направлении/измерении x2 (по умолчанию наибольшее
+      измерение) относительно стандарта x3
+    notes:
+    - '{cmalu} (маленький), {jarki} (узкий), {caxno} (мелкий [неглубокий]), {cinla}
+      (тонкий), {clani} (длинный)'
+    glosses:
+    - x1=короткий
+  en-simple:
+    place structure: x1 is short in dimension x2 by measurement standard x3
+    notes:
+    - No notes.
+    glosses:
+    - something short
+    - x2=a dimension of shortness
+    - x3=a standard of shortness
+  eo:
+    place structure: x1 estas mallonga laŭ dimensio/direkto x2 (defaŭlte plej longa
+      dimensio) laŭ mezurnormo x3
+    notes:
+    - Vidu ankaŭ {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
+    glosses:
+    - mallonga
+  hu:
+    place structure: x1 rövid x2 méretében/irányban x3 mérce szerint
+    notes:
+    - '(Lásd még: {cmalu}, {jarki}, {caxno}, {cinla}, {clani})'
+    glosses:
+    - rövid
+  ja:
+    place structure: x1 は x2 （方向）・ x3 （尺度）に関して短い
+    notes:
+    - ・大意： 短い ・読み方： トルドゥ  ・関連語： {cmalu}, {jarki}, {caxno}, {cinla}, {clani}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是短的，在尺寸/规格/方向x2上，基于测量标准x3
+    notes:
+    - 参见 {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
+    glosses:
+    - No glosses.

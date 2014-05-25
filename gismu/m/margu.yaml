@@ -1,6 +1,63 @@
-Word: margu
-Rafsi: mag
-Definition: 'x1 is a quantity of/contains/made of mercury/quicksilver; [metaphor:
-  fluid metal; temperature].'
-Notes: See also {jinme}.
-Examples: None
+word: margu
+rafsi:
+- mag
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/made of mercury/quicksilver; [metaphor:
+      fluid metal; temperature].'
+    notes:
+    - See also {jinme}.
+    glosses:
+    - mercury
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Quecksilber; [Im übertragenen
+      Sinn: flüssiges Metall; Temperatur]'
+    notes:
+    - No notes.
+    glosses:
+    - Quecksilber
+  es:
+    place structure: x1 es una cantidad de mercurio (Hg)
+    notes:
+    - No notes.
+    glosses:
+    - mercurio
+  ru:
+    place structure: x1 — ртуть (Hg); x1 содержит ртуть
+    notes:
+    - 'Метафора: жидкий металл, градусник {jinme} (металл)'
+    glosses:
+    - x1=ртуть
+  en-simple:
+    place structure: x1 is a quantity of mercury
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of mercury
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el hidrargo/merkuro (Hg);
+      [metafore: fluida metalo]'
+    notes:
+    - Vidu ankaŭ {jinme}.
+    glosses:
+    - hidrargo
+  hu:
+    place structure: x1 bizonyos mennyiségű higany (-t tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {jinme})'
+    glosses:
+    - higany
+  ja:
+    place structure: x1 は水銀／Hg
+    notes:
+    - ・大意： 水銀 ・読み方： マルグ  ・関連語： {jinme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是汞/水银 （可比喻：一定温度下的液态金属）
+    notes:
+    - 参见 {jinme}.
+    glosses:
+    - No glosses.

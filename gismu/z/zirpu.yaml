@@ -1,5 +1,63 @@
-Word: zirpu
-Rafsi: zir, zi'u
-Definition: x1 is purple/violet [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
-Examples: None
+word: zirpu
+rafsi:
+- zir
+- zi'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is purple/violet [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
+    glosses:
+    - purple
+  de:
+    place structure: x1 ist lila/violett [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
+    glosses:
+    - lila
+  es:
+    place structure: x1 es violeta/púrpura (color)
+    notes:
+    - No notes.
+    glosses:
+    - violeta
+  ru:
+    place structure: x1 — сиреневый/фиолетовый (о цвете)
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {nukni} (пурпурный), {blanu} (синий), {xunre} (красный)'
+    glosses:
+    - сиреневый
+  en-simple:
+    place structure: x1 is purple
+    notes:
+    - No notes.
+    glosses:
+    - something purple
+  eo:
+    place structure: x1 estas purpura/violkolora [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
+    glosses:
+    - purpura
+  hu:
+    place structure: x1 lila/ibolya színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre})'
+    glosses:
+    - lila
+  ja:
+    place structure: x1 は紫色／パープル
+    notes:
+    - ・大意： 紫色 ・読み方： ズィルプ  ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni},
+      {blanu}, {xunre}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是紫色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
+    glosses:
+    - No glosses.

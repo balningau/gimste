@@ -1,6 +1,73 @@
-Word: pilji
-Rafsi: pi'i
-Definition: x1 is the product/total/result of factors/multiplicands (x2 and x3) x2
-  multiplied by x3.
-Notes: See also {mekso}, {sumji}, {rapli}, {jalge}.
-Examples: None
+word: pilji
+rafsi:
+- pi'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the product/total/result of factors/multiplicands (x2 and
+      x3) x2 multiplied by x3.
+    notes:
+    - See also {mekso}, {sumji}, {rapli}, {jalge}.
+    glosses:
+    - multiply (mathematical)
+  jbo:
+    place structure: x1 jalge le nu le nu jmina x2 cu rapli x3 .i x1 nu'a pi'i x2
+      boi x3
+    notes:
+    - '{jmina} {rapli}; {pi''i}'
+    glosses:
+    - pilji
+  de:
+    place structure: x1 ist das Produkt/Ergebnis von Faktoren x2 und x3/von x2 multipliziert
+      mit x3
+    notes:
+    - No notes.
+    glosses:
+    - multiplizieren
+  es:
+    place structure: x1 es el producto/resultado de multiplicar x2 por x3
+    notes:
+    - Ver también {dilcu}.
+    glosses:
+    - producto
+  ru:
+    place structure: x1 — произведение множителей x2 и x3; x1 — результат умножения
+      x2 на x3
+    notes:
+    - '{mekso} (формула), {sumji} (сумма [результат сложения]), {rapli} (повторяться),
+      {jalge} (результат)'
+    glosses:
+    - x1=произведение (множителей)
+  en-simple:
+    place structure: x1 is the product of x2 multiplied by x3
+    notes:
+    - No notes.
+    glosses:
+    - x2=something multiplied
+    - x3=something multiplied by
+  eo:
+    place structure: x1 estas la produto/rezulto de la multipliko de x2 per x3
+    notes:
+    - Vidu ankaŭ {mekso}, {sumji}, {rapli}, {jalge}.
+    glosses:
+    - multipliko
+  hu:
+    place structure: x1 a szorzata x2 és x3 mennyiségeknek
+    notes:
+    - '(Lásd még: {mekso}, {sumji}, {rapli}, {jalge})'
+    glosses:
+    - szorzat
+  ja:
+    place structure: 'x1 は x2 ・ x3 を乗算したもの；  x2 かける x3 は x1 '
+    notes:
+    - ・大意： 乗算 ・読み方： ピルゥジ ・語呂合わせ： multiply, ji（積） ・関連語： {mekso}, {sumji}, {rapli},
+      {jalge}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2乘x3的乘积（x2是被乘数，x3是乘数）
+    notes:
+    - 参见 {mekso}, {sumji}, {rapli}, {jalge}.
+    glosses:
+    - No glosses.

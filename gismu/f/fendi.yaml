@@ -1,6 +1,90 @@
-Word: fendi
-Rafsi: fed
-Definition: x1 (agent) divides/partitions/separates x2 into sections/parts/ind. x3
-  by method/partition x4.
-Notes: Also segments.  See also {sepli}, {bitmu}, {fatri}, {dilcu}, {katna}, {frinu}.
-Examples: None
+word: fendi
+rafsi:
+- fed
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) divides/partitions/separates x2 into sections/parts/ind.
+      x3 by method/partition x4.
+    notes:
+    - Also segments.  See also {sepli}, {bitmu}, {fatri}, {dilcu}, {katna}, {frinu}.
+    glosses:
+    - divide
+  de:
+    place structure: x1 (Handelnder) teilt x2 in Teile/Abschnitte x3 mit Methode/Aufteilung
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - teilen
+  es:
+    place structure: x1 divide/parte/particiona/separa x2 en secciones/partes x3 por
+      método/partición x4
+    notes:
+    - Ver también {sepli},  {bitmu},  {fatri}.
+    glosses:
+    - dividir
+  ru:
+    place structure: x1 делит/разбивает/разделяет x2 на части/доли/разделы/сегменты
+      x3 методом/разбиением x4
+    notes:
+    - Деление в математике — {dilcu} {sepli} (отделенный), {bitmu} (стена), {fatri}
+      (распределяться), {dilcu} (частное [от деления]), {katna} (разрезать), {frinu}
+      (дробь)
+    glosses:
+    - делить
+    - x1=делящий
+    - x2=то, что делят
+    - x3=части, на которые делят
+    - x4=метод разбиения
+  en-simple:
+    place structure: x1 divides x2 into x3 by method x4
+    notes:
+    - No notes.
+    glosses:
+    - something dividing
+    - x2=something divided
+    - x3=something divided by
+    - x4=a division method
+  eo:
+    place structure: x1 (aganto) dividas/apartigas x2-on en partoj/sekcioj x3 per
+      metodo/vando x4
+    notes:
+    - 'Ankaŭ: segmentoj.  Vidu ankaŭ {sepli}, {bitmu}, {fatri}, {dilcu}, {katna},
+      {frinu}.'
+    glosses:
+    - dividi
+  hu:
+    place structure: x1 [mint cselekvő] felosztja/feldarabolja/különválasztja x2-t
+      x3 részekre/szeletekre x4 módszerrel
+    notes:
+    - '(Lásd még: {sepli}, {bitmu}, {fatri}, {dilcu}, {katna}, {frinu})'
+    glosses:
+    - feloszt
+  ja:
+    place structure: x1 （者）は x2 を x3 （部分／個）に x4 （方法／区分）によって分ける
+    notes:
+    - ・大意： 分ける ・読み方： フェンディ  ・関連語： {sepli}, {bitmu}, {fatri}, {dilcu}, {katna}, {frinu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (agent) delar (in/upp)/avsöndra [juridik]/partitionera [dator]/särar/åtskiljer
+      x2 i sektioner/delar/individer x3 genom metod/delning/(skiljevägg) x4.
+    notes:
+    - No notes.
+    glosses:
+    - dela (även dela in/dela upp)
+    - indela
+    - sära (dela upp i delar)
+    - uppdelare
+    - åtskilja (dela upp i delar)
+    - x1=delare ((agent) delar in/upp ngt i delar)
+    - x2=uppdelad
+    - x3=del (del av det uppdelade)
+  zh:
+    place structure: x1分割/切分/分开x2至各部分/组件/单元x3，依靠方法/隔离物x4
+    notes:
+    - 参见 {sepli}, {bitmu}, {fatri}, {dilcu}, {katna}, {frinu}.
+    glosses:
+    - No glosses.

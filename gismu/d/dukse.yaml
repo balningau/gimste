@@ -1,6 +1,90 @@
-Word: dukse
-Rafsi: dus, du'e
-Definition: x1 is an excess of/too much of x2 by standard x3.
-Notes: Cloying (= {maldu'e}, {tolpu'adu'e}).  See also {bancu}, {banzu}, {ricfu},
-  {zmadu}.
-Examples: None
+word: dukse
+rafsi:
+- dus
+- du'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an excess of/too much of x2 by standard x3.
+    notes:
+    - Cloying (= {maldu'e}, {tolpu'adu'e}).  See also {bancu}, {banzu}, {ricfu}, {zmadu}.
+    glosses:
+    - excess
+  jbo:
+    place structure: x1 zmadu lo banzu x2 ma'i x3 .i x1 zmadu lo mansa be x3 bei x2
+    notes:
+    - '{banzu}, {zmadu}; {du''e}'
+    glosses:
+    - dukse
+  de:
+    place structure: x1 ist der Überschuss von/ist zuviel x2 gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Überschuss
+  es:
+    place structure: x1 es demasiado/excesivo en propiedad/aspecto x2 según estándar
+      x3
+    notes:
+    - Ver también {drani}.
+    glosses:
+    - demasiado
+  ru:
+    place structure: x1 — избыток x2 (чего) по критерию/стандарту x3
+    notes:
+    - 'Чрезмерный, излишний, «приторный»: {maldu''e}, {tolpu''adu''e} {bancu} (за
+      пределом), {banzu} (достаточный), {ricfu} (богатый), {zmadu} (превосходить)'
+    glosses:
+    - x1=избыток
+  en-simple:
+    place structure: x1 is too much in x2 (ka) for purpose x3 (nu) to take place
+    notes:
+    - Excess. See {banzu}
+    glosses:
+    - an excess
+    - too much
+    - x1=something in excess
+    - x2=excess
+    - x3=a standard of excess
+  eo:
+    place structure: x1 estas tro/eksceso da x2 laŭ normo x3
+    notes:
+    - Supersatigo (= {maldu'e}, {tolpu'adu'e}).  Vidu ankaŭ {bancu}, {banzu}, {ricfu},
+      {zmadu}.
+    glosses:
+    - tro
+  hu:
+    place structure: x1 túl sok x2-ből / túlságosan x2, x3 mérce szerint
+    notes:
+    - '(Lásd még: {bancu}, {banzu}, {ricfu}, {zmadu})'
+    glosses:
+    - túl sok
+  ja:
+    place structure: x1 は x2 （性質）が x3 （基準）において過剰
+    notes:
+    - ・大意： 過剰 ・読み方： ドゥクセ  ・関連語： {bancu}, {banzu}, {ricfu}, {zmadu}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een overmaat van / is te veel van x2 met de standaard x3.
+    notes:
+    - 'Zie ook : {bancu}, {banzu}, {ricfu} en {zmadu}.'
+    glosses:
+    - overmaat
+    - surplus
+    - te veel
+    - teveel (zelfstandig naamwoord)
+  sv:
+    place structure: x1 är ett överskott/för mycket av x2 enligt standard x3.
+    notes:
+    - No notes.
+    glosses:
+    - vara för mycket (av något)
+    - överskott
+  zh:
+    place structure: x1是超量的/过量的/超额的/过多的x2，基于标准x3
+    notes:
+    - 因过量反而有损的/多而腻的= {maldu'e}/{tolpu'adu'e}；参见 {bancu}, {banzu}, {ricfu}, {zmadu}.
+    glosses:
+    - No glosses.

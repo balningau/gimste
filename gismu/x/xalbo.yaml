@@ -1,5 +1,61 @@
-Word: xalbo
-Rafsi: ''
-Definition: x1 uses levity/is non-serious/frivolous about x2 (abstraction).
-Notes: See also {junri}, {linto}.
-Examples: None
+word: xalbo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 uses levity/is non-serious/frivolous about x2 (abstraction).
+    notes:
+    - See also {junri}, {linto}.
+    glosses:
+    - levity
+  de:
+    place structure: x1 ist leichtsinnig/leichtfertig/ist nicht ernst über x2 (Abstraktion)
+    notes:
+    - No notes.
+    glosses:
+    - leichtsinnig
+  es:
+    place structure: x1 es leve/frívolo/poco serio sobre x2 (evento)
+    notes:
+    - Ver también {junri}.
+    glosses:
+    - frívolo
+  ru:
+    place structure: x1 — несерьезный/легкомысленный/фривольный в отношении x2 (абстракция)
+    notes:
+    - 'Также: ветреный, поверхностный {junri} (серьезный), {linto} (легкий [масса/вес])'
+    glosses:
+    - фривольный
+  en-simple:
+    place structure: x1 is flippant or non-serious about x2
+    notes:
+    - No notes.
+    glosses:
+    - something flippant
+    - x2=a subject of flippancy
+  eo:
+    place structure: x1 estas frivola/malserioza pri x2 (abstraktaĵo)
+    notes:
+    - Vidu ankaŭ {junri}, {linto}.
+    glosses:
+    - frivola
+  hu:
+    place structure: x1 komolytalan/könnyed/frivol x2-vel kapcsolatban
+    notes:
+    - '(Lásd még: {junri}, {linto})'
+    glosses:
+    - komolytalan
+  ja:
+    place structure: x1 は x2 （事）に関して軽率／無思慮／浮ついている／不真面目
+    notes:
+    - ・大意： 軽率 ・読み方： クァルゥボ  ・語呂合わせ： 軽いぼっちゃん ・関連語： {junri}, {linto}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是轻率的/轻浮的，关于x2（谓词子句）
+    notes:
+    - 参见 {junri}, {linto}.
+    glosses:
+    - No glosses.

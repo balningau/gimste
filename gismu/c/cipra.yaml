@@ -1,7 +1,83 @@
-Word: cipra
-Rafsi: cip
-Definition: x1 (process/event) is a test for/proof of property/state x2 in subject
-  x3 (individ./set/mass).
-Notes: Also examination, proxy measure, validation; (a set in $x_3$ must be completely
-  specified).  See also {ciksi}, {troci}, {jarco}, {pajni}, {saske}.
-Examples: None
+word: cipra
+rafsi:
+- cip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (process/event) is a test for/proof of property/state x2 in
+      subject x3 (individ./set/mass).
+    notes:
+    - Also examination, proxy measure, validation; (a set in x3 must be completely
+      specified).  See also {ciksi}, {troci}, {jarco}, {pajni}, {saske}.
+    glosses:
+    - test
+  de:
+    place structure: x1 (Prozess/Ereignis) ist ein Test/eine Prüfung auf/ein Beweis
+      für Eigenschaft/Zustand x2 in Thema x3 (Individuum/Menge/Masse)
+    notes:
+    - No notes.
+    glosses:
+    - Test
+  es:
+    place structure: x1 (evento) es una prueba/comprobación de x2 (propiedad) hecha
+      a sujeto x3
+    notes:
+    - No notes.
+    glosses:
+    - prueba
+  ru:
+    place structure: x1 (процесс/событие) — испытание/проверка/тест на свойство/состояние
+      x2 объекта x3 (индивид/множество/масса)
+    notes:
+    - 'Также: проба, индикатор, показатель, {признак}; Также: экзамен, аттестация;
+      множество в x3 должно быть описано полностью {ciksi} (объяснять), {troci} (пытаться),
+      {jarco} (показывать [демонстрировать]), {pajni} (судить), {saske} (наука)'
+    glosses:
+    - x1=тест
+  en-simple:
+    place structure: x1 is a test of x2 in subject x3
+    notes:
+    - No notes.
+    glosses:
+    - a test
+    - x2=a tested property
+    - x3=something tested
+  eo:
+    place structure: x1 (procedo/okazo) estas testo/provo pri eco/stato x2 al subjekto
+      x3 (individuo/aro/kolektivaĵo)
+    notes:
+    - 'Ankaŭ: ekzameno , validigo; (aro en x3 devas esti komplete specifita).  Vidu
+      ankaŭ {ciksi}, {troci}, {jarco}, {pajni}, {saske}.'
+    glosses:
+    - testo
+  hu:
+    place structure: x1 egy kísérlet/mérés x2 tulajdonság/állapot kimutatására, x3
+      tárgykörben
+    notes:
+    - '(Lásd még: {ciksi}, {troci}, {jarco}, {pajni}, {saske})'
+    glosses:
+    - kísérlet
+  ja:
+    place structure: x1 （過程／事）は x2 （性質）を x3 について確かめる試験／実験／テスト
+    notes:
+    - x3は「受験者」や「製品」など。 ・大意： 試験 ・読み方： シプラ  ・関連語： {ciksi}, {troci}, {jarco}, {pajni},
+      {saske}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (process/händelse) är ett test av/bevis på egenskap/tillstånd
+      x2 hos subjekt x3 (individ/set/massa).
+    notes:
+    - Även examination/prov/validering.
+    glosses:
+    - prov (examination)
+    - x1=test (kontrollera egenskap/tillstånd)
+    - x2=testad egenskap/tillstånd
+    - x3=provdeltagare
+  zh:
+    place structure: x1（过程/事件）是关于性质/状态x2的测试/证据/检验，关于主题x3（个体/集合/团体）
+    notes:
+    - 也指：考试/验证； x3处为集合时，应当完全指明；参见 {ciksi}, {troci}, {jarco}, {pajni}, {saske}.
+    glosses:
+    - No glosses.

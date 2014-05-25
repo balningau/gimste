@@ -1,5 +1,63 @@
-Word: mavji
-Rafsi: mav
-Definition: x1 is a quantity of oats [grain] of species/strain x2.
-Notes: See also {gurni}.
-Examples: None
+word: mavji
+rafsi:
+- mav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of oats [grain] of species/strain x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - oats
+  de:
+    place structure: x1 ist eine Menge an Hafer [Getreide/Korn] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Hafer
+  es:
+    place structure: x1 es una cantidad de avena (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - avena
+  ru:
+    place structure: x1 — овес (зерно) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - x1=овёс
+    - x2=вид овса
+  en-simple:
+    place structure: x1 is a quantity of oats of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of oats
+    - x2=a species of oats
+  eo:
+    place structure: x1 estas kvanto da aveno [greno] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - aveno
+  hu:
+    place structure: x1 bizonyos mennyiségű zabszem az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - zabszem
+  ja:
+    place structure: x1 は x2 （品種）のカラスムギ粒（オート／エンバク等）
+    notes:
+    - ・大意： カラス麦 ・読み方： マヴジ  ・関連語： {gurni}
+    - ''
+    glosses:
+    - オート (穀粒)
+    - x1=カラスムギ (穀粒)
+  zh:
+    place structure: x1是燕麦，属于种族/种类x2
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

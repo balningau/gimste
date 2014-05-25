@@ -1,7 +1,72 @@
-Word: marji
-Rafsi: maj, mai
-Definition: x1 is material/stuff/matter of type/composition including x2 in shape/form
-  x3.
-Notes: Also (adjective:) $x_1$ is physical (one sense)/material.  See also {morna},
-  {mucti}, {nejni}, {tarmi}, {dacti}.
-Examples: None
+word: marji
+rafsi:
+- maj
+- mai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is material/stuff/matter of type/composition including x2
+      in shape/form x3.
+    notes:
+    - Also (adjective:) x1 is physical (one sense)/material.  See also {morna}, {mucti},
+      {nejni}, {tarmi}, {dacti}.
+    glosses:
+    - material
+  de:
+    place structure: x1 ist Material/Materie/Stoff/Substanz von Typ/Zusammensetzung
+      unter anderem x2 in Form x3
+    notes:
+    - No notes.
+    glosses:
+    - Material
+  es:
+    place structure: x1 es material/materia de tipo/composición x2 en forma x3
+    notes:
+    - Ver también {nejni},  {tarmi}.
+    glosses:
+    - material
+  ru:
+    place structure: x1 — материя/вещество/материал типа/состава x2 в форме x3
+    notes:
+    - 'Прилагательное: x1 материальный/физический; x2: в состав входит x2 (не обязательно
+      полное описание состава) {morna} (узор), {mucti} (нематериальный), {nejni} (энергия),
+      {tarmi} (идея [концептуальная форма]), {dacti} (вещь)'
+    glosses:
+    - x1=материя (вещество)
+  en-simple:
+    place structure: x1 is material of type x2 in shape x3
+    notes:
+    - No notes.
+    glosses:
+    - matter
+    - x2=a composition of matter
+    - x3=a shape of matter
+  eo:
+    place structure: x1 estas materio/ŝtofo/materialo de tipo/kompozicio enhavanta
+      x2-on en formo x3
+    notes:
+    - 'Ankaŭ: (adjektivo:) x1 estas fizika (unu senco)/materiala.  Vidu ankaŭ {morna},
+      {mucti}, {nejni}, {tarmi}, {dacti}.'
+    glosses:
+    - materio
+  hu:
+    place structure: x1 bizonyos mennyiségű anyag (-ot tartalmaz/-ból készült) x2
+      összetevőkkel/típusból, x3 alakban/formában
+    notes:
+    - 'Továbbá: anyagi természetű, fizikai (Lásd még: {morna}, {mucti}, {nejni}, {tarmi},
+      {dacti})'
+    glosses:
+    - anyag
+  ja:
+    place structure: x1 は x2 （成分）・ x3 （形態）の物質；  x1 は物質的／形而下
+    notes:
+    - 「mucti」の対義。 ・大意： 物質 ・読み方： マルジ  ・関連語： {morna}, {mucti}, {nejni}, {tarmi}, {dacti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是物质/材料，由组分x2构成，具有外形/结构形式x3
+    notes:
+    - x1是物质的；参见 {morna}, {mucti}, {nejni}, {tarmi}, {dacti}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,64 @@
-Word: pesxu
-Rafsi: pex
-Definition: x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-textured, moist solid]
-  of composition x2.
-Notes: '$x_2$: composition including $x_2$, which need not be complete specification.  See
-  also {marxa}, {kliti}, {tarla}.'
-Examples: None
+word: pesxu
+rafsi:
+- pex
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-textured,
+      moist solid] of composition x2.
+    notes:
+    - 'x2: composition including x2, which need not be complete specification.  See
+      also {marxa}, {kliti}, {tarla}.'
+    glosses:
+    - paste
+  de:
+    place structure: x1 ist eine Paste/ein Teig/Fruchtfleich/Brei/Mark/Matsch/Schlamm
+      [weicher, feuchter Feststoff mit glatter Oberfläche] mit Zusammensetzung unter
+      anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Paste
+  es:
+    place structure: x1 es una pasta/pulpa/masa/barro de composición x2
+    notes:
+    - Ver también {marxa}.
+    glosses:
+    - pasta
+  ru:
+    place structure: x1 — паста/тесто/замазка/гуща (твердое, влажное вещество мягкой
+      консистенции) состава x2
+    notes:
+    - 'x2: содержит x2, не обязательно полное описание состава {marxa} (мять), {kliti}
+      (глина), {tarla} (смола)'
+    glosses:
+    - x1=тесто
+    - x2=состав теста
+  en-simple:
+    place structure: x1 is paste or dough of composition x2
+    notes:
+    - No notes.
+    glosses:
+    - a paste
+    - x2=a composition of paste
+  hu:
+    place structure: x1 bizonyos mennyiségű paszta/pép/massza/sár [szilárd szemcsék
+      folyadékban] x2 összetétellel
+    notes:
+    - '(Lásd még: {marxa}, {kliti}, {tarla})'
+    glosses:
+    - paszta
+  ja:
+    place structure: x1 は x2 （素材）の練り物／捏ね物／のり／ペースト
+    notes:
+    - 「歯磨き粉」や「パン生地」なども。 ・大意： 練り物 ・読み方： ペスクゥ  ・語呂合わせ： paste, xu（糊） ・関連語： {marxa}, {kliti},
+      {tarla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是膏（软而湿润的固体，如：面团/泥巴等），由组分x2做成
+    notes:
+    - 组分包括x2，但不必要全部指明；参见 {marxa}, {kliti}, {tarla}.
+    glosses:
+    - No glosses.

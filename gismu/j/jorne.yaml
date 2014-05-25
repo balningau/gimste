@@ -1,9 +1,78 @@
-Word: jorne
-Rafsi: jon, jo'e
-Definition: x1 is joined to/connects to/is united with x2 at common locus x3; x1 and
-  x2 are a union.
-Notes: Also joined/fastened/attached by joint $x_3$/by means of $x_3$/with fastener
-  $x_3$; fastener (= {jo'etci}, {jonvelyla'a}); train, sequence of joined objects
-  (= {jonpoi}; {porjo'e} for a single object joined into a sequence).  See also {lasna},
-  {fenso}, {kansa}, {pencu}, {penmi}.
-Examples: None
+word: jorne
+rafsi:
+- jon
+- jo'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is joined to/connects to/is united with x2 at common locus
+      x3; x1 and x2 are a union.
+    notes:
+    - Also joined/fastened/attached by joint x3/by means of x3/with fastener x3; fastener
+      (= {jo'etci}, {jonvelyla'a}); train, sequence of joined objects (= {jonpoi};
+      {porjo'e} for a single object joined into a sequence).  See also {lasna}, {fenso},
+      {kansa}, {pencu}, {penmi}.
+    glosses:
+    - joined
+  de:
+    place structure: x1 ist verbunden/vereinigt mit x2/angeschlossen an x2 an gemeinsamer
+      Stelle x3; x1 und x2 sind ein Bund/eine Vereinigung
+    notes:
+    - No notes.
+    glosses:
+    - verbunden
+  es:
+    place structure: x1 está unido/conectado a x2 en punto x3
+    notes:
+    - Ver también {lasna}.
+    glosses:
+    - unido
+  ru:
+    place structure: x1 соединен с/прикреплен к/сообщается с x2 общим участком x3;
+      x1 и x2 соединены
+    notes:
+    - 'Также: прикреплен сочленением/креплением/посредством x3; крепление/сочленение/разъем:
+      {jo''etci}, {jonvelyla''a}; гирлянда/цепочка соединенных предметов: {jonpoi};
+      {porjo''e} для одного предмета/элемента/звена, входящего в цепочку) {lasna}
+      (прикреплять), {fenso} (шить), {kansa} (вместе), {pencu} (трогать), {penmi}
+      (встречать)'
+    glosses:
+    - x1=соединённый
+  en-simple:
+    place structure: x1 is joined to x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - something joined
+    - x2=something joined to
+    - x3=a location of a join
+  eo:
+    place structure: x1 estas kunigita/ligita/unuiĝinta kun x2 je komuna loko x3;
+      x1 kaj x2 estas unuiĝo
+    notes:
+    - 'Ankaŭ: kunligitaj/kunfiksitaj per ligilo/alfiksilo x3; ligilo/alfiksilo (=
+      {jo''etci}, {jonvelyla''a}); trajno, sinsekvo de ligitaj objektoj (= jonpoi;
+      porjo''e por unuopa objekto ligita al sinsekvo).  Vidu ankaŭ {lasna}, {fenso},
+      {kansa}, {pencu}, {penmi}.'
+    glosses:
+    - kunigita
+  hu:
+    place structure: x1 egyesül x2-vel / csatlakozik x2-hez x3 közös helyen
+    notes:
+    - '(Lásd még: {lasna}, {fenso}, {kansa}, {pencu}, {penmi})'
+    glosses:
+    - egyesül
+  ja:
+    place structure: x1 は x2 （対象本体）と、 x3 （対象箇所）において結合／接続している；  x1 と x2 は結束している
+    notes:
+    - ・大意： 結合 ・読み方： ジョルネ  ・関連語： {lasna}, {fenso}, {kansa}, {pencu}, {penmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1连接着/结合着x2，在连接点x3；x1与x2是联盟
+    notes:
+    - 也指：用扣件/紧固物x3固定/连接；扣件/使紧固之物= {jo'etci}/{jonvelyla'a}；相连而成的系列物体={jonpoi}；{porjo'e}
+      指连接的序列中的单个物体；参见 {lasna}, {fenso}, {kansa}, {pencu}, {penmi}.
+    glosses:
+    - No glosses.

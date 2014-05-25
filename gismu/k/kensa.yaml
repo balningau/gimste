@@ -1,5 +1,68 @@
-Word: kensa
-Rafsi: kes
-Definition: x1 is outer space near/associated with celestial body/region x2.
-Notes: See also {canlu}, {munje}, {terdi}, {tsani}.
-Examples: None
+word: kensa
+rafsi:
+- kes
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is outer space near/associated with celestial body/region
+      x2.
+    notes:
+    - See also {canlu}, {munje}, {terdi}, {tsani}.
+    glosses:
+    - outer space
+    - space (area beyond atmosphere of planets)
+  de:
+    place structure: x1 ist der Weltraum/das All nahe/zugehörig zu Himmelskörper/Region
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Weltraum
+  es:
+    place structure: x1 es un espacio exterior cerca/asociado con cuerpo celeste/región
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - espacio
+  ru:
+    place structure: x1 — (космическое) пространство, окружающее/прилегающее к/связанное
+      с x2 (небесное тело/регион)
+    notes:
+    - '{canlu} (объем), {munje} (мир [вселенная]), {terdi} (земля [планета Земля]),
+      {tsani} (небо)'
+    glosses:
+    - x1=космос
+  en-simple:
+    place structure: x1 is outer space near x2
+    notes:
+    - No notes.
+    glosses:
+    - outer space
+    - x2=a location in outer space
+  eo:
+    place structure: x1 estas kosmospaco proksime de/rilata al ĉiela korpo/regiono
+      x2
+    notes:
+    - Vidu ankaŭ {canlu}, {munje}, {terdi}, {tsani}.
+    glosses:
+    - kosmospaco
+  hu:
+    place structure: x1 a világűr egy tartománya x2 égitest/régió környékén
+    notes:
+    - '(Lásd még: {canlu}, {munje}, {terdi}, {tsani})'
+    glosses:
+    - világűr
+  ja:
+    place structure: x1 は x2 （天体／領域）の宇宙空間
+    notes:
+    - ・大意： 宇宙 ・読み方： ケンサ  ・語呂合わせ： 宇宙を検査 ・関連語： {canlu}, {munje}, {terdi}, {tsani}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是接近/具有天体/天域的太空
+    notes:
+    - 参见 {canlu}, {munje}, {terdi}, {tsani}.
+    glosses:
+    - No glosses.

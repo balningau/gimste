@@ -1,5 +1,75 @@
-Word: cacra
-Rafsi: ''
-Definition: x1 is x2 hours in duration (default is 1 hour) by standard x3.
-Notes: See also {junla}, {mentu}, {snidu}, {tcika}, {temci}.
-Examples: None
+word: cacra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 hours in duration (default is 1 hour) by standard x3.
+    notes:
+    - See also {junla}, {mentu}, {snidu}, {tcika}, {temci}.
+    glosses:
+    - hour
+  de:
+    place structure: x1 dauert x2 (Default 1) Stunden gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - Stunde
+  es:
+    place structure: x1 dura x2 horas (1 por defecto) según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - hora
+  ru:
+    place structure: x1 длится x2 часов (по умолчанию 1 час) по стандарту x3; x1 —
+      промежуток времени в x2 часов; x1 составляет x2 часов
+    notes:
+    - '{junla} (часы [механизм]), {mentu} (минута), {snidu} (секунда), {tcika} (время
+      [события]), {temci} (время [промежуток])'
+    glosses:
+    - x2=количество часов
+  en-simple:
+    place structure: x1 is x2 hours in duration
+    notes:
+    - No notes.
+    glosses:
+    - x1=something measured in hours
+    - x2=a number of hours
+    - x2=the number of hours
+    - x3=a standard for hour
+  eo:
+    place structure: x1 daŭras x2 horojn (defaŭlte 1 horo) laŭ normo x3
+    notes:
+    - Vidu ankaŭ {junla}, {mentu}, {snidu}, {tcika}, {temci}.
+    glosses:
+    - horo
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] óra, x3 mérce szerint
+    notes:
+    - '(Lásd még: {junla}, {mentu}, {snidu}, {tcika}, {temci})'
+    glosses:
+    - óra (időtartam)
+  ja:
+    place structure: x1 は x2 （数）・ x3 （基準）の時間
+    notes:
+    - 通常は「60分」。 ・大意： 時間 ・読み方： シャシラ  ・語呂合わせ： ＜社は知らず＞, ciauc(小時), hour ・関連語： {junla},
+      {mentu}, {snidu}, {tcika}, {temci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är x2 timmar i varaktighet enligt standard x3.
+    notes:
+    - x2 är 1 timme om inte annat anges.
+    glosses:
+    - varaktighet (tidsrymd)
+    - x1=timme
+    - x2=tidsrymd (i timmar)
+    - x3=tidsstandard (timmar)
+  zh:
+    place structure: 在持续时间长度上，x1是x2（数量，默认：1）小时，基于标准x3
+    notes:
+    - 参见 {junla}, {mentu}, {snidu}, {tcika}, {temci}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,81 @@
-Word: senpi
-Rafsi: sen
-Definition: x1 doubts/is dubious/doubtful/skeptical/questions that x2 (du'u) is true.
-Notes: 'Also: $x_2$ is doubtful/dubious/questionable (= {selsenpi} for reordered places).  See
-  also {jinvi}, {krici}, {djuno}, {birti}.'
-Examples: None
+word: senpi
+rafsi:
+- sen
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 doubts/is dubious/doubtful/skeptical/questions that x2 (du'u)
+      is true.
+    notes:
+    - 'Also: x2 is doubtful/dubious/questionable (= {selsenpi} for reordered places).  See
+      also {jinvi}, {krici}, {djuno}, {birti}.'
+    glosses:
+    - doubt
+  jbo:
+    place structure: x1 no'e krici x2 .i x1 na'e birti x2
+    notes:
+    - '{krici}; {birti}; {iacu''i}'
+    glosses:
+    - senpi
+  de:
+    place structure: x1 (be-)zweifelt/ist suspekt/skeptisch/zweifelt an, dass x2 (du'u)
+      wahr ist
+    notes:
+    - No notes.
+    glosses:
+    - zweifeln
+  es:
+    place structure: x1 duda/es escéptico de que x2 (du'u) sea cierto
+    notes:
+    - Ver también {jinvi},  {krici},  {djuno}.
+    glosses:
+    - dudar
+  ru:
+    place structure: x1 сомневается, что x2 ({du'u}) верно
+    notes:
+    - 'Также: скептичен насчет; x2 — сомнительно/подозрительно: {selsenpi} с переставленными
+      местами {jinvi} (считать [полагать]), {krici} (верить), {djuno} (знать), {birti}
+      (убежденный [в истинности])'
+    glosses:
+    - сомневаться в
+    - x1=сомневающийся в
+    - x2=сомнительное
+  en-simple:
+    place structure: x1 doubts that x2 is true
+    notes:
+    - No notes.
+    glosses:
+    - a doubter
+    - x2=something doubted
+  eo:
+    place structure: x1 dubas/estas skeptika pri la vero de x2 (du'u)
+    notes:
+    - 'Ankaŭ: x2 estas dubinda (= selsenpi por reordigitaj {lokoj}).  Vidu ankaŭ {jinvi},
+      {krici}, {djuno}, {birti}.'
+    glosses:
+    - dubi
+  hu:
+    place structure: x1 kételkedik x2 állítás igazságában
+    notes:
+    - '(Lásd még: {jinvi}, {krici}, {djuno}, {birti})'
+    glosses:
+    - kételkedik
+  ja:
+    place structure: x1 は x2 （命題）の真実性を疑う；  x2 は信憑性に欠ける
+    notes:
+    - ・大意： 懐疑 ・読み方： センピ  ・関連語： {jinvi}, {krici}, {djuno}, {birti}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 twijfelt eraan of x2 (du'u) de waarheid is.
+    notes:
+    - Zie ook {jinvi}, {krici}, {djuno}, {birti}
+    glosses:
+    - twijfel
+  zh:
+    place structure: x1怀疑/质疑x2（du'u）是真实的
+    notes:
+    - 也指：x2是可疑的/值得怀疑的；参见 {jinvi}, {krici}, {djuno}, {birti}.
+    glosses:
+    - No glosses.

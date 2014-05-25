@@ -1,6 +1,75 @@
-Word: jipno
-Rafsi: jip, ji'o
-Definition: x1 is a tip/point/vertex/extremity/end [0-dimension shape/form] on object
-  x2 at locus x3.
-Notes: See also {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}.
-Examples: None
+word: jipno
+rafsi:
+- jip
+- ji'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tip/point/vertex/extremity/end [0-dimension shape/form]
+      on object x2 at locus x3.
+    notes:
+    - See also {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}.
+    glosses:
+    - tip
+  de:
+    place structure: x1 ist eine Spitze/Ecke/ein Zipfel [0-dimensionale Form] auf/von
+      Objekt x2 an Stelle x3
+    notes:
+    - No notes.
+    glosses:
+    - Spitze
+  es:
+    place structure: x1 es una punta/vértice de objeto x2 en parte x3
+    notes:
+    - No notes.
+    glosses:
+    - punta
+  ru:
+    place structure: x1 — кончик/вершина/верхушка/острие (0-мерная форма) на объекте
+      x2, в участке x3
+    notes:
+    - '{mokca} (точка), {jesni} (игла [форма, не орудие]), {fanmo} (конец), {kojna}
+      (угол [телесный]), {krasi} (источник [начало])'
+    glosses:
+    - остриё
+  en-simple:
+    place structure: x1 is a tip or point on object x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a tip
+    - x2=something with a tip
+    - x3=a location of a tip
+  eo:
+    place structure: x1 estas pinto/punkto/vertico/ekstremo/fino [0-dimensia formo]
+      de objekto x2 je loko x3
+    notes:
+    - Vidu ankaŭ {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}.
+    glosses:
+    - pinto
+  hu:
+    place structure: x1 egy hegye/csúcsa/végpontja x2-nek x3 helyen
+    notes:
+    - '(Lásd még: {mokca}, {jesni}, {fanmo}, {kojna}, {krasi})'
+    glosses:
+    - csúcs
+  ja:
+    place structure: x1 は x2 （本体）の先端／先っぽ
+    notes:
+    - ・大意： 先端 ・読み方： ジプノ  ・関連語： {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en spets/punkt/hörn (matematik)/vertex/extremitet/slut
+      [0-dimensionell form] på objekt x2 på ställe x3.
+    notes:
+    - No notes.
+    glosses:
+    - spets (vertex)
+  zh:
+    place structure: x1是物体x2上位置x3处的一个点（零维结构）
+    notes:
+    - 参见 {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}.
+    glosses:
+    - No glosses.

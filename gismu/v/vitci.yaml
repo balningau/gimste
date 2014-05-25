@@ -1,5 +1,65 @@
-Word: vitci
-Rafsi: vit
-Definition: x1 is irregular/occasional/intermittent in property/action/aspect x2.
-Notes: See also {ranji}, {rufsu}, {suksa}.
-Examples: None
+word: vitci
+rafsi:
+- vit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is irregular/occasional/intermittent in property/action/aspect
+      x2.
+    notes:
+    - See also {ranji}, {rufsu}, {suksa}.
+    glosses:
+    - irregular
+  de:
+    place structure: x1 ist unregelmäßig/gelegentlich/stoßweise in Eigenschaft/Handlung/Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - unregelmäßig
+  es:
+    place structure: x1 es irregular/ocasional/intermitente en propiedad/actividad/aspecto
+      x2
+    notes:
+    - Ver también {dikni}.
+    glosses:
+    - irregular
+  ru:
+    place structure: x1 — нерегулярный/прерывистый/перемежающийся по свойству/действии/аспекте
+      x2
+    notes:
+    - '{ranji} (продолжаться), {rufsu} (шероховатый), {suksa} (внезапный)'
+    glosses:
+    - нерегулярный
+  en-simple:
+    place structure: x1 is irregular in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something irregular
+    - x2=an irregular property
+  eo:
+    place structure: x1 estas neregula/okaza/intermita en eco/action/aspekto x2
+    notes:
+    - Vidu ankaŭ {ranji}, {rufsu}, {suksa}.
+    glosses:
+    - neregula
+  hu:
+    place structure: x1 szabálytalan/alkalmankénti/szaggatott x2 tulajdonságban/cselekedetben/szempontból
+    notes:
+    - '(Lásd még: {ranji}, {rufsu}, {suksa})'
+    glosses:
+    - alkalmankénti
+  ja:
+    place structure: x1 は x2 （性質／動作／状態）に関して不定／不規則的／断続的
+    notes:
+    - ・大意： 不定 ・読み方： ヴィチ ・関連語： {ranji}, {rufsu}, {suksa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是无规律的/偶然的，在性质/行为x2方面
+    notes:
+    - 参见 {ranji}, {rufsu}, {suksa}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,91 @@
-Word: jivna
-Rafsi: jvi
-Definition: x1 competes/vies with opponent x2 in contest/competition x3 (event) for
-  gain x4; x1 rivals x2.
-Notes: Also $x_2$ opponent(s), competitor(s), rival(s); $x_3$ competition, race; $x_4$
-  prize, reward, recognition (gain may be internal or external).  See also {cnemu},
-  {jinga}, {talsa}, {bradi}, {fapro}, {kelci}.
-Examples: None
+word: jivna
+rafsi:
+- jvi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 competes/vies with opponent x2 in contest/competition x3 (event)
+      for gain x4; x1 rivals x2.
+    notes:
+    - Also x2 opponent(s), competitor(s), rival(s); x3 competition, race; x4 prize,
+      reward, recognition (gain may be internal or external).  See also {cnemu}, {jinga},
+      {talsa}, {bradi}, {fapro}, {kelci}.
+    glosses:
+    - compete
+  de:
+    place structure: x1 konkurriert/wetteifert mit Gegner x2 in Wettkampf/Wettbewerb
+      x3 (Ereignis) für Nutzen/Zugewinn x4; x1 ist ein Rivale von x2
+    notes:
+    - No notes.
+    glosses:
+    - konkurrieren
+  es:
+    place structure: x1 compite/contiende contra oponente/rival x2 en concurso/competición/contienda
+      x3 para ganar x4
+    notes:
+    - No notes.
+    glosses:
+    - competir
+  ru:
+    place structure: x1 соревнуется/соперничает/конкурирует с оппонентом x2 в соревновании/состязании
+      x3 (событие) за выигрыш x4
+    notes:
+    - x2 — соперник(и), конкурент(ы); x4 — приз, вознаграждение, признание (выигрыш
+      м.б. как внутренним, так и внешним) {cnemu} (воздавать), {jinga} (выигрывать
+      [побеждать]), {talsa} (оспаривать), {bradi} (враг), {fapro} (противостоять),
+      {kelci} (играть [в игру/игрушку])
+    glosses:
+    - конкурировать
+    - x1=конкурирующий
+    - x2=оппонент соревнования
+    - x3=соревнование
+    - x4=предмет (за выигрыш) соревнования
+  en-simple:
+    place structure: x1 competes with x2 in contest x3 for gain x4
+    notes:
+    - No notes.
+    glosses:
+    - a competitor
+    - x2=an opponent in a competition
+    - x3=a competition
+    - x4=a prize of a competition
+  eo:
+    place structure: x1 konkuras kontraŭ oponanto x2 en konkuro x3 (okazo) por gajno
+      x4; x1 rivalas x2-on
+    notes:
+    - 'Ankaŭ: x2 kontraŭanto(j), konkuranto(j), rivalo(j); x3 konkuro, konkurso; x4
+      premio, rekompenco, rekono (gajno povas esti interna aŭ eksterna).  Vidu ankaŭ
+      {cnemu}, {jinga}, {talsa}, {bradi}, {fapro}, {kelci}.'
+    glosses:
+    - konkuri
+  hu:
+    place structure: x1 verseng x2 ellenféllel x3 versenyben x4-ért
+    notes:
+    - '(Lásd még: {cnemu}, {jinga}, {talsa}, {bradi}, {fapro}, {kelci})'
+    glosses:
+    - verseng
+  ja:
+    place structure: x1 は x2 と x3 （事）に関して x4 （利益）を競う／競合する／試合する
+    notes:
+    - ・大意： 競う ・読み方： ジヴナ  ・関連語： {cnemu}, {jinga}, {talsa}, {bradi}, {fapro}, {kelci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 tävlar mot motståndare x2 i tävlan/tävling x3 (skeende) för
+      vinst/förtjänst x4; x1 är rival till x2.
+    notes:
+    - No notes.
+    glosses:
+    - tävla
+    - x1=tävlande
+    - x2=rival (i tävlan)
+    - x3=tävling
+    - x4=förtjänst (i tävlan)
+  zh:
+    place structure: x1与对手x2竞争/比赛，在比赛/对抗x3（事件）中，为了赢得x4；x1与x2对抗
+    notes:
+    - x2是对手/敌手/竞争者；x3比赛/竞赛；x4奖励/奖金/奖品（可能是内在的/也可能是外在的）；参见 {cnemu}, {jinga}, {talsa},
+      {bradi}, {fapro}, {kelci}.
+    glosses:
+    - No glosses.

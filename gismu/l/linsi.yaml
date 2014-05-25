@@ -1,5 +1,64 @@
-Word: linsi
-Rafsi: lin
-Definition: x1 is a length of chain/links of material x2 with link properties x3.
-Notes: See also {skori}.
-Examples: None
+word: linsi
+rafsi:
+- lin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a length of chain/links of material x2 with link properties
+      x3.
+    notes:
+    - See also {skori}.
+    glosses:
+    - chain
+  de:
+    place structure: x1 ist eine bestimme Länge an Kette/Kettengliedern aus Material
+      x2 mit Verknüpfungseigenschaften x3
+    notes:
+    - No notes.
+    glosses:
+    - Kette
+  es:
+    place structure: x1 es una cadena de material x2 con eslabones/propiedades x3
+    notes:
+    - No notes.
+    glosses:
+    - cadena
+  ru:
+    place structure: x1 — цепь/цепочка из материала x2 со свойствами звеньев x3
+    notes:
+    - '{skori} (веревка)'
+    glosses:
+    - цепь
+  en-simple:
+    place structure: x1 is a length of chain of material x2 with link properties x3
+    notes:
+    - No notes.
+    glosses:
+    - a chain
+    - x2=a material of a chain
+    - x3=a property of a chain's link
+  eo:
+    place structure: x1 estas cheno/kateno el materialo x2 kun kunigaj ecoj x3
+    notes:
+    - Vidu ankaŭ {skori}.
+    glosses:
+    - ĉeno
+  hu:
+    place structure: x1 egy darab lánc x2 anyagból, x3 tulajdonságú láncszemekkel
+    notes:
+    - '(Lásd még: {skori})'
+    glosses:
+    - lánc
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （特性）の鎖／チェーン
+    notes:
+    - ・大意： 鎖 ・読み方： ルィンスィ  ・語呂合わせ： linku リンク ・関連語： {skori}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是链/连接，由材料x2构成，具有连接性质x3
+    notes:
+    - 参见 {skori}.
+    glosses:
+    - No glosses.

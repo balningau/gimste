@@ -1,6 +1,93 @@
-Word: darxi
-Rafsi: dax, da'i
-Definition: x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus
-  x4.
-Notes: See also {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}.
-Examples: None
+word: darxi
+rafsi:
+- dax
+- da'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hits/strikes/[beats] x2 with instrument [or body-part] x3
+      at locus x4.
+    notes:
+    - See also {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}.
+    glosses:
+    - hit
+    - strike (hit)
+  jbo:
+    place structure: x1 gasnu lo nu x3 noi pagbu x1 cu janli x4 noi pagbu x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 schlägt/trifft x2 mit Gegenstand [oder Körperteil] x3 an Stelle
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - schlagen
+  es:
+    place structure: x1 golpea/pega a x2 con instrumento/miembro x3 en parte x4
+    notes:
+    - Ver también {tikpa}.
+    glosses:
+    - golpear
+  ru:
+    place structure: 'x1 ударяет/бьет x2 орудием/частью тела x3 в x4 (куда: место)'
+    notes:
+    - '{bikla} (дергаться), {gunta} (нападать), {jenca} (потрясать [ошеломлять]),
+      {tunta} (колоть), {tikpa} (пинать), {janli} (ударяться), {jgari} (держать),
+      {pencu} (трогать)'
+    glosses:
+    - бить
+    - ударять
+    - x1=ударяющий
+  en-simple:
+    place structure: x1 hits or strikes x2 with x3 at x4
+    notes:
+    - No notes.
+    glosses:
+    - a hitter
+    - x2=something hit
+    - x3=something used to hit
+    - x4=a place hit
+  eo:
+    place structure: x1 frapas/trafas/[batas] x2-on per ilo [aŭ korpo-parto] x3 ĉe
+      loko x4
+    notes:
+    - Vidu ankaŭ {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}.
+    glosses:
+    - frapi
+  hu:
+    place structure: x1 megüti/megveri x2-t x3 eszközzel/testrésszel, x4 ponton
+    notes:
+    - '(Lásd még: {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu})'
+    glosses:
+    - megüt
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）を x4 で打つ／叩く
+    notes:
+    - x3は「手」「指」「足」などの肉体部分も。 ・大意： 叩く ・読み方： ダルクィ  ・関連語： {bikla}, {gunta}, {jenca}, {tunta},
+      {tikpa}, {janli}, {jgari}, {pencu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 slår/stöter/pryglar/klipper till x2 med instrument [eller
+      kroppsdel] x3 på ställe [på kroppen] x4.
+    notes:
+    - No notes.
+    glosses:
+    - klippa till (slag)
+    - prygla
+    - slå
+    - stöta (slå till)
+    - x1=bråkstake
+    - x2=slagen (blivit träffad av slag/stöt)
+    - x3=slaghjälpmedel
+    - x4=träffyta (ställe där slag/stöt har träffat)
+  zh:
+    place structure: x1打/击打x2，使用打击物/肢体x3，在位置x4
+    notes:
+    - 参见 {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}.
+    glosses:
+    - No glosses.

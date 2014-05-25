@@ -1,5 +1,76 @@
-Word: cirla
-Rafsi: ''
-Definition: x1 is a quantity of/contains cheese/curd from source x2.
-Notes: See also {ladru}.
-Examples: None
+word: cirla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains cheese/curd from source x2.
+    notes:
+    - See also {ladru}.
+    glosses:
+    - cheese
+  de:
+    place structure: x1 ist eine gewisse Menge/enthält/besteht aus Käse/Quark/Milcheiweiß
+      aus Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Käse
+  es:
+    place structure: x1 es una cantidad de queso de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - queso
+  ru:
+    place structure: x1 — сыр/творог из источника x2
+    notes:
+    - '{ladru} (молоко)'
+    glosses:
+    - сыр
+  en-simple:
+    place structure: x1 is a quantity of cheese from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of cheese
+    - x2=a source of cheese
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el fromaĝo/kazeo el fonto
+      x2
+    notes:
+    - Vidu ankaŭ {ladru}.
+    glosses:
+    - fromaĝo
+  hu:
+    place structure: x1 bizonyos mennyiségű sajt/aludttej (-et tartalmaz), x2 forrásból
+    notes:
+    - '(Lásd még: {ladru})'
+    glosses:
+    - sajt
+  ja:
+    place structure: x1 は x2 （成分）のチーズ／凝乳食品
+    notes:
+    - ・大意： チーズ ・読み方： シルルァ  ・関連語： {ladru}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest pewną ilością/zawiera ser/twaróg ze źródła x2.
+    notes:
+    - No notes.
+    glosses:
+    - ser
+  sv:
+    place structure: x1 är ost/ostmassa/[kvarg] från källa x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=ost (mejeriprodukt)
+    - x2=ostkälla
+  zh:
+    place structure: x1是乳酪/由乳酪构成，来源于x2
+    notes:
+    - 参见 {ladru}.
+    glosses:
+    - No glosses.

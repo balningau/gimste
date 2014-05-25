@@ -1,6 +1,68 @@
-Word: vinji
-Rafsi: vij
-Definition: x1 is an airplane/aircraft [flying vehicle] for carrying passengers/cargo
-  x2, propelled by x3.
-Notes: See also {vofli}, {sabnu}.
-Examples: None
+word: vinji
+rafsi:
+- vij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an airplane/aircraft [flying vehicle] for carrying passengers/cargo
+      x2, propelled by x3.
+    notes:
+    - See also {vofli}, {sabnu}.
+    glosses:
+    - airplane
+  de:
+    place structure: x1 ist ein Flugzeug/Fluggerät [fliegendes Transportmittel] zum
+      Transportieren von Passagieren/Fracht x2, angetrieben durch x3
+    notes:
+    - No notes.
+    glosses:
+    - Flugzeug
+  es:
+    place structure: x1 es un avión/aeroplano/aeronave (vehículo volador) para pasajeros/carga
+      x2, propelido/impulsado por x3
+    notes:
+    - No notes.
+    glosses:
+    - avión
+  ru:
+    place structure: x1 — самолет/аэроплан (летательный аппарат) для перевоза пассажиров/груза
+      x2, приводимый в движение x3 (чем)
+    notes:
+    - '{vofli} (лететь), {sabnu} (кабина)'
+    glosses:
+    - x1=самолёт
+  en-simple:
+    place structure: x1 is an aircraft for carrying x2 propelled by x3
+    notes:
+    - No notes.
+    glosses:
+    - an aircraft
+    - x2=a cargo of an aircraft
+    - x3=a propulsion of an aircraft
+  eo:
+    place structure: x1 estas avio/aviadilo [flugveturilo] por porti pasaĝerojn/kargon
+      x2, pelita de x3
+    notes:
+    - Vidu ankaŭ {vofli}, {sabnu}.
+    glosses:
+    - aviadilo
+  hu:
+    place structure: x1 egy repülőgép/helikopter [légijármű] x2 utasok/teher szállítására,
+      x3 meghajtással
+    notes:
+    - '(Lásd még: {vofli}, {sabnu})'
+    glosses:
+    - repülőgép
+  ja:
+    place structure: x1 は x2 （荷／乗客）・ x3 （原動力）の飛行機／航空機／飛行船
+    notes:
+    - x3はプロペラやジェットなど。 ・大意： 飛行機 ・読み方： ヴィンジ  ・関連語： {vofli}, {sabnu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是飞行器/飞机，用于运载x2，由x3驱动
+    notes:
+    - 参见 {vofli}, {sabnu}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,73 @@
-Word: tcena
-Rafsi: ten
-Definition: x1 stretches/extends to range x2 [interval/extent] in dimension x3 from
-  relaxed range x4.
-Notes: See also {kuspe}, {pruni}, {preja}, {ranji}, {trati}.
-Examples: None
+word: tcena
+rafsi:
+- ten
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 stretches/extends to range x2 [interval/extent] in dimension
+      x3 from relaxed range x4.
+    notes:
+    - See also {kuspe}, {pruni}, {preja}, {ranji}, {trati}.
+    glosses:
+    - extend (increase in extent)
+    - stretch
+  de:
+    place structure: x1 erstreckt sich/reicht/spannt über Bereich x2 [Intervall/Weite/Ausdehnung]
+      in Dimension x3 mit entspannter/zwangloser Reichweite x4
+    notes:
+    - No notes.
+    glosses:
+    - sich erstrecken
+  es:
+    place structure: x1 se extiende/estira/alarga cubriendo extensión x2 en dimensión
+      x3 desde extensión relajada x4
+    notes:
+    - Ver también {kuspe}.
+    glosses:
+    - extenderse
+  ru:
+    place structure: x1 растягивается до x2 (интервал/размах) в измерении x3 от/из
+      исходного (ненапряженного) состояния x4
+    notes:
+    - '{kuspe} (простираться), {pruni} (упругий), {preja} (простираться [до чего-либо]),
+      {ranji} (продолжаться), {trati} (натянутый)'
+    glosses:
+    - тянуться
+    - x1=тянущийся
+  en-simple:
+    place structure: x1 stretches to range x2 in dimension x3 from range x4
+    notes:
+    - No notes.
+    glosses:
+    - something stretchy
+    - x2=a range of stretchiness
+    - x3=a dimension of stretchiness
+    - x4=an unstretched range
+  eo:
+    place structure: x1 streĉiĝas/etendiĝas/sterniĝas en amplekson x2 laŭ dimensio
+      x3 ekde malstreĉa amplekso x4
+    notes:
+    - Vidu ankaŭ {kuspe}, {pruni}, {preja}, {ranji}, {trati}.
+    glosses:
+    - streĉiĝi
+  hu:
+    place structure: x1 (ki-/meg-)nyúlik x2 kiterjedésűre x3 méretben/dimenzióban
+      x4 alapkiterjedésről
+    notes:
+    - '(Lásd még: {kuspe}, {pruni}, {preja}, {ranji}, {trati})'
+    glosses:
+    - nyúlik
+  ja:
+    place structure: x1 は x2 （範囲）にわたり x3 （次元）において x4 （通常の範囲）から伸びる／拡張する
+    notes:
+    - ・大意： 伸びる ・読み方： チェナ  ・語呂合わせ： cen(伸), extend ・関連語： {kuspe}, {pruni}, {preja},
+      {ranji}, {trati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1伸展/延展/扩展到范围x2，在维度/尺寸x3方面，从原范围x4
+    notes:
+    - 参见 {kuspe}, {pruni}, {preja}, {ranji}, {trati}.
+    glosses:
+    - No glosses.

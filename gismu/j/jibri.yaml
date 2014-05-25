@@ -1,9 +1,102 @@
-Word: jibri
-Rafsi: jib
-Definition: x1 is a job/occupation/employment/vocation (a type of work regularly done
-  for pay) of person x2.
-Notes: Working for another (= {selplijibri}).  See also {briju}, {gunka}, {te} {jerna}
-  which is employment specifically for pay and not specifically for another, {te}
-  {pilno} which is employment not necessarily for pay and not necessarily regular
-  or lasting but for another, {se} {gasnu} and {se} {zukte} for incidental activities.
-Examples: None
+word: jibri
+rafsi:
+- jib
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a job/occupation/employment/vocation (a type of work regularly
+      done for pay) of person x2.
+    notes:
+    - Working for another (= {selplijibri}).  See also {briju}, {gunka}, {te} {jerna}
+      which is employment specifically for pay and not specifically for another, {te}
+      {pilno} which is employment not necessarily for pay and not necessarily regular
+      or lasting but for another, {se} {gasnu} and {se} {zukte} for incidental activities.
+    glosses:
+    - job
+  de:
+    place structure: x1 ist ein Beruf/Job/eine Arbeitsstelle/Beschäftigung (eine regelmäßige
+      Arbeit mit Bezahlung) von Person x2
+    notes:
+    - No notes.
+    glosses:
+    - Beruf
+  es:
+    place structure: x1 es un trabajo/ocupación/empleo de persona x2
+    notes:
+    - No notes.
+    glosses:
+    - ocupación
+  ru:
+    place structure: 'x1 — работа/занятие/профессия (работа, регулярно выполняемая
+      за вознаграждение) x2 (кого/чья: лицо)'
+    notes:
+    - 'Работать для/на кого-то: {selplijibri} {briju} (офис), {gunka} (работать),
+      {te} {jerna} (зарабатывать) — с акцентом на вознаграждение и не обязательно
+      для кого-то, {te} {pilno} (использовать) — работа не обязательно за плату или
+      регулярная/продолжительная, но обязательно для/на кого-то, {se} {gasnu} (делать)
+      и {se} {zukte} (действовать) для временных/разовых занятий'
+    glosses:
+    - x1=работа (профессия)
+  en-simple:
+    place structure: x1 is a job of person x2
+    notes:
+    - No notes.
+    glosses:
+    - a job
+    - x2=something with a job
+  eo:
+    place structure: x1 estas ofico/profesio/okupo (tipo de laboro regule farita pro
+      pago) de homo x2
+    notes:
+    - Labori por alia (= {selplijibri}).  (kp. briju, gunka, te jerna kiu estas laboro
+      specife por pago kaj ne specife por alia, te pilno kiu estas okupo ne nepre
+      por pago kaj ne nepre regula aŭ longdaŭra sed por alia, se gasnu kaj se zukte
+      por incidentaj agoj)
+    glosses:
+    - ofico
+  hu:
+    place structure: x1 egy munkája/foglalkozása/állása x2-nek
+    notes:
+    - '(Lásd még: {briju}, {gunka}, {jerna}, {pilno}, {gasnu}, {zukte})'
+    glosses:
+    - munka
+  ja:
+    place structure: x1 は x2 （者）の職／仕事；  x2 は x1 に就職している
+    notes:
+    - ・大意： 職 ・読み方： ジブリ  ・語呂合わせ： ジブリの職 ・関連語： {briju}, {gunka}, {te} {jerna}, {te} {pilno},
+      {se} {gasnu}, {se} {zukte}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett jobb/sysselsättning/anställning  (en form av arbete
+      som utförs regelbundet mot betalning) för person x2.
+    notes:
+    - Arbeta för någon annan (= {selplijibri}). Se även {briju}, {gunka}, te {jerna}
+      vilket är anställning specifikt avlönat och inte specifikt för någon annan,
+      te {pilno} vilket är sysselsättning inte nödvändigtvis mot betalning och inte
+      nödvändigtvis regelbundet eller beständigt men för någon annan, se {gasnu} and
+      se {zukte} for tillfälliga aktiviteter.
+    glosses:
+    - jobb (lönearbete)
+    - lönearbete
+    - sysselsättning (lönearbete)
+    - x1=anställning (lönearbete)
+    - x2=anställd
+  vi:
+    place structure: x1 là công việc/việc làm/nghề nghiệp (việc làm thường xuyên,
+      để kiếm tiền) của người x2
+    notes:
+    - No notes.
+    glosses:
+    - nghề nghiệp
+    - việc làm
+    - x1=công việc
+    - x2=người lao động
+  zh:
+    place structure: x1是x2的工作/职业/谋生手段
+    notes:
+    - 为……工作/给……打工={selplijibri}；参见 {briju}, {gunka}, {te} {jerna} 指明了回报，不指名雇主；{te}
+      {pilno} 指明了雇佣关系，但不指名回报；{se} {gasnu} 和{se} {zukte}指偶然的活动
+    glosses:
+    - No glosses.

@@ -1,8 +1,78 @@
-Word: nenri
-Rafsi: ner, ne'i
-Definition: x1 is in/inside/within x2; x1 is on the inside/interior of x2 [totally
-  within the bounds of x2].
-Notes: Indicates total containment.  (cf. se {vasru} (for containment that need not
-  be total), {jbini}, {zvati}, {cpana}, {sruri}, {senta}, {snuji}, {bartu}, {diklo},
-  {jibni}, {jinru}, {setca})
-Examples: None
+word: nenri
+rafsi:
+- ner
+- ne'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is in/inside/within x2; x1 is on the inside/interior of x2
+      [totally within the bounds of x2].
+    notes:
+    - Indicates total containment.  (cf. se {vasru} (for containment that need not
+      be total), {jbini}, {zvati}, {cpana}, {sruri}, {senta}, {snuji}, {bartu}, {diklo},
+      {jibni}, {jinru}, {setca})
+    glosses:
+    - in
+  de:
+    place structure: x1 ist in/innerhalb/das Innere von x2 [vollständig innerhalb
+      der Grenzen von x2]
+    notes:
+    - No notes.
+    glosses:
+    - in
+  es:
+    place structure: x1 está adentro/interior/contenido/dentro de x2
+    notes:
+    - Ver también se {vasru},  {zvati},  {cpana},  {sruri},  {senta},  {snuji},  {bartu},  {diklo},  {jibni},  {jinru},  {setca}.
+    glosses:
+    - adentro
+  ru:
+    place structure: x1 находится/заключен внутри/в пределах x2 (целиком в границах
+      x2); x2 объемлет x1 (полностью!)
+    notes:
+    - '{se} {vasru} (содержать) (для ситуации, когда x2 объемлет x1 не обязательно
+      полностью), {jbini} (между), {zvati} (находиться), {cpana} (на), {sruri} (оркужать),
+      {senta} (слой), {snuji} (прослойка), {bartu} (вне), {diklo} (локальный), {jibni}
+      (близко), {jinru} (погруженный [в жидкость]), {setca} (вставлять)'
+    glosses:
+    - x1=заключённый в
+    - x2=внутри чего находится
+  en-simple:
+    place structure: x1 is inside x2
+    notes:
+    - No notes.
+    glosses:
+    - something inside of something
+    - x2=something with something inside
+  eo:
+    place structure: x1 estas en x2; x1 estas interne de x2 [tute interne de la limoj
+      de x2]
+    notes:
+    - Indikas tutan enhavadon.  (kp. se vasru (por enhavado ne nepre tuta), jbini,
+      zvati, cpana, sruri, senta, snuji, bartu, diklo, jibni, jinru, setca)
+    glosses:
+    - en
+  hu:
+    place structure: x1 [teljesen] a belsejében van x2-nek
+    notes:
+    - '(Lásd még: {vasru}, {jbini}, {zvati}, {cpana}, {sruri}, {senta}, {snuji}, {bartu},
+      {diklo}, {jibni}, {jinru}, {setca})'
+    glosses:
+    - belül
+  ja:
+    place structure: x1 は x2 の中（にある）；  x1 は内部／内側；  x2 は x1 を内蔵する
+    notes:
+    - ・大意： 中 ・読み方： ネンリ  ・語呂合わせ： 内部念入り ・関連語： {se} {vasru}, {jbini}, {zvati}, {cpana},
+      {sruri}, {senta}, {snuji}, {bartu}, {diklo}, {jibni}, {jinru}, {setca}
+    - ''
+    glosses:
+    - 内部
+    - x1=中
+    - x2=内蔵する
+  zh:
+    place structure: x1处于x2内部/里面（完全处于边界之内）
+    notes:
+    - 暗示完全包含；参见 se {vasru}不必要完全包含, {jbini}, {zvati}, {cpana}, {sruri}, {senta}, {snuji},
+      {bartu}, {diklo}, {jibni}, {jinru}, {setca}
+    glosses:
+    - No glosses.

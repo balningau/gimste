@@ -1,7 +1,81 @@
-Word: dikni
-Rafsi: dik
-Definition: x1 is regular/cyclical/periodic in property (ka)/activity x2 with period/interval
-  x3.
-Notes: Also uniform; resonant (= {dikslicai}).  See also {slilu}, {rilti}, {xutla},
-  {manfo}, {boxna}.
-Examples: None
+word: dikni
+rafsi:
+- dik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is regular/cyclical/periodic in property (ka)/activity x2
+      with period/interval x3.
+    notes:
+    - Also uniform; resonant (= {dikslicai}).  See also {slilu}, {rilti}, {xutla},
+      {manfo}, {boxna}.
+    glosses:
+    - regular
+  de:
+    place structure: x1 ist regelmäßig/zyklisch/periodisch in Eigenschaft (ka)/Aktivität
+      x2 mit Periode/Intervall x3
+    notes:
+    - No notes.
+    glosses:
+    - regelmäßig
+  es:
+    place structure: x1 es regular/cíclico/periódico en propiedad/actividad/aspecto
+      x2 con periodo/intervalo x3
+    notes:
+    - Ver también {vitci},  {slilu},  {rilti}.
+    glosses:
+    - regular
+  ru:
+    place structure: x1 — регулярный/циклический/периодический в отношении свойства/действия
+      x2, с периодом/интервалом x3
+    notes:
+    - 'Также: постоянный/однородный (в некоторых значениях); резонансный: {dikslicai}
+      {slilu} (колебаться), {rilti} (ритм), {xutla} (гладкий), {manfo} (однородный),
+      {boxna} (волна)'
+    glosses:
+    - x1=циклический
+  en-simple:
+    place structure: x1 is regular or periodic in x2 with interval x3
+    notes:
+    - No notes.
+    glosses:
+    - something regular
+    - x2=a property of regularness
+    - x3=an interval of regularness
+  eo:
+    place structure: x1 estas regula/cikla/perioda en eco (ka)/ago x2 kun periodo/intervalo
+      x3
+    notes:
+    - 'Ankaŭ: unuforma; resonanta (= {dikslicai}).  Vidu ankaŭ {slilu}, {rilti}, {xutla},
+      {manfo}, {boxna}.'
+    glosses:
+    - regula
+  hu:
+    place structure: x1 rendszeres/ciklikus/periodikus x2 tulajdonságában/tevékenységében,
+      x3 idő-/térközökkel
+    notes:
+    - '(Lásd még: {slilu}, {rilti}, {xutla}, {manfo}, {boxna})'
+    glosses:
+    - rendszeres
+  ja:
+    place structure: x1 は x2 （性質／動作）に関して x3 （間隔）で周期的／規則的／循環する
+    notes:
+    - ・大意： 周期的 ・読み方： ディクニ ・関連語： {slilu}, {rilti}, {xutla}, {manfo}, {boxna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är regelbunden/cyklisk/periodisk i egenskap (ka)/aktivitet
+      x2 i period/intervall x3.
+    notes:
+    - No notes.
+    glosses:
+    - cyklisk (regelbunden)
+    - periodisk (regelbunden)
+    - regelbunden
+  zh:
+    place structure: x1是周期性的/有规律/循环的，在性质(ka)/行为x2上，周期/循环间隔为x3
+    notes:
+    - 也指：始终如一的； 共鸣/共振= {dikslicai}；参见 {slilu}, {rilti}, {xutla}, {manfo}, {boxna}.
+    glosses:
+    - No glosses.

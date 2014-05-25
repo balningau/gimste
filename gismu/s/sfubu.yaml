@@ -1,5 +1,65 @@
-Word: sfubu
-Rafsi: sub, su'u
-Definition: x1 dives/swoops [manner of controlled falling] to x2 from x3.
-Notes: See also {farlu}
-Examples: None
+word: sfubu
+rafsi:
+- sub
+- su'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 dives/swoops [manner of controlled falling] to x2 from x3.
+    notes:
+    - See also {farlu}
+    glosses:
+    - dive
+  de:
+    place structure: x1 taucht ein [Art eines kontrollierten Fallens] in x2 von x3
+    notes:
+    - No notes.
+    glosses:
+    - tauchen
+  es:
+    place structure: x1 se zambulle/sumerge hacia x2 desde x3
+    notes:
+    - Ver también {farlu}.
+    glosses:
+    - zambullirse
+  ru:
+    place structure: x1 ныряет/пикирует/{бросается} в/на x2 от/из x3
+    notes:
+    - '{farlu} (падать), {farlu} (падать)'
+    glosses:
+    - нырять
+    - x1=ныряющий
+    - x2=куда ныряют
+  en-simple:
+    place structure: x1 dives or swoops to x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a diver
+    - x2=something dived to
+    - x3=something dived from
+  eo:
+    place structure: x1 plonĝas [maniero de regata falado] al x2 de x3
+    notes:
+    - Vidu ankaŭ {farlu}, {farlu}.
+    glosses:
+    - plonĝi
+  hu:
+    place structure: x1 ráugrik/-veti magát / lecsap [irányított esés] x2-re, x3 helyről
+    notes:
+    - '(Lásd még: {farlu})'
+    glosses:
+    - ráugrik
+  ja:
+    place structure: x1 は x2 に x3 から飛び込む／飛び降りる
+    notes:
+    - 意志的。 ・大意： 飛び込む ・読み方： スフゥブ  ・関連語： {farlu}, {farlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1俯冲向x2，由x3
+    notes:
+    - 参见 {farlu}
+    glosses:
+    - No glosses.

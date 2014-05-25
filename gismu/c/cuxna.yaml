@@ -1,6 +1,75 @@
-Word: cuxna
-Rafsi: cux, cu'a
-Definition: x1 chooses/selects x2 [choice] from set/sequence of alternatives x3 (complete
-  set).
-Notes: Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}.
-Examples: None
+word: cuxna
+rafsi:
+- cux
+- cu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 chooses/selects x2 [choice] from set/sequence of alternatives
+      x3 (complete set).
+    notes:
+    - Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}.
+    glosses:
+    - choose
+    - pick (decide between options)
+    - x1=choice
+  de:
+    place structure: x1 wählt/sucht x2 [Auswahl] aus Menge/Folge von Alternativen
+      x3 (Gesamtmenge) aus
+    notes:
+    - No notes.
+    glosses:
+    - auswählen
+  es:
+    place structure: x1 elige/escoge/selecciona x2 de entre x3
+    notes:
+    - No notes.
+    glosses:
+    - elegir
+  ru:
+    place structure: x1 выбирает/отбирает x2 из множества/последовательности альтернатив
+      x3 (полное описание множества)
+    notes:
+    - 'Также: предпочитает: {nelcu''a} {jdice} (решать [принимать решение]), {pajni}
+      (судить), {nelci} (любить [предпочитать])'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 chooses x2 from set x3
+    notes:
+    - No notes.
+    glosses:
+    - a chooser
+    - x2=something chosen
+    - x3=a set of choices
+  hu:
+    place structure: x1 (ki)választja x2-t az x3 választási lehetőségek halmazából/sorozatából
+    notes:
+    - '(Lásd még: {jdice}, {pajni}, {nelci})'
+    glosses:
+    - választ
+  ja:
+    place structure: x1 は x2 （選択肢）を x3 （集合）から選ぶ
+    notes:
+    - ・大意： 選ぶ ・読み方： シュクゥナ  ・語呂合わせ： しゅくない中から選ぶ　主婦なら選ぶ ・関連語： {jdice}, {pajni}, {nelci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 plockar ut/väljer (ut)/utser x2 [val] bland set/sekvens av
+      alternativ x3.
+    notes:
+    - No notes.
+    glosses:
+    - plocka ut
+    - utse
+    - välja
+    - x1=väljare
+    - x2=utvald
+    - x3=valalternativ
+  zh:
+    place structure: x1选择x2，从选项集合/序列x3中（完整选项集合）
+    notes:
+    - 偏爱/更喜欢= {nelcu'a}；参见 {jdice}, {pajni}, {nelci}.
+    glosses:
+    - No glosses.

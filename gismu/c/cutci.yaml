@@ -1,6 +1,83 @@
-Word: cutci
-Rafsi: cuc
-Definition: x1 is a shoe/boot/sandal for covering/protecting [feet/hooves] x2, and
-  of material x3.
-Notes: Also boot (= {tupcutci}).  See also {smoka}, {taxfu}, {skiji}.
-Examples: None
+word: cutci
+rafsi:
+- cuc
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a shoe/boot/sandal for covering/protecting [feet/hooves]
+      x2, and of material x3.
+    notes:
+    - Also boot (= {tupcutci}).  See also {smoka}, {taxfu}, {skiji}.
+    glosses:
+    - shoe
+  de:
+    place structure: x1 ist ein Schuh/Stiefel/eine Sandale zum Schützen/Bedecken von
+      [Füßen/Hufen] x2 aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Schuh
+  es:
+    place structure: x1 es un zapato/bota/sandalia/calzado (prenda de vestir) para
+      cubrir/proteger pies x2, de material x3
+    notes:
+    - No notes.
+    glosses:
+    - zapato
+  ru:
+    place structure: x1 — обувь/{ботинок/сапог/сандалия/подкова} для ношения на (ногах/копытах)
+      x2, из материала x3
+    notes:
+    - 'Сапог: {tupcutci} {smoka} (носок), {taxfu} (одежда), {skiji} (лыжа)'
+    glosses:
+    - обувь
+  en-simple:
+    place structure: x1 is a shoe for covering x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a shoe
+    - x2=a shoe's foot
+    - x3=a material of a shoe
+  eo:
+    place structure: x1 estas shuo/boto/sandalo por kovri/protekti [piedojn/hufojn]
+      x2, kaj el materialo x3
+    notes:
+    - 'Ankaŭ: boto (= {tupcutci}).  Vidu ankaŭ {smoka}, {taxfu}, {skiji}.'
+    glosses:
+    - ŝuo
+  hu:
+    place structure: x1 egy cipő/bakancs/csizma/szandál/saru [lábbeli] x2 végtagra,
+      x3 anyagból
+    notes:
+    - '(Lásd még: {smoka}, {taxfu}, {skiji})'
+    glosses:
+    - cipő
+  ja:
+    place structure: x1は足/ひづめx2を覆う/守るための、材料x3でできた靴/ブーツ/サンダルである
+    notes:
+    - 'または: ブーツ={tupcutci}. 参照: {smoka}, {taxfu}, {skiji}.'
+    glosses:
+    - サンダル
+    - 靴
+  sv:
+    place structure: x1 är en sko/sandal/stövel för att skydda [fötter/hovar] x2 och
+      av material x3.
+    notes:
+    - Även stövel (={tupcutci}). Se även {smoka}, {taxfu}, {skiji}.
+    glosses:
+    - sko (skyddar fot/hov)
+  vi:
+    place structure: x1 là giầy cho x2 làm từ x3
+    notes:
+    - No notes.
+    glosses:
+    - x1=giầy
+    - x2=bàn chân
+    - x3=chất liệu
+  zh:
+    place structure: x1是鞋/靴，为了遮蔽/遮挡足/脚/肢体x2，鞋的材料是x3
+    notes:
+    - 长靴= {tupcutci}；参见 {smoka}, {taxfu}, {skiji}.
+    glosses:
+    - No glosses.

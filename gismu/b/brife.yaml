@@ -1,6 +1,88 @@
-Word: brife
-Rafsi: bif, bi'e
-Definition: x1 is a breeze/wind/gale from direction x2 with speed x3; x1 blows from
-  x2.
-Notes: See also {tcima}.
-Examples: None
+word: brife
+rafsi:
+- bif
+- bi'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a breeze/wind/gale from direction x2 with speed x3; x1
+      blows from x2.
+    notes:
+    - See also {tcima}.
+    glosses:
+    - breeze
+  de:
+    place structure: x1 ist eine Brise/ein Wind/ein Sturm aus der Richtung x2 mit
+      der Geschwindigkeit x3; x1 bläst von x2.
+    notes:
+    - Siehe auch {tcima}.
+    glosses:
+    - Brise
+    - Wind (Brise)
+    - x1=Windrichtung
+    - x2=Windgeschwindigkeit
+  es:
+    place structure: x1 es una brisa/viento/vendaval desde dirección x2 con velocidad
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - brisa
+  ru:
+    place structure: x1 — ветер/{шторм.б.уря}, дующий с направления x2 со скоростью
+      x3; x1 дует с x2 (откуда)
+    notes:
+    - '{tcima} (погода)'
+    glosses:
+    - ветер
+  en-simple:
+    place structure: x1 is wind from direction x2 with speed x3
+    notes:
+    - No notes.
+    glosses:
+    - a wind
+    - x2=a direction of a wind
+    - x3=a speed of a wind
+  eo:
+    place structure: x1 estas brizo/zefiro/vento el direkto x2 kun rapido x3; x1 blovas
+      el x2
+    notes:
+    - Vidu ankaŭ {tcima}.
+    glosses:
+    - brizo
+  hu:
+    place structure: x1 egy fuvallat/szellő/szél/szélvész/orkán x2 irányból, x3 sebességgel
+    notes:
+    - '(Lásd még: {tcima})'
+    glosses:
+    - szél (légmozgás)
+  ja:
+    place structure: x1 は x2 （起源）・ x3 （速度）の風；  x1 は x2 から吹く；  x2 は x1 を吹く
+    notes:
+    - x2 は方角も。 ・大意： 風 ・読み方： ブリフェ  ・語呂合わせ： breeze, fen(風) ・関連語： {tcima}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er en bris/vind/blest fra retning/kant x2 med fart/hastighet
+      x3; x1 blåser fra x2
+    notes:
+    - Se og {tcima}, {vacri} og {pagre}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en bris/vind/kuling/blåst från riktning x2 med hastighet
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - blåst (metereologi)
+    - x1=vind (metereologi)
+    - x2=vindriktning
+    - x3=vindhastighet
+  zh:
+    place structure: x1是风，来自方向x2，风速为x3；x1由方向x2吹来
+    notes:
+    - 参见 {tcima}.
+    glosses:
+    - No glosses.

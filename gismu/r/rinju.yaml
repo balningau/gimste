@@ -1,9 +1,86 @@
-Word: rinju
-Rafsi: ri'u
-Definition: x1 is restrained/held [back]/constrained/kept by restraint x2 against
-  x3 (event).
-Notes: 'Also: $x_2$ is a restraint/binding for $x_1$, $x_2$ keeps/restrains/holds
-  [back]/constrains $x_1$ from $x_3$ (= {selri''u} for reordered places); agentive
-  restraint (= {ri''urgau}, {ri''urzu''e}).  See also {zifre}, {ralte}, {pinfu}, {kavbu},
-  {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza}, {tagji}.'
-Examples: None
+word: rinju
+rafsi:
+- ri'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is restrained/held [back]/constrained/kept by restraint x2
+      against x3 (event).
+    notes:
+    - 'Also: x2 is a restraint/binding for x1, x2 keeps/restrains/holds [back]/constrains
+      x1 from x3 (= {selri''u} for reordered places); agentive restraint (= {ri''urgau},
+      {ri''urzu''e}).  See also {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari},
+      {jimte}, {bapli}, {curmi}, {kluza}, {tagji}.'
+    glosses:
+    - restrain
+  de:
+    place structure: x1 wird zurückgehalten/begrenzt/eingedämmt durch Hemmnis/Zwang
+      x2, um x3 (Ereignis) zu verhindern
+    notes:
+    - No notes.
+    glosses:
+    - zurückhalten
+  es:
+    place structure: x1 es restricto/constreñido/sujetado/refrenado por x2 contra
+      x3
+    notes:
+    - Ver también {ralte},  {pinfu}.
+    glosses:
+    - restringido
+  ru:
+    place structure: 'x1 удерживается x2 (чем) от x3 (чего: событие); x2 удерживает
+      x1 от x3'
+    notes:
+    - 'x2 не дает/не позволяет x1 сделать/стать x3: {selri''u}; x2 — ограничитель
+      для x1; x2 обуздывает/стесняет x1; деятельное сдерживание: {ri''urgau}, {ri''urzu''e}
+      {zifre} (свободный), {ralte} (удерживать), {pinfu} (пленник), {kavbu} (ловить),
+      {fanta} (препятствовать [не давать произойти]), {jgari} (держать), {jimte} (граница),
+      {bapli} (заставлять), {curmi} (разрешать [позволять]), {kluza} (облегать [свободно]),
+      {tagji} (облегать [тесно])'
+    glosses:
+    - удерживаться от
+    - x1=удерживаемое от
+    - x2=удерживающее от
+    - x3=от чего удерживают
+  en-simple:
+    place structure: x1 is restrained by x2 against x3
+    notes:
+    - No notes.
+    glosses:
+    - something restrained
+    - x2=a restraint
+    - x3=something against which something is restrained
+  eo:
+    place structure: x1 estas detenita/gardita per detenilo x2 kontraŭ x3 (okazo)
+    notes:
+    - 'Ankaŭ: x2 estas limigo por x1, x2 retenas/detenas/gardas x1-on de x3 (= selri''u
+      por reordigitaj {lokoj}); agenta deteno (= {ri''urgau}, {ri''urzu''e}).  Vidu
+      ankaŭ {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli},
+      {curmi}, {kluza}, {tagji}.'
+    glosses:
+    - detenita
+  hu:
+    place structure: x1-t visszatartja/elfojtja/korlátozza x2 erő/esemény/egyéb korlát,
+      x3 esemény ellen
+    notes:
+    - '(Lásd még: {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli},
+      {curmi}, {kluza}, {tagji})'
+    glosses:
+    - vissza van tartva
+  ja:
+    place structure: x1 は x2 （抑制力）によって x3 （事）にたいして拘束／制限されている；  x1 は x2 のせいで x3 ができない；  x2
+      は x1 を束縛する
+    notes:
+    - ・大意： 束縛 ・読み方： リンジュ  ・語呂合わせ： 制限されてご臨終 ・関連語： {zifre}, {ralte}, {pinfu}, {kavbu},
+      {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza}, {tagji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1受到x2的抑制/约束，在事件x3方面；x1是受抑制的/拘束的
+    notes:
+    - 也指：x2是x1的阻碍/约束；x2阻碍/约束/抑制x1，以免其x3；（施事的）抑制/约束={ri'urgau}/{ri'urzu'e}；参见 {zifre},
+      {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza},
+      {tagji}.
+    glosses:
+    - No glosses.

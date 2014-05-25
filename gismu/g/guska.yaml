@@ -1,6 +1,68 @@
-Word: guska
-Rafsi: guk
-Definition: x1 blade/scraper/erosive scrapes/erodes/abrades x2 from x3.
-Notes: Abrade, abrasive (= {mosyguska}).  See also {balre}, {sraku}, {batci}, {canpa},
-  {mosra}.
-Examples: None
+word: guska
+rafsi:
+- guk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 blade/scraper/erosive scrapes/erodes/abrades x2 from x3.
+    notes:
+    - Abrade, abrasive (= {mosyguska}).  See also {balre}, {sraku}, {batci}, {canpa},
+      {mosra}.
+    glosses:
+    - scrape
+  de:
+    place structure: x1 (Klinge/Schaber) kratzt/schabt/schleift x2 von x3
+    notes:
+    - No notes.
+    glosses:
+    - schaben
+  es:
+    place structure: x1 remueve/rasquetea/rasca/erosiona/borra x2 de x3 usando hoja/rasquete/lija/instrumento
+      x4
+    notes:
+    - Ver también {prina}.
+    glosses:
+    - remover
+  ru:
+    place structure: x1 соскабливает/соскребает/сдирает x2 с x3; x1 скоблит/скребет/обдирает
+      x3
+    notes:
+    - 'Обрабатывать наждаком/абразивом: {mosyguska} {balre} (клинок), {sraku} (царапать),
+      {batci} (кусать), {canpa} (лопата), {mosra} (трение)'
+    glosses:
+    - соскабливать
+    - x1=соскабливающий
+  en-simple:
+    place structure: x1 abrades x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - an abrader
+    - x2=something abraded
+    - x3=something abraded from
+  eo:
+    place structure: x1 (klingo/skrapilo/erozianto) skrapas/erozias x2-on el x3
+    notes:
+    - Skrapa (= {mosyguska}).  Vidu ankaŭ {balre}, {sraku}, {batci}, {canpa}, {mosra}.
+    glosses:
+    - skrapi
+  hu:
+    place structure: x1 (ki)vájja/karcolja/marja x2-t x3-ból
+    notes:
+    - '(Lásd még: {balre}, {sraku}, {batci}, {canpa}, {mosra})'
+    glosses:
+    - kiváj
+  ja:
+    place structure: x1 は x2 を x3 から削る／こすり落とす／すりむく；  x1 は x2 を侵食する；  x2 は腐食する／摩滅する
+    notes:
+    - ・大意： 削る ・読み方： グスカ  ・語呂合わせ： 具、スカッと削る ・関連語： {balre}, {sraku}, {batci}, {canpa},
+      {mosra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将x2从x3上刮掉/擦掉/磨掉/腐蚀掉
+    notes:
+    - 磨掉/研磨/摩擦={mosyguska}；参见 {balre}, {sraku}, {batci}, {canpa}, {mosra}.
+    glosses:
+    - No glosses.

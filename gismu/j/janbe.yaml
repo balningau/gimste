@@ -1,7 +1,70 @@
-Word: janbe
-Rafsi: jab
-Definition: x1 is a bell/chime/[tuning fork] [tuned percussion instrument] producing
-  sound/note x2.
-Notes: 'Also: $x_1$ rings/tolls (i.e. if it rings, then it is a bell); resonates (one
-  sense, = {jabdesku}).  See also {zgike}, {tonga}, {desku}, {slilu}.'
-Examples: None
+word: janbe
+rafsi:
+- jab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bell/chime/[tuning fork] [tuned percussion instrument]
+      producing sound/note x2.
+    notes:
+    - 'Also: x1 rings/tolls (i.e. if it rings, then it is a bell); resonates (one
+      sense, = {jabdesku}).  See also {zgike}, {tonga}, {desku}, {slilu}.'
+    glosses:
+    - bell
+  de:
+    place structure: x1 ist eine Glocke/ein Glockenspiel/[eine Stimmgabel] [gestimmtes
+      Schlaginstrument] und erzeugt Klang/Note/Ton x2
+    notes:
+    - No notes.
+    glosses:
+    - Glocke
+  es:
+    place structure: x1 es una campana/timbre (instrumento de percusión) con sonido/nota
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - campana
+  ru:
+    place structure: x1 — гонг/колокол/куранты/звонок/{камертон} (тональный ударный
+      инструмент), производящий звук/ноту x2
+    notes:
+    - 'Также: x1 звенит (т.е. раз звенит, значит звонок); резонирует (в одном из значений):
+      {jabdesku} {zgike} (музыка), {tonga} (тон), {desku} (трястись), {slilu} (колебаться)'
+    glosses:
+    - x1=колокол
+  en-simple:
+    place structure: x1 is a bell or chime producing sound x2
+    notes:
+    - No notes.
+    glosses:
+    - a bell
+    - x2=a sound of a bell
+  eo:
+    place structure: x1 estas sonorilo/[tonforko] [agordita perkutinstrumento] eliganta
+      sonon/tonon x2
+    notes:
+    - 'Ankaŭ: x1 sonoras; resonas (unu senco, = jabdesku).  Vidu ankaŭ {zgike}, {tonga},
+      {desku}, {slilu}.'
+    glosses:
+    - sonorilo
+  hu:
+    place structure: x1 egy csengő/harang/triangulum/hangvilla [adott hangmagasságú
+      idiofon] x2 hangmagassággal
+    notes:
+    - '(Lásd még: {zgike}, {tonga}, {desku}, {slilu})'
+    glosses:
+    - csengő
+  ja:
+    place structure: x1 は x2 （音）を奏でる鐘／鈴／ベル／チャイム
+    notes:
+    - ・大意： 鐘 ・読み方： ジャンベ  ・語呂合わせ： ジャ～ン、ベル ・関連語： {zgike}, {tonga}, {desku}, {slilu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是发出声音/信号x2的铃/钟
+    notes:
+    - 也指：x1响铃；参见 {zgike}, {tonga}, {desku}, {slilu}.
+    glosses:
+    - No glosses.

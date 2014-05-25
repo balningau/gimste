@@ -1,6 +1,68 @@
-Word: murta
-Rafsi: mur, mu'a
-Definition: x1 is a curtain/blinds/drapes for covering/obscuring aperture x2, and
-  made of material x3.
-Notes: See also {canko}, {vorme}.
-Examples: None
+word: murta
+rafsi:
+- mur
+- mu'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a curtain/blinds/drapes for covering/obscuring aperture
+      x2, and made of material x3.
+    notes:
+    - See also {canko}, {vorme}.
+    glosses:
+    - curtain
+  de:
+    place structure: x1 ist eine Gardine/Blende/Jalousie/ein Vorhang zum Verdunkeln/Verdecken
+      von Öffnung x2 und aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Vorhang
+  es:
+    place structure: x1 es una cortina/persiana para cubrir/tapar/oscurecer apertura
+      x2, de material x3
+    notes:
+    - No notes.
+    glosses:
+    - cortina
+  ru:
+    place structure: x1 — занавес/занавеска/штора/жалюзи, чтобы закрывать/затенять
+      просвет x2, из материала x3
+    notes:
+    - '{canko} (окно), {vorme} (дверь)'
+    glosses:
+    - x1=занавеска
+  en-simple:
+    place structure: x1 is a curtain for covering x2 made of x3
+    notes:
+    - No notes.
+    glosses:
+    - a curtain
+    - x2=something obscured by a curtain
+    - x3=a material of a curtain
+  eo:
+    place structure: x1 estas kurteno/markezo/ĵaluzio/persieno por kovri/mallumigi
+      aperturon x2, kaj el materialo x3
+    notes:
+    - Vidu ankaŭ {canko}, {vorme}.
+    glosses:
+    - kurteno
+  hu:
+    place structure: x1 egy függöny/roló x2 takarására, x3 anyagból
+    notes:
+    - '(Lásd még: {canko}, {vorme})'
+    glosses:
+    - függöny
+  ja:
+    place structure: x1 は x2 を遮る／隠す、 x3 （素材）のカーテン／窓掛け／ブラインド／幕／どんちょう
+    notes:
+    - ・大意： カーテン ・読み方： ムルタ  ・関連語： {canko}, {vorme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是窗帘/幕布/百叶窗，用以遮蔽孔洞x2，由材料x3制成
+    notes:
+    - 参见 {canko}, {vorme}.
+    glosses:
+    - No glosses.

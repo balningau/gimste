@@ -1,6 +1,68 @@
-Word: jamfu
-Rafsi: jaf, jma
-Definition: 'x1 is a/the foot [body-part] of x2; [metaphor: lowest portion] (adjective:)
-  x1 is pedal.'
-Notes: See also {jicmu}, {genja}, {zbepi}, {tuple}, {jubme}, {xance}, {tamji}.
-Examples: None
+word: jamfu
+rafsi:
+- jaf
+- jma
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the foot [body-part] of x2; [metaphor: lowest portion]
+      (adjective:) x1 is pedal.'
+    notes:
+    - See also {jicmu}, {genja}, {zbepi}, {tuple}, {jubme}, {xance}, {tamji}.
+    glosses:
+    - foot
+  de:
+    place structure: 'x1 ist ein/der Fuß [Körperteil] von x2; [im übertragenen Sinne:
+      niedrigster Teil] (adjektiv:) x1 ist pedal'
+    notes:
+    - No notes.
+    glosses:
+    - Fuß
+  es:
+    place structure: x1 es un pie (parte del cuerpo) de x2
+    notes:
+    - Ver también {jicmu},  {genja},  {zbepi}.
+    glosses:
+    - pie
+  ru:
+    place structure: x1 — ступня/стопа (часть тела) x2
+    notes:
+    - 'Метафора: нижняя/опорная часть {jicmu} (основа), {genja} (корень [растения]),
+      {zbepi} (подставка), {tuple} (нога), {jubme} (стол), {xance} (кисть [руки]),
+      {tamji} (большой палец)'
+    glosses:
+    - x1=ступня
+  en-simple:
+    place structure: x1 is a foot of x2
+    notes:
+    - No notes.
+    glosses:
+    - a foot
+    - x2=something with a foot
+  eo:
+    place structure: 'x1 estas piedo [korpoparto] de x2; [metafore: plej malalta parto]
+      (adjektivo:) x1 estas pieda'
+    notes:
+    - Vidu ankaŭ {jicmu}, {genja}, {zbepi}, {tuple}, {jubme}, {xance}, {tamji}.
+    glosses:
+    - piedo
+  hu:
+    place structure: x1 egy/a lábfeje x2-nek
+    notes:
+    - '(Lásd még: {jicmu}, {genja}, {zbepi}, {tuple}, {jubme}, {xance}, {tamji})'
+    glosses:
+    - lábfej
+  ja:
+    place structure: x1 は x2 （本体）の足
+    notes:
+    - 「tuple／脚」との違いに注意。 ・大意： 足 ・読み方： ジャムフ ・語呂合わせ： ジャム踏んだ足 ・関連語： {jicmu}, {genja},
+      {zbepi}, {tuple}, {jubme}, {xance}, {tamji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的脚（身体部位）
+    notes:
+    - 参见 {jicmu}, {genja}, {zbepi}, {tuple}, {jubme}, {xance}, {tamji}.
+    glosses:
+    - No glosses.

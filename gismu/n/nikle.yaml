@@ -1,6 +1,65 @@
-Word: nikle
-Rafsi: nik
-Definition: x1 is made of/contains/is a quantity of nickel/other metal resistant to
-  oxidation.
-Notes: See also {jinme}.
-Examples: None
+word: nikle
+rafsi:
+- nik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of nickel/other metal resistant
+      to oxidation.
+    notes:
+    - See also {jinme}.
+    glosses:
+    - nickel
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Nickel/einem anderen
+      korrosionsbeständigem Metall
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  es:
+    place structure: x1 es una cantidad de níquel (Ni)
+    notes:
+    - No notes.
+    glosses:
+    - níquel
+  ru:
+    place structure: x1 — никель (или другой металл, устойчивый к окислению); x1 содержит
+      никель
+    notes:
+    - '{jinme} (металл)'
+    glosses:
+    - x1=никель
+  en-simple:
+    place structure: x1 is a quantity of nickel
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of nickel
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el nikelo/alia rustimuna
+      metalo
+    notes:
+    - Vidu ankaŭ {jinme}.
+    glosses:
+    - nikelo
+  hu:
+    place structure: x1 bizonyos mennyiségű nikkel/egyéb rozsdamentes fém (-et tartalmaz/-ből
+      készült)
+    notes:
+    - '(Lásd még: {jinme})'
+    glosses:
+    - nikkel
+  ja:
+    place structure: x1 はニッケル（Ni）
+    notes:
+    - 錆びない金属。 ・大意： ニッケル ・読み方： ニクルェ  ・関連語： {jinme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是镍/其他抗氧化的/不生锈的金属
+    notes:
+    - 参见 {jinme}.
+    glosses:
+    - No glosses.

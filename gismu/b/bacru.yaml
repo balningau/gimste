@@ -1,6 +1,150 @@
-Word: bacru
-Rafsi: ba'u
-Definition: x1 utters verbally/says/phonates/speaks [vocally makes sound] x2.
-Notes: Also voices; does not necessarily imply communication or audience; ('says'
-  is usually {cusku}).  See also {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
-Examples: None
+word: bacru
+rafsi:
+- ba'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 utters verbally/says/phonates/speaks [vocally makes sound]
+      x2.
+    notes:
+    - Also voices; does not necessarily imply communication or audience; ('says' is
+      usually {cusku}).  See also {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
+    glosses:
+    - utter
+  jbo:
+    place structure: x1 cupra x2 noi bangu sance ku'o lo'e nu pilno lo'e tavla rango
+      be x1
+    notes:
+    - '{sance}; {voksa}; {krixa}; {cmoni}; {tavla}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 äußert/drückt mündlich aus/sagt/spricht [erzeugt Laut] x2
+    notes:
+    - No notes.
+    glosses:
+    - äußern
+  es:
+    place structure: x1 pronuncia/dice/verbaliza/vocaliza/hace sonido x2
+    notes:
+    - Ver también {krixa},  {cusku}.
+    glosses:
+    - pronunciar
+  fr:
+    place structure: x1 prononce/dit/émet le son (avec sa bouche) x2
+    notes:
+    - N'implique pas de volonté de communiquer ni la présence d'une audience.
+    - «Dire» se dit plutôt {cusku}.
+    - Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
+    glosses:
+    - prononcer
+    - émettre (émettre un son avec la bouche)
+    - x1=émetteur (celui qui émet un son avec sa bouche)
+    - x2=son (son émis avec la bouche)
+  ru:
+    place structure: x1 произносит (вслух), издает звук x2
+    notes:
+    - Не обязательно требуется аудитория или общение ("говорит" - {cusku}). См. {krixa}
+      (кричать), {cusku} (говорить), {casnu} (обсуждать), {tavla} (разговаривать,
+      общаться), {voksa} (голос, речь), {pinka} (комментарий, замечание).
+    glosses:
+    - издавать звук
+    - произносить
+  en-simple:
+    place structure: x1 utters x2
+    notes:
+    - No notes.
+    glosses:
+    - an utterer
+    - x2=an utterance
+  eo:
+    place structure: x1 eldiras buŝe/diras/parolas [pervoĉe faras sonon] x2
+    notes:
+    - '[ankaŭ: voĉi; ne necese implicas komunikon aŭ aŭdanton; (''diri'' ĝenerale
+      estas cusku)]; (Vidu ankaŭ: krixa, cusku, casnu, tavla, voksa, pinka.)'
+    glosses:
+    - eldiri
+    - x1=eldiranto
+    - x2=eldiro
+  he:
+    place structure: x1 מדבר/אומר x2
+    notes:
+    - הגיסמו אינו מחייב קיומה של תקשורת או של קהל. אמירה לצרכי תקשורת היא בד"כ {cusku}
+    glosses:
+    - לדבר (להגיד משהו)
+  hu:
+    place structure: x1 [hangosan] kimondja/kiejti x2-t
+    notes:
+    - 'Nem feltétlenül utal kommunikációra („mond”: {cusku}) (Lásd még: {krixa}, {cusku},
+      {casnu}, {tavla}, {voksa}, {pinka})'
+    glosses:
+    - kiejt
+  it:
+    place structure: x1 proferisce/dice/pronuncia/dà voce a x2
+    notes:
+    - Non implica necessariamente comunicazione o ascoltatori;
+    - '``dire'''' si traduce di solito con {cusku}. Vedi anche {krixa}, {cusku}, {casnu},
+      {tavla}, {voksa}, {pinka}.'
+    glosses:
+    - dare voce
+    - dire
+    - proferire
+    - pronunciare
+  ja:
+    place structure: x1 は x2 （声／音）を発する
+    notes:
+    - 意思疎通や話し相手は必ずしも含意しない。「.a'enai do ranji bacru／きみの長話にはうんざりだ」 ・大意： 発声 ・読み方： バシル
+      ・語呂合わせ： ＜口走る＞, utter  ・関連語： {krixa} (叫ぶ), {cusku} (言う), {casnu} (論議), {tavla}
+      (話す), {voksa} (声), {pinka}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 verwoord/drukt uit/spreekt [maakt vocaal geluid] x2.
+    notes:
+    - 'Ook stemmen; Niet per sé communicatie of gehoor; (''zegt'' is normaal {cusku}).  Zie
+      ook : {krixa}, {cusku}, {casnu}, {tavla}, {voksa} en {pinka}.'
+    glosses:
+    - verwoorden (formuleren)
+  'no':
+    place structure: x1 ytrer verbalt/sier/uttaler/artikulerer [lager lyd med stemmen]
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - artikulere
+    - uttale (si)
+  pl:
+    place structure: x1 wydaje/wyraża/wokalizuje dźwięk x2.
+    notes:
+    - Cf. {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
+    glosses:
+    - wokalizować
+    - wydawać (dźwięk)
+    - wyrażać (dźwięk)
+  sv:
+    place structure: x1 uttalar muntligt/säger/talar [producerar språkliga ljud/foner]
+      x2
+    notes:
+    - Även röster; förutsätter inte nödvändigtvis kommunikation eller lyssnare ("säger"
+      är oftast {cusku}. Se även {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
+    glosses:
+    - använda rösten
+    - muntlig
+    - tala (i telefon)
+    - telefonera
+    - uttala
+    - yttra
+    - x1=utsägare
+    - x1=uttalare
+    - x2=fon (språkljud)
+    - x2=yttrande
+  zh:
+    place structure: x1 说出(发声) x2
+    notes:
+    - 并不暗指存在交流或听众；参见 {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}
+    glosses:
+    - 说
+    - 说出
+    - x1=说话者
+    - x2=说话内容

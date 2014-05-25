@@ -1,6 +1,67 @@
-Word: nazbi
-Rafsi: naz, zbi
-Definition: 'x1 is the nose [body-part] of x2 with nostril(s)/nasal passage(s) x3;
-  [metaphor: protrusion].'
-Notes: Also (adjective:) nasal.  See also {degji}, {panci}, {sumne}, {tance}.
-Examples: None
+word: nazbi
+rafsi:
+- naz
+- zbi
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is the nose [body-part] of x2 with nostril(s)/nasal passage(s)
+      x3; [metaphor: protrusion].'
+    notes:
+    - Also (adjective:) nasal.  See also {degji}, {panci}, {sumne}, {tance}.
+    glosses:
+    - nose
+  de:
+    place structure: 'x1 ist die Nase [Körperteil] von x2 mit Nüstern/Nasenloch/Nasengang
+      x3; [im übertragenen Sinn: Vorsprung]'
+    notes:
+    - No notes.
+    glosses:
+    - Nase
+  es:
+    place structure: x1 es la nariz (parte del cuerpo) de x2 con agujeros x3
+    notes:
+    - No notes.
+    glosses:
+    - nariz
+  ru:
+    place structure: x1 — нос (часть тела) x2 с ноздрями x3
+    notes:
+    - 'Метафора: выступ {degji} (палец), {panci} (запах), {sumne} (обонять), {tance}
+      (язык [часть тела])'
+    glosses:
+    - нос
+    - x3=ноздря
+  en-simple:
+    place structure: x1 is the nose of x2 with nostrils x3
+    notes:
+    - No notes.
+    glosses:
+    - a nose
+    - x2=something with a nose
+    - x3=a nasal passage
+  eo:
+    place structure: 'x1 estas la nazo [korpoparto] de x2 kun naztruo(j) x3; [metafore:
+      elstaraĵo]'
+    notes:
+    - Vidu ankaŭ {degji}, {panci}, {sumne}, {tance}.
+    glosses:
+    - nazo
+  hu:
+    place structure: x1 az orra x2-nek, x3 orrjárat(okk)al
+    notes:
+    - '(Lásd még: {degji}, {panci}, {sumne}, {tance})'
+    glosses:
+    - orr
+  ja:
+    place structure: x1はx2の鼻で、鼻孔/鼻腔はx3である
+    notes:
+    - '参照: {degji}, {panci}, {sumne}, {tance}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的鼻（身体部位），带有通孔x3
+    notes:
+    - 也指：关于鼻的；参见 {degji}, {panci}, {sumne}, {tance}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,64 @@
-Word: sadjo
-Rafsi: djo
-Definition: x1 reflects Saudi Arabian culture/nationality in aspect x2.
-Notes: See also {xrabo}.
-Examples: None
+word: sadjo
+rafsi:
+- djo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Saudi Arabian culture/nationality in aspect x2.
+    notes:
+    - See also {xrabo}.
+    glosses:
+    - Saudi
+  de:
+    place structure: x1 repräsentiert saudi-arabische Kultur/Nationalität in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - saudi-arabisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma saudita/saudí en aspecto
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - saudita
+  ru:
+    place structure: x1 — саудовский (Саудовская Аравия) в аспекте x2
+    notes:
+    - '{xrabo} (арабский)'
+    glosses:
+    - саудовский (Саудовская Аравия)
+    - x1=саудовский (Саудовская Аравия)
+  en-simple:
+    place structure: x1 is Saudi Arabian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Saudi Arabian
+    - x2=a Saudi Arabian aspect
+  eo:
+    place structure: x1 montras saŭdaraban kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {xrabo}.
+    glosses:
+    - saŭdaraba
+  hu:
+    place structure: x1 szaúd-arábiai kultúrát/nemzetiséget tükröz x2 szempontból
+    notes:
+    - '(Lásd még: {xrabo})'
+    glosses:
+    - szaúd-arábiai
+  ja:
+    place structure: x1 は x2 （性質面）に関してサウジアラビア系（言語／文化／民族）
+    notes:
+    - ・大意： サウジアラビア ・読み方： サヂョ ・関連語： {xrabo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于沙特阿拉伯的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {xrabo}.
+    glosses:
+    - No glosses.

@@ -1,9 +1,88 @@
-Word: setca
-Rafsi: se'a
-Definition: x1 (agent) inserts/interposes/puts/deposits x2 into interior x3/into among/between
-  members of x3.
-Notes: Insertion need not imply a significant degree of 'filling'; inject (= {je'erse'a});
-  syringe/needle (= {se'arterje'e}, {je'erse'atci}, {jestu'u} or {tu'urjesni}); also
-  pour, inflate, stuff, fill.  See also {rinci}, {tisna}, {punji}, {jbini}, {nenri},
-  {jmina}, {culno}, {kunti}, {catlu}.
-Examples: None
+word: setca
+rafsi:
+- se'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) inserts/interposes/puts/deposits x2 into interior
+      x3/into among/between members of x3.
+    notes:
+    - Insertion need not imply a significant degree of 'filling'; inject (= {je'erse'a});
+      syringe/needle (= {se'arterje'e}, {je'erse'atci}, {jestu'u} or {tu'urjesni});
+      also pour, inflate, stuff, fill.  See also {rinci}, {tisna}, {punji}, {jbini},
+      {nenri}, {jmina}, {culno}, {kunti}, {catlu}.
+    glosses:
+    - insert
+  jbo:
+    place structure: x1 gasnu lo nu x2 nenri x3
+    notes:
+    - No notes.
+    glosses:
+    - setca
+  de:
+    place structure: x1 (Handelnder) fügt x2 ins Innere von x3/unter/zwischen Elementen
+      von x3 ein
+    notes:
+    - No notes.
+    glosses:
+    - einfügen
+  es:
+    place structure: x1 mete/inserta/embute/vierte x2 en x3
+    notes:
+    - Ver también {sakci},  {punji},  {tisna}.
+    glosses:
+    - meter
+  ru:
+    place structure: x1 вставляет/вводит/{сует/помещает/кладет} x2 внутрь x3/между
+      членами множества x3
+    notes:
+    - 'Не подразумевает «заполнения»; впрыскивать: {je''erse''a}; шприц: {se''arterje''e},
+      {je''erse''atci}, {jestu''u} или {tu''urjesni}; Также: наливать, надувать, заполнять
+      — {tisna} {rinci} (вытекать), {tisna} (наполняться), {punji} (класть), {jbini}
+      (между), {nenri} (внутри), {jmina} (добавлять), {culno} (полный [чего-либо]),
+      {kunti} (пустой), {catlu} (смотреть [на что-либо])'
+    glosses:
+    - вставлять в
+    - x1=вставляющий в
+  en-simple:
+    place structure: x1 inserts or puts x2 into x3
+    notes:
+    - No notes.
+    glosses:
+    - an inserter
+    - x2=something inserted
+    - x3=something inserted into
+  eo:
+    place structure: x1 (aganto) enmetas/enigas/intermetas/insertas x2-on en x3-on/inter
+      membrojn de x3                                                              6f  37     [inserto
+      ne nepre implicas signifan gradon de plenigo; injekti (= je'erse'a); injektilo
+      (= se'arterje'e, je'erse'atci, jestu'u aŭ tu'urjesni); ankaŭ verŝi, pufigi,
+      ŝveligi, remburi, farĉi, plenigi]; (kp. rinci, tisna, punji, jbini, nenri, jmina,
+      culno, kunti, catlu
+    notes:
+    - )
+    glosses:
+    - enmeti
+  hu:
+    place structure: x1 beteszi/behelyezi/bejuttatja x2-t x3 belsejébe/közé
+    notes:
+    - '(Lásd még: {rinci}, {tisna}, {punji}, {jbini}, {nenri}, {jmina}, {culno}, {kunti},
+      {catlu})'
+    glosses:
+    - betesz
+  ja:
+    place structure: x1 （者）は x2 を x3 に挿入する；  x2 は x3 に挟まれている
+    notes:
+    - ・大意： 挿入 ・読み方： セチャ ・語呂合わせ： 挿入させちゃう, insert,ca(挿) ・関連語： {rinci}, {tisna}, {punji},
+      {jbini}, {nenri}, {jmina}, {culno}, {kunti}, {catlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1将x2植入/置入/放入/插入x3的内部/其它成员x3之间
+    notes:
+    - 也指：塞满/填充/充满；但插入并不意味着会填满；注射= {je'erse'a}；注射器/针(= {se'arterje'e}, {je'erse'atci},
+      {jestu'u},{tu'urjesni}；参见 {rinci}, {tisna}, {punji}, {jbini}, {nenri}, {jmina},
+      {culno}, {kunti}, {catlu}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: dunra
-Rafsi: dur
-Definition: x1 is winter/wintertime [cold season] of year x2 at location x3.
-Notes: See also {citsi}, {crisa}, {critu}, {vensa}.
-Examples: None
+word: dunra
+rafsi:
+- dur
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is winter/wintertime [cold season] of year x2 at location
+      x3.
+    notes:
+    - See also {citsi}, {crisa}, {critu}, {vensa}.
+    glosses:
+    - winter
+  de:
+    place structure: x1 ist Winter [kalte Jahreszeit] von Jahr x2 in Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Winter
+  es:
+    place structure: x1 es el invierno/estación fría del año x2 en localidad x3
+    notes:
+    - Ver también {crisa},  {critu},  {vensa}.
+    glosses:
+    - invierno
+  ru:
+    place structure: x1 — зима (холодный сезон) года x2 в местности x3
+    notes:
+    - '{citsi} (сезон), {crisa} (лето), {critu} (осень), {vensa} (весна)'
+    glosses:
+    - x1=зима
+  en-simple:
+    place structure: x1 is winter of year x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a winter
+    - x2=a winter year
+    - x3=a winter location
+  eo:
+    place structure: x1 estas vintro [malvarma sezono] de jaro x2 en loko x3
+    notes:
+    - Vidu ankaŭ {citsi}, {crisa}, {critu}, {vensa}.
+    glosses:
+    - vintro
+  hu:
+    place structure: x1 a tél [hideg évszak] x2 évben, x3 helyen
+    notes:
+    - '(Lásd még: {citsi}, {crisa}, {critu}, {vensa})'
+    glosses:
+    - tél
+  ja:
+    place structure: x1 は x2 （年）・ x3 （所）の冬季
+    notes:
+    - ・大意： 冬 ・読み方： ドゥンラ  ・語呂合わせ： dun(冬), winter ・関連語： {citsi}, {crisa}, {critu}, {vensa}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är vinter/vintertid [kall säsong] av år x2 på plats x3.
+    notes:
+    - No notes.
+    glosses:
+    - vinter
+  zh:
+    place structure: x1是冬天/冬季（寒冷的季节），属于年份x2，地点x3
+    notes:
+    - 参见 {citsi}, {crisa}, {critu}, {vensa}.
+    glosses:
+    - No glosses.

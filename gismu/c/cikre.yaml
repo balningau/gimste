@@ -1,6 +1,80 @@
-Word: cikre
-Rafsi: ''
-Definition: x1 repairs/mends/fixes x2 for use x3.
-Notes: A repair may be incomplete, fixing only one of the possible uses of $x_2$,
-  hence $x_3$.  See also {cfila}, {spofu}.
-Examples: None
+word: cikre
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 repairs/mends/fixes x2 for use x3.
+    notes:
+    - A repair may be incomplete, fixing only one of the possible uses of x2, hence
+      x3.  See also {cfila}, {spofu}.
+    glosses:
+    - repair
+  de:
+    place structure: x1 repariert/flickt/setzt x2 (instand) für Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - reparieren
+  es:
+    place structure: x1 repara/arregla x2 para uso x3
+    notes:
+    - No notes.
+    glosses:
+    - reparar
+  ru:
+    place structure: x1 чинит/ремонтирует/востанавливает у x2 функциональность x3
+    notes:
+    - Ремонт м.б. частичным, затрагивая только некоторые функции x2, отсюда x3 {cfila}
+      (дефект), {spofu} (сломанный [испорченный, негодный])
+    glosses:
+    - чинить
+    - x1=чинящий
+    - x2=ремонтируемый
+  en-simple:
+    place structure: x1 repairs or mends x2 for use x3
+    notes:
+    - No notes.
+    glosses:
+    - a repairer
+    - x2=something repaired
+    - x3=a use for something repaired
+  eo:
+    place structure: x1 riparas/plibonigas x2-on por uzo x3
+    notes:
+    - Riparo povas esti nekompleta, riparante nur unu el la eblaj uzoj de x2, do x3.  Vidu
+      ankaŭ {cfila}, {spofu}.
+    glosses:
+    - ripari
+  hu:
+    place structure: x1 (meg)javítja/rendbe hozza x2-t x3 használatra [nem feltétlenül
+      teljesen]
+    notes:
+    - '(Lásd még: {cfila}, {spofu})'
+    glosses:
+    - javít
+  ja:
+    place structure: x1 は x2 を x3 （使用）のために修理／修復／修繕する／直す
+    notes:
+    - x3のための修理であり、完全な修復とはかぎらない。 ・大意： 修理 ・読み方： シクレ  ・語呂合わせ： 修理してくれ ・関連語： {cfila}, {spofu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reparerar/lagar/fixar x2 för användning/nytta x3.
+    notes:
+    - En reparation kan vara ofullständig (åtgärdar endast en del av x2 användningsområden),
+      därav x3.
+    glosses:
+    - fixa (reparera)
+    - laga (reparera)
+    - reparera
+    - x1=reparatör
+    - x2=lagningsobjekt (det som repareras)
+    - x3=reparationsåtgärd (användningsområde hos objekt som åtgärdas)
+  zh:
+    place structure: x1修理x2，为了用途x3
+    notes:
+    - 修理并不一定指完全的修复，也可能只是修复为了用途x3需要修复x2的一部分功能；参见 {cfila}, {spofu}.
+    glosses:
+    - No glosses.

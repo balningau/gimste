@@ -1,8 +1,77 @@
-Word: ritli
-Rafsi: ri'i
-Definition: x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in community
-  x3, with form/rules x4.
-Notes: '[also: $x_1$ is formal, Legal.  $x_1$ is ''going through the motions'']; $x_4$
-  constraints/customs; See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite},
-  {junri}.'
-Examples: None
+word: ritli
+rafsi:
+- ri'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in
+      community x3, with form/rules x4.
+    notes:
+    - '[also: x1 is formal, Legal.  x1 is ''going through the motions'']; x4 constraints/customs;
+      See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}.'
+    glosses:
+    - rite
+  de:
+    place structure: x1 ist ein Ritual/eine Zeremonie für Zweck/mit Ziel x2 nach Brauch/in
+      Gemeinschaft x3 in Form/mit Regeln x4
+    notes:
+    - No notes.
+    glosses:
+    - Ritual
+  es:
+    place structure: x1 es un rito/ceremonia/ritual/formal con propósito x2 en comunidad
+      x3 forma/reglas x4
+    notes:
+    - Ver también {flalu},  {javni}.
+    glosses:
+    - rito
+  ru:
+    place structure: x1 — ритуал/обряд/церемония с целью x2, по обычаю/в общине x3,
+      в форме/с правилами x4
+    notes:
+    - 'Также: x1 — формальный/{законный} {lijda} (религия), {malsi} (храм), {flalu}
+      (закон), {javni} (правило [предписание]), {tcaci} (обычай), {clite} (вежливый),
+      {junri} (серьезный)'
+    glosses:
+    - обряд
+    - x2=цель обряда
+    - x4=правила обряда
+  en-simple:
+    place structure: x1 is a ceremony or rite for purpose x2 by custom x3 with rules
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a ceremony
+    - x2=a purpose of a ceremony
+    - x3=a custom of a ceremony
+    - x4=a rule of a ceremony
+  eo:
+    place structure: x1 estas rito/ceremonio kun celo x2, laŭ kutimo/en komunumo x3,
+      kun formo/reguloj x4
+    notes:
+    - '(ankaŭ: x1 estas formala, Leĝa.  x1 estas rutina); x4 devigoj/kutimoj; Vidu
+      ankaŭ {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}.'
+    glosses:
+    - rito
+  hu:
+    place structure: x1 egy szertartás/ceremónia/rítus/rituálé/liturgia x2 célból,
+      x3 közösségben / hagyomány alapján, x4 formában/szabályokkal
+    notes:
+    - '(Lásd még: {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri})'
+    glosses:
+    - szertartás
+  ja:
+    place structure: x1 は x2 （目的）・ x3 （慣習／共同体）・ x4 （形態／規則）の儀式；  x1 は形式的／かしこまっている
+    notes:
+    - x4は「風紀」なども。 ・大意： 儀式 ・読み方： リトルィ  ・語呂合わせ： 刈り取り儀式 ・関連語： {lijda}, {malsi}, {flalu},
+      {javni}, {tcaci}, {clite}, {junri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是仪式/典礼，为了目的x2，基于传统x3/在社区x3中，具有形式/规则x4
+    notes:
+    - x4惯例/约束条件等；参见 {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}.
+    glosses:
+    - No glosses.

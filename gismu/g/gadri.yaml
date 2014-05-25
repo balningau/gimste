@@ -1,15 +1,114 @@
-Word: gadri
-Rafsi: gad
-Definition: x1 is an article/descriptor labelling description x2 (text) in language
-  x3 with semantics x4.
-Notes: '$x_2$ is the noun phrase/sumti without the article/descriptor; description
-  (($x_1$ with $x_2$) = gadysu''i); note: ''determiner'' has become the accepted general
-  linguistics term, displacing ''article''; however, ''determiner'' includes all words
-  that can introduce a noun phrase/sumti, whether a description or not, such as pronoun
-  possessives like lemi, quantifiers (especially in indefinites) like ci and su''o,
-  and demonstratives like ti, ta, and tu; the term ''descriptor'' in Lojban, is limited
-  to words that introduce descriptions (excluding indefinites), such as those of selma''o
-  LA and LE, their common compounds such as lemi, and possibly lenu.  ''article''
-  typically refers only to a single word; Lojban assumes the broader meaning] See
-  also {valsi}, {cmavo}.'
-Examples: None
+word: gadri
+rafsi:
+- gad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an article/descriptor labelling description x2 (text) in
+      language x3 with semantics x4.
+    notes:
+    - 'x2 is the noun phrase/sumti without the article/descriptor; description ((x1
+      with x2) = gadysu''i); note: ''determiner'' has become the accepted general
+      linguistics term, displacing ''article''; however, ''determiner'' includes all
+      words that can introduce a noun phrase/sumti, whether a description or not,
+      such as pronoun possessives like lemi, quantifiers (especially in indefinites)
+      like ci and su''o, and demonstratives like ti, ta, and tu; the term ''descriptor''
+      in Lojban, is limited to words that introduce descriptions (excluding indefinites),
+      such as those of selma''o LA and LE, their common compounds such as lemi, and
+      possibly lenu.  ''article'' typically refers only to a single word; Lojban assumes
+      the broader meaning] See also {valsi}, {cmavo}.'
+    glosses:
+    - article
+  de:
+    place structure: x1 ist ein Artikel/Deskriptor und kennzeichnet Beschreibung x2
+      (Text) in Sprache x3 mit Semantik x3
+    notes:
+    - No notes.
+    glosses:
+    - Artikel
+  es:
+    place structure: x1 es un artículo ante descripción x2 en oración x3, idioma x4,
+      semántica x5
+    notes:
+    - No notes.
+    glosses:
+    - artículo
+  ru:
+    place structure: x1 — gadri (артикль/дескриптор), маркирующий описание x2 (текст)
+      в языке x3, с семантикой x4
+    notes:
+    - 'x2 — sumti без gadri; описание (x1 вместе с x2): {gadysu''i}; в современной
+      лингвистике стал общепринятым термин «детерминатор», вытесняя «артикль»; однако
+      термин «детерминатор» включает любые слова, которые могут вводить именной оборот/sumti,
+      будь это описание или нет, такие как притяжательные местоимения, подобно {le}{mi},
+      указательные местоимения {ta}, {ti}, {tu}, или числительные (особенно, неопределенные)
+      как {ci} и {su''o}; в Ложбане термин «дескриптор» относится только к словам,
+      которые вводят описания (исключая неопределенные), такие как cmavo selma''o
+      selma''o {LA} и selma''o {LE}, образованные от них общеупотребительные сочетания,
+      напр. {le}{mi} и, возможно, {le}{nu}; «артикль» обычно относится к одному слову,
+      в Ложбане же принято более широкое толкование {valsi} (слово), {cmavo} ()'
+    glosses:
+    - артикль
+  en-simple:
+    place structure: x1 is an article labelling x2 in language x3 with semantics x4
+    notes:
+    - No notes.
+    glosses:
+    - an article
+    - x2=something labelled by an article
+    - x3=a language of an article
+    - x4=a semantic of an article
+  eo:
+    place structure: x1 estas artikolo/priskribilo etikedanta priskribon x2 (teksto)
+      en lingvo x3 kun semantiko x4
+    notes:
+    - 'x2 estas la substantivaĵo/sumti sen la artikolo/priskribilo; priskribo ((x1
+      kun x2) = gadysu''i); rimarku: ''determinilo'' fariĝis la akceptita ĝenerala
+      lingvika termino, anstataŭante ''artikolo''; tamen, ''determinilo'' inkluzivas
+      ĉiujn vortojn kiuj povas enkonduki substantivaĵon/sumti, ĉu priskribo aŭ ne,
+      kiel pronomaj posesivoj kiel lemi, kvantigiloj (precipe ĉe nedifinaĵoj) kiel
+      ci kaj su''o, kaj demonstrativoj kiel ti, ta, kaj tu; la termino ''priskribilo''
+      en loĵbano, estas limigita al vortoj kiuj enkondukas priskribojn (ekskludante
+      nedifinaĵojn), kiel tiuj de selma''o LA kaj LE, iliaj kutimaj kunmetaĵoj kiel
+      lemi, kaj eble lenu.  ''artikolo'' tipe aludas nur al unuopan vorton; loĵbano
+      alprenas la pli vastan sencon) Vidu ankaŭ {valsi}, {cmavo}.'
+    glosses:
+    - artikolo
+  hu:
+    place structure: x1 egy névelő, amely x2-t jelöli meg, x3 nyelvben, x4 jelentéssel
+    notes:
+    - '(Lásd még: {valsi}, {cmavo})'
+    glosses:
+    - névelő
+  ja:
+    place structure: x1 は x2 （修飾対象）・ x3 （言語）・ x4 （意味／機能）の冠詞／標識
+    notes:
+    - ・大意： 冠詞 ・読み方： ガドリ  ・語呂合わせ： guanci（冠詞）, article ・関連語： {valsi}, {cmavo}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en beskrivare (deskriptor)/artikel som anger beskrivning
+      av/bestämdhet till x2 (text) i språk x3 med semantik x4.
+    notes:
+    - 'x2 är substantivfrasen/sumti utan artikel/beskrivare; beskrivning ((x1 med
+      x2) = gadysu''i); notera: ''bestämmare'' har blivit den accepterade allmänna
+      lingvistiska termen, vilket ersätter ''artikel''; emellertid inkluderar ''bestämmare''
+      alla ord som kan inleda en substantivfras/sumti, oavsett om det är en beskrivning
+      eller inte, exv possessiva pronomen såsom lemi, kvantifierare (speciellt i obestämd
+      form) såsom ci och su''o, samt demonstrativa pronomen såsom ti, ta och tu; termen
+      ''beskrivare'' i Lojban, är dock begränsad till ord som inleder beskrivningar
+      (vilket utesluter obestämda), såsom de i selma''o LA och LE, deras vanliga sammansättningar
+      såsom lemi, och möjligen lenu. ''Artikel'' refererar vanligtvis endast till
+      ett enstaka ord; Lojban antar den bredare meningen. Se även {valsi}, {cmavo}.'
+    glosses:
+    - artikel (grammatik (eg beskrivare/descriptor))
+    - beskrivare (grammatik (eng descriptor))
+  zh:
+    place structure: x1是冠词，标记描述x2（文本），以语言x3，带有语义/含义x4
+    notes:
+    - x2是不带冠词的sumti/名词短语；带有冠词的描述= {gadysu'i}；注：“限定词”已成为语言学中可替换冠词的可用成分，但“限定词”包括所有能引入sumti/名词短语的词，不管其是不是冠词，比如：代词所有格（如lemi），数量词（尤其是不确定数量的，如
+      ci 和su'o），指示词（如：ti, ta, tu）； 逻辑语中的“冠词”只指能引入描述的词（如 selma'o LA 和 LE,以及它们的一些组合形式
+      lemi, 也可能有lenu）；“冠词”一般是指一个词，但逻辑语显然需要拓广后的含义；参见 {valsi}, {cmavo}.
+    glosses:
+    - No glosses.

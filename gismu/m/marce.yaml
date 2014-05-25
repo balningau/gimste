@@ -1,6 +1,74 @@
-Word: marce
-Rafsi: ma'e
-Definition: x1 is a vehicle/mode of transport carrying x2 in/on surface/medium x3,
-  propelled by x4.
-Notes: See also {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}.
-Examples: None
+word: marce
+rafsi:
+- ma'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a vehicle/mode of transport carrying x2 in/on surface/medium
+      x3, propelled by x4.
+    notes:
+    - See also {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}.
+    glosses:
+    - vehicle
+  de:
+    place structure: x1 ist ein Fahrzeug/Beförderungsmittel und befördert x2 auf Oberfläche/in
+      Medium x3, angetrieben von x4
+    notes:
+    - No notes.
+    glosses:
+    - Fahrzeug
+  es:
+    place structure: x1 es un vehículo/medio de transporte para llevar pasajeros/carga
+      x2 por superficie/medio x3, propelido por x4
+    notes:
+    - No notes.
+    glosses:
+    - vehículo
+  ru:
+    place structure: x1 — средство транспорта, перевозящее x2 по поверхности/в среде
+      x3, движимое x4 (чем)
+    notes:
+    - '{klama} (перемещаться), {matra} (мотор), {bevri} (нести), {bloti} (корабль),
+      {carce} (повозка), {karce} (автомобиль), {sabnu} (кабина), {skiji} (лыжа)'
+    glosses:
+    - транспортное средство
+    - x2=пассажир
+    - x3=поверхность для транспортного средства
+    - x4=двигатель транспортного, средства
+  en-simple:
+    place structure: x1 is a vehicle carrying x2 in or on x3 propelled by x4
+    notes:
+    - No notes.
+    glosses:
+    - a vehicle
+    - x2=something carried by a vehicle
+    - x3=a surface for a vehicle
+    - x4=a propulsion of a vehicle
+  eo:
+    place structure: x1 estas veturilo/vehiklo portanta x2-on sur surfaco/medio x3,
+      pelita de x4
+    notes:
+    - Vidu ankaŭ {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}.
+    glosses:
+    - veturilo
+  hu:
+    place structure: x1 egy jármű / szállítási mód x2 szállítására x3 felületen/közegben,
+      x4 meghajtással
+    notes:
+    - '(Lásd még: {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji})'
+    glosses:
+    - jármű
+  ja:
+    place structure: x1 は x2 を x3 （媒体）・ x4 （原動力）で運ぶ輸送機関／乗物
+    notes:
+    - 「車」や「飛行機」の上位概念。 ・大意： 輸送機関 ・読み方： マルシェ  ・関連語： {klama}, {matra}, {bevri}, {bloti},
+      {carce}, {karce}, {sabnu}, {skiji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是载具，运载x2，在表面/媒介x3上，由x4驱动
+    notes:
+    - 参见 {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}.
+    glosses:
+    - No glosses.

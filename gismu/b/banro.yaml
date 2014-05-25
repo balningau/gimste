@@ -1,7 +1,119 @@
-Word: banro
-Rafsi: ba'o
-Definition: x1 grows/expands [an increasing development] to size/into form x2 from
-  x3.
-Notes: Also rising, developing; $x_1$ gets bigger/enlarges/increases.  See also {farvi},
-  {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
-Examples: None
+word: banro
+rafsi:
+- ba'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 grows/expands [an increasing development] to size/into form
+      x2 from x3.
+    notes:
+    - Also rising, developing; x1 gets bigger/enlarges/increases.  See also {farvi},
+      {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
+    glosses:
+    - grow
+  jbo:
+    place structure: x1 zenba lo ka barda kei co'u lo nu x2 tarmi ja nilbra x1 kei
+      co'a lo nu x3 tarmi ja nilbra x1
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 wächst/expandiert/wird größer bis zu Größe/Form x2 aus x3
+      heraus
+    notes:
+    - No notes.
+    glosses:
+    - wachsen
+  es:
+    place structure: x1 crece/brota/se expande/se desarrolla a tamaño/forma x2 desde
+      x3
+    notes:
+    - Ver también {preja},  {farvi},  {zenba}.
+    glosses:
+    - crecer
+  fr:
+    place structure: x1 grandit/grossit/croît, atteignant la forme/taille x2 depuis
+      la forme/grandeur initiale x3
+    notes:
+    - Aussi "développer"; x1 devient plus large/plus grand/plus imposant [développement
+      croissant]. Voir également {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
+    glosses:
+    - croître
+    - grandir
+    - se développer
+  ru:
+    place structure: x1 растет/расширяется, приближаясь/стремясь к размеру/форме x2
+      от/из x3 (исходный размер/форма)
+    notes:
+    - 'Также: увеличивается, растягивается, развивается {farvi} (развиваться), {zenba}
+      (возрастать), {jmina} (добавлять), {barda} (большой), {makcu} (зрелый), {ferti}
+      (плодородный)'
+    glosses:
+    - расширяться
+    - x1=расширяющийся
+  en-simple:
+    place structure: x1 grows to size or into form x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a growing
+    - x2=a form after growth
+    - x3=a form before growth
+  eo:
+    place structure: x1 kreskas/etendiĝas [pliiĝanta evoluo] en grandecon/formon x2
+      disde x3
+    notes:
+    - 'Ankaŭ: leviĝi, evolui; x1 pligrandiĝas/pliiĝas.  Vidu ankaŭ {farvi}, {zenba},
+      {jmina}, {barda}, {makcu}, {ferti}.'
+    glosses:
+    - kreski
+  hu:
+    place structure: x1 megnő/elterjed x2 méretűre/formájúra x3 alapállapotból
+    notes:
+    - 'Használatos „fejlődik”, „fokozódik” értelemben is (Lásd még: {farvi}, {zenba},
+      {jmina}, {barda}, {makcu}, {ferti})'
+    glosses:
+    - megnő
+  ja:
+    place structure: x1 は x2 （結果）に x3 （始原）から育つ／育成する／成長する
+    notes:
+    - 「le spati cu banro ri'a lo nu do djacu dunda／あなたが水やりをするので、その植物が育つ」 ・大意： 育つ ・読み方：
+      バンロ  ・語呂合わせ： ＜晩のローズ＞, grow ・関連語： {farvi}, {zenba}, {jmina}, {barda}, {makcu},
+      {ferti}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 vokser/ekspanderer/blir større [en økende utvikling] til størrelse/form
+      x2 fra x3
+    notes:
+    - Også stigning, utvikling; x1 blir større; Se også {farvi}, {zenba}, {jmina},
+      {barda}, {makcu}, {ferti}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 växer/expanderar [en ökande utveckling] till storlek/form
+      x2 från x3.
+    notes:
+    - Även öka i storlek,växa,bli större,förstoras,utöka,expandera,
+    - '[utvidga],ta sig (vard.), utvecklas. Se även {farvi}, {zenba}, {jmina}, {barda},
+      {makcu}, {ferti}.'
+    glosses:
+    - bli större
+    - expandera
+    - förstoras
+    - ta sig
+    - utvecklas
+    - utöka (expandera)
+    - växa
+    - öka (öka i storlek/form)
+    - x1=växer (inte agent)
+    - x2=färdigväxt (slutlig storlek/form)
+    - x3=vuxit från (ursprunglig storlek/form)
+  zh:
+    place structure: x1成长/扩张到规模/面积/大小x2，由原规模/面积/大小x3
+    notes:
+    - 也指：上升/发展；参见{farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}
+    glosses:
+    - No glosses.

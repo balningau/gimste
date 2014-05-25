@@ -1,5 +1,62 @@
-Word: trati
-Rafsi: ''
-Definition: x1 is taut/tense/strained tight in direction x2.
-Notes: See also {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
-Examples: None
+word: trati
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is taut/tense/strained tight in direction x2.
+    notes:
+    - See also {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
+    glosses:
+    - taut
+  de:
+    place structure: x1 ist straff/stramm/(an)gespannt in Richtung x2
+    notes:
+    - No notes.
+    glosses:
+    - straff
+  es:
+    place structure: x1 es tenso/tirante en dirección x2
+    notes:
+    - Ver también {tagji},  {tcena}.
+    glosses:
+    - tenso
+  ru:
+    place structure: x1 туго натянут/напряжен в направлении x2
+    notes:
+    - '{tinsa} (жесткий), {torni} (скручиваться), {tagji} (облегать [тесно]), {tcena}
+      (растягиваться), {kluza} (облегать [свободно])'
+    glosses:
+    - x1=натянутый
+  en-simple:
+    place structure: x1 is taut in direction x2
+    notes:
+    - No notes.
+    glosses:
+    - something taut
+    - x2=a direction of tautness
+  eo:
+    place structure: x1 estas streĉita en direkto x2
+    notes:
+    - Vidu ankaŭ {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
+    glosses:
+    - streĉita
+  hu:
+    place structure: x1 feszes x2 irányban
+    notes:
+    - '(Lásd még: {tinsa}, {torni}, {tagji}, {tcena}, {kluza})'
+    glosses:
+    - feszes
+  ja:
+    place structure: x1 は x2 （方向）に張っている
+    notes:
+    - ・大意： 張る ・読み方： トラティ  ・関連語： {tinsa}, {torni}, {tagji}, {tcena}, {kluza}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是紧绷的/绷紧的/拉紧的，在方向x2上
+    notes:
+    - 参见 {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
+    glosses:
+    - No glosses.

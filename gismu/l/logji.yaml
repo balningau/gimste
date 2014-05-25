@@ -1,6 +1,69 @@
-Word: logji
-Rafsi: loj
-Definition: x1 [rules/methods] is a logic for deducing/concluding/inferring/reasoning
-  to/about x2 (du'u).
-Notes: Also (adjective:) $x_1$, $x_2$ are logical.  See also {nibli}.
-Examples: None
+word: logji
+rafsi:
+- loj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [rules/methods] is a logic for deducing/concluding/inferring/reasoning
+      to/about x2 (du'u).
+    notes:
+    - Also (adjective:) x1, x2 are logical.  See also {nibli}.
+    glosses:
+    - logic
+  de:
+    place structure: x1 [Regeln/Methoden] ist eine Logik zum ableiten/folgern/begründen/schließen
+      von/über x2 (du'u)
+    notes:
+    - No notes.
+    glosses:
+    - Logik
+  es:
+    place structure: x1 es una lógica para deducir/concluir/inferir/razonar sobre
+      x2 (du'u)
+    notes:
+    - No notes.
+    glosses:
+    - lógica
+  ru:
+    place structure: x1 (правила/методы) — логика для дедукции/умозаключений/выводов/рассуждений
+      о x2 ({du'u})
+    notes:
+    - 'Прилагательное: x1/x2 — логические/логичные {nibli} (влечь [логически])'
+    glosses:
+    - логика
+  en-simple:
+    place structure: x1 is a logic for reasoning about x2
+    notes:
+    - Only for logical implications. In colloquial speech "logical" often means {racli}
+      - 'sane'.
+    glosses:
+    - a logic system
+    - x1=logic system
+    - x2=something reasoned about with logic
+  eo:
+    place structure: x1 [reguloj/metodoj] estas logiko por dedukti/konkludi/rezoni
+      pri x2 (du'u)
+    notes:
+    - 'Ankaŭ: (adjektivo:) x1, x2 estas logika.  Vidu ankaŭ {nibli}.'
+    glosses:
+    - logiko
+  hu:
+    place structure: x1 [szabályrendszer] egy logika x2 kikövetkeztetésére/levezetésére/bizonyítására/mellett
+      való érvelésre
+    notes:
+    - '(Lásd még: {nibli})'
+    glosses:
+    - logika
+  ja:
+    place structure: x1 （原理／法則）は x2 （命題）を演繹／結論／推察するところの論理；  x2 は論理的
+    notes:
+    - ・大意： 論理 ・読み方： ルォグジ  ・関連語： {nibli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（规则/方法）是用以解释/概括/推论x2（du'u）的逻辑
+    notes:
+    - x1, x2关于逻辑的；参见 {nibli}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,62 @@
-Word: porpi
-Rafsi: pop, po'i
-Definition: x1 breaks/fractures/shatters/[splits/splinters/cracks] into pieces x2.
-Notes: See also {xrani}, {spofu}, se {katna}.
-Examples: None
+word: porpi
+rafsi:
+- pop
+- po'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 breaks/fractures/shatters/[splits/splinters/cracks] into pieces
+      x2.
+    notes:
+    - See also {xrani}, {spofu}, se {katna}.
+    glosses:
+    - break
+  de:
+    place structure: x1 zerbricht/zerschmettert/zerspringt/[spaltet sich/platzt] in
+      Teile x2
+    notes:
+    - No notes.
+    glosses:
+    - zerbrechen
+  es:
+    place structure: x1 se rompe/fractura/deshace en pedazos x2
+    notes:
+    - Ver también {spoja},  {spofu}.
+    glosses:
+    - romperse
+  ru:
+    place structure: x1 разваливается/распадается/раскалывается/разламывается на части
+      x2
+    notes:
+    - '{xrani} (вредить), {spofu} (сломанный [испорченный, негодный]), {se} {katna}
+      (разрезать)'
+    glosses:
+    - разваливаться
+    - x1=разваливающийся
+    - x2=части, на которые расзваливается
+  en-simple:
+    place structure: x1 breaks or shatters into pieces x2
+    notes:
+    - No notes.
+    glosses:
+    - something broken
+    - x2=a piece of something broken
+  hu:
+    place structure: x1 szét-/össze-/eltörik/-hasad x2 darabokra/szilánkokra
+    notes:
+    - '(Lásd még: {xrani}, {spofu}, {katna})'
+    glosses:
+    - törik
+  ja:
+    place structure: x1 は砕けて／壊れて x2 （破片）になる
+    notes:
+    - ・大意： 砕ける ・読み方： ポルピ  ・関連語： {xrani}, {spofu}, {se} {katna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1破裂/碎裂/粉裂成碎片/碎块x2
+    notes:
+    - 参见 {xrani}, {spofu}, se {katna}.
+    glosses:
+    - No glosses.

@@ -1,8 +1,78 @@
-Word: jalra
-Rafsi: ''
-Definition: x1 is a cockroach/orthopteran/termite of order/species/breed x2.
-Notes: Also grasshopper (= {pipyjalra});  cricket (= {sagjalra}); locust, termite
-  (= {mantyjalra} or {mudyctijalra}).  (Orthoptera includes grasshoppers, crickets,
-  etc; termites are a closely-related non-Orthoptera, more akin to cockroaches than
-  to e.g. ants); See also {cinki}, {civla}, {manti}.
-Examples: None
+word: jalra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cockroach/orthopteran/termite of order/species/breed
+      x2.
+    notes:
+    - Also grasshopper (= {pipyjalra});  cricket (= {sagjalra}); locust, termite (=
+      {mantyjalra} or {mudyctijalra}).  (Orthoptera includes grasshoppers, crickets,
+      etc; termites are a closely-related non-Orthoptera, more akin to cockroaches
+      than to e.g. ants); See also {cinki}, {civla}, {manti}.
+    glosses:
+    - cockroach
+    - termite
+  de:
+    place structure: x1 ist eine Schabe/Küchenschabe/Kakerlake/[Termite] von Art/Gattung
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Schabe
+  es:
+    place structure: x1 es una cucaracha de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - cucaracha
+  ru:
+    place structure: x1 — таракан/насекомое отряда прямокрылых/термит отряда/вида/разновидности
+      x2
+    notes:
+    - 'Также: кузнечик: {pipyjalra}; сверчок: {sagjalra}; саранча; термит: {mantyjalra}
+      или {mudyctijalra}; хотя тараканы образуют самостоятельный отряд, они близки
+      к прямокрылым (Orthoptera), включающим кузнечиков, сверчков и т.п.; термиты
+      образуют еще один близкий отряд, они ближе к тараканам, чем, напр., к муравьям
+      {cinki} (насекомое), {civla} (вошь), {manti} (муравей)'
+    glosses:
+    - x1=таракан
+  en-simple:
+    place structure: x1 is a cockroach of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a cockroach
+    - x2=a species of cockroach
+  eo:
+    place structure: x1 estas blato/[ortoptero/termito] de klaso/speco/raso x2
+    notes:
+    - 'Ankaŭ: akrido (= {pipyjalra}); grilo (= {sagjalra}); lokusto/termito (= mantyjalra
+      aŭ mudyctijalra).  (dum blatoj mem konsistigas ordon, ili estas parto de la
+      ortopteroj, kiuj inkluzivas akridojn, grilojn, ktp.; termitoj estas proksimaj
+      ne-ortopteroj, pli similaj al blatoj ol al ekz. formikoj); Vidu ankaŭ {cinki},
+      {civla}, {manti}.'
+    glosses:
+    - blato
+  hu:
+    place structure: x1 egy csótány/egyéb egyenesszárnyú rovar / termesz [Orthoptera,
+      ill. Isoptera rend], az x2 rendből/fajból/fajtából
+    notes:
+    - '(Lásd még: {cinki}, {civla}, {manti})'
+    glosses:
+    - csótány
+  ja:
+    place structure: x1 は x2 （種類）のバッタ目昆虫（バッタ／キリギリス／コオロギ／ケラ／カマドウマ／カマキリ／ナナフシ／ゴキブリ／ガロアムシ／イナゴ／スズムシ等）
+    notes:
+    - ・大意： バッタ ・読み方： ジャルゥラ  ・関連語： {cinki}, {civla}, {manti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是直翅类昆虫，属于品种/种类x2；如：蟑螂
+    notes:
+    - 蝗虫/蚱蜢= {pipyjalra}；蟋蟀= {sagjalra}；白蚁= {mantyjalra}/{mudyctijalra}；（直翅目昆虫包括蟋蟀/蚱蜢等，白蚁（等翅目）与直翅目昆虫很接近，但并不属于直翅目）；参见
+      {cinki}, {civla}, {manti}.
+    glosses:
+    - No glosses.

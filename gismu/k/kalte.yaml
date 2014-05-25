@@ -1,5 +1,64 @@
-Word: kalte
-Rafsi: kat
-Definition: x1 hunts/stalks prey/quarry/game x2 for purpose x3.
-Notes: 'Also verb: to fish (= {fipkalte}).  See also {jersi}, {kavbu}, {sisku}, {rivbi}.'
-Examples: None
+word: kalte
+rafsi:
+- kat
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hunts/stalks prey/quarry/game x2 for purpose x3.
+    notes:
+    - 'Also verb: to fish (= {fipkalte}).  See also {jersi}, {kavbu}, {sisku}, {rivbi}.'
+    glosses:
+    - hunt
+  de:
+    place structure: x1 jagt/pirscht sich Beute/Opfer/Wild x2 an, für Zweck x3
+    notes:
+    - No notes.
+    glosses:
+    - jagen
+  es:
+    place structure: x1 caza/persigue a presa x2 con propósito x3
+    notes:
+    - Ver también {sisku}.
+    glosses:
+    - cazar
+  ru:
+    place structure: x1 охотится на/промышляет дичь x2 с целью x3
+    notes:
+    - 'Охотник: {katpre}; рыбачить: {fipkalte}; рыбак: {fipkatpre} {jersi} (преследовать),
+      {kavbu} (ловить), {sisku} (искать), {rivbi} (избегать [участи])'
+    glosses:
+    - охотиться на
+    - x1=охотящийся на
+  en-simple:
+    place structure: x1 hunts prey x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - a hunter
+    - x2=somethuing hunted
+    - x3=a purpose of a hunt
+  eo:
+    place structure: x1 chasas viktimon/ĉasaĵon x2 por celo x3
+    notes:
+    - Fiŝkapti (= {fipkalte}).  Vidu ankaŭ {jersi}, {kavbu}, {sisku}, {rivbi}.
+    glosses:
+    - ĉasi
+  hu:
+    place structure: x1 vadászik x2-re, x3 célból
+    notes:
+    - '(Lásd még: {jersi}, {kavbu}, {sisku}, {rivbi})'
+    glosses:
+    - vadászik
+  ja:
+    place structure: x1 は x2 を x3 （目的）のために狩る；  x1 は狩猟者
+    notes:
+    - ・大意： 狩る ・読み方： カルゥテ  ・語呂合わせ： 狩るて ・関連語： {jersi}, {kavbu}, {sisku}, {rivbi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1狩猎/搜寻/追踪猎物/目标x2，为了目的x3
+    notes:
+    - 钓鱼/捕鱼= {fipkalte}；参见 {jersi}, {kavbu}, {sisku}, {rivbi}.
+    glosses:
+    - No glosses.

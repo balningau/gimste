@@ -1,8 +1,134 @@
-Word: benji
-Rafsi: bej, be'i
-Definition: x1 transfers/sends/transmits x2 to receiver x3 from transmitter/origin
-  x4 via means/medium x5.
-Notes: Also possibly "sharing"; no (complete) alienation from origin is implied.  x5
-  carrier.  See also {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni},
-  {preja}, cmavo list {be'i}, {bevri}, {mrilu}, {tcana}.
-Examples: None
+word: benji
+rafsi:
+- bej
+- be'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 transfers/sends/transmits x2 to receiver x3 from transmitter/origin
+      x4 via means/medium x5.
+    notes:
+    - Also possibly "sharing"; no (complete) alienation from origin is implied.  x5
+      carrier.  See also {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni},
+      {preja}, cmavo list {be'i}, {bevri}, {mrilu}, {tcana}.
+    glosses:
+    - send
+    - transfer
+  jbo:
+    place structure: 'x1 pilno x5 lo nu x2 se cpacu x3 boi x4 '
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 überträgt/versendet/übermittelt/schickt x2 an Empfänger/Ziel
+      x3 von Absender/Quelle/Ursprung x4 über Mittel/Medium x5
+    notes:
+    - No notes.
+    glosses:
+    - versenden
+  es:
+    place structure: x1 transfiere/manda/transmite/envía x2 a receptor x3 desde transmisor/origen
+      x4 por medio x5
+    notes:
+    - Ver también {mrilu}.
+    glosses:
+    - transferir
+  fr:
+    place structure: x1 transfère/transmet/envoie x2 à x3, d'origine x4 par moyen/média
+      x5.
+    notes:
+    - Aussi "partager". Aucune alienation (complète) aliénation de l'origine indiquée
+      est impliquée. x5 "porteur". Voir également {muvdu}, {dunda}, {mrilu}, {nirna},
+      {xruti}, {cradi}, {tivni}, {preja}, {be'i}, {bevri}, {mrilu}, {tcana}.
+    glosses:
+    - envoyer
+    - transférer
+    - transmettre
+  ru:
+    place structure: x1 передает/посылает x2 (сообщение/груз) получателю/приемнику
+      x3 с передатчика/источника x4 посредством (носителя/среды) x5
+    notes:
+    - 'Также: делится, распространяет; не предполагается (полное) отчуждение от источника/
+      x5 - носитель. См. также {muvdu} (двигаться), {dunda} (давать), {mrilu} (посылать),
+      {nirna} (нерв), {xruti} (возвращать), {cradi} (радио), {tivni} (телевещание),
+      {preja} (простираться [до чего-либо]), {be''i}, {bevri} (нести), {mrilu} (посылать),
+      {tcana} (станция)'
+    glosses:
+    - передавать
+    - x1=передающий
+    - x2=передаваемое
+    - x3=получатель
+    - x5=носитель передаваемого
+  en-simple:
+    place structure: x1 transmits x2 to receiver x3 from origin x4 via x5
+    notes:
+    - No notes.
+    glosses:
+    - a transmitter
+    - x2=something transmitted
+    - x3=a transmission receiver
+    - x4=origin of a transmission
+    - x5=a method of transmission
+  eo:
+    place structure: x1 sendas/transigas/transdonas/transmetas x2-on al ricevanto
+      x3 el origino/deveno x4 pere de x5
+    notes:
+    - Aliproprigado el deveno ne estas implicita.  x5 portilo.  Vidu ankaŭ {muvdu},
+      {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, {cmavobe'i},
+      {bevri}, {mrilu}, {tcana}.
+    glosses:
+    - sendi
+  hu:
+    place structure: x1 elküldi x2-t [tárgy] x3-hoz, x4 származási helyről, x5 úton/módon
+    notes:
+    - 'Nem feltétlenül utal teljes elszakadásra a származási helytől, használható
+      „megoszt” értelemben is (Lásd még: {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti},
+      {cradi}, {tivni}, {preja}, {bevri}, {mrilu}, {tcana})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は x2 を x3 （受け手）に x4 （起源／送信元）から x5 （方法／媒体）によって送る／届ける
+    notes:
+    - ［起源からの完全な断絶は含意されず、 x2 の共有状態がありえる。］ ・大意： 送る ・読み方： ベンジ  ・語呂合わせ： ベンジン送れ,  send
+      ・関連語： {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja},
+      {be'i}, {bevri}, {mrilu}, {tcana}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 overfører/sender x2 til mottaker x3 fra sender/kilde x4 via
+      vis/måte/medium x5
+    notes:
+    - Også mulig "deling"; ingen (komplett) fremmedgjøring fra kilde er implisert.
+      Se også {muvdu}, {dunda}, {vecnu}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni},
+      {preja}, {bevri}, {mrilu}, {tcana}, {fukpi}, {cusku}, {be'i}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 överför/sänder/skickar/sänder ut/transmitterar x2 till mottagare
+      x3 från sändare/ursprung x4 via medel/medium x5.
+    notes:
+    - Även möjligen "delning"; förutsätter inte ett (fullständigt) fjärmande från
+      ursprunget. Se även {muvdu}, {dunda}, {vecnu}, {mrilu}, {nirna}, {xruti}, {cradi},
+      {tivni}, {preja}, {bevri}, {mrilu}, {tcana}, {fukpi}, {cusku}, {be'i}.
+    glosses:
+    - skicka
+    - sända
+    - sända ut
+    - sändningsmottagare
+    - transmittera
+    - överföra
+    - överföring
+    - x1=sändare
+    - x2=sändning (det som sänds)
+    - x3=sändningsdestination
+    - x4=sändningsursprung
+    - x5=medium (sändningsmedel)
+  zh:
+    place structure: x1赠送/传递/发送/传送x2给接受者x3，来源于x4，通过方法/媒介/载体x5
+    notes:
+    - 也指“分享”；不暗示所有权的转移；参见 {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni},
+      {preja}, {be'i}, {bevri}, {mrilu}, {tcana}
+    glosses:
+    - No glosses.

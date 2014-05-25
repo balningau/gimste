@@ -1,5 +1,74 @@
-Word: critu
-Rafsi: ''
-Definition: x1 is autumn/fall [harvest/cooling season] of year x2 at location x3.
-Notes: See also {citsi}, {crisa}, {dunra}, {vensa}, {crepu}.
-Examples: None
+word: critu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is autumn/fall [harvest/cooling season] of year x2 at location
+      x3.
+    notes:
+    - See also {citsi}, {crisa}, {dunra}, {vensa}, {crepu}.
+    glosses:
+    - autumn
+  de:
+    place structure: x1 ist ein/der Herbst [Erntezeit/abkühlende Jahreszeit] von Jahr
+      x2 in Ort x3
+    notes:
+    - No notes.
+    glosses:
+    - Herbst
+  es:
+    place structure: x1 es el otoño/estación de cosecha del año x2 en localidad x3
+    notes:
+    - Ver también {crisa},  {dunra},  {vensa}.
+    glosses:
+    - otoño
+  ru:
+    place structure: x1 — осень (сезон сбора урожая/похолодания) года x2 в местности
+      x3
+    notes:
+    - '{citsi} (сезон), {crisa} (лето), {dunra} (зима), {vensa} (весна), {crepu} (собирать
+      [урожай])'
+    glosses:
+    - x1=осень
+  en-simple:
+    place structure: x1 is autumn of year x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - an autumn
+    - x2=an autumn's year
+    - x3=an autumn's location
+  eo:
+    place structure: x1 estas aŭtuno [rikolt-/malvarmiĝanta sezono] de jaro x2 en
+      loko x3
+    notes:
+    - Vidu ankaŭ {citsi}, {crisa}, {dunra}, {vensa}, {crepu}.
+    glosses:
+    - aŭtuno
+  hu:
+    place structure: x1 az ősz [aratószezon] x2 évben, x3 helyen
+    notes:
+    - '(Lásd még: {citsi}, {crisa}, {dunra}, {vensa}, {crepu})'
+    glosses:
+    - ősz
+  ja:
+    place structure: x1 は x2 （年）・ x3 （所）の秋季
+    notes:
+    - ・大意： 秋 ・読み方： シリトゥ ・語呂合わせ： 私立, cieu(秋), autumn　 ・関連語： {citsi}, {crisa}, {dunra},
+      {vensa}, {crepu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är höst [skörde-/avsvalnande säsong] av år x2 på plats x3.
+    notes:
+    - No notes.
+    glosses:
+    - höst
+  zh:
+    place structure: x1是秋天/秋季（丰收/变冷的季节），属于年份x2，位置x3
+    notes:
+    - 参见 {citsi}, {crisa}, {dunra}, {vensa}, {crepu}.
+    glosses:
+    - No glosses.

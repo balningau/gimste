@@ -1,7 +1,83 @@
-Word: galtu
-Rafsi: gal, ga'u
-Definition: x1 is high/up/upward in frame of reference x2 as compared with baseline/standard
-  height x3.
-Notes: Also upper; $x_3$ is generally some defined distance above a zero point/baseline,
-  or is that baseline itself.  See also {gapru}, {dizlo}, {cnita}, {drudi}, {farna}.
-Examples: None
+word: galtu
+rafsi:
+- gal
+- ga'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is high/up/upward in frame of reference x2 as compared with
+      baseline/standard height x3.
+    notes:
+    - Also upper; x3 is generally some defined distance above a zero point/baseline,
+      or is that baseline itself.  See also {gapru}, {dizlo}, {cnita}, {drudi}, {farna}.
+    glosses:
+    - high
+  de:
+    place structure: x1 ist hoch/oben in Bezugssystem x2 vergleichen mit Grundlinie/Bezugspunkt/Standardhöhe
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - hoch
+  es:
+    place structure: x1 esta alto/arriba/elevado en marco de referencia x2 comparado
+      con estándar x3
+    notes:
+    - Ver también {dizlo},  {gapru}.
+    glosses:
+    - alto
+  ru:
+    place structure: x1 находится высоко/вверху в системе отсчета x2 по сравнению
+      со стандартным уровнем x3
+    notes:
+    - 'Также: верхний; x3 — обычно некое расстояние вверх от нулевого уровня, или
+      сам нулевой уровень {gapru} (над), {dizlo} (низкий), {cnita} (под), {drudi}
+      (крыша), {farna} (направление)'
+    glosses:
+    - вверху
+  en-simple:
+    place structure: x1 is high in reference frame x2 compared with x3
+    notes:
+    - No notes.
+    glosses:
+    - a high
+    - x2=a height frame of reference
+    - x3=a standard of height
+  eo:
+    place structure: x1 estas alta/supra/suprena en referenckadro x2 kompare kun bazo/norma
+      alto x3
+    notes:
+    - x3 estas ĝenerale iu difinita distanco super baznivelo, aŭ estas tiu baznivelo
+      mem.  Vidu ankaŭ {gapru}, {dizlo}, {cnita}, {drudi}, {farna}.
+    glosses:
+    - alta
+  hu:
+    place structure: x1 magas(an van) x2 vonatkoztatási rendszerben, x3-hoz viszonyítva
+    notes:
+    - '(Lásd még: {gapru}, {dizlo}, {cnita}, {drudi}, {farna})'
+    glosses:
+    - magas
+  ja:
+    place structure: x1 は x2 （照合枠）・ x3 （基点）において高い
+    notes:
+    - ・大意： 高い ・読み方： ガルゥトゥ  ・関連語： {gapru}, {dizlo}, {cnita}, {drudi}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är hög/upp/uppåt i referensram x2 jämfört med baslinje/standardhöjde
+      x3.
+    notes:
+    - Även övre; x3 definieras generellt som sträckan ovanför en nollpunkt/baslinje,
+      eller är själva baslinjen.
+    glosses:
+    - hög (adjektiv)
+    - upp
+    - uppåt
+    - övre
+  zh:
+    place structure: x1是高的/向上的/上面的，在参考结构x2中，与基准线/标准/参照物x3比较
+    notes:
+    - 也指：上面的/较高的；参见 {gapru}, {dizlo}, {cnita}, {drudi}, {farna}.
+    glosses:
+    - No glosses.

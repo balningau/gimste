@@ -1,6 +1,65 @@
-Word: sodna
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of alkali metal of type x2 [default
-  sodium].
-Notes: Also potassium, lithium, cesium.  Soda. See also {jilka}, {jinme}.
-Examples: None
+word: sodna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of alkali metal of type
+      x2 [default sodium].
+    notes:
+    - Also potassium, lithium, cesium.  Soda. See also {jilka}, {jinme}.
+    glosses:
+    - sodium
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Alkalimetall von Typ
+      x2 [Default: Natrium]'
+    notes:
+    - No notes.
+    glosses:
+    - Natrium
+  es:
+    place structure: x1 es una cantidad de metal alcalino (litio/potasio/cesio)
+    notes:
+    - No notes.
+    glosses:
+    - sodio
+  ru:
+    place structure: x1 — щелочной металл типа x2; x1 содержит щелочной металл типа
+      x2 (по умолчанию натрий)
+    notes:
+    - 'Также: калий, литий, цезий {jilka} (щелочь), {jinme} (металл)'
+    glosses:
+    - щелочной металл
+  en-simple:
+    place structure: x1 is a quantity of alkali metal of type x2
+    notes:
+    - No notes.
+    glosses:
+    - x2=a type of alkali
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el alkalia metalo de tipo
+      x2 [defaŭlte natrio]
+    notes:
+    - 'Ankaŭ: kalio, litio, cesio.  Sodo. Vidu ankaŭ {jilka}, {jinme}.'
+    glosses:
+    - natrio
+  hu:
+    place structure: x1 bizonyos mennyiségű alkálifém (-et tartalmaz/-ből készült)
+      az x2 típusból [alapesetben nátrium]
+    notes:
+    - '(Lásd még: {jilka}, {jinme})'
+    glosses:
+    - nátrium
+  ja:
+    place structure: x1 は x2 （種類）のアルカリ金属（リチウム／ナトリウム／カリウム／ルビジウム／セシウム／フランシウム）
+    notes:
+    - 白色の軟らかく軽い金属。空気中では光沢を失う。 ・大意： アルカリ金属 ・読み方： ソドナ  ・関連語： {jilka}, {jinme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是碱金属，具体为x2（默认为：钠）
+    notes:
+    - 也指：锂，钾，铯等；参见 {jilka}, {jinme}.
+    glosses:
+    - No glosses.

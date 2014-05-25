@@ -1,5 +1,66 @@
-Word: kerfa
-Rafsi: kre
-Definition: x1 is a/the hair/fur [body-part] of x2 at body location x3.
-Notes: See also {skapi}, {sunla}, {pimlu}.
-Examples: None
+word: kerfa
+rafsi:
+- kre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the hair/fur [body-part] of x2 at body location x3.
+    notes:
+    - See also {skapi}, {sunla}, {pimlu}.
+    glosses:
+    - hair
+  de:
+    place structure: x1 ist ein/das Haar/Fell [Körperteil] von x2 an Körperstelle
+      x3.
+    notes:
+    - Siehe auch {skapi}, {sunla}, {pimlu}.
+    glosses:
+    - Haar
+  es:
+    place structure: x1 es un pelo/cabello (parte del cuerpo) de x2 en parte/lugar
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - pelo
+  ru:
+    place structure: x1 — волос/волосы/шерсть/мех (часть тела) x2 на участке тела
+      x3
+    notes:
+    - '{skapi} (кожа), {sunla} (шерсть), {pimlu} (перо)'
+    glosses:
+    - волос
+    - x3=участок, покрытый волосами
+  en-simple:
+    place structure: x1 is hair of x2 at x3
+    notes:
+    - No notes.
+    glosses:
+    - hair
+    - x2=something with hair
+    - x3=a location of hair
+  eo:
+    place structure: x1 estas har(ar)o/felo [korpoparto] de x2 je korpa loko x3
+    notes:
+    - Vidu ankaŭ {skapi}, {sunla}, {pimlu}.
+    glosses:
+    - haro
+  hu:
+    place structure: x1 egy szál haj/szőr x2 testének x3 részén
+    notes:
+    - '(Lásd még: {skapi}, {sunla}, {pimlu})'
+    glosses:
+    - hajszál/szőrszál
+  ja:
+    place structure: x1 は x2 （本体）・ x3 （箇所）の毛／髪
+    notes:
+    - ・大意： 毛 ・読み方： ケルファ  ・語呂合わせ： 毛る ・関連語： {skapi}, {sunla}, {pimlu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的毛发/皮毛/头发，处于身体位置x3
+    notes:
+    - 参见 {skapi}, {sunla}, {pimlu}.
+    glosses:
+    - No glosses.

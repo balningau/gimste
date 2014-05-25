@@ -1,6 +1,71 @@
-Word: frumu
-Rafsi: fru
-Definition: x1 frowns/grimaces (facial expression).
-Notes: $x_1$ frowns/grimaces at/in reaction to $x_2$ (= {frufra}).  See also {cmila},
-  {cisma}.
-Examples: None
+word: frumu
+rafsi:
+- fru
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 frowns/grimaces (facial expression).
+    notes:
+    - x1 frowns/grimaces at/in reaction to x2 (= {frufra}).  See also {cmila}, {cisma}.
+    glosses:
+    - frown
+  de:
+    place structure: x1 runzelt die Stirn/zieht eine Grimasse/zieht die Augenbrauen
+      zusammen (Gesichtsausdruck)
+    notes:
+    - No notes.
+    glosses:
+    - Grimasse
+  es:
+    place structure: x1 frunce el ceño/entrecejo/hace muecas
+    notes:
+    - Ver también {cisma}.
+    glosses:
+    - fruncir ceño
+  ru:
+    place structure: x1 хмурится/морщится/гримасничает (выражение лица)
+    notes:
+    - 'x1 корчит рожи/косо смотрит на/в ответ на x2: {frufra} {cmila} (смеяться),
+      {cisma} (улыбаться)'
+    glosses:
+    - хмуриться
+    - x1=хмурящийся
+  en-simple:
+    place structure: x1 frowns
+    notes:
+    - No notes.
+    glosses:
+    - a frowner
+  eo:
+    place structure: x1 grimacas/brovsulkigas/kolermienas (vizaĝa esprimo)
+    notes:
+    - x1 grimacas al/reage al x2 (= {frufra}).  Vidu ankaŭ {cmila}, {cisma}.
+    glosses:
+    - grimaci
+  hu:
+    place structure: x1 ráncolja a homlokát/összevonja a szemöldökét/fintorog
+    notes:
+    - '(Lásd még: {cmila}, {cisma})'
+    glosses:
+    - homlokot ráncol
+  ja:
+    place structure: x1 は x2 （者／事）に対してしかめつらをする／まゆを寄せる／難色を示す；  x1 はしかめつら
+    notes:
+    - ・大意： しかめつら ・読み方： フゥルム ・関連語： {cmila}, {cisma}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 rynkar (pannan)/har en bister min/grimaserar.
+    notes:
+    - x1 grimaserar åt x2 (={frufra}).
+    glosses:
+    - grimasera
+    - ha en bister uppsyn
+    - rynka pannan
+  zh:
+    place structure: x1皱眉/愁眉苦脸（面部表情）
+    notes:
+    - x1因x2而皱眉/皱眉作为对x2的回应= {frufra}；参见 {cmila}, {cisma}.
+    glosses:
+    - No glosses.

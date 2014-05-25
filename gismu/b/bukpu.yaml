@@ -1,5 +1,80 @@
-Word: bukpu
-Rafsi: buk, bu'u
-Definition: x1 is an amount of cloth/fabric of type/material x2.
-Notes: See also {mapni}, {matli}, {sunla}, {slasi}, {silka}.
-Examples: None
+word: bukpu
+rafsi:
+- buk
+- bu'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an amount of cloth/fabric of type/material x2.
+    notes:
+    - See also {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+    glosses:
+    - cloth
+  de:
+    place structure: x1 ist eine gewisse Menge Stoff/Gewebe/Tuch von Typ/aus Material
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Stoff
+  es:
+    place structure: x1 es una tela/paño/género/sábana (forma flexible bidimensional)
+      de tipo/material x2
+    notes:
+    - Ver también {boxfo}.
+    glosses:
+    - tela
+  ru:
+    place structure: x1 — ткань/материя типа x2
+    notes:
+    - '{mapni} (хлопок [материал ткани]), {matli} (лен [тип ткани]), {sunla} (шерсть),
+      {slasi} (пластмасса), {silka} (шелк)'
+    glosses:
+    - x1=ткань
+  en-simple:
+    place structure: x1 is a quantity of cloth made of x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of cloth
+    - x2=a material of cloth
+  eo:
+    place structure: x1 estas kvanto da tolo/ŝtofo/teksaĵo de tipo/materialo x2
+    notes:
+    - Vidu ankaŭ {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+    glosses:
+    - tolo
+  hu:
+    place structure: x1 bizonyos mennyiségű szövet/kelme/textil/ruhaanyag x2 típusból/anyagból
+    notes:
+    - '(Lásd még: {mapni}, {matli}, {sunla}, {slasi}, {silka})'
+    glosses:
+    - szövet
+  ja:
+    place structure: x1 は x2 （素材／種類）の布／織物
+    notes:
+    - ・大意： 布 ・読み方： ブクプ  ・語呂合わせ： ＜ブックをプール＞ ・関連語： {mapni}, {matli}, {sunla}, {slasi},
+      {silka}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er tøy/tekstiler/stoff av type/materiale x2
+    notes:
+    - Se og {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är tyg/textil av typ/material x2.
+    notes:
+    - No notes.
+    glosses:
+    - textil
+    - x1=tyg (textil)
+    - x2=tygmaterial
+  zh:
+    place structure: x1是布，由材料x2构成
+    notes:
+    - 参见 {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+    glosses:
+    - No glosses.

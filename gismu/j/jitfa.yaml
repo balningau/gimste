@@ -1,7 +1,81 @@
-Word: jitfa
-Rafsi: jif
-Definition: x1 (du'u) is false/is an untruth by standard/epistemology/metaphysics
-  x2.
-Notes: Words usable for epistemology typically have a du'u place.  See also {fatci},
-  {stace}, {jetnu}, {cfika}.
-Examples: None
+word: jitfa
+rafsi:
+- jif
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (du'u) is false/is an untruth by standard/epistemology/metaphysics
+      x2.
+    notes:
+    - Words usable for epistemology typically have a du'u place.  See also {fatci},
+      {stace}, {jetnu}, {cfika}.
+    glosses:
+    - 'false'
+  de:
+    place structure: x1 (du'u) ist unwahr/falsch/eine Unwahrheit gemäß Standard/Erkenntnistheorie
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - unwahr
+  es:
+    place structure: x1 es falso según estándar/epistemología x2
+    notes:
+    - Ver también {jetnu}.
+    glosses:
+    - falso
+  ru:
+    place structure: x1 ({du'u}) ложно/неверно, относительно стандарта/эпистемологии/метафизики
+      x2
+    notes:
+    - 'Также: ложь, неправда, ложное утверждение; слова, описывающие эпистемологию,
+      обычно имеют место типа {du''u} {fatci} (факт), {stace} (честный), {jetnu} (истина),
+      {cfika} (вымысел)'
+    glosses:
+    - x1=ложный
+  en-simple:
+    place structure: x1 is false by standard or epistemology x2
+    notes:
+    - No notes.
+    glosses:
+    - something false
+    - x2=a standard of falseness
+  eo:
+    place structure: x1 (du'u) estas falsa/malvera laŭ normo/epistemologio/metafiziko
+      x2
+    notes:
+    - Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton.  Vidu ankaŭ {fatci},
+      {stace}, {jetnu}, {cfika}.
+    glosses:
+    - falsa
+  hu:
+    place structure: x1 hamis x2 mérce/ismeretelmélet/metafizikai modell szerint
+    notes:
+    - '(Lásd még: {fatci}, {stace}, {jetnu}, {cfika})'
+    glosses:
+    - hamis
+  ja:
+    place structure: x1 （命題）は x2 （認識体系）において偽／虚構／非真実／うそ
+    notes:
+    - ・大意： 偽（ぎ） ・読み方： ジトファ  ・語呂合わせ： 偽のジト目ファン ・関連語： {je'unai}, {fatci}, {stace}, {jetnu},
+      {cfika}
+    - ''
+    glosses:
+    - 嘘 (真ではない)
+    - 虚構 (真ではない)
+    - x1=偽 (真ではない)
+  sv:
+    place structure: x1 (du'u) är falskt/är osanning enligt standard/epistemologi/metafysik
+      x2.
+    notes:
+    - Ord som är användbara för epistemologi har typiskt en du'u plats.
+    glosses:
+    - falsk (osann)
+    - osann
+    - osanning
+  zh:
+    place structure: x1（du'u）是错误的/不真实的，基于标准/认知论/价值观x2
+    notes:
+    - 关于认知论的词都含有du'u位；参见 {fatci}, {stace}, {jetnu}, {cfika}.
+    glosses:
+    - No glosses.

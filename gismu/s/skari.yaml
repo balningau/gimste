@@ -1,8 +1,82 @@
-Word: skari
-Rafsi: ska
-Definition: x1 is/appears to be of color/hue x2 as perceived/seen by x3 under conditions
-  x4.
-Notes: Conditions may include lighting, background, etc..  See also {blanu}, {bunre},
-  {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu},
-  {carmi}, {kandi}, {xekri}, {blabi}.
-Examples: None
+word: skari
+rafsi:
+- ska
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is/appears to be of color/hue x2 as perceived/seen by x3 under
+      conditions x4.
+    notes:
+    - Conditions may include lighting, background, etc..  See also {blanu}, {bunre},
+      {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu},
+      {carmi}, {kandi}, {xekri}, {blabi}.
+    glosses:
+    - color
+  de:
+    place structure: x1 ist/scheint in Farbe/Farbton x2, wahrgenommen von x3 unter
+      Bedingungen x4
+    notes:
+    - No notes.
+    glosses:
+    - farbig
+  es:
+    place structure: x1 es de color x2 percibido por x3 bajo condiciones x4
+    notes:
+    - No notes.
+    glosses:
+    - color
+  ru:
+    place structure: x1 представляется имеющим цвет x2 для наблюдателя x3 в условиях
+      x4
+    notes:
+    - Условия x4 могут включать освещение, фон и т.п. {blanu} (синий), {bunre} (коричневый),
+      {cicna} (бирюзовый), {cinta} (краска), {crino} (зеленый), {grusi} (серый [цвет]),
+      {narju} (оранжевый), {nukni} (пурпурный), {pelxu} (желтый), {xunre} (красный),
+      {zirpu} (сиреневый), {carmi} (интенсивный), {kandi} (тусклый), {xekri} (черный),
+      {blabi} (белый)
+    glosses:
+    - цвет
+  en-simple:
+    place structure: x1 is of color x2 as perceived by x3
+    notes:
+    - No notes.
+    glosses:
+    - colored
+    - x1=something with a colour
+    - x2=a colour
+    - x2=color
+    - x3=something which perceives a colour
+    - x4=a condition in which a colour is perceived
+  eo:
+    place structure: x1 estas/aspektas de koloro/nuanco x2 laŭ percepto/vido de x3
+      sub kondiĉoj x4
+    notes:
+    - Kondiĉoj povas inkluzivi lumigon, ĉirkaŭaĵon, ktp..  Vidu ankaŭ {blanu}, {bunre},
+      {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu},
+      {carmi}, {kandi}, {xekri}, {blabi}.
+    glosses:
+    - koloro
+  hu:
+    place structure: x1 színe x2(-nek tűnik) x3 megfigyelő számára, x4 körülmények
+      között
+    notes:
+    - '(Lásd még: {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni},
+      {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi})'
+    glosses:
+    - színes
+  ja:
+    place structure: x1 は x2 （色相）の、 x3 （視覚者）にたいする、 x4 （条件）における色
+    notes:
+    - x4は周囲の光など。 ・大意： 色 ・読み方： スカリ  ・語呂合わせ： 色々助かります ・関連語： {blanu}, {bunre}, {cicna},
+      {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi},
+      {kandi}, {xekri}, {blabi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1显示出颜色/色彩x2，对观察者x3来说，在条件x4下；x1是呈现x2颜色的
+    notes:
+    - 条件包括背景光照，滤镜等等；参见 {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju},
+      {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,74 @@
-Word: skami
-Rafsi: sam
-Definition: x1 is a computer for purpose x2.
-Notes: See also {kanji}, {minji}, {pensi}.
-Examples: None
+word: skami
+rafsi:
+- sam
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a computer for purpose x2.
+    notes:
+    - See also {kanji}, {minji}, {pensi}.
+    glosses:
+    - computer
+  de:
+    place structure: x1 ist ein Computer mit dem Verwendungszweck x2.
+    notes:
+    - Siehe auch {kanji}, {minji}, {pensi}
+    glosses:
+    - Computer
+    - x2=Verwendungszweck (Computer)
+  es:
+    place structure: x1 es una computadora/ordenador para función x2
+    notes:
+    - No notes.
+    glosses:
+    - computadora
+  fr:
+    place structure: x1 est un ordinateur qui a pour but x2
+    notes:
+    - No notes.
+    glosses:
+    - ordinateur
+  ru:
+    place structure: x1 — компьютер c назначением/предназначенный для x2
+    notes:
+    - '{kanji} (вычислять), {minji} (машина [автомат, механизм]), {pensi} (думать)'
+    glosses:
+    - компьютер
+  en-simple:
+    place structure: x1 is a computer for purpose x2
+    notes:
+    - No notes.
+    glosses:
+    - a computer
+    - x2=a purpose of a computer
+  eo:
+    place structure: x1 estas komputilo por celo x2
+    notes:
+    - Vidu ankaŭ {kanji}, {minji}, {pensi}.
+    glosses:
+    - komputilo
+  hu:
+    place structure: x1 egy számítógép x2 célra
+    notes:
+    - '(Lásd még: {kanji}, {minji}, {pensi})'
+    glosses:
+    - számítógép
+  ja:
+    place structure: x1 は x2 （目的／機能）のコンピュータ
+    notes:
+    - ・大意： コンピュータ ・読み方： スカミ  ・関連語： {kanji}, {minji}, {pensi}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een computer gebruikt voor x2.
+    notes:
+    - zie ook {kanji}, {minji}, {pensi}.
+    glosses:
+    - computer
+  zh:
+    place structure: x1是计算机/电脑，具有用途/功能x2
+    notes:
+    - 参见 {kanji}, {minji}, {pensi}.
+    glosses:
+    - No glosses.

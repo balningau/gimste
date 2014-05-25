@@ -1,6 +1,65 @@
-Word: slasi
-Rafsi: las
-Definition: x1 is a quantity of/is made of/contains plastic/polymer of type/component
-  unit(s) x2.
-Notes: See also {rutni}, {boxfo}, {bukpu}.
-Examples: None
+word: slasi
+rafsi:
+- las
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/is made of/contains plastic/polymer of type/component
+      unit(s) x2.
+    notes:
+    - See also {rutni}, {boxfo}, {bukpu}.
+    glosses:
+    - plastic
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Plastik/Kunststoff/Polymer
+      von Typ/aus Monomeren/Komponenten x2
+    notes:
+    - No notes.
+    glosses:
+    - Plastik
+  es:
+    place structure: x1 es una cantidad de plástico/polímero de composición x2
+    notes:
+    - No notes.
+    glosses:
+    - plástico
+  ru:
+    place structure: x1 — пластик/пластмасса/полимер вида x2; x1 содержит пластмассу
+    notes:
+    - '{rutni} (искусственный), {boxfo} (пластина), {bukpu} (ткань [текстиль])'
+    glosses:
+    - пластик
+  en-simple:
+    place structure: x1 is a quantity of plastic of type x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of plastic
+    - x2=a type of plastic
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el plasto/polimero de tipo/eroj
+      x2
+    notes:
+    - Vidu ankaŭ {rutni}, {boxfo}, {bukpu}.
+    glosses:
+    - plasto
+  hu:
+    place structure: x1 bizonyos mennyiségű műanyag/polimer (-t tartalmaz/-ből készült),
+      x2 szerkezettel/összetevőkkel
+    notes:
+    - '(Lásd még: {rutni}, {boxfo}, {bukpu})'
+    glosses:
+    - műanyag
+  ja:
+    place structure: x1 は x2 （種類／成分）のプラスチック／ビニール／合成樹脂
+    notes:
+    - ・大意： プラスチック ・読み方： スルァスィ  ・関連語： {rutni}, {boxfo}, {bukpu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是塑料，具有组分/属于类型x2
+    notes:
+    - 参见 {rutni}, {boxfo}, {bukpu}.
+    glosses:
+    - No glosses.

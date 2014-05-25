@@ -1,6 +1,77 @@
-Word: ctebi
-Rafsi: teb
-Definition: x1 is a/the lip [body-part]/rim of orifice x2 of body x3; (adjective:)
-  x1 is labial.
-Notes: See also {moklu}, {korbi}, {cinba}.
-Examples: None
+word: ctebi
+rafsi:
+- teb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the lip [body-part]/rim of orifice x2 of body x3; (adjective:)
+      x1 is labial.
+    notes:
+    - See also {moklu}, {korbi}, {cinba}.
+    glosses:
+    - lip
+  de:
+    place structure: x1 ist eine/die Lippe [Körperteil]/der Rand von Öffnung x2 von
+      Körper x3
+    notes:
+    - No notes.
+    glosses:
+    - Lippe
+  es:
+    place structure: x1 es un labio/borde (parte del cuerpo) de orificio x2 del cuerpo
+      x3
+    notes:
+    - Ver también {korbi}.
+    glosses:
+    - labio
+  ru:
+    place structure: x1 — губа (край отверстия) x2 тела x3 (кого)
+    notes:
+    - '{moklu} (рот), {korbi} (край), {cinba} (целовать)'
+    glosses:
+    - губа
+  en-simple:
+    place structure: x1 is the lip of orifice x2 of body x3
+    notes:
+    - No notes.
+    glosses:
+    - a lip
+    - x2=an orifice with a lip
+    - x3=something with a lip
+  eo:
+    place structure: x1 estas lipo [korpoparto]/rando de aperturo x2 de korpo x3;
+      (adjektivo:) x1 estas lipa
+    notes:
+    - Vidu ankaŭ {moklu}, {korbi}, {cinba}.
+    glosses:
+    - lipo
+  hu:
+    place structure: x1 egy/az ajka/x2 testnyílás pereme x3-onak [illetve labiális]
+    notes:
+    - '(Lásd még: {moklu}, {korbi}, {cinba})'
+    glosses:
+    - ajak
+  ja:
+    place structure: x1 は x2 （本体）の唇
+    notes:
+    - 比喩的に「窓枠」なども。 ・大意： 唇 ・読み方： シテビ  ・語呂合わせ： してビンタ, cuen(唇), labio ・関連語： {moklu},
+      {korbi}, {cinba}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en läpp [kroppsdel]/upphöjd kant av öppning x2 av kropp
+      x3; x1 är labial.
+    notes:
+    - No notes.
+    glosses:
+    - labial
+    - x1=läpp
+    - x2=läppförsedd kroppsöppning
+    - x3=läppförsedd (person/kropp)
+  zh:
+    place structure: x1是唇/孔口边缘，位于孔口x2，位于身体x3
+    notes:
+    - 参见 {moklu}, {korbi}, {cinba}.
+    glosses:
+    - No glosses.

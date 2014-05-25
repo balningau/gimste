@@ -1,6 +1,66 @@
-Word: sunla
-Rafsi: sul
-Definition: x1 is a quantity of/made from/consists of wool [tight curly hair] from
-  animal/species/source x2.
-Notes: See also {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}.
-Examples: None
+word: sunla
+rafsi:
+- sul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/made from/consists of wool [tight curly hair]
+      from animal/species/source x2.
+    notes:
+    - See also {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}.
+    glosses:
+    - wool
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Wolle [dichte gekräuselte
+      Haare] von Tier/Art/Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Wolle
+  es:
+    place structure: x1 es una cantidad de lana de animal/especie/fuente x2
+    notes:
+    - No notes.
+    glosses:
+    - lana
+  ru:
+    place structure: x1 — шерсть (густые вьющиеся волосы) животного/вида/из источника
+      x2
+    notes:
+    - '{kosta} (пальто), {kumte} (верблюд), {lanme} (овца), {kanba} (коза), {bukpu}
+      (ткань [текстиль]), {kerfa} (волосы)'
+    glosses:
+    - шерсть
+  en-simple:
+    place structure: x1 is a quantity of wool from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of wool
+    - x2=a source of wool
+  eo:
+    place structure: x1 estas kvanto da/farita el/konsistas el lano [prema krispa
+      haro] el besto/speco/fonto x2
+    notes:
+    - Vidu ankaŭ {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}.
+    glosses:
+    - lano
+  hu:
+    place structure: x1 bizonyos mennyiségű gyapjú (-ból készült/áll) x2 forrásból/állattól
+    notes:
+    - '(Lásd még: {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa})'
+    glosses:
+    - gyapjú
+  ja:
+    place structure: x1 は x2 （動物種／原料）のウール／羊毛
+    notes:
+    - ・大意： 羊毛 ・読み方： スンルァ  ・関連語： {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是毛/毛制品，来自动物/物种/来源x2
+    notes:
+    - 参见 {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}.
+    glosses:
+    - No glosses.

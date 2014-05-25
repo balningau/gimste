@@ -1,7 +1,129 @@
-Word: barda
-Rafsi: bra
-Definition: x1 is big/large in property/dimension(s) x2 (ka) as compared with standard/norm
-  x3.
-Notes: See also {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
-  {xanto}.
-Examples: None
+word: barda
+rafsi:
+- bra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is big/large in property/dimension(s) x2 (ka) as compared
+      with standard/norm x3.
+    notes:
+    - See also {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - big
+    - large
+  jbo:
+    place structure: x1 zmadu lo cnano be x2 bei x3 be'o x2 noi cimde x1
+    notes:
+    - No notes.
+    glosses:
+    - barda
+  de:
+    place structure: x1 ist groß in der Dimension/Eigenschaft x2 (ka) im Vergleich
+      zu Standard/Norm x3.
+    notes:
+    - Siehe auch {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - groß (Ausmaß)
+    - x2=Größenausmaß
+    - x3=Größenstandard
+  es:
+    place structure: x1 es grande/amplio en propiedad/dimensión x2 comparado con estándar/norma
+      x3
+    notes:
+    - Ver también {cmalu}.
+    glosses:
+    - grande
+  fr:
+    place structure: x1 est gros/large dans la dimension/propriété x2 (ka) comparé
+      au standard/la norme x3.
+    notes:
+    - Voir également {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu},
+      {banro}, {xanto}.
+    glosses:
+    - gros
+    - large
+  ru:
+    place structure: x1 — большой/крупный по свойству/измерени(ю/ям) x2 ({ka}) по
+      сравнению со стандартом/нормой x3
+    notes:
+    - '{banli} (великий), {clani} (длинный), {ganra} (широкий), {condi} (глубокий),
+      {plana} (пухлый), {cmalu} (маленький), {rotsu} (толстый), {banro} (расти), {xanto}
+      (слон)'
+    glosses:
+    - большой
+  en-simple:
+    place structure: x1 is big in property or dimension x2 as compared to x3
+    notes:
+    - No notes.
+    glosses:
+    - a large
+    - x2=a property of largeness
+    - x3=a standard of largeness
+  eo:
+    place structure: x1 estas granda laŭ eco/dimensio(j) x2 (ka) kompare kun normo
+      x3
+    notes:
+    - Vidu ankaŭ {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - granda
+  hu:
+    place structure: x1 nagy méretű x2 méretében x3-hoz képest/x3 mérce szerint
+    notes:
+    - '(Lásd még: {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto})'
+    glosses:
+    - nagy
+  ja:
+    place structure: x1 は x2 （性質）に関して、 x3 （基準）で大きい
+    notes:
+    - 「lo'i ratcu cu barda／鼠の集合は大きい、鼠はたくさんいる」「le barda naje cmalu ba'ambyta'e cu se
+      dunda pe'u／大きいつづらではなく、小さいつづらをください」 ・大意： 大きい ・読み方： バルダ  ・語呂合わせ： ＜バー大規模＞ ・関連語：
+      {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is groot in eigenschap/afmeting x2 vergeleken met standaard/norm
+      x3
+    notes:
+    - Zie ook {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er stor i egenskap/dimensjon(er) x2 (ka) sammenlignet med
+      standard/norm x3
+    notes:
+    - Se også {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest wielkie/duże w cechach/wymiarach x2 (ka) według normy
+      x3.
+    notes:
+    - Cf. {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - duże
+    - wielkie
+  sv:
+    place structure: x1 är stor i egenskap/dimension x2 (ka) jämfört med kriterium/norm
+      x3
+    notes:
+    - Se även {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}
+    glosses:
+    - x1=stor (i dimension(/egenskap))
+    - x2=stor i vilken utsträckning
+    - x3=stor kriterium/norm
+  zh:
+    place structure: x1 是大的，从 x2 的角度来说，与 x3 相比。
+    notes:
+    - 参见： {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro},
+      {xanto}.
+    glosses:
+    - 大 (与“小”相对)

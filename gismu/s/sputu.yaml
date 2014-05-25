@@ -1,5 +1,70 @@
-Word: sputu
-Rafsi: put, pu'u
-Definition: x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4.
-Notes: Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}.
-Examples: None
+word: sputu
+rafsi:
+- put
+- pu'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto
+      x4.
+    notes:
+    - Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}.
+    glosses:
+    - spit
+  de:
+    place structure: x1 spuckt/hustet x2 [überwiegend flüssig] von x3 nach/auf x4
+    notes:
+    - No notes.
+    glosses:
+    - spucken
+  es:
+    place structure: x1 escupe/esputa x2 desde x3 hacia x4
+    notes:
+    - Ver también {pinxe},  {jetce},  {kafke},  {vamtu}.
+    glosses:
+    - escupir
+  ru:
+    place structure: x1 плюет/прыскает/отхаркивает x2 (преимущественно, жидкость)
+      из x3 на/в x4
+    notes:
+    - 'Слюна, плевок, мокрота: {molselpu''u} {jetce} (струя), {kafke} (кашлять), {vamtu}
+      (блевать)'
+    glosses:
+    - плевать
+    - x1=плюющий
+    - x2=плевок (то, что выплёвывают)
+  en-simple:
+    place structure: x1 spits liquid x2 from x3 onto x4
+    notes:
+    - No notes.
+    glosses:
+    - a spitter
+    - x2=a spit liquid
+    - x3=a source of spit
+    - x4=a destination of spit
+  eo:
+    place structure: x1 kraĉas/sputas x2-on [precipe likvon] el x3 al x4                                                                                            aa   8     [salivo/kraĉaĵon/sputaĵon
+      (= molselpu'u)]; (kp. jetce, kafke, vamtu
+    notes:
+    - )
+    glosses:
+    - kraĉi
+  hu:
+    place structure: x1 köpi/kiköhögi x2-t [főleg folyadék] x3-ból x4-be/-re
+    notes:
+    - '(Lásd még: {jetce}, {kafke}, {vamtu})'
+    glosses:
+    - köp
+  ja:
+    place structure: x1 は x2 を x3 から x4 に吐き飛ばす
+    notes:
+    - x2 は唾など。 ・大意： 吐き飛ばす ・読み方： スプトゥ  ・語呂合わせ： プッと吐く ・関連語： {jetce}, {kafke}, {vamtu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1吐唾液/吐痰x2（主要是液体），从x3到x4
+    notes:
+    - 痰/唾液/唾沫={molselpu'u}；参见 {jetce}, {kafke}, {vamtu}.
+    glosses:
+    - No glosses.

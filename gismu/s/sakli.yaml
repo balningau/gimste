@@ -1,6 +1,65 @@
-Word: sakli
-Rafsi: sal
-Definition: x1 slides/slips/glides on x2.
-Notes: $x_2$ is slick/slippery to/for $x_1$ (= {selsakli} for reordered places).  See
-  also {mosra}, {fulta}, {skiji}, {xutla}.
-Examples: None
+word: sakli
+rafsi:
+- sal
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 slides/slips/glides on x2.
+    notes:
+    - x2 is slick/slippery to/for x1 (= {selsakli} for reordered places).  See also
+      {mosra}, {fulta}, {skiji}, {xutla}.
+    glosses:
+    - slide
+  de:
+    place structure: x1 gleitet/rutscht auf x2
+    notes:
+    - No notes.
+    glosses:
+    - gleiten
+  es:
+    place structure: x1 resbala/patina/se desliza sobre x2
+    notes:
+    - Ver también {mosra}.
+    glosses:
+    - resbalar
+  ru:
+    place structure: x1 скользит по x2
+    notes:
+    - 'x2 — скользкий для x1: {selsakli} с переставленными местами) {mosra} (трение),
+      {fulta} (плавать [пассивно]), {skiji} (лыжа), {xutla} (гладкий)'
+    glosses:
+    - скользить
+    - x1=скользящий
+  en-simple:
+    place structure: x1 slides or glides on x2
+    notes:
+    - No notes.
+    glosses:
+    - something sliding
+    - x2=a surface slid on
+  eo:
+    place structure: x1 glitas sur x2
+    notes:
+    - x2 estas glitiga por x1 (= selsakli por reordigitaj {lokoj}).  Vidu ankaŭ {mosra},
+      {fulta}, {skiji}, {xutla}.
+    glosses:
+    - gliti
+  hu:
+    place structure: x1 csúszik/siklik x2 felületen
+    notes:
+    - '(Lásd még: {mosra}, {fulta}, {skiji}, {xutla})'
+    glosses:
+    - csúszik
+  ja:
+    place structure: x1 は x2 を滑る
+    notes:
+    - ・大意： 滑る ・読み方： サクルィ  ・関連語： {mosra}, {fulta}, {skiji}, {xutla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1在x2上滑动/滑行/滑移
+    notes:
+    - x2对x1来说是滑的；参见 {mosra}, {fulta}, {skiji}, {xutla}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,67 @@
-Word: punli
-Rafsi: pul
-Definition: x1 is a swelling/protrusion/convexity [shape/form] at/in/on x2, of material
-  x3.
-Notes: (adjective:) $x_1$ is swollen.  See also {balji}, {cmana}, {plana}.
-Examples: None
+word: punli
+rafsi:
+- pul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a swelling/protrusion/convexity [shape/form] at/in/on x2,
+      of material x3.
+    notes:
+    - (adjective:) x1 is swollen.  See also {balji}, {cmana}, {plana}.
+    glosses:
+    - swelling
+  de:
+    place structure: x1 ist eine Beule/Schwellung/Ausbuchtung [Form] auf/in/an x2
+      aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Beule
+  es:
+    place structure: x1 es una hinchazón/protuberancia/convexidad (forma) en x2, de
+      material x3
+    notes:
+    - No notes.
+    glosses:
+    - hinchazón
+  ru:
+    place structure: x1 — выступ/выпуклость/выпячивание (форма) на x2, из материала
+      x3
+    notes:
+    - 'Прилагательное: x1 — выпуклый {balji} (клубень), {cmana} (гора), {plana} (пухлый)'
+    glosses:
+    - выступ
+  en-simple:
+    place structure: x1 is a swelling on x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a swelling
+    - x2=a location of a swelling
+    - x3=a material of a swelling
+  eo:
+    place structure: x1 estas ŝveliĝo/elstaraĵo/konveksaĵo [formo] ĉe/en/sur x2, el
+      materialo x3
+    notes:
+    - Vidu ankaŭ {balji}, {cmana}, {plana}.
+    glosses:
+    - ŝveliĝo
+  hu:
+    place structure: x1 egy dudor/kitüremkedés/konvexitás x2-n, x3 anyagból
+    notes:
+    - '(Lásd még: {balji}, {cmana}, {plana})'
+    glosses:
+    - dudor
+  ja:
+    place structure: x1 は x2 （箇所）における、 x3 （素材）の突起／隆起／ふくらみ／凸
+    notes:
+    - 「腫れ」も。 ・大意： 突起 ・読み方： プンルィ  ・関連語： {balji}, {cmana}, {plana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是突出物/突出部，在x2上/中/里，由材料x3组成
+    notes:
+    - x1是肿胀的；参见 {balji}, {cmana}, {plana}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,70 @@
-Word: vraga
-Rafsi: vra
-Definition: x1 is a lever [tool] [of apparatus] for doing x2 [function/action], with
-  fulcrum x3 and arm x4.
-Notes: See also {tutci}, {pulni}.
-Examples: None
+word: vraga
+rafsi:
+- vra
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lever [tool] [of apparatus] for doing x2 [function/action],
+      with fulcrum x3 and arm x4.
+    notes:
+    - See also {tutci}, {pulni}.
+    glosses:
+    - lever
+  de:
+    place structure: x1 ist ein Hebel [Werkzeug] [von Gerät/Apparat] zum Tun von x2
+      [Funktion/Handlung] mit Drehpunkt x3 und Arm x4
+    notes:
+    - No notes.
+    glosses:
+    - Hebel
+  es:
+    place structure: x1 es una palanca (herramienta) para función x2, con fulcro x3
+      y brazo x4
+    notes:
+    - No notes.
+    glosses:
+    - palanca
+  ru:
+    place structure: x1 — рычаг, предназначенный для x2 (функция/действие), с точкой
+      опоры/осью вращения x3 и плечом x4
+    notes:
+    - '{tutci} (инструмент), {pulni} (шкив)'
+    glosses:
+    - рычаг
+    - x3=ось вращения рычага
+    - x4=плечо рычага
+  en-simple:
+    place structure: x1 is a lever for doing x2 with fulcrum x3 and arm x4
+    notes:
+    - No notes.
+    glosses:
+    - a lever
+    - x2=a purpose of a lever
+    - x3=a fulcrum of a lever
+    - x4=an arm of a lever
+  eo:
+    place structure: x1 estas levilo [de aparato] por fari x2-on [funkcio/ago], kun
+      pivoto/apogpunkto x3 kaj brako x4
+    notes:
+    - Vidu ankaŭ {tutci}, {pulni}.
+    glosses:
+    - levilo
+  hu:
+    place structure: x1 egy emelő x2 funkcióval, x3 alátámasztással és x4 karral
+    notes:
+    - '(Lásd még: {tutci}, {pulni})'
+    glosses:
+    - emelő
+  ja:
+    place structure: x1 は x2 （機能）・ x3 （支点／台）のてこ／レバー／バール
+    notes:
+    - ・大意： てこ ・読み方： ヴラガ  ・関連語： {tutci}, {pulni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是杠杆，用于用途/功能/活动x2，其支点为x3，力臂为x4
+    notes:
+    - 参见 {tutci}, {pulni}.
+    glosses:
+    - No glosses.

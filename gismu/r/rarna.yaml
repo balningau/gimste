@@ -1,5 +1,71 @@
-Word: rarna
-Rafsi: rar
-Definition: x1 is natural/spontaneous/instinctive, not [consciously] caused by person(s).
-Notes: See also {rutni}, {jinzi}, {nurma}, {stati}.
-Examples: None
+word: rarna
+rafsi:
+- rar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is natural/spontaneous/instinctive, not [consciously] caused
+      by person(s).
+    notes:
+    - See also {rutni}, {jinzi}, {nurma}, {stati}.
+    glosses:
+    - natural
+  de:
+    place structure: x1 ist natürlich/spontan/instinktiv, nicht [bewusst] verursacht
+      von Person(en)
+    notes:
+    - No notes.
+    glosses:
+    - natürlich
+  es:
+    place structure: x1 es natural/espontáneo/instintivo/no causado conscientemente
+    notes:
+    - Ver también {rutni},  {jinzi}.
+    glosses:
+    - natural
+  ru:
+    place structure: x1 — естественный/природный/натуральный/спонтанный/инстинктивный
+      (не вызванный сознательным действием)
+    notes:
+    - '{rutni} (искусственный), {jinzi} (присущий), {nurma} (деревня), {stati} (талант)'
+    glosses:
+    - естественный
+  en-simple:
+    place structure: x1 is spontaneous or natural
+    notes:
+    - No notes.
+    glosses:
+    - something spontaneous
+  eo:
+    place structure: x1 estas natura/spontana/instinkta, ne [konscie] kaŭzita de homo(j)
+    notes:
+    - Vidu ankaŭ {rutni}, {jinzi}, {nurma}, {stati}.
+    glosses:
+    - natura
+  hu:
+    place structure: x1 természetes/spontán/ösztönös
+    notes:
+    - '(Lásd még: {rutni}, {jinzi}, {nurma}, {stati})'
+    glosses:
+    - ösztönös
+  ja:
+    place structure: x1 は自然／天然／本能的／自発的
+    notes:
+    - ・大意： 自然 ・読み方： ラルナ  ・語呂合わせ： ziran(自然), natural ・関連語： {rutni}, {jinzi}, {nurma},
+      {stati}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is natuurlijk/spontaan/instinctief, niet [bewust] veroorzaakt
+      door mensen.
+    notes:
+    - 'Zie ook : {rutni}, {jinzi}, {nurma} en {stati}.'
+    glosses:
+    - natuurlijk
+  zh:
+    place structure: x1是自然发生的/本能的/直觉上的/不是刻意意识的
+    notes:
+    - 参见 {rutni}, {jinzi}, {nurma}, {stati}.
+    glosses:
+    - No glosses.

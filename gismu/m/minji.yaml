@@ -1,8 +1,74 @@
-Word: minji
-Rafsi: mi'i
-Definition: x1 is a machine for use/function x2; [automated apparatus, without direct
-  function control].
-Notes: Also machinery/mechanism; a machine is initiated/triggered by an agent/force,
-  but thereafter performs its function automatically; if self-directed, (a minji is
-  an) entity (= {zukte}).  See also {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.
-Examples: None
+word: minji
+rafsi:
+- mi'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a machine for use/function x2; [automated apparatus, without
+      direct function control].
+    notes:
+    - Also machinery/mechanism; a machine is initiated/triggered by an agent/force,
+      but thereafter performs its function automatically; if self-directed, (a minji
+      is an) entity (= {zukte}).  See also {cabra}, {matra}, {tutci}, {zukte}, {pilno},
+      {skami}.
+    glosses:
+    - machine
+  de:
+    place structure: x1 ist eine Maschine für Verwendung/mit Funktion x2; [automatisch
+      laufendes Gerät, ohne direkte Funktionskontrolle]
+    notes:
+    - No notes.
+    glosses:
+    - Maschine
+  es:
+    place structure: x1 es una máquina/aparato/artefacto para uso/función x2
+    notes:
+    - No notes.
+    glosses:
+    - máquina
+  ru:
+    place structure: x1 — машина (автомат, не нуждающийся в непосредственном контроле)
+      с предназначением/функцией x2
+    notes:
+    - 'Также: механизм; машина запускается внешним воздействием, но после этого выполняет
+      свои функции автоматически; самоуправляемая машина: {zukte} {cabra} (аппарат
+      [механизм]), {matra} (мотор), {tutci} (инструмент), {zukte} (действовать), {pilno}
+      (использовать), {skami} (компьютер)'
+    glosses:
+    - машина
+    - x2=функция машины
+  en-simple:
+    place structure: x1 is a machine for x2
+    notes:
+    - No notes.
+    glosses:
+    - a machine
+    - x2=a function of machine
+  eo:
+    place structure: x1 estas maŝino por uzo/funkcio x2; [aŭtomata aparato, sen rekta
+      kontrolo de funkcio]
+    notes:
+    - 'Ankaŭ: maŝinaro/mekanismo; maŝino estas ekigita de agento/forto, sed post tio
+      ĝi plenumas sian funkcion aŭtomate; se memregata, (minji estas) estaĵo (= {zukte}).  Vidu
+      ankaŭ {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.'
+    glosses:
+    - maŝino
+  hu:
+    place structure: x1 egy automata x2 célra/rendeltetéssel
+    notes:
+    - '(Lásd még: {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami})'
+    glosses:
+    - automata
+  ja:
+    place structure: x1はx2のための/の機能を持った機械である; [自動化された機器で、直接的なコントロールはない]
+    notes:
+    - '又は 機構/メカニズム; 行為者/力によって発動/引きがねを引かれるが、あとは自動的に動作する機会; 自分自身に作用する場合は、自主独立体(= {zukte})である.
+      参照: {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是机器，具有用途/功能x2
+    notes:
+    - 参见 {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,55 @@
-Word: brodo
-Rafsi: ''
-Definition: 4th assignable variable predicate (context determines place structure).
-Notes: No notes available.
-Examples: None
+word: brodo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 4th assignable variable predicate (context determines place structure).
+    notes:
+    - No notes.
+    glosses:
+    - predicate var 4
+  jbo:
+    place structure: vomoi brika'i .i ka'e se snigau sepi'o zo cei
+    notes:
+    - '{snigau} {brika''i}; {cei}'
+    glosses:
+    - brodo
+  de:
+    place structure: x1 ist viertes zuweisbares variables Prädikat (der Kontext bestimmt
+      die Platzstruktur)
+    notes:
+    - No notes.
+    glosses:
+    - Prädikatvar 4
+  es:
+    place structure: 4to predicado variable asignable
+    notes:
+    - No notes.
+    glosses:
+    - predicado var 4
+  en-simple:
+    place structure: x1 is the predicate variable 4
+    notes:
+    - No notes.
+    glosses:
+    - predicate variable 4
+  eo:
+    place structure: 4a asignebla predikata varianto (kunteksto determinas la argumentostrukturon)
+    notes:
+    - No notes.
+    glosses:
+    - predikata varianto 4
+  ja:
+    place structure: 代ブリディその4［x1を始めとするPS全体が文脈次第］
+    notes:
+    - '{cei} を使って {selbri} を代入できる。 ・大意： 第四 selbri 変数 ・読み方： ブロド  ・関連語： {bu''a}, {bu''e},
+      {bu''i}'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是第四个可被分配的谓词变量（上下文决定位置结构）
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.

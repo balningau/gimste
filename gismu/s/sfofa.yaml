@@ -1,5 +1,66 @@
-Word: sfofa
-Rafsi: sfo
-Definition: x1 is a sofa/couch (noun).
-Notes: See also {nilce}.
-Examples: None
+word: sfofa
+rafsi:
+- sfo
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sofa/couch (noun).
+    notes:
+    - See also {nilce}.
+    glosses:
+    - sofa
+  jbo:
+    place structure: x1 barda nilce fi lo ka zutse ce'u
+    notes:
+    - No notes.
+    glosses:
+    - sfofa
+  de:
+    place structure: x1 ist ein Sofa/eine Couch (Substantiv)
+    notes:
+    - No notes.
+    glosses:
+    - Sofa
+  es:
+    place structure: x1 es un sofá/sillón
+    notes:
+    - No notes.
+    glosses:
+    - sofá
+  ru:
+    place structure: x1 — диван/софа/кушетка
+    notes:
+    - '{nilce} (мебель)'
+    glosses:
+    - x1=диван
+  en-simple:
+    place structure: x1 is a sofa
+    notes:
+    - No notes.
+    glosses:
+    - a sofa
+  eo:
+    place structure: x1 estas sofo/kanapo (substantivo)
+    notes:
+    - Vidu ankaŭ {nilce}.
+    glosses:
+    - sofo
+  hu:
+    place structure: x1 egy dívány/kanapé/heverő/pamlag
+    notes:
+    - '(Lásd még: {nilce})'
+    glosses:
+    - dívány
+  ja:
+    place structure: x1 はソファ／カウチ
+    notes:
+    - ・大意： ソファ ・読み方： スフォファ  ・関連語： {nilce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是沙发
+    notes:
+    - 参见 {nilce}.
+    glosses:
+    - No glosses.

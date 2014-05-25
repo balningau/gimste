@@ -1,6 +1,85 @@
-Word: draci
-Rafsi: ''
-Definition: x1 is a drama/play about x2 [plot/theme/subject] by dramatist x3 for audience
-  x4 with actors x5.
-Notes: $x_2$ may also be a convention. See also {finti}, {cukta}, {lisri}, {cfika}.
-Examples: None
+word: draci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a drama/play about x2 [plot/theme/subject] by dramatist
+      x3 for audience x4 with actors x5.
+    notes:
+    - x2 may also be a convention. See also {finti}, {cukta}, {lisri}, {cfika}.
+    glosses:
+    - drama
+  de:
+    place structure: x1 ist ein Drama/Theaterstück über x2 [Handlung/Thema] von Schriftsteller
+      x3 für Publikum x4 mit Schauspielern x5
+    notes:
+    - No notes.
+    glosses:
+    - Drama
+  es:
+    place structure: x1 es un drama/comedia/obra de teatro sobre tema x2 por dramaturgo
+      x3 para audiencia x4 con actores x5
+    notes:
+    - No notes.
+    glosses:
+    - drama
+  ru:
+    place structure: x1 — пьеса/постановка/драма о x2 (сюжет/тема) драматурга x3 для
+      аудитории x4 с актерами x5
+    notes:
+    - '{finti} (сочинять), {cukta} (книга), {lisri} (рассказ), {cfika} (вымысел)'
+    glosses:
+    - пьеса
+  en-simple:
+    place structure: x1 is a drama or play about x2 by x3 for audience x4 with actors
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a play
+    - x2=a plot of a play
+    - x3=an author of a play
+    - x4=an audience of a play
+    - x5=an actor of a play
+  eo:
+    place structure: x1 estas dramo/teatraĵo pri x2 [intrigo/temo] de aŭtoro x3 por
+      publiko x4 kun aktoroj x5
+    notes:
+    - x2 ankaŭ povas esti konvencio. Vidu ankaŭ {finti}, {cukta}, {lisri}, {cfika}.
+    glosses:
+    - dramo
+  hu:
+    place structure: x1 egy színdarab/színmű x2-ről, x3 színműírótól, x4 közönségnek,
+      x5 színészekkel
+    notes:
+    - '(Lásd még: {finti}, {cukta}, {lisri}, {cfika})'
+    glosses:
+    - színdarab
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （作家）・ x4 （観衆）・ x5 （役者）の（舞台）劇
+    notes:
+    - ・大意： 劇 ・読み方： ドラシ  ・関連語： {finti}, {cukta}, {lisri}, {cfika}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett drama/pjäs/teater/skådespel om x2 [handling/tema/ämne]
+      av dramatiker x3 för publik x4 med skådespelare x5.
+    notes:
+    - No notes.
+    glosses:
+    - pjäs (drama)
+    - skådespel
+    - teater (pjäs)
+    - x1=drama (pjäs)
+    - x2=handling (drama/skådespeleri)
+    - x3=dramatiker
+    - x4=publik (skådespel/teater/drama)
+    - x5=skådespelare
+  zh:
+    place structure: x1是戏剧，关于x2（主题/主旨/故事/情节等），剧本创作者为x3，观众为x4，演员为x5
+    notes:
+    - x2可能也指习俗；参见 {finti}, {cukta}, {lisri}, {cfika}.
+    glosses:
+    - No glosses.

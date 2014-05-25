@@ -1,5 +1,82 @@
-Word: sutra
-Rafsi: sut
-Definition: x1 is fast/swift/quick/hastes/rapid at doing/being/bringing about x2 (event/state).
-Notes: See also {masno}.
-Examples: None
+word: sutra
+rafsi:
+- sut
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is fast/swift/quick/hastes/rapid at doing/being/bringing about
+      x2 (event/state).
+    notes:
+    - See also {masno}.
+    glosses:
+    - fast
+    - quick (fast)
+    - rapid
+  de:
+    place structure: x1 ist schnell/rasch/eilig dabei x2 (Ereignis/Zustand) zu tun/sein.
+    notes:
+    - Siehe auch {masno}.
+    glosses:
+    - eilig
+    - schnell
+  es:
+    place structure: x1 es rápido/veloz en hacer/realizar x2 (evento)
+    notes:
+    - Ver también {masno}.
+    glosses:
+    - rapido
+  fr:
+    place structure: x1 est rapide à faire x2 (une action)
+    notes:
+    - No notes.
+    glosses:
+    - rapide
+    - vite
+  ru:
+    place structure: x1 — быстрый/скорый/поспешный в действии/осуществлении x2 (событие/состояние)
+    notes:
+    - '{masno} (медленный)'
+    glosses:
+    - быстрый
+  en-simple:
+    place structure: x1 is fast or quick at doing x2
+    notes:
+    - No notes.
+    glosses:
+    - something fast
+    - x2=something done fast
+  eo:
+    place structure: x1 estas rapida/hastas farante/estante/kaŭzante x2-on (okazo/stato)
+    notes:
+    - Vidu ankaŭ {masno}.
+    glosses:
+    - rapida
+  hu:
+    place structure: x1 gyors/fürge x2 esemény/állapot véghezvitelében
+    notes:
+    - '(Lásd még: {masno})'
+    glosses:
+    - gyors
+  ja:
+    place structure: x1 は x2 （動作／事）に関して速い／すばやい／敏速／俊敏
+    notes:
+    - 「le lenku dilnu cu sutkla a'idai／寒い雲がいそぐ」（山頭火『行乞記（二）』） ・大意： 速い ・読み方： ストラ  ・語呂合わせ：
+      速く越すトラック ・関連語： {masno}
+    - ''
+    glosses:
+    - No glosses.
+  vi:
+    place structure: x1 làm việc x2 một cách nhanh chóng
+    notes:
+    - No notes.
+    glosses:
+    - nhanh
+    - nhanh chóng
+    - x1=tác nhân
+    - x2=hành động
+  zh:
+    place structure: x1是做/成为x2（事件/状态）是快的/快速的
+    notes:
+    - 参见 {masno}.
+    glosses:
+    - No glosses.

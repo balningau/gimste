@@ -1,5 +1,67 @@
-Word: grusi
-Rafsi: rus
-Definition: x1 is gray [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
-Examples: None
+word: grusi
+rafsi:
+- rus
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is gray [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - gray
+  de:
+    place structure: x1 ist grau [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - grau
+  es:
+    place structure: x1 es gris (color)
+    notes:
+    - No notes.
+    glosses:
+    - gris
+  ru:
+    place structure: x1 — серый (о цвете)
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный)'
+    glosses:
+    - x1=серый
+  en-simple:
+    place structure: x1 is gray
+    notes:
+    - No notes.
+    glosses:
+    - something gray
+  eo:
+    place structure: x1 estas griza [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - griza
+  hu:
+    place structure: x1 szürke színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi})'
+    glosses:
+    - szürke
+  ja:
+    place structure: x1 は灰色／グレー
+    notes:
+    - ・大意： 灰色 ・読み方： グルスィ  ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är grå [färg, adjektiv].
+    notes:
+    - No notes.
+    glosses:
+    - x1=grå
+  zh:
+    place structure: x1是灰色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,61 @@
-Word: pezli
-Rafsi: pez
-Definition: x1 is a leaf of plant x2; x1 is foliage of x2.
-Notes: See also {tricu}, {papri}, {spati}.
-Examples: None
+word: pezli
+rafsi:
+- pez
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a leaf of plant x2; x1 is foliage of x2.
+    notes:
+    - See also {tricu}, {papri}, {spati}.
+    glosses:
+    - leaf
+  de:
+    place structure: x1 ist ein Blatt von Pflanze x2; x1 ist das Laub von x2
+    notes:
+    - No notes.
+    glosses:
+    - Blatt
+  es:
+    place structure: x1 es una hoja de planta/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - hoja
+  ru:
+    place structure: x1 — лист растения/вида x2; x1 — листва x2
+    notes:
+    - '{tricu} (дерево), {papri} (страница), {spati} (растение)'
+    glosses:
+    - x1=лист (растения)
+  en-simple:
+    place structure: x1 is a leaf of plant x2
+    notes:
+    - No notes.
+    glosses:
+    - a leaf
+    - x2=a plant with a leaf
+  eo:
+    place structure: x1 estas foli(ar)o de planto x2
+    notes:
+    - Vidu ankaŭ {tricu}, {papri}, {spati}.
+    glosses:
+    - folio
+  hu:
+    place structure: x1 egy levele x2 növénynek
+    notes:
+    - '(Lásd még: {tricu}, {papri}, {spati})'
+    glosses:
+    - levél (növényi rész)
+  ja:
+    place structure: x1 は x2 （植物）の葉
+    notes:
+    - ・大意： 葉 ・読み方： ペズルィ  ・関連語： {tricu}, {papri}, {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是植物x2的叶
+    notes:
+    - 参见 {tricu}, {papri}, {spati}.
+    glosses:
+    - No glosses.

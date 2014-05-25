@@ -1,6 +1,67 @@
-Word: sanmi
-Rafsi: sai
-Definition: x1 (mass) is a meal composed of dishes including x2.
-Notes: $x_2$ is a course/dish of meal $x_1$ (= {selsai} for reordered places).  See
-  also {barja}, {stasu}, {gusta}, {sanso}.
-Examples: None
+word: sanmi
+rafsi:
+- sai
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass) is a meal composed of dishes including x2.
+    notes:
+    - x2 is a course/dish of meal x1 (= {selsai} for reordered places).  See also
+      {barja}, {stasu}, {gusta}, {sanso}.
+    glosses:
+    - meal
+  de:
+    place structure: x1 (Masse) ist ein Mahl/Essen/Menü zusammengestellt aus Gerichten/Gängen
+      unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Mahl
+  es:
+    place structure: x1 es una comida/desayuno/almuerzo/merienda/cena con platos x2
+    notes:
+    - No notes.
+    glosses:
+    - comida
+  ru:
+    place structure: x1 — трапеза/{обед/завтрак/ужин}, включающая блюда x2; также
+      еда/пища
+    notes:
+    - 'x2 — блюдо, входящее в обед x1: {selsai} с перестановкой мест {barja} (бар),
+      {stasu} (суп), {gusta} (ресторан), {sanso} (соус)'
+    glosses:
+    - x1=трапеза
+  en-simple:
+    place structure: x1 is a meal including x2
+    notes:
+    - No notes.
+    glosses:
+    - a meal
+    - x2=a meal dish
+  eo:
+    place structure: x1 (kolektivaĵo) estas manĝaĵo konsista el pladoj inkluzivanta
+      x2-on
+    notes:
+    - x2 estas plado de manĝoservico x1 (= selsai por reordigitaj {lokoj}).  Vidu
+      ankaŭ {barja}, {stasu}, {gusta}, {sanso}.
+    glosses:
+    - manĝaĵo
+  hu:
+    place structure: x1 [sokaság] egy étkezés, x2 fogásokkal
+    notes:
+    - '(Lásd még: {barja}, {stasu}, {gusta}, {sanso})'
+    glosses:
+    - étkezés
+  ja:
+    place structure: x1 （群）は x2 （品／コース）の食事／ごはん
+    notes:
+    - ・大意： 食事 ・読み方： サンミ  ・関連語： {barja}, {stasu}, {gusta}, {sanso}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（团）是一餐/一顿饭，包括菜肴x2
+    notes:
+    - x2是x1中的菜肴；参见 {barja}, {stasu}, {gusta}, {sanso}.
+    glosses:
+    - No glosses.

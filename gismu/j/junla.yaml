@@ -1,6 +1,74 @@
-Word: junla
-Rafsi: jul
-Definition: x1 is clock/watch/timer measuring time units x2 to precision x3 with timing
-  mechanism/method x4.
-Notes: Also timepiece.  See also {cacra}, {mentu}, {snidu}, {tcika}, {temci}.
-Examples: None
+word: junla
+rafsi:
+- jul
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is clock/watch/timer measuring time units x2 to precision
+      x3 with timing mechanism/method x4.
+    notes:
+    - Also timepiece.  See also {cacra}, {mentu}, {snidu}, {tcika}, {temci}.
+    glosses:
+    - clock
+  de:
+    place structure: x1 ist eine Uhr und misst Zeiteinheiten x2 mit Genauigkeit x3
+      und Methode x4
+    notes:
+    - No notes.
+    glosses:
+    - Uhr
+  es:
+    place structure: x1 es un reloj que mide unidades de tiempo x2 con precision x3
+      con mecanismo/método x4
+    notes:
+    - No notes.
+    glosses:
+    - reloj
+  ru:
+    place structure: x1 — часы/хронометр/таймер/секундомер, отмеряющий единицы времени
+      x2 с точностью x3, с помощью механизма/метода x4
+    notes:
+    - '{cacra} (час), {mentu} (минута), {snidu} (секунда), {tcika} (время [события]),
+      {temci} (время [промежуток])'
+    glosses:
+    - x1=часы (хронометр)
+    - x2=единица, отмеряемая часами (хронометром)
+    - x3=точность часов (хронометра)
+    - x4=часовой механизм
+  en-simple:
+    place structure: x1 is a timer or  clock measuring time units x2 to precision
+      x3 with method x4
+    notes:
+    - No notes.
+    glosses:
+    - a timer
+    - x2=a unit of time
+    - x3=a timing precision
+    - x4=a timing method
+  eo:
+    place structure: x1 estas horloĝo/kronometro mezuranta tempunuojn x2 je precizeco
+      x3 kun mekanismo/metodo x4
+    notes:
+    - Vidu ankaŭ {cacra}, {mentu}, {snidu}, {tcika}, {temci}.
+    glosses:
+    - horloĝo
+  hu:
+    place structure: x1 egy óra, amely x2 időegységeket mér x3 pontossággal, x4 elven
+    notes:
+    - '(Lásd még: {cacra}, {mentu}, {snidu}, {tcika}, {temci})'
+    glosses:
+    - óra (időmérő)
+  ja:
+    place structure: x1 は x2 （時間単位）を x3 （精度）・ x4 （方法）で計測する時計／計時器具
+    notes:
+    - 「ストップウォッチ」も。 ・大意： 時計 ・読み方： ジュンルァ  ・関連語： {cacra}, {mentu}, {snidu}, {tcika},
+      {temci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是表/钟/计时器，具有计时单位x2，精度为x3，使用计时原理/方法x4
+    notes:
+    - 参见 {cacra}, {mentu}, {snidu}, {tcika}, {temci}.
+    glosses:
+    - No glosses.

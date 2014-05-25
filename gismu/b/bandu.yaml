@@ -1,8 +1,123 @@
-Word: bandu
-Rafsi: bad
-Definition: x1 (event) defends/protects x2 (object/state) from threat/peril/potential
-  x3 (event).
-Notes: Also secures (verb); $x_1$ wards/resists $x_3$; protective cover/shield (=
-  {badgai}).  See also {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura},
-  {binra}, {lunbe}, {pulji}.
-Examples: None
+word: bandu
+rafsi:
+- bad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) defends/protects x2 (object/state) from threat/peril/potential
+      x3 (event).
+    notes:
+    - Also secures (verb); x1 wards/resists x3; protective cover/shield (= {badgai}).  See
+      also {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra},
+      {lunbe}, {pulji}.
+    glosses:
+    - defend (non-agentive)
+  de:
+    place structure: x1 (Ereignis) verteidigt/schützt x2 (Objekt/Zustand) gegen Bedrohung/Gefahr/Möglichkeit
+      x3 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - verteidigen
+  es:
+    place structure: x1 (evento) defiende/protege/ampara a x2 de amenaza/peligro potencial
+      x3 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - defender
+  fr:
+    place structure: x1 (évènement) défend/protège x2 (objet/état) du danger/péril
+      x3 (évènement)
+    notes:
+    - Aussi "sécuriser"; x1 résiste à x3; Couvert protecteur/bouclier (= {badgai});
+      Voir également {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura},
+      {binra}, {lunbe}, {pulji}.
+    glosses:
+    - défendre
+    - protéger
+    - sécuriser
+  ru:
+    place structure: x1 (событие) защищает/обороняет x2 (объект/состояние) от угрозы/опасности/возможности
+      x3
+    notes:
+    - 'Также: охраняет/предохраняет; x1 сдерживает/сопротивляется/отбрасывает/отбивается
+      от x3; защитное покрытие/щит: {badgai} {ckape} (опасный), {fanta} (препятствовать
+      [не давать произойти]), {fapro} (противостоять), {marbi} (убежище), {rivbi}
+      (избегать [участи]), {zunti} (мешать [препятствовать]), {snura} (защищенный
+      [в безопасности]), {binra} (страховать), {lunbe} (голый), {pulji} (полицейский)'
+    glosses:
+    - защищать
+    - x1=защищающий
+    - x2=защищаемый
+  en-simple:
+    place structure: x1 defends x2 from threat x3
+    notes:
+    - No notes.
+    glosses:
+    - a defender
+    - x2=something defended
+    - x3=a threat defended
+  eo:
+    place structure: x1 (okazo) defendas/protektas x2-on (objekto/stato) de minaco/danĝero
+      x3 (okazo)
+    notes:
+    - 'Ankaŭ: sekurigi; x1 fortenas/rezistas x3-on; protekta kovrilo/ŝirmilo (= {badgai}).  Vidu
+      ankaŭ {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra},
+      {lunbe}, {pulji}.'
+    glosses:
+    - defendi
+  hu:
+    place structure: x1 esemény megvédi x2-t x3 eseménytől
+    notes:
+    - '(Lásd még: {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra},
+      {lunbe}, {pulji})'
+    glosses:
+    - véd
+  ja:
+    place structure: x1 は x2 （物／状態）を x3 （危険／脅威／可能性）から保護／守護する；  x1 は x3 にたいして防御する
+    notes:
+    - 「lo dikca dertu jorne cu bandu fi lo dikca jenca／アースは感電を防ぐ」 ・大意： 保護 ・読み方： バンドゥ  ・語呂合わせ：
+      ＜バンドーイルカ＞, bau（保）,defend ・関連語： {ckape}, {fanta}, {fapro}, {marbi}, {rivbi},
+      {zunti}, {snura}, {binra}, {lunbe}, {pulji}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 (hendelse) beskytter/forsvarer/sikrer x2 (object/tilstand)
+      fra trussel/fare x3 (hendelse)
+    notes:
+    - Sikrer også (verb); x1 motstår x3; beskyttende skjold/dekke (={badgai}). Se
+      også binra, {ckape}, {fanta}, {fapro}, {lunbe}, {marbi}, {rivbi}, {pulji}, {snura},
+      {zunti}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (tilldragelse) försvarar/skyddar/fredar x2 (objekt/tillstånd)
+      från hot/risk/fara/skadlig potential x3
+    notes:
+    - Även x1 beskyddar x2; x1 avvärjer/motstår/står emot x2; ta betäckning (= ko
+      bandu); skyddande skärm/sköld ={badgai}. Se även {ckape}, {fanta}, {fapro},
+      {marbi}, {rivbi}, {zunti}, {lunbe}, {snura}, {binra}, {pulji}.
+    glosses:
+    - avvärja (skydda sig)
+    - defensiv
+    - fara (att försvara sig mot)
+    - freda (skydda)
+    - försvara
+    - motstå (skydda sig)
+    - risk (att försvara sig mot)
+    - skydda
+    - stå emot (skydda sig)
+    - ta betäckning
+    - vakt (skydda)
+    - x1=försvar (handling för att skydda sig från hot)
+    - x2=försvarad
+    - x3=hot (att försvara sig mot)
+  zh:
+    place structure: x1（事件）守卫/保护x2（物体/形态），免受x3（事件）的威胁/伤害/潜在攻击
+    notes:
+    - 也指“拯救”；x1抵抗x3；护盾={badgai}；参见 {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti},
+      {snura}, {binra}, {lunbe}, {pulji}
+    glosses:
+    - No glosses.

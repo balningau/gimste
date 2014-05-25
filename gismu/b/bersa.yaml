@@ -1,6 +1,109 @@
-Word: bersa
-Rafsi: bes, be'a
-Definition: x1 is a son of mother/father/parents x2 [not necessarily biological].
-Notes: Also filial.  See also {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta},
-  {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
-Examples: None
+word: bersa
+rafsi:
+- bes
+- be'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a son of mother/father/parents x2 [not necessarily biological].
+    notes:
+    - Also filial.  See also {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta},
+      {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - son
+  jbo:
+    place structure: x1 nakni gi'e se rirni x2
+    notes:
+    - No notes.
+    glosses:
+    - bersa
+  de:
+    place structure: x1 ist Sohn der Mutter/des Vaters/der Eltern x2 [nicht notwendigerweise
+      biologisch]
+    notes:
+    - Siehe auch {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni},
+      {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - x1=Sohn
+  es:
+    place structure: x1 es hijo (varón) de madre/padre x2 (no necesariamente biológico)
+    notes:
+    - Ver también {panzi},  {tixnu}.
+    glosses:
+    - hijo
+  fr:
+    place structure: x1 est le fils de père/mère/parents x2 (pas nécessairement biologiquement).
+    notes:
+    - Aussi "filial". Voir également {verba}, {nanla}, {nakni}, {nanmu}, {patfu},
+      {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - fils
+  ru:
+    place structure: x1 — сын матери/отца/родителей x2 (не обязательно биологический)
+    notes:
+    - '{verba} (ребенок), {nanla} (мальчик), {nakni} (самец), {nanmu} (мужчина), {patfu}
+      (отец), {mamta} (мать), {bruna} (брат), {rirni} (родитель), {rorci} (порождать),
+      {panzi} (потомок), {tixnu} (дочь)'
+    glosses:
+    - сын
+    - x2=родитель сына
+  en-simple:
+    place structure: x1 is a son of x2
+    notes:
+    - No notes.
+    glosses:
+    - a son
+    - x2=something with a son
+  eo:
+    place structure: x1 estas filo de patro/patrino/gepatroj x2 [ne nepre biologiaj]
+    notes:
+    - Vidu ankaŭ {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni},
+      {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - filo
+  hu:
+    place structure: x1 egy/a fia x2 szülő(k)nek
+    notes:
+    - 'Nem feltétlenül utal biológiai rokonságra (Lásd még: {verba}, {nanla}, {nakni},
+      {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu})'
+    glosses:
+    - fiú (hímnemű leszármazott)
+  ja:
+    place structure: x1 は x2 （親）の息子
+    notes:
+    - 実の／生物学的な息子に限らない。 ・大意： 息子 ・読み方： ベルサ  ・語呂合わせ： ＜ベロの先＞, son, er(儿) ・関連語： {verba},
+      {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi},
+      {tixnu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er sønn av mor/far/foreldre x2 (ikke nødvendigvis biologisk)
+    notes:
+    - Se også {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni},
+      {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to syn matki/ojca/rodziców x2 [nie koniecznie biologicznych].
+    notes:
+    - Cf. {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni},
+      {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - syn
+  sv:
+    place structure: x1 är son till moder/fader/förälder x2 (inte nödvändigtvis biologisk).
+    notes:
+    - Även sonlig. Se även {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna},
+      {rirni}, {rorci}, {panzi}, {tixnu}.
+    glosses:
+    - sonlig
+    - x1=son
+    - x2=förälder till son
+  zh:
+    place structure: x1是x2的儿子（不必要指生物学上的关系）
+    notes:
+    - 参见 {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci},
+      {panzi}, {tixnu}
+    glosses:
+    - No glosses.

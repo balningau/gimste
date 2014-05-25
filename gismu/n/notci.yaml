@@ -1,10 +1,88 @@
-Word: notci
-Rafsi: not, noi
-Definition: x1 is a message/notice/memorandum about subject x2 from author x3 to intended
-  audience x4.
-Notes: 'Emphasis on brevity, single or identifiable subject (contrast with xatra:
-  the emphasis in notci is on the single or cohesively focused subject, while the
-  audience is less defined - indeed only an ''intended'' audience.  xatra need not
-  have a single or focussed subject - its corresponding place is for ''content'');
-  reminder/memo/note (= {mojnoi}).  See also {xatra}, {nuzba}, {mrilu}, {morji}.'
-Examples: None
+word: notci
+rafsi:
+- not
+- noi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a message/notice/memorandum about subject x2 from author
+      x3 to intended audience x4.
+    notes:
+    - 'Emphasis on brevity, single or identifiable subject (contrast with xatra: the
+      emphasis in notci is on the single or cohesively focused subject, while the
+      audience is less defined - indeed only an ''intended'' audience.  xatra need
+      not have a single or focussed subject - its corresponding place is for ''content'');
+      reminder/memo/note (= {mojnoi}).  See also {xatra}, {nuzba}, {mrilu}, {morji}.'
+    glosses:
+    - message
+    - x1=note (memorandum)
+  de:
+    place structure: x1 ist eine Nachricht/Notiz/Memorandum/Mitteilung über Thema
+      x2 von Autor x3 an beabsichtigte Zielgruppe x4
+    notes:
+    - No notes.
+    glosses:
+    - Nachricht
+  es:
+    place structure: x1 es un mensaje/nota/memorándum sobre tema x2 de autor x3 para
+      audiencia x4
+    notes:
+    - No notes.
+    glosses:
+    - mensaje
+  ru:
+    place structure: x1 — заметка/статья/меморандум/сообщение о предмете x2 автора
+      x3 для предполагаемой аудитории x4
+    notes:
+    - 'Акцент на краткости, достаточно четко обозначенной теме; контраст с {xatra}:
+      акцент в [notci] на единственной теме или хорошо очерченном круге вопросов,
+      тогда как аудитория определена менее четко — скорее как «предполагаемая» аудитория;
+      {xatra} может не иметь определенной темы — соответствующее место занято под
+      «содержание»; напоминание/меморандум/памятная записка: {mojnoi} {xatra} (письмо),
+      {nuzba} (новость), {mrilu} (посылать), {morji} (помнить)'
+    glosses:
+    - сообщение
+    - x1=заметка
+    - x2=предмет заметки
+    - x3=автор заметки
+  en-simple:
+    place structure: x1 is a message about x2 from author x3 to x4
+    notes:
+    - No notes.
+    glosses:
+    - a message
+    - x2=a message subject
+    - x3=a message author
+    - x4=a message audience
+  eo:
+    place structure: x1 estas mesaĝo/noto/memorando pri temo x2 de aŭtoro x3 por celita
+      publiko x4
+    notes:
+    - '8     Emfazo je mallongeco, unuopa aŭ identigebla temo (kontrasto kun xatra:
+      la emfazo en notci estas je unuopa aŭ kohere focusigita temo, dum la ricevantoj
+      estas malpli difinitaj - ja nur ''celata'' publiko. xatra ne nepre havas unuopan
+      aŭ fokusigitan temon - la responda loko estas por ''enhavo''); memorigilo/memorando/noto
+      (= {mojnoi}).  Vidu ankaŭ {xatra}, {nuzba}, {mrilu}, {morji}.'
+    glosses:
+    - mesaĝo
+  hu:
+    place structure: x1 egy üzenet/figyelmeztetés/emlékeztető x2-ről, x3-tól, x4-nek
+    notes:
+    - '(Lásd még: {xatra}, {nuzba}, {mrilu}, {morji})'
+    glosses:
+    - üzenet
+  ja:
+    place structure: x1は主題x2に関する、著者x3によって所期の受け手x4に向けられたメッセージ/通知/メモである
+    notes:
+    - '主題が簡潔で、単一であるまたは同一視できるものであることに重点を置く ({xatra}と対照すると: notci では単一またはまとまった主題に重点が置かれ、受け手は明瞭に定められていない
+      - 実際、所期の、である. {xatra}は一つに定まった主題は必要ない - 対応する場所には''内容''が入る); 注意/メモ/覚書(= {mojnoi}).
+      参照: {xatra}, {nuzba}, {mrilu}, {morji}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是消息/通知/信息/备忘录，关于主题x2，作者为x3，目标受众/受者为x4
+    notes:
+    - 强调简洁的，单一的或可识别的主题；接受者是弱定义的，只是说明了目标接受者而非实际接受者； {xatra}不具有单一主题而是包含内容；备忘录= {mojnoi}；参见
+      {xatra}, {nuzba}, {mrilu}, {morji}.
+    glosses:
+    - No glosses.

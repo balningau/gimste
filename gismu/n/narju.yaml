@@ -1,5 +1,69 @@
-Word: narju
-Rafsi: naj
-Definition: x1 is orange [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
-Examples: None
+word: narju
+rafsi:
+- naj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is orange [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
+    glosses:
+    - orange (the colour)
+  jbo:
+    place structure: x1 skari lo'e najnimre .a lo'e gusni poi jbini lo'e xunre ku
+      joi lo'e pelxu le ka boxna clani
+    notes:
+    - '{skari}; {najnimre}; {xunre}; {pelxu}'
+    glosses:
+    - narju
+  de:
+    place structure: x1 ist orange (Farb-Adjektiv).
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
+    glosses:
+    - orange (Farbe)
+  es:
+    place structure: x1 es naranja/anaranjado (color)
+    notes:
+    - No notes.
+    glosses:
+    - naranja
+  ru:
+    place structure: x1 — оранжевый (о цвете)
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный), {xunre} (красный), {pelxu} (желтый), {solji} (золото)'
+    glosses:
+    - x1=оранжевый
+  en-simple:
+    place structure: x1 is orange
+    notes:
+    - No notes.
+    glosses:
+    - something orange
+  eo:
+    place structure: x1 estas oranĝa [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
+    glosses:
+    - oranĝa
+  hu:
+    place structure: x1 narancssárga/-vörös színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji})'
+    glosses:
+    - narancssárga
+  ja:
+    place structure: x1 は橙色／オレンジ色
+    notes:
+    - ・大意： 橙色 ・読み方： ナルジュ  ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre},
+      {pelxu}, {solji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是橙色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
+    glosses:
+    - No glosses.

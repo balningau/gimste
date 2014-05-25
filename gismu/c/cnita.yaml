@@ -1,6 +1,81 @@
-Word: cnita
-Rafsi: nit, ni'a
-Definition: x1 is directly/vertically beneath/below/under/underneath/down from x2
-  in frame of reference x3.
-Notes: Also underside, nether.  See also {dizlo}, {gapru}, {galtu}, {farna}, {loldi}.
-Examples: None
+word: cnita
+rafsi:
+- nit
+- ni'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is directly/vertically beneath/below/under/underneath/down
+      from x2 in frame of reference x3.
+    notes:
+    - Also underside, nether.  See also {dizlo}, {gapru}, {galtu}, {farna}, {loldi}.
+    glosses:
+    - beneath
+    - under (beneath)
+  de:
+    place structure: x1 ist genau/senkrecht unter/unterhalb von x2 in Bezugssystem
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - unterhalb
+  es:
+    place structure: x1 está abajo/debajo de x2 según marco de referencia/gravedad
+      x3
+    notes:
+    - Ver también {gapru},  {dizlo}.
+    glosses:
+    - abajo
+  ru:
+    place structure: x1 находится под x2 в системе отсчета x3
+    notes:
+    - 'Также: нижний {dizlo} (низкий), {gapru} (над), {galtu} (высокий), {farna} (направление),
+      {loldi} (пол [дно])'
+    glosses:
+    - под
+  en-simple:
+    place structure: x1 is directly beneath or below x2 in reference frame x3
+    notes:
+    - No notes.
+    glosses:
+    - something beneath
+    - x2=something to which something is beneath
+    - x3=a reference frame of beneathness
+  eo:
+    place structure: x1 estas rekte/vertikale sub x2 en referenckadro x3
+    notes:
+    - 'Ankaŭ: malsupra, suba.  Vidu ankaŭ {dizlo}, {gapru}, {galtu}, {farna}, {loldi}.'
+    glosses:
+    - sub
+  hu:
+    place structure: x1 közvetlenül/függőlegesen alatta/lefelé van x2-nek/-től, x3
+      vonatkoztatási rendszerben
+    notes:
+    - '(Lásd még: {dizlo}, {gapru}, {galtu}, {farna}, {loldi})'
+    glosses:
+    - alsó
+  ja:
+    place structure: x1 は x2 に対して x3 （照合枠）における下方／下側
+    notes:
+    - ・大意： 下 ・読み方： シニタ  ・語呂合わせ： 下で死にたい ・関連語： {dizlo}, {gapru}, {galtu}, {farna}, {loldi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är direkt/vertikalt nedanför/under/nedtill av/nedan/nere i
+      riktning från x2 i referensram x3.
+    notes:
+    - Även på undersidan/nedre.
+    glosses:
+    - nedanför
+    - nedre
+    - nedtill (på undersidan)
+    - nere (nedanför)
+    - under (nedanför)
+  zh:
+    place structure: x1 在x2的直接垂直下方，以参考系x3为基准.
+    notes:
+    - No notes.
+    glosses:
+    - 下
+    - 下面

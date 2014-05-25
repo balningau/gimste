@@ -1,5 +1,60 @@
-Word: snime
-Rafsi: si'e
-Definition: x1 is made of/contains/is a quantity/expanse of snow.
-Notes: See also {bratu}, {carvi}, {bisli}.
-Examples: None
+word: snime
+rafsi:
+- si'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity/expanse of snow.
+    notes:
+    - See also {bratu}, {carvi}, {bisli}.
+    glosses:
+    - snow
+  de:
+    place structure: x1 ist eine Menge/Fläche an/enthält/besteht aus Schnee
+    notes:
+    - No notes.
+    glosses:
+    - Schnee
+  es:
+    place structure: x1 es una cantidad/extensión de nieve
+    notes:
+    - No notes.
+    glosses:
+    - nieve
+  ru:
+    place structure: x1 — снег
+    notes:
+    - '{bratu} (град [осадок]), {carvi} (дождь), {bisli} (лед)'
+    glosses:
+    - x1=снег
+  en-simple:
+    place structure: x1 is a quantity of snow
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of snow
+  eo:
+    place structure: x1 konsistas el/enhavas/estas kvanto/etendo da neĝo
+    notes:
+    - Vidu ankaŭ {bratu}, {carvi}, {bisli}.
+    glosses:
+    - neĝo
+  hu:
+    place structure: x1 bizonyos mennyiségű hó / havat tartalmaz/-ból készült
+    notes:
+    - '(Lásd még: {bratu}, {carvi}, {bisli})'
+    glosses:
+    - hó
+  ja:
+    place structure: x1 は雪／雪原
+    notes:
+    - ・大意： 雪 ・読み方： スニメ  ・関連語： {bratu}, {carvi}, {bisli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是雪
+    notes:
+    - 参见 {bratu}, {carvi}, {bisli}.
+    glosses:
+    - No glosses.

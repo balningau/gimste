@@ -1,6 +1,71 @@
-Word: spali
-Rafsi: ''
-Definition: x1 (agent) polishes object/surface x2 with polish x3, applied using tool
-  x4.
-Notes: See also {mosra}, {sraku}, {xutla}.
-Examples: None
+word: spali
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) polishes object/surface x2 with polish x3, applied
+      using tool x4.
+    notes:
+    - See also {mosra}, {sraku}, {xutla}.
+    glosses:
+    - polish
+  de:
+    place structure: x1 (Handelnder) poliert Objekt/Oberfläche x2 mit Politur x3,
+      aufgetragen mit Werkzeug x4
+    notes:
+    - No notes.
+    glosses:
+    - polieren
+  es:
+    place structure: x1 lustra/pule/saca brillo a objeto/superficie x2 con pomada
+      x3 usando herramienta x4
+    notes:
+    - No notes.
+    glosses:
+    - lustrar
+  ru:
+    place structure: x1 полирует/шлифует предмет/поверхность x2, нанося полирующее
+      вещество x3 инструментом x4
+    notes:
+    - '{mosra} (трение), {sraku} (царапать), {xutla} (гладкий)'
+    glosses:
+    - шлифовать
+    - x2=шлифуемое
+    - x3=полирующее вещество
+  en-simple:
+    place structure: x1 polishes x2 with polish x3 using tool x4
+    notes:
+    - No notes.
+    glosses:
+    - a polisher
+    - x2=something polished
+    - x3=a polish
+    - x4=a polising tool
+  eo:
+    place structure: x1 (aganto) poluras objekton/surfacon x2 per poluro x3, aplikata
+      per ilo x4
+    notes:
+    - Vidu ankaŭ {mosra}, {sraku}, {xutla}.
+    glosses:
+    - poluri
+  hu:
+    place structure: x1 fényezi/fényesíti/polírozza x2 tárgyat/felületet x3 fényezőanyaggal,
+      x4 eszközzel
+    notes:
+    - '(Lásd még: {mosra}, {sraku}, {xutla})'
+    glosses:
+    - fényez
+  ja:
+    place structure: x1 は x2 （表面）を x3 （剤）で x4 （道具）で磨く
+    notes:
+    - ・大意： 磨く ・読み方： スパルィ  ・語呂合わせ： スパリスパリと磨きをかける ・関連語： {mosra}, {sraku}, {xutla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1擦亮表面/物体x2，使用擦亮剂x3，擦用工具x4
+    notes:
+    - 参见 {mosra}, {sraku}, {xutla}.
+    glosses:
+    - No glosses.

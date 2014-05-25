@@ -1,5 +1,70 @@
-Word: korcu
-Rafsi: kro
-Definition: (adjective:) x1 is bent/crooked/not straight or direct/[twisted]/folded.
-Notes: See also {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}.
-Examples: None
+word: korcu
+rafsi:
+- kro
+examples: No examples.
+definitions:
+  en:
+    place structure: (adjective:) x1 is bent/crooked/not straight or direct/[twisted]/folded.
+    notes:
+    - See also {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}.
+    glosses:
+    - bent
+    - bent (not straight)
+    - crooked (bent)
+  jbo:
+    place structure: x1 na'e sirji
+    notes:
+    - '{sirji}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: (Adjektiv:) x1 ist gebogen/gekrümmt/nicht gerade oder direkt/gefaltet
+    notes:
+    - No notes.
+    glosses:
+    - gebogen
+  es:
+    place structure: x1 está torcido/doblado
+    notes:
+    - Ver también {sirji}.
+    glosses:
+    - torcido
+  ru:
+    place structure: x1 — согнутый/изогнутый/кривой/{не прямой}
+    notes:
+    - '{cinje} (складка), {klupe} (винт), {kruvi} (изгиб), {polje} (морщить), {sarlu}
+      (спираль), {sirji} (прямой), {bargu} (арка), {genxu} (крюк)'
+    glosses:
+    - согнутый
+  en-simple:
+    place structure: x1 is bent or crooked
+    notes:
+    - No notes.
+    glosses:
+    - something bent
+  eo:
+    place structure: (adjektivo:) x1 estas malrekta/kurba/hoka/[tordita]/faldita
+    notes:
+    - Vidu ankaŭ {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}.
+    glosses:
+    - malrekta
+  hu:
+    place structure: x1 görbe/hajlított/hajtott/csavart
+    notes:
+    - '(Lásd még: {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu})'
+    glosses:
+    - görbe
+  ja:
+    place structure: x1 は歪んでいる／ねじれている
+    notes:
+    - ・大意： 歪む ・読み方： コルシュ  ・関連語： {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji},
+      {bargu}, {genxu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是弯曲的/不直的
+    notes:
+    - 参见 {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}.
+    glosses:
+    - No glosses.

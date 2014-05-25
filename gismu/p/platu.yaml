@@ -1,7 +1,73 @@
-Word: platu
-Rafsi: pla
-Definition: x1 (agent) plans/designs/plots plan/arrangement/plot/[schematic] x2 for
-  state/process x3.
-Notes: Also invents/organizes; $x_2$ design, scheme; the structure or layout of an
-  object would be represented as a state in $x_3$.  See also {cartu}.
-Examples: None
+word: platu
+rafsi:
+- pla
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) plans/designs/plots plan/arrangement/plot/[schematic]
+      x2 for state/process x3.
+    notes:
+    - Also invents/organizes; x2 design, scheme; the structure or layout of an object
+      would be represented as a state in x3.  See also {cartu}.
+    glosses:
+    - measure (tactic/strategy)
+    - plan
+  de:
+    place structure: x1 (Handelnder) plant/entwirft/gestaltet/heckt aus Plan/Absprache/Gestaltung/Verlauf/[Schema]
+      x2 für Zustand/Prozess x3
+    notes:
+    - No notes.
+    glosses:
+    - planen
+  es:
+    place structure: x1 planea/planifica/diseña/trama plan/arreglo/esquema x2 para
+      estado/proceso x3
+    notes:
+    - No notes.
+    glosses:
+    - planear
+  ru:
+    place structure: 'x1 планирует/замышляет/проектирует x2 (что: план/замысел/проект)
+      для x3 (состояние/процесс)'
+    notes:
+    - 'Также: затевает, придумывает, организует; x2 — Также: конструкция, схема; структура
+      или планировка объекта могут быть представлены как состояние в x3 {cartu} (чертеж)'
+    glosses:
+    - планировать
+    - x1=планирующий
+    - x2=план
+  en-simple:
+    place structure: x1 plans x2 for x3
+    notes:
+    - No notes.
+    glosses:
+    - a planner
+    - x2=a plan
+    - x3=something planned
+  eo:
+    place structure: x1 (aganto) planas planon/aranĝon/[skemon] x2 por stato/procedo
+      x3
+    notes:
+    - 'Ankaŭ: inventas/organizas; x2 figuraĵo, skemo; la strukturo aŭ aranĝo de objekto
+      estus reprezentata kiel stato en x3.  Vidu ankaŭ {cartu}.'
+    glosses:
+    - plani
+  hu:
+    place structure: x1 megtervezi/koreografálja x2 tervet/elgondolást x3 állapothoz/eseményhez
+    notes:
+    - '(Lásd még: {cartu})'
+    glosses:
+    - tervez
+  ja:
+    place structure: x1 （者）は x2 （物／事）を x3 （事）のために計画／設計／デザインする／企てる
+    notes:
+    - ・大意： 計画 ・読み方： プルァトゥ ・関連語： {cartu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1计划/规划/安排x2（具体计划内容/概要），以期实现/达到/进行x3
+    notes:
+    - x2指计划/设计；对象的结构和布局将表示为状态x3； 参见 {cartu}.
+    glosses:
+    - No glosses.

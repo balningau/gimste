@@ -1,6 +1,72 @@
-Word: lacri
-Rafsi: lac
-Definition: x1 relies/depends/counts on/trusts x2 to bring about/ensure/maintain x3
-  (event/state).
-Notes: See also {minde}, {nitcu}, {tinbe}.
-Examples: None
+word: lacri
+rafsi:
+- lac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 relies/depends/counts on/trusts x2 to bring about/ensure/maintain
+      x3 (event/state).
+    notes:
+    - See also {minde}, {nitcu}, {tinbe}.
+    glosses:
+    - depend (rely)
+    - dependent (relying upon)
+    - rely
+  de:
+    place structure: x1 verlässt sich auf/vertraut x2, dass er/sie/es x3 (Ereignis/Zustand)
+      herbeiführt/sicherstellt/aufrecht erhält
+    notes:
+    - No notes.
+    glosses:
+    - sich verlassen
+  es:
+    place structure: x1 confía/cuenta con x2 para hacer/mantener x3
+    notes:
+    - No notes.
+    glosses:
+    - confiar
+  ru:
+    place structure: x1 полагается на/рассчитывает на/доверяет x2, чтобы обеспечить/поддерживать
+      x3 (событие/состояние)
+    notes:
+    - '{minde} (командовать), {nitcu} (нуждаться), {tinbe} (подчиняться)'
+    glosses:
+    - доверять
+    - x1=доверяющий
+    - x2=на кого рассчитывают
+    - x3=на что рассчитывают
+  en-simple:
+    place structure: x1 relies on or trusts x2 to do x3
+    notes:
+    - No notes.
+    glosses:
+    - a relyer
+    - x2=something relied on
+    - x3=something on which something is relied to do
+  eo:
+    place structure: x1 fidas/konfidas al x2 por efektivigi/plenumi/subteni x3-on
+      (okazo/stato)
+    notes:
+    - Vidu ankaŭ {minde}, {nitcu}, {tinbe}.
+    glosses:
+    - fidi
+  hu:
+    place structure: x1 bízik abban, hogy x2 előidézi/végrehajtja/biztosítja x3 eseményt/állapotot
+    notes:
+    - '(Lásd még: {minde}, {nitcu}, {tinbe})'
+    glosses:
+    - bízik
+  ja:
+    place structure: x1 は x2 に依存して x3 （事／状態）の発生／保障／維持を求める；  x1 は x2 を頼りに x3 を期待する
+    notes:
+    - ・大意： 依存 ・読み方： ルァシリ  ・語呂合わせ： tayori 頼り ・関連語： {minde}, {nitcu}, {tinbe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1依赖/仰仗/信任x2能够确保/维持/带来x3（事件/状态）
+    notes:
+    - 查看{minde},{nitcu},{tinbe}
+    glosses:
+    - 依赖
+    - 信任

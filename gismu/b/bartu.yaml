@@ -1,5 +1,89 @@
-Word: bartu
-Rafsi: bar
-Definition: x1 is on the outside of x2; x1 is exterior to x2.
-Notes: See also {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
-Examples: None
+word: bartu
+rafsi:
+- bar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is on the outside of x2; x1 is exterior to x2.
+    notes:
+    - See also {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+    glosses:
+    - out
+  de:
+    place structure: x1 ist außerhalb von x2
+    notes:
+    - Siehe auch {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+    glosses:
+    - außerhalb
+  es:
+    place structure: x1 está afuera/exterior/externo/fuera de x2
+    notes:
+    - Ver también {nenri}.
+    glosses:
+    - afuera
+  fr:
+    place structure: x1 est à l'extérieur de x2.
+    notes:
+    - Voir également {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+    glosses:
+    - dehors
+    - extérieur
+  ru:
+    place structure: x1 находится снаружи/вне x2
+    notes:
+    - '{jibni} (близко), {nenri} (внутри), {sruri} (оркужать), {lamji} (смежный),
+      {korbi} (край), {calku} (панцирь), {vasru} (содержать)'
+    glosses:
+    - снаружи
+  en-simple:
+    place structure: x1 is outside of x2
+    notes:
+    - No notes.
+    glosses:
+    - something outside
+    - x2=something to which something is outside
+  eo:
+    place structure: x1 estas ekster x2
+    notes:
+    - Vidu ankaŭ {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+    glosses:
+    - ekster
+  hu:
+    place structure: x1 kívül van x2-n
+    notes:
+    - '(Lásd még: {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru})'
+    glosses:
+    - kint
+  ja:
+    place structure: x1 は x2 の外／外部／外側
+    notes:
+    - 「lo bartu be lo zdani cu lenku／家の外は寒い（＝ lenku ne'inai lo zdani ）」 ・大意： 外部 ・読み方：
+      バルトゥ  ・語呂合わせ： ＜バルト海＞, biau（表）, out ・関連語： {jibni}, {nenri}, {sruri}, {lamji},
+      {korbi}, {calku}, {vasru}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er på utsiden av x2; x1 er eksternt i forhold til x2
+    notes:
+    - Se også {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}, {cmima},
+      {gubni}, {bancu}, {ze'o}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är på utsidan av x2; x1 är det yttre av x2.
+    notes:
+    - Se även {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}, {cmima},
+      {gubni}, {bancu}, {ze'o}.
+    glosses:
+    - exteriör
+    - utvändig
+    - yttre
+    - x1=utsida
+    - x2=har utsida
+  zh:
+    place structure: x1在x2之外；x1是x2外部的
+    notes:
+    - 参见 {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+    glosses:
+    - No glosses.

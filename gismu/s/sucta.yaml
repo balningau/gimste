@@ -1,6 +1,68 @@
-Word: sucta
-Rafsi: suc
-Definition: x1 (si'o) is abstracted/generalized/idealized from x2 [something concrete]
-  by rules x3.
-Notes: See also {fatci}, {xanri}.
-Examples: None
+word: sucta
+rafsi:
+- suc
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (si'o) is abstracted/generalized/idealized from x2 [something
+      concrete] by rules x3.
+    notes:
+    - See also {fatci}, {xanri}.
+    glosses:
+    - abstract
+  de:
+    place structure: x1 (si'o) ist abstrahiert/verallgemeinert/idealisiert von x2
+      [etwas konkretes] nach Regeln x3
+    notes:
+    - No notes.
+    glosses:
+    - abstrakt
+  es:
+    place structure: x1 es una abstracción/generalización/idealización de x2 según
+      regla x3
+    notes:
+    - No notes.
+    glosses:
+    - abstracción
+  ru:
+    place structure: 'x1 (идея/{si''o}) — абстракция/идеализация/обобщение x2 (чего:
+      что-то конкретное), полученная по правилам x3'
+    notes:
+    - '{fatci} (факт), {xanri} (воображаемый)'
+    glosses:
+    - x1=абстракция
+  en-simple:
+    place structure: x1 is abstracted from x2 by rules x3
+    notes:
+    - No notes.
+    glosses:
+    - an abstraction
+    - x2=something abstracted
+    - x3=a rule of abstraction
+  eo:
+    place structure: x1 (si'o) estas abstrakta/ĝeneraligita/idealigita de x2 [konkretaĵo]
+      laŭ reguloj x3
+    notes:
+    - Vidu ankaŭ {fatci}, {xanri}.
+    glosses:
+    - abstraktaĵo
+  hu:
+    place structure: x1 absztrakt/elvont/idealizált fogalma x2-nek, x3 szabályok által
+    notes:
+    - '(Lásd még: {fatci}, {xanri})'
+    glosses:
+    - absztrakt
+  ja:
+    place structure: x1 （概念）は x2 （具体的なもの）を x3 （原理）によって抽象化／概念化／一般化したもの
+    notes:
+    - x1は「si'o」などで抽象化する。『アビニヨンの娘たち』（x1）はピカソが女（ x2 ）をキュビスム（ x3 ）で抽象化したもの。 ・大意： 抽象 ・読み方：
+      スシタ  ・語呂合わせ： 抽象寿司たべた ・関連語： {fatci}, {xanri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（si'o）是x2（具体的事）的概述/摘要，基于规则x3
+    notes:
+    - 参见 {fatci}, {xanri}.
+    glosses:
+    - No glosses.

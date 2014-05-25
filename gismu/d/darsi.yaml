@@ -1,6 +1,82 @@
-Word: darsi
-Rafsi: ''
-Definition: x1 shows audacity/chutzpah in behavior x2 (event/activity); x1 dares to
-  do/be x2 (event/ka).
-Notes: $x_1$ is bold.  See also {virnu}.
-Examples: None
+word: darsi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 shows audacity/chutzpah in behavior x2 (event/activity); x1
+      dares to do/be x2 (event/ka).
+    notes:
+    - x1 is bold.  See also {virnu}.
+    glosses:
+    - audacity
+  de:
+    place structure: x1 ist dreist im Betragen x2 (Ereignis/Aktivität); x1 wagt es/traut
+      sich, x2 zu tun/zu sein (Ereignis/ka);
+    notes:
+    - No notes.
+    glosses:
+    - dreist
+  es:
+    place structure: x1 es audaz/arriesgado/osa/se anima a ser/hacer x2 (evento)
+    notes:
+    - No notes.
+    glosses:
+    - animarse
+    - audaz
+    - osar
+  ru:
+    place structure: x1 проявляет дерзость в поведении x2 (событие/деятельность);
+      x1 смеет/дерзает делать/быть x2 (событие/{ka})
+    notes:
+    - 'Также: отважный, смелый, храбрый ([zabna]); наглый, нахальный ([mabla]) {virnu}
+      (храбрый)'
+    glosses:
+    - дерзить
+    - x1=дерзящий
+  en-simple:
+    place structure: x1 shows audacity in behavior x2
+    notes:
+    - No notes.
+    glosses:
+    - something showing audacity
+    - x2=an audacious behaviour
+  eo:
+    place structure: x1 audacas en konduto x2 (okazo/agado); x1 kuraĝas/maltimas esti
+      x2/fari x2-on (okazo/ka)
+    notes:
+    - x1 estas brava/sentima.  Vidu ankaŭ {virnu}.
+    glosses:
+    - aŭdaci
+  hu:
+    place structure: x1 merész/elszánt/szemtelen/pimasz x2 cselekedetében
+    notes:
+    - '(Lásd még: {virnu})'
+    glosses:
+    - merész
+  ja:
+    place structure: x1 （者）は x2 （事／行為）に関して大胆に振舞う／ずぶとさをみせる／厚かましい；  x1 はあえて／思い切って x2
+      をする
+    notes:
+    - ・大意： 大胆 ・読み方： ダルスィ  ・関連語： {virnu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är oförskämd/fräck/tyken/uppstudsig i beteende x2 (händelse/aktivitet);
+      x1 (har fräckheten/har mage att) våga göra/vara x2 (händelse/ka).
+    notes:
+    - x1 är fräck/vågad.
+    glosses:
+    - oförskämd
+    - tyken
+    - uppstudsig
+    - våga (våga vara fräck/vågad)
+    - x1=fräck
+    - x2=oförskämt beteende
+  zh:
+    place structure: x1是大胆的/肆无忌惮的，以行为x2；x1有胆做/成为x2（事件/ka）
+    notes:
+    - 也指：x1英勇的；参见 {virnu}.
+    glosses:
+    - No glosses.

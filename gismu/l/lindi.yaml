@@ -1,6 +1,67 @@
-Word: lindi
-Rafsi: lid
-Definition: x1 is lightning/electrical arc/thunderbolt striking at/extending to x2
-  from x3.
-Notes: Also thunder (= {lidysna}).  See also {dikca}.
-Examples: None
+word: lindi
+rafsi:
+- lid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is lightning/electrical arc/thunderbolt striking at/extending
+      to x2 from x3.
+    notes:
+    - Also thunder (= {lidysna}).  See also {dikca}.
+    glosses:
+    - lightning
+  de:
+    place structure: x1 ist ein Blitzschlag und schlägt in x2 ein/reicht bis x2 von
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - Blitz
+  es:
+    place structure: x1 es un relámpago/arco eléctrico extendiéndose hasta x2 desde
+      x3
+    notes:
+    - Ver también {dikca}.
+    glosses:
+    - relámpago
+  ru:
+    place structure: x1 — молния/электрическая дуга, ударяющая/простирающаяся до x2
+      из x3
+    notes:
+    - 'Гром: {lidysna} {dikca} (электричество)'
+    glosses:
+    - x1=молния
+  en-simple:
+    place structure: x1 is lighting at x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - lightning
+    - x2=a destination of lightning
+    - x3=a source of lightning
+  eo:
+    place structure: x1 estas fulmo/elektra malŝargo trafanta x2-on/etendiĝanta al
+      x2 disde x3
+    notes:
+    - 'Ankaŭ: tondro (= {lidysna}).  Vidu ankaŭ {dikca}.'
+    glosses:
+    - fulmo
+  hu:
+    place structure: x1 egy villám/ívkisülés, ami belecsap x2-be x3-ból
+    notes:
+    - '(Lásd még: {dikca})'
+    glosses:
+    - villám
+  ja:
+    place structure: x1 は x2 （終点）・ x3 （起点）の雷／稲妻
+    notes:
+    - ・大意： 雷 ・読み方： ルィンディ  ・関連語： {dikca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是闪电/电弧，击向x2，从x3放出
+    notes:
+    - 雷= {lidysna}；参见 {dikca}.
+    glosses:
+    - No glosses.

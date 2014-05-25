@@ -1,6 +1,78 @@
-Word: dilnu
-Rafsi: dil
-Definition: x1 is a cloud/mass of clouds of material x2 in air mass x3 at floor/base
-  elevation x4.
-Notes: See also {carvi}, {tcima}.
-Examples: None
+word: dilnu
+rafsi:
+- dil
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cloud/mass of clouds of material x2 in air mass x3 at
+      floor/base elevation x4.
+    notes:
+    - See also {carvi}, {tcima}.
+    glosses:
+    - cloud
+  de:
+    place structure: x1 ist eine Wolke/Wolkenmasse aus Material x2 in Luftmasse x3
+      in Höhe x4
+    notes:
+    - No notes.
+    glosses:
+    - Wolke
+  es:
+    place structure: x1 es una nube de material x2 en masa de aire x3 sobre piso/base
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - nube
+  ru:
+    place structure: x1 — облако из вещества x2 в воздушной массе x3 на высоте x4
+    notes:
+    - '{carvi} (дождь), {tcima} (погода)'
+    glosses:
+    - облако
+  en-simple:
+    place structure: x1 is a cloud of material x2 in air mass x3 at elevation x4
+    notes:
+    - No notes.
+    glosses:
+    - a cloud
+    - x2=a material of a cloud
+    - x3=an air mass with a cloud
+    - x4=an elevation of a cloud
+  eo:
+    place structure: x1 estas nubo/nubaro el materialo x2 en aero x3 super grundo/bazo
+      x4
+    notes:
+    - Vidu ankaŭ {carvi}, {tcima}.
+    glosses:
+    - nubo
+  hu:
+    place structure: x1 egy felhő/felhőzet x2 anyagból, x3 légkörben, x4 magasságban
+    notes:
+    - '(Lásd még: {carvi}, {tcima})'
+    glosses:
+    - felhő
+  ja:
+    place structure: x1 は x2 （物質）・ x3 （大気成分）・ x4 （層）の雲
+    notes:
+    - 「le lenku dilnu cu sutkla a'idai／寒い雲がいそぐ」（山頭火『行乞記（二）』） ・大意： 雲 ・読み方： ディルゥヌ  ・関連語：
+      {carvi}, {tcima}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett moln/massa av moln av material x2 i luftmassa x3 med
+      höjd till molnbas x4.
+    notes:
+    - No notes.
+    glosses:
+    - x1=moln
+    - x2=molnmaterial
+    - x3=molnförsedd luftmassa
+    - x4=molnhöjd
+  zh:
+    place structure: x1是云/云状物，构成物质为x2，处于空气x3中，处于高度x4
+    notes:
+    - 参见 {carvi}, {tcima}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,69 @@
-Word: prina
-Rafsi: pri
-Definition: x1 is a print/impression/image on/in surface x2 of/made by/using tool/press/implement/object
-  x3.
-Notes: See also {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}.
-Examples: None
+word: prina
+rafsi:
+- pri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a print/impression/image on/in surface x2 of/made by/using
+      tool/press/implement/object x3.
+    notes:
+    - See also {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}.
+    glosses:
+    - print
+  de:
+    place structure: x1 ist ein Druck/ein Aufdruck/Bild auf Oberfläche x2 von/erzeugt
+      mit Werkzeug/Presse/Objekt x3
+    notes:
+    - No notes.
+    glosses:
+    - Aufdruck
+  es:
+    place structure: x1 imprime/estampa/tatúa x2 sobre x3 con prensa/impresora/instrumento
+      x4
+    notes:
+    - Ver también {guska},  {ciska}.
+    glosses:
+    - imprimir
+  ru:
+    place structure: x1 — отпечаток/след/оттиск в/на поверхности x2, сделанный/оставленный
+      инструментом/объектом x3
+    notes:
+    - '{cukta} (книга), {papri} (страница), {pelji} (бумага), {pixra} (картина), {ciska}
+      (писать), {danre} (давить), {barna} (пятно)'
+    glosses:
+    - x1=отпечаток
+  en-simple:
+    place structure: x1 is a print on x2 using x3
+    notes:
+    - No notes.
+    glosses:
+    - a print
+    - x2=a surface printed on
+    - x3=a printing press
+  eo:
+    place structure: x1 estas presaĵo/bildo sur surfaco x2 farita per ilo/presilo/objekto
+      x3
+    notes:
+    - Vidu ankaŭ {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}.
+    glosses:
+    - presaĵo
+  hu:
+    place structure: x1 egy lenyomat/nyom/nyomtatás x2 felületen, x3 tárgyról/technikával/eszközzel
+    notes:
+    - '(Lásd még: {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna})'
+    glosses:
+    - lenyomat
+  ja:
+    place structure: x1 は x2 （媒体）・ x3 （装置）による印刷物／プリント
+    notes:
+    - ・大意： 印刷物 ・読み方： プリナ  ・語呂合わせ： 印刷物ミスプリな ・関連語： {cukta}, {papri}, {pelji}, {pixra},
+      {ciska}, {danre}, {barna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是印迹/图案，在表面x2上，使用工具/物件x3按压上
+    notes:
+    - 参见 {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}.
+    glosses:
+    - No glosses.

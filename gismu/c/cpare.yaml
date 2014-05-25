@@ -1,6 +1,83 @@
-Word: cpare
-Rafsi: par
-Definition: x1 climbs/clambers/creeps/crawls on surface x2 in direction x3 using x4
-  [limbs/tools].
-Notes: See also {klama}, {litru}, {bajra}, {farlu}, {plipe}.
-Examples: None
+word: cpare
+rafsi:
+- par
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 climbs/clambers/creeps/crawls on surface x2 in direction x3
+      using x4 [limbs/tools].
+    notes:
+    - See also {klama}, {litru}, {bajra}, {farlu}, {plipe}.
+    glosses:
+    - climb
+  de:
+    place structure: x1 klettert/steigt/kriecht auf Oberfläche x2 in Richtung x3 mithilfe
+      von x4 [Gliedmaßen/Werkzeugen]
+    notes:
+    - No notes.
+    glosses:
+    - klettern
+  es:
+    place structure: x1 trepa/escala/se arrastra sobre superficie x2 en dirección
+      x3 usando x4
+    notes:
+    - Ver también {klama},  {litru}.
+    glosses:
+    - trepar
+  ru:
+    place structure: x1 лезет/карабкается/ползет по поверхности x2 в направлении x3
+      при помощи x4 (конечности/орудия)
+    notes:
+    - '{klama} (перемещаться), {litru} (путешествовать), {bajra} (бежать), {farlu}
+      (падать), {plipe} (прыгать)'
+    glosses:
+    - лезть
+    - x1=лезущий
+  en-simple:
+    place structure: x1 climbs on x2 in direction x3 using x4
+    notes:
+    - No notes.
+    glosses:
+    - a climber
+    - x2=a surface climbed
+    - x3=a direction climbed
+    - x4=a tool for climbing
+  eo:
+    place structure: x1 grimpas/rampas sur surfaco x2 en direkto x3 per x4 [membroj/iloj]
+    notes:
+    - Vidu ankaŭ {klama}, {litru}, {bajra}, {farlu}, {plipe}.
+    glosses:
+    - grimpi
+  hu:
+    place structure: x1 mászik/kúszik x2 felületen, x3 irányban, x4 végtagokkal/eszközökkel
+    notes:
+    - '(Lásd még: {klama}, {litru}, {bajra}, {farlu}, {plipe})'
+    glosses:
+    - mászik
+  ja:
+    place structure: x1 は x2 （対象）を x3 （方向）・ x4 （手段）で登る
+    notes:
+    - 「登山／下山」「這う」も。 ・大意： 登る ・読み方： シパレ  ・関連語： {klama}, {litru}, {bajra}, {farlu}, {plipe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 klättrar/klamrar/kravlar/krälar/kryper på yta x2 i riktning
+      x3 medelst x4 [kroppsdel/verktyg].
+    notes:
+    - crawl (=cpare limna).
+    glosses:
+    - klättra
+    - kravla
+    - krypa
+    - kräla
+    - x1=kravlare
+    - x2=klätterunderlag
+    - x3=klättringsriktning
+    - x4=klättringshjälpmedel
+  zh:
+    place structure: x1在x2表面爬行/匍匐，在x3方向上，使用肢体/工具x4
+    notes:
+    - 参见 {klama}, {litru}, {bajra}, {farlu}, {plipe}.
+    glosses:
+    - No glosses.

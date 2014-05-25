@@ -1,7 +1,73 @@
-Word: rilti
-Rafsi: ril
-Definition: x1 (sequence/non-text quote) is a rhythm/beat of music/expressive form
-  x2.
-Notes: Not necessarily oscillatory/regular pattern.  See also {damri}, {pemci}, {tonga},
-  {zgike}, {slilu}, {dikni}, {sanga}, {morna}.
-Examples: None
+word: rilti
+rafsi:
+- ril
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (sequence/non-text quote) is a rhythm/beat of music/expressive
+      form x2.
+    notes:
+    - Not necessarily oscillatory/regular pattern.  See also {damri}, {pemci}, {tonga},
+      {zgike}, {slilu}, {dikni}, {sanga}, {morna}.
+    glosses:
+    - beat (rhythm)
+    - rhythm
+  de:
+    place structure: x1 (Abfolge/Nicht-Text-Zitat) ist ein Rhythmus/Beat von Musik/Ausdrucksform
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Rhythmus
+  es:
+    place structure: x1 es un ritmo/beat de música/forma expresiva x2
+    notes:
+    - Ver también {slilu},  {dikni},  {pemci},  {sanga},  {morna}.
+    glosses:
+    - ritmo
+  ru:
+    place structure: x1 — ритм музыки/выразительной формы x2
+    notes:
+    - Не обязательно периодическая/регулярная структура {damri} (барабан [ударный
+      муз. инструмент]), {pemci} (стихотворение), {tonga} (тон), {zgike} (музыка),
+      {slilu} (колебаться), {dikni} (регулярный [циклический]), {sanga} (петь), {morna}
+      (узор)
+    glosses:
+    - ритм
+  en-simple:
+    place structure: x1 is a rhythm or beat of music x2
+    notes:
+    - No notes.
+    glosses:
+    - a rhythm
+    - x2=something with a rhythm
+  eo:
+    place structure: x1 (sinsekvo/neteksta cito) estas ritmo/takto de muziko/esprima
+      formo x2
+    notes:
+    - Ne nepre oscila/regula figuro.  Vidu ankaŭ {damri}, {pemci}, {tonga}, {zgike},
+      {slilu}, {dikni}, {sanga}, {morna}.
+    glosses:
+    - ritmo
+  hu:
+    place structure: x1 (sorozat/nem szöveges idézet) a ritmusa x2 zenének/egyéb kifejezési
+      formának
+    notes:
+    - '(Lásd még: {damri}, {pemci}, {tonga}, {zgike}, {slilu}, {dikni}, {sanga}, {morna})'
+    glosses:
+    - ritmus
+  ja:
+    place structure: x1 は x2 （形態）のリズム／律動／調子／拍子
+    notes:
+    - 規則的なリズムだとは限らない。 ・大意： リズム ・読み方： リルゥティ  ・関連語： {damri}, {pemci}, {tonga}, {zgike},
+      {slilu}, {dikni}, {sanga}, {morna}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（序列/非文本类引述）是旋律/韵律/节拍，属于音乐/表现形式x2
+    notes:
+    - 有一定是周期性/有规律的模式；参见 {damri}, {pemci}, {tonga}, {zgike}, {slilu}, {dikni}, {sanga},
+      {morna}.
+    glosses:
+    - No glosses.

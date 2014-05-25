@@ -1,6 +1,70 @@
-Word: xaksu
-Rafsi: xak
-Definition: x1 (event) uses up/depletes/consumes/[wastes] x2 [resource].
-Notes: Waste (= {fesxaksu}, {dusxaksu}).  See also {citka}, {festi}, {daspo}, {livla},
-  {pinxe}.
-Examples: None
+word: xaksu
+rafsi:
+- xak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) uses up/depletes/consumes/[wastes] x2 [resource].
+    notes:
+    - Waste (= {fesxaksu}, {dusxaksu}).  See also {citka}, {festi}, {daspo}, {livla},
+      {pinxe}.
+    glosses:
+    - consume (use up)
+    - spend (consume)
+    - use up
+  de:
+    place structure: x1 (Ereignis) verbraucht/braucht auf/erschöpft/leert/[verschwendet]
+      x2 [Ressource]
+    notes:
+    - No notes.
+    glosses:
+    - aufbrauchen
+  es:
+    place structure: x1 (evento) gasta/consume x2
+    notes:
+    - No notes.
+    glosses:
+    - gastar
+  ru:
+    place structure: x1 расходует/потребляет/{тратит} x2 (ресурс)
+    notes:
+    - 'Тратить впустую, расточать: {fesxaksu}, {dusxaksu} {citka} (есть), {festi}
+      (отходы), {daspo} (разрушать), {livla} (топливо), {pinxe} (пить)'
+    glosses:
+    - расходовать
+    - x1=расходующий
+    - x2=расходуемое
+  en-simple:
+    place structure: x1 consumes or uses up x2
+    notes:
+    - No notes.
+    glosses:
+    - a consumer
+    - x2=something consumed
+  eo:
+    place structure: x1 (okazo) foruzas/konsumas/[malŝparas] x2-on [rimedo]
+    notes:
+    - Forĵetaĵo (= feŝaksu, duŝaksu).  Vidu ankaŭ {citka}, {festi}, {daspo}, {livla},
+      {pinxe}.
+    glosses:
+    - forkonsumi
+  hu:
+    place structure: x1 esemény elhasználja/kimeríti/elpazarolja x2 erőforrást
+    notes:
+    - '(Lásd még: {citka}, {festi}, {daspo}, {livla}, {pinxe})'
+    glosses:
+    - elhasznál
+  ja:
+    place structure: x1 （事）は x2 （資源／材料）を費やす／使い尽くす
+    notes:
+    - 「浪費」も。これを明確にするなら「fesxaksu」「dusxaksu」。 ・大意： 費やす ・読み方： クァクス  ・語呂合わせ： tsukaixatasu
+      使い果たして隠す ・関連語： {citka}, {festi}, {daspo}, {livla}, {pinxe}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1用尽/耗尽x2（资源）
+    notes:
+    - 浪费= {fesxaksu}/{dusxaksu}；参见 {citka}, {festi}, {daspo}, {livla}, {pinxe}.
+    glosses:
+    - No glosses.

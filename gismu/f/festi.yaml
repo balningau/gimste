@@ -1,6 +1,71 @@
-Word: festi
-Rafsi: fes
-Definition: x1(s) is/are waste product(s) [left to waste] by x2 (event/activity).
-Notes: Also shit, crap; agentive wasting (= {fesygau}, {fesyzu'e}).  See also {xaksu},
-  {kalci}, {pinca}.
-Examples: None
+word: festi
+rafsi:
+- fes
+examples: No examples.
+definitions:
+  en:
+    place structure: x1(s) is/are waste product(s) [left to waste] by x2 (event/activity).
+    notes:
+    - Also shit, crap; agentive wasting (= {fesygau}, {fesyzu'e}).  See also {xaksu},
+      {kalci}, {pinca}.
+    glosses:
+    - waste
+  de:
+    place structure: x1 ist/sind Abfallprodukt(e) von x2 (Ereignis/Aktivität)
+    notes:
+    - No notes.
+    glosses:
+    - Abfall
+  es:
+    place structure: x1 es un desperdicio/desecho dejado por x2
+    notes:
+    - No notes.
+    glosses:
+    - desperdicio
+  ru:
+    place structure: 'x1 — отходы x2 (чего: событие/деятельность)'
+    notes:
+    - 'Также: отбросы, мусор, нечистоты; производить отходы/мусорить/{гадить}: {fesygau},
+      {fesyzu''e} {xaksu} (расходовать), {kalci} (кал), {pinca} (моча)'
+    glosses:
+    - x1=отходы
+  en-simple:
+    place structure: x1 is waste from x2
+    notes:
+    - No notes.
+    glosses:
+    - waste
+    - x2=something with waste
+  eo:
+    place structure: x1 estas rubo/forĵetaĵo de x2 (okazo/ago)
+    notes:
+    - Forĵeti (= {fesygau}, {fesyzu'e}).  Vidu ankaŭ {xaksu}, {kalci}, {pinca}.
+    glosses:
+    - rubo
+  hu:
+    place structure: x1 hulladék/selejt x2 esemény/cselekedet által
+    notes:
+    - '(Lásd még: {xaksu}, {kalci}, {pinca})'
+    glosses:
+    - hulladék
+  ja:
+    place structure: x1 は x2 （事／動作）の残り物／ごみ／くず
+    notes:
+    - 排出する行為は「vikmi」。 ・大意： ごみ ・読み方： フェスティ  ・関連語： {xaksu}, {kalci}, {pinca}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är avfallsprodukter/skräp/(slaggprodukter) från x2 (händelse/aktivitet).
+    notes:
+    - Även skit, skräp; material som inte längre kommer till användning och som utdöms
+      som värdelöst eller inget att ha.
+    glosses:
+    - avfall
+    - skräp
+  zh:
+    place structure: x1是多余的产品，由行为/事件x2导致
+    notes:
+    - 也指：屎/粪；浪费/造成多余= {fesygau}/{fesyzu'e}；参见 {xaksu}, {kalci}, {pinca}.
+    glosses:
+    - No glosses.

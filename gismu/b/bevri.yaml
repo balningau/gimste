@@ -1,7 +1,124 @@
-Word: bevri
-Rafsi: bev, bei
-Definition: x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5;
-  x1 is a carrier/[porter].
-Notes: Alienation from $x_2$ to $x_3$ is implied.  See also {marce}, {muvdu}, {benji},
-  {klama}.
-Examples: None
+word: bevri
+rafsi:
+- bev
+- bei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over
+      path x5; x1 is a carrier/[porter].
+    notes:
+    - Alienation from x2 to x3 is implied.  See also {marce}, {muvdu}, {benji}, {klama}.
+    glosses:
+    - carry (transport)
+    - x1=charge (cargo)
+    - x2=load (cargo)
+  jbo:
+    place structure: x1 jgari ja se cpana ja marce x2 gi'e gasnu lo nu x2 muvdu x3
+      boi x4 boi x5
+    notes:
+    - No notes.
+    glosses:
+    - bevri
+  de:
+    place structure: x1 trägt/schleppt/transportiert Fracht x2 nach x3 von x4 über
+      Route x5; x1 ist ein Träger
+    notes:
+    - No notes.
+    glosses:
+    - tragen
+  es:
+    place structure: x1 lleva/traslada/carga/transporta x2 hasta x3 desde x4 por camino
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - llevar
+  fr:
+    place structure: x1 transporte/lève/apporte cargaison/objet x2 à x3 de x4 par
+      chemin x5.
+    notes:
+    - Que l'objet cesse d'être placé à x2 est impliqué. Voir également {marce}, {muvdu},
+      {benji}, {klama}.
+    glosses:
+    - apporter
+    - transporter
+  ru:
+    place structure: x1 несет/переносит/перевозит/транспортирует груз x2 в x3 (куда)
+      из x4 (откуда) по маршруту/пути x5
+    notes:
+    - Предполагается отчуждение от x4 в пользу x3 {marce} (транспорт), {muvdu} (двигаться),
+      {benji} (передавать [сигнал]), {klama} (перемещаться)
+    glosses:
+    - носить
+    - x1=носящий
+    - x2=носимый
+    - x3=место, куда переносят
+    - x4=место, откуда переносят
+    - x5=маршрут переноски
+  en-simple:
+    place structure: x1 transports or carries x2 to x3 from x4 by path x5
+    notes:
+    - No notes.
+    glosses:
+    - a transporter
+    - x2=something transported
+    - x3=a transport destination
+    - x4=a transport origin
+    - x5=a transport route
+  eo:
+    place structure: x1 portas/trenas/transportas ŝarĝon/kargon x2 al x3 de x4 tra
+      vojo x5; x1 estas portisto
+    notes:
+    - Aliproprigo el x2 al x3 estas implicita.  Vidu ankaŭ {marce}, {muvdu}, {benji},
+      {klama}.
+    glosses:
+    - No glosses.
+  hu:
+    place structure: x1 viszi/cipeli/szállítja x2 rakományt x3-ba, x4-ből, x5 úton
+    notes:
+    - '(Lásd még: {marce}, {muvdu}, {benji}, {klama})'
+    glosses:
+    - visz
+  ja:
+    place structure: x1 は x2 （荷）を x3 （終点）に x4 （始点）から x5 （道筋）を通って運ぶ
+    notes:
+    - 「benji」と違い、 x2 はx4から断絶している。 ・大意： 運ぶ ・読み方： ベヴリ  ・語呂合わせ： ＜ベイの売り子＞, bei(背), bear,
+      llevar ・関連語： {marce}, {muvdu}, {benji}, {klama}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 bærer/frakter/flytter/transporterer frakt x2 til x3 fra x4
+      via trasé x5; x1 er en bærer
+    notes:
+    - Se også {marce}, {muvdu}, {benji}, {klama}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 bär/forslar/fraktar/transporterar/skjutsar x2 till x3 från
+      x4 via rutt x5.
+    notes:
+    - Förutsätter att x2 är fjärmad från x3. Se även {marce}, {muvdu}, {benji}, {klama}.
+    glosses:
+    - befordra (transportera)
+    - bud (fraktare)
+    - bära (transportera)
+    - forsla
+    - frakta
+    - fraktare
+    - kurir
+    - skjutsa
+    - transport
+    - transportera
+    - x1=bärare (flyttare av objekt)
+    - x2=last
+    - x3=fraktdestination
+    - x4=fraktursprung
+    - x5=transportrutt
+  zh:
+    place structure: x1带着/携带/运输x2给x3，来自x4，通过路径x5
+    notes:
+    - 暗示了所有权是从x2转移到x3的，参见 {marce}, {muvdu}, {benji}, {klama}
+    glosses:
+    - No glosses.

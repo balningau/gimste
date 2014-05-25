@@ -1,5 +1,70 @@
-Word: fraxu
-Rafsi: fax
-Definition: x1 forgives x2 for event/state/activity x3.
-Notes: See also {dunda}, {curmi}, {zungi}.
-Examples: None
+word: fraxu
+rafsi:
+- fax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 forgives x2 for event/state/activity x3.
+    notes:
+    - See also {dunda}, {curmi}, {zungi}.
+    glosses:
+    - forgive
+  de:
+    place structure: x1 vergibt x2 für Ereignis/Zustand/Aktivität x3
+    notes:
+    - No notes.
+    glosses:
+    - vergeben
+  es:
+    place structure: x1 perdona/disculpa a x2 por x3
+    notes:
+    - No notes.
+    glosses:
+    - perdonar
+  ru:
+    place structure: x1 прощает x2 (кого) за x3 (событие/состояние/деятельность)
+    notes:
+    - '{dunda} (давать), {curmi} (разрешать [позволять]), {zungi} (раскаиваться)'
+    glosses:
+    - прощать
+    - x1=прощающий
+    - x2=прощаемый
+  en-simple:
+    place structure: x1 forgives x2 for x3
+    notes:
+    - No notes.
+    glosses:
+    - a forgiver
+    - x2=a receiver of forgiveness
+    - x3=something forgiven
+  eo:
+    place structure: x1 pardonas al x2 okazon/staton/agon x3
+    notes:
+    - Vidu ankaŭ {dunda}, {curmi}, {zungi}.
+    glosses:
+    - pardoni
+  hu:
+    place structure: x1 megbocsátja x2-nek x3 eseményt/cselekedetet/állapotot
+    notes:
+    - '(Lásd még: {dunda}, {curmi}, {zungi})'
+    glosses:
+    - megbocsát
+  ja:
+    place structure: x1 は x2 を x3 （事）について許す／容赦する
+    notes:
+    - ・大意： 許す ・読み方： フゥラクゥ  ・関連語： {dunda}, {curmi}, {zungi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 förlåter x2 för händelse/tillstånd/aktivitet x3.
+    notes:
+    - No notes.
+    glosses:
+    - förlåta
+  zh:
+    place structure: x1原谅/谅解x2的行为/状态/行为x3
+    notes:
+    - 参见 {dunda}, {curmi}, {zungi}.
+    glosses:
+    - No glosses.

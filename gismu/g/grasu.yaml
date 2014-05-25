@@ -1,5 +1,74 @@
-Word: grasu
-Rafsi: ras
-Definition: x1 is a quantity of/is made of/contains grease/fat/oil from source x2.
-Notes: See also {ctile}, {matne}, {plana}.
-Examples: None
+word: grasu
+rafsi:
+- ras
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/is made of/contains grease/fat/oil from source
+      x2.
+    notes:
+    - See also {ctile}, {matne}, {plana}.
+    glosses:
+    - fat (grease)
+    - grease
+  de:
+    place structure: x1 ist eine Menge an/besteht aus/enthält Schmiere/Fett/Öl aus
+      Quelle x2
+    notes:
+    - No notes.
+    glosses:
+    - Fett
+  es:
+    place structure: x1 es una cantidad de grasa/aceite de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - grasa
+  ru:
+    place structure: x1 — жир/масло из источника x2
+    notes:
+    - '{ctile} (нефть), {matne} (масло [съедобное]), {plana} (пухлый)'
+    glosses:
+    - жир
+  en-simple:
+    place structure: x1 is a quantity of grease from source x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of grease
+    - x2=a source of grease
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el graso/oleo el fonto x2
+    notes:
+    - Vidu ankaŭ {ctile}, {matne}, {plana}.
+    glosses:
+    - graso
+  hu:
+    place structure: x1 bizonyos mennyiségű zsír/olaj (-at tartalmaz/-ból készült),
+      x2 forrásból
+    notes:
+    - '(Lásd még: {ctile}, {matne}, {plana})'
+    glosses:
+    - zsír
+  ja:
+    place structure: x1 は x2 （起源）の油／鉱油／灯油／油脂／獣脂／グリース／オイル
+    notes:
+    - ・大意： 油 ・読み方： グラス  ・語呂合わせ： グリース ・関連語： {ctile}, {matne}, {plana}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet av/är gjord av/innehåller fett/olja från ursprungskälla
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - olja (fett)
+    - x1=fett
+    - x2=fettursprungskälla
+  zh:
+    place structure: x1是油脂/由油脂构成，来源于x2
+    notes:
+    - 参见 {ctile}, {matne}, {plana}.
+    glosses:
+    - No glosses.

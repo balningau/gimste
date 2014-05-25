@@ -1,6 +1,68 @@
-Word: jabre
-Rafsi: ''
-Definition: x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle
-  x3.
-Notes: See also {mosra}.
-Examples: None
+word: jabre
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle
+      x3.
+    notes:
+    - See also {mosra}.
+    glosses:
+    - brake
+  de:
+    place structure: x1 bremst/verlangsamt Bewegung/Aktivität x2 mittels Vorrichtung/Mechanismus/Prinzip
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - bremsen
+  es:
+    place structure: x1 frena/desacelera movimiento/actividad x2 con aparato/mecanismo/acción
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - frenar
+  ru:
+    place structure: x1 тормозит/замедляет движение/деятельность x2 посредством устройства/механизма/принципа
+      x3
+    notes:
+    - '{mosra} (трение)'
+    glosses:
+    - тормозить
+    - x1=тормозящий
+  en-simple:
+    place structure: x1 brakes or slows x2 with mechanism x3
+    notes:
+    - No notes.
+    glosses:
+    - something braking
+    - x2=something braked
+    - x3=a means for braking
+  eo:
+    place structure: x1 bremsas/malrapidigas movon/agon x2 per rimedo/mekanismo/principo
+      x3
+    notes:
+    - Vidu ankaŭ {mosra}.
+    glosses:
+    - bremsi
+  hu:
+    place structure: x1 fékezi/lassítja x2 mozgást/tevékenységet, x3 eszközzel/szerkezettel/elvvel
+    notes:
+    - '(Lásd még: {mosra})'
+    glosses:
+    - fékez
+  ja:
+    place structure: x1 は x2 （動作）を x3 （仕組）によって抑える制動装置／ブレーキ／歯止め
+    notes:
+    - ・大意： 制動装置 ・読み方： ジャブレ  ・語呂合わせ： これじゃブレーキは ・関連語： {mosra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1减缓/减速运动/行为x2，使用设备/机械/原理x3
+    notes:
+    - 参见 {mosra}.
+    glosses:
+    - No glosses.

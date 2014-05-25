@@ -1,6 +1,72 @@
-Word: tugni
-Rafsi: tug, tu'i
-Definition: x1 [person] agrees with person(s)/position/side x2 that x3 (du'u) is true
-  about matter x4.
-Notes: See also {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}.
-Examples: None
+word: tugni
+rafsi:
+- tug
+- tu'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [person] agrees with person(s)/position/side x2 that x3 (du'u)
+      is true about matter x4.
+    notes:
+    - See also {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}.
+    glosses:
+    - agree
+  de:
+    place structure: x1 [Person] stimmt Person(en)/Position/Seite x2 zu, dass x3 (du'u)
+      wahr ist in/über Angelegenheit x4
+    notes:
+    - No notes.
+    glosses:
+    - zustimmen
+  es:
+    place structure: x1 está de acuerdo/concuerda con x2 que x3 (du'u) es cierto sobre
+      asunto x4
+    notes:
+    - Ver también {sarxe},  {darlu}.
+    glosses:
+    - concordar
+  ru:
+    place structure: x1 согласен/соглашается с  x2 в том, что x3 ({du'u}) истинно/верно
+      в отношении предмета x4
+    notes:
+    - '{sarxe} (гармонировать), {mapti} (подходить), {darlu} (отстаивать [позицию]),
+      {natfe} (опровергать), {panpi} (в мире), {sarji} (поддерживать [помогать])'
+    glosses:
+    - соглашаться
+    - x1=согласный
+    - x2=то, с чем соглашаются
+  en-simple:
+    place structure: x1 agrees with x2 that x3 is true about x4
+    notes:
+    - No notes.
+    glosses:
+    - an agreer
+    - x2=something agreed with
+    - x3=an agreed view
+    - x4=a topic of agreement
+  eo:
+    place structure: x1 [homo] konsentas kun homo(j)/pozicio/flanko x2 ke x3 (du'u)
+      estas vera pri afero x4
+    notes:
+    - Vidu ankaŭ {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}.
+    glosses:
+    - konsenti
+  hu:
+    place structure: x1 egyetért x2-vel x3 tényben x4 témáról
+    notes:
+    - '(Lásd még: {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji})'
+    glosses:
+    - egyetért
+  ja:
+    place structure: x1 （者）は x2 （者／観点／側）にたいし、 x3 （命題）・ x4 （題目）について賛成／賛同／同意する
+    notes:
+    - ・大意： 賛成 ・読み方： トゥグニ  ・関連語： {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1同意/赞成人/派别x2的意见/观点x3（du'u），关于问题x4
+    notes:
+    - 参见 {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}.
+    glosses:
+    - No glosses.

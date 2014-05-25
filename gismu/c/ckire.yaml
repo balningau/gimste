@@ -1,5 +1,72 @@
-Word: ckire
-Rafsi: kir
-Definition: x1 is grateful/thankful to/appreciative of x2 for x3 (event/property).
-Notes: Also gratitude (= {nunckire} or {kamckire}).  See also {cinmo}, {friti}, {pluka}.
-Examples: None
+word: ckire
+rafsi:
+- kir
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is grateful/thankful to/appreciative of x2 for x3 (event/property).
+    notes:
+    - Also gratitude (= {nunckire} or {kamckire}).  See also {cinmo}, {friti}, {pluka}.
+    glosses:
+    - grateful
+  de:
+    place structure: x1 ist x2 gegenüber dankbar für x3 (Ereignis/Eigenschaft)
+    notes:
+    - No notes.
+    glosses:
+    - dankbar
+  es:
+    place structure: x1 agradece a x2 por x3
+    notes:
+    - No notes.
+    glosses:
+    - agradecer
+  ru:
+    place structure: 'x1 благодарен/признателен x2 (кому) за x3 (что: событие/свойство)'
+    notes:
+    - 'Также: благодарность/признательность: {nunckire} или {kamckire} {cinmo} (эмоциональный),
+      {friti} (предлагать), {pluka} (приятный)'
+    glosses:
+    - x1=благодарный
+  en-simple:
+    place structure: x1 is grateful or thankful to x2 for x3
+    notes:
+    - No notes.
+    glosses:
+    - something grateful
+    - x2=a reciever of gratefulness
+    - x3=a reason for gratitude
+  eo:
+    place structure: x1 dankas al x2 por x3 (okazo/eco)
+    notes:
+    - 'Ankaŭ: dankado (= {nunckire}), dankemo (= {kamckire}).  Vidu ankaŭ {cinmo},
+      {friti}, {pluka}.'
+    glosses:
+    - danki
+  hu:
+    place structure: x1 hálás/le van kötelezve x2-nek x3-ért
+    notes:
+    - '(Lásd még: {cinmo}, {friti}, {pluka})'
+    glosses:
+    - hálás
+  ja:
+    place structure: x1 （者）は x2 （者）に x3 （事／性質）を感謝する；  x2 が x3 をしたことについて x1 はありがたく思う；  x3
+      であることはありがたい
+    notes:
+    - ・大意： 感謝 ・読み方： シキレ  ・語呂合わせ： 感謝しきれない ・関連語： {cinmo}, {friti}, {pluka}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 uppskattar/är tacksam mot x2 (person) för x3 (händelse/egenskap).
+    notes:
+    - No notes.
+    glosses:
+    - tacksam
+    - uppskatta
+  zh:
+    place structure: x1对x2是充满感激/谢意的，因为事件/状态x3
+    notes:
+    - 感激之情= {nunckire}/{kamckire}；参见 {cinmo}, {friti}, {pluka}.
+    glosses:
+    - No glosses.

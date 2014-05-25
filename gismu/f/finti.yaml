@@ -1,7 +1,90 @@
-Word: finti
-Rafsi: fin, fi'i
-Definition: x1 invents/creates/composes/authors x2 for function/purpose x3 from existing
-  elements/ideas x4.
-Notes: $x_1$ is creative/inventive.  See also cmavo list {fi'e}, {ciska}, {pemci},
-  {zbasu}, {larcu}, specific works of authorship, {prosa}, {skina}.
-Examples: None
+word: finti
+rafsi:
+- fin
+- fi'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 invents/creates/composes/authors x2 for function/purpose x3
+      from existing elements/ideas x4.
+    notes:
+    - x1 is creative/inventive.  See also cmavo list {fi'e}, {ciska}, {pemci}, {zbasu},
+      {larcu}, specific works of authorship, {prosa}, {skina}.
+    glosses:
+    - compose (invent)
+    - invent
+  de:
+    place structure: x1 erfindet/erschafft/komponiert/verfasst x2 für die Funktion/den
+      Zweck x3 aus den existierenden Elementen/Ideen x4.
+    notes:
+    - x1 ist kreativ/erfinderisch.  Siehe auch Cmavo-Liste {fi'e}, {ciska}, {pemci},
+      {zbasu}, {larcu}, {prosa}, {skina}.
+    glosses:
+    - erfinden
+  es:
+    place structure: x1 inventa/crea/compone/es autor de obra x2 para uso/próposito
+      x3
+    notes:
+    - Ver también {zbasu},  {larcu}.
+    glosses:
+    - crear
+  ru:
+    place structure: x1 сочиняет/творит/изобретает/придумывает/создает x2 для x3 (цель/функция)
+      из существующих элементов/идей x4; x1 — автор/создатель x2 (чего)
+    notes:
+    - 'Прилагательное: творческий {fi''e}, {ciska} (писать), {pemci} (стихотворение),
+      {zbasu} (изготавливать), {larcu} (искусство), {prosa} (проза), {skina} (фильм)'
+    glosses:
+    - изобретать
+    - x1=изобретающий
+  en-simple:
+    place structure: x1 invents or creates x2 for purpose x3 from existing ideas x4
+    notes:
+    - No notes.
+    glosses:
+    - a creater
+    - x2=a creation
+    - x3=a purpose of creation
+    - x4=an element in creation
+  eo:
+    place structure: x1 verkas/elpensas/inventas/kreas x2-on por funkcio/celo x3 el
+      ekzistantaj elementoj/ideoj x4
+    notes:
+    - 'Ankaŭ: komponi, aŭtori; x1 estas kreema/inventema.  (kp. cmavo fi''e, ciska,
+      pemci, zbasu, larcu, specifa verko de aŭtoro, prosa, skina)'
+    glosses:
+    - verki
+  hu:
+    place structure: x1 feltalálja/kitalálja/megalkotja x2-t x3 célra, x4 létező részek/ötletek
+      felhasználásával
+    notes:
+    - '(Lásd még: {ciska}, {pemci}, {zbasu}, {larcu}, {prosa}, {skina})'
+    glosses:
+    - feltalál
+  ja:
+    place structure: x1 は x2 を x3 （目的／機能）のために x4 （既存要素）から創る／発明する／著する；  x1 は創作的
+    notes:
+    - ・大意： 創る ・読み方： フィンティ  ・関連語： {fi'e}, {ciska}, {pemci}, {zbasu}, {larcu}, {prosa},
+      {skina}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 uppfinner/skapar/komponerar/författar x2 för funktion/i syfte
+      x3 från befintliga element/idéer x4.
+    notes:
+    - No notes.
+    glosses:
+    - skapa (kreativitet (ej skapa från intet))
+    - uppfinna
+    - x1=uppfinnare
+    - x2=uppfinning
+    - x3=uppfinningsändamål
+    - x4=uppfinningsbas (uppfunnen från befintliga element/idéer)
+  zh:
+    place structure: x1 发明/创造/构造/创作x2 , 为功能/目的x3, 源自已有元素/主意x4.
+    notes:
+    - No notes.
+    glosses:
+    - 创作
+    - 创造
+    - 发明

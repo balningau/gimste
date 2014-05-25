@@ -1,8 +1,100 @@
-Word: viska
-Rafsi: vis, vi'a
-Definition: x1 sees/views/perceives visually x2 under conditions x3.
-Notes: Also (adjective:) $x_1$ is visual; $x_3$ can include ambient lighting, background,
-  etc. which may affect what is perceived; note that English "see" often means "look"
-  or a more generic "observe", or even "understand, know".  See also {catlu}, {jvinu},
-  {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana}, {ganse}.
-Examples: None
+word: viska
+rafsi:
+- vis
+- vi'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sees/views/perceives visually x2 under conditions x3.
+    notes:
+    - Also (adjective:) x1 is visual; x3 can include ambient lighting, background,
+      etc. which may affect what is perceived; note that English "see" often means
+      "look" or a more generic "observe", or even "understand, know".  See also {catlu},
+      {jvinu}, {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana}, {ganse}.
+    glosses:
+    - see
+  jbo:
+    place structure: 'x1 ganse x2 lo''e kanla be x1 boi x3 '
+    notes:
+    - '{kanla} {ganse}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 sieht/erblickt/nimmt optisch wahr x2 unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - sehen
+  es:
+    place structure: x1 ve a x2 bajo condiciones x3
+    notes:
+    - No notes.
+    glosses:
+    - ver
+  fr:
+    place structure: x1 voit / aperçoit x2 sous les conditions x3
+    notes:
+    - No notes.
+    glosses:
+    - apercevoir
+    - voir
+  ru:
+    place structure: x1 видит/воспринимает визуально x2 в условиях x3
+    notes:
+    - x3 может включать освещение, фон и т.п., все, что может влиять на восприятие
+      {catlu} (смотреть [на что-либо]), {jvinu} (вид [панорама]), {kanla} (глаз),
+      {minra} (отражать), {simlu} (казаться), {djuno} (знать), {jimpe} (понимать),
+      {zgana} (наблюдать), {ganse} (чувствовать [ощущать])
+    glosses:
+    - видеть
+    - x1=видящий
+    - x2=то, что видят
+  en-simple:
+    place structure: x1 sees x2
+    notes:
+    - No notes.
+    glosses:
+    - see
+    - x1=a seer
+    - x2=something seen
+    - x3=a condition of seeing
+  eo:
+    place structure: x1 vidas/vide perceptas x2-on sub kondiĉoj x3
+    notes:
+    - x3 povas inkluzivi ĉirkaŭan lumigon, fonon, ktp. kio povas influi al tio, kion
+      oni perceptas; rimarku ke esperanta "vidi" povas signifi "kompreni, koni".  (kp.catlu,
+      jvinu, kanla, minra, simlu, djuno, jimpe, zgana, ganse)
+    glosses:
+    - vidi
+  hu:
+    place structure: x1 látja/vizuálisan érzékeli x2-t x3 körülmények között
+    notes:
+    - '(Lásd még: {catlu}, {jvinu}, {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana},
+      {ganse})'
+    glosses:
+    - lát
+  ja:
+    place structure: x1 は x2 を x3 （状態条件）のもと視覚する；  x1 には x2 が見える；  x1 には視覚能力／光学的感知能力がある
+    notes:
+    - x3は、空間の灯りや背景など、視覚できる対象を左右する条件。x1は光や色を感知するカメラなども。 ・大意： 視覚 ・読み方： ヴィスカ  ・語呂合わせ：
+      ヴィジョン視覚 ・関連語： {catlu} (意識的に見る), {jvinu} (光景), {zgana} (観察), {ganse} (感覚), {kanla},
+      {minra}, {simlu}, {djuno}, {jimpe}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 widzi/postrzega/ogląda x2 w warunkach x3.
+    notes:
+    - Cf. {catlu}, {jvinu}, {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana},
+      {ganse}.
+    glosses:
+    - oglądać
+    - postrzegać
+    - widzieć
+  zh:
+    place structure: x1看见x2，在条件x3下
+    notes:
+    - 也指：x1关于视觉的；x3可能包括环境光/背景光等（背景光会对被观察物产生影响；参见 {catlu}, {jvinu}, {kanla}, {minra},
+      {simlu}, {djuno}, {jimpe}, {zgana}, {ganse}.
+    glosses:
+    - No glosses.

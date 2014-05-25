@@ -1,6 +1,81 @@
-Word: fatne
-Rafsi: fat, fa'e
-Definition: x1 [sequence] is in reverse order from x2 [sequence]; x1 (object) is inverted
-  from x2 (object).
-Notes: Also opposite (one sense).  See also cmavo list {fa'e}, {dukti}.
-Examples: None
+word: fatne
+rafsi:
+- fat
+- fa'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [sequence] is in reverse order from x2 [sequence]; x1 (object)
+      is inverted from x2 (object).
+    notes:
+    - Also opposite (one sense).  See also cmavo list {fa'e}, {dukti}.
+    glosses:
+    - reverse
+  de:
+    place structure: x1 [Folge] ist in umgekehrter Reihenfolge vergleichen mit x2
+      [Folge]; x1 (Objekt) ist umgekehrt in Bezug auf x2 (Objekt)
+    notes:
+    - No notes.
+    glosses:
+    - umgekehrt
+  es:
+    place structure: x1 está en orden inverso/invertido/revertido/al revés de x2
+    notes:
+    - No notes.
+    glosses:
+    - inverso
+  ru:
+    place structure: x1 (последовательность) есть обращение (последовательности) x2
+      (те же элементы, но в обратном порядке); x1 (объект) есть инверсия x2 (объект)
+    notes:
+    - 'Также: обратный/противоположный {fa''e}, {dukti} (противоположный)'
+    glosses:
+    - x1=инверсия
+  en-simple:
+    place structure: x1 is in reverse order from x2
+    notes:
+    - No notes.
+    glosses:
+    - a reversed
+    - x2=a sequence before reversal
+  eo:
+    place structure: x1 [sinsekvo] estas en inversa/mala/kontraŭa vico al x2 [sinsekvo]
+    notes:
+    - x1 (objekto) estas inversigita/renversita de x2 (objekto). Vidu ankaŭ cmavo
+      {fa'e}, {dukti}.
+    glosses:
+    - inversa
+  et:
+    place structure: x1 (jada) on tagurpidi järjestatud x2 (jada). x1 (objekt) on
+      teistpidi x2 (objekt).
+    notes:
+    - Ka "vastupidi". Vt {fa'e}, {dukti}.
+    glosses:
+    - tagurpidi
+  hu:
+    place structure: x1 sorozat fordított sorrendben van x2-hez képest; x1 tárgy fordított
+      helyzetben van x2-hez képest
+    notes:
+    - '(Lásd még: {dukti})'
+    glosses:
+    - megfordított
+  ja:
+    place structure: x1 （順序）は x2 （順序）と逆；  x1 （物）は x2 （物）の逆さま
+    notes:
+    - ・大意： 逆 ・読み方： ファトネ  ・関連語： {fa'e}, {dukti}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 [sekvens] är i omvänd ordning från x2 [sekvens]; x1 (objekt)
+      är inverterad från x2 (objekt).
+    notes:
+    - No notes.
+    glosses:
+    - inverterad
+    - omvänd ordning
+  zh:
+    place structure: 序列x1是与序列x2反向的/颠倒的；物体x1与物体x2是互相颠倒的/反向的
+    notes:
+    - 也指：（某种意义上）对立的；参见 {fa'e}, {dukti}.
+    glosses:
+    - No glosses.

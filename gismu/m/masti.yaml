@@ -1,6 +1,68 @@
-Word: masti
-Rafsi: ma'i
-Definition: x1 is x2 months in duration (default is 1 month) by month standard x3.
-Notes: This month (= {cabma'i}); next month (= {bavla'ima'i}); last month (= {prula'ima'i}).  See
-  also {detri}, {djedi}, {jeftu}, {nanca}.
-Examples: None
+word: masti
+rafsi:
+- ma'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is x2 months in duration (default is 1 month) by month standard
+      x3.
+    notes:
+    - This month (= {cabma'i}); next month (= {bavla'ima'i}); last month (= {prula'ima'i}).  See
+      also {detri}, {djedi}, {jeftu}, {nanca}.
+    glosses:
+    - month
+  de:
+    place structure: 'x1 dauert x2 Monate (Default: 1) gemäß Monatsfestlegung x3'
+    notes:
+    - No notes.
+    glosses:
+    - Monat
+  es:
+    place structure: x1 dura x2 meses (1 por defecto) según estándar x3
+    notes:
+    - No notes.
+    glosses:
+    - mes
+  ru:
+    place structure: x1 длится x2 месяцев (по умолчанию 1 месяц) по стандарту x3
+    notes:
+    - 'Текущий месяц: {cabma''i}; следующий месяц: {bavla''ima''i}; прошлый месяц:
+      {prula''ima''i} {detri} (дата), {djedi} (сутки), {jeftu} (неделя), {nanca} (год)'
+    glosses:
+    - длиться
+    - x1=длящийся
+  en-simple:
+    place structure: x1 is x2 months long
+    notes:
+    - No notes.
+    glosses:
+    - x1=a measured in months
+    - x2=a number of months
+    - x3=a month standard
+  eo:
+    place structure: x1 daŭras x2 monatojn (defaŭlte 1 monato) laŭ normo x3
+    notes:
+    - ĉi tiu monato (= {cabma'i}); venonta monato (= {bavla'ima'i}); pasinta monato
+      (= {prula'ima'i}).  Vidu ankaŭ {detri}, {djedi}, {jeftu}, {nanca}.
+    glosses:
+    - monato
+  hu:
+    place structure: x1 időtartama x2 [alapesetben 1] hónap, x3 mérce szerint
+    notes:
+    - '(Lásd még: {detri}, {djedi}, {jeftu}, {nanca})'
+    glosses:
+    - hónap
+  ja:
+    place structure: x1 は x2 （数）・ x3 （暦）の月
+    notes:
+    - ・大意： 暦月 ・読み方： マスティ  ・語呂合わせ： month,mes ・関連語： {detri}, {djedi}, {jeftu}, {nanca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: 在持续时间长度上，x1是x2个月（默认为1）的，基于月历标准x3
+    notes:
+    - 本月= {cabma'i}；下个月= {bavla'ima'i}；上个月= {prula'ima'i}；参见 {detri}, {djedi}, {jeftu},
+      {nanca}.
+    glosses:
+    - No glosses.

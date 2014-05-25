@@ -1,6 +1,84 @@
-Word: cinla
-Rafsi: ''
-Definition: x1 is thin in direction/dimension x2 by standard x3; [relatively short
-  in smallest dimension].
-Notes: See also {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}.
-Examples: None
+word: cinla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is thin in direction/dimension x2 by standard x3; [relatively
+      short in smallest dimension].
+    notes:
+    - See also {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}.
+    glosses:
+    - thin
+  jbo:
+    place structure: x1 cmalu x2 noi cmarai cimde x1 ku'o x3
+    notes:
+    - No notes.
+    glosses:
+    - cinla
+  de:
+    place structure: x1 ist dünn in Richtung/Dimension x2 gemäß Standard x3; [relativ
+      kurz in seiner kleinsten Dimension]
+    notes:
+    - No notes.
+    glosses:
+    - dünn
+  es:
+    place structure: x1 es delgado/flaco/fino/de poco espesor en dimensión/dirección
+      x2 (la menor) según estándar x3
+    notes:
+    - Ver también {rotsu},  {tordu},  {jarki},  {caxno}.
+    glosses:
+    - delgado
+  ru:
+    place structure: x1 — тонкий в направлении/измерении x2 относительно стандарта
+      x3
+    notes:
+    - Относительно короткий в наименьшем измерении {rotsu} (толстый), {jarki} (узкий),
+      {tordu} (короткий), {cmalu} (маленький), {caxno} (мелкий [неглубокий]), {plana}
+      (пухлый)
+    glosses:
+    - тонкий
+  en-simple:
+    place structure: x1 is thin in dimension x2
+    notes:
+    - No notes.
+    glosses:
+    - x1=something thin
+    - x2=a dimension of thinness
+    - x3=a standard of thinness
+  eo:
+    place structure: x1 estas maldika laŭ direkto x2 laŭ normo x3; [mallonga laŭ la
+      plej malgranda dimensio]
+    notes:
+    - Vidu ankaŭ {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}.
+    glosses:
+    - maldika
+  hu:
+    place structure: x1 vékony/lapos x2 irányban/méretben, x3 mérce szerint
+    notes:
+    - '(Lásd még: {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana})'
+    glosses:
+    - vékony
+  ja:
+    place structure: x1 は x2 （次元／方向）・ x3 （照合枠）において細い
+    notes:
+    - ・大意： 細い ・読み方： シンルァ  ・語呂合わせ： 親鸞 ・関連語： {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno},
+      {plana}, {jarki}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är tunn/smal i riktning/dimension x2 enligt standard x3; [relativt
+      kort i dess minsta dimension].
+    notes:
+    - No notes.
+    glosses:
+    - smal (kort i dess minsta dimension)
+    - tunn (kort i dess minsta dimension)
+  zh:
+    place structure: x1是薄的，在方向/规格/尺寸x2上，基于标准x3
+    notes:
+    - 参见 {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}.
+    glosses:
+    - No glosses.

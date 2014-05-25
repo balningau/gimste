@@ -1,6 +1,101 @@
-Word: banxa
-Rafsi: bax
-Definition: x1 is a bank owned by/in banking system x2 for banking function(s) x3
-  (event).
-Notes: See also {sorcu}, {zarci}, {canja}, {kagni}.
-Examples: None
+word: banxa
+rafsi:
+- bax
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bank owned by/in banking system x2 for banking function(s)
+      x3 (event).
+    notes:
+    - See also {sorcu}, {zarci}, {canja}, {kagni}.
+    glosses:
+    - bank
+  de:
+    place structure: x1 ist eine Bank im Banksystem/im Besitz von x2 für Bankfunktion(en)
+      x3 (Ereignis)
+    notes:
+    - No notes.
+    glosses:
+    - Bank
+  es:
+    place structure: x1 es un banco propiedad de/en sistema bancario x2 con funciones
+      x3 (evento)]
+    notes:
+    - No notes.
+    glosses:
+    - banco
+  fr:
+    place structure: x1 est une banque appartenant à/utilisant le système x2, pour
+      la fonction bancaire x3 (évènement).
+    notes:
+    - Voir également {sorcu}, {zarci}, {canja}, {kagni}.
+    glosses:
+    - banque
+    - institution financiaire
+  ru:
+    place structure: x1 — банк, находящийся в собственности/банковской системе x2,
+      выполняющий банковские функции x3 (событие)
+    notes:
+    - '{sorcu} (запас), {zarci} (рынок), {canja} (обменивать), {kagni} (фирма)'
+    glosses:
+    - x1=банк
+    - x2=банковская система
+    - x3=банковская функция
+  en-simple:
+    place structure: x1 is a bank owned by x2 for banking functions x3
+    notes:
+    - No notes.
+    glosses:
+    - a bank
+    - x2=a bank owner or system
+    - x3=a banking function
+  eo:
+    place structure: x1 estas banko posedita de/en banka sistemo x2 kun banka(j) funkcio(j)
+      x3 (okazo)
+    notes:
+    - Vidu ankaŭ {sorcu}, {zarci}, {canja}, {kagni}.
+    glosses:
+    - banko
+  hu:
+    place structure: x1 egy bank x2 tulajdonában/bankrendszerben x3 bankügyletekre
+    notes:
+    - '(Lásd még: {sorcu}, {zarci}, {canja}, {kagni})'
+    glosses:
+    - bank
+  ja:
+    place structure: x1 は x2 （金融体系）・ x3 （機能）の銀行
+    notes:
+    - x2 は経営者も。「bu'u le banxa lo jdini cu se tolse'a／その銀行でお金を引き出す」 ・大意： 銀行 ・読み方： バンクァ  ・語呂合わせ：
+      ＜晩に破産＞, bank、xang（行） ・関連語： {sorcu}, {zarci}, {canja}, {kagni}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 is een bank van/door x2 voor bankieren x3 (gebeurtenis).
+    notes:
+    - 'Zie ook : {sorcu}, {zarci}, {canja} en {kagni}.'
+    glosses:
+    - bank (gebouw)
+  'no':
+    place structure: x1 er en bank eid av/i banksystem x2 for bankfunksjon(er) x3
+      (hendelse)
+    notes:
+    - Se også {sorcu}, {zarci}, {canja}, {kagni}, {zivle}, {jdini}, {jbera}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en bank som ägs av/i banksystem x2 för bankfunktioner x3
+      (event).
+    notes:
+    - Se även {sorcu}, {zarci}, {canja}, {kagni}, {zivle}, {jdini}, {jbera}.
+    glosses:
+    - banksystem
+    - x1=bank
+    - x2=bankir
+    - x3=bankfunktioner
+  zh:
+    place structure: x1是银行，被x2拥有/处于银行系统x2中，目的是为了实现银行业务/目的x3（事件）
+    notes:
+    - 参见 {sorcu}, {zarci}, {canja}, {kagni}.
+    glosses:
+    - No glosses.

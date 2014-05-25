@@ -1,6 +1,69 @@
-Word: nicte
-Rafsi: cte
-Definition: x1 is a nighttime of day x2 at location x3; (adjective:) x1 is at night/nocturnal.
-Notes: Tonight (= {cabycte}); tomorrow night (= {bavlamcte}, even when tonight is
-  still in the future); last night (= {prulamcte}).  See also {donri}, {djedi}, {tcika}.
-Examples: None
+word: nicte
+rafsi:
+- cte
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a nighttime of day x2 at location x3; (adjective:) x1 is
+      at night/nocturnal.
+    notes:
+    - Tonight (= {cabycte}); tomorrow night (= {bavlamcte}, even when tonight is still
+      in the future); last night (= {prulamcte}).  See also {donri}, {djedi}, {tcika}.
+    glosses:
+    - night
+  de:
+    place structure: x1 ist die Nacht von Tag x2 an Ort x3; (Adjektiv:) x1 ist nächtlich
+    notes:
+    - No notes.
+    glosses:
+    - Nacht
+  es:
+    place structure: x1 es una noche de día x2 en localidad x3
+    notes:
+    - Ver también {donri},  {murse}.
+    glosses:
+    - noche
+  ru:
+    place structure: x1 — ночное время суток x2 в местности x3
+    notes:
+    - 'Сегодня ночью: {cabycte}; завтра ночью: {bavlamcte}, даже если сегодняшняя
+      ночь еще в будущем); прошлой ночью: {prulamcte} {donri} (день [время суток]),
+      {djedi} (сутки), {tcika} (время [события])'
+    glosses:
+    - x1=ночь
+  en-simple:
+    place structure: x1 is a nighttime of day x2 at location x3
+    notes:
+    - No notes.
+    glosses:
+    - a night-time
+    - x2=a day with a night
+    - x3=a location of night
+  eo:
+    place structure: x1 estas nokto de tago x2 en loko x3; (adjektivo:) x1 estas nokta
+    notes:
+    - ĉinokto (= {cabycte}); morgaŭa nokto (= bavlamcte, eĉ kiam la hodiaŭa nokto
+      estas ankoraŭ venonta); hieraŭa nokto (= {prulamcte}).  Vidu ankaŭ {donri},
+      {djedi}, {tcika}.
+    glosses:
+    - nokto
+  hu:
+    place structure: x1 az éjszaka x2 nap után, x3 helyen
+    notes:
+    - '(Lásd még: {donri}, {djedi}, {tcika})'
+    glosses:
+    - éjszaka
+  ja:
+    place structure: x1 は x2 （日）の x3 （場所）における夜
+    notes:
+    - 拡張すれば「夜行性」も。 ・大意： 夜 ・読み方： ニシテ  ・語呂合わせ： 夜にして ・関連語： {donri}, {djedi}, {tcika}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2天的晚上/夜晚，位于地点x3；x1是夜间的/夜晚的
+    notes:
+    - 今晚={cabycte}；明晚={bavlamcte}（注：有时候今晚尚处于未来，但仍然使用{cabycte}；昨晚={prulamcte}；参见 {donri},
+      {djedi}, {tcika}.
+    glosses:
+    - No glosses.

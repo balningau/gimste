@@ -1,5 +1,65 @@
-Word: xarci
-Rafsi: xac, xa'i
-Definition: x1 is a weapon/arms for use against x2 by x3.
-Notes: Gun/cannon (= {celxa'i}).  See also {jenmi}, {sonci}, {catra}.
-Examples: None
+word: xarci
+rafsi:
+- xac
+- xa'i
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a weapon/arms for use against x2 by x3.
+    notes:
+    - Gun/cannon (= {celxa'i}).  See also {jenmi}, {sonci}, {catra}.
+    glosses:
+    - arm (weapon)
+    - weapon
+  de:
+    place structure: x1 ist eine Waffe gegen x2 (verwendet) von x3
+    notes:
+    - No notes.
+    glosses:
+    - Waffe
+  es:
+    place structure: x1 es un arma para uso contra x2 por x3
+    notes:
+    - No notes.
+    glosses:
+    - arma
+  ru:
+    place structure: x1 — оружие/вооружение против x2, используемое x3 (кем)
+    notes:
+    - 'Ружье/пушка: {celxa''i} {jenmi} (армия), {sonci} (солдат), {catra} (убивать)'
+    glosses:
+    - x1=оружие
+    - x2=вид оружия
+  en-simple:
+    place structure: x1 is a weapon for use against x2 by x3
+    notes:
+    - No notes.
+    glosses:
+    - a weapon
+    - x2=something a weapon is used against
+    - x3=a weapon user
+  eo:
+    place structure: x1 estas armilo por uzi kontraŭ x2 fare de x3
+    notes:
+    - Kanono (= {celxa'i}).  Vidu ankaŭ {jenmi}, {sonci}, {catra}.
+    glosses:
+    - armilo
+  hu:
+    place structure: x1 egy fegyver x2 elleni használatra x3 által
+    notes:
+    - '(Lásd még: {jenmi}, {sonci}, {catra})'
+    glosses:
+    - fegyver
+  ja:
+    place structure: x1 は x2 （対象）・ x3 （使用者）の武器／武具／兵器
+    notes:
+    - ・大意： 武器 ・読み方： クァルシ  ・語呂合わせ： 武器で命刈るし, arm, ci(器) ・関連語： {jenmi}, {sonci}, {catra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是武器，被用来攻击/对抗x2，使用者为x3
+    notes:
+    - 枪/炮={celxa'i}；参见 {jenmi}, {sonci}, {catra}.
+    glosses:
+    - No glosses.

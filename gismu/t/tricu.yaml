@@ -1,5 +1,64 @@
-Word: tricu
-Rafsi: ric
-Definition: x1 is a tree of species/cultivar x2.
-Notes: See also {cindu}, {ckunu}, {pezli}, {mudri}, {spati}.
-Examples: None
+word: tricu
+rafsi:
+- ric
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tree of species/cultivar x2.
+    notes:
+    - See also {cindu}, {ckunu}, {pezli}, {mudri}, {spati}.
+    glosses:
+    - tree (plant)
+  de:
+    place structure: x1 ist ein Baum der Art/Sorte x2.
+    notes:
+    - Siehe auch {cindu}, {ckunu}, {pezli}, {mudri}, {spati}.
+    glosses:
+    - Baum (Pflanze)
+  es:
+    place structure: x1 es un árbol de especie/variedad x2
+    notes:
+    - Ver también {spati}.
+    glosses:
+    - árbol
+  ru:
+    place structure: x1 — дерево (растение) вида/разновидности x2
+    notes:
+    - '{cindu} (дуб), {ckunu} (хвойный), {pezli} (лист [растения]), {mudri} (древесина),
+      {spati} (растение)'
+    glosses:
+    - x1=дерево
+    - x2=вид дерева
+  en-simple:
+    place structure: x1 is a tree of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a tree
+    - x2=a species of tree
+  eo:
+    place structure: x1 estas arbo de speco/kultivo x2
+    notes:
+    - Vidu ankaŭ {cindu}, {ckunu}, {pezli}, {mudri}, {spati}.
+    glosses:
+    - arbo
+  hu:
+    place structure: x1 egy fa az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cindu}, {ckunu}, {pezli}, {mudri}, {spati})'
+    glosses:
+    - fa
+  ja:
+    place structure: x1 は x2 （種類）の木／樹木／立ち木
+    notes:
+    - 生えている木。「lo vi jubme genai tricu gi mudri／ここにある机は、樹木ではないが木材でできている。」 ・大意： 樹木 ・読み方：
+      トリシュ  ・関連語： {cindu}, {ckunu}, {pezli}, {mudri}, {spati}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是树，属于物种/种类x2
+    notes:
+    - 参见 {cindu}, {ckunu}, {pezli}, {mudri}, {spati}.
+    glosses:
+    - No glosses.

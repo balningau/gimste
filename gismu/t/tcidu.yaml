@@ -1,6 +1,76 @@
-Word: tcidu
-Rafsi: tid
-Definition: x1 [agent] reads x2 [text] from surface/document/reading material x3;
-  x1 is a reader.
-Notes: See also {ciska}, {cukta}, {karni}.
-Examples: None
+word: tcidu
+rafsi:
+- tid
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [agent] reads x2 [text] from surface/document/reading material
+      x3; x1 is a reader.
+    notes:
+    - See also {ciska}, {cukta}, {karni}.
+    glosses:
+    - read
+    - x1=reader (agentive)
+    - x2=text (readable)
+    - x3=document
+  de:
+    place structure: x1 liest Text x2 von Fläche/Dokument x3.
+    notes:
+    - Siehe auch {ciska}, {cukta}, {karni}.
+    glosses:
+    - lesen
+  es:
+    place structure: x1 lee x2 de medio/superficie/documento x3
+    notes:
+    - Ver también {ciska}.
+    glosses:
+    - leer
+  fr:
+    place structure: x1 [entité capable d'exercer un choix librement] lit x2 [un texte]
+      sur une surface/un document x3
+    notes:
+    - No notes.
+    glosses:
+    - lecture
+    - lire
+  ru:
+    place structure: x1 читает x2 (текст) с поверхности/документа x3
+    notes:
+    - '{ciska} (писать), {cukta} (книга), {karni} (журнал)'
+    glosses:
+    - читать
+    - x1=читающий
+  en-simple:
+    place structure: x1 reads x2 from x3
+    notes:
+    - No notes.
+    glosses:
+    - a reader
+    - x2=something read
+    - x3=something read from
+  eo:
+    place structure: x1 [aganto] legas x2-on [teksto] de surfaco/dokumento/legaĵo
+      x3; x1 estas leganto
+    notes:
+    - Vidu ankaŭ {ciska}, {cukta}, {karni}.
+    glosses:
+    - legi
+  hu:
+    place structure: x1 olvassa x2 szöveget x3 felületről/írott anyagból
+    notes:
+    - '(Lásd még: {ciska}, {cukta}, {karni})'
+    glosses:
+    - olvas
+  ja:
+    place structure: x1 は x2 （文字列）を x3 （表面／書物）から読む
+    notes:
+    - ・大意： 読む ・読み方： チドゥ  ・語呂合わせ： cike（時刻）, time ・関連語： {ciska}, {cukta}, {karni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1阅读x2（文本），从阅读材料/文档x3中；x1是阅读者
+    notes:
+    - 参见 {ciska}, {cukta}, {karni}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,74 @@
-Word: nupre
-Rafsi: nup, nu'e
-Definition: x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim].
-Notes: See also {kajde}, {xusra}.
-Examples: None
+word: nupre
+rafsi:
+- nup
+- nu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) promises/commits/assures/threatens x2 (event/state)
+      to x3 [beneficiary/victim].
+    notes:
+    - See also {kajde}, {xusra}.
+    glosses:
+    - promise (commit to something)
+    - x1=promisor
+    - x2=promise (vow)
+    - x3=promisee
+  de:
+    place structure: x1 (Handelnder) verspricht/versichert/verpflichtet sich/droht
+      an x2 (Ereignis/Zustand) gegenüber x3 [Empfänger/Opfer]
+    notes:
+    - No notes.
+    glosses:
+    - versprechen
+  es:
+    place structure: x1 promete/amenaza/asegura que ocurrirá x2 a x3
+    notes:
+    - Ver también {kajde},  {xusra}.
+    glosses:
+    - prometer
+  ru:
+    place structure: 'x1 обещает/заверяет/предупреждает/угрожает, что произойдет/будет
+      x2 (событие/состояние), x3 (кому/кого: заинтересованная сторона/жертва); x1
+      обещает x3 (кому), что будет x2'
+    notes:
+    - '{kajde} (предостережение), {xusra} (утверждать)'
+    glosses:
+    - обещать
+    - x1=обещающий
+    - x2=обещаемое
+    - x3=кому обещают
+  en-simple:
+    place structure: x1 promises or threatens to do x2 to x3
+    notes:
+    - No notes.
+    glosses:
+    - a promiser
+    - x2=something promised
+    - x3=something receiving a promise
+  eo:
+    place structure: x1 (aganto) promesas/certigas/minacas x2-on (okazo/stato) al
+      x3 [profitanto/viktimo]
+    notes:
+    - Vidu ankaŭ {kajde}, {xusra}.
+    glosses:
+    - promesi
+  hu:
+    place structure: x1 megígéri x2-t x3-nak / megfenyegeti x2-vel x3-t
+    notes:
+    - '(Lásd még: {kajde}, {xusra})'
+    glosses:
+    - megígér/fenyeget
+  ja:
+    place structure: x1 （者）は x2 （事）を x3 （者）に約束する
+    notes:
+    - ・大意： 約束 ・読み方： ヌプレ  ・語呂合わせ： 約束ぬプレーンヨーグルト ・関連語： {kajde}, {xusra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1许诺/允诺/威胁/保证x2（时间/状态）的发生/到来，接受者为x3
+    notes:
+    - 参见 {kajde}, {xusra}.
+    glosses:
+    - No glosses.

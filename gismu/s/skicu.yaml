@@ -1,6 +1,70 @@
-Word: skicu
-Rafsi: ski
-Definition: x1 tells about/describes x2 (object/event/state) to audience x3 with description
-  x4 (property).
-Notes: See also {lisri}, {tavla}.
-Examples: None
+word: skicu
+rafsi:
+- ski
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 tells about/describes x2 (object/event/state) to audience
+      x3 with description x4 (property).
+    notes:
+    - See also {lisri}, {tavla}.
+    glosses:
+    - describe
+  de:
+    place structure: x1 erzählt über/beschreibt x2 (Objekt/Ereignis/Zustand) an/für
+      Publikum x3 mit Beschreibung x4 (Eigenschaft)
+    notes:
+    - No notes.
+    glosses:
+    - beschreiben
+  es:
+    place structure: x1 describe/cuenta sobre x2 a x3 con descripción x4
+    notes:
+    - No notes.
+    glosses:
+    - describir
+  ru:
+    place structure: 'x1 рассказывает о/описывает x2 (объект/событие/состояние) аудитории
+      x3, (описывая/характеризуя x2) как x4 (свойство: {ka})'
+    notes:
+    - '{lisri} (рассказ), {tavla} (говорить [о чем-либо])'
+    glosses:
+    - описывать
+    - x1=описывающий
+    - x2=описываемое
+  en-simple:
+    place structure: x1 describes x2 to x3 with description x4
+    notes:
+    - No notes.
+    glosses:
+    - a describer
+    - x2=something described
+    - x3=an audience something is described to
+    - x4=a description
+  eo:
+    place structure: x1 priskribas x2-on (objekto/okazo/stato) al publiko x3 kun priskribo
+      x4 (eco)
+    notes:
+    - Vidu ankaŭ {lisri}, {tavla}.
+    glosses:
+    - priskribi
+  hu:
+    place structure: x1 leírja/jellemzi x2 tárgyat/eseményt/állapotot x3 közönségnek,
+      x4 leírással [tulajdonság]
+    notes:
+    - '(Lásd még: {lisri}, {tavla})'
+    glosses:
+    - leír
+  ja:
+    place structure: x1 （者）は x2 （物／事／状態）を x3 （者）に x4 （表現／文字列）によって描写／叙述する
+    notes:
+    - ・大意： 描写 ・読み方： スキシュ  ・関連語： {lisri}, {tavla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1描述/谈论x2（物体/事件/状态）给接收者x3，具体描述内容为x4（性质）
+    notes:
+    - 参见 {lisri}, {tavla}.
+    glosses:
+    - No glosses.

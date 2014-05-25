@@ -1,9 +1,83 @@
-Word: ckiku
-Rafsi: kik
-Definition: x1 is a key fitting/releasing/opening/unlocking lock x2, and having relevant
-  properties x3.
-Notes: Also $x_2$ fastener, mechanism; code key (= {termifckiku}, {kiktermifra});
-  $x_3$ is dependent on the type of key, but are those form properties of the key
-  that enable it to serve the function of opening the lock - in the case of a metal
-  key to a padlock, for example, this would be the shaft and teeth.  See also {stela}.
-Examples: None
+word: ckiku
+rafsi:
+- kik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a key fitting/releasing/opening/unlocking lock x2, and
+      having relevant properties x3.
+    notes:
+    - Also x2 fastener, mechanism; code key (= {termifckiku}, {kiktermifra}); x3 is
+      dependent on the type of key, but are those form properties of the key that
+      enable it to serve the function of opening the lock - in the case of a metal
+      key to a padlock, for example, this would be the shaft and teeth.  See also
+      {stela}.
+    glosses:
+    - key
+  de:
+    place structure: x1 ist ein Schlüssel, der (in) Schloss x2 passt/es öffnet und
+      relevante Eigenschaften x3 besitzt
+    notes:
+    - No notes.
+    glosses:
+    - Schlüssel
+  es:
+    place structure: x1 es una llave de cerradura x2 con propiedades relevantes x3
+    notes:
+    - No notes.
+    glosses:
+    - llave
+  ru:
+    place structure: x1 — ключ для замка x2, имеющий соответствующие свойства x3
+    notes:
+    - 'Также: x2 — защелка/запор/механизм; кодовый ключ: {termifckiku}, {kiktermifra};
+      x3 зависит от типа ключа — те свойства ключа, которые позволяют ему осуществлять
+      функцию открывания замка, напр. в случае металлического ключа для амбарного
+      замка — это черенок и бородка {stela} (замок [запор])'
+    glosses:
+    - x1=ключ
+    - x2=замок (запор)
+  en-simple:
+    place structure: x1 is a key fitting lock x2 with properties x3
+    notes:
+    - No notes.
+    glosses:
+    - a key
+    - x2=a key's lock
+    - x3=properties of a key
+  eo:
+    place structure: x1 estas ŝlosilo por ŝloso x2 kaj havas proprojn x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  hu:
+    place structure: x1 egy kulcs, amely x2 zárat/lakatot nyitja x3 jellemzője felhasználásával
+      /működési elvvel
+    notes:
+    - '(Lásd még: {stela})'
+    glosses:
+    - kulcs
+  ja:
+    place structure: x1 は x2 （錠）・ x3 （特性）の鍵
+    notes:
+    - 「カードキー」も。 ・大意： 鍵 ・読み方： シキク  ・関連語： {stela}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en nyckel som passar/frigör/öppnar/låser upp lås x2, och
+      har relevanta egenskaper x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=nyckel
+    - x2=nyckellås
+    - x3=nyckelegenskap
+  zh:
+    place structure: x1是钥匙，用以解开锁x2，两者之间具有相关属性x3
+    notes:
+    - x2 也指：紧固装置，机械装置，密码锁= {termifckiku}/{kiktermifra}；x3指的是钥匙开对应的锁之间的原理/性质如挂锁中的钥匙齿与锁中弹子的对应；参见
+      {stela}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,69 @@
-Word: tigni
-Rafsi: tig
-Definition: x1 performs x2 [performance] for/before audience x3.
-Notes: See also {jarco}.
-Examples: None
+word: tigni
+rafsi:
+- tig
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 performs x2 [performance] for/before audience x3.
+    notes:
+    - See also {jarco}.
+    glosses:
+    - perform
+    - x1=performer
+    - x2=performance
+  de:
+    place structure: x1 führt/übt x2 [Aufführung/Leistung] auf/aus vor/für Publikum
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - aufführen
+  es:
+    place structure: x1 actúa/realiza acto/actuación x2 ante audiencia x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 исполняет/играет/дает представление x2 перед аудиторией x3;
+      x1 выступает перед x3 с x2
+    notes:
+    - '{jarco} (показывать [демонстрировать])'
+    glosses:
+    - исполнять (давать представление)
+    - x1=исполнитель (представления)
+    - x2=представление (действо)
+  en-simple:
+    place structure: x1 performs for audience x2
+    notes:
+    - No notes.
+    glosses:
+    - a performer
+    - x2=a performance
+    - x3=an audience of a performance
+  eo:
+    place structure: x1 prezentas x2-on [prezento] antaŭ publiko x3
+    notes:
+    - Vidu ankaŭ {jarco}.
+    glosses:
+    - prezenti
+  hu:
+    place structure: x1 előadja/bemutatja x2 előadást x3 közönség számára/előtt
+    notes:
+    - '(Lásd még: {jarco})'
+    glosses:
+    - előad
+  ja:
+    place structure: x1 は x2 （演技）を x3 （者）のために演じる；  x1 は役者／俳優
+    notes:
+    - 「gau zgitigni .ije sanga／ひかせてうたつてゐる」（山頭火『行乞記（二）』） ・大意： 演技 ・読み方： ティグニ  ・語呂合わせ：
+      artista, ian（演） ・関連語： {jarco}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1表演x2（节目）给观众x3
+    notes:
+    - 参见 {jarco}.
+    glosses:
+    - No glosses.

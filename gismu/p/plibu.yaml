@@ -1,5 +1,66 @@
-Word: plibu
-Rafsi: pib
-Definition: x1 is a/the pubic area/external genitalia [body-part] of x2.
-Notes: See also {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla}.
-Examples: None
+word: plibu
+rafsi:
+- pib
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a/the pubic area/external genitalia [body-part] of x2.
+    notes:
+    - See also {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla}.
+    glosses:
+    - pubic
+  de:
+    place structure: x1 ist der Schambereich/sind die äußerlichen Genitalien [Körperteil]
+      von x2
+    notes:
+    - No notes.
+    glosses:
+    - Schambereich
+  es:
+    place structure: x1 es el pubis/zona púbica (parte del cuerpo) de x2
+    notes:
+    - No notes.
+    glosses:
+    - pubis
+  ru:
+    place structure: x1 — лобок/нижняя часть живота/область наружных половых органов
+      (часть тела) x2
+    notes:
+    - '{cinse} (сексуальный), {gletu} (совокупляться), {pinji} (пенис), {vibna} (влагалище),
+      {vlagi} (вульва), {ganti} (яичко [анатомия]), {mabla} (негативный [о значении/смысле
+      слова])'
+    glosses:
+    - лобок
+  en-simple:
+    place structure: x1 is the pubic area of x2
+    notes:
+    - No notes.
+    glosses:
+    - a pubic area
+    - x2=something with a pubic area
+  eo:
+    place structure: x1 estas (la) pubo/eksteraj generiloj [korpoparto] de x2
+    notes:
+    - Vidu ankaŭ {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla}.
+    glosses:
+    - pubo
+  hu:
+    place structure: x1 az ágyéka/szeméremtájéka x2-nek
+    notes:
+    - '(Lásd még: {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla})'
+    glosses:
+    - ágyék
+  ja:
+    place structure: x1 は x2 （本体）の陰部
+    notes:
+    - 男女の区別は無い。 ・大意： 陰部 ・読み方： プルィブ ・関連語： {cinse}, {gletu}, {pinji}, {vibna}, {vlagi},
+      {ganti}, {mabla}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是x2的外阴部位
+    notes:
+    - 参见 {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla}.
+    glosses:
+    - No glosses.

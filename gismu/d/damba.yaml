@@ -1,7 +1,86 @@
-Word: damba
-Rafsi: dab, da'a
-Definition: x1 fights/combats/struggles with x2 over issue x3 (abstract); x1 is a
-  fighter/combatant.
-Notes: Use $x_3$ tu'a for fight over an object/objective.  See also {bradi}, {gunta},
-  {talsa}, {darlu}, {fapro}, {jamna}, {sonci}.
-Examples: None
+word: damba
+rafsi:
+- dab
+- da'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 fights/combats/struggles with x2 over issue x3 (abstract);
+      x1 is a fighter/combatant.
+    notes:
+    - Use x3 tu'a for fight over an object/objective.  See also {bradi}, {gunta},
+      {talsa}, {darlu}, {fapro}, {jamna}, {sonci}.
+    glosses:
+    - fight
+    - struggle (fight)
+  de:
+    place structure: x1 kämpft/streitet gegen x2 über Streitpunkt x3 (Abstrakt); x1
+      ist ein Kämpfer
+    notes:
+    - No notes.
+    glosses:
+    - kämpfen
+  es:
+    place structure: x1 pelea/combate/lucha contra x2 por asunto x3
+    notes:
+    - Ver también {bradi},  {jamna}.
+    glosses:
+    - pelear
+  ru:
+    place structure: x1 борется/сражается с x2 по поводу x3 (абстракция)
+    notes:
+    - В случае борьбы за объект/цель использовать {tu'a} для x3 {bradi} (враг), {gunta}
+      (нападать), {talsa} (оспаривать), {darlu} (отстаивать [позицию]), {fapro} (противостоять),
+      {jamna} (воевать), {sonci} (солдат)
+    glosses:
+    - сражаться
+    - x1=сражающийся
+  en-simple:
+    place structure: x1 fights or struggles with x2 over issue x3
+    notes:
+    - No notes.
+    glosses:
+    - a fighter
+    - x2=something fought with
+    - x3=a reason for a fight
+  eo:
+    place structure: x1 batalas/luktas kontraŭ  x2 pri afero x3 (abstraktaĵo); x1
+      estas batalanto/luktanto
+    notes:
+    - Uzu tu'a en x3 por batalo pri objekto/celo.  Vidu ankaŭ {bradi}, {gunta}, {talsa},
+      {darlu}, {fapro}, {jamna}, {sonci}.
+    glosses:
+    - batali
+  hu:
+    place structure: x1 küzd/harcol/viaskodik x2-vel x3 fölött
+    notes:
+    - '(Lásd még: {bradi}, {gunta}, {talsa}, {darlu}, {fapro}, {jamna}, {sonci})'
+    glosses:
+    - küzd
+  ja:
+    place structure: x1 は x2 と、 x3 （事）に関して格闘する／戦う；  x1 は戦士／格闘家
+    notes:
+    - 「jamna」と違い、とくに個体同士の物理的戦闘を表す。 ・大意： 格闘 ・読み方： ダムバ  ・関連語： {bradi}, {gunta}, {talsa},
+      {darlu}, {fapro}, {jamna}, {sonci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 slåss/strider/bråkar med x2 om x3 (abstraktion).
+    notes:
+    - Använd tu'a för strid om ett föremål/syfte. x1 är en slagskämpe/fighter/(bråkstake).
+    glosses:
+    - bråka (slåss)
+    - fighter (slagskämpe)
+    - kämpa (strida)
+    - slåss
+    - strida
+    - x1=slagskämpe
+    - x2=motståndare (i strid/bråk)
+    - x3=trätoämne (ämne att bråka över)
+  zh:
+    place structure: x1和x2战斗/战争，在x3事件上；x1是战士
+    notes:
+    - 为某物而战斗时，x3处使用tu'a；参见 {bradi}, {gunta}, {talsa}, {darlu}, {fapro}, {jamna}, {sonci}.
+    glosses:
+    - No glosses.

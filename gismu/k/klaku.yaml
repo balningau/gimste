@@ -1,5 +1,73 @@
-Word: klaku
-Rafsi: kak
-Definition: x1 weeps/cries tears x2 about/for reason x3 (event/state).
-Notes: See also {badri}, {krixa}.
-Examples: None
+word: klaku
+rafsi:
+- kak
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 weeps/cries tears x2 about/for reason x3 (event/state).
+    notes:
+    - See also {badri}, {krixa}.
+    glosses:
+    - cry (weep)
+    - weep
+  de:
+    place structure: x1 weint Tränen x2 wegen/auf Grund von x3 (Ereignis/Zustand)
+    notes:
+    - No notes.
+    glosses:
+    - weinen
+  es:
+    place structure: x1 llora lágrimas x2 por motivo x3
+    notes:
+    - No notes.
+    glosses:
+    - llorar
+  fr:
+    place structure: x1 pleure x2 à propos/à cause de x3 (évènement/état).
+    notes:
+    - Voir aussi {badri}, {krixa}.
+    glosses:
+    - pleurer
+  ru:
+    place structure: x1 плачет слезами/проливает слезы x2 по причине/поводу x3 (событие/состояние);
+      x1 оплакивает ({fi}) x3
+    notes:
+    - '{badri} (грустный), {krixa} (кричать)'
+    glosses:
+    - плакать
+    - x1=плачущий
+    - x2=слезы
+    - x3=повод для плача
+  en-simple:
+    place structure: x1 weeps or cries tears x2 for reason x3
+    notes:
+    - No notes.
+    glosses:
+    - a weeper
+    - x2=a tear wept
+    - x3=a reason for weeping
+  eo:
+    place structure: x1 ploras larmojn x2 pri/pro kialo x3 (okazo/stato)
+    notes:
+    - Vidu ankaŭ {badri}, {krixa}.
+    glosses:
+    - plori
+  hu:
+    place structure: x1 sír x2 könnyeket x3 miatt (esemény/állapot)
+    notes:
+    - '(Lásd még: {badri}, {krixa})'
+    glosses:
+    - sír (könnyezik)
+  ja:
+    place structure: x1 は x2 （涙）・ x3 （理由）で泣く
+    notes:
+    - ・大意： 泣く ・読み方： クルァク  ・語呂合わせ： 暗く泣く ・関連語： {badri}, {krixa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1哭/泣出x2，因为原因x3（事件/状态）
+    notes:
+    - 参见 {badri}, {krixa}.
+    glosses:
+    - No glosses.

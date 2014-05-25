@@ -1,14 +1,99 @@
-Word: lijda
-Rafsi: jda
-Definition: x1 is a religion of believers including x2 sharing common beliefs/practices/tenets
-  including x3.
-Notes: Also mythos, creed, traditional beliefs, $x_2$ people(s), adherents; (adjective:)
-  $x_1$, $x_2$, $x_3$ are religious/ecclesiastic in nature; $x_2$ is a believer in/of
-  $x_1$, an adherent/follower of $x_1$ (= {seljda} for reordered places); $x_2$ is
-  a practitioner of $x_3$ (= {selterjda} for reordered places); $x_3$ is a tenet/belief/ritual/creed
-  of $x_1$/$x_2$ (= {terjda} for reordered places); priest/clerical (= {jdaca'i},
-  {jdaka'i}, {jdaja'a}); organized church/religion (= {be'ejda}); congregation (=
-  {jdabe'e}, {jdagri}).  See also {budjo}, {censa}, {cevni}, {crida}, {dadjo}, {jegvo},
-  {krici}, {latna}, {malsi}, {marde}, {muslo}, {pruxi}, {ranmi}, {ritli}, {xriso},
-  {zekri}.
-Examples: None
+word: lijda
+rafsi:
+- jda
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a religion of believers including x2 sharing common beliefs/practices/tenets
+      including x3.
+    notes:
+    - Also mythos, creed, traditional beliefs, x2 people(s), adherents; (adjective:)
+      x1, x2, x3 are religious/ecclesiastic in nature; x2 is a believer in/of x1,
+      an adherent/follower of x1 (= {seljda} for reordered places); x2 is a practitioner
+      of x3 (= {selterjda} for reordered places); x3 is a tenet/belief/ritual/creed
+      of x1/x2 (= {terjda} for reordered places); priest/clerical (= {jdaca'i}, {jdaka'i},
+      {jdaja'a}); organized church/religion (= {be'ejda}); congregation (= {jdabe'e},
+      {jdagri}).  See also {budjo}, {censa}, {cevni}, {crida}, {dadjo}, {jegvo}, {krici},
+      {latna}, {malsi}, {marde}, {muslo}, {pruxi}, {ranmi}, {ritli}, {xriso}, {zekri}.
+    glosses:
+    - religion
+  de:
+    place structure: x1 ist eine Religion aus Gläubigen unter anderem x2, die gemeinsame
+      Glauben/Überzeugungen/Praktiken/Lehren/Grundsätze unter anderem x3 verfolgen
+    notes:
+    - No notes.
+    glosses:
+    - Religion
+  es:
+    place structure: x1 es una religión de gente/creyentes/adherentes/fieles x2 con
+      creencias comunes x3
+    notes:
+    - No notes.
+    glosses:
+    - religión
+  ru:
+    place structure: x1 — религия верующих x2, разделяющих общие верования/обряды/догматы
+      x3
+    notes:
+    - 'Также: мифы, вероисповедание, традиционные верования; x2 не обязательно полное
+      описание; прилагательное: x1/x2/x3 — религиозный/церковный; x2 — верующий в
+      x1, адепт/последователь x1: {seldja} с переставленными местами); x2 следует/соблюдает/исповедует
+      x3: {selterjda} с переставленными местами); x3 — догматы/доктрина/вероучение
+      x1/x2: {terjda} с переставленными местами); священник/жрец/клирик: {jdaca''i},
+      {jdaka''i}, {jdaja''a}; организованная религия/церковь: {be''ejda}; прихожане/паства:
+      {jdabe''e}, {jdagri} {budjo} (буддийский), {censa} (священный), {cevni} (бог),
+      {crida} (леший), {dadjo} (даоистский), {jegvo} (иеговистский), {krici} (верить),
+      {latna} (лотос), {malsi} (храм), {marde} (мораль), {muslo} (исламский), {pruxi}
+      (дух), {ranmi} (миф), {ritli} (ритуал), {xriso} (христианский), {zekri} (преступление)'
+    glosses:
+    - x1=религия
+    - x2=верующий
+    - x3=верования (обряды)
+  en-simple:
+    place structure: x1 is a religion of believers x2 sharing beliefs x3
+    notes:
+    - No notes.
+    glosses:
+    - a religion
+    - x2=a religious believer
+    - x3=a religious belief
+  eo:
+    place structure: x1 estas religio de kredanto(j) x2 kun komunaj kredoj/praktikoj/doktrino
+      x3
+    notes:
+    - 'Ankaŭ: mito, kredo, tradicio, x2 popolo, aliĝintoj; (adjektivo:) x1, x2, x3
+      estas de religia/eklezia naturo; x2 estas kredanto/aliĝinto/subtenanto/sekvanto
+      de x1 (= seljda por reordigitaj {lokoj}); x2 estas praktikanto de x3 (= selterjda
+      por reordigitaj {lokoj}); x3 estas doktrino/kredo/rito de x1/x2 (= terjda por
+      reordigitaj {lokoj}); pastro/sacerdoto/klerika (= {jdaca''i}, {jdaka''i}, {jdaja''a});
+      organizita eklezio/religio (= {be''ejda}); kongregacio (= {jdabe''e}, {jdagri}).  (kp.
+      budjo, censa, cevni, crida, dadjo, jegvo, krici, latna, malsi, marde, muslo,
+      prŭi, ranmi, ritli, xriso, zekri)'
+    glosses:
+    - religio
+  hu:
+    place structure: x1 egy/a vallása (többek között) x2 hívőknek, ami (többek között)
+      x3 hiedelmeket/hagyományokat/tanokat tartalmazza
+    notes:
+    - '(Lásd még: {budjo}, {censa}, {cevni}, {crida}, {dadjo}, {jegvo}, {krici}, {latna},
+      {malsi}, {marde}, {muslo}, {pruxi}, {ranmi}, {ritli}, {xriso}, {zekri})'
+    glosses:
+    - vallás
+  ja:
+    place structure: x1 は x2 （信者）・ x3 （信条／教条／教理／慣行／ドグマ）の宗教／ミュトス
+    notes:
+    - ・大意： 宗教 ・読み方： ルィジダ  ・語呂合わせ： 宗教なんて類似だ ・関連語： {budjo}, {censa}, {cevni}, {crida},
+      {dadjo}, {jegvo}, {krici}, {latna}, {malsi}, {marde}, {muslo}, {pruxi}, {ranmi},
+      {ritli}, {xriso}, {zekri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是宗教，有信仰者/信众/追随者x2，有共同信仰/惯例/信条/教条x3
+    notes:
+    - 也指：x1神话/信仰/传统信仰；x2信徒；x1, x2, x3是跟宗教相关的； x2是x1的信徒/追随者； x2是信条x3的践行者 （= selterjda）；
+      教士/牧师/僧侣= {jdaca'i}/{jdaka'i}/{jdaja'a}；有组织的教会= {be'ejda}；宗教集会= {jdabe'e}/{jdagri}；参见
+      {budjo}, {censa}, {cevni}, {crida}, {dadjo}, {jegvo}, {krici}, {latna}, {malsi},
+      {marde}, {muslo}, {pruxi}, {ranmi}, {ritli}, {xriso}, {zekri}.
+    glosses:
+    - No glosses.

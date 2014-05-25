@@ -1,5 +1,74 @@
-Word: sipna
-Rafsi: sip
-Definition: x1 is asleep (adjective); x1 sleeps/is sleeping.
-Notes: See also {senva}, {tatpi}, {cikna}, {sanji}.
-Examples: None
+word: sipna
+rafsi:
+- sip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is asleep (adjective); x1 sleeps/is sleeping.
+    notes:
+    - See also {senva}, {tatpi}, {cikna}, {sanji}.
+    glosses:
+    - sleep
+  de:
+    place structure: x1 schläft.
+    notes:
+    - Siehe auch {senva}, {tatpi}, {cikna}, {sanji}.
+    glosses:
+    - schlafen
+  es:
+    place structure: x1 duerme
+    notes:
+    - Ver también {cikna},  {sanji}.
+    glosses:
+    - dormir
+  fr:
+    place structure: x1 est endormi (adjectif);  x1 dort
+    notes:
+    - Voir aussi {senva}, {tatpi}, {cikna}, {sanji}.
+    glosses:
+    - dormir
+  ru:
+    place structure: x1 спит/погружен в сон
+    notes:
+    - '{senva} (мечтать), {tatpi} (уставший), {cikna} (бодрствовать), {sanji} (осознавать)'
+    glosses:
+    - спать
+    - x1=спящий
+  en-simple:
+    place structure: x1 is asleep
+    notes:
+    - No notes.
+    glosses:
+    - something asleep
+  eo:
+    place structure: x1 dormas
+    notes:
+    - Vidu ankaŭ {senva}, {tatpi}, {cikna}, {sanji}.
+    glosses:
+    - dormi
+  hu:
+    place structure: x1 alszik
+    notes:
+    - '(Lásd még: {senva}, {tatpi}, {cikna}, {sanji})'
+    glosses:
+    - alszik
+  ja:
+    place structure: x1 は寝ている；  x1 は眠る
+    notes:
+    - ・大意： 睡眠 ・読み方： スィプナ  ・語呂合わせ： ＜スィップなめて睡眠＞,睡スリープな ・関連語： {senva}, {tatpi}, {cikna},
+      {sanji}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 spi.
+    notes:
+    - Cf. {senva}, {tatpi}, {cikna}, {sanji}.
+    glosses:
+    - 'spać '
+  zh:
+    place structure: x1睡觉/是已睡去的
+    notes:
+    - 参见 {senva}, {tatpi}, {cikna}, {sanji}.
+    glosses:
+    - No glosses.

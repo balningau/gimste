@@ -1,8 +1,79 @@
-Word: krici
-Rafsi: kri
-Definition: x1 believes [regardless of evidence/proof] belief/creed x2 (du'u) is true/assumed
-  about subject x3.
-Notes: '"without evidence" refers to objective external evidence; also gives credence,
-  has conviction.  See also {jinvi}, {djuno}, {censa}, {cevni}, {lijda}, {makfa},
-  {malsi}, {senpi}, {birti}.'
-Examples: None
+word: krici
+rafsi:
+- kri
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 believes [regardless of evidence/proof] belief/creed x2 (du'u)
+      is true/assumed about subject x3.
+    notes:
+    - '"without evidence" refers to objective external evidence; also gives credence,
+      has conviction.  See also {jinvi}, {djuno}, {censa}, {cevni}, {lijda}, {makfa},
+      {malsi}, {senpi}, {birti}.'
+    glosses:
+    - believe
+    - faith (to have faith)
+    - x1=believer
+  de:
+    place structure: x1 glaubt [ohne Beweis], dass der Glauben x2 (du'u) wahr ist,
+      von Thema x3
+    notes:
+    - No notes.
+    glosses:
+    - glauben
+  es:
+    place structure: x1 cree que x2 (du'u) es cierto acerca de x3
+    notes:
+    - No notes.
+    glosses:
+    - creer
+  ru:
+    place structure: x1 верит (без свидетельств/доказательств), что x2 (du'u) верно/истинно
+      в отношении предмета x3
+    notes:
+    - '«Без доказательств» относится к объективным внешним доказательствам; Также:
+      убежден, доверяет; x2 — убеждения/мировоззрение/кредо/вера/символ веры/вероисповедание
+      {censa} (священный), {cevni} (бог), {lijda} (религия), {makfa} (магия), {malsi}
+      (храм), {senpi} (сомневаться), {birti} (убежденный [в истинности])'
+    glosses:
+    - верить
+    - x1=верящий
+    - x3=то, во что верят
+  en-simple:
+    place structure: x1 believes x2 is true about x3
+    notes:
+    - No notes.
+    glosses:
+    - a believer
+    - x2=something believed
+    - x3=a subject of a belief
+  eo:
+    place structure: x1 kredas [sen atesto/pruvo] ke kredo x2 (du'u) estas vera/supozita
+      pri temo x3
+    notes:
+    - Sen objektiva ekstera evidenco; ankaŭ esti konvinkita.  Vidu ankaŭ {censa},
+      {cevni}, {lijda}, {makfa}, {malsi}, {senpi}, {birti}.
+    glosses:
+    - kredi
+  hu:
+    place structure: x1 elhiszi [külső bizonyíték/bizonyítás nélkül], hogy x2 igaz/feltételezhető
+      x3 tárgyban/-ról
+    notes:
+    - '(Lásd még: {censa}, {cevni}, {lijda}, {makfa}, {malsi}, {senpi}, {birti})'
+    glosses:
+    - elhisz
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について信じる
+    notes:
+    - 根拠無しの受容。 ・大意： 信じる ・読み方： クリシ  ・語呂合わせ： じっくり信じる ・関連語： {censa}, {cevni}, {lijda},
+      {makfa}, {malsi}, {senpi}, {birti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1相信（无关证据）x2（du'u）是真实的/正确的，关于主题x3
+    notes:
+    - 这里的“无关证据”是指没有客观的外部证据；也指：对……给予信任/有信念；参见 {jinvi}, {djuno}, {censa}, {cevni}, {lijda},
+      {makfa}, {malsi}, {senpi}, {birti}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,69 @@
-Word: cnisa
-Rafsi: nis
-Definition: 'x1 is a quantity of/contains/is made of lead (Pb); [metaphor: heavy,
-  malleable, soft metal].'
-Notes: See also {jinme}, {tinci}.
-Examples: None
+word: cnisa
+rafsi:
+- nis
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a quantity of/contains/is made of lead (Pb); [metaphor:
+      heavy, malleable, soft metal].'
+    notes:
+    - See also {jinme}, {tinci}.
+    glosses:
+    - lead
+  de:
+    place structure: 'x1 ist eine gewisse Menge/enthält/besteht aus Blei (Pb); [im
+      übertragenen Sinne: schweres, verformbares, weiches Metall]'
+    notes:
+    - No notes.
+    glosses:
+    - Blei
+  es:
+    place structure: x1 es una cantidad de plomo (Pb)
+    notes:
+    - No notes.
+    glosses:
+    - plomo
+  ru:
+    place structure: x1 — свинец (Pb)
+    notes:
+    - 'Метафора: тяжелый, ковкий, мягкий металл {jinme} (металл), {tinci} (олово)'
+    glosses:
+    - x1=свинец
+  en-simple:
+    place structure: x1 is a quantity of lead
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of lead
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el plumbo (Pb); [metafore:
+      peza, malleable, mola metalo]'
+    notes:
+    - Vidu ankaŭ {jinme}, {tinci}.
+    glosses:
+    - plumbo
+  hu:
+    place structure: x1 bizonyos mennyiségű ólom (-ot tartalmaz/-ból készült)
+    notes:
+    - '(Lásd még: {jinme}, {tinci})'
+    glosses:
+    - ólom
+  ja:
+    place structure: x1 は鉛／Pb
+    notes:
+    - ・大意： 鉛 ・読み方： シニサ  ・関連語： {jinme}, {tinci}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en kvantitet/ innehåller/är gjord av bly (Pb).
+    notes:
+    - No notes.
+    glosses:
+    - x1=bly
+  zh:
+    place structure: x1是铅（Pb）；x1是由铅构成的
+    notes:
+    - 参见 {jinme}, {tinci}.
+    glosses:
+    - No glosses.

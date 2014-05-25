@@ -1,8 +1,73 @@
-Word: simsa
-Rafsi: smi
-Definition: x1 is similar/parallel to x2 in property/quantity x3 (ka/ni); x1 looks/appears
-  like x2.
-Notes: 'Also: $x_1$ is a likeness/image of $x_2$; $x_1$ and $x_2$ are alike; similarity
-  and parallel differ primarily in emphasis.  See also {dunli}, {frica}, {mintu},
-  {panra}, {simlu}, {vrici}.'
-Examples: None
+word: simsa
+rafsi:
+- smi
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is similar/parallel to x2 in property/quantity x3 (ka/ni);
+      x1 looks/appears like x2.
+    notes:
+    - 'Also: x1 is a likeness/image of x2; x1 and x2 are alike; similarity and parallel
+      differ primarily in emphasis.  See also {dunli}, {frica}, {mintu}, {panra},
+      {simlu}, {vrici}.'
+    glosses:
+    - similar
+  de:
+    place structure: x1 ist ähnlich/besitzt Ähnlichkeiten/Parallelen zu x2 in Eigenschaft/Menge
+      x3 (ka/ni); x1 sieht aus wie x2
+    notes:
+    - No notes.
+    glosses:
+    - ähnlich
+  es:
+    place structure: x1 es similar/parecido/se asemeja/se parece a x2 en propiedad/cantidad
+      x3
+    notes:
+    - Ver también {frica},  {dunli}.
+    glosses:
+    - similar
+  ru:
+    place structure: x1 похож на/сходен с/подобен x2 по свойству/количеству x3
+    notes:
+    - 'Также: x1 — подобие x2; x1 и x2 похожи/схожи; подобие и параллелизм/аналогия
+      (— {panra}) отличаются лишь акцентом {dunli} (равный), {frica} (отличаться),
+      {mintu} (идентичный), {panra} (подобный), {simlu} (казаться), {vrici} (разнообразный)'
+    glosses:
+    - x1=похожий на
+    - x2=на кого похож
+  en-simple:
+    place structure: x1 is similar to x2 in property or quantity x3
+    notes:
+    - No notes.
+    glosses:
+    - something similar
+    - x2=something similar to
+    - x3=a property of similarity
+  eo:
+    place structure: x1 estas simila/paralela al x2 laŭ eco/kvanto x3 (ka/ni)
+    notes:
+    - 'Ankaŭ: x1 estas portreto/figuro de x2; x1 kaj x2 estas similaj; simileco kaj
+      paraleleco diferas precipe pri emfazo.  Vidu ankaŭ {dunli}, {frica}, {mintu},
+      {panra}, {simlu}, {vrici}.'
+    glosses:
+    - simila
+  hu:
+    place structure: x1 hasonlít x2-hez x3 tulajdonságban
+    notes:
+    - '(Lásd még: {dunli}, {frica}, {mintu}, {panra}, {simlu}, {vrici})'
+    glosses:
+    - hasonlít
+  ja:
+    place structure: x1 は x2 に、 x3 （性質）の点で似ている／相似的；  x1 は x2 のよう
+    notes:
+    - ・大意： 相似 ・読み方： スィムサ  ・関連語： {dunli}, {frica}, {mintu}, {panra}, {simlu}, {vrici}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1和x2在特性/数量x3 (ka/ni)上相似; x1看起来象/表现出来和x2相似.
+    notes:
+    - x1是x2的镜像; x1和x2相似; 参考： {dunli}, {frica}, {mintu}, {panra}, {simlu}, {vrici}.
+    glosses:
+    - 似
+    - 相像

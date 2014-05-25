@@ -1,5 +1,91 @@
-Word: bemro
-Rafsi: bem, be'o
-Definition: x1 reflects North American culture/nationality/geography in aspect x2.
-Notes: See also {merko}, {kadno}, {xispo}, {mexno}.
-Examples: None
+word: bemro
+rafsi:
+- bem
+- be'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects North American culture/nationality/geography in aspect
+      x2.
+    notes:
+    - See also {merko}, {kadno}, {xispo}, {mexno}.
+    glosses:
+    - North American
+  de:
+    place structure: x1 repräsentiert nordamerikanische Kultur/Nationalität/Geographie
+      in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - nordamerikanisch
+  es:
+    place structure: x1 refleja cultura/nacionalidad/geografía centro/norteamericana
+      en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - norteamericano
+  fr:
+    place structure: x1 reflète de/représente/fait partie de la culture/la géographie/la
+      nationalité nord-américaine en ce qui concerne l'aspect x2.
+    notes:
+    - Voir également {merko}, {kadno}, {xispo}, {mexno}.
+    glosses:
+    - nord-américain
+  ru:
+    place structure: x1 — североамериканский в аспекте x2
+    notes:
+    - '{merko} (американский [США]), {kadno} (канадский), {xispo} (латиноамериканский),
+      {mexno} (мексиканский)'
+    glosses:
+    - x1=североамериканский
+  en-simple:
+    place structure: x1 is North American in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something North American
+    - x2=a North American aspect
+  eo:
+    place structure: x1 montras nordamerikan kulturon/naciecon/geografion laŭ aspekto
+      x2
+    notes:
+    - Vidu ankaŭ {merko}, {kadno}, {xispo}, {mexno}.
+    glosses:
+    - nordamerika
+  hu:
+    place structure: x1 észak-amerikai kultúrát/nemzetiséget/hovatartozást tükröz
+      x2 tekintetben
+    notes:
+    - '(Lásd még: {merko}, {kadno}, {xispo}, {mexno})'
+    glosses:
+    - észak-amerikai
+  ja:
+    place structure: x1 は x2 （性質面）に関して北アメリカ系（言語／文化／民族／地理）
+    notes:
+    - ・大意： 北アメリカ ・読み方： ベムロ  ・語呂合わせ：  berti merko ・関連語： {merko}, {kadno}, {xispo},
+      {mexno}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 reflekterer nord-amerikansk kultur/nasjonalitet/geografi i
+      aspekt x2
+    notes:
+    - Se også {kadno}, {merko}, {mexno}, {xispo}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar nordamerikansk kultur/nationalitet/geografi i
+      aspekt x2.
+    notes:
+    - Se även {merko}, {kadno}, {xispo}, {mexno}.
+    glosses:
+    - x1=nordamerikansk
+    - x2=nordamerikansk kulturell/geografisk aspekt
+  zh:
+    place structure: x1是关于北美洲文化/所在地/地理特性等的事物，在x2方面
+    notes:
+    - 参见 {merko}, {kadno}, {xispo}, {mexno}
+    glosses:
+    - No glosses.

@@ -1,6 +1,64 @@
-Word: tunka
-Rafsi: tuk
-Definition: 'x1 is made of/contains/is a quantity of copper (Cu); [metaphor: reddish,
-  electrical conductor].'
-Notes: See also {jinme}, {lastu}, {ransu}.
-Examples: None
+word: tunka
+rafsi:
+- tuk
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is made of/contains/is a quantity of copper (Cu); [metaphor:
+      reddish, electrical conductor].'
+    notes:
+    - See also {jinme}, {lastu}, {ransu}.
+    glosses:
+    - copper
+  de:
+    place structure: 'x1 ist eine Menge an/enthält/besteht aus Kupfer (Cu); [Im übertragenen
+      Sinn: rötlich, elektrischer Leiter]'
+    notes:
+    - No notes.
+    glosses:
+    - Kupfer
+  es:
+    place structure: x1 es una cantidad de cobre (Cu)
+    notes:
+    - No notes.
+    glosses:
+    - cobre
+  ru:
+    place structure: x1 — медь (Cu); x1 содержит медь
+    notes:
+    - 'Метафора: красноватый, хороший проводник электричества {jinme} (металл), {lastu}
+      (латунь), {ransu} (бронза)'
+    glosses:
+    - x1=медь
+  en-simple:
+    place structure: x1 is a quantity of copper
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of copper
+  eo:
+    place structure: 'x1 estas kvanto da/enhavas/konsistas el kupro (Cu); [metafore:
+      ruĝeca, elektra kondukilo]'
+    notes:
+    - Vidu ankaŭ {jinme}, {lastu}, {ransu}.
+    glosses:
+    - kupro
+  hu:
+    place structure: x1 bizonyos mennyiségű réz (-et tartalmaz/-ből készült)
+    notes:
+    - '(Lásd még: {jinme}, {lastu}, {ransu})'
+    glosses:
+    - réz
+  ja:
+    place structure: x1 は銅（Cu）
+    notes:
+    - ・大意： 銅 ・読み方： トゥンカ  ・関連語： {jinme}, {lastu}, {ransu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是铜/由铜构成[Cu]
+    notes:
+    - 参见 {jinme}, {lastu}, {ransu}.
+    glosses:
+    - No glosses.

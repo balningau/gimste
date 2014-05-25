@@ -1,6 +1,72 @@
-Word: genja
-Rafsi: gej
-Definition: 'x1 is a root [body-part] of plant/species x2; [metaphor: immobile, supporting,
-  nourishing].'
-Notes: See also {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}.
-Examples: None
+word: genja
+rafsi:
+- gej
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a root [body-part] of plant/species x2; [metaphor: immobile,
+      supporting, nourishing].'
+    notes:
+    - See also {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}.
+    glosses:
+    - root (plant appendage)
+  de:
+    place structure: 'x1 ist eine Wurzel [Körperteil] von Pflanze/Spezies x2; [im
+      übertragenen Sinne: unbeweglich, stützend, nährend]'
+    notes:
+    - No notes.
+    glosses:
+    - Wurzel
+  es:
+    place structure: x1 es una raíz de planta/especie x2
+    notes:
+    - No notes.
+    glosses:
+    - raíz
+  ru:
+    place structure: x1 — корень растения/вида x2
+    notes:
+    - 'Метафоры: неподвижный, опорный, питающий {jamfu} (ступня), {jicmu} (основа),
+      {patlu} (картофель), {samcu} (ямс), {spati} (растение), {krasi} (источник [начало])'
+    glosses:
+    - x1=корень (растения)
+  en-simple:
+    place structure: x1 is a root of x2
+    notes:
+    - No notes.
+    glosses:
+    - a root
+    - x2=something with a root
+  eo:
+    place structure: 'x1 estas radiko [korpoparto] de planto/speco x2; [metafore:
+      senmova, subtena, nutranta]'
+    notes:
+    - Vidu ankaŭ {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}.
+    glosses:
+    - radiko
+  hu:
+    place structure: x1 egy/a gyökere/gyökérzete x2 növénynek/növényfajnak
+    notes:
+    - '(Lásd még: {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi})'
+    glosses:
+    - gyökér
+  ja:
+    place structure: x1 は x2 （植物／種類）の根／地下茎
+    notes:
+    - 比喩的に「（髪／舌／歯／指などの）付け根」「ねじ山」「始祖」も。 ・大意： 根 ・読み方： ゲンジャ  ・語呂合わせ： gen（根） ・関連語： {jamfu},
+      {jicmu}, {patlu}, {samcu}, {spati}, {krasi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en rot [kroppsdel] av växt/art x2.
+    notes:
+    - No notes.
+    glosses:
+    - rot (växtdel)
+  zh:
+    place structure: x1是植物x2的根
+    notes:
+    - 参见 {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}.
+    glosses:
+    - No glosses.

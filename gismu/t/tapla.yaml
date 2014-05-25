@@ -1,10 +1,88 @@
-Word: tapla
-Rafsi: ''
-Definition: x1 is a tile/cake [shape/form] of material x2, shape x3, thickness x4.
-Notes: A tile is a 3-dimensional object, relatively uniform and significant in the
-  3rd dimension, but thin enough that its shape in the the other two dimensions is
-  a significant feature; 'city block' is conceptually a tile; polygon (= {taplytai}
-  or {kardytai} - shaped like an approximately-2-dimensional block, {lijyclupa} -
-  a loop composed of lines).  (cf. {bliku}, {kubli}, {matci}; {karda}, for which the
-  3rd dimension is insignificant, {bliku}, {kurfa}, {matci}, {plita}, {tarmi})
-Examples: None
+word: tapla
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a tile/cake [shape/form] of material x2, shape x3, thickness
+      x4.
+    notes:
+    - A tile is a 3-dimensional object, relatively uniform and significant in the
+      3rd dimension, but thin enough that its shape in the the other two dimensions
+      is a significant feature; 'city block' is conceptually a tile; polygon (= {taplytai}
+      or {kardytai} - shaped like an approximately-2-dimensional block, {lijyclupa}
+      - a loop composed of lines).  (cf. {bliku}, {kubli}, {matci}; {karda}, for which
+      the 3rd dimension is insignificant, {bliku}, {kurfa}, {matci}, {plita}, {tarmi})
+    glosses:
+    - tile
+  de:
+    place structure: x1 ist eine Platte [Form] aus Material x2, Form x3, Dicke x4
+    notes:
+    - No notes.
+    glosses:
+    - Platte
+  es:
+    place structure: x1 es una baldosa/mosaico/losa/pieza dura y delgada (forma) de
+      material x2, forma x3, espesor x4
+    notes:
+    - Ver también {bliku},  {kubli},  {karda}.
+    glosses:
+    - baldosa
+  ru:
+    place structure: x1 — плитка/пластина (форма) из материала x2, формы x3, толщины
+      x4
+    notes:
+    - 'Плитка есть 3-мерный объект, относительно однородный, существенно простирающийся
+      в третьем измерении и в то же время достаточно тонкий, чтобы его форма в остальных
+      двух измерениях была значимым признаком; например, городской квартал может рассматриваться
+      как [tapla]; многоугольная пластина: {taplytai} или {kardytai}; {lijyclupa}
+      — контур в виде замкнутой ломаной) {bliku} (блок [глыба]), {kubli} (куб), {matci}
+      (матрац); {karda} (карточка) — для которой 3-е измерение несущественно; {bliku}
+      (блок [глыба]), {kurfa} (прямоугольник), {matci} (матрац), {plita} (плоскость),
+      {tarmi} (идея [концептуальная форма])'
+    glosses:
+    - x1=пластина
+  en-simple:
+    place structure: x1 is a tile of material x2, shape x3, and thickness x4
+    notes:
+    - No notes.
+    glosses:
+    - a tile
+    - x2=a material of a tile
+    - x3=a shape of a tile
+    - x4=a thickness of a tile
+  eo:
+    place structure: x1 estas plato/kahelo/tegolo/bloko [formo] el materialo x2, formo
+      x3, diko x4
+    notes:
+    - Plato estas 3-dimensia objekto, relative unuforma kaj signifa en la 3a dimensio,
+      sed sufiĉe maldika por ke ĝia formo en la ceteraj du dimensioj estu signifa
+      trajto; 'cityblock' koncepte estas plato; poligono (= taplytai aŭ kardytai -
+      formita kiel proksimume-2-dimensia bloko, lijyclupa - maŝo konsistiĝanta el
+      linioj).  (kp. bliku, kubli, matci; karda, por kiu la 3a dimensio estas negrava,
+      bliku, kurfa, matci, plita, tarmi)
+    glosses:
+    - plato
+  hu:
+    place structure: x1 egy tömb/„katona”/egyéb viszonylag lapos hasáb x2 anyagból,
+      x3 alappal, x4 magassággal
+    notes:
+    - '(Lásd még: {bliku}, {kubli}, {matci}, {karda}, {kurfa}, {plita}, {tarmi})'
+    glosses:
+    - tömb
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （形状）・ x4 （厚さ）の瓦／タイル
+    notes:
+    - 「ケーキ」も。比喩的に「街区」も。 ・大意： 瓦 ・読み方： タプルァ  ・関連語： {bliku}, {kubli}, {matci}; {karda},
+      {bliku}, {kurfa}, {matci}, {plita}, {tarmi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是小块片状的物体，由材料x2构成，具有形状x3，厚度x4
+    notes:
+    - 应当是三维物体，第三维相对于其它两维要明显短薄；“街区”也是一个概念上的块状物；近似二维的块状物/卡片= {taplytai}/{kardytai}；线圈={lijyclupa}
+      ；参见 {bliku}, {kubli}, {matci}, {karda}, {bliku}, {kurfa}, {matci}, {plita},
+      {tarmi}
+    glosses:
+    - No glosses.

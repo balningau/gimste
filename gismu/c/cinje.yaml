@@ -1,5 +1,69 @@
-Word: cinje
-Rafsi: cij
-Definition: x1 is a wrinkle/crease/fold [shape/form] in x2.
-Notes: See also {korcu}, {polje}, {boxfo}, {boxna}.
-Examples: None
+word: cinje
+rafsi:
+- cij
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wrinkle/crease/fold [shape/form] in x2.
+    notes:
+    - See also {korcu}, {polje}, {boxfo}, {boxna}.
+    glosses:
+    - wrinkle
+  de:
+    place structure: x1 ist eine Falte/ein Falz [Form] in x2
+    notes:
+    - No notes.
+    glosses:
+    - Falte
+  es:
+    place structure: x1 es una arruga/doblez en x2
+    notes:
+    - Ver también {polje}.
+    glosses:
+    - arruga
+  ru:
+    place structure: x1 — складка/морщина (форма) на x2 (чем)
+    notes:
+    - '{korcu} (изогнутый), {polje} (морщить), {boxfo} (пластина), {boxna} (волна)'
+    glosses:
+    - x1=морщина
+  en-simple:
+    place structure: x1 is a wrinkle in x2
+    notes:
+    - No notes.
+    glosses:
+    - a wrinkle
+    - x2=something wrinkled
+  eo:
+    place structure: x1 estas sulketo/ĉifaĵo/faldo [formo] in x2
+    notes:
+    - Vidu ankaŭ {korcu}, {polje}, {boxfo}, {boxna}.
+    glosses:
+    - ĉifaĵo
+  hu:
+    place structure: x1 egy ránc/redő/gyűrődés/hajtás x2-n
+    notes:
+    - '(Lásd még: {korcu}, {polje}, {boxfo}, {boxna})'
+    glosses:
+    - ránc
+  ja:
+    place structure: x1 は x2 （箇所）におけるしわ；  x2 はくしゃくしゃ
+    notes:
+    - ・大意： しわ ・読み方： シンジェ  ・関連語： {korcu}, {polje}, {boxfo}, {boxna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är ett veck/rynka/[fåra] [form] i x2.
+    notes:
+    - No notes.
+    glosses:
+    - rynka
+    - x1=veck
+    - x2=veckad
+  zh:
+    place structure: x1是纹/痕/皱褶，位于x2上
+    notes:
+    - 参见 {korcu}, {polje}, {boxfo}, {boxna}.
+    glosses:
+    - No glosses.

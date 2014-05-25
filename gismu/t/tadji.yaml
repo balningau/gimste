@@ -1,8 +1,77 @@
-Word: tadji
-Rafsi: ''
-Definition: x1 [process] is a method/technique/approach/means for doing x2 (event)
-  under conditions x3.
-Notes: Also practice/way/mode; style/manner/conduct (= {tratadji}); pattern (= {montadji},
-  {tadjymo'a}, or {platadji}, {tadjypla}).  See also {ciste}, {pruce}, {zukte}, {pluta},
-  cmavo list {ta'i}.
-Examples: None
+word: tadji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [process] is a method/technique/approach/means for doing x2
+      (event) under conditions x3.
+    notes:
+    - Also practice/way/mode; style/manner/conduct (= {tratadji}); pattern (= {montadji},
+      {tadjymo'a}, or {platadji}, {tadjypla}).  See also {ciste}, {pruce}, {zukte},
+      {pluta}, cmavo list {ta'i}.
+    glosses:
+    - method
+    - way (method)
+  de:
+    place structure: x1 [Prozess] ist eine Methode/Technik/ein Verfahren/Ansatz/Mittel
+      um x2 (Ereignis) zu tun unter Bedingungen x3
+    notes:
+    - No notes.
+    glosses:
+    - Methode
+  es:
+    place structure: x1 (evento) es un método/técnica/manera de hacer x2 (evento)
+      bajo condiciones x3
+    notes:
+    - Ver también {ciste},  {pruce}.
+    glosses:
+    - método
+  ru:
+    place structure: x1 — метод/техника/способ осуществления x2 (событие) в условиях
+      x3
+    notes:
+    - 'Также: подход; стиль/манера/образ действий: {tratadji}; порядок/план действий:
+      {montadji}, {tadjymo''a}, или {platadji}, {tadjypla} {ciste} (система), {pruce}
+      (процесс), {zukte} (действовать), {pluta} (путь), {tai}'
+    glosses:
+    - метод
+  en-simple:
+    place structure: x1 is a method for doing x2
+    notes:
+    - No notes.
+    glosses:
+    - method
+    - x1=a method
+    - x2=something with a method
+    - x3=a condition of a method
+  eo:
+    place structure: x1 [procedo] estas metodo/tekniko por fari x2-on (okazo) sub
+      kondiĉoj x3
+    notes:
+    - 'Ankaŭ: praktiko; stilo/maniero/konduto (= {tratadji}); modelo (= montadji,
+      tadjymo''a, aŭ platadji, tadjypla).  Vidu ankaŭ {ciste}, {pruce}, {zukte}, {pluta},
+      cmavo {tai}.'
+    glosses:
+    - metodo
+  hu:
+    place structure: x1 folyamat egy módszer/technika/megközelítés/algoritmus x2 eseményre,
+      x3 körülmények között
+    notes:
+    - '(Lásd még: {ciste}, {pruce}, {zukte}, {pluta})'
+    glosses:
+    - módszer
+  ja:
+    place structure: x1 （過程）は x2 （事）を x3 （状態条件）のもと遂行するための方式／方法／用法／手段／マナー
+    notes:
+    - ・大意： 方法 ・読み方： タヂ ・関連語： {ciste}, {pruce}, {zukte}, {pluta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（过程）是做事件x2的方法/技术/方式/途径，在条件x3下
+    notes:
+    - 也指：模式/道路； 实施的方法= {tratadji}；模式= {montadji}/{tadjymo'a}/{platadji}/{tadjypla}；参见
+      {ciste}, {pruce}, {zukte}, {pluta}, {ta'i}.
+    glosses:
+    - No glosses.

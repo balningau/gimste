@@ -1,7 +1,90 @@
-Word: cinmo
-Rafsi: cni
-Definition: x1 feels emotion x2 (ka) about x3.
-Notes: Also mood/humor (= {nuncni}).  See also cmavo list {ci'o}, {cumla}, {jilra},
-  {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami},
-  {steba}, {zungi}, {badri}, {burna}, {gleki}.
-Examples: None
+word: cinmo
+rafsi:
+- cni
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels emotion x2 (ka) about x3.
+    notes:
+    - Also mood/humor (= {nuncni}).  See also cmavo list {ci'o}, {cumla}, {jilra},
+      {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami},
+      {steba}, {zungi}, {badri}, {burna}, {gleki}.
+    glosses:
+    - emotion
+    - feel (experience an emotion)
+  de:
+    place structure: x1 verspürt Gefühl/Emotion x2 (ka) über x3.
+    notes:
+    - Siehe auch Cmavo-Liste {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji},
+      {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri},
+      {burna}, {gleki}.
+    glosses:
+    - Gefühl
+  es:
+    place structure: x1 siente/experimenta emoción x2 sobre/por/hacia x3
+    notes:
+    - Ver también {ckeji},  {cortu},  {jgira},  {kecti},  {kufra},  {manci},  {prami},  {steba},  {zungi}.
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 испытывает эмоцию/чувство x2 ({ka}) по отношению к/поводу
+      x3
+    notes:
+    - 'Также: настроение/расположение духа: {nuncni} {ci''o}, {cumla} (скромный),
+      {jilra} (ревновать), {nelci} (любить [предпочитать]), {xendo} (добрый), {ckeji}
+      (стыдно), {cortu} (испытывать [боль]), {jgira} (гордиться), {kecti} (сочувствовать),
+      {kufra} (испытывать [комфорт, удобство]), {manci} (изумленный), {prami} (любить
+      [кого-либо]), {steba} (раздосадованный), {zungi} (раскаиваться), {badri} (грустный),
+      {burna} (смущенный), {gleki} (радостный)'
+    glosses:
+    - испытывать эмоцию
+    - x1=испытывающий эмоцию
+  en-simple:
+    place structure: x1 feels emotion x2 about x3
+    notes:
+    - No notes.
+    glosses:
+    - something feeling emotion
+    - x2=a felt emotion
+    - x3=a subject of a felt emotion
+  eo:
+    place structure: x1 sentas emocion x2 (ka) pri x3; x1 emociiĝas pri x3 kun emocio
+      x2; x3 estigas emocion x2 en x1
+    notes:
+    - 'Ankaŭ: humoro (= {nuncni}).  Vidu ankaŭ cmavo {ci''o}, {cumla}, {jilra}, {nelci},
+      {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba},
+      {zungi}, {badri}, {burna}, {gleki}.'
+    glosses:
+    - emociiĝi
+  hu:
+    place structure: x1 érzi x2 érzelmet/hangulatot x3 iránt
+    notes:
+    - '(Lásd még: {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti},
+      {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna}, {gleki})'
+    glosses:
+    - érez (lelkileg)
+  ja:
+    place structure: x1 は x2 （感情）を x3 について覚える；  x1 は感情的／ムードに浸っている
+    notes:
+    - ・大意： 感情 ・読み方： シンモ  ・語呂合わせ： 心も感情 ・関連語： {ci'o}, {cumla}, {jilra}, {nelci}, {xendo},
+      {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi},
+      {badri}, {burna}, {gleki}
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 känner/upplever känsla x2 (ka) om x3.
+    notes:
+    - No notes.
+    glosses:
+    - känna (erfara känsla)
+    - x1=emotionell
+    - x2=känsla (emotion)
+    - x3=känsloföremål (föremål/händelse/egenskap som x1 känner inför)
+  zh:
+    place structure: x1感受到情绪x2（ka），关于x3
+    notes:
+    - 心情={nuncni}，参见： {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu},
+      {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna},
+      {gleki}.
+    glosses:
+    - No glosses.

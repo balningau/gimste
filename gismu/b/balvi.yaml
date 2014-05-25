@@ -1,10 +1,127 @@
-Word: balvi
-Rafsi: bav
-Definition: x1 is in the future of/later than/after x2 in time sequence; x1 is latter;
-  x2 is former.
-Notes: Also sequel, succeed, successor, follow, come(s) after; time ordering only
-  (use {lidne} otherwise); aorist in that $x_1$ may overlap in time with $x_2$ as
-  long as it extends afterwards; non-aorist future (= {cfabalvi}); (default $x_2$
-  is the space time reference, whereupon:) $x_1$ will occur.  See also {lidne}, {cabna},
-  {purci}, {farna}.
-Examples: None
+word: balvi
+rafsi:
+- bav
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is in the future of/later than/after x2 in time sequence;
+      x1 is latter; x2 is former.
+    notes:
+    - Also sequel, succeed, successor, follow, come(s) after; time ordering only (use
+      {lidne} otherwise); aorist in that x1 may overlap in time with x2 as long as
+      it extends afterwards; non-aorist future (= {cfabalvi}); (default x2 is the
+      space time reference, whereupon:) x1 will occur.  See also {lidne}, {cabna},
+      {purci}, {farna}.
+    glosses:
+    - future (unspecified)
+  jbo:
+    place structure: x1 se lidne x2 lo'e temci porsi .i x1 se purci x2
+    notes:
+    - '{lidne}; {purci}; {cabna}'
+    glosses:
+    - balvi
+  de:
+    place structure: x1 liegt in der Zukunft von/ist später als/nach x2 in zeitlicher
+      Reihenfolge; x1 ist später; x2 ist früher/ehemalig
+    notes:
+    - No notes.
+    glosses:
+    - Zukunft
+  es:
+    place structure: x1 está en el futuro/luego/más tarde/después/posterior en el
+      tiempo a x2
+    notes:
+    - Ver también {purci},  {cabna},  {jersi}.
+    glosses:
+    - futuro
+  fr:
+    place structure: x1 est dans le futur de/plus tard que/après x2, en ordre chronologique;
+      x2 est premier; x1 est deuxième.
+    notes:
+    - 'Aussi "suite", "succéder", "successeur", "suivre", "venir après". Ne peut s''utiliser
+      que pour l''ordre temporel. A la particularité d''être comme l''aoriste grec,
+      que les deux évènements peuvent être simultanés pendant une partie de leur durée,
+      tant que x1 est au moins en partie dans le futur de x2. La valeur de x2 par
+      defaut est le référentiel spacio-temporel actuel: le présent. Voir également
+      {linde}, {cabna}, {purci}, {farna}.'
+    glosses:
+    - après (le temps)
+    - futur
+    - plus tard
+  ru:
+    place structure: x1 происходит в будущем относительно/позже чем/после x2; x1 —
+      потом, позже; x2 — перед, раньше
+    notes:
+    - 'Также: следует за, преемник; только об упорядочении во времени (иначе нужно
+      использовать {lidne}); x1 может перекрываться во времени с x2, если только x1
+      продолжается впоследствии; будущее в сугубом смысле: {cfabalvi}; по умолчанию
+      x2 — настоящее время: x1 произойдет в будущем {lidne} (предшествовать), {cabna}
+      (одновременно), {purci} (раньше), {farna} (направление)'
+    glosses:
+    - x1=будущий
+  en-simple:
+    place structure: x1 is later than or in the future of x2
+    notes:
+    - No notes.
+    glosses:
+    - something which is later than something
+    - x2=something to which something is later
+  eo:
+    place structure: x1 estas en la estonteco de/post x2 en tempo-sinsekvo; x1 estas
+      posta; x2 estas antaŭa
+    notes:
+    - 'Ankaŭ: sekvaĵo, sekvi, sukcedi, okazi poste; nur tempo-ordo (uzu lidne alie);
+      aorista en tio, ke x1 povas tempe interkovri x2-on dum ĝi etendiĝas posten;
+      neaorista estonteco (= {cfabalvi}); (defaŭlto x2 estas la spaco-tempa referenco,
+      do:) x1 okazos.  Vidu ankaŭ {lidne}, {cabna}, {purci}, {farna}.'
+    glosses:
+    - estonta
+  hu:
+    place structure: x1 később létezik/történik meg, mint x2 [alapesetben a téridő-referenciapont
+      („most”)]
+    notes:
+    - 'x1 átfedésben lehet x2-vel, amennyiben x1 később fejeződik be, mint x2 (Lásd
+      még: {lidne}, {cabna}, {purci}, {farna})'
+    glosses:
+    - későbbi
+  ja:
+    place structure: x1 は x2 よりも未来／後発；  x1 は後者；  x2 は前者
+    notes:
+    - 「続編」「後継者」も。時間的な順序のみ。さもなくば「lidne」を。x1が x2 に重複しうる点でアオリスト的。非アオリスト的未来は 「cfabalvi」。「le
+      nu mi nelci do cu balvi le nu do nelci mi／私があなたを好きになる前に、あなたが私を好きになる」 ・大意： 未来
+      ・読み方： バルゥヴィ  ・語呂合わせ： lai（来） ・関連語： {lidne}, {cabna}, {purci}, {farna}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er fremtidig for/senere enn/etter x2 i tid; x1 er senere;
+      x2 er tidligere.
+    notes:
+    - Også sekvens, følge, komme etter. x1 kan overlappe x2, så lenge x2 varer i ettertid
+      av x1. Se og {lidne}, {cabna}, {purci}, {farna}, {lerci}, {ba}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är i framtiden av/senare än/efter x2 i tidsföljd; x1 är den
+      senare; x2 är den förra.
+    notes:
+    - Även följd, komma/följa efter, efterträda, succedera, [avlösa], efterträdare,
+      (endast tidsordning (annars använd {lidne}); aorist i det att x1 kan överlappa
+      i tid med x2 så länge som det utsträcker sig efteråt; icke-aorist futurum =
+      {cfabalvi}. (standard x2 är rumstid referensen, varpå:) x1 kommer att ske.Se
+      även {lidne}, {cabna}, {purci}, {farna}, {lerci}, {ba}.
+    glosses:
+    - efterträda
+    - efterträdare
+    - framtid (ospecificerad)
+    - följa efter (tidsföljd)
+    - komma efter (tidsföljd)
+    - succedera (komma efter)
+    - x1=senare (tidsföljd)
+    - x2=förra (tidsföljd)
+  zh:
+    place structure: 在时间顺序上，x1在x2之后/未来；x1是后来的；x2是过去的
+    notes:
+    - 也指“后续”；只用于形容时间（其它的顺序比较使用{lidne}）；参见 {lidne}, {cabna}, {purci}, {farna}
+    glosses:
+    - No glosses.

@@ -1,5 +1,80 @@
-Word: grana
-Rafsi: ga'a
-Definition: x1 is a rod/pole/staff/stick/cane [shape/form] of material x2.
-Notes: See also {garna}.
-Examples: None
+word: grana
+rafsi:
+- ga'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a rod/pole/staff/stick/cane [shape/form] of material x2.
+    notes:
+    - See also {garna}.
+    glosses:
+    - cane (shape/form)
+    - pole (shape/form)
+    - rod (shape/form)
+    - staff (shape/form)
+    - stick (shape/form)
+  de:
+    place structure: x1 ist ein Stab/eine Stange/ein Pfahl/ein Stock [Form] aus Material
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Stange
+  es:
+    place structure: x1 es un palo/bastón/estaca/poste (forma) de material x2
+    notes:
+    - No notes.
+    glosses:
+    - palo
+  ru:
+    place structure: x1 — прут/стержень/шест/трость/палка (форма) из материала x2
+    notes:
+    - '{garna} (рельс)'
+    glosses:
+    - палка
+  en-simple:
+    place structure: x1 is a rod or pole of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a rod
+    - x2=a material of a rod
+  eo:
+    place structure: x1 estas vergo/trabo/ŝtipo/masto/fosto/paliso/bastono/kano [formo]
+      el materialo x2
+    notes:
+    - Vidu ankaŭ {garna}.
+    glosses:
+    - vergo
+  hu:
+    place structure: x1 egy rúd/pózna/bot/pálca/vessző x2 anyagból
+    notes:
+    - '(Lásd még: {garna})'
+    glosses:
+    - rúd
+  ja:
+    place structure: x1 は x2 （素材）の杖／さお／ステッキ／ロッド
+    notes:
+    - ・大意： 杖 ・読み方： グラナ  ・語呂合わせ： ぐらぐらな杖 ・関連語： {garna}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en stav/påle/stolpe/mast/stång/käpp/pinne [shape/form]
+      av material x2.
+    notes:
+    - Se även {garna}.
+    glosses:
+    - käpp (form)
+    - pinne (form)
+    - påle (form)
+    - stolpe (form)
+    - stång (form)
+    - x1=stav (form)
+    - x2=stavmaterial
+  zh:
+    place structure: x1是棒/棍/杖/杆，由材料x2构成
+    notes:
+    - 参见 {garna}.
+    glosses:
+    - No glosses.

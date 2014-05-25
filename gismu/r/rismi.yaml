@@ -1,5 +1,65 @@
-Word: rismi
-Rafsi: ris
-Definition: x1 is a quantity of rice [a type of grain] of strain/cultivar x2.
-Notes: See also {gurni}.
-Examples: None
+word: rismi
+rafsi:
+- ris
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of rice [a type of grain] of strain/cultivar
+      x2.
+    notes:
+    - See also {gurni}.
+    glosses:
+    - rice
+  de:
+    place structure: x1 ist eine Menge an Reis [Art Korn] von Art/Sorte x2
+    notes:
+    - No notes.
+    glosses:
+    - Reis
+  es:
+    place structure: x1 es una cantidad de arroz (grano) de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - arroz
+  ru:
+    place structure: x1 — рис (зерно) вида/сорта x2
+    notes:
+    - '{gurni} (зерно)'
+    glosses:
+    - рис
+    - x2=вид риса
+  en-simple:
+    place structure: x1 is a quantity of rice of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of rice
+    - x2=a species of rice
+  eo:
+    place structure: x1 estas kvanto da rizo [tipo de greno] de speco/kultivo x2
+    notes:
+    - Vidu ankaŭ {gurni}.
+    glosses:
+    - rizo
+  hu:
+    place structure: x1 bizonyos mennyiségű rizs[mag](-ot tartalmaz/-ból készült)
+      az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {gurni})'
+    glosses:
+    - rizs
+  ja:
+    place structure: x1 は x2 （品種）の米粒
+    notes:
+    - ・大意： 米 ・読み方： リスミ  ・関連語： {gurni}
+    - ''
+    glosses:
+    - 米 (穀粒)
+    - x1=コメ (穀粒)
+  zh:
+    place structure: x1是稻谷，属于种类/品种x2
+    notes:
+    - 参见 {gurni}.
+    glosses:
+    - No glosses.

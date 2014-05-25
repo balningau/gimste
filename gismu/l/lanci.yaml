@@ -1,6 +1,74 @@
-Word: lanci
-Rafsi: ''
-Definition: x1 is a flag/banner/standard of/symbolizing x2 with pattern(s) x3 on material
-  x4.
-Notes: See also {gugde}, {jecta}.
-Examples: None
+word: lanci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a flag/banner/standard of/symbolizing x2 with pattern(s)
+      x3 on material x4.
+    notes:
+    - See also {gugde}, {jecta}.
+    glosses:
+    - flag
+  de:
+    place structure: x1 ist eine Flagge/Standarte/ein Banner von x2/das x2 symbolisiert
+      mit Muster x3 auf Material x4
+    notes:
+    - No notes.
+    glosses:
+    - Flagge
+  es:
+    place structure: x1 es una bandera/estandarte de x2 con motivo/diseño x3 de material
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - bandera
+  ru:
+    place structure: x1 — флаг/знамя/штандарт, представляющий/символизирующий x2,
+      с рисунком x3 на материале x4
+    notes:
+    - '{gugde} (страна), {jecta} (государство)'
+    glosses:
+    - флаг
+    - x2=то, что сиволизирует флаг
+    - x3=рисунок на флаге
+    - x4=материал флага
+  en-simple:
+    place structure: x1 is a flag or banner symbolizing x2 with pattern x3 on material
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - a flag
+    - x2=something symbolised by a flag
+    - x3=a flag pattern
+    - x4=a material of a flag
+  eo:
+    place structure: x1 estas flago/standardo de x2/simbolas x2-on kun desegno x3
+      sur materialo x4
+    notes:
+    - Vidu ankaŭ {gugde}, {jecta}.
+    glosses:
+    - flago
+  hu:
+    place structure: x1 egy zászló/lobogó, ami x2-t szimbolizálja x3 mintával, x4
+      anyagból
+    notes:
+    - '(Lásd még: {gugde}, {jecta})'
+    glosses:
+    - zászló
+  ja:
+    place structure: x1 は x2 を象徴する、 x3 （模様）・ x4 （素材）の旗
+    notes:
+    - x1は者だけでなく事も。 ・大意： 旗 ・読み方： ルァンシ  ・語呂合わせ： 乱視で旗が見えない, banner,ci(旗) ・関連語： {gugde},
+      {jecta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是旗，象征x2，具有图案x3，用材料x4制成
+    notes:
+    - 参见 {gugde}, {jecta}.
+    glosses:
+    - No glosses.

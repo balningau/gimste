@@ -1,6 +1,68 @@
-Word: tsali
-Rafsi: tsa
-Definition: x1 is strong/powerful/[tough] in property/quality x2 (ka) by standard
-  x3.
-Notes: See also {ralci}, {ruble}, {carmi}, {vlipa}.
-Examples: None
+word: tsali
+rafsi:
+- tsa
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is strong/powerful/[tough] in property/quality x2 (ka) by
+      standard x3.
+    notes:
+    - See also {ralci}, {ruble}, {carmi}, {vlipa}.
+    glosses:
+    - strong
+  de:
+    place structure: x1 ist stark/kräftig/mächtig/[zäh] in Eigenschaft/Qualität x2
+      (ka) gemäß Standard x3
+    notes:
+    - No notes.
+    glosses:
+    - stark
+  es:
+    place structure: x1 es fuerte/poderoso en propiedad/cualidad x2 según estándar
+      x3
+    notes:
+    - Ver también {ruble},  {carmi},  {vlipa}.
+    glosses:
+    - fuerte
+  ru:
+    place structure: x1 — сильный/мощный в отношении свойства/качества x2 ({ka}) по
+      стандарту x3
+    notes:
+    - '{ralci} (хрупкий), {ruble} (слабый), {carmi} (интенсивный), {vlipa} (могучий)'
+    glosses:
+    - x1=сильный
+  en-simple:
+    place structure: x1 is strong in property x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=something strong
+    - x2=a property of strength
+    - x2=the property of strength
+    - x3=a standard of strength
+  eo:
+    place structure: x1 estas forta/potenca/[rezista/firma] en eco/kvalito x2 (ka)
+      laŭ normo x3
+    notes:
+    - Vidu ankaŭ {ralci}, {ruble}, {carmi}, {vlipa}.
+    glosses:
+    - forta
+  hu:
+    place structure: x1 erős/hatékony x2 tulajdonságban, x3 mérce szerint
+    notes:
+    - '(Lásd még: {ralci}, {ruble}, {carmi}, {vlipa})'
+    glosses:
+    - erős
+  ja:
+    place structure: x1 は x2 （性質）に関して x3 （観点）で強い
+    notes:
+    - ・大意： 強い ・読み方： ツァルィ  ・関連語： {ralci}, {ruble}, {carmi}, {vlipa}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是强的/有力的，在性质/品质x2上，基于标准x3
+    notes:
+    - 参见 {ralci}, {ruble}, {carmi}, {vlipa}.
+    glosses:
+    - No glosses.

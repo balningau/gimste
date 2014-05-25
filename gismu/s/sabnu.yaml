@@ -1,5 +1,62 @@
-Word: sabnu
-Rafsi: ''
-Definition: x1 is a cabin of vehicle x2.
-Notes: See also {bloti}, {marce}, {vinji}, {karce}.
-Examples: None
+word: sabnu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cabin of vehicle x2.
+    notes:
+    - See also {bloti}, {marce}, {vinji}, {karce}.
+    glosses:
+    - cabin
+  de:
+    place structure: x1 ist ein Abteil/eine Fahrgastzelle/Kabine/Kajüte von Fahrzeug
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Abteil
+  es:
+    place structure: x1 es una cabina de vehículo x2
+    notes:
+    - No notes.
+    glosses:
+    - cabina
+  ru:
+    place structure: x1 — кабина/салон транспортного средства x2
+    notes:
+    - '{bloti} (корабль), {marce} (транспорт), {vinji} (самолет), {karce} (автомобиль)'
+    glosses:
+    - кабина
+  en-simple:
+    place structure: x1 is a cabin of vehicle x2
+    notes:
+    - No notes.
+    glosses:
+    - a cabin of a vehicle
+    - x2=a vehicle with a cabin
+  eo:
+    place structure: x1 estas kajuto de veturilo x2
+    notes:
+    - Vidu ankaŭ {bloti}, {marce}, {vinji}, {karce}.
+    glosses:
+    - kajuto
+  hu:
+    place structure: x1 egy fülkéje/kabinja/kajütje x2 járműnek
+    notes:
+    - '(Lásd még: {bloti}, {marce}, {vinji}, {karce})'
+    glosses:
+    - fülke (járművön)
+  ja:
+    place structure: x1 は x2 （乗物）の車両
+    notes:
+    - ・大意： 車両 ・読み方： サブヌ  ・語呂合わせ： サブぬ車両 ・関連語： {bloti}, {marce}, {vinji}, {karce}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是载具x2的舱
+    notes:
+    - 参见 {bloti}, {marce}, {vinji}, {karce}.
+    glosses:
+    - No glosses.

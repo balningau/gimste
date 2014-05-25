@@ -1,6 +1,65 @@
-Word: stani
-Rafsi: ''
-Definition: 'x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor:
-  main support].'
-Notes: See also {tuple}, {mudri}.
-Examples: None
+word: stani
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the stalk/stem/trunk [body-part] of plant/species x2;
+      [metaphor: main support].'
+    notes:
+    - See also {tuple}, {mudri}.
+    glosses:
+    - stalk
+    - stem (body-part)
+  de:
+    place structure: 'x1 ist ein/der Stängel/Stamm/Rumpf [Körperteil] von Pflanze/Art/Gattung
+      x2; [Im übertragenen Sinn: Hauptstütze]'
+    notes:
+    - No notes.
+    glosses:
+    - Stängel
+  es:
+    place structure: x1 es un tallo/tronco de planta/especie x2
+    notes:
+    - '(metafora: apoyo principal)'
+    glosses:
+    - tallo
+  ru:
+    place structure: x1 — стебель/ствол растения/вида x2
+    notes:
+    - 'Метафора: опора {tuple} (нога), {mudri} (древесина)'
+    glosses:
+    - x1=стебель
+  en-simple:
+    place structure: x1 is a stem or trunk of plant x2
+    notes:
+    - No notes.
+    glosses:
+    - a stem
+    - x2=a plant with a stem
+  eo:
+    place structure: 'x1 estas (la) tigo/trunko [korpoparto] de planto/speco x2; [metafore:
+      precipa subteno]'
+    notes:
+    - Vidu ankaŭ {tuple}, {mudri}.
+    glosses:
+    - tigo
+  hu:
+    place structure: x1 egy/a szára/törzse x2 növénynek
+    notes:
+    - '(Lásd még: {tuple}, {mudri})'
+    glosses:
+    - szár
+  ja:
+    place structure: x1 は x2 （植物）の茎／幹
+    notes:
+    - ・大意： 茎 ・読み方： スタニ  ・関連語： {tuple}, {mudri}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是枝干/秆/茎，属于植物/物种x2
+    notes:
+    - 参见 {tuple}, {mudri}.
+    glosses:
+    - No glosses.

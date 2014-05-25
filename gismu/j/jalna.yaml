@@ -1,6 +1,67 @@
-Word: jalna
-Rafsi: ''
-Definition: x1 is a quantity of/contains/is made of starch from source x2 of composition
-  including x3.
-Notes: See also {patlu}, {samcu}.
-Examples: None
+word: jalna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of starch from source x2
+      of composition including x3.
+    notes:
+    - See also {patlu}, {samcu}.
+    glosses:
+    - starch
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Stärke aus Quelle x2
+      von Zusammensetzung unter anderem x3
+    notes:
+    - No notes.
+    glosses:
+    - Stärke
+  es:
+    place structure: x1 es una cantidad de almidón de origen x2 de composición x3
+    notes:
+    - No notes.
+    glosses:
+    - almidón
+  ru:
+    place structure: x1 — крахмал из источника x2, содержащий x3; x1 содержит крахмал
+    notes:
+    - '{patlu} (картофель), {samcu} (ямс)'
+    glosses:
+    - крахмал
+    - x2=источник крахмала
+  en-simple:
+    place structure: x1 is a quantity of starch from x2 of composition x3
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of starch
+    - x2=a source of starch
+    - x3=a composition of starch
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el amelo el fonto x2 de
+      konsisto enhavanta x3
+    notes:
+    - Vidu ankaŭ {patlu}, {samcu}.
+    glosses:
+    - amelo
+  hu:
+    place structure: x1 bizonyos mennyiségű keményítő (-t tartalmaz/-ből készült)
+      x2 forrásból, x3 összetétellel
+    notes:
+    - '(Lásd még: {patlu}, {samcu})'
+    glosses:
+    - keményítő
+  ja:
+    place structure: x1 は x2 （資源）・ x3 （成分）のデンプン
+    notes:
+    - ・大意： デンプン ・読み方： ジャルゥナ  ・関連語： {patlu}, {samcu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是淀粉，来源于x2，组分包括x3
+    notes:
+    - 参见 {patlu}, {samcu}.
+    glosses:
+    - No glosses.

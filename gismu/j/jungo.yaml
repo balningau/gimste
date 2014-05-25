@@ -1,6 +1,65 @@
-Word: jungo
-Rafsi: jug
-Definition: x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language
-  in aspect x2.
-Notes: See also {xazdo}.
-Examples: None
+word: jungo
+rafsi:
+- jug
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language
+      in aspect x2.
+    notes:
+    - See also {xazdo}.
+    glosses:
+    - Chinese
+  de:
+    place structure: x1 repräsentiert chinesische [Mandarin, Kantonesisch, Wu, etc.]
+      Kultur/Nationalität/Sprache in Aspekt x2
+    notes:
+    - No notes.
+    glosses:
+    - Chinese
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma chino en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - chino
+  ru:
+    place structure: x1 — китайский (ханьский, кантонский и т.д.) в аспекте x2
+    notes:
+    - '{xazdo} (азиатский)'
+    glosses:
+    - китайский
+  en-simple:
+    place structure: x1 is Chinese in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Chinese
+    - x2=a Chinese aspect
+  eo:
+    place structure: x1 montras ĉinan [mandarena, kantona, Wu-a, ktp.] kulturon/naciecon/lingvon
+      laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {xazdo}.
+    glosses:
+    - ĉina
+  hu:
+    place structure: x1 kínai kultúrát/nemzetiséget/nyelvet tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {xazdo})'
+    glosses:
+    - kínai
+  ja:
+    place structure: x1 は x2 （性質面）に関して中国系（言語／文化／民族／地理）
+    notes:
+    - ・大意： 中国 ・読み方： ジュンゴ  ・関連語： {xazdo}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1 在 x2 方面 反映中国文化/语言
+    notes:
+    - 包括粤、闽、客、湘、赣、北方，等。
+    - 参见： {xazdo}.
+    glosses:
+    - x2=反映方面

@@ -1,6 +1,65 @@
-Word: sraji
-Rafsi: raj
-Definition: x1 is vertical/upright/erect/plumb/oriented straight up and down in reference
-  frame/gravity x2.
-Notes: See also {sanli}, {pinta}.
-Examples: None
+word: sraji
+rafsi:
+- raj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is vertical/upright/erect/plumb/oriented straight up and down
+      in reference frame/gravity x2.
+    notes:
+    - See also {sanli}, {pinta}.
+    glosses:
+    - vertical
+  de:
+    place structure: x1 ist vertikal/senkrecht/aufrecht/stehend/lotrecht in Bezugssystem/gemäß
+      Schwerkraft x2
+    notes:
+    - No notes.
+    glosses:
+    - vertikal
+  es:
+    place structure: x1 es vertical en marco de referencia x2
+    notes:
+    - Ver también {pinta}.
+    glosses:
+    - vertical
+  ru:
+    place structure: x1 — вертикальный/отвесный/прямостоящий/{прямой} в системе отсчета/гравитационном
+      поле x2
+    notes:
+    - 'Также: вертикально, стоймя, отвесно {sanli} (стоять), {pinta} (горизонтальный)'
+    glosses:
+    - x1=вертикальный
+  en-simple:
+    place structure: x1 is vertical in reference frame x2
+    notes:
+    - No notes.
+    glosses:
+    - something vertical
+    - x2=a reference frame of verticalness
+  eo:
+    place structure: x1 estas vertikala/staranta/orientigita rekte supren kaj malsupren
+      en referenckadro/gravito x2
+    notes:
+    - Vidu ankaŭ {sanli}, {pinta}.
+    glosses:
+    - vertikala
+  hu:
+    place structure: x1 függőleges x2 vonatkoztatási rendszerben
+    notes:
+    - '(Lásd még: {sanli}, {pinta})'
+    glosses:
+    - függőleges
+  ja:
+    place structure: x1 は x2 （照合枠）において縦／垂直
+    notes:
+    - x2 は重力など。 ・大意： 垂直 ・読み方： スラジ  ・関連語： {sanli}, {pinta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是竖直的，基于标准/重力方向/参考系x2
+    notes:
+    - 参见 {sanli}, {pinta}.
+    glosses:
+    - No glosses.

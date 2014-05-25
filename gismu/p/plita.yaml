@@ -1,7 +1,76 @@
-Word: plita
-Rafsi: pit
-Definition: x1 is a plane [2-dimensional shape/form] defined by points x2 (set); x1
-  is flat/[smooth].
-Notes: 'Also: $x_1$ is even/planar/level.  ($x_2$ is a set of points at least sufficient
-  to define the plane); See also {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta}.'
-Examples: None
+word: plita
+rafsi:
+- pit
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a plane [2-dimensional shape/form] defined by points x2
+      (set); x1 is flat/[smooth].
+    notes:
+    - 'Also: x1 is even/planar/level.  (x2 is a set of points at least sufficient
+      to define the plane); See also {xutla}, {sefta}, {tapla}, {karda}, {boxfo},
+      {pinta}.'
+    glosses:
+    - plane (2-D space)
+  jbo:
+    place structure: x1 se cimde re da gi'e se cmima x2 noi mokca
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 ist eine Fläche/Ebene [zweidimensionale Form] festgelegt durch
+      Punkte x2 (Menge); x1 ist flach
+    notes:
+    - No notes.
+    glosses:
+    - Fläche
+  es:
+    place structure: x1 es plano/chato (forma bidimensional) definido por puntos x2
+    notes:
+    - Ver también {xutla},  {plita}.
+    glosses:
+    - plano
+  ru:
+    place structure: x1 — плоскость (двумерная форма), задаваемая точками x2 (множество)
+    notes:
+    - 'Также: x1 — ровный; x2 — множество точек, достаточное, чтобы задать плоскость)
+      {xutla} (гладкий), {sefta} (поверхность), {tapla} (плитка), {karda} (карточка),
+      {boxfo} (пластина), {pinta} (горизонтальный)'
+    glosses:
+    - x1=плоскость
+  en-simple:
+    place structure: x1 is a plane defined by points x2
+    notes:
+    - No notes.
+    glosses:
+    - a plane
+    - x2=a point defining a plane
+  eo:
+    place structure: x1 estas ebeno [2-dimensia formo] difinita de punktoj x2 (aro);
+      x1 estas plata/[glata]
+    notes:
+    - 'Ankaŭ: x1 estas ebena/plata.  (x2 estas aro de punktoj almenaŭ sufiĉaj por
+      difini la ebenon); Vidu ankaŭ {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta}.'
+    glosses:
+    - ebeno
+  hu:
+    place structure: x1 egy sík, x2 pontok által meghatározva
+    notes:
+    - '(Lásd még: {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta})'
+    glosses:
+    - sík
+  ja:
+    place structure: x1 は x2 （点の集合）による二次元の面（平面）
+    notes:
+    - ・大意： 二次元面 ・読み方： プルィタ  ・語呂合わせ： 二次元プリンター ・関連語： {xutla}, {sefta}, {tapla}, {karda},
+      {boxfo}, {pinta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是平面（二维结构/形状），由点集x2（集合）定义；x1是平的
+    notes:
+    - x1是二维的/平面的；x2是足以定义此平面的点集；参见 {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta}.
+    glosses:
+    - No glosses.

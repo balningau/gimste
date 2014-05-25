@@ -1,5 +1,68 @@
-Word: tagji
-Rafsi: tag
-Definition: x1 is snug/tight on x2 in dimension/direction x3 at locus x4.
-Notes: See also {trati}, {jarki}, {kluza}, {rinju}.
-Examples: None
+word: tagji
+rafsi:
+- tag
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is snug/tight on x2 in dimension/direction x3 at locus x4.
+    notes:
+    - See also {trati}, {jarki}, {kluza}, {rinju}.
+    glosses:
+    - snug
+  de:
+    place structure: x1 ist fest/festsitzend auf x2 in Dimension/Richtung x3 an Stelle
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - festsitzend
+  es:
+    place structure: x1 es ajustado/apretado en dimensión/dirección x2 en locus x3
+    notes:
+    - Ver también {trati},  {jarki},  {kluza}.
+    glosses:
+    - ajustado
+  ru:
+    place structure: x1 тесно облегает x2 (объект) в направлении/измерении x3 на участке
+      x4; x1 туго натянут на/обтягивает x2/x4
+    notes:
+    - 'Также: в обтяжку; антоним: {kluza} {trati} (натянутый), {jarki} (узкий), {kluza}
+      (облегать [свободно]), {rinju} (удерживаться [от чего-либо])'
+    glosses:
+    - облегать
+    - x1=облегающий
+  en-simple:
+    place structure: x1 is tight on x2 in dimension x3 at location x4
+    notes:
+    - No notes.
+    glosses:
+    - something snug
+    - x2=something fitted snugly
+    - x3=a dimension of snugness
+    - x4=a location of snugness
+  eo:
+    place structure: x1 estas strikta/alĝustigita/malpufa/prema/streĉita sur x2 laŭ
+      dimensio/direkto x3 je loko x4
+    notes:
+    - Vidu ankaŭ {trati}, {jarki}, {kluza}, {rinju}.
+    glosses:
+    - strikta
+  hu:
+    place structure: x1 szoros/szűk x2-n/-nek, x3 irányban/méretben, x4 helyen
+    notes:
+    - '(Lásd még: {trati}, {jarki}, {kluza}, {rinju})'
+    glosses:
+    - szoros
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）にたいして、かっちり／ぴったり／しっかりしている；  x1 は x2 から外れない／離れない
+    notes:
+    - ・大意： かっちり ・読み方： タグジ  ・関連語： {trati}, {jarki}, {kluza}, {rinju}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是紧的/紧密的x2，在尺寸/方向x3上，在位置x4
+    notes:
+    - 参见 {trati}, {jarki}, {kluza}, {rinju}.
+    glosses:
+    - No glosses.

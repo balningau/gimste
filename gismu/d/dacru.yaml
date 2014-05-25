@@ -1,6 +1,76 @@
-Word: dacru
-Rafsi: dac
-Definition: x1 is a drawer/file in structure x2, a [sliding compartment] container
-  for contents x3.
-Notes: See also {nilce}, {tanxe}.
-Examples: None
+word: dacru
+rafsi:
+- dac
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a drawer/file in structure x2, a [sliding compartment]
+      container for contents x3.
+    notes:
+    - See also {nilce}, {tanxe}.
+    glosses:
+    - drawer
+  de:
+    place structure: x1 ist eine Schublade/Kartei/Akte in Struktur x2, ein Behälter
+      [Schubfach] für Inhalt x3
+    notes:
+    - No notes.
+    glosses:
+    - Schublade
+  es:
+    place structure: x1 es un cajón en estructura x2, un recipiente para contenido
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - cajón
+  ru:
+    place structure: x1 — (выдвижной) ящик в сооружении/устройстве x2 с содержимым
+      x3
+    notes:
+    - 'x3: содержимое м.б. потенциальным: «для x3» {nilce} (мебель), {tanxe} (коробка)'
+    glosses:
+    - x1=выдвижной ящик
+  en-simple:
+    place structure: x1 is a drawer in x2 for contents x3
+    notes:
+    - No notes.
+    glosses:
+    - a drawer
+    - x2=something with a drawer
+    - x3=a content of a drawer
+  eo:
+    place structure: x1 estas tirkesto/teko/dosiero en strukturo x2, [glita fako]
+      ujo por enhavo x3
+    notes:
+    - Vidu ankaŭ {nilce}, {tanxe}.
+    glosses:
+    - tirkesto
+  hu:
+    place structure: x1 egy fiók x2 struktúrában, x3 tárolására
+    notes:
+    - '(Lásd még: {nilce}, {tanxe})'
+    glosses:
+    - fiók
+  ja:
+    place structure: x1 は x2 （構造）・ x3 （内容）の引き出し／たんす
+    notes:
+    - 「ファイル」も。 ・大意： 引き出し ・読み方： ダシル  ・語呂合わせ： 出しる, drawer, ceu（抽） ・関連語： {nilce}, {tanxe}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en draglåda/dossier/mapp i struktur x2, en behållare [skjutbart
+      fack] för innehåll x3.
+    notes:
+    - No notes.
+    glosses:
+    - x1=låda (byrålåda e.dyl. [skjutbart fack])
+    - x2=byrå (struktur med lådor)
+    - x3=lådinnehåll (byrålåda e.dyl. [skjutbart fack])
+  zh:
+    place structure: x1是抽屉/文件夹，位于结构x2上，装有/为了装x3
+    notes:
+    - 参见 {nilce}, {tanxe}.
+    glosses:
+    - No glosses.

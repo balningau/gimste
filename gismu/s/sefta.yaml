@@ -1,6 +1,70 @@
-Word: sefta
-Rafsi: sfe
-Definition: x1 is surface/face [bounded shape/form] of [higher-dimension] object x2,
-  on side x3, edges x4.
-Notes: Also $x_4$ bounds.  See also {crane}, {flira}, {plita}, {bliku}.
-Examples: None
+word: sefta
+rafsi:
+- sfe
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is surface/face [bounded shape/form] of [higher-dimension]
+      object x2, on side x3, edges x4.
+    notes:
+    - Also x4 bounds.  See also {crane}, {flira}, {plita}, {bliku}.
+    glosses:
+    - surface
+  de:
+    place structure: x1 ist eine Oberfläche/Seite [begrenzte Form] von [höherdimensionalem]
+      Objekt x2 auf Seite x3 mit Kanten x4
+    notes:
+    - No notes.
+    glosses:
+    - Oberfläche
+  es:
+    place structure: x1 es una superficie/cara de objeto x2, con lado x3, límites
+      x4
+    notes:
+    - No notes.
+    glosses:
+    - superficie
+  ru:
+    place structure: x1 — поверхность/грань объекта x2, на стороне/участке x3, с границей/ребрами
+      x4
+    notes:
+    - '{crane} (перед), {flira} (лицо), {plita} (плоскость), {bliku} (блок [глыба])'
+    glosses:
+    - x1=поверхность
+  en-simple:
+    place structure: x1 is a surface of object x2 on side x3 with edges x4
+    notes:
+    - No notes.
+    glosses:
+    - a surface
+    - x2=something with a surface
+    - x3=a side of a surface
+    - x4=an edge of a surface
+  eo:
+    place structure: x1 estas surfaco/faco/edro/latero [limigita formo] de objekto
+      x2, je flanko x3, eĝoj x4
+    notes:
+    - 'Ankaŭ: x4 estas limoj.  Vidu ankaŭ {crane}, {flira}, {plita}, {bliku}.'
+    glosses:
+    - surfaco
+  hu:
+    place structure: x1 a felszíne/oldala/lapja x2 testnek/tárgynak, x3 oldalon, x4
+      élekkel/határokkal
+    notes:
+    - '(Lásd még: {crane}, {flira}, {plita}, {bliku})'
+    glosses:
+    - felszín
+  ja:
+    place structure: x1 は x2 （もの）・ x3 （側）・ x4 （境）の表面
+    notes:
+    - ・大意： 表面 ・読み方： セフゥタ  ・語呂合わせ： se（側）, surface ・関連語： {crane}, {flira}, {plita},
+      {bliku}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是物体x2的表面，位于x3一边，具有边界x4
+    notes:
+    - 也指：x4界线/边界；参见 {crane}, {flira}, {plita}, {bliku}.
+    glosses:
+    - No glosses.

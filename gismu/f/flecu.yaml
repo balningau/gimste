@@ -1,9 +1,91 @@
-Word: flecu
-Rafsi: fle
-Definition: x1 is a current/flow/river of/in x2 flowing in direction to/towards x3
-  from direction/source x4.
-Notes: '[$x_1$ is a stream of $x_2$; $x_2$ is a fluid Gas or liquid. (= {selfle} for
-  reordered places); $x_1$ flushes toward $x_3$; flush (= {caifle}, {sukfle})]; See
-  also {rirxe}, {senta} where no directionality is implied, {rinci}, {xampo}, {dikca},
-  {sakci}, {gapci}, {litki}, {ciblu}.'
-Examples: None
+word: flecu
+rafsi:
+- fle
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a current/flow/river of/in x2 flowing in direction to/towards
+      x3 from direction/source x4.
+    notes:
+    - '[x1 is a stream of x2; x2 is a fluid Gas or liquid. (= {selfle} for reordered
+      places); x1 flushes toward x3; flush (= {caifle}, {sukfle})]; See also {rirxe},
+      {senta} where no directionality is implied, {rinci}, {xampo}, {dikca}, {sakci},
+      {gapci}, {litki}, {ciblu}.'
+    glosses:
+    - flow
+  de:
+    place structure: x1 ist eine Strömung/ein Fluss von/in x2 und fließt in Richtung
+      x3/auf x3 zu aus Richtung/Quelle x4
+    notes:
+    - No notes.
+    glosses:
+    - fließen
+  es:
+    place structure: x1 es una corriente/flujo/río de x2 en dirección a x3 de fuente
+      x4
+    notes:
+    - Ver también {rirxe},  {senta}.
+    glosses:
+    - flujo
+  ru:
+    place structure: x1 — поток x2 (чего), текущий к/в x3 от/из x4
+    notes:
+    - 'x2 — газ или жидкость: {selfle} с переставленными местами; хлынуть: {caifle},
+      {sukfle} {rirxe} (река), {senta} (слой) — в отсутствие направленности, {rinci}
+      (вытекать), {xampo} (ампер), {dikca} (электричество), {sakci} (всасывать), {gapci}
+      (газ), {litki} (жидкость), {ciblu} (кровь)'
+    glosses:
+    - поток
+  en-simple:
+    place structure: x1 is a current in x2 flowing towards x3 from x4
+    notes:
+    - No notes.
+    glosses:
+    - a current
+    - x2=something with a current
+    - x3=a current destination
+    - x4=a current source
+  eo:
+    place structure: x1 estas fluo/kurento/rivero de/en x2 fluanta en direkto al x3
+      el direkto/fonto x4
+    notes:
+    - (x2 verŝiĝas al x3 el x4; x2 estas fluido Gaso aŭ likvaĵo. (= selfle por reordigitaj
+      {lokoj})); Vidu ankaŭ {rirxe}, senta kie direkteco ne estas {implicita}, {rinci},
+      {xampo}, {dikca}, {sakci}, {gapci}, litki,{ciblu}.
+    glosses:
+    - fluo
+  hu:
+    place structure: x1 egy áramlat/áram/folyó, amelyben x2 folyik/áramlik, x3-ba/felé,
+      x4 forrásból/irányból
+    notes:
+    - '(Lásd még: {rirxe}, {senta}, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki},
+      {ciblu})'
+    glosses:
+    - áramlat
+  ja:
+    place structure: x1 は x2 の／における、 x3 （終点）へ x4 （始点）からの流れ；  x2 は流れる
+    notes:
+    - ・大意： 流れる ・読み方： フゥルェシュ  ・関連語： {rirxe}, {senta}, {rinci}, {xampo}, {dikca}, {sakci},
+      {gapci}, {litki}, {ciblu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en ström/flöde/bäck/rännil av/i x2 strömmar mot/i riktning
+      x3 från riktning/källa x4.
+    notes:
+    - x1 är en ström av x2; x2 är en flytande gas eller vätska (= selfle for reordered
+      places); bäck (=barda flecu); flödar/svallar (= {caifle}, {sukfle}); Se även
+      {rirxe}, {senta} där ingen riktning förutsätts, {rinci}, {xampo}, {dikca}, {sakci},
+      {gapci}, {litki}, {ciblu}.
+    glosses:
+    - flöde
+    - rännil
+    - ström (flöde)
+  zh:
+    place structure: x1是x2的流/河/流束，流向方向/目标x3，来自方向/目标x4
+    notes:
+    - x1是流动的x2；x2是指流动的气体/液体/流体； x1奔流向x3；奔流= {caifle}/{sukfle}；参见 {rirxe}, {senta}不暗示方向,
+      {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}.
+    glosses:
+    - No glosses.

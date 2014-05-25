@@ -1,5 +1,63 @@
-Word: silka
-Rafsi: sik
-Definition: x1 is a quantity of/contains/is made of silk produced by x2.
-Notes: See also {curnu}, {bukpu}, {cilta}.
-Examples: None
+word: silka
+rafsi:
+- sik
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of silk produced by x2.
+    notes:
+    - See also {curnu}, {bukpu}, {cilta}.
+    glosses:
+    - silk
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Seide produziert von
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Seide
+  es:
+    place structure: x1 es una cantidad de seda producida por x2
+    notes:
+    - No notes.
+    glosses:
+    - seda
+  ru:
+    place structure: x1 — шёлк, произведенный x2 (кем/чем); x1 содержит шелк
+    notes:
+    - '{curnu} (червь), {bukpu} (ткань [текстиль]), {cilta} (нить)'
+    glosses:
+    - шёлк
+  en-simple:
+    place structure: x1 is a quantity of silk produced by x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of silk
+    - x2=a source of silk
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el silko produktita de x2
+    notes:
+    - Vidu ankaŭ {curnu}, {bukpu}, {cilta}.
+    glosses:
+    - silko
+  hu:
+    place structure: x1 bizonyos mennyiségű selyem (-et tartalmaz/-ből készült) x2
+      által előállítva
+    notes:
+    - '(Lásd még: {curnu}, {bukpu}, {cilta})'
+    glosses:
+    - selyem
+  ja:
+    place structure: x1 は絹／シルク
+    notes:
+    - ・大意： 絹 ・読み方： スィルゥカ  ・語呂合わせ： 知るか、シルク, silk ・関連語： {curnu}, {bukpu}, {cilta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是丝绸/丝织物，由x2生产制造
+    notes:
+    - 参见 {curnu}, {bukpu}, {cilta}.
+    glosses:
+    - No glosses.

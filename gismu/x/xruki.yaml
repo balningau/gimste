@@ -1,5 +1,62 @@
-Word: xruki
-Rafsi: xuk
-Definition: x1 is a turkey [food/bird] of species/breed x2.
-Notes: See also {cipni}.
-Examples: None
+word: xruki
+rafsi:
+- xuk
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a turkey [food/bird] of species/breed x2.
+    notes:
+    - See also {cipni}.
+    glosses:
+    - turkey
+  de:
+    place structure: x1 ist ein Truthahn von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Truthahn
+  es:
+    place structure: x1 es un pavo de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - pavo
+  ru:
+    place structure: x1 — индейка/индюшка (пища/птица) вида/породы x2
+    notes:
+    - '{cipni} (птица)'
+    glosses:
+    - индейка
+    - x2=вид индейки
+  en-simple:
+    place structure: x1 is a turkey of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a turkey
+    - x2=a species of turkey
+  eo:
+    place structure: x1 estas meleagro [manĝaĵo/birdo] de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cipni}.
+    glosses:
+    - meleagro
+  hu:
+    place structure: x1 egy pulyka [Meleagridinae alcsalád] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cipni})'
+    glosses:
+    - pulyka
+  ja:
+    place structure: x1 は x2 （種類）のキジ科動物（キジ／シチメンチョウ／ライチョウ）
+    notes:
+    - ・大意： キジ ・読み方： クゥルキ  ・語呂合わせ： 来るキジ ・関連語： {cipni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是火鸡，属于物种/种类x2
+    notes:
+    - 参见 {cipni}.
+    glosses:
+    - No glosses.

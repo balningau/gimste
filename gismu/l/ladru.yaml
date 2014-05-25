@@ -1,6 +1,67 @@
-Word: ladru
-Rafsi: lad
-Definition: x1 is made of/contains/is a quantity of milk from source x2; (adjective:)
-  x1 is lactic/dairy.
-Notes: See also {lanbi}, {mabru}, {tatru}, {cirla}, {kruji}.
-Examples: None
+word: ladru
+rafsi:
+- lad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of milk from source x2;
+      (adjective:) x1 is lactic/dairy.
+    notes:
+    - See also {lanbi}, {mabru}, {tatru}, {cirla}, {kruji}.
+    glosses:
+    - milk
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Milch aus Quelle x2;
+      (Adjektiv:) x1 ist milchig
+    notes:
+    - No notes.
+    glosses:
+    - Milch
+  es:
+    place structure: x1 es una cantidad de leche de origen x2
+    notes:
+    - No notes.
+    glosses:
+    - leche
+  ru:
+    place structure: x1 — молоко из источника x2
+    notes:
+    - '{lanbi} (белок), {mabru} (зверь), {tatru} (грудь [женская]), {cirla} (сыр),
+      {kruji} (крем)'
+    glosses:
+    - молоко
+    - x2=источник молока
+  en-simple:
+    place structure: x1 is a quantity of milk from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of milk
+    - x2=a source of milk
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el lakto el fonto x2; (adjektivo:)
+      x1 estas lactic/dairy
+    notes:
+    - Vidu ankaŭ {lanbi}, {mabru}, {tatru}, {cirla}, {kruji}.
+    glosses:
+    - lakto
+  hu:
+    place structure: x1 bizonyos mennyiségű tej (-et tartalmaz/-ből készült) x2 forrásból
+    notes:
+    - '(Lásd még: {lanbi}, {mabru}, {tatru}, {cirla}, {kruji})'
+    glosses:
+    - tej
+  ja:
+    place structure: x1 は x2 （起源）のミルク／牛乳；  x1 は乳性／酪農の
+    notes:
+    - ・大意： ミルク ・読み方： ルァドル  ・関連語： {lanbi}, {mabru}, {tatru}, {cirla}, {kruji}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是/含有来源于x2的奶/乳；x1是乳制的/乳制品
+    notes:
+    - 查看{lanbi},{mabru},{tatru},{cirla},{kruji}
+    glosses:
+    - 乳制品
+    - 乳汁

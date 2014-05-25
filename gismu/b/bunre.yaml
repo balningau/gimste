@@ -1,5 +1,76 @@
-Word: bunre
-Rafsi: bur, bu'e
-Definition: x1 is brown/tan [color adjective].
-Notes: See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
-Examples: None
+word: bunre
+rafsi:
+- bur
+- bu'e
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is brown/tan [color adjective].
+    notes:
+    - See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - brown
+  de:
+    place structure: x1 ist braun [Farbadjektiv].
+    notes:
+    - Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - braun
+  es:
+    place structure: x1 es marrón/castaño/canela/pardo (color)
+    notes:
+    - No notes.
+    glosses:
+    - marrón
+  ru:
+    place structure: x1 — коричневый/каштановый/бурый (о цвете)
+    notes:
+    - '{skari} (иметь цвет), {blabi} (белый), {xekri} (черный), {kandi} (тусклый),
+      {carmi} (интенсивный)'
+    glosses:
+    - x1=коричневый
+  en-simple:
+    place structure: x1 is brown
+    notes:
+    - No notes.
+    glosses:
+    - something brown
+  eo:
+    place structure: x1 estas bruna/tankolora [koloradjektivo]
+    notes:
+    - Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - bruna
+  hu:
+    place structure: x1 barna színű
+    notes:
+    - '(Lásd még: {skari}, {blabi}, {xekri}, {kandi}, {carmi})'
+    glosses:
+    - barna
+  ja:
+    place structure: x1 は茶色／黄褐色／小麦色
+    notes:
+    - ・大意： 茶色 ・読み方： ブンレ  ・語呂合わせ： ＜分裂＞ brown, ・関連語： {skari}, {blabi}, {xekri}, {kandi},
+      {carmi}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er brun
+    notes:
+    - Se og {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är brun/en omättad färg mellan röd och gul färgnyans.
+    notes:
+    - No notes.
+    glosses:
+    - brunt
+    - x1=brun
+  zh:
+    place structure: x1是褐色/棕色的
+    notes:
+    - 参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+    glosses:
+    - No glosses.

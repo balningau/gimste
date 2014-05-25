@@ -1,6 +1,84 @@
-Word: danlu
-Rafsi: dal, da'u
-Definition: x1 is an animal/creature of species x2; x1 is biologically animate.
-Notes: See also {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru},
-  {bakni}.
-Examples: None
+word: danlu
+rafsi:
+- dal
+- da'u
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an animal/creature of species x2; x1 is biologically animate.
+    notes:
+    - See also {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru},
+      {bakni}.
+    glosses:
+    - animal
+  de:
+    place structure: x1 ist ein Tier der Spezies x2; x1 ist biologisch lebendig.
+    notes:
+    - Siehe auch {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru},
+      {bakni}.
+    glosses:
+    - Tier
+  es:
+    place structure: x1 es un animal de especie/raza x2
+    notes:
+    - Ver también {mabru}.
+    glosses:
+    - animal
+  ru:
+    place structure: x1 — животное вида x2;x1 — биологически живой
+    notes:
+    - '{banfi} (амфибия), {cinki} (насекомое), {cipni} (птица), {finpe} (рыба), {jukni}
+      (паук), {respa} (рептилия), {since} (змея), {mabru} (зверь), {bakni} (корова)'
+    glosses:
+    - x1=животное
+  en-simple:
+    place structure: x1 is a creature of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a creature
+    - x2=a species of a creature
+  eo:
+    place structure: x1 estas besto/animalo/kreito de speco x2; x1 estas biologie
+      vivanta
+    notes:
+    - Vidu ankaŭ {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru},
+      {bakni}.
+    glosses:
+    - besto
+  hu:
+    place structure: x1 egy állat [Animalia ország] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru},
+      {bakni})'
+    glosses:
+    - állat
+  ja:
+    place structure: x1 は x2 （種類）の動物
+    notes:
+    - ・大意： 動物 ・読み方： ダンルゥ  ・関連語： {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa},
+      {since}, {mabru}, {bakni}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 to zwierzę/stworzenie gatunku x2.
+    notes:
+    - Cf. {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru},
+      {bakni}.
+    glosses:
+    - stworzenie (forma życia)
+    - zwierzę
+  sv:
+    place structure: x1 är ett djur/varelse av art x2; x1 är biologiskt levande.
+    notes:
+    - No notes.
+    glosses:
+    - x1=djur
+    - x2=djurart
+  zh:
+    place structure: x1是动物，属于品种/种类x2；x1是有生命的（在生物学上看来）
+    notes:
+    - 参见 {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru}, {bakni}.
+    glosses:
+    - No glosses.

@@ -1,6 +1,65 @@
-Word: mapku
-Rafsi: map
-Definition: x1 is a cap/hat/crown/helmet/piece of headgear [head-top garment] of material
-  x2.
-Notes: See also {taxfu}, {stedu}, {drudi}.
-Examples: None
+word: mapku
+rafsi:
+- map
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cap/hat/crown/helmet/piece of headgear [head-top garment]
+      of material x2.
+    notes:
+    - See also {taxfu}, {stedu}, {drudi}.
+    glosses:
+    - cap
+  de:
+    place structure: x1 ist eine Kopfbedeckung/Kappe/Mütze/Krone/ein Hut/Helm aus
+      Material x2
+    notes:
+    - No notes.
+    glosses:
+    - Kappe
+  es:
+    place structure: x1 es un sombrero/gorra/corona (prenda de vestir) de material
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - sombrero
+  ru:
+    place structure: x1 — шапка/шляпа/кепка/корона/шлем (головной убор) из материала
+      x2
+    notes:
+    - '{taxfu} (одежда), {stedu} (голова), {drudi} (крыша)'
+    glosses:
+    - шапка
+  en-simple:
+    place structure: x1 is a hat, helmet, or other headgear of material x2
+    notes:
+    - No notes.
+    glosses:
+    - a hat
+    - x2=a material of a hat
+  eo:
+    place structure: x1 estas ĉapo/ĉapelo/krono/kasko/kapvesto el materialo x2
+    notes:
+    - Vidu ankaŭ {taxfu}, {stedu}, {drudi}.
+    glosses:
+    - ĉapo
+  hu:
+    place structure: x1 egy kalap/sapka/sisak [fejfedő] x2 anyagból
+    notes:
+    - '(Lásd még: {taxfu}, {stedu}, {drudi})'
+    glosses:
+    - kalap
+  ja:
+    place structure: x1 は x2 （素材）の帽子／冠／兜／ヘルメット
+    notes:
+    - 頭に被るもの全般。 ・大意： 帽子 ・読み方： マプク  ・関連語： {taxfu}, {stedu}, {drudi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是帽子/头盔/头冠，由材料x2做成
+    notes:
+    - 参见 {taxfu}, {stedu}, {drudi}.
+    glosses:
+    - No glosses.

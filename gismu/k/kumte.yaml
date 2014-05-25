@@ -1,6 +1,69 @@
-Word: kumte
-Rafsi: ''
-Definition: x1 is a camel/llama/alpaca/vicuna/dromedary of species/breed x2.
-Notes: Llama (= {tcokumte}), Bactrian camel (= {zdokumte}); Arabian camel/dromedary
-  (= {rabykumte}).  See also {sunla}, {kanla}, {xirma}, {xasli}.
-Examples: None
+word: kumte
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a camel/llama/alpaca/vicuna/dromedary of species/breed
+      x2.
+    notes:
+    - Llama (= {tcokumte}), Bactrian camel (= {zdokumte}); Arabian camel/dromedary
+      (= {rabykumte}).  See also {sunla}, {kanla}, {xirma}, {xasli}.
+    glosses:
+    - camel
+  de:
+    place structure: x1 ist ein Kamel/Lama/Alpaka/Vikunja/Dromedar von Art/Gattung
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Kamel
+  es:
+    place structure: x1 es un camello/dromedario/llama/alpaca/vicuña/guanaco de especie/raza
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - camello
+  ru:
+    place structure: x1 — верблюд/лама/альпака вида/породы x2
+    notes:
+    - 'Лама: {tcokumte}, бактриан: {zdokumte}, дромадер: {rabykumte} {sunla} (шерсть),
+      {kanla} (глаз), {xirma} (лошадь), {xasli} (осел)'
+    glosses:
+    - верблюд
+    - x2=вид верблюда
+  en-simple:
+    place structure: x1 is a camel or llama of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a camel
+    - x2=a species of camel
+  eo:
+    place structure: x1 estas kamelo/lamo/alpako/vikuno/dromedaro de speco/raso x2
+    notes:
+    - Lamo (= {tcokumte}), azia kamelo (= {zdokumte}); araba kamelo/dromedaro (= {rabykumte}).  Vidu
+      ankaŭ {sunla}, {kanla}, {xirma}, {xasli}.
+    glosses:
+    - kamelo
+  hu:
+    place structure: x1 egy teve/láma/alpaka/vikunya [Camelidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {sunla}, {kanla}, {xirma}, {xasli})'
+    glosses:
+    - teve
+  ja:
+    place structure: x1 は x2 （種類）のラクダ科動物（ラクダ／ラマ／アルパカ／ビクーニャ等）
+    notes:
+    - ・大意： ラクダ ・読み方： クムテ  ・関連語： {sunla}, {kanla}, {xirma}, {xasli}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是驼，属于品种/种类x2；如：骆驼，羊驼
+    notes:
+    - 美洲驼/无峰驼= {tcokumte}，双峰驼= {zdokumte}，阿拉伯单峰驼= {rabykumte}；参见 {sunla}, {kanla},
+      {xirma}, {xasli}.
+    glosses:
+    - No glosses.

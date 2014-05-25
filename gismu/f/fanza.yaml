@@ -1,6 +1,73 @@
-Word: fanza
-Rafsi: faz
-Definition: x1 (event) annoys/irritates/bothers/distracts x2.
-Notes: 'Also: is disruptive to.  See also {fengu}, {raktu}, {dicra}, {tunta}, {zunti},
-  {jicla}.'
-Examples: None
+word: fanza
+rafsi:
+- faz
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) annoys/irritates/bothers/distracts x2.
+    notes:
+    - 'Also: is disruptive to.  See also {fengu}, {raktu}, {dicra}, {tunta}, {zunti},
+      {jicla}.'
+    glosses:
+    - annoy
+  de:
+    place structure: x1 (Ereignis) belästigt/ärgert/reizt x2
+    notes:
+    - No notes.
+    glosses:
+    - belästigen
+  es:
+    place structure: x1 (evento) molesta/irrita/distrae a x2
+    notes:
+    - Ver también {raktu},  {dicra},  {zunti}.
+    glosses:
+    - molestar
+  ru:
+    place structure: x1 (событие) раздражает/беспокоит/надоедает/{отвлекает} x2
+    notes:
+    - 'Также: докучает/донимает/допекает/досаждает; также: мешает {fengu} (сердитый),
+      {raktu} (беспокоить), {dicra} (прерывать), {tunta} (колоть), {zunti} (мешать
+      [препятствовать]), {jicla} (перемешивать)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 annoys x2
+    notes:
+    - No notes.
+    glosses:
+    - an annoyer
+    - x2=an annoyed
+  eo:
+    place structure: x1 (okazo) ĝenas/ĉagrenas/agacas x2-on
+    notes:
+    - Vidu ankaŭ {fengu}, {raktu}, {dicra}, {tunta}, {zunti}, {jicla}.
+    glosses:
+    - ĝeni
+  hu:
+    place structure: x1 esemény bosszantja/idegesíti/ingerli/zavarja x2-t
+    notes:
+    - '(Lásd még: {fengu}, {raktu}, {dicra}, {tunta}, {zunti}, {jicla})'
+    glosses:
+    - bosszant
+  ja:
+    place structure: x1 （事）は x2 の気に障る／をいらいらさせる；  x2 は x1 でを苛つく；  x1 は邪魔
+    notes:
+    - ・大意： 気に障る ・読み方： ファンザ  ・語呂合わせ： ＜ファンをざっくり＞ ・関連語： {fengu}, {raktu}, {dicra}, {tunta},
+      {zunti}, {jicla}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 irriterar/stör/förargar/retar/besvärar/distraherar x2.
+    notes:
+    - 'Även: håller på och avbryter.'
+    glosses:
+    - besvära (störa)
+    - irritera (störa)
+    - störa
+  zh:
+    place structure: x1（事件）干扰/打扰/烦扰x2；x1让x2分心
+    notes:
+    - 也指：带来混乱；参见 {fengu}, {raktu}, {dicra}, {tunta}, {zunti}, {jicla}.
+    glosses:
+    - No glosses.

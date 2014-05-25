@@ -1,5 +1,62 @@
-Word: manti
-Rafsi: ''
-Definition: x1 is an ant of species/breed x2.
-Notes: See also {cinki}, {jalra}.
-Examples: None
+word: manti
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an ant of species/breed x2.
+    notes:
+    - See also {cinki}, {jalra}.
+    glosses:
+    - ant
+  de:
+    place structure: x1 ist eine Ameise von Art/Gattung x2
+    notes:
+    - No notes.
+    glosses:
+    - Ameise
+  es:
+    place structure: x1 es una hormiga de especie/raza x2
+    notes:
+    - No notes.
+    glosses:
+    - hormiga
+  ru:
+    place structure: x1 — муравей вида/разновидности x2
+    notes:
+    - '{cinki} (насекомое), {jalra} (таракан)'
+    glosses:
+    - x1=муравей
+    - x2=вид муравья
+  en-simple:
+    place structure: x1 is an ant of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an ant
+    - x2=a species of ant
+  eo:
+    place structure: x1 estas formiko de speco/raso x2
+    notes:
+    - Vidu ankaŭ {cinki}, {jalra}.
+    glosses:
+    - formiko
+  hu:
+    place structure: x1 egy hangya [Formicidae család] az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {cinki}, {jalra})'
+    glosses:
+    - hangya
+  ja:
+    place structure: x1 は x2 （種類）のアリ科
+    notes:
+    - ・大意： 蟻 ・読み方： マンティ  ・語呂合わせ： アント ・関連語： {bifce} (上位概念) < {cinki} (上位概念), {jalra}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蚁，属于种类x2
+    notes:
+    - 参见 {cinki}, {jalra}.
+    glosses:
+    - No glosses.

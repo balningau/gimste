@@ -1,8 +1,72 @@
-Word: mixre
-Rafsi: mix, xre
-Definition: x1 (mass) is a mixture/blend/colloid/commingling with ingredients including
-  x2.
-Notes: $x_2$ mingles/mixes/blends into $x_1$; $x_2$ is in $x_1$, an ingredient/part/component/element
-  of $x_1$ (= {selxre} for reordered places).  See also {salta}, te {runta}, {stasu},
-  {jicla}, {sanso}.
-Examples: None
+word: mixre
+rafsi:
+- mix
+- xre
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (mass) is a mixture/blend/colloid/commingling with ingredients
+      including x2.
+    notes:
+    - x2 mingles/mixes/blends into x1; x2 is in x1, an ingredient/part/component/element
+      of x1 (= {selxre} for reordered places).  See also {salta}, te {runta}, {stasu},
+      {jicla}, {sanso}.
+    glosses:
+    - mixture
+  de:
+    place structure: x1 (Masse) ist ein Gemisch/eine Mixtur/Mischung/Vermengung mit
+      Zutaten unter anderem x2
+    notes:
+    - No notes.
+    glosses:
+    - Gemisch
+  es:
+    place structure: x1 es una mezcla/mixtura/coloide con ingredientes x2
+    notes:
+    - Ver también te {runta}.
+    glosses:
+    - mezcla
+  ru:
+    place structure: x1 (масса) есть смесь/коллоид, включающая ингредиенты x2
+    notes:
+    - 'Смешение x2 дает x1; x2 есть ингредиент/компонент/часть/элемент x1: {selxre}
+      с переставленными местами) {salta} (салат [блюдо]), {te} {runta} (растворяться),
+      {stasu} (суп), {jicla} (перемешивать), {sanso} (соус)'
+    glosses:
+    - смесь
+    - x2=компоненты смеси
+  en-simple:
+    place structure: x1 is a mixture including x2
+    notes:
+    - No notes.
+    glosses:
+    - a mixture
+    - x2=an ingredient of a mixture
+  eo:
+    place structure: x1 (kolektivaĵo) estas miksaĵo/koloido kun ingrediencoj x2
+    notes:
+    - x2 miksiĝas en x1-on; x2 estas en x1, ingredienco/parto/ero/elemento de x1 (=
+      selxre por reordigitaj {lokoj}).  Vidu ankaŭ {salta}, te {runta}, {stasu}, {jicla},
+      {sanso}.
+    glosses:
+    - miksaĵo
+  hu:
+    place structure: x1 egy keveréke/elegye x2 anyagoknak
+    notes:
+    - '(Lásd még: {salta}, {runta}, {stasu}, {jicla}, {sanso})'
+    glosses:
+    - keverék
+  ja:
+    place structure: x1 は x2 （成分）を混ぜ合わせたもの／調合したもの
+    notes:
+    - ・大意： 混合 ・読み方： ミクゥレ  ・語呂合わせ： mix ・関連語： {salta}, {te} {runta}, {stasu}, {jicla},
+      {sanso}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（团体）是混合物，具有组分/成分x2
+    notes:
+    - x2混合成x1；x2在x1中/是x1的配方/组分/成分；参见 {salta}, te {runta}, {stasu}, {jicla}, {sanso}.
+    glosses:
+    - No glosses.

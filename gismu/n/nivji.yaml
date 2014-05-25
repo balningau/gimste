@@ -1,5 +1,63 @@
-Word: nivji
-Rafsi: niv
-Definition: x1 (agent) knits x2 [cloth/object] from yarn/thread x3.
-Notes: See also {cilta}, {fenso}, {jivbu}, {pijne}.
-Examples: None
+word: nivji
+rafsi:
+- niv
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (agent) knits x2 [cloth/object] from yarn/thread x3.
+    notes:
+    - See also {cilta}, {fenso}, {jivbu}, {pijne}.
+    glosses:
+    - knit
+  de:
+    place structure: x1 (Handelnder) strickt x2 [Stoff/Objekt] aus Garn/Faden x3
+    notes:
+    - No notes.
+    glosses:
+    - stricken
+  es:
+    place structure: x1 teje/tricota tela/objeto x2 de hilo/hebra/lana x3
+    notes:
+    - Ver también {jivbu}.
+    glosses:
+    - tejer
+  ru:
+    place structure: x1 вяжет x2 (одежду/предмет) из пряжи/ниток x3
+    notes:
+    - '{cilta} (нить), {fenso} (шить), {jivbu} (ткать), {pijne} (булавка)'
+    glosses:
+    - вязать
+    - x3=пряжа/нитки
+  en-simple:
+    place structure: x1 knits x2 from yarn x3
+    notes:
+    - No notes.
+    glosses:
+    - a knitter
+    - x2=something knitted
+    - x3=a yarn for knitting
+  eo:
+    place structure: x1 (aganto) trikas x2-on [tolo/drapo/objekto] el fadeno x3
+    notes:
+    - Vidu ankaŭ {cilta}, {fenso}, {jivbu}, {pijne}.
+    glosses:
+    - triki
+  hu:
+    place structure: x1 köti/horgolja x2-t x3 fonalból/cérnából
+    notes:
+    - '(Lásd még: {cilta}, {fenso}, {jivbu}, {pijne})'
+    glosses:
+    - köt (ruhát)
+  ja:
+    place structure: x1 （者）は x2 （布／物）を x3 （紡ぎ糸／繊維）で編む
+    notes:
+    - ・大意： 編む ・読み方： ニヴジ ・関連語： {cilta}, {fenso}, {jivbu}, {pijne}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1编织x2（衣/布），使用原料/线/丝x3
+    notes:
+    - 参见 {cilta}, {fenso}, {jivbu}, {pijne}.
+    glosses:
+    - No glosses.

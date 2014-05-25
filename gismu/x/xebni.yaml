@@ -1,7 +1,71 @@
-Word: xebni
-Rafsi: xen, xei
-Definition: x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2;
-  x2 is odious to x1.
-Notes: $x_1$ is hateful (one sense); $x_2$ is hateful (different sense).  See also
-  {djica}, {nitcu}, {rigni}, {prami}, {nelci}.
-Examples: None
+word: xebni
+rafsi:
+- xen
+- xei
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hates/despises x2 (object/abstraction); x1 is full of hate
+      for x2; x2 is odious to x1.
+    notes:
+    - x1 is hateful (one sense); x2 is hateful (different sense).  See also {djica},
+      {nitcu}, {rigni}, {prami}, {nelci}.
+    glosses:
+    - hate
+  de:
+    place structure: x1 hasst/verachtet x2 (Objekt/Abstraktion); x1 ist voll an Hass
+      für x2; x2 ist x1 verhasst
+    notes:
+    - No notes.
+    glosses:
+    - hassen
+  es:
+    place structure: x1 odia/detesta a x2
+    notes:
+    - Ver también {prami},  {nelci}.
+    glosses:
+    - odiar
+  ru:
+    place structure: x1 ненавидит/испытывает отвращение к x2 (объект/абстракция);
+      x2 отвратительно/ненавистно для x1
+    notes:
+    - '{djica} (хотеть), {nitcu} (нуждаться), {rigni} (отвратительный), {prami} (любить
+      [кого-либо]), {nelci} (любить [предпочитать])'
+    glosses:
+    - ненавидеть
+    - x1=ненавидящий
+    - x2=то, что ненавидят
+  en-simple:
+    place structure: x1 hates or despises x2
+    notes:
+    - No notes.
+    glosses:
+    - a hater
+    - x2=something hated
+  eo:
+    place structure: x1 malamas/malestimas x2-on (objekto/abstraktaĵo)
+    notes:
+    - Vidu ankaŭ {djica}, {nitcu}, {rigni}, {prami}, {nelci}.
+    glosses:
+    - malami
+  hu:
+    place structure: x1 gyűlöli/utálja x2-t
+    notes:
+    - '(Lásd még: {djica}, {nitcu}, {rigni}, {prami}, {nelci})'
+    glosses:
+    - gyűlöl
+    - utál
+  ja:
+    place structure: x1 は x2 （物／者／事）を憎む；  x1 は x2 にたいする怨恨を抱いている；  x2 は憎らしい
+    notes:
+    - ・大意： 憎む ・読み方： クェブニ  ・語呂合わせ： 蛇に嫌いと言う ・関連語： {djica}, {nitcu}, {rigni}, {prami},
+      {nelci}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1讨厌/厌恶/憎恨x2（物体/谓词子句）；对x1来说，x2是惹人讨厌的；x1对x2充满恨意
+    notes:
+    - 参见 {djica}, {nitcu}, {rigni}, {prami}, {nelci}.
+    glosses:
+    - No glosses.

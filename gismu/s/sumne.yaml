@@ -1,6 +1,75 @@
-Word: sumne
-Rafsi: ''
-Definition: x1 (experiencer) smells/scents (transitive verb) x2; x2 smells/has odor/scent
-  to observer x1.
-Notes: See also {nazbi}, {panci}, {cpina}, {ganse}, {zgana}.
-Examples: None
+word: sumne
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (experiencer) smells/scents (transitive verb) x2; x2 smells/has
+      odor/scent to observer x1.
+    notes:
+    - See also {nazbi}, {panci}, {cpina}, {ganse}, {zgana}.
+    glosses:
+    - smell
+  jbo:
+    place structure: x1 ganse x2 lo'e nazbi be x1
+    notes:
+    - '{nazbi} {ganse}'
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 (Wahrnehmender) riecht/wittert (transitives Verb) x2; x2 riecht/hat
+      Geruch/Duft für Betrachter x1
+    notes:
+    - No notes.
+    glosses:
+    - riechen
+  es:
+    place structure: x1 huele/olfatea a x2
+    notes:
+    - Ver también {panci}.
+    glosses:
+    - oler
+  ru:
+    place structure: x1 обоняет/чувствует запах (предмета) x2; x2 пахнет/имеет ощутимый
+      запах для наблюдателя x1
+    notes:
+    - '{nazbi} (нос), {panci} (запах), {cpina} (резкий [острый/раздражающий]), {ganse}
+      (чувствовать [ощущать]), {zgana} (наблюдать)'
+    glosses:
+    - обонять
+    - x1=обоняющий
+    - x2=запах
+  en-simple:
+    place structure: x1 smells x2
+    notes:
+    - No notes.
+    glosses:
+    - a smeller
+    - x2=something smelled
+  eo:
+    place structure: x1 (spertanto) flaras (transitiva verbo) x2-on; x2 odoras por
+      observanto x1
+    notes:
+    - Vidu ankaŭ {nazbi}, {panci}, {cpina}, {ganse}, {zgana}.
+    glosses:
+    - flari
+  hu:
+    place structure: x1 megfigyelő (meg)érzi x2 szagát/illatát
+    notes:
+    - '(Lásd még: {nazbi}, {panci}, {cpina}, {ganse}, {zgana})'
+    glosses:
+    - szagol
+  ja:
+    place structure: x1 は x2 を嗅ぐ／匂う
+    notes:
+    - ・大意： 嗅ぐ ・読み方： スムネ  ・語呂合わせ： 嗅ぐっす胸を ・関連語： {nazbi}, {panci}, {cpina}, {ganse},
+      {zgana}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1闻/嗅/依据气味探测x2；x2是有气味的，对于x1来说
+    notes:
+    - 参见 {nazbi}, {panci}, {cpina}, {ganse}, {zgana}.
+    glosses:
+    - No glosses.

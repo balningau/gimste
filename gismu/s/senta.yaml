@@ -1,7 +1,71 @@
-Word: senta
-Rafsi: set
-Definition: x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite
-  x3.
-Notes: See also {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri},
-  {serti}.
-Examples: None
+word: senta
+rafsi:
+- set
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite
+      x3.
+    notes:
+    - See also {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri},
+      {serti}.
+    glosses:
+    - layer
+  de:
+    place structure: x1 ist eine Schicht/Gesteinsschicht [Form] von x2 [Material]
+      innerhalb von Struktur/Kontinuum/Verbund/Gemisch x3
+    notes:
+    - No notes.
+    glosses:
+    - Schicht
+  es:
+    place structure: x1 es una capa/estrato (forma) de material x2 en estructura/compuesto
+      x3
+    notes:
+    - Ver también {snuji},  {jbini},  {bitmu},  {sruri}.
+    glosses:
+    - estrato
+  ru:
+    place structure: x1 — слой/пласт (форма) материала x2 в структуре/континууме x3
+    notes:
+    - '{flecu} (поток), {nenri} (внутри), {rirxe} (река), {sepli} (отделенный), {snuji}
+      (прослойка), {jbini} (между), {bitmu} (стена), {sruri} (оркужать), {serti} (лестница)'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a layer of x2 within structure x3
+    notes:
+    - No notes.
+    glosses:
+    - a layer
+    - x2=something layered
+    - x3=a layered structure
+  eo:
+    place structure: x1 estas tavolo [formo] de x2 [materialo] en strukturo/kontinuo
+      x3
+    notes:
+    - Vidu ankaŭ {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri},
+      {serti}.
+    glosses:
+    - tavolo
+  hu:
+    place structure: x1 egy réteg x2 anyagból x3 szerkezetben
+    notes:
+    - '(Lásd még: {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri},
+      {serti})'
+    glosses:
+    - réteg
+  ja:
+    place structure: x1 は x2 （素材）・ x3 （構造）の層／レイヤー
+    notes:
+    - ・大意： 層 ・読み方： センタ  ・語呂合わせ： 層はセンター ・関連語： {flecu}, {nenri}, {rirxe}, {sepli}, {snuji},
+      {jbini}, {bitmu}, {sruri}, {serti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是由材料x2构成的一层（形状/构造），在结构/连续体/组成物x3中
+    notes:
+    - 参见 {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri}, {serti}.
+    glosses:
+    - No glosses.

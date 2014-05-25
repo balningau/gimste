@@ -1,5 +1,71 @@
-Word: gento
-Rafsi: get, ge'o
-Definition: x1 reflects Argentinian culture/nationality in aspect x2.
-Notes: See also {xispo}, {ketco}, {spano}.
-Examples: None
+word: gento
+rafsi:
+- get
+- ge'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Argentinian culture/nationality in aspect x2.
+    notes:
+    - See also {xispo}, {ketco}, {spano}.
+    glosses:
+    - Argentinian
+  de:
+    place structure: x1 repräsentiert argentinische Kultur/Nationalität in Aspekt
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Argentinier
+  es:
+    place structure: x1 refleja cultura/nacionalidad/idioma argentino en aspecto x2
+    notes:
+    - No notes.
+    glosses:
+    - argentino
+  ru:
+    place structure: x1 — аргентинский в аспекте x2
+    notes:
+    - '{xispo} (латиноамериканский), {ketco} (южноамериканский), {spano} (испанский)'
+    glosses:
+    - аргентинский
+  en-simple:
+    place structure: x1 is Argentinian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - something Argentinian
+    - x2=an Argentinian aspect
+  eo:
+    place structure: x1 montras argentinan kulturon/naciecon laŭ aspekto x2
+    notes:
+    - Vidu ankaŭ {xispo}, {ketco}, {spano}.
+    glosses:
+    - argentina
+  hu:
+    place structure: x1 argentin kultúrát/nemzetiséget tükröz x2 tekintetben
+    notes:
+    - '(Lásd még: {xispo}, {ketco}, {spano})'
+    glosses:
+    - argentin
+  ja:
+    place structure: x1 は x2 （性質面）に関してアルゼンチン系（言語／文化／民族／地理）
+    notes:
+    - ・大意： アルゼンチン ・読み方： ゲント  ・関連語： {xispo}, {ketco}, {spano}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 reflekterar argentinsk kultur/nationalitet/geografi i aspekt
+      x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=argentinsk
+    - x2=argentinsk aspekt
+  zh:
+    place structure: x1是关于阿根廷的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {xispo}, {ketco}, {spano}.
+    glosses:
+    - No glosses.

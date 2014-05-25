@@ -1,5 +1,67 @@
-Word: tadni
-Rafsi: tad
-Definition: x1 studies/is a student of x2; x1 is a scholar; (adjective:) x1 is scholarly.
-Notes: See also {ckule}, {cilre}, {ctuca}.
-Examples: None
+word: tadni
+rafsi:
+- tad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 studies/is a student of x2; x1 is a scholar; (adjective:)
+      x1 is scholarly.
+    notes:
+    - See also {ckule}, {cilre}, {ctuca}.
+    glosses:
+    - study
+  de:
+    place structure: x1 studiert/ist ein Student von x2; x1 ist ein Lernender/Schüler;
+      (Adjektiv:) x1 ist wissenschaftlich
+    notes:
+    - No notes.
+    glosses:
+    - studieren
+  es:
+    place structure: x1 estudia/es estudiante de x2
+    notes:
+    - Ver también {cilre},  {ctuca}.
+    glosses:
+    - estudiar
+  ru:
+    place structure: x1 изучает/штудирует/исследует x2; x1 — ученый/исследователь
+    notes:
+    - '{ckule} (школа), {cilre} (узнавать), {ctuca} (преподавать)'
+    glosses:
+    - изучать
+    - x1=изучающий
+    - x2=изучаемое
+  en-simple:
+    place structure: x1 is a student of x2
+    notes:
+    - No notes.
+    glosses:
+    - a studier
+    - x2=something studied
+  eo:
+    place structure: x1 studas x2-on; x1 estas studento/lernanto/klerulo; (adjektivo:)
+      x1 estas klerula
+    notes:
+    - Vidu ankaŭ {ckule}, {cilre}, {ctuca}.
+    glosses:
+    - studi
+  hu:
+    place structure: x1 egy diák/tanuló, x2 tantárgyakat illetőleg
+    notes:
+    - '(Lásd még: {ckule}, {cilre}, {ctuca})'
+    glosses:
+    - tanuló
+  ja:
+    place structure: x1 は x2 を学ぶ／研究する；  x1 は学生／研究家／学者
+    notes:
+    - 「cilre」と違い、より学術的／体系的／先鋭的な知識の追究を表し、それによる新たな発見が可能性として含意される。 ・大意： 学ぶ ・読み方： タドニ  ・関連語：
+      {ckule}, {cilre}, {ctuca}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1学习x2/是x2的学生；x1是学生/关于学者的
+    notes:
+    - 参见 {ckule}, {cilre}, {ctuca}.
+    glosses:
+    - No glosses.

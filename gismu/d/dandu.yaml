@@ -1,6 +1,77 @@
-Word: dandu
-Rafsi: dad
-Definition: x1 hangs/dangles/is suspended from x2 by/at/with joint x3.
-Notes: Pendant (= {dadja'i}); also dependent (original meaning). See also {lasna},
-  {jorne}.
-Examples: None
+word: dandu
+rafsi:
+- dad
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 hangs/dangles/is suspended from x2 by/at/with joint x3.
+    notes:
+    - Pendant (= {dadja'i}); also dependent (original meaning). See also {lasna},
+      {jorne}.
+    glosses:
+    - hang
+  de:
+    place structure: x1 hängt/baumelt von/ist aufgehängt an x2 mit/an Gelenk/Verbindung
+      x3
+    notes:
+    - No notes.
+    glosses:
+    - hängen
+  es:
+    place structure: x1 cuelga/pende/está suspendido de x2 por parte x3
+    notes:
+    - No notes.
+    glosses:
+    - colgar
+  ru:
+    place structure: x1 подвешен к x2 за x3; x1 свисает с x2; x1 висит
+    notes:
+    - 'Подвеска/брелок/кулон: {dadja''i} {lasna} (прикреплять), {jorne} (соединенный)'
+    glosses:
+    - подвешенный
+  en-simple:
+    place structure: x1 is suspended or hangs from x2 at joint x3
+    notes:
+    - No notes.
+    glosses:
+    - something suspended
+    - x2=a suspension support
+    - x3=a method of suspension
+  eo:
+    place structure: x1 pendas de x2 per/ĉe/kun artiko x3
+    notes:
+    - Breloko (= {dadja'i}); ankaŭ dependa (originala signifo). Vidu ankaŭ {lasna},
+      {jorne}.
+    glosses:
+    - pendi
+  hu:
+    place structure: x1 lóg/függ x2-ről, x3 által
+    notes:
+    - 'Továbbá: x1 függ x2-től (Lásd még: {lasna}, {jorne})'
+    glosses:
+    - lóg
+  ja:
+    place structure: x1 は x2 （対象本体）・ x3 （対象箇所）に掛かる／ぶらさがる
+    notes:
+    - ・大意： 掛かる ・読み方： ダンドゥ  ・語呂合わせ： diau（吊）, pender ・関連語： {lasna}, {jorne}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 hänger/dinglar/är upphängd i/från x2 med fog/led x3.
+    notes:
+    - x1 är ett hänge [något som hänger] (eng pendant; vilket kan betyda exv hängsmycke,
+      örhänge, ljuskrona mm). Även avhängig (ursprunglig betydelse).
+    glosses:
+    - dingla
+    - hänga
+    - upphängd
+    - x1=hänge (något som hänger)
+    - x2=hänger från
+    - x3=upphängningsled (fog/led)
+  zh:
+    place structure: x1是悬挂的/悬吊/挂起的，从x2上，悬挂的联接结构是x3
+    notes:
+    - 也指依赖于/取决于（原本的意思）；坠饰= {dadja'i}；参见 {lasna}, {jorne}.
+    glosses:
+    - No glosses.

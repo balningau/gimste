@@ -1,5 +1,61 @@
-Word: sudga
-Rafsi: sud
-Definition: x1 is dry of liquid x2; (adjective:) x1 is arid.
-Notes: See also {cilmo}, {litki}, {runta}.
-Examples: None
+word: sudga
+rafsi:
+- sud
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is dry of liquid x2; (adjective:) x1 is arid.
+    notes:
+    - See also {cilmo}, {litki}, {runta}.
+    glosses:
+    - dry
+  de:
+    place structure: x1 ist trocken an Flüssigkeit x2; (Adjektiv:) x1 ist arid
+    notes:
+    - No notes.
+    glosses:
+    - trocken
+  es:
+    place structure: x1 esta seco de líquido x2
+    notes:
+    - Ver también {cilmo}.
+    glosses:
+    - seco
+  ru:
+    place structure: x1 — сухой, лишенный жидкости x2
+    notes:
+    - '{cilmo} (мокрый), {litki} (жидкость), {runta} (растворяться)'
+    glosses:
+    - x1=сухой
+  en-simple:
+    place structure: x1 is dry of liquid x2
+    notes:
+    - No notes.
+    glosses:
+    - something dry
+    - x2=a liquid something is dry of
+  eo:
+    place structure: x1 estas seka de likvaĵo x2; (adjektivo:) x1 estas senakva
+    notes:
+    - Vidu ankaŭ {cilmo}, {litki}, {runta}.
+    glosses:
+    - seka
+  hu:
+    place structure: x1 száraz / x2 folyadéktól mentes
+    notes:
+    - '(Lásd még: {cilmo}, {litki}, {runta})'
+    glosses:
+    - száraz
+  ja:
+    place structure: x1 は x2 （液体）を欠いて乾燥している／乾いている
+    notes:
+    - ・大意： 乾燥 ・読み方： スドガ  ・関連語： {cilmo}, {litki}, {runta}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是干燥的，不含有液体x2
+    notes:
+    - 参见 {cilmo}, {litki}, {runta}.
+    glosses:
+    - No glosses.

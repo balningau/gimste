@@ -1,8 +1,75 @@
-Word: tcini
-Rafsi: ''
-Definition: x1 [state/property] is a situation/condition/state/position/are conditions/circumstances
-  of x2.
-Notes: Characteristics or environment of an object/event/process stage or state that
-  are typically/potentially only temporary.  See also {stuzi}, {zvati}, {vanbi}, ve
-  {pruce}, {ckaji}, {zasni}.
-Examples: None
+word: tcini
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 [state/property] is a situation/condition/state/position/are
+      conditions/circumstances of x2.
+    notes:
+    - Characteristics or environment of an object/event/process stage or state that
+      are typically/potentially only temporary.  See also {stuzi}, {zvati}, {vanbi},
+      ve {pruce}, {ckaji}, {zasni}.
+    glosses:
+    - condition (particular state of being)
+    - situation
+  de:
+    place structure: x1 [Zustand/Eigenschaft] ist eine Situation/Lage/ein Zustand/sind
+      die Umstände/Bedingungen von x2
+    notes:
+    - No notes.
+    glosses:
+    - Situation
+  es:
+    place structure: x1 (estado) es un estado/situación/condición de x2
+    notes:
+    - Ver también {stuzi},  {zvati}.
+    glosses:
+    - situación
+  ru:
+    place structure: x1 — состояние/положение/ситуация/обстоятельства x2 (чего)
+    notes:
+    - Характеристики или окружение объекта/события/процесса, которые в типичном/потенциальном
+      случае носят только временный характер {stuzi} (место [постоянное]), {zvati}
+      (находиться), {vanbi} (окружающий), {ve} {pruce} (процесс), {ckaji} (характеризоваться),
+      {zasni} (временный)
+    glosses:
+    - состояние (ситуация)
+  en-simple:
+    place structure: x1 is a situation of x2
+    notes:
+    - No notes.
+    glosses:
+    - a situation
+    - x2=something with a situation
+  eo:
+    place structure: x1 [stato/eco] estas stato/situacio/kondiĉo/konjunkturo/pozicio/cirkonstanco
+      de x2
+    notes:
+    - Karakterizaj ecoj aŭ ĉirkaŭaĵo de objekto/okazo/procedo etapo aŭ stato kiuj
+      estas tipe/potenciale nur portempaj.  Vidu ankaŭ {stuzi}, {zvati}, {vanbi},
+      ve {pruce}, {ckaji}, {zasni}.
+    glosses:
+    - stato
+  hu:
+    place structure: x1 állapot/tulajdonság a helyzete/körülményei/környezete/állapota/helyzete
+      x2-nek [lehetségesen ideiglenesen]
+    notes:
+    - '(Lásd még: {stuzi}, {zvati}, {vanbi}, {pruce}, {ckaji}, {zasni})'
+    glosses:
+    - helyzet
+  ja:
+    place structure: x1 （状態／性質）は x2 の状況／境遇／事情
+    notes:
+    - ［物・事・過程の一時的な環境。］ ・大意： 状況 ・読み方： チニ  ・語呂合わせ： 地に状況 ・関連語： {stuzi}, {zvati}, {vanbi},
+      {ve} {pruce}, {ckaji}, {zasni}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1（状态/性质）是x2所处的环境/条件/情形
+    notes:
+    - 指物体/事件/进程阶段/状态所处的环境或情形，可能只是暂时的；参见 {stuzi}, {zvati}, {vanbi}, ve {pruce}, {ckaji},
+      {zasni}.
+    glosses:
+    - No glosses.

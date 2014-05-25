@@ -1,6 +1,67 @@
-Word: snipa
-Rafsi: nip
-Definition: x1 adheres/sticks to x2; (adjective:) x1 is sticky/gummy/adhesive.
-Notes: Note that $x_1$ is the adhering surface being claimed; $x_2$ need not be sticky.  See
-  also {tarla}, {viknu}.
-Examples: None
+word: snipa
+rafsi:
+- nip
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 adheres/sticks to x2; (adjective:) x1 is sticky/gummy/adhesive.
+    notes:
+    - Note that x1 is the adhering surface being claimed; x2 need not be sticky.  See
+      also {tarla}, {viknu}.
+    glosses:
+    - adhere
+    - stick (adhere)
+    - sticky
+  de:
+    place structure: x1 haftet/klebt an x2; (Adjektiv:) x1 ist klebrig/klebend
+    notes:
+    - No notes.
+    glosses:
+    - klebend
+  es:
+    place structure: x1 es pegajoso/pegadizo/se adhiere/pega a x2
+    notes:
+    - No notes.
+    glosses:
+    - adherirse
+  ru:
+    place structure: x1 липнет/прилипает/пристает к x2; x1 — липкий, клейкий
+    notes:
+    - Липкой поверхностью является x1 — x2 не обязан быть липким {tarla} (смола),
+      {viknu} (вязкий)
+    glosses:
+    - прилипать
+    - x1=прилипающий
+  en-simple:
+    place structure: x1 sticks or adheres to x2
+    notes:
+    - No notes.
+    glosses:
+    - something sticky
+    - x2=something stuck to
+  eo:
+    place structure: x1 algluiĝas/alfiksiĝas al x2; (adjektivo:) x1 estas alglua/guma
+    notes:
+    - Rimarku ke x1 estas la algluiĝa surfaco; x2 ne nepre estas glua.  Vidu ankaŭ
+      {tarla}, {viknu}.
+    glosses:
+    - algluiĝi
+  hu:
+    place structure: x1 (hozzá)ragad x2-hez
+    notes:
+    - 'Ragasztóanyagot feltételez (Lásd még: {tarla}, {viknu})'
+    glosses:
+    - ragad
+  ja:
+    place structure: x1 は x2 にくっ付く／貼り付いている；  x1 は粘着性がある
+    notes:
+    - x1は特に表面。 ・大意： 粘着 ・読み方： スニパ  ・関連語： {tarla}, {viknu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1坚持x2,；x1是粘性的/粘着的
+    notes:
+    - x1是表面粘性的，x2不必要具有粘性；参见 {tarla}, {viknu}.
+    glosses:
+    - No glosses.

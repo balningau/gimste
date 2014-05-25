@@ -1,6 +1,90 @@
-Word: bilga
-Rafsi: big
-Definition: x1 is bound/obliged to/has the duty to do/be x2 in/by standard/agreement
-  x3; x1 must do x2.
-Notes: Also $x_3$ frame of reference.  See also {zifre}, {fuzme}.
-Examples: None
+word: bilga
+rafsi:
+- big
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is bound/obliged to/has the duty to do/be x2 in/by standard/agreement
+      x3; x1 must do x2.
+    notes:
+    - Also x3 frame of reference.  See also {zifre}, {fuzme}.
+    glosses:
+    - obliged
+  de:
+    place structure: x1 ist verpflichtet/hat die Pflicht, x2 zu tun/zu sein gemäß
+      Standard/Abmachung x3; x1 muss x2 tun
+    notes:
+    - No notes.
+    glosses:
+    - verpflichtet
+  es:
+    place structure: x1 está obligado a/debe/tiene que ser/hacer x2 (evento) según
+      estándar/acuerdo/marco x3
+    notes:
+    - Ver también {zifre}.
+    glosses:
+    - obligado
+  ru:
+    place structure: x1 должен/обязан быть/делать x2 в соответствии с соглашением/договором/стандартом
+      x3
+    notes:
+    - '{zifre} (свободный), {fuzme} (отвечать [быть ответственным])'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is obligated to do x2 by agreement x3
+    notes:
+    - No notes.
+    glosses:
+    - something obligated
+    - x2=an obligation
+    - x3=an obligation agreement
+  eo:
+    place structure: x1 devas esti/fari x2-on laŭ normo/akordo x3
+    notes:
+    - 'Ankaŭ: x3 referenckadro.  Vidu ankaŭ {zifre}, {fuzme}.'
+    glosses:
+    - devi
+  hu:
+    place structure: x1 köteles/kénytelen x2 lenni / megtenni x2-t x3 törvény/megállapodás
+      szerint
+    notes:
+    - '(Lásd még: {zifre}, {fuzme})'
+    glosses:
+    - köteles
+  ja:
+    place structure: x1 は x2 （行為）を x3 （協定／契約／常識）のために遂行する義務を負っている；  x1 は x2 をしなければならない
+    notes:
+    - ・大意： 義務 ・読み方： ビルゥガ  ・語呂合わせ： ＜ビルで外交＞, 　oblige, obligado  ・関連語： {zifre}, {fuzme}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er bundet til/plikter å/må gjøre/være x2 ved/etter standard/avtale
+      x3; x1 må gjøre x2
+    notes:
+    - x3 er også referansepunkt. Se óg {zifre}, {fuzme}, {flalu}, {javni}, {ei}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är förbunden/förpliktigad/obligerad/nödgad/har plikten/förpliktelsen/skyldigheten
+      att göra/vara x2 enligt standard/överenskommelse x3. x1 måste göra x2.
+    notes:
+    - Även x3 referensram. Se även {zifre}, {fuzme}, {flalu}, {javni}, {ei}.
+    glosses:
+    - förbunden (förpliktigad)
+    - förpliktelse
+    - måste
+    - nödgad
+    - obligerad
+    - skyldighet
+    - tvungen
+    - x1=förpliktigad
+    - x2=plikt (förpliktelse)
+    - x3=förpliktelse standard
+  zh:
+    place structure: x1有义务/责任做/成为x2，基于标准/协议x3；x1必须做x2
+    notes:
+    - 参见 {zifre},{fuzme}
+    glosses:
+    - No glosses.

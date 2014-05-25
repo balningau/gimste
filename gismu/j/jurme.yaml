@@ -1,6 +1,71 @@
-Word: jurme
-Rafsi: jum
-Definition: x1 is a bacterium/germ/microbe/protozoan/amoeba [1-celled life] of species/defining
-  property x2.
-Notes: See also {vidru}.
-Examples: None
+word: jurme
+rafsi:
+- jum
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bacterium/germ/microbe/protozoan/amoeba [1-celled life]
+      of species/defining property x2.
+    notes:
+    - See also {vidru}.
+    glosses:
+    - bacteria
+    - bacterium
+    - germ
+    - microbe
+    - microorganism
+  de:
+    place structure: x1 ist ein Bakterie/Keim/Mikrobe/Einzeller/Amöbe von Spezies/mit
+      bestimmender Eigenschaft x2
+    notes:
+    - No notes.
+    glosses:
+    - Keim
+  es:
+    place structure: x1 es una bacteria/germen/microbio/protozoo/ameba/organismo unicelular
+      de especie/variedad x2
+    notes:
+    - No notes.
+    glosses:
+    - germen
+  ru:
+    place structure: x1 — бактерия/микроб/амеба/одноклеточный организм вида/разновидности/{определяемый
+      свойством} x2
+    notes:
+    - '{vidru} (вирус)'
+    glosses:
+    - x1=одноклеточный организм
+    - x2=вид одноклеточного организма
+  en-simple:
+    place structure: x1 is a bacteria or germ of species x2
+    notes:
+    - No notes.
+    glosses:
+    - a bacteria
+    - x2=a species of bacteria
+  eo:
+    place structure: x1 estas ĝermo/bakterio/mikrobo/protozoo/amebo [1-ĉela vivaĵo]
+      de speco/difina eco x2
+    notes:
+    - Vidu ankaŭ {vidru}.
+    glosses:
+    - ĝermo
+  hu:
+    place structure: x1 egy egysejtű az x2 fajból / x2 meghatározó tulajdonságokkal
+    notes:
+    - '(Lásd még: {vidru})'
+    glosses:
+    - egysejtű
+  ja:
+    place structure: x1 は x2 （種類）の細菌／ばい菌／バクテリア／微生物／原生動物／アメーバ
+    notes:
+    - ・大意： 細菌 ・読み方： ジュルメ  ・語呂合わせ： じゅるじゅるアメーバ ・関連語： {vidru} (下位概念)
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是单细胞生物（细菌/原生生物等），属于种类/具有定义属性x2
+    notes:
+    - 参见 {vidru}.
+    glosses:
+    - No glosses.

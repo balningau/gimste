@@ -1,5 +1,64 @@
-Word: panlo
-Rafsi: pa'o
-Definition: x1 is a slice [thin flat portion] of x2 (mass).
-Notes: See also {spisa}, {pagbu}, {nanba}.
-Examples: None
+word: panlo
+rafsi:
+- pa'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a slice [thin flat portion] of x2 (mass).
+    notes:
+    - See also {spisa}, {pagbu}, {nanba}.
+    glosses:
+    - slice
+  de:
+    place structure: x1 ist eine Scheibe [dünne flache Portion] von x2 (Masse)
+    notes:
+    - No notes.
+    glosses:
+    - Scheibe
+  es:
+    place structure: x1 es una rebanada de x2
+    notes:
+    - No notes.
+    glosses:
+    - rebanada
+  ru:
+    place structure: 'x1 — ломоть/ломтик/стружка (тонкая плоская порция) x2 (чего:
+      масса)'
+    notes:
+    - См. также {pagbu} (часть), {spisa} (кусок), {nanba} (хлеб)
+    glosses:
+    - ломоть
+    - стружка
+    - x1=ломтик
+  en-simple:
+    place structure: x1 is a slice of x2
+    notes:
+    - No notes.
+    glosses:
+    - a slice
+    - x2=something sliced
+  eo:
+    place structure: x1 estas tranĉaĵo [maldika plata porcio] de x2 (kolektivaĵo)
+    notes:
+    - Vidu ankaŭ {nanba}.
+    glosses:
+    - tranĉaĵo
+  hu:
+    place structure: x1 egy szelete [vékony, lapos darabja] x2-nek
+    notes:
+    - '(Lásd még: {nanba})'
+    glosses:
+    - szelet
+  ja:
+    place structure: x1 は x2 （塊）のスライス／薄切り
+    notes:
+    - ・大意： スライス ・読み方： パンルォ  ・関連語： {nanba}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是一薄片x2（团体）
+    notes:
+    - 参见 {spisa}, {pagbu}, {nanba}.
+    glosses:
+    - No glosses.

@@ -1,5 +1,71 @@
-Word: febvi
-Rafsi: feb
-Definition: x1 boils/evaporates at temperature x2 and pressure x3.
-Notes: Roil (= {febjicla}).  See also {dunja}, {lunsa}, {runme}.
-Examples: None
+word: febvi
+rafsi:
+- feb
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 boils/evaporates at temperature x2 and pressure x3.
+    notes:
+    - Roil (= {febjicla}).  See also {dunja}, {lunsa}, {runme}.
+    glosses:
+    - boil
+  de:
+    place structure: x1 kocht/siedet/verdampft bei Temperatur x2 und Druck x3
+    notes:
+    - No notes.
+    glosses:
+    - sieden
+  es:
+    place structure: x1 hierve/ebulle/se evapora a temperatura x2, presión x3
+    notes:
+    - Ver también {lunsa},  {dunja},  {runme}.
+    glosses:
+    - hervir
+  ru:
+    place structure: x1 испаряется/кипит при температуре x2 и давлении x3
+    notes:
+    - 'Бурно кипит: {febjicla} {dunja} (замерзать [затвердевать]), {lunsa} (конденсироваться),
+      {runme} (плавиться)'
+    glosses:
+    - кипеть
+    - x1=кипящий
+  en-simple:
+    place structure: x1 boils at temperature x2 and pressure x3
+    notes:
+    - No notes.
+    glosses:
+    - something boiling
+    - x2=a boiling temperature
+    - x3=a boiling pressure
+  eo:
+    place structure: x1 bolas/vaporiĝas je temperaturo x2 kaj premo x3
+    notes:
+    - Vidu ankaŭ {dunja}, {lunsa}, {runme}.
+    glosses:
+    - boli
+  hu:
+    place structure: x1 felforr/elpárolog x2 hőmérsékleten, x3 nyomáson
+    notes:
+    - '(Lásd még: {dunja}, {lunsa}, {runme})'
+    glosses:
+    - forr
+  ja:
+    place structure: x1 は x2 （温度）・ x3 （圧力）において沸騰／蒸発する
+    notes:
+    - ・大意： 沸騰 ・読み方： フェブヴィ  ・関連語： {dunja}, {lunsa}, {runme}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 kokar vid temperatur x2 och tryck x3.
+    notes:
+    - No notes.
+    glosses:
+    - koka (värmeprocess)
+    - x1=kokt
+  zh:
+    place structure: x1沸腾/达到沸点，在温度x2，压强x3下
+    notes:
+    - 沸腾（液体翻滚）= {febjicla}；参见 {dunja}, {lunsa}, {runme}.
+    glosses:
+    - No glosses.

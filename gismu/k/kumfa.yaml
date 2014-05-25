@@ -1,6 +1,71 @@
-Word: kumfa
-Rafsi: kum, ku'a
-Definition: x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor
-  x3 (mass/jo'u).
-Notes: Also chamber.  See also {bitmu}, {canlu}, {zdani}.
-Examples: None
+word: kumfa
+rafsi:
+- kum
+- ku'a
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor
+      x3 (mass/jo'u).
+    notes:
+    - Also chamber.  See also {bitmu}, {canlu}, {zdani}.
+    glosses:
+    - room
+  de:
+    place structure: x1 ist ein Raum/ein Zimmer der Struktur x2 umgeben von Wänden/Decke/Boden
+      x3 (Masse/jo'u).
+    notes:
+    - Auch Kammer.  Siehe auch {bitmu}, {canlu}, {zdani}.
+    glosses:
+    - ''
+    - Raum (Zimmer)
+    - Zimmer
+  es:
+    place structure: x1 es un cuarto/recámara/habitación en estructura x2 rodeado
+      de particiones/paredes/techo/piso x3
+    notes:
+    - No notes.
+    glosses:
+    - cuarto
+  ru:
+    place structure: x1 — комната/помещение/зал/{камера} в сооружениии x2, окруженная
+      перегородками/стенами/потолком/полом x3 (масса/{jo'u})
+    notes:
+    - '{bitmu} (стена), {canlu} (объем), {zdani} (дом)'
+    glosses:
+    - комната
+    - x3=стены, пол и потолок комнаты
+  en-simple:
+    place structure: x1 is a room in x2 surrounded by x3
+    notes:
+    - No notes.
+    glosses:
+    - a room
+    - x2=something with a room
+    - x3=a room partition
+  eo:
+    place structure: x1 estas ĉambro de/en strukturo x2 ĉirkaŭita de vandoj/muroj/plafono/planko
+      x3 (mass/jo'u)
+    notes:
+    - 'Ankaŭ: kamero.  Vidu ankaŭ {bitmu}, {canlu}, {zdani}.'
+    glosses:
+    - ĉambro
+  hu:
+    place structure: x1 egy kamra/szoba/terem/csarnok x2 építményben, x3 falakkal/padlóval/mennyezettel
+    notes:
+    - '(Lásd még: {bitmu}, {canlu}, {zdani})'
+    glosses:
+    - szoba
+  ja:
+    place structure: x1 は x2 （構造）内の x3 （壁／天井／床）で仕切られた部屋／室
+    notes:
+    - ・大意： 部屋 ・読み方： クムファ  ・関連語： {bitmu}, {canlu}, {zdani}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是建筑物/结构x2里的房间/一份空间，由墙体/隔离物x3（团体/jo'u）围成
+    notes:
+    - 也指：室；参见 {bitmu}, {canlu}, {zdani}.
+    glosses:
+    - No glosses.

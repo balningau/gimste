@@ -1,6 +1,74 @@
-Word: milxe
-Rafsi: mli
-Definition: x1 is mild/non-extreme/gentle/middling/somewhat in property x2 (ka); x1
-  is not very x2.
-Notes: See also {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}.
-Examples: None
+word: milxe
+rafsi:
+- mli
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is mild/non-extreme/gentle/middling/somewhat in property x2
+      (ka); x1 is not very x2.
+    notes:
+    - See also {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}.
+    glosses:
+    - mild
+  de:
+    place structure: x1 ist milde/sanft/mittelmäßig in Eigenschaft x2 (ka); x1 ist
+      nicht sehr x2/einigermaßen x2
+    notes:
+    - No notes.
+    glosses:
+    - mild
+  es:
+    place structure: x1 es mediano/tibio en propiedad x2
+    notes:
+    - Ver también {mutce},  {traji}.
+    glosses:
+    - mediano
+  ru:
+    place structure: x1 проявляет умеренную/не крайнюю/среднюю степень выраженности/интенсивности
+      свойства x2 ({ka})
+    notes:
+    - '{mutce} (очень), {traji} (самый), {kandi} (тусклый), {ruble} (слабый), {midju}
+      (середина), {nutli} (нейтральный), {ralci} (хрупкий), {traji} (самый)'
+    glosses:
+    - x1=умеренный
+  en-simple:
+    place structure: x1 is mild in property x2
+    notes:
+    - No notes.
+    glosses:
+    - something mild
+    - x2=a mild property
+  eo:
+    place structure: x1 estas milda/neekstrema/meza/ioma en eco x2 (ka); x1 estas
+      ne tre x2
+    notes:
+    - Vidu ankaŭ {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}, {traji}.
+    glosses:
+    - milda
+  hu:
+    place structure: x1-ra kissé/nem nagyon igaz x2 tulajdonság
+    notes:
+    - '(Lásd még: {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}, {traji})'
+    glosses:
+    - kissé
+  ja:
+    place structure: x1 は x2 （性質）の点で温和／穏やか／まろやか／マイルド；  x1 はあまり x2 ではない
+    notes:
+    - ・大意： 温和 ・読み方： ミルゥクェ ・語呂合わせ： まろやかミルクェ ・関連語： {mutce}, {traji}, {kandi}, {ruble},
+      {midju}, {nutli}, {ralci}, {traji}
+    - ''
+    glosses:
+    - No glosses.
+  pl:
+    place structure: x1 jest umiarkowane w cechach/wymiarach x2 (ka).
+    notes:
+    - Cf. {rai}, {jimte}, {traji}, {mutce}, {zmadu}, {mleca}.
+    glosses:
+    - umiarkowane
+    - łagodne
+  zh:
+    place structure: x1是温和的/中等的/不极端的，在性质x2（ka）上；x1并不很x2
+    notes:
+    - 参见 {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}.
+    glosses:
+    - No glosses.

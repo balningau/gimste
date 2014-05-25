@@ -1,8 +1,76 @@
-Word: lenjo
-Rafsi: len, le'o
-Definition: x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci x3
-  by means/material x4.
-Notes: (adjective:) $x_1$ is optical; focussing may be optical or otherwise, hence
-  $x_2$ which may be light, sound, X-ray, etc., default is light/optical lens; ka
-  is refraction. See also {kacma}, {minra}.
-Examples: None
+word: lenjo
+rafsi:
+- len
+- le'o
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci
+      x3 by means/material x4.
+    notes:
+    - (adjective:) x1 is optical; focussing may be optical or otherwise, hence x2
+      which may be light, sound, X-ray, etc., default is light/optical lens; ka is
+      refraction. See also {kacma}, {minra}.
+    glosses:
+    - lens
+  de:
+    place structure: x1 ist eine Linse/Glas [fokussierende Form] und richtet x2 auf
+      Fokus x3 mit Mittel/Material x4
+    notes:
+    - No notes.
+    glosses:
+    - Linse
+  es:
+    place structure: x1 es una lente (forma) de material x2 con foco x3
+    notes:
+    - No notes.
+    glosses:
+    - lente
+  ru:
+    place structure: x1 — линза, фокусирующая x2 в фокус x3 посредством/из материала
+      x4
+    notes:
+    - 'Также: объектив, окуляр, очки; прилагательное: x1 — оптический; x2 м.б. свет,
+      звук, рентгеновские лучи и т.д., по умолчанию свет; преломление/рефракция (={ka}
+      [lenjo]) {kacma} (фотокамера), {minra} (отражать)'
+    glosses:
+    - линза
+    - x2=фокусируемое
+    - x3=фокус (линзы)
+  en-simple:
+    place structure: x1 is a lens focusing x2 to focus x3 by means x4
+    notes:
+    - No notes.
+    glosses:
+    - a lens
+    - x2=something focused by a lens
+    - x3=a focus of a lens
+    - x4=a material of a lens
+  eo:
+    place structure: x1 estas lenso [fokusanta formo] fokusanta x2-on al fokuso x3
+      per rimedo/materialo x4
+    notes:
+    - (adjektivo:) x1 estas optika; focusigo povas esti optika aŭ alia, do x2 povas
+      esti lumo, sono, X-radio, ktp., defaŭlte lumo/optika lenso; ka estas refrakto.
+      Vidu ankaŭ {kacma}, {minra}.
+    glosses:
+    - lenso
+  hu:
+    place structure: x1 egy lencse, ami x2-t [alapesetben fény] fókuszálja x3 gyújtópontba
+      x4 módon/anyagból
+    notes:
+    - 'ka absztrakció: fénytörés (Lásd még: {kacma}, {minra})'
+    glosses:
+    - lencse
+  ja:
+    place structure: x1はx2の焦点を対象x3に合わせる、手段/材料がx4のレンズ/ガラス[焦点を合わせる機能をもった形/物]である
+    notes:
+    - '参照: {kacma}, {minra}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是透镜，能将x2聚焦到焦点x3，通过方式/材料x4
+    notes:
+    - x1是光学的；聚焦可能是光学的，也可能是其它： x2可能是光，声音，伦琴射线等等；默认为具有折射光性质的光学透镜；参见 {kacma}, {minra}.
+    glosses:
+    - No glosses.

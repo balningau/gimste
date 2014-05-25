@@ -1,7 +1,87 @@
-Word: canci
-Rafsi: ''
-Definition: x1 vanishes/disappears from location x2; x1 ceases to be observed at x2
-  using senses/sensor x3.
-Notes: Also leaves, goes away (one sense).  See also {cliva}, {ganse}, {zgana}, {lebna},
-  {vimcu}.
-Examples: None
+word: canci
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 vanishes/disappears from location x2; x1 ceases to be observed
+      at x2 using senses/sensor x3.
+    notes:
+    - Also leaves, goes away (one sense).  See also {cliva}, {ganse}, {zgana}, {lebna},
+      {vimcu}.
+    glosses:
+    - vanish
+  jbo:
+    place structure: x1 sisti lo nu x1 zvati x2 i x1 co'u se viska fi x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 verschwindet von Ort x2; x1 kann nicht mehr von x2 mit Sinnen/Sensor
+      x3 wahrgenommen werden
+    notes:
+    - No notes.
+    glosses:
+    - verschwinden
+  es:
+    place structure: x1 desaparece/se desvanece de localidad x2
+    notes:
+    - Ver también {stali}.
+    glosses:
+    - desaparecer
+  ru:
+    place structure: x1 исчезает из x2 (место); x1 перестает наблюдаться в x2 посредством
+      датчиков/органов чувств x3
+    notes:
+    - '{cliva} (уходить), {ganse} (чувствовать [ощущать]), {zgana} (наблюдать), {lebna}
+      (забирать), {vimcu} (отнимать)'
+    glosses:
+    - исчезать
+    - x1=исчезающий
+  en-simple:
+    place structure: x1 vanishes from location x2 using senses or sensor x3
+    notes:
+    - No notes.
+    glosses:
+    - a vanisher
+    - x2=a location where something vanishes
+    - x3=a sense something vanished from
+  eo:
+    place structure: x1 malaperas el loko x2; x1 ne plu estas observata je x2 per
+      sensoj x3
+    notes:
+    - 'Ankaŭ: foriri (unu senco).  Vidu ankaŭ {cliva}, {ganse}, {zgana}, {lebna},
+      {vimcu}.'
+    glosses:
+    - malaperi
+  hu:
+    place structure: x1 megszűnik mefigyelhetőnek lenni x2 helyen x3 érzékkel
+    notes:
+    - '(Lásd még: {cliva}, {ganse}, {zgana}, {lebna}, {vimcu})'
+    glosses:
+    - eltűnik
+  ja:
+    place structure: x1 は x2 （所／視界）から消える
+    notes:
+    - 眼やカメラ等の視覚媒体としてx3の追加も。「現れる」は「to'e/tol-」で対義化。 ・大意： 消える ・読み方： シャンシ  ・語呂合わせ： ＜シャンとしないと＞消失,cian(潜),
+      vanish ・関連語： {cliva}, {ganse}, {zgana}, {lebna}, {vimcu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 försvinner från plats x2; x1 upphör att kunna observeras av
+      vid plats x2 med sinnen/sensorer x3.
+    notes:
+    - Även lämnar/går sin väg.
+    glosses:
+    - försvinna
+    - x1=försvunnen
+    - x2=plats vid försvinnandet
+    - x3=sinne (som upphör att kunna observera något)
+  zh:
+    place structure: x1从地点/位置x2消失，基于感觉器官/设备x3观察时
+    notes:
+    - 也指离开/走开；参见 {cliva}, {ganse}, {zgana}, {lebna}, {vimcu}.
+    glosses:
+    - No glosses.

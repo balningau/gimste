@@ -1,5 +1,74 @@
-Word: fulta
-Rafsi: ful, flu
-Definition: x1 (passive) floats on/in fluid (gas/liquid) x2; x1 is buoyant.
-Notes: See also {limna}, {bloti}, {sakli}.
-Examples: None
+word: fulta
+rafsi:
+- ful
+- flu
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (passive) floats on/in fluid (gas/liquid) x2; x1 is buoyant.
+    notes:
+    - See also {limna}, {bloti}, {sakli}.
+    glosses:
+    - float
+  de:
+    place structure: x1 (passiv) treibt/schwimmt/schwebt auf/in Fluid (Flüssigkeit/Gas)
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - treiben
+  es:
+    place structure: x1 flota en fluido x2
+    notes:
+    - Ver también {limna}.
+    glosses:
+    - flotar
+  ru:
+    place structure: x1 плывет/парит/взвешен в жидкости/газе x2; x1 плавает (пассивно)
+      в толще/на поверхности x2; x1 находится на плаву
+    notes:
+    - 'Прилагательное: плавучий; активно плывет: {limna} {limna} (плыть [активно]),
+      {bloti} (корабль), {sakli} (скользить)'
+    glosses:
+    - x1=парить
+  en-simple:
+    place structure: x1 floats in or on x2
+    notes:
+    - No notes.
+    glosses:
+    - a floater
+    - x2=something floated on
+  eo:
+    place structure: x1 (pasivo) flosas sur/en fluido (gaso/likvaĵo) x2; x1 estas
+      flotema
+    notes:
+    - Vidu ankaŭ {limna}, {bloti}, {sakli}.
+    glosses:
+    - flosi
+  hu:
+    place structure: x1 fennmarad x2 gáz/folyadék felszínén; x1 tárgy sűrűsége kisebb,
+      mint x2 közegé
+    notes:
+    - '(Lásd még: {limna}, {bloti}, {sakli})'
+    glosses:
+    - No glosses.
+  ja:
+    place structure: x1 は x2 （気体／液体）に浮かぶ；  x1 は浮遊物
+    notes:
+    - ・大意： 浮かぶ ・読み方： フルゥタ  ・関連語： {limna}, {bloti}, {sakli}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 (passiv) flyter på/i fluid (vätska/gas) x2.
+    notes:
+    - No notes.
+    glosses:
+    - x1=flyta (på/i fluid)
+    - x2=fluid
+  zh:
+    place structure: x1（无动力的）漂浮/悬浮在气体/液体x2中/上；x1是有浮力的
+    notes:
+    - 参见 {limna}, {bloti}, {sakli}.
+    glosses:
+    - No glosses.

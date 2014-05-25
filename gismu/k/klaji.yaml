@@ -1,7 +1,72 @@
-Word: klaji
-Rafsi: laj
-Definition: x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing
-  x3.
-Notes: Also corridor; not typically a route between points, but offers access to sites
-  along it.  See also {naxle}, {panka}, {pluta}, {dargu}.
-Examples: None
+word: klaji
+rafsi:
+- laj
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road]
+      at x2 accessing x3.
+    notes:
+    - Also corridor; not typically a route between points, but offers access to sites
+      along it.  See also {naxle}, {panka}, {pluta}, {dargu}.
+    glosses:
+    - street
+  de:
+    place structure: x1 ist eine Straße/Allee/Fahrbahn/Gasse/Sackgasse bei/in x2,
+      Zugangsweg zu x3
+    notes:
+    - No notes.
+    glosses:
+    - Straße
+  es:
+    place structure: x1 es una calle/avenida/bulevard/callejón en x2 dando acceso
+      a x3
+    notes:
+    - Ver también {dargu}.
+    glosses:
+    - calle
+  ru:
+    place structure: x1 — улица/аллея/бульвар/переулок/тупик/{дорога} в x2 (где),
+      ведущая в x3
+    notes:
+    - 'Также: коридор; акцент не на маршруте, а на доступе к участкам вдоль него {naxle}
+      (канал), {panka} (парк), {pluta} (путь), {dargu} (дорога)'
+    glosses:
+    - x1=улица
+    - x3=то, куда ведет дорога
+  en-simple:
+    place structure: x1 is a street or alley at x2 accessing x3
+    notes:
+    - No notes.
+    glosses:
+    - a street
+    - x2=a street location
+    - x3=something accessed by a street
+  eo:
+    place structure: x1 estas strato/avenuo/vojo ĉe x2 kun aliro al x3
+    notes:
+    - 'Ankaŭ: koridoro; kutime ne vojo inter punktoj, sed donas aliron al lokoj laŭlonge
+      apud ĝi.  Vidu ankaŭ {naxle}, {panka}, {pluta}, {dargu}.'
+    glosses:
+    - strato
+  hu:
+    place structure: x1 egy utca/körút/sétány/köz/sikátor(/folyosó) x2 helyen, hozzáférést
+      biztosítva x3-hoz
+    notes:
+    - 'Olyan út, ami inkább az út menti területek elérését szolgálja, mintsem két
+      hely közötti közlekedést (Lásd még: {naxle}, {panka}, {pluta}, {dargu})'
+    glosses:
+    - utca
+  ja:
+    place structure: x1 は x2 （所）における、 x3 につながる街路／通り／回廊
+    notes:
+    - ・大意： 街路 ・読み方： クルァジ  ・関連語： {naxle}, {panka}, {pluta}, {dargu}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是位于x2，通向x3的道/路/径/街
+    notes:
+    - 也指：走廊；并不特定指两点之间的路径通道，而是提供了到达某处的通路；参见 {naxle}, {panka}, {pluta}, {dargu}.
+    glosses:
+    - No glosses.

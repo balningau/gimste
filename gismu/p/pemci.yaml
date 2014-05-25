@@ -1,7 +1,75 @@
-Word: pemci
-Rafsi: pem
-Definition: x1 is a poem/verse about plot/theme/subject/pattern x2 by author x3 for
-  intended audience x4.
-Notes: $x_2$ may be a convention rather than a subject.  See also {prosa}, {rimni},
-  {rilti}, {finti}, {lisri}, {sanga}.
-Examples: None
+word: pemci
+rafsi:
+- pem
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a poem/verse about plot/theme/subject/pattern x2 by author
+      x3 for intended audience x4.
+    notes:
+    - x2 may be a convention rather than a subject.  See also {prosa}, {rimni}, {rilti},
+      {finti}, {lisri}, {sanga}.
+    glosses:
+    - poem
+  de:
+    place structure: x1 ist ein Gedicht/Vers über Handlung/(Leit-)Motiv/Thema/Muster
+      x2 von Autor x3 für beabsichtigte Zielgruppe/Leserschaft x4
+    notes:
+    - No notes.
+    glosses:
+    - Gedicht
+  es:
+    place structure: x1 es un poema/verso/poesía con tema x2 por autor x3 para audiencia
+      x4
+    notes:
+    - Ver también {prosa},  {rimni},  {rilti},  {finti}.
+    glosses:
+    - poema
+  ru:
+    place structure: x1 — стихотворение/поэма с сюжетом/на тему/о предмете x2, автора
+      x3, предназначенное для аудитории x4
+    notes:
+    - x2 может также быть жанром/стилем {prosa} (проза), {rimni} (рифма), {rilti}
+      (ритм), {finti} (сочинять), {lisri} (рассказ), {sanga} (петь)
+    glosses:
+    - x1=стихотворение
+    - x2=предмет стихотворения
+    - x3=автор стихотворения
+  en-simple:
+    place structure: x1 is a poem about x2 by x3 for x4
+    notes:
+    - No notes.
+    glosses:
+    - a poem
+    - x2=a subject of a poem
+    - x3=a writer of a poem
+    - x4=an audience of a poem
+  eo:
+    place structure: x1 estas poemo/verso/poeziaĵo pri intrigo/temo/modelo x2 de aŭtoro
+      x3 por celita publiko x4
+    notes:
+    - x2 povas esti konvencio anstataŭ temo.  Vidu ankaŭ {prosa}, {rimni}, {rilti},
+      {finti}, {lisri}, {sanga}.
+    glosses:
+    - poemo
+  hu:
+    place structure: x1 egy vers x2 témában/cselekménnyel, x3 költőtől, x4 közönség
+      számára
+    notes:
+    - '(Lásd még: {prosa}, {rimni}, {rilti}, {finti}, {lisri}, {sanga})'
+    glosses:
+    - vers
+  ja:
+    place structure: x1 は x2 （特徴）・ x3 （作者）・ x4 （読者）の詩
+    notes:
+    - ・大意： 詩 ・読み方： ペムシ  ・語呂合わせ： 詩はペン無視 ・関連語： {prosa}, {rimni}, {rilti}, {finti}, {lisri},
+      {sanga}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是诗/韵文，关于主题/主旨/情节x2，作者为x3，目的是写给x4
+    notes:
+    - x2 可能指习俗而非主题；参见 {prosa}, {rimni}, {rilti}, {finti}, {lisri}, {sanga}.
+    glosses:
+    - No glosses.

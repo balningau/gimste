@@ -1,8 +1,79 @@
-Word: skina
-Rafsi: kin
-Definition: x1 is a cinema/movie/film about x2 [plot/theme/subject/activity], filmmaker
-  x3, for audience x4.
-Notes: Also motion picture; $x_2$ may be a convention rather than a subject; cartoon/animation
-  (= selxraci'a {skina}); television/tv show (= {tivyskina}, regardless of length,
-  factual content, etc.).  See also {tivni}, {vidni}, {pixra}, {finti}.
-Examples: None
+word: skina
+rafsi:
+- kin
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a cinema/movie/film about x2 [plot/theme/subject/activity],
+      filmmaker x3, for audience x4.
+    notes:
+    - Also motion picture; x2 may be a convention rather than a subject; cartoon/animation
+      (= selxraci'a {skina}); television/tv show (= {tivyskina}, regardless of length,
+      factual content, etc.).  See also {tivni}, {vidni}, {pixra}, {finti}.
+    glosses:
+    - cinema
+    - film (motion picture)
+  de:
+    place structure: x1 ist ein Film über x2 [Handlung/Thema/Aktivität] von Filmemacher
+      x3 für Zielgruppe x4.
+    notes:
+    - x2 kann auch eine Konvention statt eines Themas sein; Trickfilm (= selxraci'a
+      {skina}); Fernsehsendung (= {tivyskina}, unabhängig von Länge, Inhalt, usw.).  Siehe
+      auch {tivni}, {vidni}, {pixra}, {finti}.
+    glosses:
+    - Film
+  es:
+    place structure: x1 es un filme/vista cinematografica/película sobre x2 hecho
+      por x3 para audiencia x4
+    notes:
+    - No notes.
+    glosses:
+    - filme
+  ru:
+    place structure: x1 — фильм/кино об x2 (сюжет/тема/события), режиссера x3, для
+      аудитории x4
+    notes:
+    - 'x2 м.б. также: жанр/стиль; мультфильм: {selxraci''a} [skina]); телефильм: {tivyskina},
+      независимо от длины, содержания и т.д. {tivni} (телевещание), {vidni} (экран
+      [монитор]), {pixra} (картина), {finti} (сочинять)'
+    glosses:
+    - x1=фильм
+  en-simple:
+    place structure: x1 is a movie about x2 by film maker x3 for x4
+    notes:
+    - No notes.
+    glosses:
+    - a film
+    - x2=a film plot
+    - x3=a film-maker
+    - x4=an audience of a film
+  eo:
+    place structure: x1 estas kinaĵo/filmo pri x2 [intrigo/temo/ago], de kinisto x3,
+      por publiko x4
+    notes:
+    - 'Ankaŭ: motion picture; x2 povas esti konvencio anstataŭ temo; kartuno/animacio
+      (= selxraci''a {skina}); televida spektaklo (= tivyskina, sendepende se daŭro,
+      fakta enhavo, ktp.).  Vidu ankaŭ {tivni}, {vidni}, pixra,{finti}.'
+    glosses:
+    - kinaĵo
+  hu:
+    place structure: x1 egy film/videó/mozgókép x2 cselekménnyel/témában/tárggyal/sémára,
+      x3 rendezésében, x4 közönségnek
+    notes:
+    - '(Lásd még: {tivni}, {vidni}, {pixra}, {finti})'
+    glosses:
+    - film
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （制作者）・ x4 （視聴者）の映画／アニメーション
+    notes:
+    - ・大意： 映画 ・読み方： スキナ  ・語呂合わせ： 好きな映画 ・関連語： {tivni}, {vidni}, {pixra}, {finti}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于x2（主题/情节/事物）的电影/影片，制作者为x3，观看者为x4
+    notes:
+    - x2可能只是惯例而非主题； 卡通/动画= {selxraci'a} {skina}；电视节目/电视剧={tivyskina}当忽略时长和内容等不同时；参见
+      {tivni}, {vidni}, {pixra}, {finti}.
+    glosses:
+    - No glosses.

@@ -1,7 +1,72 @@
-Word: manri
-Rafsi: mar
-Definition: x1 is a frame of reference/standard for observing/measuring/determining
-  x2, with/by rules x3.
-Notes: ($x_1$ may be object or si'o idea); See also cmavo list {ma'i}, {ckilu}, {merli},
-  {pajni}, {cimde}, {jdice}, {marde}.
-Examples: None
+word: manri
+rafsi:
+- mar
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a frame of reference/standard for observing/measuring/determining
+      x2, with/by rules x3.
+    notes:
+    - (x1 may be object or si'o idea); See also cmavo list {ma'i}, {ckilu}, {merli},
+      {pajni}, {cimde}, {jdice}, {marde}.
+    glosses:
+    - reference
+  de:
+    place structure: x1 ist ein Bezugsrahmen/Bezugssystem/Koordinatensystem/Standard
+      zum Messen/Betrachten/Bestimmen von x2 mit Regeln/Norm x3
+    notes:
+    - No notes.
+    glosses:
+    - Bezug
+  es:
+    place structure: x1 es un marco de referencia/estándar para observar/medir/determinar
+      x2, con reglas x3
+    notes:
+    - No notes.
+    glosses:
+    - referencia
+  ru:
+    place structure: x1 — система отсчета/эталон/мерило/критерий/{стандарт} для наблюдения/измерения/определения
+      x2, по/соответственно/согласно правилам x3
+    notes:
+    - x1 м.б. объект или идея ({si'o}) {ma'i}, {ckilu} (шкала), {merli} (измерять),
+      {pajni} (судить), {cimde} (измерение [пространственное]), {jdice} (решать [принимать
+      решение]), {marde} (мораль)
+    glosses:
+    - x1=эталон (стандарт)
+  en-simple:
+    place structure: x1 is a standard for observing x2 with rules x3
+    notes:
+    - No notes.
+    glosses:
+    - a standard
+    - x2=something measured by a standard
+    - x3=a rule of a standard
+  eo:
+    place structure: x1 estas referenco/referenckadro/normo por observi/mezuri/determini
+      x2-on, per/laŭ reguloj x3
+    notes:
+    - (x1 povas esti objekto aŭ ideo (si'o)); Vidu ankaŭ cmavo {ma'i}, {ckilu}, {merli},
+      {pajni}, {cimde}, {jdice}, {marde}.
+    glosses:
+    - referenco
+  hu:
+    place structure: x1 egy vonatkoztatási rendszer/mérce x2 megfigyelésére/mérésére/meghatározására,
+      x3 szabályok szerint
+    notes:
+    - '(Lásd még: {ckilu}, {merli}, {pajni}, {cimde}, {jdice}, {marde})'
+    glosses:
+    - vonatkoztatási rendszer
+  ja:
+    place structure: x1 は x2 （事）を x3 （規則）で観察／計測／審判する際の観点／標準／基準
+    notes:
+    - ・大意： 観点 ・読み方： マンリ  ・関連語： {ma'i}, {ckilu}, {merli}, {pajni}, {cimde}, {jdice},
+      {marde}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是参考系/参考标准，用以观察/测量/测定x2，基于标准x3
+    notes:
+    - x1可能是指物体或si'o想法；参见：{ma'i}, {ckilu}, {merli}, {pajni}, {cimde}, {jdice}, {marde}.
+    glosses:
+    - No glosses.

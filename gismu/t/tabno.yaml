@@ -1,6 +1,65 @@
-Word: tabno
-Rafsi: tab
-Definition: x1 is a quantity of/contains/is made of carbon/graphite/[diamond]/charcoal;
-  x1 is organic.
-Notes: See also {kolme}.
-Examples: None
+word: tabno
+rafsi:
+- tab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains/is made of carbon/graphite/[diamond]/charcoal;
+      x1 is organic.
+    notes:
+    - See also {kolme}.
+    glosses:
+    - carbon
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Kohle/Kohlenstoff/Graphit/[Diamant]/Aktivkohle;
+      x1 ist organisch
+    notes:
+    - No notes.
+    glosses:
+    - Kohlenstoff
+  es:
+    place structure: x1 es una cantidad de carbón/grafito/diamante (C)
+    notes:
+    - No notes.
+    glosses:
+    - carbón
+  ru:
+    place structure: x1 — углерод/графита/{алмаз}/древесный уголь; x1 содержит углерод;
+      x1 — органический
+    notes:
+    - '{kolme} (уголь)'
+    glosses:
+    - x1=углерод
+  en-simple:
+    place structure: x1 is a quantity of carbon
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of carbon
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el karbono/karbo/grafito/[diamanto](C);
+      x1 estas organika
+    notes:
+    - Vidu ankaŭ {kolme}.
+    glosses:
+    - karbono
+  hu:
+    place structure: x1 bizonyos mennyiségű elemi szén/grafit/gyémánt (-ot tartalmaz/-ból
+      készült)
+    notes:
+    - '(Lásd még: {kolme})'
+    glosses:
+    - szén
+  ja:
+    place structure: x1 は炭素（C）
+    notes:
+    - ・大意： 炭素 ・読み方： タブノ  ・語呂合わせ： tanso 炭素 ・関連語： {kolme}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是碳（C）/含碳的；x1是有机物的
+    notes:
+    - 参见 {kolme}.
+    glosses:
+    - No glosses.

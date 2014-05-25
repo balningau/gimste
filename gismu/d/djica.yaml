@@ -1,7 +1,109 @@
-Word: djica
-Rafsi: dji
-Definition: x1 desires/wants/wishes x2 (event/state) for purpose x3.
-Notes: If desire is for an object, this is sumti-raising; use tu'a in $x_2$ (or use
-  lujvo = {po'edji}).  See also {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna},
-  {prami}, {rigni}, {trina}, {xebni}, {xlura}.
-Examples: None
+word: djica
+rafsi:
+- dji
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 desires/wants/wishes x2 (event/state) for purpose x3.
+    notes:
+    - If desire is for an object, this is sumti-raising; use tu'a in x2 (or use lujvo
+      = {po'edji}).  See also {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna},
+      {prami}, {rigni}, {trina}, {xebni}, {xlura}.
+    glosses:
+    - No glosses.
+  de:
+    place structure: x1 möchte/wünscht/hofft auf x2 (Ereignis/Zustand) zum Zwecke
+      x3
+    notes:
+    - Im Gegensatz zu {pacna} macht djica explizit keine Aussage über die Wahrscheinlichkeit
+      des Eintretens von x2.
+    glosses:
+    - hoffen
+    - wünschen (auf etwas hoffen)
+  es:
+    place structure: x1 desea/quiere x2 con propósito x3
+    notes:
+    - Ver también {taske},  {xagji},  {nitcu}.
+    glosses:
+    - querer
+  ru:
+    place structure: x1 хочет/желает x2 (событие/состояние) с целью x3; x1 хочет/желает,
+      чтобы x2 для x3
+    notes:
+    - 'Если x2 — предмет, это квалифицируется как «подъем sumti» и тогда x2 надо пометить
+      маркером {tu''a} (или использовать lujvo: {po''edji} {taske} (жаждать), {xagji}
+      (голодный), {mukti} (повод), {nitcu} (нуждаться), {nelci} (любить [предпочитать]),
+      {pacna} (надеяться), {prami} (любить [кого-либо]), {rigni} (отвратительный),
+      {trina} (привлекательный), {xebni} (ненавидеть), {xlura} (влиять)'
+    glosses:
+    - хотеть
+    - x1=хотящий
+    - x2=желаемое
+  en-simple:
+    place structure: x1 desires or wants x2 for purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - a desirer
+    - x2=something desired
+    - x3=a purpose for a desire
+  eo:
+    place structure: x1 deziras/volas x2-on (okazo/stato) por celo x3
+    notes:
+    - Se deziro estas por objekto, ĉi tio estas sumti-levado; uzu tu'a en x2 (aŭ uzu
+      lujvo = po'edji).  Vidu ankaŭ {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna},
+      {prami}, {rigni}, {trina}, {xebni}, {xlura}.
+    glosses:
+    - deziri
+  hu:
+    place structure: x1 kívánja/óhajtja x2 eseményt/állapotot x3 okból
+    notes:
+    - '(Lásd még: {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna}, {prami}, {rigni},
+      {trina}, {xebni}, {xlura})'
+    glosses:
+    - kíván
+  ja:
+    place structure: x1 は x2 （事）を x3 （目的）のために欲する／求める
+    notes:
+    - 本能的欲求も。 ・大意： 欲求 ・読み方： ヂシャ  ・関連語： {taske}, {xagji}, {mukti}, {nitcu}, {nelci},
+      {pacna}, {prami}, {rigni}, {trina}, {xebni}, {xlura}
+    - ''
+    glosses:
+    - No glosses.
+  nl:
+    place structure: x1 verlangt/wilt/wenst naar x2 (gebeurtenis/moment) voor doel
+      x3.
+    notes:
+    - 'Als het verlangen is naar een object, tu''a in x2 (of gebruik lujvo = po''edji).  Zie
+      ook : {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna}, {prami}, {rigni},
+      {trina}, {xebni}, {xlura}.'
+    glosses:
+    - verlangen
+  'no':
+    place structure: x1 ønsker/vil ha/begjærer/higer etter x2 (hendelse/tilstand)
+      til formål x3
+    notes:
+    - No notes.
+    glosses:
+    - begjære
+    - hige
+    - ville
+    - ønske (ville)
+  sv:
+    place structure: x1 begär/åtrår/åstundar/vill ha/önskar x2 (händelse/tillstånd)
+      för ändamål x3.
+    notes:
+    - No notes.
+    glosses:
+    - begär (vill ha något)
+    - vill (vill ha/vill att)
+    - åstunda
+    - åtrå
+    - önskar (som att önska i present (något som vill ha))
+  zh:
+    place structure: x1渴望/期望/想要x2（状态/事件），为了目的x3
+    notes:
+    - 当期望的是某物时，使用po'edji，或者在x2位使用tu'a；参见 {taske}, {xagji}, {mukti}, {nitcu}, {nelci},
+      {pacna}, {prami}, {rigni}, {trina}, {xebni}, {xlura}.
+    glosses:
+    - No glosses.

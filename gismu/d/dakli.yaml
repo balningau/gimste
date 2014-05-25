@@ -1,5 +1,76 @@
-Word: dakli
-Rafsi: ''
-Definition: x1 is a sack/bag with contents x2, and of material x3.
-Notes: See also {daski} for pouch, {bakfu}.
-Examples: None
+word: dakli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a sack/bag with contents x2, and of material x3.
+    notes:
+    - See also {daski} for pouch, {bakfu}.
+    glosses:
+    - bag (sack)
+    - sack
+  de:
+    place structure: x1 ist ein Sack/eine Tasche/Tüte mit Inhalt x2 aus Material x3
+    notes:
+    - No notes.
+    glosses:
+    - Sack
+  es:
+    place structure: x1 es una bolsa/saco para contenido x2, de material x3
+    notes:
+    - Ver también {daski}.
+    glosses:
+    - bolsa
+  ru:
+    place structure: x1 — мешок/сумка с содержимым x2, из материала x3
+    notes:
+    - 'x2: содержимое м.б. потенциальным: «для x2» {daski} (карман) для кармана, {bakfu}
+      (связка [пучок])'
+    glosses:
+    - x1=мешок
+  en-simple:
+    place structure: x1 is a bag or sack containing x2 of material x3
+    notes:
+    - No notes.
+    glosses:
+    - a bag
+    - x2=a content of a bag
+    - x3=a material of a bag
+  eo:
+    place structure: x1 estas sako kun enhavo x2, kaj el materialo x3
+    notes:
+    - (kp. daski por poŝo, bakfu)
+    glosses:
+    - sako
+  hu:
+    place structure: x1 egy zsák/zacskó x2 tartalommal, x3 anyagból
+    notes:
+    - '(Lásd még: {daski}, {bakfu})'
+    glosses:
+    - zsák
+  ja:
+    place structure: x1 は x2 （内容）・ x3 （素材）の鞄／バッグ／リュックサック
+    notes:
+    - 「買い物袋」も。 ・大意： 鞄（かばん） ・読み方： ダクルィ  ・関連語： {daski}, {bakfu}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är en påse/kasse/bag/säck som innehåller x2, som är gjord
+      av material x3.
+    notes:
+    - No notes.
+    glosses:
+    - bag (säckliknande väska)
+    - kasse (påse)
+    - säck
+    - x1=påse
+    - x2=påsinnehåll
+    - x3=påsmaterial
+  zh:
+    place structure: x1是包/裹，装有x2，由材料x3构成
+    notes:
+    - 参见 {daski}袋子, {bakfu}.
+    glosses:
+    - No glosses.

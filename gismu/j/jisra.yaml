@@ -1,7 +1,77 @@
-Word: jisra
-Rafsi: ''
-Definition: x1 is made of/contains/is a quantity of juice/nectar from-source/of-type
-  x2.
-Notes: Water-based extract from a (generally) biological source. See also {pinxe},
-  {djacu}, {grute}, {stagi}.
-Examples: None
+word: jisra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is made of/contains/is a quantity of juice/nectar from-source/of-type
+      x2.
+    notes:
+    - Water-based extract from a (generally) biological source. See also {pinxe},
+      {djacu}, {grute}, {stagi}.
+    glosses:
+    - juice
+  de:
+    place structure: x1 ist eine Menge an/enthält/besteht aus Saft/Nektar aus Quelle/von
+      Typ x2
+    notes:
+    - No notes.
+    glosses:
+    - Saft
+  es:
+    place structure: x1 es una cantidad de jugo/zumo/licuado de x2
+    notes:
+    - No notes.
+    glosses:
+    - jugo
+  ru:
+    place structure: x1 — сок/нектар из источника/типа x2 (водный экстракт биологического,
+      вообще говоря, происхождения)
+    notes:
+    - '{pinxe} (пить), {djacu} (вода), {grute} (плод [фрукт]), {stagi} (овощ)'
+    glosses:
+    - сок
+  en-simple:
+    place structure: x1 is a quantity of juice from x2
+    notes:
+    - No notes.
+    glosses:
+    - a quantity of juice
+    - x2=a source of juice
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el suko/nektaro el fonto/de
+      tipo x2
+    notes:
+    - Akvobaza ekstrakto el (ĝenerale) biologia fonto. Vidu ankaŭ {pinxe}, {djacu},
+      {grute}, {stagi}.
+    glosses:
+    - suko
+  hu:
+    place structure: x1 bizonyos mennyiségű lé/nektár x2 forrásból
+    notes:
+    - '(Lásd még: {pinxe}, {djacu}, {grute}, {stagi})'
+    glosses:
+    - lé
+  ja:
+    place structure: x1 は x2 （原料／種類）の汁／ジュース
+    notes:
+    - ・大意： 汁 ・読み方： ジスラ  ・語呂合わせ： 汁の字すら, ji（汁）, juice ・関連語： {pinxe}, {djacu}, {grute},
+      {stagi}
+    - ''
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är gjord av/innehåller/är en kvantitet av juice/nektar från
+      källa/av sorten x2.
+    notes:
+    - Vattenbaserat extrakt från en (generellt) biologisk källa.
+    glosses:
+    - jos (juice)
+    - x1=juice
+    - x2=juicesort
+  zh:
+    place structure: x1是果汁/汁液，来源于/具有类型x2
+    notes:
+    - 从生物源中榨取/提取的汁液；参见 {pinxe}, {djacu}, {grute}, {stagi}.
+    glosses:
+    - No glosses.

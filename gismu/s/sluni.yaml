@@ -1,5 +1,64 @@
-Word: sluni
-Rafsi: ''
-Definition: x1 is a quantity of/contains onions/scallions of type/cultivar x2.
-Notes: See also {stagi}.
-Examples: None
+word: sluni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of/contains onions/scallions of type/cultivar
+      x2.
+    notes:
+    - See also {stagi}.
+    glosses:
+    - onion
+  de:
+    place structure: x1 ist eine Menge an/enthält Zwiebeln/Frühlingszwiebeln von Typ/Sorte
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - Zwiebel
+  es:
+    place structure: x1 es una cantidad de cebolla de tipo/cultivo x2
+    notes:
+    - No notes.
+    glosses:
+    - cebolla
+  ru:
+    place structure: x1 — лук вида/сорта x2
+    notes:
+    - '{stagi} (овощ)'
+    glosses:
+    - лук (растение)
+  en-simple:
+    place structure: x1 is an onion of species x2
+    notes:
+    - No notes.
+    glosses:
+    - an onion
+    - x2=an onion species
+  eo:
+    place structure: x1 estas kvanto da/enhavas/konsistas el cepoj de tipo/kultivo
+      x2
+    notes:
+    - Vidu ankaŭ {stagi}.
+    glosses:
+    - cepo
+  hu:
+    place structure: x1 bizonyos mennyiségű hagyma (-t tartalmaz) az x2 fajból/fajtából
+    notes:
+    - '(Lásd még: {stagi})'
+    glosses:
+    - hagyma
+  ja:
+    place structure: x1 は x2 （種類）のネギ属（ネギ／タマネギ／シャロット）
+    notes:
+    - ・大意： 葱（ねぎ） ・読み方： スルゥニ  ・語呂合わせ： ネギを磨るに、 ・関連語： {stagi}
+    - ''
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是葱/洋葱/青葱，属于品种/类型x2
+    notes:
+    - 参见 {stagi}.
+    glosses:
+    - No glosses.

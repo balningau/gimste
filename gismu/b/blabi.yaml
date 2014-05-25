@@ -1,8 +1,107 @@
-Word: blabi
-Rafsi: lab
-Definition: x1 is white/very-light colored [color adjective].
-Notes: Pale forms of other colors are a compound of white; e.g. pink (= {labyxu'e},
-  {xunblabi}) (whereas kandi is used for pale = dimness, lack of intensity).  See
-  also {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu}, {bunre},
-  {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
-Examples: None
+word: blabi
+rafsi:
+- lab
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is white/very-light colored [color adjective].
+    notes:
+    - Pale forms of other colors are a compound of white; e.g. pink (= {labyxu'e},
+      {xunblabi}) (whereas kandi is used for pale = dimness, lack of intensity).  See
+      also {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - white
+  jbo:
+    place structure: x1 skari lo'e cnino snime .a lo'e ladru .a lo'e gusni poi mixre
+      ji'ipirosi'e lo'e boxna clani poi ka'e se viska be lo'e remna
+    notes:
+    - '{skari}; {snime}; {ladru}'
+    glosses:
+    - blabi
+  de:
+    place structure: x1 ist weiß/hat eine sehr helle Farbe [Farbadjektiv].
+    notes:
+    - Helle/bleiche Formen anderer Farben sind eine Zusammensetzung mit Weiß; z.B.
+      Pink (= {labyxu'e}, {xunblabi}) ({kandi} wird benutzt für blass = Intensitätslos).
+      Siehe auch {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - weiß
+    - светлый (цвет)
+    - x1=белый (цвет)
+  es:
+    place structure: x1 es blanco/muy claro (color)
+    notes:
+    - No notes.
+    glosses:
+    - blanco
+  ru:
+    place structure: x1 — белый/очень светло окрашенный (о цвете); x1 белеет
+    notes:
+    - 'Бледные оттенки других цветов образуются словосочетаниями с [blabi], напр.
+      розовый: {labyxu''e}, {xunblabi}, тогда как «бледный» в смысле «тусклый, малоинтенсивный»
+      будет {kandi} {skari} (иметь цвет), {xekri} (черный), {grusi} (серый [цвет]),
+      {kandi} (тусклый), {manku} (темный), {carmi} (интенсивный), {bakri} (мел), {blanu}
+      (синий), {bunre} (коричневый), {cicna} (бирюзовый), {crino} (зеленый), {narju}
+      (оранжевый), {nukni} (пурпурный), {pelxu} (желтый), {xunre} (красный), {zirpu}
+      (сиреневый)'
+    glosses:
+    - белеть
+    - x1=белый
+  en-simple:
+    place structure: x1 is white
+    notes:
+    - No notes.
+    glosses:
+    - something white
+  eo:
+    place structure: x1 estas blanka/tre hela [koloradjektivo]
+    notes:
+    - Palaj formoj de aliaj koloroj estas kunmetaĵoj kun blanka; ekz. rozkolora (=
+      {labyxu'e}, {xunblabi}) (dum kandi uziĝas por pala = malbrila, manko de intenso).  Vidu
+      ankaŭ {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - blanka
+  hu:
+    place structure: x1 fehér/nagyon világos színű
+    notes:
+    - '(Lásd még: {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu})'
+    glosses:
+    - fehér
+  ja:
+    place structure: x1 は白色
+    notes:
+    - ・大意： 白色 ・読み方： ブラビ  ・語呂合わせ： bai(白), blanco ・関連語： {skari}, {xekri}, {grusi}, {kandi},
+      {manku}, {carmi}, {bakri}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni},
+      {pelxu}, {xunre}, {zirpu}
+    - ''
+    glosses:
+    - No glosses.
+  'no':
+    place structure: x1 er hvit/veldig lyst farget [fargeadjektiv]
+    notes:
+    - Kombinasjoner med andre farger, som {labyxu'e} (= rosa), er lyse versjoner av
+      andre farger. Se óg {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {blanu},
+      {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - No glosses.
+  sv:
+    place structure: x1 är vit/ljusfärgad.
+    notes:
+    - Färgblandningar med vit såsom {labyxu'e} som betyder rosa, är blekare former
+      av andra färger. Se även {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi},
+      {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - vitt
+    - x1=vit
+  zh:
+    place structure: x1是白色的/颜色非常淡的
+    notes:
+    - 可以用来形容其他颜色词，表示淡化的含义，如：粉红={labyxu'e}/{xunblabi}；参见{kandi}, {skari}, {xekri},
+      {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu}, {bunre}, {cicna}, {crino},
+      {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+    glosses:
+    - No glosses.
