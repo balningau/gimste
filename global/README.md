@@ -26,5 +26,5 @@ Impact
 ------
 Include corpus searches (http://korp.alexburka.com/) showing how much
 previous usage your changes would validate, what they would invalidate,
-and any other known impacts. Preferably list all effected words and
+and any other known impacts. Preferably list all affected words and
 places.
