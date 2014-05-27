@@ -5,3 +5,6 @@ by a text file in this folder describing the change. Discussion and voting
 will happen on the PR, and then accepted proposals will be applied afterwards
 (presumably by someone proficient in the use of `grep`).
 
+In the web interface, you can add a file by clicking the "+" button above
+(next to "gimste / global /").
+
