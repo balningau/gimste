@@ -10,5 +10,6 @@ Name | Github username
 -----|----------------
 Alex Burka | [durka](http://github.com/durka), [gerkubergu](http://github.com/gerkubergu)
 Dustin Lacewell | [dustinlacewell](http://github.com/dustinlacewell)
+Ilmen | [Ilmen-vodhr](https://github.com/Ilmen-vodhr)
 Miles Forster | [selpahi](http://github.com/selpahi)
 Vladislav Višnevskij Petersen | [VladVP](https://github.com/VladVP)
