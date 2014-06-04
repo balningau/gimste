@@ -1,0 +1,42 @@
+word: ditcu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the time-duration/interval/period/[elapsed time] of event
+      x2.
+    notes:
+    - short rafsi is -dit-. Cf. {cedra}, {ranji}, {tcika}, {renvi}, {temci}, {canlu},
+      {kuspe}, {krafamtei}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 - это промежуток времени/интервал/период/[прошедшее время]
+      события x2.
+    notes:
+    - -dit- - короткое rafsi. Ср. {cedra}, {ranji}, {tcika}, {renvi}, {temci}, {canlu},
+      {kuspe}, {krafamtei}
+    glosses:
+    - интервал времени
+  zh:
+    place structure: x1事件x2的时间长度/周期
+    notes:
+    - 短rafsi是 -dit-；参见 {cedra}, {ranji}, {tcika}, {renvi}, {temci}, {canlu}, {kuspe},
+      {krafamtei}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is the time-duration/period of event x2.
+    notes:
+    - No notes.
+    glosses:
+    - period
+  ja:
+    place structure: x1 は x2 （事）の継続時間
+    notes:
+    - 試験的 gismu。「temci」と違い、開始時点と終了時点は特定されない。 ・大意： 継続時間 ・読み方： ディチュ ・関連語： {cacra}, {cedra},
+      {citsi}, {ranji}, {tcika}, {junla}, {renvi}, {temci}, {canlu}
+    - ''
+    glosses:
+    - No glosses.

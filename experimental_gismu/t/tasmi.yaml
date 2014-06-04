@@ -1,0 +1,34 @@
+word: tasmi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is the way or manner in which activity/event x2 is done/happens
+    notes:
+    - Lojban has always been lacking a gismu for "x1 is the manner of event x2" or
+      similar. Later, {tai} started to be used for it, and then, since a BAI needs
+      a brivla (usually a gismu) to be based on, they invented tamsmi. So {tasmi}
+      is a true brivla for {tai}, the BAI of {tasmi}. Cf. {tai}, {tamsmi}
+    glosses:
+    - way (manner)
+  ru:
+    place structure: x1 - особенность/манера, согласно которой происходит активность/событие
+      x2
+    notes:
+    - gismu для {tai}
+    glosses:
+    - особенность (манера)
+  zh:
+    place structure: x1是行为/事件x2发生的方式
+    notes:
+    - 逻辑语一直缺少一个gismu来表达“x1是x2发生的方式”，后来{tai}被用于表达此意，但因为BAI需要建立在brivla（通常是gismu）的基础上，于是{tamsmi}被发明了出来；所以{tasmi}
+      才是{tai}真正对应的brivla；参见 {tai}, {tamsmi}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is the way or manner in which event x2 happens
+    notes:
+    - No notes.
+    glosses:
+    - manner

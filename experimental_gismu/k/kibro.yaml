@@ -1,0 +1,39 @@
+word: kibro
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pertains to the internet/cyberspace in aspect x2.
+    notes:
+    - Proposed by xorxes. Short rafsi -kib-. Cf. {mujysamseltcana}.
+    glosses:
+    - cyberspace
+    - x1=internet
+    - x2=internet aspect
+  ru:
+    place structure: x1 принадлежит интернету/киберпространству в аспекте x2.
+    notes:
+    - Предложено автором xorxes. Краткое rafsi - '-kib-'. Ср. {mujysamseltcana}.
+    glosses:
+    - киберпространство
+    - x1=интернет
+  zh:
+    place structure: x1是有关于网络/互联网/赛博空间的，在x2方面
+    notes:
+    - 由xorxes.提议的 ，其短rafsi为 -kib-参见{mujysamseltcana}.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 pertains to the internet in aspect x2.
+    notes:
+    - No notes.
+    glosses:
+    - internet
+  ja:
+    place structure: x1 は x2 の面でインターネット／サイバースペースに関連する
+    notes:
+    - 'xorxesが提案. 3文字 rafsi は -kib-. 関連語 : {mujysamseltcana}.'
+    glosses:
+    - インターネット
+    - サイバースペース

@@ -1,0 +1,42 @@
+word: volve
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 returns to x2 from x3; x1 moves/gives back to x2 from x3.
+    notes:
+    - x1 goes back/reverts/retreats; (x2 may be a location or a person or an event/situation;
+      the latter may also be expressed with {krefu} or {rapli} and a causative like
+      {rinka}/{rikygau}). See also {benji}, {krefu}, {rapli}, {rinka}. For 'return
+      something to something' use {volvygau} or {xruti}.
+    glosses:
+    - No glosses.
+  jbo:
+    place structure: x1 x2 x3 zilxru .i x1 jai se krefu fai lo nu x2 tcini jo nai
+      vanbi x1 kei noi ke'a basti lo nu x3 tcini jo nai vanbi x1
+    notes:
+    - ko catlu fe ji'a zo {di'a} .e zo {zilxru} .e zo {xruti} .e zo {krefu} .e zo
+      {rapli} .e zo {rinka}
+    glosses:
+    - volve
+    - zilxru
+  es:
+    place structure: x1 vuelve/regresa/retorna a estado/lugar anterior/original x2
+      desde x3
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  eo:
+    place structure: x1 revenas al x2 el x3; x1 movas reen al x2 el x3.
+    notes:
+    - Rigardu ankaŭ {volvygau} - 'redoni', {benji}, {krefu}, {rapli}, {rinka}.
+    glosses:
+    - reveni
+  ja:
+    place structure: x1 は x2  に x3 から戻る
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.

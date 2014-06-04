@@ -1,0 +1,40 @@
+word: digno
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is aligned diagonally along/between nonadjacent vertices x2
+      as in polytope x3; x1 is a diagonal line segment/linear manifold of lower dimension
+      as viewed in frame of reference x3; x1 is crooked (one sense), skew (one sense,
+      see notes), off-kilter (one sense), away from center/off-center, non-orthogonal/not
+      perpendicular nor parallel, at an angle, perhaps non-vertical and non-horizontal,
+      diagonal to x2 in figure/coordinate system x3.
+    notes:
+    - 'Not for use in: entries of tensors/matrices (confer: {daigno}), certain geometric
+      meanings (such as with Cartesian products), etc.  Only for purely ''visual''
+      geometric objects/figures/frames. The polytope in question need not actually
+      be ''drawn''; an oriented frame of reference naturally ''projects'' a polytopic
+      sense onto all objects.'
+    - ''
+    - x1 can be any linear manifold of lower dimension than the space in which it
+      is embedded (defined by x3).
+    - ''
+    - The skewness is not relative to another linear manifold in some higher-dimensional
+      space (the usual definition of "skew" in geometry) - it is simply a skewness
+      (in a layperson sense) relative to points in a figure or axis in a coordinate
+      system.
+    - ''
+    - Proposed by Gleki.
+    glosses:
+    - at an angle (diagonally, visual geometric)
+    - crooked (diagonally, visual geometric)
+    - diagonal (of a polytope; geometric (one sense))
+  fr:
+    place structure: x1 est une diagonale segment qui relie deux sommets non-consécutifs
+      x2 (non reliés par un côté) de la polygone/dans référentiel x3
+    notes:
+    - Ne pas utiliser ce mot pour les matrices (cf. {daigno}).
+    glosses:
+    - diagonale (segment de ligne ou une variété linéaire de dimension inférieure;
+      géométrique)

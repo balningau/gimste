@@ -1,0 +1,37 @@
+word: firca
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 flirts with x2 by doing x3
+    notes:
+    - See {cinse}, {pamta'a}, {cinjikca}, {mletritra}, {gletu}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 флиртует, заигрывает с x2 путём x3 (событие)
+    notes:
+    - См. {cinse}, {pamta'a}, {cinjikca}, {mletritra}, {gletu}
+    glosses:
+    - заигрывать (флиртовать)
+    - флиртовать
+  zh:
+    place structure: x1调情x2，通过行为x3
+    notes:
+    - 参见{cinse}, {pamta'a}, {cinjikca}, {mletritra}, {gletu}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 flirts with x2 by doing x3
+    notes:
+    - No notes.
+    glosses:
+    - flirter
+  ja:
+    place structure: x1 は x2 （者）と、 x3 （行為）をしていちゃつく／浮気する
+    notes:
+    - ・大意： いちゃつく ・読み方： フィルシャ ・関連語： {prami}, {cinse}
+    - ''
+    glosses:
+    - No glosses.

@@ -1,0 +1,29 @@
+word: kokso
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a coconut of variety/cultivar x2
+    notes:
+    - See also {cidja}, {rutrkoko}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 - это кокос/кокосовый орех разновидности/сорта x2
+    notes:
+    - См. {cidja}, {rutrkoko}
+    glosses:
+    - кокосовый орех (фрукт / семя)
+  zh:
+    place structure: x1是椰子，属于种族/种类x2
+    notes:
+    - 参见 {cidja}, {rutrkoko}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a coconut of variety/cultivar x2
+    notes:
+    - No notes.
+    glosses:
+    - coconut

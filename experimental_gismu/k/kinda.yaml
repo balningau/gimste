@@ -1,0 +1,30 @@
+word: kinda
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is kinda like x2 in property x3
+    notes:
+    - This is a joke word. Its main use is in the tanru {kinda} {sorta}
+    glosses:
+    - kinda
+  ru:
+    place structure: x1 вроде x2 в свойстве/аспекте x3
+    notes:
+    - Шуточное слово от английского kinda (kind of). Основное употребление - в tanru
+      {kinda} {sorta}
+    glosses:
+    - вроде
+  zh:
+    place structure: x1有一点像/近似x2，在性质x3上
+    notes:
+    - 这是个开玩笑的词，主要的用途是与 {kinda} 或{sorta}构成tanru
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is kinda like x2 in property x3
+    notes:
+    - No notes.
+    glosses:
+    - kinda

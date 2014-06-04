@@ -1,0 +1,31 @@
+word: nusna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 induces x2 about x3 from specific facts x4
+    notes:
+    - See {didni}, {nibji'i}, {biglogji}, {krilogji}
+    glosses:
+    - induce (induct)
+    - induct
+  zh:
+    place structure: x1诱导/引导x2关于x3，使用特定的事实x4
+    notes:
+    - 参见 {didni}, {nibji'i}, {biglogji}, {krilogji}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 induces x2 about x3 from specific facts x4
+    notes:
+    - No notes.
+    glosses:
+    - the one who logically induces
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について x4 （事例）から帰納する
+    notes:
+    - ・大意： 帰納 ・読み方： ヌスナ ・関連語： {logji}, {jinvi}, {smadi}, {sucta}, {didni}
+    - ''
+    glosses:
+    - No glosses.

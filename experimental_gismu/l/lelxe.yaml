@@ -1,0 +1,23 @@
+word: lelxe
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a lily [Lilium] of species/strain x2
+    notes:
+    - cf. {rozgu}. lel- is short rafsi
+    glosses:
+    - lily
+  zh:
+    place structure: x1是百合，属于品种/种类x2
+    notes:
+    - 参见 {rozgu}；其短rafsi为： -lel-
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a lily of species/strain x2
+    notes:
+    - No notes.
+    glosses:
+    - $x_1$ is a lily of species/strain $x_2$

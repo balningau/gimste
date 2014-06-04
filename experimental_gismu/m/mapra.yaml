@@ -1,0 +1,72 @@
+word: mapra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of fluff of composition/structure/characterization/substance
+      x2; x1 is fluffy/airy/soft/fuzzy in texture
+    notes:
+    - 'Visual and tactile. Most likely is malleable, but this word has no such implications
+      inherently; porousness or foaminess is likewise not implied. Might also include
+      "cushiony", "cotton-like", "wool-like"; a fractal nature might be present.  For
+      fuzziness: not necessarily hairy or furry, but must be soft; not bristly (which
+      implies stiffness and hardness).  See also: {ranti}, {rufsu}, {xutla}, {panje},
+      {dilnu}, {mapni}, {sunla}, {fonmo}, {jduli}, {pesxu}, {marji}.'
+    glosses:
+    - 'airy (texture: fluffy, soft)'
+    - 'airy (texture: fluffy, soft; not nec. foamy)'
+    - cushiony (fluffy, wool-like, cotton-like, airy, soft)
+    - fluff (quantity of fluff)
+    - 'fluffy (texture: soft, airy)'
+    - 'fuzzy (fluffy, airy, soft; (not nec.: hairy/furry; not: bristly))'
+    - 'soft (texture: fluffy, airy)'
+  ru:
+    place structure: x1 - пушистый, воздушный, мягкий, нежный по текстуре и состоящий
+      из x2
+    notes:
+    - 'Зрительно и тактильно. Частые (но не обязательные) примеры: податливый, пористый,
+      пенистый, "мягкий, как подушка", "ватообразный", "как шерсть". Может иметь фрактальную
+      природу. Не обязательно волосатый или пушистый, но должен быть мягким, не щетинистым
+      (что подразумевает жесткость и твердость). См. {palpi}, {ranti}, {rufsu}, {xutla},
+      {panje}, {dilnu}, {mapni}, {sunla}, {fonmo}, {jduli}, {pesxu}, {marji}.'
+    glosses:
+    - ватообразный (по текстуре)
+    - воздушный (по текстуре)
+    - пушистый (по текстуре)
+  es:
+    place structure: x1 es una cantidad de pelusa de composición / estructura / caracterización
+      / sustancia x2 ; x1 es mullido / aireado / suave / borroso en la textura
+    notes:
+    - 'Visual y táctil. Es posiblemente maleable, pero esta palabra no tiene tales
+      implicaciones inherentemente; del mismo modo, porosidad o espumosidad no están
+      implicados. El significado también puede incluir "acolchada", "como el algodón",
+      y "como la lana"; una naturaleza fractal puede estar presente. Para borrosidad:
+      no es necesariamente peludo, pero debe ser suave; no cerdoso o erizado (que
+      implica rigidez y dureza). Vea usted también: {ranti}, {rufsu}, {xutla}, {panje},
+      {dilnu}, {mapni}, {sunla}, {fonmo}, {jduli}, {pesxu}, {marji}.'
+    glosses:
+    - aireado (pelusa; no necesariamente espumosa)
+    - borroso (suave, pelusa, mullido; no necesariamente peludo; no cerdoso o erizado)
+    - mullido (pelusa)
+    - pelusa
+    - suave (pelusa)
+  fr:
+    place structure: x1 est une quantité de duvet / peluche / bourre qui a / est de
+      la composition / la structure / caractérisation / substance x2 ; x1 est  pelucheux
+      / duveteux  / moelleux / aéré / flou dans la texture.
+    notes:
+    - 'Visuel et tactile. x1 est probablement un peu malléable, mais ce mot n''a pas
+      de telles implications en soi; porosité ou moussité est pas non plus implicite.
+      Pourraient également inclure "moelleux", "comme le coton", "comme la laine";
+      une nature fractale pourrait être présent. Pour flou: il n''est pas nécessairement
+      poilu ou velu, mais doit être doux; pas hérissé (ce qui implique la rigidité,
+      raideur, et dureté). Voyez aussi: {ranti}, {rufsu}, {xutla}, {panje}, {dilnu},
+      {mapni}, {sunla}, {fonmo}, {jduli}, {pesxu}, {marji}.'
+    glosses:
+    - bourre (duvet, peluche)
+    - duvet (peluche, bourre)
+    - duveteux (moelleux, pelucheux)
+    - moelleux (duveteux)
+    - peluche (duvet)
+    - pelucheux (duveteux, moelleux)

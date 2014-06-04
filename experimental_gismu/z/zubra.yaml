@@ -1,0 +1,18 @@
+word: zubra
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bison of species x2
+    notes:
+    - See {bakni}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 - это зубр/бизон вида x2
+    notes:
+    - См. {bakni}
+    glosses:
+    - бизон
+    - зубр

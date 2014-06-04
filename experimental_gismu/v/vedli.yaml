@@ -1,0 +1,31 @@
+word: vedli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 remembers experience x2 (li'i)
+    notes:
+    - x1 lifri x2 is implied. See also {morji}, {lifri}. Proposed short rafsi -ve'i-.
+    glosses:
+    - remember experience
+  ru:
+    place structure: x1 помнит свой собственный опыт/чувства/ощущения x2; x1 ведает
+      x2
+    notes:
+    - предполагается наличие x1 lifri x2. См. также {morji}, {lifri}. Краткое rafsi
+      -ve'i-.
+    glosses:
+    - ведать (помнить свой собственный опыт)
+  zh:
+    place structure: x1记得经历x2（li'i）
+    notes:
+    - 暗示x1经历过x2；参见 {morji}, {lifri}；建议其短rafsi为： -ve'i-
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 remembers experience x2 (li'i)
+    notes:
+    - No notes.
+    glosses:
+    - the one who remembers their experience

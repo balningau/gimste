@@ -1,0 +1,35 @@
+word: jikni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 consists of the economic system (production and distribution
+      and consumption) of sector components x2; x1 is economic.
+    notes:
+    - x2 may be a country or other area, the labor, capital and land resources, and
+      the economic agents that socially participate in the production, exchange, distribution,
+      and consumption of goods and services of that area; they may be joined with
+      JOI. {pavmomseljikni} for "primary sector", {relmomseljikni} for "secondary
+      sector", {cibmomseljikni} for "tertiary sector", and {vonmomseljikni} for "quaternary
+      sector"; {gubyseljikni} for "public/state sector", {sivyseljikni} for "private
+      sector", and {jikseljikni} for "social/voluntary sector". Cf. {venci'e}, {selpraci'e}.
+    glosses:
+    - economic (pertaining to an economy)
+    - economy (production and distribution and consumption)
+    - x1=economic system
+    - x2=economic sector
+  zh:
+    place structure: x1是关于经济的；x1是由经济组分x2所构成的（生产/运送/消费）
+    notes:
+    - x2可能是指国家/地区/劳动力/土地资源/生产资源/交易/分配/消费的商品与服务，它们之间可用JOI相连； {pavmomseljikni}第一产业；
+      {relmomseljikni}第二产业； {cibmomseljikni}第三产业； {vonmomseljikni}第四产业； {gubyseljikni}公有/国有企业；
+      {sivyseljikni}私有企业；{jikseljikni}社会/资源机构/部门；参见 {venci'e}, {selpraci'e}.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 consists of the economic system of sector components x2
+    notes:
+    - No notes.
+    glosses:
+    - economic system

@@ -1,0 +1,38 @@
+word: lacni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an eyewear used/worn by x2 serving purpose x3.
+    notes:
+    - It is a frame worn in front of the eyes and bears or does not bear transparent/semi-transparent/non-transparent
+      shields for visual correction, eye protection, fashion, or entertainment. The
+      shields are not necessarily lenses. Cf. {le'otci} or {le'orlacni} for a corrective
+      type, which may include {tidlacni} for reading glasses and {xrelacni} for bifocal
+      and trifocal glasses; {badlacni} for a protective type, which may include {srulacni}
+      for goggles and {solylacni} for sunglasses; {jadlacni} for fashion glasses,
+      which may include {rekmeclacni} for rimless glasses and solylacni; {mincimdylacni}
+      for 3D glasses.
+    glosses:
+    - eyeglasses (eyewear)
+    - eyewear
+    - glasses (eyeglasses)
+    - glasses (eyewear)
+    - goggle (eyewear)
+    - spectacle (eyewear)
+    - spectacles (eyeglasses)
+  zh:
+    place structure: x1是x2戴的眼镜，为了目的/用途x3
+    notes:
+    - 包括了用于视觉矫正，护眼，娱乐，装饰等各种眼镜，有的眼镜具有多种作用；参见：{le'otci}/{le'orlacni}矫正型眼镜（可能包括：{tidlacni}阅读眼镜，{xrelacni}双焦和集中混合眼镜）；{badlacni}
+      护目眼镜（可能包括：{srulacni}护目镜，{solylacni}太阳镜）；{jadlacni} 饰品眼镜（可能包括：{rekmeclacni} 无框眼镜，
+      {solylacni}）； {mincimdylacni}3D眼镜
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is an eyewear/glasses used by x2 serving purpose x3
+    notes:
+    - No notes.
+    glosses:
+    - glasses

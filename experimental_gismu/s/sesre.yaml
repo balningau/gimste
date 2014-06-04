@@ -1,0 +1,29 @@
+word: sesre
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects USSR (Soviet Union)/Soviet culture/Soviet nationality
+      in aspect x2
+    notes:
+    - '{softo} doesn''t mean Soviet ! Besides, some modern Russians hate Soviet period
+      of their country. What is more, Russian Empire, USSR and Russian Federation
+      are three different countries and CIS is not a country at all. Cf. {softo},
+      {rusko}, {vukro}, {slovo}, {gugdesu''u}, {soviet}.'
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是关于苏联的文化/国家/语言等的事物，在x2方面
+    notes:
+    - '{softo}并不是指苏联；另外，俄罗斯帝国，苏维埃联邦，俄罗斯联邦是三个不同的国家，而CIS（独立国家联合体，即独联体）并非是一个国家；参见 {softo},
+      {rusko}, {vukro}, {slovo}, {gugdesu''u}, {soviet}.'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 reflects USSR (Soviet Union)/Soviet culture/Soviet nationality
+      in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - Soviet

@@ -1,0 +1,31 @@
+word: smaka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 feels the taste x2
+    notes:
+    - See {tasta}, {vrusi}, {ganse}, {palpi}, {viska}
+    glosses:
+    - x1=to taste
+    - x2=tasted
+  ru:
+    place structure: x1 чувствует вкус x2 (какой)
+    notes:
+    - См. {tasta}, {vrusi}, {ganse}, {palpi}, {viska}
+    glosses:
+    - смаковать
+    - чувствовать вкус
+  zh:
+    place structure: x1品尝/感受到味道x2
+    notes:
+    - 参见 {tasta}, {vrusi}, {ganse}, {palpi}, {viska}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 feels the taste x2
+    notes:
+    - No notes.
+    glosses:
+    - the one who feels the taste

@@ -1,0 +1,53 @@
+word: krali
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (NU) is a legal/moral entitlement of x2 (individual/mass)
+      by standard x3.
+    notes:
+    - Normative principles, variously construed as legal, social, or moral freedoms
+      or entitlements. {rarkrali} for "natural rights and {flakrali} for "legal rights";
+      {xuskrali} for "claim rights" and {zifkrali} for "liberty rights"; {crukrali}
+      for "positive rights" and {ri'urkrali} for "negative rights"; {sepkrali} for
+      "individual rights" and {gumkrali} for "group rights"; {selcemkrali} for "civil
+      rights" and {seljeckrali} for "political rights"; {jiknykrali} for "economic
+      rights", {jikykrali} for "social rights", and {klukrali} for "cultural rights";
+      {remkrali} for "human rights" and {dalkrali} for "animal rights". Cf. {selfla},
+      {selzi'e}, {terzi'e}, {selzau}, {selpikta}.
+    glosses:
+    - right (entitlement)
+    - rights (entitlements)
+  ru:
+    place structure: x1 (NU) это юридическое/моральное право x2 (кого; индивида/массива)
+      согласно стандарту x3.
+    notes:
+    - Нормативные принципы, в разных случаях толкуемые как юридические, общественные
+      или моральные свободы или привилегии. {rarkrali} для 'естественных прав' и {flakrali}
+      для "юридических прав"; {xuskrali} для 'предъявляемых прав" и {zifkrali} для
+      "свобод"; {crukrali} для 'положительных прав' (разрешающих действия) и {ri'urkrali}
+      для 'отрицательных прав' (разрешающих бездействие); {sepkrali} для 'индивидуальных
+      прав' и {gumkrali} для 'групповых прав'; {selcemkrali} для 'гражданских прав'
+      и {seljeckrali} для 'политических прав'; {jiknykrali} для 'экономических прав',
+      {jikykrali} для 'общественных прав' и {klukrali} для 'культурных прав'; {remkrali}
+      для 'прав человека' и {dalkrali} для 'прав животных'. См. также {selfla}, {selzi'e},
+      {terzi'e}, {selzau}, {selpikta}.
+    glosses:
+    - права (свободы/привилегия)
+    - право (свобода/разрешение/привилегия)
+  zh:
+    place structure: x1（ka）是合法的/道德上允许的，被x2所允许，基于标准x3
+    notes:
+    - 各种被解释为合法，符合社会规范，道德自由和权利的规范性原则；{rarkrali}自然权利， {flakrali} 法定权利， {xuskrali}言论权利，{zifkrali}自由权，{crukrali}
+      许可权，{ri'urkrali} 否决权，{sepkrali}个人权利，{gumkrali} 集体权利，{selcemkrali}公民权，{seljeckrali}政治权利，{jiknykrali}经济权利，{jikykrali}社会权利，{klukrali}文化权利，
+      {remkrali}人权，{dalkrali}动物权利；参见 {selfla}, {selzi'e}, {terzi'e}, {selzau}, {selpikta}.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 (ka) is a legal/moral entitlement of individuals x2 by standard
+      x3.
+    notes:
+    - No notes.
+    glosses:
+    - legal or moral right

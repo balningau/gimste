@@ -1,0 +1,31 @@
+word: norgo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Norwegian culture/nationality in aspect x2
+    notes:
+    - Experimental gismu.
+    glosses:
+    - Norway (country)
+    - Norwegian (people)
+  zh:
+    place structure: x1是关于挪威的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 实验性gismu.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 reflects Norwegian culture/nationality in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - Norwegian
+  eo:
+    place structure: x1 montras norvegan kulturon/naciecon/lingvon laŭ aspekto x2
+    notes:
+    - Neoficiala radiko
+    glosses:
+    - Norvegio (lando)
+    - norvega (popolo)

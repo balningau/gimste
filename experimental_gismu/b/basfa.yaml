@@ -1,0 +1,34 @@
+word: basfa
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an omnibus for carrying x2 in medium x3 propelled by x4.
+    notes:
+    - Cf. {sorprekarce}; {pavloibasfa} for single-decker, {relyloibasfa} for double-decker
+      {jonbasfa} for articulated, {clajonbasfa} for bi-articulated, {dizbasfa} for
+      low-floor, {drucaubasfa} for open top, {kumbasfa} for coach, {dicybasfa} for
+      trolleybus.
+    glosses:
+    - omnibus (vehicle)
+  jbo:
+    place structure: x1 marce x2 no'u so'i prenu x3 boi x4
+    notes:
+    - mintu zo {sorprema'e} gi'e se cmima zo {sorprekarce} .i basfa gi'u pilno lo
+      dargu
+    glosses:
+    - basfa
+    - sorprema'e
+  zh:
+    place structure: x1是公共汽车，为了运输x2，在媒介/道路x3上，由x4驱动
+    notes:
+    - 即：{sorprekarce}； {pavloibasfa}=单层巴士； {relyloibasfa}=双层巴士； {jonbasfa}=节式巴士（有多节车厢）
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is an omnibus for carrying x2 in medium x3 propelled by x4
+    notes:
+    - No notes.
+    glosses:
+    - omnibus

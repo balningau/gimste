@@ -1,0 +1,19 @@
+word: metfo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (bridi) is a metaphor/figurative expression having literal
+      meaning x2
+    notes:
+    - See {sidysmu}, {tanru}, {pevna}, {pe'a}, {ve} {lujvo}, {cimjvo}
+    glosses:
+    - metaphor (figurative expression)
+  ru:
+    place structure: x1 (bridi) - это метафора/образное выражение, имеющее буквальное
+      значение x2
+    notes:
+    - См. {sidysmu}, {tanru}, {pevna}, {pe'a}, {ve} {lujvo}, {cimjvo}
+    glosses:
+    - метафора (образное выражение)

@@ -1,0 +1,36 @@
+word: pilda
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is pale
+    notes:
+    - See {kandi}, {blabi}, {grusi}
+    glosses:
+    - pale
+  ru:
+    place structure: x1 — бледный (о цвете);
+    notes:
+    - '''Бледнеть'' - {co''a} pilda. См. {kandi}, {blabi}, {grusi}'
+    glosses:
+    - бледный
+  zh:
+    place structure: x1是苍白的
+    notes:
+    - 参见 {kandi}, {blabi}, {grusi}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is pale
+    notes:
+    - No notes.
+    glosses:
+    - pale
+  ja:
+    place structure: x1 は青ざめている／血の気が無い／活力が無い／元気が無い
+    notes:
+    - ・大意： 青ざめる ・読み方： ピルィダ
+    - ''
+    glosses:
+    - No glosses.

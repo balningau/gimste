@@ -1,0 +1,30 @@
+word: xorbo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 pertains to Xorban language/culture in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - xorban
+  ru:
+    place structure: x1 принадлежит к языку Хорбану/хорбанской культуре в аспекте
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - хорбан
+  zh:
+    place structure: x1是关于Xorban的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 实验中的gismu
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 pertains to xorban language/culture in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - Xorban

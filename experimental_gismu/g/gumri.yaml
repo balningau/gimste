@@ -1,0 +1,36 @@
+word: gumri
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mushroom of species x2.
+    notes:
+    - Cf. {mledi}, {ledgrute}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 это гриб вида x2.
+    notes:
+    - Ср. {mledi}, {ledgrute}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是蘑菇/伞菌，属于品种/种类x2
+    notes:
+    - 参见 {mledi}, {ledgrute}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a mushroom of species x2.
+    notes:
+    - No notes.
+    glosses:
+    - mushroom
+  ja:
+    place structure: x1 は x2 （種類）のキノコ；  x1 はキノコ形
+    notes:
+    - ・大意： 茸 ・読み方： グムリ ・関連語： {mledi}
+    - ''
+    glosses:
+    - No glosses.

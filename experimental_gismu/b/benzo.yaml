@@ -1,0 +1,19 @@
+word: benzo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is an aromatic chemical of type x2.
+    notes:
+    - No notes.
+    glosses:
+    - aromatic (chemical)
+    - benzene
+  zh:
+    place structure: x1 是 x2 类型的芳香烃
+    notes:
+    - No notes.
+    glosses:
+    - 芳香烃
+    - x2=类型

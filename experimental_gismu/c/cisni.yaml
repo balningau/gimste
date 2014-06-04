@@ -1,0 +1,26 @@
+word: cisni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is of size/measurement x2 in dimension/aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - depth
+    - height (standing height, tall/high, small/low)
+    - measurement
+    - width
+  zh:
+    place structure: x1是在形状/规格上具有尺寸/大小x2的
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is of size/measurement x2 in dimension/aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - size

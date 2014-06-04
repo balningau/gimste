@@ -1,0 +1,25 @@
+word: sarni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a three-angled shape/form defined by set of corners/vertices
+      x2, sides/dimensions x3
+    notes:
+    - see also {cibjgatai}
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是三角形，具有角/顶点x2，边/尺寸x3
+    notes:
+    - 参见 {cibjgatai}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a triangle/tetrahedron defined by set of corners/vertices
+      x2, sides/dimensions x3
+    notes:
+    - No notes.
+    glosses:
+    - triangle

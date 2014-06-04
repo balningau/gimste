@@ -1,0 +1,29 @@
+word: betka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a beet of species/variety x2.
+    notes:
+    - No notes.
+    glosses:
+    - beet
+  ru:
+    place structure: x1 - это свёкла/свекла вида/разновидности x2.
+    notes:
+    - No notes.
+    glosses:
+    - свёкла (растение)
+  zh:
+    place structure: x1是甜菜，属于种类x2
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a beet of variety x2
+    notes:
+    - No notes.
+    glosses:
+    - beet

@@ -1,0 +1,32 @@
+word: bekpi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1 is a/the ''back''/dorsum/''posterior'' body-part of x2 '
+    notes:
+    - Cf. {trixe}, {cutne}. Not necessarily should be at the back of the body. Determined
+      by bilateral symmetry of the body.
+    glosses:
+    - back of the body (dorsum)
+    - dorsum
+  ru:
+    place structure: x1 - это спина/'задняя' часть тела x2 (кого)
+    notes:
+    - См. также {trixe}, {cutne}. Не обязательное должна находится в задней части
+      организма. Определяется двусторонней симметрией организма
+    glosses:
+    - спина
+  zh:
+    place structure: x1是背部，属于身体部位x2
+    notes:
+    - 此背部不一定是在身体部位的后面，而应该由身体本身的结构决定；对照参见{trixe},{cutne}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is the back/dorsum/'posterior' body-part of x2
+    notes:
+    - No notes.
+    glosses:
+    - back of body

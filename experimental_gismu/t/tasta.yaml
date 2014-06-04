@@ -1,0 +1,29 @@
+word: tasta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a taste of x2
+    notes:
+    - See {smaka}, {vrusi}, {kukte}, {krumami}, {sodna}
+    glosses:
+    - x1=taste (feeling)
+  ru:
+    place structure: x1 - это вкус (ощущение) x2 (чего)
+    notes:
+    - См. {smaka}, {vrusi}, {kukte}, {krumami}, {sodna}
+    glosses:
+    - x1=вкус (ощущение)
+  zh:
+    place structure: x1是x2的味道
+    notes:
+    - 参见 {smaka}, {vrusi}, {kukte}, {krumami}, {silna}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a taste of x2
+    notes:
+    - No notes.
+    glosses:
+    - taste

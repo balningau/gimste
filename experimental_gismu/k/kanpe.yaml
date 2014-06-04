@@ -1,0 +1,74 @@
+word: kanpe
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 expects/looks for the occurence of x2 (event), expected likelihood
+      x3 (0-1, default {li} {so'a} i.e. near 1); x1 subjectively evaluates the likelihood
+      of x2 (event) to be x3.
+    notes:
+    - The value of x3 is a subjective estimate of likeliness according to x1, and
+      is the basic determinant of whether kanpe means something like "hope" or "wish"
+      or "expect", although kanpe never carries the connotation of desire; for that
+      connotation see {pacna}. kanpe with x3 not very close to 1 has no simple equivalent
+      in English, but for objects/states with negligible expectation it is something
+      like "wishing"; if the state is plausibly likely, it is something like "hoping".
+      In both cases, though, the English implication of emotional desire is not present.
+      The value will usually be expressed using inexact numbers ("{li} {piso'u}" to
+      "{li} {piro}"); not-necessarily desirous wish, not-necessarily-desirous hope.
+      See also {djica}, {pacna}, {lakne}, {cunso}.
+    glosses:
+    - expect
+  ru:
+    place structure: x1 ожидает x2 (событие) с ожидаемой вероятностью x3 (0-1, по
+      умолчанию {li} {so'a}, т.е. около 1); x1 субъективно оценивает вероятность x2
+      (события) в x3; x1 субъективно считает, что x2 (событие) имеет вероятность x3
+    notes:
+    - Значение x3 - это субъективная оценка вероятности согласно x1 (кому-либо/чему-либо),
+      и является решающим фактором, означает ли kanpe что-то вроде "надежды", "желания"
+      или "ожидания", хотя kanpe совершенно не подразумевает желания; для соответствующего
+      значения см. {pacna}. kanpe с x3 не очень близкой к 1 не имеет простого эквивалента
+      в русском языке, но для объектов/состояний с незначительным ожиданием оно означает
+      что-то вроде "желания"; если состояние правдоподобно, то это что-то вроде "надежды".
+      В обоих случаях, однако, русские слова подразумевают эмоциональное желание,
+      однако этот компонент отсуствует в значении слова kanpe. Значение обычно выражается
+      с использованием неточных чисел (от "{li} {piso'u}" до "{li} {piro}"); не имеющее
+      оттенка желанности желание или надежда. См. также {djica}, {pacna}, {cunso}.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1预计/预期事件x2具有可能性x3（可能性在0-1之间，默认{li} {so'a}：几乎全部）；x1主观推算事件x2的可能性为x3
+    notes:
+    - x3的值的大小是x1的主观估计，同时也是诸如“希望/期望”等词的基本决定因素，尽管kanpe本身并不带有任何“希望”的暗示，带有希望暗示的可能性参考{pacna}；可能性值可用不精确的数词（{li}
+      {piso'u}到{li} {piro}）；参见 {djica}, {pacna}, {lakne}, {cunso}.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 expects event x2 with likelihood x3 (value from 0 to 1, default
+      is {li} {so'a} i.e. near 1)
+    notes:
+    - No notes.
+    glosses:
+    - the one who expects
+  eo:
+    place structure: x1 atendas/antaŭvidas x2 (okazo), kun atendita probableco x3
+      (0-1); x1 atendas/antaŭvidas ke x2 okazu.
+    notes:
+    - No notes.
+    glosses:
+    - atendi (antaŭvidi)
+  hu:
+    place structure: x1 számít x2 esemény bekövetkeztére, amelyre x3 esélyt lát
+    notes:
+    - 'x3 alapértelmezett értéke li so’a (1-hez közeli érték); kísérleti gismu (Lásd
+      még: {pacna})'
+    glosses:
+    - számít valamire
+  ja:
+    place structure: x1 は x2 （事）を x3 （確率）で予期／期待する
+    notes:
+    - 試験的 gismu。 ・大意： 予期 ・読み方： カンペ ・語呂合わせ： カンペで予期する ・関連語： {lakne}, {denpa}, {lacri}
+    - ''
+    glosses:
+    - No glosses.

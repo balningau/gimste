@@ -1,0 +1,24 @@
+word: taksi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a taxi
+    notes:
+    - See also {aftobuso}. For denoting passengers, engine, towns and cities etc.
+      used in combination with {karce}, {carce}, {marce}, {tcadu}.
+    glosses:
+    - taxi
+  zh:
+    place structure: x1是出租车
+    notes:
+    - 参见 {aftobuso}, {tcadu}, {karce}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a taxi
+    notes:
+    - No notes.
+    glosses:
+    - taxi

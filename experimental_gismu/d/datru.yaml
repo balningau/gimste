@@ -1,0 +1,33 @@
+word: datru
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (event) is dated/pertaining to day/occurring on day x2 of
+      month x3 of year x4 in calendar x5
+    notes:
+    - We felt that {detri} just didn't work as a culturally-independent date system.
+      The use of {pi'e} or {joi} as date mechanisms was insufficient and having the
+      date components built into the place structure seems far more elegant. (Cf.
+      {masti}, {djedi}, {nanca}, {nu}, {fasnu}, {purci}, {balvi}, {jeftu})
+    glosses:
+    - happen (on day)
+    - x2=day (on day)
+    - x3=month (of month)
+    - x4=year (of year)
+    - x5=calendar (date chart)
+  zh:
+    place structure: x1（事件）发生在/处于时间日期x2，月份x3，年份x4，以历法x5
+    notes:
+    - '{detri}是不能够表示某些独立的时间系统的，{pi''e}或{joi}的使用也存在不足，而将时间元素构建到位结构之中又显得非常繁杂；参见 {masti},
+      {djedi}, {nanca}, {nu}, {fasnu}, {purci}, {balvi}, {jeftu})'
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 (event) is occurring on day x2 of month x3 of year x4 in calendar
+      x5
+    notes:
+    - No notes.
+    glosses:
+    - date

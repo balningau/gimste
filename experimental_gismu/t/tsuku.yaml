@@ -1,0 +1,29 @@
+word: tsuku
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 arrives at x2 via route x3
+    notes:
+    - See {cliva}, {klama}, {tolyli'a}
+    glosses:
+    - arrive (at)
+    - x1=arriver
+    - x2=the place of arrival
+  jbo:
+    place structure: x1 tolyli'a x2 x3
+    notes:
+    - ko catlu fe ji'a zo {cliva} fa'u zo {klama} fa'u zo {tolyli'a}
+    glosses:
+    - to'e cliva
+    - tolyli'a
+    - tsuku
+  ru:
+    place structure: x1 прибывает в x2 по маршруту x3
+    notes:
+    - См. {cliva}, {klama}, {tolyli'a}
+    glosses:
+    - прибывать (на)
+    - x1=прибывающий
+    - x2=место прибытия

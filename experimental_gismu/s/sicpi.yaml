@@ -1,0 +1,38 @@
+word: sicpi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is rain of composition including x2.
+    notes:
+    - Cf. {bratu}, {snime}, {carvi}.
+    glosses:
+    - No glosses.
+  jbo:
+    place structure: x1 litki x2 gi'e ba'o lunba lo vacri gi'e carvi fi lo varsenta
+    notes:
+    - '{bratu}, {snime}, {carvi}'
+    glosses:
+    - sicpi
+  es:
+    place structure: x1 es una cantidad de lluvia/llovizna/precipitación líquida de
+      material/composición x2
+    notes:
+    - '{bratu}, {snime}, {carvi}'
+    glosses:
+    - lluvia
+  eo:
+    place structure: x1 estas pluvo/likva precipitaĵo de materialo/konsisto enhavanta
+      x2-on
+    notes:
+    - '{bratu}, {snime}, {carvi}'
+    glosses:
+    - pluvo
+  ja:
+    place structure: x1 は雨
+    notes:
+    - ・大意： 雨 ・読み方： スィシピ ・関連語： {carvi} (上位概念)
+    - ''
+    glosses:
+    - No glosses.

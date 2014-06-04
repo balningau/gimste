@@ -1,0 +1,23 @@
+word: pamga
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a papaya (fruit) of species/variety/cultivar x2
+    notes:
+    - '{rutrpaupau} is the non-experimental synonym of “pamga”. See also {grute}.'
+    glosses:
+    - papaya (fruit)
+  zh:
+    place structure: x1是木瓜，属于物种/种类x2
+    notes:
+    - 参见 {grute}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a papaya (fruit) of variety x2
+    notes:
+    - No notes.
+    glosses:
+    - papaya

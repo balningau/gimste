@@ -1,0 +1,33 @@
+word: didni
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 deduces/reasons by deduction/establishes by deduction that
+      x2 is true about x3 from general rule x4
+    notes:
+    - See {nibji'i}, {nusna}, {lanli}, {jdice}, {logji}, {nibli}
+    glosses:
+    - deduce (deduct)
+    - deduct
+  zh:
+    place structure: x1推论x2为真，关于x3，来自基本推论规律x4
+    notes:
+    - 参见 {nibji'i}, {nusna}, {lanli}, {jdice}, {logji}, {nibli}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 deduces/reasons by deduction/establishes by deduction that
+      x2 is true about x3 from general rule x4
+    notes:
+    - No notes.
+    glosses:
+    - deducer
+  ja:
+    place structure: x1 は x2 （命題）を x3 （題目）について x4 （一般法則）から演繹する
+    notes:
+    - ・大意： 演繹 ・読み方： ディドゥニ ・関連語： {logji}, {jinvi}, {smadi}, {sucta}, {nusna}
+    - ''
+    glosses:
+    - No glosses.

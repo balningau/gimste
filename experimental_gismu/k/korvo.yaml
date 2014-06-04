@@ -1,0 +1,23 @@
+word: korvo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a crow/raven of species x2.
+    notes:
+    - No notes.
+    glosses:
+    - No glosses.
+  zh:
+    place structure: x1是乌鸦，属于品种/种类x2
+    notes:
+    - 参见{cipni}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a crow/raven of species x2.
+    notes:
+    - No notes.
+    glosses:
+    - crow

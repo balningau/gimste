@@ -1,0 +1,29 @@
+word: bambu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a bamboo (Bambuseae) of genus/species x2.
+    notes:
+    - Cf. {spati}, {tricu}.
+    glosses:
+    - bamboo
+  ru:
+    place structure: x1 - это бамбук (Bambuseae) рода/вида x2.
+    notes:
+    - Ср. {spati}, {tricu}.
+    glosses:
+    - бамбук
+  zh:
+    place structure: x1是竹，属于种类x2
+    notes:
+    - 参见{spati},{tricu}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a bamboo of variety x2
+    notes:
+    - No notes.
+    glosses:
+    - bamboo

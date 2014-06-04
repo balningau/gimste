@@ -1,0 +1,30 @@
+word: cagna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a wound on body x2 at locus x3 caused by x4
+    notes:
+    - Unlike velxai, it's specific to physical injuries pertaining to the surface
+      of an organic body such as skin. Open wounds include ka'arcagna for "incision
+      / incised wound", fercagna for "laceration", gukcagna for "abrasion", tuncagna
+      for "puncture wound", grecagna for "penetration wound", batcagna for "bite wound",
+      dancagna for "gunshot wound", jelcagna for "burn", da'ercagna for "bedsore",
+      furcagna for "necrosis"; closed wounds include daxcagna for "contusion/bruise",
+      camdaxcagna for "hematoma", ra'ircagna for "chronic wound".
+    glosses:
+    - wound (injury)
+    - wounded
+  zh:
+    place structure: x1是伤口，位于身体x2上的部位x3，因为原因x4而被造成
+    notes:
+    - 与{velxai}不同，{cagna}特指机体表面的物理损伤，包括：{ka'arcagna}割伤，{fercagna}皲裂/裂口，{gukcagna}擦伤，{tuncagna}刺伤，{grecagna}戳伤，{batcagna}咬伤，{dancagna}枪伤，{jelcagna}灼伤/烧伤，{da'ercagna}褥疮，{furcagna}坏疽，{daxcagna}挫伤/瘀伤，{camdaxcagna}红肿，{ra'ircagna}慢性伤口/创面等
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a wound on body x2 at locus x3 caused by x4
+    notes:
+    - No notes.
+    glosses:
+    - wound

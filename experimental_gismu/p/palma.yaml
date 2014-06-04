@@ -1,0 +1,31 @@
+word: palma
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a palm tree (Palmae/Arecaceae) of species x2
+    notes:
+    - Cf. {tricnrarekake}, {tricu}, {kokso}, {grasu}, {narge}
+    glosses:
+    - palm
+    - palm (tree)
+  ru:
+    place structure: x1 это пальма/пальмовое дерево (Palmae/Arecaceae) вида/разновидности
+      x2
+    notes:
+    - См. также {tricnrarekake}, {tricu}, {kokso}, {grasu}, {narge}
+    glosses:
+    - пальма (дерево)
+  zh:
+    place structure: x1是棕榈树，属于品种x2
+    notes:
+    - 参见 {tricnrarekake}, {tricu}, {kokso}, {grasu}, {narge}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a palm tree of species x2
+    notes:
+    - No notes.
+    glosses:
+    - palm tree

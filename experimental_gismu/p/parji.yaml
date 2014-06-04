@@ -1,0 +1,31 @@
+word: parji
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a parasite of x2.
+    notes:
+    - see also {civla}, {cipnrkuku}, {xidnora}
+    glosses:
+    - x1=parasite
+    - x2=host (of parasite)
+  zh:
+    place structure: x1是x2的寄生虫/寄生物
+    notes:
+    - 参见 {civla}, {cipnrkuku}, {xidnora}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a parasite of x2.
+    notes:
+    - No notes.
+    glosses:
+    - parasite
+  ja:
+    place structure: x1 は x2 に寄生している／にたいして寄生的；  x1 は寄生生物
+    notes:
+    - 「居候」「食客」も。 ・大意： 寄生 ・読み方： パルジ ・関連語： {mledi}, {civla}, {vidru}
+    - ''
+    glosses:
+    - No glosses.

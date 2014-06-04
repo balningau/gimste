@@ -1,0 +1,45 @@
+word: laldo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is old/aged [relatively long in elapsed duration] by standard
+      x2
+    notes:
+    - (= {tolci'o}) See {citno}, {slabu}
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 - старый/пожилой [относительно длинный в истёкшей длительности]
+      по стандарту x2
+    notes:
+    - (= {tolci'o}) см. {citno}, {slabu}
+    glosses:
+    - пожилой
+    - старый
+  zh:
+    place structure: x1是老的/年长的（在时间长度上相对时间长），基于标准x2
+    notes:
+    - 等同于 {tolci'o}，参见： {citno}, {slabu}}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is old, aged in that it has x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=old
+  hu:
+    place structure: x1 öreg/idős/régi x2 mérce szerint
+    notes:
+    - 'Javasolt változtatás, loglanból átvéve (Lásd még: {citno})'
+    glosses:
+    - öreg
+  ja:
+    place structure: x1 は x2 （基準）において古い／高齢／年寄り
+    notes:
+    - 試験的 gismu。 ・大意： 古い ・読み方： ルァルゥド ・関連語： {citno} (若い), {cnino} (新しい), {slabu} (久しい)
+    - ''
+    glosses:
+    - No glosses.

@@ -1,0 +1,46 @@
+word: mango
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a mango [fruit] of species/variety x2.
+    notes:
+    - '{rutrmango} is the non-experimental synonym of “mango”. {ricrmango} for “mango
+      tree”.'
+    glosses:
+    - x1=mango
+    - x2=mango species
+  jbo:
+    place structure: x1 noi grute ja tricu la'o ly. Mangifera .ly. cu spatrnakardiace
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - mango
+  ru:
+    place structure: x1 - это манго [плод] вида/разновидности x2
+    notes:
+    - '{ricrmango} для дерева манго'
+    glosses:
+    - манго (плод)
+  es:
+    place structure: x1 es un mango de especie/variedad x2.
+    notes:
+    - No notes.
+    glosses:
+    - mango (fruta)
+    - x2=especie de mango (especie/variedad de mango)
+  zh:
+    place structure: x1 是 x2 种类的芒果
+    notes:
+    - No notes.
+    glosses:
+    - 芒果
+    - x2=芒果种类
+  en-simple:
+    place structure: x1 is a mango fruit of variety x2.
+    notes:
+    - No notes.
+    glosses:
+    - mango

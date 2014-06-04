@@ -1,0 +1,44 @@
+word: smela
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a plum/peach/cherry/apricot/almond/sloe [fruit] (genus
+      Prunus) of species/variety x2
+    notes:
+    - '{zirsmela} for plum, {xunsmela} for cherry, {najysmela} for peach, {pelsmela}
+      for apricot, {ri''orsmela} for almond, {blasmela} for sloe. Cf. {rutrprunu},
+      {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari},
+      {plise}, {perli}, {rozgu}'
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 - это слива/персик/вишня/абрикос/миндаль/тёрн [плод] (род
+      Prunus) вида/разновидности x2
+    notes:
+    - '{zirsmela} для сливы, {xunsmela} для вишни, {najysmela} для персика, {pelsmela}
+      для абрикоса, {ri''orsmela} для миндаля, {blasmela} для тёрна.'
+    - Ср. {rutrprunu}, {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku},
+      {frambesi}, {fragari}, {plise}, {perli}, {rozgu}
+    glosses:
+    - абрикос (плод)
+    - миндаль (плод)
+    - персик (плод)
+    - слива (плод)
+    - тёрн (плод)
+  zh:
+    place structure: x1是李属类水果（如：李/桃/杏/樱桃等），属于种族/种类x2
+    notes:
+    - 梅子/紫李={zirsmela}，樱桃={xunsmela}，桃={najysmela}，杏={pelsmela}，扁桃={ri'orsmela}，野李/黑刺李={blasmela}；参见
+      {rutrprunu}, {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi},
+      {fragari}, {plise}, {perli}, {rozgu}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is a plum/peach/cherry/apricot/almond/sloe fruit of species/variety
+      x2
+    notes:
+    - No notes.
+    glosses:
+    - plum

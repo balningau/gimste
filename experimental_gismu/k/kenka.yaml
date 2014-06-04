@@ -1,0 +1,21 @@
+word: kenka
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is a quantity of cake/torte/tart/pie/flan made of/containing
+      ingredients x2, prepared according to method x3.
+    notes:
+    - Cf. {titnanba}, {jupypesxu}, {rutytisna}
+    glosses:
+    - x2=cake ingredients
+    - x3=cake preparation method
+  ru:
+    place structure: x1 - это торт/пирог, сделанный из ингредиентов x2 (множество),
+      приготовленный методом x3 (событие)
+    notes:
+    - См. {titnanba}, {jupypesxu}, {rutytisna}
+    glosses:
+    - пирог
+    - торт

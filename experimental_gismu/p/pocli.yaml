@@ -1,0 +1,37 @@
+word: pocli
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 poses deflated and derided morally worthless, cheap, vulgar,
+      commonplace, banal qualities according to x2 in aspect x3
+    notes:
+    - x1 poses poshlyi [Russian original term] morally worthless, cheap, sham, smutty,
+      vulgar, common, commonplace, trivial, trite, banal qualities that are subject
+      to being deflated and derided. x1 is poshlyi / posljak  / posljacka / exposes
+      poshlost' / poshlust
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 проявляет пошлые, 'низкие', осмеиваемые и морально презираемые,
+      низкопробные, вульгарные, неоригинальные, банальные качества согласно x2 (кому)
+      в аспекте x3; x1 - пошлый/ пошляк/ пошлячка / проявляет пошлость
+    notes:
+    - См. {mabla}
+    glosses:
+    - пошлость
+    - пошлый
+  zh:
+    place structure: x1展现出其是在道德上没有价值的（卑贱的/低俗的/下贱的/迂腐的），对于x2来说，在x3方面
+    notes:
+    - 也指：粗俗的/低贱的/虚伪的
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 poses derided, vulgar, commonplace, banal qualities according
+      to x2 in aspect x3
+    notes:
+    - No notes.
+    glosses:
+    - vulgar

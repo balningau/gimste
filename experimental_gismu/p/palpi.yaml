@@ -1,0 +1,31 @@
+word: palpi
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 palpates/palps/touch-feels x2 (surface structure)
+    notes:
+    - See {pencu}, {tengu}, {sefta}, {ganse}
+    glosses:
+    - palpate
+    - touch-feel
+  ru:
+    place structure: x1 пальпирует/чувствует x2 (структуру поверхности)
+    notes:
+    - См. {pencu}, {tengu}, {sefta}, {ganse}
+    glosses:
+    - пальпировать
+    - чувствовать структуру поверхности
+  zh:
+    place structure: x1用触须触碰/感受x2（表面结构）
+    notes:
+    - 参见 {pencu}, {sefta}, {ganse}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 touch-feels/palpates surface x2
+    notes:
+    - No notes.
+    glosses:
+    - the one who touch-feels

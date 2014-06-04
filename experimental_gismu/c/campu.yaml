@@ -1,0 +1,40 @@
+word: campu
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 (quantity) is a hair cleaning/care/maintenance/styling substance/product
+      for purpose x2 of composition x3; x1 is a quantity of hair product
+    notes:
+    - 'This word is something of a(n) .{u''ivla}.  Not restricted to only shampoo
+      (hair cleaning product); can include (but is not limited to): shampoo, conditioner,
+      hair mousse/gel, hair replenisher/grower (for baldness), hair coloring dye,
+      hair styling spray, and even shaving cream/foam; however, it should be a tool/substance
+      applied to hair semi-permanently, rather than applied to it only initially in
+      order to modify it for later (such as a crimper, curler, etc.) - in other words,
+      campu remains with the hair or is scrubbed in and then washed out in order to
+      function. Hair need not be human, of the top of the head, or even "real"/biological/belonging
+      to the individual in question - these characteristics may be specified by x2.
+      This word conflicts with {sampu} under the gismu-creation algorithm. See also:
+      {krevelylu''i}; {kerfrcampu} for non-gismu version of same word.'
+    glosses:
+    - No glosses.
+  ru:
+    place structure: x1 - это шампунь, средство, чистящее волосы или ухаживающее за
+      волосами, имеющая цель x2 (свойство)
+    notes:
+    - Слово-{u'ivla}.  Может включать шампуни, муссы и гели для головы, средства от
+      облысения, краску для волос и дажу пену для бритья. Однако, это должно быть
+      вещество, которое наносят на волосы непостоянно, а не применяется к голове только
+      первоначально того, чтобы изменить их для последующего использования (такие
+      как обжимные щипцы, бигуди и т.п. не являются {campu}). Другими словами, {campu}
+      остается на волосах или промывается, для того, чтобы он сработал. Волосы не
+      обязательно должны относиться к человеку, принадлежать верхней части головы
+      или даже быть "реальными"/биологическими для носителя волос - эти характеристики
+      могут быть определены в x2. См.  {krevelylu'i}, {kerfrcampu} (синоним слова
+      {campu})
+    glosses:
+    - гель для волос
+    - краска для волос
+    - шампунь

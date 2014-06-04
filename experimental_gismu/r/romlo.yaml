@@ -1,0 +1,36 @@
+word: romlo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 reflects Romani/Romany/gypsy culture/nationality/language
+      in aspect x2
+    notes:
+    - See also {kulnu}, {xindo}
+    glosses:
+    - Romani
+    - Romany
+    - gypsy
+  ru:
+    place structure: x1 относится к цыганской/Романи культуре/национальности/языку
+      в аспекте x2
+    notes:
+    - См. {kulnu}, {xindo}
+    glosses:
+    - романи
+    - цыган
+    - x1=цыганский
+  zh:
+    place structure: x1是关于吉普赛的文化/国家/语言等的事物，在x2方面
+    notes:
+    - 参见 {kulnu}, {xindo}
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 reflects Romani/Romany/gypsy culture/nationality/language
+      in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - gypsy

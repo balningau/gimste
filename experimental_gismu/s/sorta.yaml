@@ -1,0 +1,32 @@
+word: sorta
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 sorta is/does x2 (nu/ka) under conditions x3
+    notes:
+    - This is a joke word. Its main use is in the tanru {kinda} {sorta}
+    glosses:
+    - sorta
+  ru:
+    place structure: x1 вроде как/как бы/как будто [делает] x2 (nu/ka) в условиях
+      x3
+    notes:
+    - Шуточное слово. В основном используется в tanru {kinda} {sorta}
+    glosses:
+    - вроде как
+    - как будто
+    - как бы
+  zh:
+    place structure: x1近似是/做x2（nu/ka），在条件x3下
+    notes:
+    - 这是一个的词，用于与{kinda}或{sorta}构成tanru
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 sorta is/does x2 (ka)
+    notes:
+    - No notes.
+    glosses:
+    - x1=sorta

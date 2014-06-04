@@ -1,0 +1,32 @@
+word: rindo
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: x1 is Native American/Indian in aspect x2
+    notes:
+    - See also {abniena}, {niengatu}, {nienke'a}, {ancinabe}, {tsalagi}, {siksika}.
+    glosses:
+    - Indian (Native American)
+    - Native American
+  ru:
+    place structure: x1 - америндский/индейский/относящийся к культуре/языку американских
+      индейцев в аспекте x2
+    notes:
+    - См. также {abniena}, {niengatu}, {nienke'a}, {ancinabe}, {tsalagi}, {siksika}.
+    glosses:
+    - америндский
+    - индейский (американские индейцы)
+  zh:
+    place structure: x1是美洲土著/印第安人，在x2方面
+    notes:
+    - 参见 {abniena}, {niengatu}, {nienke'a}, {ancinabe}, {tsalagi}, {siksika}.
+    glosses:
+    - No glosses.
+  en-simple:
+    place structure: x1 is Native American/Indian in aspect x2
+    notes:
+    - No notes.
+    glosses:
+    - Native American

@@ -1,0 +1,20 @@
+word: pevna
+rafsi:
+- No rafsi.
+examples: No examples.
+definitions:
+  en:
+    place structure: 'x1: its qualities are represented as a metaphor x2 in dimension
+      $x_{3+1,2}$'
+    notes:
+    - x3 can include references to x1 and x2. See {pe'a}, {sidysmu}, {tanru}, {metfo},
+      {ve} {lujvo}, {cimjvo}
+    glosses:
+    - to be metaphorically described
+  ru:
+    place structure: 'x1: его свойства представлены метафорой x2 в измерении $x_{3+1,2}$'
+    notes:
+    - x3 может включать ссылки на x1 и x2. См. {pe'a}, {sidysmu}, {tanru}, {metfo},
+      {ve} {lujvo}, {cimjvo}
+    glosses:
+    - метафорически описываемый как
