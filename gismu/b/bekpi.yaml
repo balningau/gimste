@@ -1,7 +1,9 @@
 word: bekpi
 rafsi:
 - No rafsi.
-examples: No examples.
+examples:
+- jbo: ko catlu lo bekpi be mi
+  en: Look at my back.
 definitions:
   en:
     place structure: 'x1 is a/the ''back''/dorsum/''posterior'' body-part of x2 '
