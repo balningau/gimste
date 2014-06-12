@@ -1,6 +1,6 @@
 word: kibro
 rafsi:
-- No rafsi.
+- kib
 examples:
 - jbo: mi certu lo ka fukra'e lo selsampla lo kibro
   en: I am an expert in copying source code from the Internet.
@@ -10,7 +10,7 @@ definitions:
   en:
     place structure: x1 pertains to the internet/cyberspace in aspect x2.
     notes:
-    - Proposed by xorxes. Short rafsi -kib-. Cf. {mujysamseltcana}.
+    - see also {mujysamseltcana}.
     glosses:
     - cyberspace
     - x1=internet
