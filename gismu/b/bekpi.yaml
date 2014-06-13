@@ -4,6 +4,8 @@ rafsi:
 examples:
 - jbo: ko catlu lo bekpi be mi
   en: Look at my back.
+- jbo: lo bekpi be lo remna cu sraji .i je lo bekpi be lo xirma cu pinta
+  en: The backs of humans are upright, and the backs of horses are horizontal.
 definitions:
   en:
     place structure: 'x1 is a/the ''back''/dorsum/''posterior'' body-part of x2 '
