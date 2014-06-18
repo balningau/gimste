@@ -1,13 +1,17 @@
 word: bekpi
 rafsi:
-- No rafsi.
-examples: No examples.
+- bek
+examples:
+- jbo: ko catlu lo bekpi be mi
+  en: Look at my back.
+- jbo: lo bekpi be lo remna cu sraji .i je lo bekpi be lo xirma cu pinta
+  en: The backs of humans are upright, and the backs of horses are horizontal.
 definitions:
   en:
     place structure: 'x1 is a/the ''back''/dorsum/''posterior'' body-part of x2 '
     notes:
-    - Cf. {trixe}, {cutne}. Not necessarily should be at the back of the body. Determined
-      by bilateral symmetry of the body.
+    - Cf. {trixe}, {cutne}, {tolbekpi} for ventrum. Not necessarily at the back of the body;
+      Determined by bilateral symmetry of the body.
     glosses:
     - back of the body (dorsum)
     - dorsum
