@@ -1,7 +1,9 @@
 word: kanpe
 rafsi:
 - No rafsi.
-examples: No examples.
+examples:
+- jbo: mi kanpe lo nu carvi ba lo bavlamcte kei li pizemu
+  en: I expect a 75% chance of rain tomorrow night.
 definitions:
   en:
     place structure: x1 expects/looks for the occurence of x2 (event), expected likelihood
