@@ -1,0 +1,19 @@
+Summary:
+Remove "at location" places in words about buildings/structures like {canga} or {muzga}.
+
+Detailed description:
+The "at location" places in those words are unnecessary and cause the more useful places to be pushed to the right. "At location" can be expressed using {bu'u}/{di'o}/{tu'i} or by simply using a predicate {ti ckule gi'e diklo X} or {gi'e zvati X} or {gi'e se stuzi}. 
+
+Impact:
+The negative impact of this change is relatively small. Looking at the corpus, one can see that these places are almost never used. Furthermore, in the case of {ckule} and {cange}, there are usages that incorrectly use the old x2 assuming it is the old x3.
+I count the following usage numbers: 
+briju3 = 12, 
+cange2 = 10 (with at least 1 wrong usage), 
+ckule2 = 42 (with several using x2 as the taught subject), 
+malsi3 = 2,
+ginka3 = 0,
+muzga3 = 1,
+tumla2 = 4,
+xotli2 = 3
+
+This shows an overall extremely small usage percent of these places. In the case of {ckule} and {cange}, it moves the more useful places further back requiring people to perform awkward place skipping.
