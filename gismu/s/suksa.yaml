@@ -1,11 +1,10 @@
 word: suksa
 rafsi:
 - suk
-examples: No examples.
+examples: lo mlatu cu suksa lo ka canci
 definitions:
   en:
-    place structure: x1 (event/state) is sudden/sharply changes at stage/point x2
-      in process/property/function x3.
+    place structure: x1 is-sudden-in/suddenly-does x2 (ka)".
     notes:
     - Also abrupt, discontinuous.  See also {spaji}, {vitci}, {vlile}.
     glosses:
