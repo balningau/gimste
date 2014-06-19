@@ -1,0 +1,1 @@
+Remove "under conditions" places throughout the gimste. The places are so rarely needed and are never central to the definition, since a condition can alwayws be added to anything. When a condition needs to be specified, {va'o} can be used.
