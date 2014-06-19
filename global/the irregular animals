@@ -1,0 +1,9 @@
+Situation:
+There are four animal gismu with an irregular x3. These are: tirxu, vidru, lanme, and civla.
+
+Proposal:
+Remove the x3 of those words to make all the animals equal. 
+
+Impact:
+Usage breakage is imperceptible. The corpus shows zero uses of tirxu3 and 5 vidru3, and all the 5 lanme3 uses are jokes and insults. civla3 has 10 results, again including meta-jokes at the place structure.
+Gimste becomes more regular. These gismu places are common targets of ridicule.
