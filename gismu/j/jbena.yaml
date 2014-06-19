@@ -4,11 +4,9 @@ rafsi:
 examples: No examples.
 definitions:
   en:
-    place structure: x1 is born to x2 at time x3 [birthday] and place x4 [birthplace];
-      x1 is native to (fo) x4.
+    place structure: x1 is born to x2; x2 gives birth to x1.
     notes:
-    - 'x2 bears/gives birth to x1; also x3: natal day.  See also {fange}, {gutra},
-      {rorci}, {mamta}, {salci}, {citsi}.'
+    - 'See also {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}.'
     glosses:
     - born
   de:
