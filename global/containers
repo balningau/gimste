@@ -1,0 +1,5 @@
+Make every container gismu parallel the following pattern:
+
+"x1 is a <container> containing x2" (plus additional places where they are needed)
+
+In other words, remove the "intended for being filled with x2" idea everywhere and make the containers actually be filled with x2. This is way easier to handle.
