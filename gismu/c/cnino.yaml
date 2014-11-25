@@ -3,6 +3,31 @@ rafsi:
 - nin
 - ni'o
 examples: No examples.
+meta-definitions:
+  tags:
+    - place-structure.adjective-x1-with-parameters
+    # This tag indicates a gismu which asserts x1 has some attribute with some parameters.
+    # Parameters of an attribute typically give a frame of reference.
+    # These are pretty common in lojban. e.g.  x1 is a novelty.
+  places:
+    1:
+      gradable-antonym:
+        - slabu x1
+      # Meaning lies on a continuous spectrum.
+      # At what point does something stop becoming a novelty? At what point does it become old?
+      # https://en.wikipedia.org/wiki/Opposite_(semantics)#Gradable_antonyms
+    2:
+      correlated:
+        - slabu x2
+      # The x2 place of slabu correlates to the x2 place in cnino.
+      # The x2 place of slabu fills the same role in the slabu relationship
+      # as the x2 place of cnino does in the cnino relationship.
+    3:
+      correlated:
+        - slabu x4
+    4:
+      correlated:
+        - slabu x4
 definitions:
   en:
     place structure: x1 is new/unfamiliar/novel to observer x2 in feature x3 (ka)

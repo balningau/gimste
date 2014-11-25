@@ -2,6 +2,44 @@ word: nanba
 rafsi:
 - nab
 examples: No examples.
+meta-definitions:
+  tags:
+    - place-structure.noun-x1-with-parameters
+    # This tag indicates a gismu which relates some noun to some parameters of that noun.
+    # These are pretty common in lojban. e.g.  x1 is a ___ of species x2
+    - concept-class.specific-type
+    # https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction
+    # i.e. bread is a specific type of food
+    # If we were in another culture (or on another planet) this specific type may not be present/applicable.
+    # A specific subtype is not a universal concept, like "food".
+    # A specific subtype can still have more subtypes nested in them.
+  places:
+    1:
+      hypernym:
+        - cidja x1
+      synonym:
+        - gusta x2
+        - snuji x3
+        - stasu x2
+        - xagji x2
+    2:
+      hypernym:
+        - spati x1
+      synonym:
+        - gurni x1
+      hyponym:
+        - bavmi x1
+        - cunmi x1
+        - mavji x1
+        - maxri x1
+        - mraji x1
+        - rismi x1
+        - sobde x1
+        - sorgu x1
+        - zumri x1
+    # https://en.wikipedia.org/wiki/Synonym_ring
+    # These synsets should probably be somewhere separate, otherwise they will need to be
+    # duplicated and maintained in each of these referenced gismu's yaml files.
 definitions:
   en:
     place structure: x1 is a quantity of/contains bread [leavened or unleavened] made
