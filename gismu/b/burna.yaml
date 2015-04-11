@@ -4,8 +4,7 @@ rafsi:
 examples: No examples.
 definitions:
   en:
-    place structure: x1 is embarrassed/disconcerted/flustered/ill-at-ease about/under
-      conditions x2 (abstraction).
+    place structure: x1 is embarrassed/disconcerted/flustered/ill-at-ease about x2 (event).
     notes:
     - See also {cinmo}.
     glosses:
