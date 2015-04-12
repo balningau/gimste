@@ -4,7 +4,7 @@ rafsi:
 examples: No examples.
 definitions:
   en:
-    place structure: x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3.
+    place structure: x1 is a sheep/[lamb/ewe/ram] of species/breed x2.
     notes:
     - See also {kanba}, {sunla}.
     glosses:
